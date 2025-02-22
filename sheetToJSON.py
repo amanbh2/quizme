@@ -3,7 +3,7 @@ import json
 
 # Define input and output file paths
 input_file = "data/quizMeData.xlsx"
-output_file = "data/try.json"
+output_file = "data/all.json"
 
 # Read the Excel file
 df = pd.read_excel(input_file)

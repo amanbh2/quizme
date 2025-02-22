@@ -228,5 +228,105 @@
             "Guru Nanak",
             "Prithviraj Chouhan"
         ]
+    },
+    {
+        "question": "Dulari Devi from Bihar was awarded with Padma shri, she is associated with",
+        "answer": "Madhubani Art",
+        "choices": [
+            "Madhubani Art",
+            "Sikki Craft",
+            "Mithila Art",
+            "Patna Kalam"
+        ]
+    },
+    {
+        "question": "ICC Women Under-19 Cricket World Cup 2025 was held in ",
+        "answer": "Malaysia",
+        "choices": [
+            "Malaysia",
+            "India",
+            "Australia",
+            "Afghanistan"
+        ]
+    },
+    {
+        "question": "Which country won ICC Women Under-19 Circket World Cup 2025",
+        "answer": "India",
+        "choices": [
+            "India",
+            "South Africa",
+            "Australia",
+            "Pakistan"
+        ]
+    },
+    {
+        "question": "Which Indian state became first to enact Uniform Civil Code",
+        "answer": "Uttrakhand",
+        "choices": [
+            "Uttrakhand",
+            "Uttar Pradesh",
+            "Rajasthan",
+            "Maharashtra"
+        ]
+    },
+    {
+        "question": "Deepseek is related with",
+        "answer": "Artifical Intelligence",
+        "choices": [
+            "Artifical Intelligence",
+            "Quantum Computing",
+            "Space Technology",
+            "Defense Technology"
+        ]
+    },
+    {
+        "question": "Aero India 2025 was organised in which city",
+        "answer": "Bengaluru",
+        "choices": [
+            "Bengaluru",
+            "Mumbai",
+            "Delhi",
+            "Chennai"
+        ]
+    },
+    {
+        "question": "Rekha Gupta newly elected Chief Minister of Delhi has won from which assembly seat",
+        "answer": "Shalimar Bagh",
+        "choices": [
+            "Shalimar Bagh",
+            "New Delhi",
+            "Kalkaji",
+            "Moti Nagar"
+        ]
+    },
+    {
+        "question": "In which state Jaitapur Nuclear Power Project (JNPP) is proposed to be built",
+        "answer": "Maharastra",
+        "choices": [
+            "Maharastra",
+            "Karnataka",
+            "Tamil Nadu",
+            "Gujarat"
+        ]
+    },
+    {
+        "question": "AI Action Summit 2025 was held in which country",
+        "answer": "France",
+        "choices": [
+            "France",
+            "USA",
+            "India",
+            "UK"
+        ]
+    },
+    {
+        "question": "Which country would host next AI Action Summit",
+        "answer": "India",
+        "choices": [
+            "India",
+            "France",
+            "USA",
+            "UK"
+        ]
     }
 ]
