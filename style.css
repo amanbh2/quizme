@@ -11,6 +11,10 @@ body{
     background-color: #f5f5f5;
 }
 
+a{
+    color: #333;
+}
+
 #header{
     height: 50px;
     text-align: center;
@@ -27,7 +31,7 @@ body{
 
 .container {
     width: 90%;
-    margin: 100px auto 40px;
+    margin: 80px auto 40px;
     background: white;
     padding: 20px;
     /* border-radius: 20px; */
@@ -95,3 +99,29 @@ body{
 #restart-btn:hover {
     transform: rotate(-180deg);
 }
+
+#footer{
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    font-size: small;
+}
+#github{
+    position: fixed;
+    bottom: 35px;
+    width: 100%;
+    text-align: center;
+    font-size: small;
+}
+#github>a{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+@media screen and (min-width: 480px) {
+    .container{
+        width: 60%;
+        padding: 50px;
+    }
+  }
