@@ -38,6 +38,9 @@ function shuffleArray(array) {
 function showQuestion() {
     const quizContainer = document.getElementById("quiz-container");
     quizContainer.innerHTML = "";
+
+    const streak = document.getElementById("streak");
+    streak.innerHTML = `${usedIndexes.size} <i class="fa-solid fa-fire"></i> ${questions.length}`;
     
     currentQuestionIndex = getRandomIndex();
     

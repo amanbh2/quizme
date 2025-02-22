@@ -31,7 +31,7 @@ a{
 
 .container {
     width: 90%;
-    margin: 80px auto 40px;
+    margin: 40px auto 40px;
     background: white;
     padding: 20px;
     /* border-radius: 20px; */
@@ -100,6 +100,16 @@ a{
     transform: rotate(-180deg);
 }
 
+#streakBoard {
+    width: 100%;
+    margin: 50px auto 0;
+    background: transparent;
+    color: #333;
+    display: grid;
+    place-items: center;
+
+}
+
 #footer{
     position: fixed;
     bottom: 10px;
@@ -123,5 +133,6 @@ a{
     .container{
         width: 60%;
         padding: 50px;
+        margin-bottom: 20px;
     }
   }
