@@ -1,64 +1,97 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    color: #333;
+    font-family: "Outfit", serif;
+    background-color: #f5f5f5;
+}
+
+#header{
+    height: 50px;
     text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: white;
+    display: grid;
+    place-items: center;
+    grid-template-columns: 50px auto 50px;
+    box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+    font-family: "Outfit", serif;
+
 }
 
 .container {
-    width: 50%;
-    margin: auto;
+    width: 90%;
+    margin: 100px auto 40px;
     background: white;
     padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-}
-
-h1 {
-    color: #333;
+    /* border-radius: 20px; */
+    box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
 }
 
 .question {
     font-size: 18px;
     font-weight: bold;
-    margin: 10px 0;
+    margin: 10px 0 30px 0;
 }
 
 .choices button {
     display: block;
     width: 100%;
-    margin: 5px 0;
-    padding: 10px;
+    margin: 25px 0;
+    height: 40px;
     font-size: 16px;
+    /* font-weight: bold; */
     border: none;
-    background: #007bff;
-    color: white;
+    /* background: #007bff; */
+    color: #333;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 25px;
+    border: 2px #333 solid;
 }
 
 .choices button:hover {
-    background: #0056b3;
+    background: #333;
+    color: white;
+    font-weight: bold;
+    border: none;
 }
 
 .choices button.correct {
     background: #28a745 !important;
+    color: white;
+    font-weight: bold;
+    border: none;
 }
 
 .choices button.wrong {
     background: #dc3545 !important;
+    color: white;
+    font-weight: bold;
+    border: none;
 }
 
-button#restart-btn {
-    margin-top: 20px;
-    padding: 10px 15px;
-    background: #ff9800;
-    color: white;
+#restart-btn {
+    margin: 0 auto;
+    height: 50px;
+    width: 50px;
+    background: transparent;
+    color: #333;
     border: none;
-    font-size: 16px;
+    font-size: 32px;
     border-radius: 5px;
     cursor: pointer;
+    display: grid;
+    place-items: center;
+    transition: all 0.5s ease;
+    outline: none;
 }
 
-button#restart-btn:hover {
-    background: #e68900;
+#restart-btn:hover {
+    transform: rotate(-180deg);
 }

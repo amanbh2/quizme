@@ -13,7 +13,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 function startQuiz() {
     currentQuestionIndex = 0;
-    document.getElementById("restart-btn").style.display = "none";
     showQuestion();
 }
 
@@ -23,7 +22,6 @@ function showQuestion() {
 
     if (currentQuestionIndex >= questions.length) {
         quizContainer.innerHTML = `<h2>Quiz Completed!</h2>`;
-        document.getElementById("restart-btn").style.display = "block";
         return;
     }
 
@@ -31,7 +29,7 @@ function showQuestion() {
     const questionDiv = document.createElement("div");
 
     questionDiv.innerHTML = `
-        <p class="question">${currentQuestionIndex + 1}. ${questionData.question}</p>
+        <p class="question">${questionData.question}</p>
         <div class="choices">
             ${questionData.choices.map(choice => `
                 <button onclick="checkAnswer('${choice}', '${questionData.answer}')">${choice}</button>
@@ -51,7 +49,6 @@ function checkAnswer(selectedChoice, correctAnswer) {
         }
         if (button.innerText === selectedChoice && selectedChoice !== correctAnswer) {
             button.classList.add("wrong");
-            document.getElementById("restart-btn").style.display = "block";
         }
         button.disabled = true;
     });
