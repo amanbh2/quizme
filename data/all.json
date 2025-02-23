@@ -328,5 +328,295 @@
             "USA",
             "UK"
         ]
+    },
+    {
+        "question": "Who was the host for ICC Champions Trophy 2025",
+        "answer": "Pakistan",
+        "choices": [
+            "Pakistan",
+            "India",
+            "Australia",
+            "New Zealand"
+        ]
+    },
+    {
+        "question": "In Guillian Barre's Syndrome (GBS), immune system attacks it's own",
+        "answer": "Nerve Cells",
+        "choices": [
+            "Nerve Cells",
+            "Muscle Cells",
+            "Brain Cells",
+            "Blood Cells"
+        ]
+    },
+    {
+        "question": "Physics involves the study of",
+        "answer": "Nature & Natural Phenomena",
+        "choices": [
+            "Nature & Natural Phenomena",
+            "Humans",
+            "Birds & Animals",
+            "Plants"
+        ]
+    },
+    {
+        "question": "Classical Physics does not include subjects like",
+        "answer": "Elementary Particles",
+        "choices": [
+            "Elementary Particles",
+            "Mechanics",
+            "Heat",
+            "Sound"
+        ]
+    },
+    {
+        "question": "Size of universe is of the order of",
+        "answer": "10^26 m",
+        "choices": [
+            "10^26 m",
+            "10^18 m",
+            "10^40 m",
+            "10^16 m"
+        ]
+    },
+    {
+        "question": "Einstein was awarded Nobel Prize in Physics for",
+        "answer": "Law of Photoelectric Effect",
+        "choices": [
+            "Law of Photoelectric Effect",
+            "Theory of Relativity",
+            "Law of Gravition",
+            "Special Relativity"
+        ]
+    },
+    {
+        "question": "Fundamental unit of luminous intensity",
+        "answer": "Candela",
+        "choices": [
+            "Candela",
+            "Watt",
+            "Joule",
+            "Lux"
+        ]
+    },
+    {
+        "question": "Weber is derived unit of",
+        "answer": "Magnetic Flux",
+        "choices": [
+            "Magnetic Flux",
+            "Magnetic Moment",
+            "Luminous Flux",
+            "None of these"
+        ]
+    },
+    {
+        "question": "The prefix femto stands for",
+        "answer": "10^-15",
+        "choices": [
+            "10^-15",
+            "10^15",
+            "10^12",
+            "10^-12"
+        ]
+    },
+    {
+        "question": "Number of basic SI Unit is ",
+        "answer": 7,
+        "choices": [
+            7,
+            6,
+            8,
+            5
+        ]
+    },
+    {
+        "question": "Light-year is a unit of ",
+        "answer": "Distance",
+        "choices": [
+            "Distance",
+            "Light",
+            "Intensity of Light",
+            "Time"
+        ]
+    },
+    {
+        "question": "Speed of light in a vacuum is approximately ",
+        "answer": "3 x 10^8 m/s",
+        "choices": [
+            "3 x 10^8 m/s",
+            "3 x 10^8 km/s",
+            "3 x 10^6 m/s",
+            "3 x 10^6 km/s"
+        ]
+    },
+    {
+        "question": "Ampere is unit of",
+        "answer": "Electric Current",
+        "choices": [
+            "Electric Current",
+            "Electric Charge",
+            "Magentic Flux",
+            "Electric Resistance"
+        ]
+    },
+    {
+        "question": "SI unit of pressure",
+        "answer": "Pascal",
+        "choices": [
+            "Pascal",
+            "Dyne",
+            "Newton",
+            "Joule"
+        ]
+    },
+    {
+        "question": "Decibel is unit of",
+        "answer": "Intensity of Sound",
+        "choices": [
+            "Intensity of Sound",
+            "Intensity of Light",
+            "Speed of Light",
+            "None of these"
+        ]
+    },
+    {
+        "question": "SI unit of electric charge",
+        "answer": "Coulomb",
+        "choices": [
+            "Coulomb",
+            "Volts",
+            "Ohm",
+            "Ampere"
+        ]
+    },
+    {
+        "question": "One astronomical unit (AU) is the average distance between",
+        "answer": "Earth & Sun",
+        "choices": [
+            "Earth & Sun",
+            "Earth & Moon",
+            "Sun & Moon",
+            "Sun & Pluto"
+        ]
+    },
+    {
+        "question": "Physical quantity without any unit",
+        "answer": "Strain",
+        "choices": [
+            "Strain",
+            "Stress",
+            "Force",
+            "Pressure"
+        ]
+    },
+    {
+        "question": "One Newton equals to",
+        "answer": "1 Kg m/s^2",
+        "choices": [
+            "1 Kg m/s^2",
+            "1 Kg m s",
+            "1 Kg m/s",
+            "1 Kg m s^2"
+        ]
+    },
+    {
+        "question": "SI unit of acceleration is",
+        "answer": "m/s^2",
+        "choices": [
+            "m/s^2",
+            "m/s",
+            "ms",
+            "ms^2"
+        ]
+    },
+    {
+        "question": "SI unit of electric resistance is",
+        "answer": "Ohm",
+        "choices": [
+            "Ohm",
+            "Ampere",
+            "Volt",
+            "Coulomb"
+        ]
+    },
+    {
+        "question": "1 kWh equals to",
+        "answer": "3.6 x 10^6 J",
+        "choices": [
+            "3.6 x 10^6 J",
+            "3.6 x 10^5 J",
+            "3.6 x 10^-6 J",
+            "3.6 x 10^-5 J"
+        ]
+    },
+    {
+        "question": "Electric Potential is measured in",
+        "answer": "Joule / Coulomb",
+        "choices": [
+            "Joule / Coulomb",
+            "Watt",
+            "Newton-second",
+            "Joule"
+        ]
+    },
+    {
+        "question": "Which of the following pairs have the same units",
+        "answer": "Work & Energy",
+        "choices": [
+            "Work & Energy",
+            "Force & Pressure",
+            "Power & Energy",
+            "Force & Work"
+        ]
+    },
+    {
+        "question": "Rate of change of momentum of a body is ",
+        "answer": "Impulse",
+        "choices": [
+            "Impulse",
+            "Energy",
+            "Power",
+            "Force"
+        ]
+    },
+    {
+        "question": "SI unit of power is",
+        "answer": "Watt",
+        "choices": [
+            "Watt",
+            "Joule-Second",
+            "Joule",
+            "Newton-Second"
+        ]
+    },
+    {
+        "question": "Which of the following equations represents Pressure in Physics",
+        "answer": "Force / Area",
+        "choices": [
+            "Force / Area",
+            "Force x Area",
+            "Mass / Acceleration",
+            "Mass x Acceleration"
+        ]
+    },
+    {
+        "question": "Which of the following is a scalar quantity",
+        "answer": "Mass",
+        "choices": [
+            "Mass",
+            "Momentum",
+            "Weight",
+            "Gravity"
+        ]
+    },
+    {
+        "question": "One horsepower is approximately equal to",
+        "answer": "746 W",
+        "choices": [
+            "746 W",
+            "647 W",
+            "476 W",
+            "764 W"
+        ]
     }
 ]
