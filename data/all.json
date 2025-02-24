@@ -618,5 +618,45 @@
             "476 W",
             "764 W"
         ]
+    },
+    {
+        "question": "Quantum Computer Chip developed by Microsoft",
+        "answer": "Majorana 1",
+        "choices": [
+            "Majorana 1",
+            "Willow",
+            "Lucy",
+            "Maxwell"
+        ]
+    },
+    {
+        "question": "Quantum Computer Chip developed by Google",
+        "answer": "Willow",
+        "choices": [
+            "Willow",
+            "Majorana1",
+            "Lucy",
+            "Maxwell"
+        ]
+    },
+    {
+        "question": "Panchayat Devolution Index prepared by IIPA considers how many dimensons",
+        "answer": 6,
+        "choices": [
+            6,
+            5,
+            7,
+            4
+        ]
+    },
+    {
+        "question": "Which state tops the Panchayat Devolution Index this year",
+        "answer": "Karnataka",
+        "choices": [
+            "Karnataka",
+            "Bihar",
+            "Kerala",
+            "Tamil Nadu"
+        ]
     }
 ]
