@@ -658,5 +658,15 @@
             "Kerala",
             "Tamil Nadu"
         ]
+    },
+    {
+        "question": "A folk dance of Assam Tea Tribe and Adivasi Communities of Assam",
+        "answer": "Jhumoir Binandini / Jhumur",
+        "choices": [
+            "Jhumoir Binandini / Jhumur",
+            "Bihu",
+            "Bhortal",
+            "Bardo Chham"
+        ]
     }
 ]
