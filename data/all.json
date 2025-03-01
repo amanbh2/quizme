@@ -738,5 +738,75 @@
             "Kabir",
             "Rahim"
         ]
+    },
+    {
+        "question": "What is the size of Bihar's economy at current price in 2023-24",
+        "answer": "8.54 lakh crore",
+        "choices": [
+            "8.54 lakh crore",
+            "4.64 lakh crore",
+            "6.82 lakh crore",
+            "9.32 lakh crore"
+        ]
+    },
+    {
+        "question": "Growth in Bihar's GSDP at current price for year 2023-24",
+        "answer": 0.145,
+        "choices": [
+            0.145,
+            0.092,
+            0.1,
+            0.11
+        ]
+    },
+    {
+        "question": "Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
+        "answer": 0.092,
+        "choices": [
+            0.092,
+            0.145,
+            0.1,
+            0.11
+        ]
+    },
+    {
+        "question": "Which economic sector is the hightest contributor in Bihar state GVA for year 2023-24",
+        "answer": "Tertiary",
+        "choices": [
+            "Tertiary",
+            "Primary",
+            "Secondary",
+            "Tourism"
+        ]
+    },
+    {
+        "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
+        "answer": 0.586,
+        "choices": [
+            0.586,
+            0.215,
+            0.199,
+            0.11
+        ]
+    },
+    {
+        "question": "Industry contributing the most in Bihar state GVA for year 2023-24",
+        "answer": "Non-Metallic Mineral Production",
+        "choices": [
+            "Non-Metallic Mineral Production",
+            "Food Processing",
+            "Cement",
+            "Textile"
+        ]
+    },
+    {
+        "question": "How much Bihar contributes in total Makhana production of India",
+        "answer": 0.85,
+        "choices": [
+            0.85,
+            0.9,
+            0.8,
+            0.75
+        ]
     }
 ]
