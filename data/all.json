@@ -751,22 +751,22 @@
     },
     {
         "question": "Growth in Bihar's GSDP at current price for year 2023-24",
-        "answer": 0.145,
+        "answer": "14.5 percentage",
         "choices": [
-            0.145,
-            0.092,
-            0.1,
-            0.11
+            "14.5 percentage",
+            "9.2 percentage",
+            "10 percentage",
+            "11 percentage"
         ]
     },
     {
         "question": "Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
-        "answer": 0.092,
+        "answer": "9.2 percentage",
         "choices": [
-            0.092,
-            0.145,
-            0.1,
-            0.11
+            "9.2 percentage",
+            "14.5 percentage",
+            "10 percentage",
+            "11 percentage"
         ]
     },
     {
@@ -776,17 +776,17 @@
             "Tertiary",
             "Primary",
             "Secondary",
-            "Tourism"
+            NaN
         ]
     },
     {
         "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
-        "answer": 0.586,
+        "answer": "58.6 percentage",
         "choices": [
-            0.586,
-            0.215,
-            0.199,
-            0.11
+            "58.6 percentage",
+            "21.5 percentage",
+            "19.9 percentage",
+            "11 percentage"
         ]
     },
     {
@@ -801,12 +801,12 @@
     },
     {
         "question": "How much Bihar contributes in total Makhana production of India",
-        "answer": 0.85,
+        "answer": "85 percentage",
         "choices": [
-            0.85,
-            0.9,
-            0.8,
-            0.75
+            "85 percentage",
+            "90 percentage",
+            "80 percentage",
+            "75 percentage"
         ]
     }
 ]
