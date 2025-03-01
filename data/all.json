@@ -661,12 +661,82 @@
     },
     {
         "question": "A folk dance of Assam Tea Tribe and Adivasi Communities of Assam",
-        "answer": "Jhumoir Binandini / Jhumur",
+        "answer": "Jhumoir / Jhumur",
         "choices": [
-            "Jhumoir Binandini / Jhumur",
+            "Jhumoir / Jhumur",
             "Bihu",
             "Bhortal",
             "Bardo Chham"
+        ]
+    },
+    {
+        "question": "Name of new space telescope being developed by NASA for mapping universe",
+        "answer": "SPHEREx",
+        "choices": [
+            "SPHEREx",
+            "James Webb Space Telescope",
+            "Wide Field Infrared Survey Explorer",
+            "Euclid"
+        ]
+    },
+    {
+        "question": "SPHEREx is designed to create map of entire sky in how many different colour bands",
+        "answer": 102,
+        "choices": [
+            102,
+            101,
+            100,
+            103
+        ]
+    },
+    {
+        "question": "SPHEREx will operate in which frequency range of light",
+        "answer": "Visible & Infrared",
+        "choices": [
+            "Visible & Infrared",
+            "Visible & Ultraviolet",
+            "Ultraviolet & Infrared",
+            "Visible & Xray"
+        ]
+    },
+    {
+        "question": "The first woman to become the president of European Commission",
+        "answer": "Ursula von der Leyen",
+        "choices": [
+            "Ursula von der Leyen",
+            "Teresa Ribera",
+            "Henna Virkkunen",
+            "Kaja Kallas"
+        ]
+    },
+    {
+        "question": "Name the gas which leaked in Bhopal Gas Tragedy",
+        "answer": "Methyl Isocynate",
+        "choices": [
+            "Methyl Isocynate",
+            "Ethyl Isocynate",
+            "Propyl Isocynate",
+            "Butyl Iscoynate"
+        ]
+    },
+    {
+        "question": "Molecular formula of Methyl Isocynate",
+        "answer": "C2H3NO",
+        "choices": [
+            "C2H3NO",
+            "C3H5NO",
+            "C4H7NO",
+            "C4H9NO"
+        ]
+    },
+    {
+        "question": "Who is referred as Parrot of India / Tuti-e-Hind",
+        "answer": "Amir Khusaro",
+        "choices": [
+            "Amir Khusaro",
+            "Rumi",
+            "Kabir",
+            "Rahim"
         ]
     }
 ]

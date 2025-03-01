@@ -1,41 +1,51 @@
-*{
-    padding: 0px;
-    margin: 0px;
+/* Define color variables for easy customization */
+:root {
+    --bg-color: #0d1117;
+    --text-color: #c9d1d9;
+    --primary-color: #58a6ff;
+    --secondary-color: #161b22;
+    --correct-color: #238636;
+    --wrong-color: #d73a49;
+    --button-border-color: #30363d;
+}
+
+* {
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     font-size: 16px;
-    color: #333;
+    color: var(--text-color);
     font-family: "Outfit", serif;
-    background-color: #f5f5f5;
+    background-color: var(--bg-color);
 }
 
-a{
-    color: #333;
+a {
+    color: var(--primary-color);
 }
 
-#header{
+#header {
     height: 50px;
     text-align: center;
     font-weight: bold;
     font-size: 20px;
-    background-color: white;
+    background-color: var(--secondary-color);
+    color: var(--text-color);
     display: grid;
     place-items: center;
     grid-template-columns: 50px auto 50px;
-    box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 7px 29px 0px;
     font-family: "Outfit", serif;
-
 }
 
 .container {
     width: 90%;
-    margin: 40px auto 40px;
-    background: white;
+    margin: 40px auto;
+    background: var(--secondary-color);
     padding: 20px;
-    /* border-radius: 20px; */
-    box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 7px 29px 0px;
 }
 
 .question {
@@ -50,31 +60,30 @@ a{
     margin: 25px 0;
     height: 40px;
     font-size: 16px;
-    /* font-weight: bold; */
-    border: none;
-    /* background: #007bff; */
-    color: #333;
+    border: 2px solid var(--button-border-color);
+    color: var(--text-color);
+    background: transparent;
     cursor: pointer;
     border-radius: 25px;
-    border: 2px #333 solid;
+    transition: 0.3s;
 }
 
 .choices button:hover {
-    background: #333;
+    background: var(--primary-color);
     color: white;
     font-weight: bold;
     border: none;
 }
 
 .choices button.correct {
-    background: #28a745 !important;
+    background: var(--correct-color) !important;
     color: white;
     font-weight: bold;
     border: none;
 }
 
 .choices button.wrong {
-    background: #dc3545 !important;
+    background: var(--wrong-color) !important;
     color: white;
     font-weight: bold;
     border: none;
@@ -85,7 +94,7 @@ a{
     height: 50px;
     width: 50px;
     background: transparent;
-    color: #333;
+    color: var(--text-color);
     border: none;
     font-size: 32px;
     border-radius: 5px;
@@ -104,35 +113,37 @@ a{
     width: 100%;
     margin: 50px auto 0;
     background: transparent;
-    color: #333;
+    color: var(--text-color);
     display: grid;
     place-items: center;
-
 }
 
-#footer{
+#footer, #github {
     position: fixed;
+    width: 100%;
+    text-align: center;
+    font-size: small;
+    color: var(--text-color);
+}
+
+#footer {
     bottom: 10px;
-    width: 100%;
-    text-align: center;
-    font-size: small;
 }
-#github{
-    position: fixed;
+
+#github {
     bottom: 35px;
-    width: 100%;
-    text-align: center;
-    font-size: small;
 }
-#github>a{
+
+#github > a {
     padding-left: 5px;
     padding-right: 5px;
+    color: var(--text-color);
 }
 
 @media screen and (min-width: 480px) {
-    .container{
+    .container {
         width: 60%;
         padding: 50px;
         margin-bottom: 20px;
     }
-  }
+}
