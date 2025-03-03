@@ -808,5 +808,35 @@
             "C4H7NO",
             "C4H9NO"
         ]
+    },
+    {
+        "question": "Department with highest Bihar's budget allocation for year 2025-26",
+        "answer": "Education",
+        "choices": [
+            "Education",
+            "Health",
+            "Rural Development",
+            "Agriculture"
+        ]
+    },
+    {
+        "question": "What is the size of budget as mentioned in Bihar's Budget for year 2025-26",
+        "answer": "3.17 lakh crore",
+        "choices": [
+            "3.17 lakh crore",
+            "1.37 lakh crore",
+            "7.31 lakh crore",
+            "1.73 lakh crore"
+        ]
+    },
+    {
+        "question": "Center of excellence for jaggery is proposed in which district of Bihar",
+        "answer": "Samastipur",
+        "choices": [
+            "Samastipur",
+            "Darbhanga",
+            "Muzaffarpur",
+            "Patna"
+        ]
     }
 ]
