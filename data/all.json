@@ -350,6 +350,186 @@
         ]
     },
     {
+        "question": "Quantum Computer Chip developed by Microsoft",
+        "answer": "Majorana 1",
+        "choices": [
+            "Majorana 1",
+            "Willow",
+            "Lucy",
+            "Maxwell"
+        ]
+    },
+    {
+        "question": "Quantum Computer Chip developed by Google",
+        "answer": "Willow",
+        "choices": [
+            "Willow",
+            "Majorana1",
+            "Lucy",
+            "Maxwell"
+        ]
+    },
+    {
+        "question": "Panchayat Devolution Index prepared by IIPA considers how many dimensons",
+        "answer": 6,
+        "choices": [
+            6,
+            5,
+            7,
+            4
+        ]
+    },
+    {
+        "question": "Which state tops the Panchayat Devolution Index this year",
+        "answer": "Karnataka",
+        "choices": [
+            "Karnataka",
+            "Bihar",
+            "Kerala",
+            "Tamil Nadu"
+        ]
+    },
+    {
+        "question": "A folk dance of Assam Tea Tribe and Adivasi Communities of Assam",
+        "answer": "Jhumoir / Jhumur",
+        "choices": [
+            "Jhumoir / Jhumur",
+            "Bihu",
+            "Bhortal",
+            "Bardo Chham"
+        ]
+    },
+    {
+        "question": "Name of new space telescope being developed by NASA for mapping universe",
+        "answer": "SPHEREx",
+        "choices": [
+            "SPHEREx",
+            "James Webb Space Telescope",
+            "Wide Field Infrared Survey Explorer",
+            "Euclid"
+        ]
+    },
+    {
+        "question": "SPHEREx is designed to create map of entire sky in how many different colour bands",
+        "answer": 102,
+        "choices": [
+            102,
+            101,
+            100,
+            103
+        ]
+    },
+    {
+        "question": "SPHEREx will operate in which frequency range of light",
+        "answer": "Visible & Infrared",
+        "choices": [
+            "Visible & Infrared",
+            "Visible & Ultraviolet",
+            "Ultraviolet & Infrared",
+            "Visible & Xray"
+        ]
+    },
+    {
+        "question": "The first woman to become the president of European Commission",
+        "answer": "Ursula von der Leyen",
+        "choices": [
+            "Ursula von der Leyen",
+            "Teresa Ribera",
+            "Henna Virkkunen",
+            "Kaja Kallas"
+        ]
+    },
+    {
+        "question": "Name the gas which leaked in Bhopal Gas Tragedy",
+        "answer": "Methyl Isocynate",
+        "choices": [
+            "Methyl Isocynate",
+            "Ethyl Isocynate",
+            "Propyl Isocynate",
+            "Butyl Iscoynate"
+        ]
+    },
+    {
+        "question": "Who is referred as Parrot of India / Tuti-e-Hind",
+        "answer": "Amir Khusaro",
+        "choices": [
+            "Amir Khusaro",
+            "Rumi",
+            "Kabir",
+            "Rahim"
+        ]
+    },
+    {
+        "question": "What is the size of Bihar's economy at current price in 2023-24",
+        "answer": "8.54 lakh crore",
+        "choices": [
+            "8.54 lakh crore",
+            "4.64 lakh crore",
+            "6.82 lakh crore",
+            "9.32 lakh crore"
+        ]
+    },
+    {
+        "question": "Growth in Bihar's GSDP at current price for year 2023-24",
+        "answer": "14.5 percentage",
+        "choices": [
+            "14.5 percentage",
+            "9.2 percentage",
+            "10 percentage",
+            "11 percentage"
+        ]
+    },
+    {
+        "question": "Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
+        "answer": "9.2 percentage",
+        "choices": [
+            "9.2 percentage",
+            "14.5 percentage",
+            "10 percentage",
+            "11 percentage"
+        ]
+    },
+    {
+        "question": "Which economic sector is the hightest contributor in Bihar state GVA for year 2023-24",
+        "answer": "Tertiary",
+        "choices": [
+            "Tertiary",
+            "Primary",
+            "Secondary",
+            "Tourism"
+        ]
+    },
+    {
+        "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
+        "answer": "58.6 percentage",
+        "choices": [
+            "58.6 percentage",
+            "21.5 percentage",
+            "19.9 percentage",
+            "11 percentage"
+        ]
+    },
+    {
+        "question": "Industry contributing the most in Bihar state GVA for year 2023-24",
+        "answer": "Non-Metallic Mineral Production",
+        "choices": [
+            "Non-Metallic Mineral Production",
+            "Food Processing",
+            "Cement",
+            "Textile"
+        ]
+    },
+    {
+        "question": "How much Bihar contributes in total Makhana production of India",
+        "answer": "85 percentage",
+        "choices": [
+            "85 percentage",
+            "90 percentage",
+            "80 percentage",
+            "75 percentage"
+        ]
+    },
+    {
         "question": "Physics involves the study of",
         "answer": "Nature & Natural Phenomena",
         "choices": [
@@ -620,106 +800,6 @@
         ]
     },
     {
-        "question": "Quantum Computer Chip developed by Microsoft",
-        "answer": "Majorana 1",
-        "choices": [
-            "Majorana 1",
-            "Willow",
-            "Lucy",
-            "Maxwell"
-        ]
-    },
-    {
-        "question": "Quantum Computer Chip developed by Google",
-        "answer": "Willow",
-        "choices": [
-            "Willow",
-            "Majorana1",
-            "Lucy",
-            "Maxwell"
-        ]
-    },
-    {
-        "question": "Panchayat Devolution Index prepared by IIPA considers how many dimensons",
-        "answer": 6,
-        "choices": [
-            6,
-            5,
-            7,
-            4
-        ]
-    },
-    {
-        "question": "Which state tops the Panchayat Devolution Index this year",
-        "answer": "Karnataka",
-        "choices": [
-            "Karnataka",
-            "Bihar",
-            "Kerala",
-            "Tamil Nadu"
-        ]
-    },
-    {
-        "question": "A folk dance of Assam Tea Tribe and Adivasi Communities of Assam",
-        "answer": "Jhumoir / Jhumur",
-        "choices": [
-            "Jhumoir / Jhumur",
-            "Bihu",
-            "Bhortal",
-            "Bardo Chham"
-        ]
-    },
-    {
-        "question": "Name of new space telescope being developed by NASA for mapping universe",
-        "answer": "SPHEREx",
-        "choices": [
-            "SPHEREx",
-            "James Webb Space Telescope",
-            "Wide Field Infrared Survey Explorer",
-            "Euclid"
-        ]
-    },
-    {
-        "question": "SPHEREx is designed to create map of entire sky in how many different colour bands",
-        "answer": 102,
-        "choices": [
-            102,
-            101,
-            100,
-            103
-        ]
-    },
-    {
-        "question": "SPHEREx will operate in which frequency range of light",
-        "answer": "Visible & Infrared",
-        "choices": [
-            "Visible & Infrared",
-            "Visible & Ultraviolet",
-            "Ultraviolet & Infrared",
-            "Visible & Xray"
-        ]
-    },
-    {
-        "question": "The first woman to become the president of European Commission",
-        "answer": "Ursula von der Leyen",
-        "choices": [
-            "Ursula von der Leyen",
-            "Teresa Ribera",
-            "Henna Virkkunen",
-            "Kaja Kallas"
-        ]
-    },
-    {
-        "question": "Name the gas which leaked in Bhopal Gas Tragedy",
-        "answer": "Methyl Isocynate",
-        "choices": [
-            "Methyl Isocynate",
-            "Ethyl Isocynate",
-            "Propyl Isocynate",
-            "Butyl Iscoynate"
-        ]
-    },
-    {
         "question": "Molecular formula of Methyl Isocynate",
         "answer": "C2H3NO",
         "choices": [
@@ -727,86 +807,6 @@
             "C3H5NO",
             "C4H7NO",
             "C4H9NO"
-        ]
-    },
-    {
-        "question": "Who is referred as Parrot of India / Tuti-e-Hind",
-        "answer": "Amir Khusaro",
-        "choices": [
-            "Amir Khusaro",
-            "Rumi",
-            "Kabir",
-            "Rahim"
-        ]
-    },
-    {
-        "question": "What is the size of Bihar's economy at current price in 2023-24",
-        "answer": "8.54 lakh crore",
-        "choices": [
-            "8.54 lakh crore",
-            "4.64 lakh crore",
-            "6.82 lakh crore",
-            "9.32 lakh crore"
-        ]
-    },
-    {
-        "question": "Growth in Bihar's GSDP at current price for year 2023-24",
-        "answer": "14.5 percentage",
-        "choices": [
-            "14.5 percentage",
-            "9.2 percentage",
-            "10 percentage",
-            "11 percentage"
-        ]
-    },
-    {
-        "question": "Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
-        "answer": "9.2 percentage",
-        "choices": [
-            "9.2 percentage",
-            "14.5 percentage",
-            "10 percentage",
-            "11 percentage"
-        ]
-    },
-    {
-        "question": "Which economic sector is the hightest contributor in Bihar state GVA for year 2023-24",
-        "answer": "Tertiary",
-        "choices": [
-            "Tertiary",
-            "Primary",
-            "Secondary",
-            NaN
-        ]
-    },
-    {
-        "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
-        "answer": "58.6 percentage",
-        "choices": [
-            "58.6 percentage",
-            "21.5 percentage",
-            "19.9 percentage",
-            "11 percentage"
-        ]
-    },
-    {
-        "question": "Industry contributing the most in Bihar state GVA for year 2023-24",
-        "answer": "Non-Metallic Mineral Production",
-        "choices": [
-            "Non-Metallic Mineral Production",
-            "Food Processing",
-            "Cement",
-            "Textile"
-        ]
-    },
-    {
-        "question": "How much Bihar contributes in total Makhana production of India",
-        "answer": "85 percentage",
-        "choices": [
-            "85 percentage",
-            "90 percentage",
-            "80 percentage",
-            "75 percentage"
         ]
     }
 ]

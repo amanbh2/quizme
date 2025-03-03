@@ -45,7 +45,7 @@ function showQuestion() {
     currentQuestionIndex = getRandomIndex();
     
     if (currentQuestionIndex === -1) {
-        quizContainer.innerHTML = `<h2>Quiz Completed!</h2>`;
+        quizContainer.innerHTML = `<h2>Quiz Completed! 🥳</h2>`;
         return;
     }
     
