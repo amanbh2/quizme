@@ -838,5 +838,55 @@
             "Muzaffarpur",
             "Patna"
         ]
+    },
+    {
+        "question": "The academy (Oscar) Best picture award went to",
+        "answer": "Anora",
+        "choices": [
+            "Anora",
+            "The Brutalist",
+            "A Real Pain",
+            "Conclave"
+        ]
+    },
+    {
+        "question": "Where is the largest olive ridely mass nesting site present in the world",
+        "answer": "Odisha",
+        "choices": [
+            "Odisha",
+            "Mexico",
+            "Costa Rica",
+            "Bahamas"
+        ]
+    },
+    {
+        "question": "Olive ridely is related with which wildlife",
+        "answer": "Turtle",
+        "choices": [
+            "Turtle",
+            "Dolphins",
+            "Penguins",
+            "Eagle"
+        ]
+    },
+    {
+        "question": "Total population of Dolphins found in India according to recently relased Dolphin Survey Report",
+        "answer": 6327,
+        "choices": [
+            6327,
+            6732,
+            6237,
+            6732
+        ]
+    },
+    {
+        "question": "Total population of Dolphins found in Bihar according to recently relased Dolphin Survey Report",
+        "answer": 2220,
+        "choices": [
+            2220,
+            3330,
+            1110,
+            4440
+        ]
     }
 ]
