@@ -888,5 +888,35 @@
             1110,
             4440
         ]
+    },
+    {
+        "question": "Flex Fuel is a mixture of ",
+        "answer": "Petrol & Ethanol",
+        "choices": [
+            "Petrol & Ethanol",
+            "Petrol & Diesel",
+            "Ethanol & Diesel",
+            "Petrol & Methanol"
+        ]
+    },
+    {
+        "question": "Where is Vantara, the wildlife rescue, re-habilitation and conservation centre located",
+        "answer": "Jamnagar",
+        "choices": [
+            "Jamnagar",
+            "Gandhinagar",
+            "Dholavira",
+            "Ahmedabad"
+        ]
+    },
+    {
+        "question": "Name the latest NASA mission to study corona of the Sun",
+        "answer": "PUNCH",
+        "choices": [
+            "PUNCH",
+            "Aditya L1",
+            "Proba-3",
+            "Helios"
+        ]
     }
 ]
