@@ -918,5 +918,35 @@
             "Proba-3",
             "Helios"
         ]
+    },
+    {
+        "question": "Cryogenic temperature generally starts below",
+        "answer": "minus 150 deg C",
+        "choices": [
+            "minus 150 deg C",
+            "minus 273 deg C",
+            "minus 123 deg C",
+            "minus 100 deg C"
+        ]
+    },
+    {
+        "question": "The fuel and oxidiser combination used in Cryogenic Engines are",
+        "answer": "Liquid Hydrogen (LH2) & Liquid Oxygen (LOX)",
+        "choices": [
+            "Liquid Hydrogen (LH2) & Liquid Oxygen (LOX)",
+            "Refined Kerosene (RP-1) & Liquid Oxygen (LOX)",
+            "Refined Kerosene (RP-1) & Liquid Hydrogen (LH2)",
+            "Liquid Hydrogen (LH2) & Liquid Nitrogen (LN2)"
+        ]
+    },
+    {
+        "question": "The fuel and oxidiser combination used in Semi-Cryogenic Engines are",
+        "answer": "Refined Kerosene (RP-1) & Liquid Oxygen (LOX)",
+        "choices": [
+            "Refined Kerosene (RP-1) & Liquid Oxygen (LOX)",
+            "Liquid Hydrogen (LH2) & Liquid Oxygen (LOX)",
+            "Refined Kerosene (RP-1) & Liquid Hydrogen (LH2)",
+            "Liquid Hydrogen (LH2) & Liquid Nitrogen (LN2)"
+        ]
     }
 ]
