@@ -948,5 +948,455 @@
             "Refined Kerosene (RP-1) & Liquid Hydrogen (LH2)",
             "Liquid Hydrogen (LH2) & Liquid Nitrogen (LN2)"
         ]
+    },
+    {
+        "question": "Bihar State Formation Day",
+        "answer": "22nd March 1912",
+        "choices": [
+            "22nd March 1912",
+            "22nd March 1913",
+            "12nd March 1922",
+            "23rd March 1912"
+        ]
+    },
+    {
+        "question": "North most latitude of Bihar",
+        "answer": "27 deg 31 min 15 sec N",
+        "choices": [
+            "27 deg 31 min 15 sec N",
+            "24 deg 20 min 10 sec N",
+            "83 deg 19 min 50 sec N",
+            "88 deg 17 min 40 sec N"
+        ]
+    },
+    {
+        "question": "South most latitude of Bihar",
+        "answer": "24 deg 20 min 10 sec N",
+        "choices": [
+            "24 deg 20 min 10 sec N",
+            "27 deg 31 min 15 sec N",
+            "83 deg 19 min 50 sec N",
+            "88 deg 17 min 40 sec N"
+        ]
+    },
+    {
+        "question": "East most longitude of Bihar",
+        "answer": "88 deg 17 min 40 sec E",
+        "choices": [
+            "88 deg 17 min 40 sec E",
+            "27 deg 31 min 15 sec E",
+            "83 deg 19 min 50 sec E",
+            "24 deg 20 min 10 sec E"
+        ]
+    },
+    {
+        "question": "West most longitude of Bihar",
+        "answer": "83 deg 19 min 50 sec E",
+        "choices": [
+            "83 deg 19 min 50 sec E",
+            "27 deg 31 min 15 sec E",
+            "88 deg 17 min 40 sec E",
+            "24 deg 20 min 10 sec E"
+        ]
+    },
+    {
+        "question": "North-South extent of Bihar",
+        "answer": "345 km",
+        "choices": [
+            "345 km",
+            "453 km",
+            "435 km",
+            "543 km"
+        ]
+    },
+    {
+        "question": "East-West extent of Bihar",
+        "answer": "483 km",
+        "choices": [
+            "483 km",
+            "834 km",
+            "384 km",
+            "438 km"
+        ]
+    },
+    {
+        "question": "Total area of Bihar",
+        "answer": "94,163 sq km",
+        "choices": [
+            "94,163 sq km",
+            "91,463 sq km",
+            "96,143 sq km",
+            "93,164 sq km"
+        ]
+    },
+    {
+        "question": "Area of Bihar compared to area of India",
+        "answer": "2.83 percentage",
+        "choices": [
+            "2.83 percentage",
+            "3.28 percentage",
+            "8.32 percentage",
+            "2.38 percentage"
+        ]
+    },
+    {
+        "question": "Height of Bihar above mean sea-level",
+        "answer": "173 ft",
+        "choices": [
+            "173 ft",
+            "371 ft",
+            "137 ft",
+            "317 ft"
+        ]
+    },
+    {
+        "question": "Total number of Divisions in Bihar",
+        "answer": 9,
+        "choices": [
+            9,
+            8,
+            10,
+            7
+        ]
+    },
+    {
+        "question": "Total number of Districts in Bihar",
+        "answer": 38,
+        "choices": [
+            38,
+            39,
+            37,
+            36
+        ]
+    },
+    {
+        "question": "Total number of Sub-Districts in Bihar",
+        "answer": 101,
+        "choices": [
+            101,
+            100,
+            102,
+            103
+        ]
+    },
+    {
+        "question": "Total number of Blocks in Bihar",
+        "answer": 534,
+        "choices": [
+            534,
+            535,
+            533,
+            532
+        ]
+    },
+    {
+        "question": "Total number of Panchayat in Bihar",
+        "answer": 8406,
+        "choices": [
+            8406,
+            8405,
+            8407,
+            8403
+        ]
+    },
+    {
+        "question": "How many district of Bihar shares international boundary with Nepal",
+        "answer": 7,
+        "choices": [
+            7,
+            8,
+            3,
+            6
+        ]
+    },
+    {
+        "question": "Northern-most district of Bihar",
+        "answer": "West Champaran",
+        "choices": [
+            "West Champaran",
+            "Gaya",
+            "Kishanganj",
+            "Kaimur"
+        ]
+    },
+    {
+        "question": "Southern-most district of Bihar",
+        "answer": "Gaya",
+        "choices": [
+            "Gaya",
+            "West Champaran",
+            "Kishanganj",
+            "Kaimur"
+        ]
+    },
+    {
+        "question": "Eastern-most district of Bihar",
+        "answer": "Kishanganj",
+        "choices": [
+            "Kishanganj",
+            "West Champaran",
+            "Gaya",
+            "Kaimur"
+        ]
+    },
+    {
+        "question": "Western-most district of Bihar",
+        "answer": "Kaimur",
+        "choices": [
+            "Kaimur",
+            "West Champaran",
+            "Gaya",
+            "Kishanganj"
+        ]
+    },
+    {
+        "question": "Area wise largest district of Bihar",
+        "answer": "West Champaran",
+        "choices": [
+            "West Champaran",
+            "Gaya",
+            "Kaimur",
+            "Rohtas"
+        ]
+    },
+    {
+        "question": "Area wise smallest district of Bihar",
+        "answer": "Sheohar",
+        "choices": [
+            "Sheohar",
+            "Sheikhpura",
+            "Arwal",
+            "Jehanabad"
+        ]
+    },
+    {
+        "question": "District with highest rainfall in Bihar",
+        "answer": "Kishanganj",
+        "choices": [
+            "Kishanganj",
+            "Kaimur",
+            "Araria",
+            "Patna"
+        ]
+    },
+    {
+        "question": "District with least rainfall in Bihar",
+        "answer": "Kaimur",
+        "choices": [
+            "Kaimur",
+            "Kishanganj",
+            "Araria",
+            "Patna"
+        ]
+    },
+    {
+        "question": "Average number of rainy days in Bihar in a year",
+        "answer": "52.5 days",
+        "choices": [
+            "52.5 days",
+            "53.5 days",
+            "55.5 days",
+            "51.5 days"
+        ]
+    },
+    {
+        "question": "Official language of Bihar",
+        "answer": "Hindi",
+        "choices": [
+            "Hindi",
+            "Bhojpuri",
+            "Maithili",
+            "Magahi"
+        ]
+    },
+    {
+        "question": "In which constitutional amendment Maithili was included in the 8th Schedule of Constitution",
+        "answer": "92nd",
+        "choices": [
+            "92nd",
+            "91st",
+            "93rd",
+            "90th"
+        ]
+    },
+    {
+        "question": "What is the population percentage of Bihar compared to India according to Census 2011",
+        "answer": "8.6 percent",
+        "choices": [
+            "8.6 percent",
+            "6.8 percent",
+            "9.6 percent",
+            "6.9 percent"
+        ]
+    },
+    {
+        "question": "What is the population percentage density of Bihar according to Census 2011",
+        "answer": "1,106 person per sq km",
+        "choices": [
+            "1,106 person per sq km",
+            "1,006 person per sq km",
+            "1,306 person per sq km",
+            "1,206 person per sq km"
+        ]
+    },
+    {
+        "question": "District with highest population density in Bihar",
+        "answer": "Sheohar",
+        "choices": [
+            "Sheohar",
+            "Sheikhpura",
+            "Patna",
+            "Kaimur"
+        ]
+    },
+    {
+        "question": "District with least population density in Bihar",
+        "answer": "Kaimur",
+        "choices": [
+            "Kaimur",
+            "Sheikhpura",
+            "Patna",
+            "Sheohar"
+        ]
+    },
+    {
+        "question": "Most populated district of Bihar",
+        "answer": "Patna",
+        "choices": [
+            "Patna",
+            "Kaimur",
+            "Sheohar",
+            "Sheikhpura"
+        ]
+    },
+    {
+        "question": "Least populated district of Bihar",
+        "answer": "Sheikhpura",
+        "choices": [
+            "Sheikhpura",
+            "Patna",
+            "Kaimur",
+            "Sheohar"
+        ]
+    },
+    {
+        "question": "Sex Ratio of Bihar according to Census 2011",
+        "answer": 918,
+        "choices": [
+            918,
+            819,
+            981,
+            891
+        ]
+    },
+    {
+        "question": "District with highest sex ratio in Bihar",
+        "answer": "Gopalganj",
+        "choices": [
+            "Gopalganj",
+            "Munger",
+            "Patna",
+            "Rohtas"
+        ]
+    },
+    {
+        "question": "District with least sex ratio in Bihar",
+        "answer": "Munger",
+        "choices": [
+            "Munger",
+            "Gopalganj",
+            "Patna",
+            "Rohtas"
+        ]
+    },
+    {
+        "question": "Literacy rate of Bihar according to Census 2011",
+        "answer": "61.80 percent",
+        "choices": [
+            "61.80 percent",
+            "68.10 percent",
+            "81.60 percent",
+            "86.10 percent"
+        ]
+    },
+    {
+        "question": "District with highest literacy rate in Bihar",
+        "answer": "Rohtas",
+        "choices": [
+            "Rohtas",
+            "Patna",
+            "Purnea",
+            "Munger"
+        ]
+    },
+    {
+        "question": "District with lowest literacy rate in Bihar",
+        "answer": "Purnea",
+        "choices": [
+            "Purnea",
+            "Patna",
+            "Rohtas",
+            "Munger"
+        ]
+    },
+    {
+        "question": "Total seats in Bihar Vidhan Shabha (Legislative Assembly)",
+        "answer": 243,
+        "choices": [
+            243,
+            234,
+            245,
+            254
+        ]
+    },
+    {
+        "question": "Total seats in Bihar Vidhan Parishad (Legislative Council)",
+        "answer": 75,
+        "choices": [
+            75,
+            85,
+            65,
+            95
+        ]
+    },
+    {
+        "question": "Total Lok Shabha seats from Bihar",
+        "answer": 40,
+        "choices": [
+            40,
+            35,
+            45,
+            50
+        ]
+    },
+    {
+        "question": "Total Rajya Shabha seats from Bihar",
+        "answer": 16,
+        "choices": [
+            16,
+            15,
+            14,
+            18
+        ]
+    },
+    {
+        "question": "Who was the first Governor of Bihar post independence",
+        "answer": "Shri Jairam Daulatram",
+        "choices": [
+            "Shri Jairam Daulatram",
+            "Shri Krishna Sinha",
+            "Shri Rajendra Prasad",
+            "Shri Arif Mohammad Khan"
+        ]
+    },
+    {
+        "question": "Who was the first Chief Minister of Bihar",
+        "answer": "Shri Krishna Sinha",
+        "choices": [
+            "Shri Krishna Sinha",
+            "Shri Jairam Daulatram",
+            "Shri Rajendra Prasad",
+            "Shri Arif Mohammad Khan"
+        ]
     }
 ]
