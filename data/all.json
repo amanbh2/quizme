@@ -1040,13 +1040,23 @@
         ]
     },
     {
-        "question": "Height of Bihar above mean sea-level",
+        "question": "Height of Bihar above mean sea-level in feet",
         "answer": "173 ft",
         "choices": [
             "173 ft",
             "371 ft",
             "137 ft",
             "317 ft"
+        ]
+    },
+    {
+        "question": "Height of Bihar above mean sea-level in meters",
+        "answer": "53 m",
+        "choices": [
+            "53 m",
+            "52 m",
+            "51 m",
+            "50 m"
         ]
     },
     {
@@ -1070,7 +1080,7 @@
         ]
     },
     {
-        "question": "Total number of Sub-Districts in Bihar",
+        "question": "Total number of Sub-Divisions in Bihar",
         "answer": 101,
         "choices": [
             101,
@@ -1397,6 +1407,166 @@
             "Shri Jairam Daulatram",
             "Shri Rajendra Prasad",
             "Shri Arif Mohammad Khan"
+        ]
+    },
+    {
+        "question": "Bihar state is situated in the north of",
+        "answer": "Tropic of Cancer",
+        "choices": [
+            "Tropic of Cancer",
+            "Tropic of Capricon",
+            "Equator",
+            "Artic Circle"
+        ]
+    },
+    {
+        "question": "In which district of Bihar Dharwad period rocks are found",
+        "answer": "All of these",
+        "choices": [
+            "All of these",
+            "Munger",
+            "Jamui",
+            "Navada"
+        ]
+    },
+    {
+        "question": "In which district of Bihar Vindhyan series rocks are found",
+        "answer": "Kaimur & Rohtash",
+        "choices": [
+            "Kaimur & Rohtash",
+            "Kaimur",
+            "Rohtas",
+            "Gaya"
+        ]
+    },
+    {
+        "question": "When were rocks of Vindhyan series formed",
+        "answer": "Pre-Cambrian Period",
+        "choices": [
+            "Pre-Cambrian Period",
+            "Tertiary Period",
+            "Quaternary Period",
+            "Cambrian Period"
+        ]
+    },
+    {
+        "question": "When were rocks of Dharwad series formed",
+        "answer": "Archeon",
+        "choices": [
+            "Archeon",
+            "Protetozoic",
+            "Milocene",
+            "Pliestocene"
+        ]
+    },
+    {
+        "question": "Tertiary rocks are found in which Himalayan series",
+        "answer": "Shivalik",
+        "choices": [
+            "Shivalik",
+            "Aravali",
+            "Lesser Himalaya",
+            "Greater Himalaya"
+        ]
+    },
+    {
+        "question": "The Kaimur or Rohtas plateau is part of",
+        "answer": "Vindhya",
+        "choices": [
+            "Vindhya",
+            "Aravali",
+            "Satpuda",
+            "Dharwad"
+        ]
+    },
+    {
+        "question": "Kaimur plateau is seperated from Chhota-Nagpur plateau by which river",
+        "answer": "Son",
+        "choices": [
+            "Son",
+            "Mahananda",
+            "Ganga",
+            "Falgu"
+        ]
+    },
+    {
+        "question": "New Alluvium soil is also known as",
+        "answer": "Khadar",
+        "choices": [
+            "Khadar",
+            "Bhangar",
+            "Terai",
+            "Keral-Keval"
+        ]
+    },
+    {
+        "question": "Terai Soil is found along which border of Bihar",
+        "answer": "Northern",
+        "choices": [
+            "Northern",
+            "Southern",
+            "Eastern",
+            "Western"
+        ]
+    },
+    {
+        "question": "Peidmont Swamp soil is found in which district of Bihar",
+        "answer": "West Champaran",
+        "choices": [
+            "West Champaran",
+            "Rohtas",
+            "Kaimur",
+            "Gaya"
+        ]
+    },
+    {
+        "question": "What do we extract from Pyrite mineral",
+        "answer": "Sulphur",
+        "choices": [
+            "Sulphur",
+            "Asbestos",
+            "Sand",
+            "Tungusten"
+        ]
+    },
+    {
+        "question": "Pyrite is mainly found in which district of Bihar",
+        "answer": "Rohtas",
+        "choices": [
+            "Rohtas",
+            "Jamui",
+            "Samstipur",
+            "Banka"
+        ]
+    },
+    {
+        "question": "Which mineral is also known as Fool's Gold",
+        "answer": "Pyrite",
+        "choices": [
+            "Pyrite",
+            "Bauxite",
+            "Hematite",
+            "Quartzite"
+        ]
+    },
+    {
+        "question": "Where is Gold reserve of Bihar",
+        "answer": "Jamui",
+        "choices": [
+            "Jamui",
+            "Purnea",
+            "Bhagalpur",
+            "Munger"
+        ]
+    },
+    {
+        "question": "According to Koppen climate classification, Bihar falls under which category",
+        "answer": "Cwa",
+        "choices": [
+            "Cwa",
+            "Cfb",
+            "Bwh",
+            "Csc"
         ]
     }
 ]
