@@ -1568,5 +1568,425 @@
             "Bwh",
             "Csc"
         ]
+    },
+    {
+        "question": "The most famous river for changing its route in Bihar is",
+        "answer": "Kosi",
+        "choices": [
+            "Kosi",
+            "Bagmati",
+            "Gandak",
+            "Mahananda"
+        ]
+    },
+    {
+        "question": "Which river flows from west to east in the middle of Bihar",
+        "answer": "Ganga",
+        "choices": [
+            "Ganga",
+            "Bagmati",
+            "Gandak",
+            "Mahananda"
+        ]
+    },
+    {
+        "question": "State the total length of Ganga in kms",
+        "answer": "2525 km",
+        "choices": [
+            "2525 km",
+            "5050 km",
+            "2550 km",
+            "5025 km"
+        ]
+    },
+    {
+        "question": "What is the length of Ganga within territory of Bihar",
+        "answer": "445 km",
+        "choices": [
+            "445 km",
+            "545 km",
+            "345 km",
+            "245 km"
+        ]
+    },
+    {
+        "question": "Where is the origin of the river Ganga",
+        "answer": "Uttrakhand",
+        "choices": [
+            "Uttrakhand",
+            "Uttar Pradesh",
+            "Himachal Pradesh",
+            "West Bengal"
+        ]
+    },
+    {
+        "question": "Ganga river first enters in which district of Bihar from Uttar Pradesh",
+        "answer": "Buxar",
+        "choices": [
+            "Buxar",
+            "Saran",
+            "Bhojpur",
+            "Siwan"
+        ]
+    },
+    {
+        "question": "Which of the following rivers decide the borders of Bihar and Uttar Pradesh",
+        "answer": "All of these",
+        "choices": [
+            "All of these",
+            "Ganga",
+            "Gandak",
+            "Karmanasha"
+        ]
+    },
+    {
+        "question": "The river Ganga touches how many districts of Bihar",
+        "answer": 12,
+        "choices": [
+            12,
+            11,
+            10,
+            13
+        ]
+    },
+    {
+        "question": "Which district of Bihar touches the river Ganga the longest",
+        "answer": "Patna",
+        "choices": [
+            "Patna",
+            "Munger",
+            "Bhagalpur",
+            "Katihar"
+        ]
+    },
+    {
+        "question": "The river Ganga terminates in",
+        "answer": "Bay of Bengal",
+        "choices": [
+            "Bay of Bengal",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Arabian Sea"
+        ]
+    },
+    {
+        "question": "Which river enters into Ganga 10 kms away from Danapur near west Maner",
+        "answer": "Sone",
+        "choices": [
+            "Sone",
+            "Punpun",
+            "Falgu",
+            "Gandak"
+        ]
+    },
+    {
+        "question": "Origin of river Ghagra",
+        "answer": "Nepal",
+        "choices": [
+            "Nepal",
+            "Uttar Pradesh",
+            "Uttarakhand",
+            "Himachal Pradesh"
+        ]
+    },
+    {
+        "question": "Which of the following rivers is also known as Saryu",
+        "answer": "Ghaghra",
+        "choices": [
+            "Ghaghra",
+            "Gandak",
+            "Punpun",
+            "Son"
+        ]
+    },
+    {
+        "question": "Ghaghra river merges with Ganga in which district of Bihar",
+        "answer": "Saran",
+        "choices": [
+            "Saran",
+            "Vaishali",
+            "Bhojpur",
+            "Buxar"
+        ]
+    },
+    {
+        "question": "The river Gandak enters in which district of Bihar first",
+        "answer": "West Champaran",
+        "choices": [
+            "West Champaran",
+            "Gopalganj",
+            "Buxar",
+            "Siwan"
+        ]
+    },
+    {
+        "question": "In which district Valmiki Nagar Barrage has been built",
+        "answer": "West Champaran",
+        "choices": [
+            "West Champaran",
+            "Gopalganj",
+            "Buxar",
+            "Siwan"
+        ]
+    },
+    {
+        "question": "Valmiki Nagar Barrage is built upon which river",
+        "answer": "Gandak",
+        "choices": [
+            "Gandak",
+            "Son",
+            "Kosi",
+            "Ganga"
+        ]
+    },
+    {
+        "question": "Name of the world famous fair held at the confluence of Gandak river",
+        "answer": "Harihar Kshetra Mela",
+        "choices": [
+            "Harihar Kshetra Mela",
+            "Pitrpaksha Mela",
+            "Makar Sankranti Mela",
+            "Babadham Mela"
+        ]
+    },
+    {
+        "question": "World's largest cattle fair is organised at confluence of which river",
+        "answer": "Gandak",
+        "choices": [
+            "Gandak",
+            "Son",
+            "Kosi",
+            "Ganga"
+        ]
+    },
+    {
+        "question": "Which river flows in the eastern part parallel to the river Gandak",
+        "answer": "Budhi Gandak",
+        "choices": [
+            "Budhi Gandak",
+            "Saryu",
+            "Karmanasha",
+            "Bagmati"
+        ]
+    },
+    {
+        "question": "Which river has it's origin in Chautarva Chaur near Vishambharpur under Someshwar series hills",
+        "answer": "Budhi Gandak",
+        "choices": [
+            "Budhi Gandak",
+            "Gandak",
+            "Bagmati",
+            "Kosi"
+        ]
+    },
+    {
+        "question": "Which of the following rivers has shifted 150 kms from east to west in the last 200 years",
+        "answer": "Kosi",
+        "choices": [
+            "Kosi",
+            "Gandak",
+            "Bagmati",
+            "Mahananda"
+        ]
+    },
+    {
+        "question": "At which place the river Kosi forms a delta before merging with river Ganga",
+        "answer": "Kursela",
+        "choices": [
+            "Kursela",
+            "Bhagalpur",
+            "Chhapra",
+            "Hajipur"
+        ]
+    },
+    {
+        "question": "Which of the following is the major tributary of Budhi-Gandak",
+        "answer": "Bagmati",
+        "choices": [
+            "Bagmati",
+            "Gandak",
+            "Punpun",
+            "Kosi"
+        ]
+    },
+    {
+        "question": "The origin of Bagmati has occurred in Nepal from which mountain range",
+        "answer": "Mahabharat",
+        "choices": [
+            "Mahabharat",
+            "Annapurna",
+            "Aravali",
+            "Someshwar"
+        ]
+    },
+    {
+        "question": "Which river enters in Terai area after passing through Mahabharat range in Nepal",
+        "answer": "Budhi-Gandak",
+        "choices": [
+            "Budhi-Gandak",
+            "Kamala",
+            "Gandak",
+            "Punpun"
+        ]
+    },
+    {
+        "question": "Ancient name of river Kosi",
+        "answer": "Kaushiki",
+        "choices": [
+            "Kaushiki",
+            "Saptaprabha",
+            "Keshaki",
+            "Kaushik"
+        ]
+    },
+    {
+        "question": "All the seven currents of Kosi merge at which place where it also known as Sapta Kosi",
+        "answer": "Triveni (Nepal)",
+        "choices": [
+            "Triveni (Nepal)",
+            "Balmiki Nagar",
+            "Rajgir",
+            "Pavapuri"
+        ]
+    },
+    {
+        "question": "Which of the following river is also known as \"Bihar ka shok\"",
+        "answer": "Kosi",
+        "choices": [
+            "Kosi",
+            "Mahananda",
+            "Gandak",
+            "Son"
+        ]
+    },
+    {
+        "question": "Mount Everest and Kanchenjunga falls under catchement area of which river",
+        "answer": "Kosi",
+        "choices": [
+            "Kosi",
+            "Mahananda",
+            "Gandak",
+            "Son"
+        ]
+    },
+    {
+        "question": "Which of the following rivers is a river of the east following through North Bihar",
+        "answer": "Mahananda",
+        "choices": [
+            "Mahananda",
+            "Kamala",
+            "Bagmati",
+            "Son"
+        ]
+    },
+    {
+        "question": "Which river determines the borders of Bengal & Bihar",
+        "answer": "Mahananda",
+        "choices": [
+            "Mahananda",
+            "Kamala",
+            "Bagmati",
+            "Son"
+        ]
+    },
+    {
+        "question": "Origin of which river lies in Amarkantak in Madhya Pradesh",
+        "answer": "Son",
+        "choices": [
+            "Son",
+            "Bagmati",
+            "Punpun",
+            "Falgu"
+        ]
+    },
+    {
+        "question": "Which river is the longest flowing tributary of the Ganga in Southern Bihar",
+        "answer": "Son",
+        "choices": [
+            "Son",
+            "Karmanasha",
+            "Punpun",
+            "Falgu"
+        ]
+    },
+    {
+        "question": "Son river first enters in which district of Bihar",
+        "answer": "Rohtas",
+        "choices": [
+            "Rohtas",
+            "Jamui",
+            "Gaya",
+            "Jehanabad"
+        ]
+    },
+    {
+        "question": "On which of the following rivers Indrapuri Barrage is located",
+        "answer": "Son",
+        "choices": [
+            "Son",
+            "Gandak",
+            "Punpun",
+            "Falgu"
+        ]
+    },
+    {
+        "question": "On the riverbed of which of the following rivers, Gautam Buddha attained awakening",
+        "answer": "Falgu",
+        "choices": [
+            "Falgu",
+            "Gandak",
+            "Punpun",
+            "Son"
+        ]
+    },
+    {
+        "question": "Where in Bihar, Pitrapaksha Mela is held",
+        "answer": "Gaya",
+        "choices": [
+            "Gaya",
+            "Patna",
+            "Sonpur",
+            "Bhagalpur"
+        ]
+    },
+    {
+        "question": "In which of the following rivers, the ritual of Pind-dan is performed",
+        "answer": "Falgu",
+        "choices": [
+            "Falgu",
+            "Gandak",
+            "Punpun",
+            "Son"
+        ]
+    },
+    {
+        "question": "Which river gets divided in two parts in Jehanabad district near Barabar Hills",
+        "answer": "Falgu",
+        "choices": [
+            "Falgu",
+            "Karmanasha",
+            "Punpun",
+            "Son"
+        ]
+    },
+    {
+        "question": "Origin of the river Punpun",
+        "answer": "Chhota-Nagpur Plataeu",
+        "choices": [
+            "Chhota-Nagpur Plataeu",
+            "Kaimur Hills",
+            "Aravalli Hills",
+            "Amarkantak Hills"
+        ]
+    },
+    {
+        "question": "At which place Punpun river merges with Ganga",
+        "answer": "Fatuha",
+        "choices": [
+            "Fatuha",
+            "Maner",
+            "Chhapra",
+            "Danapur"
+        ]
     }
 ]
