@@ -2038,5 +2038,95 @@
             "Delhi",
             "Chennai"
         ]
+    },
+    {
+        "question": "Child Sex Ratio of Bihar according to Census 2011",
+        "answer": 935,
+        "choices": [
+            935,
+            918,
+            953,
+            943
+        ]
+    },
+    {
+        "question": "What is the urbanisation rate of Bihar according to Census 2011",
+        "answer": "11.29 percent",
+        "choices": [
+            "11.29 percent",
+            "21.92 percent",
+            "12.29 percent",
+            "12.92 percent"
+        ]
+    },
+    {
+        "question": "Most urbanised district of Bihar",
+        "answer": "Patna",
+        "choices": [
+            "Patna",
+            "Vaishali",
+            "Gaya",
+            "Nalanda"
+        ]
+    },
+    {
+        "question": "Least urbanised district of Bihar",
+        "answer": "Munger",
+        "choices": [
+            "Munger",
+            "Gopalganj",
+            "Buxar",
+            "Bhojpur"
+        ]
+    },
+    {
+        "question": "What is the tribal population of Bihar compared to India according to Census 2011",
+        "answer": "1.30 percent",
+        "choices": [
+            "1.30 percent",
+            "1.68 percent",
+            "1.03 percent",
+            "1.86 percent"
+        ]
+    },
+    {
+        "question": "What is the tribal population of Bihar compared to India according to Caste Survey 2022",
+        "answer": "1.68 percent",
+        "choices": [
+            "1.68 percent",
+            "1.30 percent",
+            "1.03 percent",
+            "1.86 percent"
+        ]
+    },
+    {
+        "question": "Rank of Bihar among all state & UTs of India in terms of Population",
+        "answer": "3rd",
+        "choices": [
+            "3rd",
+            "1st",
+            "2nd",
+            "4th"
+        ]
+    },
+    {
+        "question": "Rank of Bihar among all state & UTs of India in terms of Area",
+        "answer": "12th",
+        "choices": [
+            "12th",
+            "11th",
+            "13th",
+            "10th"
+        ]
+    },
+    {
+        "question": "Decadal population growth of Bihar till 2011",
+        "answer": "25.42 percent",
+        "choices": [
+            "25.42 percent",
+            "24.52 percent",
+            "25.24 percent",
+            "24.25 percent"
+        ]
     }
 ]
