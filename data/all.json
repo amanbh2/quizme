@@ -1431,9 +1431,9 @@
     },
     {
         "question": "In which district of Bihar Vindhyan series rocks are found",
-        "answer": "Kaimur & Rohtash",
+        "answer": "Kaimur & Rohtas",
         "choices": [
-            "Kaimur & Rohtash",
+            "Kaimur & Rohtas",
             "Kaimur",
             "Rohtas",
             "Gaya"
@@ -1987,6 +1987,56 @@
             "Maner",
             "Chhapra",
             "Danapur"
+        ]
+    },
+    {
+        "question": "T-Cell used in CAR T-Cell Therapy is a type of which blood cell",
+        "answer": "WBC",
+        "choices": [
+            "WBC",
+            "RBC",
+            "Platelets",
+            "Plasma"
+        ]
+    },
+    {
+        "question": "What does CAR stands for in CAR T-Cell therapy",
+        "answer": "Chimeric Antigen Receptors",
+        "choices": [
+            "Chimeric Antigen Receptors",
+            "Chronic Allergic Reaction",
+            "Chimeric Allergic Receptors",
+            "Chronic Antigen Reactor"
+        ]
+    },
+    {
+        "question": "First women president of Internation Olympics Committee",
+        "answer": "Kirsty Conventry",
+        "choices": [
+            "Kirsty Conventry",
+            "PT Usha",
+            "Serena Williams",
+            "Nadia Comaneci"
+        ]
+    },
+    {
+        "question": "What was the theme for this year Bihar Foundation Day",
+        "answer": "Unnat Bihar Viksit Bihar",
+        "choices": [
+            "Unnat Bihar Viksit Bihar",
+            "Yuva Shakti Bihar ki Pragati",
+            "Jal Jeevan Hariyali",
+            "Nasha Mukt Bihar"
+        ]
+    },
+    {
+        "question": "Which city hosted SepakTakraw World Cup 2025",
+        "answer": "Patna",
+        "choices": [
+            "Patna",
+            "Hyderabad",
+            "Delhi",
+            "Chennai"
         ]
     }
 ]
