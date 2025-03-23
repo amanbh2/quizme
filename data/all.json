@@ -2128,5 +2128,305 @@
             "25.24 percent",
             "24.25 percent"
         ]
+    },
+    {
+        "question": "Which art form of Bihar has a sequential representation of stories, hence also known as scroll painting",
+        "answer": "Manjusha Art",
+        "choices": [
+            "Manjusha Art",
+            "Mithila Art",
+            "Tikuli Art",
+            "Sujini Embroidery"
+        ]
+    },
+    {
+        "question": "Bihula-Bishahari Gatha is related to with art form of Bihar",
+        "answer": "Manjusha Art",
+        "choices": [
+            "Manjusha Art",
+            "Mithila Art",
+            "Tikuli Art",
+            "Sujini Embroidery"
+        ]
+    },
+    {
+        "question": "Origin of Manjusha Art ",
+        "answer": "Bhagalpur",
+        "choices": [
+            "Bhagalpur",
+            "Madhubani",
+            "Gaya",
+            "Patna"
+        ]
+    },
+    {
+        "question": "Origin of Tikuli Art",
+        "answer": "Patna",
+        "choices": [
+            "Patna",
+            "Madhubani",
+            "Gaya",
+            "Bhagalpur"
+        ]
+    },
+    {
+        "question": "Which art form is also know as Firangi Kalam or as the white man's art",
+        "answer": "Patna Kalam",
+        "choices": [
+            "Patna Kalam",
+            "Kalamkari",
+            "Patachitra",
+            "Madhubani Painting"
+        ]
+    },
+    {
+        "question": "The subject of these paintings were common man and their mundane routines, name the art form",
+        "answer": "Patna Kalam",
+        "choices": [
+            "Patna Kalam",
+            "Sujini Embroidery",
+            "Manjusha Art",
+            "Madhubani Painting"
+        ]
+    },
+    {
+        "question": "Where is Kakolat Waterfall located in Bihar",
+        "answer": "Nawada",
+        "choices": [
+            "Nawada",
+            "Rohtas",
+            "Kaimur",
+            "Munger"
+        ]
+    },
+    {
+        "question": "Where is Tutla Bhawani Waterfall located in Bihar",
+        "answer": "Rohtas",
+        "choices": [
+            "Rohtas",
+            "Nawada",
+            "Kaimur",
+            "Munger"
+        ]
+    },
+    {
+        "question": "Where is Telhar Kund Waterfall located in Bihar",
+        "answer": "Kaimur",
+        "choices": [
+            "Kaimur",
+            "Nawada",
+            "Rohtas",
+            "Munger"
+        ]
+    },
+    {
+        "question": "Where is Karakat Waterfall located in Bihar",
+        "answer": "Kaimur",
+        "choices": [
+            "Kaimur",
+            "Nawada",
+            "Rohtas",
+            "Munger"
+        ]
+    },
+    {
+        "question": "Where is Manjhar Kund located in Bihar",
+        "answer": "Rohtas",
+        "choices": [
+            "Rohtas",
+            "Nawada",
+            "Kaimur",
+            "Munger"
+        ]
+    },
+    {
+        "question": "Where is Dhua Kund located in Bihar",
+        "answer": "Rohtas",
+        "choices": [
+            "Rohtas",
+            "Nawada",
+            "Kaimur",
+            "Munger"
+        ]
+    },
+    {
+        "question": "Where is Kanwar Lake located in Bihar",
+        "answer": "Begusarai",
+        "choices": [
+            "Begusarai",
+            "Rohtas",
+            "Kaimur",
+            "Nawada"
+        ]
+    },
+    {
+        "question": "How may Ramsar sites are there in Bihar as of 2025",
+        "answer": "Three",
+        "choices": [
+            "Three",
+            "Four",
+            "Two",
+            "Five"
+        ]
+    },
+    {
+        "question": "Where is Muchalinda Lake in Bihar",
+        "answer": "Bodhgaya",
+        "choices": [
+            "Bodhgaya",
+            "Rohtas",
+            "Kaimur",
+            "Nawada"
+        ]
+    },
+    {
+        "question": "Where is Sarai Man Lake in Bihar",
+        "answer": "West Champaran",
+        "choices": [
+            "West Champaran",
+            "Bodhgaya",
+            "Munger",
+            "Rajgir"
+        ]
+    },
+    {
+        "question": "Where is Moti Jheel located in Bihar",
+        "answer": "East Champaran",
+        "choices": [
+            "East Champaran",
+            "West Champaran",
+            "Munger",
+            "Rajgir"
+        ]
+    },
+    {
+        "question": "Where is Pandu Pokhar located in Bihar",
+        "answer": "Rajgir",
+        "choices": [
+            "Rajgir",
+            "West Champaran",
+            "Munger",
+            "Rohtas"
+        ]
+    },
+    {
+        "question": "Where is Ghorakatora Lake located in Bihar",
+        "answer": "Rajgir",
+        "choices": [
+            "Rajgir",
+            "West Champaran",
+            "Munger",
+            "Rohtas"
+        ]
+    },
+    {
+        "question": "Which type of forest is found in Bihar",
+        "answer": "Moist Deciduos",
+        "choices": [
+            "Moist Deciduos",
+            "Dry Deciduos",
+            "Moist Evergreen",
+            "Dry Evergreen"
+        ]
+    },
+    {
+        "question": "Which is most abundantly found in forests of Bihar",
+        "answer": "Sal",
+        "choices": [
+            "Sal",
+            "Shisham",
+            "Teak",
+            "Kadamb"
+        ]
+    },
+    {
+        "question": "How much is the natural forest cover in Bihar",
+        "answer": "7.27 percent",
+        "choices": [
+            "7.27 percent",
+            "2.72 percent",
+            "3.72 percent",
+            "7.32 percent"
+        ]
+    },
+    {
+        "question": "How many National Parks are there in Bihar",
+        "answer": "One",
+        "choices": [
+            "One",
+            "Two",
+            "Zero",
+            "Three"
+        ]
+    },
+    {
+        "question": "Valmiki National Park is located in",
+        "answer": "West Champaran",
+        "choices": [
+            "West Champaran",
+            "East Champaran",
+            "Bhagalpur",
+            "Munger"
+        ]
+    },
+    {
+        "question": "Vikramshila Gangetic Dolphin Wildlife Sanctuary is located in",
+        "answer": "Bhagalpur",
+        "choices": [
+            "Bhagalpur",
+            "Begusarai",
+            "Patna",
+            "Munger"
+        ]
+    },
+    {
+        "question": "Where is Bhimbandh Wildlife Sanctuary located in Bihar",
+        "answer": "Munger",
+        "choices": [
+            "Munger",
+            "Begusarai",
+            "Patna",
+            "Bhagalpur"
+        ]
+    },
+    {
+        "question": "Where is Gautam Buddha Wildlife Sanctuary located in Bihar",
+        "answer": "Gaya",
+        "choices": [
+            "Gaya",
+            "Begusarai",
+            "Patna",
+            "Bhagalpur"
+        ]
+    },
+    {
+        "question": "Where is Udaypur Wildlife Sanctuary located in Bihar",
+        "answer": "West Champaran",
+        "choices": [
+            "West Champaran",
+            "Begusarai",
+            "Patna",
+            "Bhagalpur"
+        ]
+    },
+    {
+        "question": "Where is Nakti Dam located in Bihar",
+        "answer": "Jamui",
+        "choices": [
+            "Jamui",
+            "Begusarai",
+            "Patna",
+            "Bhagalpur"
+        ]
+    },
+    {
+        "question": "Where is Nagi Dam located in Bihar",
+        "answer": "Jamui",
+        "choices": [
+            "Jamui",
+            "Begusarai",
+            "Patna",
+            "Bhagalpur"
+        ]
     }
 ]
