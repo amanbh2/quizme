@@ -2428,5 +2428,75 @@
             "Patna",
             "Bhagalpur"
         ]
+    },
+    {
+        "question": "BioE3 policy envisioned by Government of India stands for",
+        "answer": "Biotechnology for Economy, Environment & Employment",
+        "choices": [
+            "Biotechnology for Economy, Environment & Employment",
+            "Biotechnology for Economy, Environment & Energy",
+            "Biotechnology for Electricity, Environment & Energy",
+            "Biotechnology for Electricity, Employment & Energy"
+        ]
+    },
+    {
+        "question": "Mechi River is tributary of ",
+        "answer": "Mahananda",
+        "choices": [
+            "Mahananda",
+            "Kosi",
+            "Son",
+            "Ganga"
+        ]
+    },
+    {
+        "question": "Ore of Thorium",
+        "answer": "Monzite",
+        "choices": [
+            "Monzite",
+            "Pitchblende",
+            "Carnotite",
+            "Hematite"
+        ]
+    },
+    {
+        "question": "Ore of Uranium",
+        "answer": "Pitchblende",
+        "choices": [
+            "Pitchblende",
+            "Monzite",
+            "Thorite",
+            "Hematite"
+        ]
+    },
+    {
+        "question": "Which Nuclear Fuel is most abundant in India",
+        "answer": "Thorium",
+        "choices": [
+            "Thorium",
+            "Uranium",
+            "Plutonium",
+            "Neptunium"
+        ]
+    },
+    {
+        "question": "Who formulated Three-Stage Indian Nuclear Power Programme",
+        "answer": "Dr. Homi Bhabha",
+        "choices": [
+            "Dr. Homi Bhabha",
+            "Dr. APJ Abdul Kalam",
+            "Vikram Sarabhai",
+            "C. V. Raman"
+        ]
+    },
+    {
+        "question": "Three-Stage Indian Nuclear Power Programme is designed to utilise which natural resource of India",
+        "answer": "Thorium",
+        "choices": [
+            "Thorium",
+            "Uranium",
+            "Plutonium",
+            "Neptunium"
+        ]
     }
 ]
