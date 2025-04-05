@@ -2498,5 +2498,65 @@
             "Plutonium",
             "Neptunium"
         ]
+    },
+    {
+        "question": "What was the name of disaster and relief operation made by Indian Army for Earthquake hit Myanmar in 2025",
+        "answer": "Operation Brahma",
+        "choices": [
+            "Operation Brahma",
+            "Operation Buddha",
+            "Operation Veer",
+            "Operation Abhimanyu"
+        ]
+    },
+    {
+        "question": "Where was the 6th BIMSTEC Summit organised",
+        "answer": "Thailand",
+        "choices": [
+            "Thailand",
+            "Myanmar",
+            "India",
+            "Bangladesh"
+        ]
+    },
+    {
+        "question": "Which country has the current chairmanship of BIMSTEC",
+        "answer": "Thailand",
+        "choices": [
+            "Thailand",
+            "Myanmar",
+            "India",
+            "Bangladesh"
+        ]
+    },
+    {
+        "question": "How many member countries are there in BIMSTEC",
+        "answer": "Seven",
+        "choices": [
+            "Seven",
+            "Six",
+            "Eight",
+            "Five"
+        ]
+    },
+    {
+        "question": "Where is the permament secretariat of BIMSTEC located",
+        "answer": "Dhaka",
+        "choices": [
+            "Dhaka",
+            "Delhi",
+            "Bangkok",
+            "Kathmandu"
+        ]
+    },
+    {
+        "question": "The Waqf Ammendement Bill 2025 seeks to ammend which Act",
+        "answer": "Waqf Act 1995",
+        "choices": [
+            "Waqf Act 1995",
+            "Waqf Act 1905",
+            "Waqf Act 2005",
+            "Waqf Act 1885"
+        ]
     }
 ]
