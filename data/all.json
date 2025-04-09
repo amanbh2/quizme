@@ -2558,5 +2558,265 @@
             "Waqf Act 2005",
             "Waqf Act 1885"
         ]
+    },
+    {
+        "question": "Dalton's atomic theory successfully explained: i) Law of conservation of mass ii) Law of constant composition iii) Law of radioactivity iv) Law of multiple proportions",
+        "answer": "i) ii) and iv)",
+        "choices": [
+            "i) ii) and iv)",
+            "ii) iii) and iv)",
+            "i) ii) and iii)",
+            "i) iii) and iv)"
+        ]
+    },
+    {
+        "question": "Which of the following acids is secreted in the stomach",
+        "answer": "Hydrochloric acid",
+        "choices": [
+            "Hydrochloric acid",
+            "Sulphuric acid",
+            "Nitric acid",
+            "Phosphoric Acid"
+        ]
+    },
+    {
+        "question": "The meter used to measure the distance moved by the vehicle is known as",
+        "answer": "Odometer",
+        "choices": [
+            "Odometer",
+            "Ammeter",
+            "Speedometer",
+            "Chronometer"
+        ]
+    },
+    {
+        "question": "Heat transfer that does not require a medium is called",
+        "answer": "Radiation",
+        "choices": [
+            "Radiation",
+            "Reflection",
+            "Conduction",
+            "Convection"
+        ]
+    },
+    {
+        "question": "What type of rock is formed from the cooling and solidification of lava",
+        "answer": "Igneous",
+        "choices": [
+            "Igneous",
+            "Sedimentary",
+            "Metamorphic",
+            "Crystal"
+        ]
+    },
+    {
+        "question": "Which of the following represents the suitable condition for the liquefaction of gases",
+        "answer": "Low Temperature, High Pressure",
+        "choices": [
+            "Low Temperature, High Pressure",
+            "Low Temperature, Low Pressure",
+            "High Temperature, High Pressure",
+            "High Temperature, Low Pressure"
+        ]
+    },
+    {
+        "question": "Which of the following is an Iron ore",
+        "answer": "Limonite",
+        "choices": [
+            "Limonite",
+            "Cinnabar",
+            "Bauxite",
+            "Pyrite"
+        ]
+    },
+    {
+        "question": "Which component of fertilizer is used for stimulating early growth",
+        "answer": "Phosphorus",
+        "choices": [
+            "Phosphorus",
+            "Nitrogen",
+            "Potassium",
+            "Oxygen"
+        ]
+    },
+    {
+        "question": "Which of the following are the constituents of a sodia acid fire extinguisher",
+        "answer": "Dilute sulphuric acid and sodium bicarbonate solution",
+        "choices": [
+            "Dilute sulphuric acid and sodium bicarbonate solution",
+            "Dilute sulphuric acid and sodium carbonate",
+            "Concentrated sulphuric acid and sodium carbonate solution",
+            "Concentrated sulphuric acid and aluminium suplhate"
+        ]
+    },
+    {
+        "question": "Which of the following bacterial diseases is called splenic fever",
+        "answer": "Anthrax",
+        "choices": [
+            "Anthrax",
+            "Typhoid",
+            "Cholera",
+            "None of these"
+        ]
+    },
+    {
+        "question": "Which of the following radiation is used to get relief from body aches",
+        "answer": "Infrared",
+        "choices": [
+            "Infrared",
+            "UV",
+            "Visible",
+            "None of these"
+        ]
+    },
+    {
+        "question": "Which one of the following is an example of melamine used for making floor tiles",
+        "answer": "Thermosetting Plastics",
+        "choices": [
+            "Thermosetting Plastics",
+            "Thermoplastics",
+            "Polythene",
+            "PVC"
+        ]
+    },
+    {
+        "question": "Which of the following is the first artificially prepared element",
+        "answer": "Tc",
+        "choices": [
+            "Tc",
+            "Te",
+            "Th",
+            "TI"
+        ]
+    },
+    {
+        "question": "Which of the following has a highly elongated elliptical orbit",
+        "answer": "Comet",
+        "choices": [
+            "Comet",
+            "Asteroid",
+            "Meteorite",
+            "Meteor"
+        ]
+    },
+    {
+        "question": "Which of the following is the fluid part of the blood",
+        "answer": "Plasma",
+        "choices": [
+            "Plasma",
+            "WBC",
+            "RBC",
+            "Platelets"
+        ]
+    },
+    {
+        "question": "Which of the following minerals occur in Minas Gerais province of Brazil",
+        "answer": "Iron",
+        "choices": [
+            "Iron",
+            "Bauxite",
+            "Mica",
+            "Coal"
+        ]
+    },
+    {
+        "question": "Which of the following is a non-contact force",
+        "answer": "Magnetic",
+        "choices": [
+            "Magnetic",
+            "Frictional",
+            "Impact",
+            "None of these"
+        ]
+    },
+    {
+        "question": "What is the structural and functional unit of Life",
+        "answer": "Cell",
+        "choices": [
+            "Cell",
+            "Organ",
+            "Tissue",
+            "Organism"
+        ]
+    },
+    {
+        "question": "Which of the following, corundrum and cryolite are important ore",
+        "answer": "Aluminium",
+        "choices": [
+            "Aluminium",
+            "Silver",
+            "Tin",
+            "Iron"
+        ]
+    },
+    {
+        "question": "Which of the following is the resistance of wire",
+        "answer": "R = V/I",
+        "choices": [
+            "R = V/I",
+            "R = IV",
+            "R = I/V",
+            "R = V/I"
+        ]
+    },
+    {
+        "question": "What is the value of solar constant",
+        "answer": "1.4 kW/m2",
+        "choices": [
+            "1.4 kW/m2",
+            "1.6 kW/m2",
+            "1.2 kW/m2",
+            "1.8 kW/m2"
+        ]
+    },
+    {
+        "question": "Which of the following the chlorophyll in photosyntesis is used for",
+        "answer": "Absorbing light",
+        "choices": [
+            "Absorbing light",
+            "Reduction of CO2",
+            "Breaking downs water molecules",
+            "No Function"
+        ]
+    },
+    {
+        "question": "Which part of alimentary canal receives bile from the liver",
+        "answer": "Small Intestine",
+        "choices": [
+            "Small Intestine",
+            "Stomach",
+            "Oesophagus",
+            "Large Intestine"
+        ]
+    },
+    {
+        "question": "The process of breaking down organic matter by micro-organisms is called",
+        "answer": "Decomposition",
+        "choices": [
+            "Decomposition",
+            "Respiration",
+            "Decomposition",
+            "Fermentation"
+        ]
+    },
+    {
+        "question": "Which of the following is a major cause of pollution",
+        "answer": "Burning of Fossil Fuels",
+        "choices": [
+            "Burning of Fossil Fuels",
+            "Disposal of Plastics",
+            "Deforestation",
+            "Execessive use of pesticides"
+        ]
+    },
+    {
+        "question": "Who was the first to propose a model for the structure of an atom",
+        "answer": "J J Thomson",
+        "choices": [
+            "J J Thomson",
+            "E Goldstein",
+            "Rutherford",
+            "Neil Bohr"
+        ]
     }
 ]
