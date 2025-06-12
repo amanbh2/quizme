@@ -42,7 +42,7 @@ a {
 
 .container {
     width: 90%;
-    margin: 40px auto;
+    margin: 30px auto;
     background: var(--secondary-color);
     padding: 20px;
     box-shadow: rgba(0, 0, 0, 0.5) 0px 7px 29px 0px;
@@ -58,7 +58,8 @@ a {
     display: block;
     width: 100%;
     margin: 25px 0;
-    height: 40px;
+    height: auto;
+    padding: 8px 5px;
     font-size: 16px;
     border: 2px solid var(--button-border-color);
     color: var(--text-color);
@@ -111,7 +112,7 @@ a {
 
 #streakBoard {
     width: 100%;
-    margin: 50px auto 0;
+    margin: 30px auto 0;
     background: transparent;
     color: var(--text-color);
     display: grid;
@@ -119,7 +120,6 @@ a {
 }
 
 #footer, #github {
-    position: fixed;
     width: 100%;
     text-align: center;
     font-size: small;
@@ -127,11 +127,13 @@ a {
 }
 
 #footer {
-    bottom: 10px;
+    margin-bottom: 10px;
 }
 
 #github {
     bottom: 35px;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 #github > a {
