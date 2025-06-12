@@ -1813,6 +1813,402 @@
     },
     {
         "id": 152,
+        "sheet": "Recent2025",
+        "question": "Where was Ahilyabai Holkar born",
+        "answer": "Chondi, Maharashtra",
+        "choices": [
+            "Chondi, Maharashtra",
+            "Indore, Madhya Pradesh",
+            "Mumbai, Maharashtra",
+            "Raigarh, Chhattisgarh"
+        ]
+    },
+    {
+        "id": 153,
+        "sheet": "Recent2025",
+        "question": "Who rebuilt Kashi Vishwanath Temple in Varanasi and Vishnupad Temple in Gaya, Bihar",
+        "answer": "Rani Ahilyabai Holkar",
+        "choices": [
+            "Rani Ahilyabai Holkar",
+            "Rani Chennamma",
+            "Rani Lakshmibai",
+            "Rani Durgavati"
+        ]
+    },
+    {
+        "id": 154,
+        "sheet": "Recent2025",
+        "question": "When was Ahilyabai holkar born",
+        "answer": "31 May 1725",
+        "choices": [
+            "31 May 1725",
+            "31 May 1825",
+            "31 July 1825",
+            "31 July 1725"
+        ]
+    },
+    {
+        "id": 155,
+        "sheet": "Recent2025",
+        "question": "Name the Indian Astraunaut to be part of Axiom Mission 4 - a commercial human spaceflight mission to the Ineternational Space station",
+        "answer": "Shubhanshu Shukla",
+        "choices": [
+            "Shubhanshu Shukla",
+            "Rakesh Sharma",
+            "Ravish Malhotra",
+            "Prashanth Balakrishnan Nair"
+        ]
+    },
+    {
+        "id": 156,
+        "sheet": "Recent2025",
+        "question": "Name the first Indian citizen to enter space",
+        "answer": "Rakesh Sharma",
+        "choices": [
+            "Rakesh Sharma",
+            "Shubhanshu Shukla",
+            "Ravish Malhotra",
+            "Prashanth Balakrishnan Nair"
+        ]
+    },
+    {
+        "id": 157,
+        "sheet": "Recent2025",
+        "question": "Name ISRO Human spaceflight mission",
+        "answer": "Gaganyaan",
+        "choices": [
+            "Gaganyaan",
+            "Aditya L1",
+            "Axiom-4",
+            "Chandrayaan"
+        ]
+    },
+    {
+        "id": 158,
+        "sheet": "Recent2025",
+        "question": "When was Namami Gange - a flagship union government programme to rejuvenate Ganga and its tributaries launched",
+        "answer": 2014,
+        "choices": [
+            2014,
+            2025,
+            2024,
+            2015
+        ]
+    },
+    {
+        "id": 159,
+        "sheet": "Recent2025",
+        "question": "In which year was Indus Water Treaty signed between India and Pakistan",
+        "answer": 1960,
+        "choices": [
+            1960,
+            1950,
+            1947,
+            1999
+        ]
+    },
+    {
+        "id": 160,
+        "sheet": "Recent2025",
+        "question": "The joint military exercise (Army) between India and Nepal is called",
+        "answer": "Surya Kiran",
+        "choices": [
+            "Surya Kiran",
+            "Nomadic Elephant",
+            "Garuda",
+            "Indra"
+        ]
+    },
+    {
+        "id": 161,
+        "sheet": "Recent2025",
+        "question": "The joint military exercise (Army) between India and Mongolia is called",
+        "answer": "Nomadic Elephant",
+        "choices": [
+            "Nomadic Elephant",
+            "Surya Kiran",
+            "Garuda",
+            "Indra"
+        ]
+    },
+    {
+        "id": 162,
+        "sheet": "Recent2025",
+        "question": "The joint military exercise (Airforce) between India and France is called",
+        "answer": "Garuda",
+        "choices": [
+            "Garuda",
+            "Nomadic Elephant",
+            "Surya Kiran",
+            "Indra"
+        ]
+    },
+    {
+        "id": 163,
+        "sheet": "Recent2025",
+        "question": "Rcently launched, Stumped - is the autobiography of",
+        "answer": "Syed Kirmani",
+        "choices": [
+            "Syed Kirmani",
+            "Ravi Shastri",
+            "Sunil Gavaskar",
+            "Anil Kumble"
+        ]
+    },
+    {
+        "id": 164,
+        "sheet": "Recent2025",
+        "question": "Name the autography of Sachin Tendulkar",
+        "answer": "Playing it my way",
+        "choices": [
+            "Playing it my way",
+            "Star Gazing",
+            "Stumped",
+            "Wide Angle"
+        ]
+    },
+    {
+        "id": 165,
+        "sheet": "Recent2025",
+        "question": "PM Modi has recently laid foundation of India's first Green Hydrogen Hub in",
+        "answer": "Vishakhapatnam, Andhra Pradesh",
+        "choices": [
+            "Vishakhapatnam, Andhra Pradesh",
+            "Surat, Gujarat",
+            "Patna, Bihar",
+            "Mumbai, Maharashtra"
+        ]
+    },
+    {
+        "id": 166,
+        "sheet": "Recent2025",
+        "question": "According to UN - World Economic Situation and Prospects Report 2025, what is the expected economy growth of India",
+        "answer": "6.9 percent",
+        "choices": [
+            "6.9 percent",
+            "9.6 percent",
+            "2.6 percent",
+            "3.4 percent"
+        ]
+    },
+    {
+        "id": 167,
+        "sheet": "Recent2025",
+        "question": "Where is Sepahijala Wildlife Sanctuary located",
+        "answer": "Tripura",
+        "choices": [
+            "Tripura",
+            "Nagaland",
+            "Manipur",
+            "Meghalaya"
+        ]
+    },
+    {
+        "id": 168,
+        "sheet": "Recent2025",
+        "question": "Where is International Kite Festival celebrated in 2025",
+        "answer": "Ahemedabad, Gujarat",
+        "choices": [
+            "Ahemedabad, Gujarat",
+            "Mumbai, Maharashtra",
+            "Kolkata, West Bengal",
+            "Lucknow, Uttar Pradesh"
+        ]
+    },
+    {
+        "id": 169,
+        "sheet": "Recent2025",
+        "question": "Which Indian Cricket player has been inducted to ICC Hall of Fame in year 2025",
+        "answer": "Mahender Singh Dhoni",
+        "choices": [
+            "Mahender Singh Dhoni",
+            "Virendra Shewag",
+            "Virat Kohli",
+            "Rohit Sharma"
+        ]
+    },
+    {
+        "id": 170,
+        "sheet": "Recent2025",
+        "question": "First gene-edited animal in India is",
+        "answer": "Sheep",
+        "choices": [
+            "Sheep",
+            "Rat",
+            "Pig",
+            "Monkey"
+        ]
+    },
+    {
+        "id": 171,
+        "sheet": "Recent2025",
+        "question": "Name the technology used in gene editing",
+        "answer": "CRISPR-CAS9",
+        "choices": [
+            "CRISPR-CAS9",
+            "CHIP-SEQ",
+            "DNA-Split",
+            "Genome-X"
+        ]
+    },
+    {
+        "id": 172,
+        "sheet": "Recent2025",
+        "question": "Name the micro-organism known for their survival ability in space",
+        "answer": "Tardigrades - Water Bears",
+        "choices": [
+            "Tardigrades - Water Bears",
+            "Sea Horse",
+            "Octopus",
+            "Coral"
+        ]
+    },
+    {
+        "id": 173,
+        "sheet": "Recent2025",
+        "question": "Name India's first deep-water Sea Port built to handle Ultra Large Container Vessels (ULCVs)",
+        "answer": "Vizhinjam International Seaport",
+        "choices": [
+            "Vizhinjam International Seaport",
+            "Haldia Dock Complex",
+            "Chennai Port",
+            "Visakhapatnam Port"
+        ]
+    },
+    {
+        "id": 174,
+        "sheet": "Recent2025",
+        "question": "Name the world's largest container ship that recenlty docked on India's newly built Vizhimjam International Seaport",
+        "answer": "MSC IRINA",
+        "choices": [
+            "MSC IRINA",
+            "OOCL Spain",
+            "Ever Alot",
+            "HMM Oslo"
+        ]
+    },
+    {
+        "id": 175,
+        "sheet": "Recent2025",
+        "question": "Inequality in consumption in a population is measured by ",
+        "answer": "Gini Coefficient",
+        "choices": [
+            "Gini Coefficient",
+            "Ruban Coefficient",
+            "Pop Coefficient",
+            "Equality Coefficient"
+        ]
+    },
+    {
+        "id": 176,
+        "sheet": "Recent2025",
+        "question": "What is the revised International Poverty Line for Low income countries set by the world bank in 2025",
+        "answer": "3 dollars per day",
+        "choices": [
+            "3 dollars per day",
+            "2.5 dollars per day",
+            "2 dollars per day",
+            "3.5 dollars per day"
+        ]
+    },
+    {
+        "id": 177,
+        "sheet": "Recent2025",
+        "question": "How much is the poverty rate in India according to revised International Poverty Line",
+        "answer": "5.25 percent",
+        "choices": [
+            "5.25 percent",
+            "3 percent",
+            "2.35 percent",
+            "2.55 percent"
+        ]
+    },
+    {
+        "id": 178,
+        "sheet": "Recent2025",
+        "question": "What is the proposed date of completion of next census in India",
+        "answer": "March 1, 2027",
+        "choices": [
+            "March 1, 2027",
+            "March 1, 2025",
+            "March 1, 2026",
+            "March 1, 2028"
+        ]
+    },
+    {
+        "id": 179,
+        "sheet": "Recent2025",
+        "question": "Future Minerals Forum 2025 is organised in",
+        "answer": "Riyadh, Saudi Arabia",
+        "choices": [
+            "Riyadh, Saudi Arabia",
+            "Dubai, UAE",
+            "Doha, Qatar",
+            "Cairo, Egypt"
+        ]
+    },
+    {
+        "id": 180,
+        "sheet": "Recent2025",
+        "question": "India is not part of ",
+        "answer": "ASEAN",
+        "choices": [
+            "ASEAN",
+            "SAARC",
+            "BIMSTEC",
+            "BRICS"
+        ]
+    },
+    {
+        "id": 181,
+        "sheet": "Recent2025",
+        "question": "Name the chief guest on India's Republic Day 2025 event",
+        "answer": "Prabowo Subianto, Indonesia",
+        "choices": [
+            "Prabowo Subianto, Indonesia",
+            "Emmanuel Macron, France",
+            "Adel Fatteh-al Sisi, Egypt",
+            "Joe Biden, USA"
+        ]
+    },
+    {
+        "id": 182,
+        "sheet": "Recent2025",
+        "question": "When was Jal Jeevan Mission - Har Ghar Jal was launched",
+        "answer": "15th August 2019",
+        "choices": [
+            "15th August 2019",
+            "15th August 2020",
+            "15th August 2024",
+            "15th August 2021"
+        ]
+    },
+    {
+        "id": 183,
+        "sheet": "Recent2025",
+        "question": "85th All India Presiding Officers’ Conference (AIPOC) was held in",
+        "answer": "Patna, Bihar",
+        "choices": [
+            "Patna, Bihar",
+            "New Delhi",
+            "Lucknow, Uttar Pradesh",
+            "Indore, Madhya Pradesh"
+        ]
+    },
+    {
+        "id": 184,
+        "sheet": "Recent2025",
+        "question": "How many Indian cities have been recently accredited as Wetland Cities according to Ramsar Convention",
+        "answer": "Two - Inodre & Udaipur",
+        "choices": [
+            "Two - Inodre & Udaipur",
+            "Two - Darbhanga & Jaipur",
+            "One - Darbhanga",
+            "One - Udaipur"
+        ]
+    },
+    {
+        "id": 185,
         "sheet": "BiharSpecific",
         "question": "Bihar State Formation Day",
         "answer": "22nd March 1912",
@@ -1824,7 +2220,7 @@
         ]
     },
     {
-        "id": 153,
+        "id": 186,
         "sheet": "BiharSpecific",
         "question": "North most latitude of Bihar",
         "answer": "27 deg 31 min 15 sec N",
@@ -1836,7 +2232,7 @@
         ]
     },
     {
-        "id": 154,
+        "id": 187,
         "sheet": "BiharSpecific",
         "question": "South most latitude of Bihar",
         "answer": "24 deg 20 min 10 sec N",
@@ -1848,7 +2244,7 @@
         ]
     },
     {
-        "id": 155,
+        "id": 188,
         "sheet": "BiharSpecific",
         "question": "East most longitude of Bihar",
         "answer": "88 deg 17 min 40 sec E",
@@ -1860,7 +2256,7 @@
         ]
     },
     {
-        "id": 156,
+        "id": 189,
         "sheet": "BiharSpecific",
         "question": "West most longitude of Bihar",
         "answer": "83 deg 19 min 50 sec E",
@@ -1872,7 +2268,7 @@
         ]
     },
     {
-        "id": 157,
+        "id": 190,
         "sheet": "BiharSpecific",
         "question": "North-South extent of Bihar",
         "answer": "345 km",
@@ -1884,7 +2280,7 @@
         ]
     },
     {
-        "id": 158,
+        "id": 191,
         "sheet": "BiharSpecific",
         "question": "East-West extent of Bihar",
         "answer": "483 km",
@@ -1896,7 +2292,7 @@
         ]
     },
     {
-        "id": 159,
+        "id": 192,
         "sheet": "BiharSpecific",
         "question": "Total area of Bihar",
         "answer": "94,163 sq km",
@@ -1908,7 +2304,7 @@
         ]
     },
     {
-        "id": 160,
+        "id": 193,
         "sheet": "BiharSpecific",
         "question": "Area of Bihar compared to area of India",
         "answer": "2.86 percent",
@@ -1920,7 +2316,7 @@
         ]
     },
     {
-        "id": 161,
+        "id": 194,
         "sheet": "BiharSpecific",
         "question": "Height of Bihar above mean sea-level in feet",
         "answer": "173 ft",
@@ -1932,7 +2328,7 @@
         ]
     },
     {
-        "id": 162,
+        "id": 195,
         "sheet": "BiharSpecific",
         "question": "Height of Bihar above mean sea-level in meters",
         "answer": "53 m",
@@ -1944,7 +2340,7 @@
         ]
     },
     {
-        "id": 163,
+        "id": 196,
         "sheet": "BiharSpecific",
         "question": "Total number of Divisions in Bihar",
         "answer": 9,
@@ -1956,7 +2352,7 @@
         ]
     },
     {
-        "id": 164,
+        "id": 197,
         "sheet": "BiharSpecific",
         "question": "Total number of Districts in Bihar",
         "answer": 38,
@@ -1968,7 +2364,7 @@
         ]
     },
     {
-        "id": 165,
+        "id": 198,
         "sheet": "BiharSpecific",
         "question": "Total number of Sub-Divisions in Bihar",
         "answer": 101,
@@ -1980,7 +2376,7 @@
         ]
     },
     {
-        "id": 166,
+        "id": 199,
         "sheet": "BiharSpecific",
         "question": "Total number of Blocks in Bihar",
         "answer": 534,
@@ -1992,7 +2388,7 @@
         ]
     },
     {
-        "id": 167,
+        "id": 200,
         "sheet": "BiharSpecific",
         "question": "Total number of Panchayat in Bihar",
         "answer": 8406,
@@ -2004,7 +2400,7 @@
         ]
     },
     {
-        "id": 168,
+        "id": 201,
         "sheet": "BiharSpecific",
         "question": "How many district of Bihar shares international boundary with Nepal",
         "answer": 7,
@@ -2016,7 +2412,7 @@
         ]
     },
     {
-        "id": 169,
+        "id": 202,
         "sheet": "BiharSpecific",
         "question": "Northern-most district of Bihar",
         "answer": "West Champaran",
@@ -2028,7 +2424,7 @@
         ]
     },
     {
-        "id": 170,
+        "id": 203,
         "sheet": "BiharSpecific",
         "question": "Southern-most district of Bihar",
         "answer": "Gaya",
@@ -2040,7 +2436,7 @@
         ]
     },
     {
-        "id": 171,
+        "id": 204,
         "sheet": "BiharSpecific",
         "question": "Eastern-most district of Bihar",
         "answer": "Kishanganj",
@@ -2052,7 +2448,7 @@
         ]
     },
     {
-        "id": 172,
+        "id": 205,
         "sheet": "BiharSpecific",
         "question": "Western-most district of Bihar",
         "answer": "Kaimur",
@@ -2064,7 +2460,7 @@
         ]
     },
     {
-        "id": 173,
+        "id": 206,
         "sheet": "BiharSpecific",
         "question": "Area wise largest district of Bihar",
         "answer": "West Champaran",
@@ -2076,7 +2472,7 @@
         ]
     },
     {
-        "id": 174,
+        "id": 207,
         "sheet": "BiharSpecific",
         "question": "Area wise smallest district of Bihar",
         "answer": "Sheohar",
@@ -2088,7 +2484,7 @@
         ]
     },
     {
-        "id": 175,
+        "id": 208,
         "sheet": "BiharSpecific",
         "question": "District with highest rainfall in Bihar",
         "answer": "Kishanganj",
@@ -2100,7 +2496,7 @@
         ]
     },
     {
-        "id": 176,
+        "id": 209,
         "sheet": "BiharSpecific",
         "question": "District with least rainfall in Bihar",
         "answer": "Kaimur",
@@ -2112,7 +2508,7 @@
         ]
     },
     {
-        "id": 177,
+        "id": 210,
         "sheet": "BiharSpecific",
         "question": "Average number of rainy days in Bihar in a year",
         "answer": "52.5 days",
@@ -2124,7 +2520,7 @@
         ]
     },
     {
-        "id": 178,
+        "id": 211,
         "sheet": "BiharSpecific",
         "question": "Official language of Bihar",
         "answer": "Hindi",
@@ -2136,7 +2532,7 @@
         ]
     },
     {
-        "id": 179,
+        "id": 212,
         "sheet": "BiharSpecific",
         "question": "In which constitutional amendment Maithili was included in the 8th Schedule of Constitution",
         "answer": "92nd",
@@ -2148,7 +2544,7 @@
         ]
     },
     {
-        "id": 180,
+        "id": 213,
         "sheet": "BiharSpecific",
         "question": "What is the population percentage of Bihar compared to India according to Census 2011",
         "answer": "8.6 percent",
@@ -2160,7 +2556,7 @@
         ]
     },
     {
-        "id": 181,
+        "id": 214,
         "sheet": "BiharSpecific",
         "question": "What is the population percentage density of Bihar according to Census 2011",
         "answer": "1,106 person per sq km",
@@ -2172,7 +2568,7 @@
         ]
     },
     {
-        "id": 182,
+        "id": 215,
         "sheet": "BiharSpecific",
         "question": "District with highest population density in Bihar",
         "answer": "Sheohar",
@@ -2184,7 +2580,7 @@
         ]
     },
     {
-        "id": 183,
+        "id": 216,
         "sheet": "BiharSpecific",
         "question": "District with least population density in Bihar",
         "answer": "Kaimur",
@@ -2196,7 +2592,7 @@
         ]
     },
     {
-        "id": 184,
+        "id": 217,
         "sheet": "BiharSpecific",
         "question": "Most populated district of Bihar",
         "answer": "Patna",
@@ -2208,7 +2604,7 @@
         ]
     },
     {
-        "id": 185,
+        "id": 218,
         "sheet": "BiharSpecific",
         "question": "Least populated district of Bihar",
         "answer": "Sheikhpura",
@@ -2220,7 +2616,7 @@
         ]
     },
     {
-        "id": 186,
+        "id": 219,
         "sheet": "BiharSpecific",
         "question": "Sex Ratio of Bihar according to Census 2011",
         "answer": 918,
@@ -2232,7 +2628,7 @@
         ]
     },
     {
-        "id": 187,
+        "id": 220,
         "sheet": "BiharSpecific",
         "question": "Child Sex Ratio of Bihar according to Census 2011",
         "answer": 935,
@@ -2244,7 +2640,7 @@
         ]
     },
     {
-        "id": 188,
+        "id": 221,
         "sheet": "BiharSpecific",
         "question": "District with highest sex ratio in Bihar",
         "answer": "Gopalganj",
@@ -2256,7 +2652,7 @@
         ]
     },
     {
-        "id": 189,
+        "id": 222,
         "sheet": "BiharSpecific",
         "question": "District with least sex ratio in Bihar",
         "answer": "Munger",
@@ -2268,7 +2664,7 @@
         ]
     },
     {
-        "id": 190,
+        "id": 223,
         "sheet": "BiharSpecific",
         "question": "Literacy rate of Bihar according to Census 2011",
         "answer": "61.80 percent",
@@ -2280,7 +2676,7 @@
         ]
     },
     {
-        "id": 191,
+        "id": 224,
         "sheet": "BiharSpecific",
         "question": "District with highest literacy rate in Bihar",
         "answer": "Rohtas",
@@ -2292,7 +2688,7 @@
         ]
     },
     {
-        "id": 192,
+        "id": 225,
         "sheet": "BiharSpecific",
         "question": "District with lowest literacy rate in Bihar",
         "answer": "Purnea",
@@ -2304,7 +2700,7 @@
         ]
     },
     {
-        "id": 193,
+        "id": 226,
         "sheet": "BiharSpecific",
         "question": "What is the urbanisation rate of Bihar according to Census 2011",
         "answer": "11.29 percent",
@@ -2316,7 +2712,7 @@
         ]
     },
     {
-        "id": 194,
+        "id": 227,
         "sheet": "BiharSpecific",
         "question": "Most urbanised district of Bihar",
         "answer": "Patna",
@@ -2328,7 +2724,7 @@
         ]
     },
     {
-        "id": 195,
+        "id": 228,
         "sheet": "BiharSpecific",
         "question": "Least urbanised district of Bihar",
         "answer": "Munger",
@@ -2340,7 +2736,7 @@
         ]
     },
     {
-        "id": 196,
+        "id": 229,
         "sheet": "BiharSpecific",
         "question": "What is the tribal population of Bihar compared to India according to Census 2011",
         "answer": "1.30 percent",
@@ -2352,7 +2748,7 @@
         ]
     },
     {
-        "id": 197,
+        "id": 230,
         "sheet": "BiharSpecific",
         "question": "What is the tribal population of Bihar compared to India according to Caste Survey 2022",
         "answer": "1.68 percent",
@@ -2364,7 +2760,7 @@
         ]
     },
     {
-        "id": 198,
+        "id": 231,
         "sheet": "BiharSpecific",
         "question": "Rank of Bihar among all state & UTs of India in terms of Population",
         "answer": "3rd",
@@ -2376,7 +2772,7 @@
         ]
     },
     {
-        "id": 199,
+        "id": 232,
         "sheet": "BiharSpecific",
         "question": "Rank of Bihar among all state & UTs of India in terms of Area",
         "answer": "12th",
@@ -2388,7 +2784,7 @@
         ]
     },
     {
-        "id": 200,
+        "id": 233,
         "sheet": "BiharSpecific",
         "question": "Decadal population growth of Bihar till 2011",
         "answer": "25.42 percent",
@@ -2400,7 +2796,7 @@
         ]
     },
     {
-        "id": 201,
+        "id": 234,
         "sheet": "BiharSpecific",
         "question": "Total seats in Bihar Vidhan Shabha (Legislative Assembly)",
         "answer": 243,
@@ -2412,7 +2808,7 @@
         ]
     },
     {
-        "id": 202,
+        "id": 235,
         "sheet": "BiharSpecific",
         "question": "Total seats in Bihar Vidhan Parishad (Legislative Council)",
         "answer": 75,
@@ -2424,7 +2820,7 @@
         ]
     },
     {
-        "id": 203,
+        "id": 236,
         "sheet": "BiharSpecific",
         "question": "Total Lok Shabha seats from Bihar",
         "answer": 40,
@@ -2436,7 +2832,7 @@
         ]
     },
     {
-        "id": 204,
+        "id": 237,
         "sheet": "BiharSpecific",
         "question": "Total Rajya Shabha seats from Bihar",
         "answer": 16,
@@ -2448,7 +2844,7 @@
         ]
     },
     {
-        "id": 205,
+        "id": 238,
         "sheet": "BiharSpecific",
         "question": "Who was the first Governor of Bihar post independence",
         "answer": "Shri Jairam Daulatram",
@@ -2460,7 +2856,7 @@
         ]
     },
     {
-        "id": 206,
+        "id": 239,
         "sheet": "BiharSpecific",
         "question": "Who was the first Chief Minister of Bihar",
         "answer": "Shri Krishna Sinha",
@@ -2472,7 +2868,7 @@
         ]
     },
     {
-        "id": 207,
+        "id": 240,
         "sheet": "BiharSpecific",
         "question": "Bihar state is situated in the north of",
         "answer": "Tropic of Cancer",
@@ -2484,7 +2880,7 @@
         ]
     },
     {
-        "id": 208,
+        "id": 241,
         "sheet": "BiharSpecific",
         "question": "In which district of Bihar Dharwad period rocks are found",
         "answer": "All of these",
@@ -2496,7 +2892,7 @@
         ]
     },
     {
-        "id": 209,
+        "id": 242,
         "sheet": "BiharSpecific",
         "question": "In which district of Bihar Vindhyan series rocks are found",
         "answer": "Kaimur & Rohtas",
@@ -2508,7 +2904,7 @@
         ]
     },
     {
-        "id": 210,
+        "id": 243,
         "sheet": "BiharSpecific",
         "question": "When were rocks of Vindhyan series formed",
         "answer": "Pre-Cambrian Period",
@@ -2520,7 +2916,7 @@
         ]
     },
     {
-        "id": 211,
+        "id": 244,
         "sheet": "BiharSpecific",
         "question": "When were rocks of Dharwad series formed",
         "answer": "Archeon",
@@ -2532,7 +2928,7 @@
         ]
     },
     {
-        "id": 212,
+        "id": 245,
         "sheet": "BiharSpecific",
         "question": "Tertiary rocks are found in which Himalayan series",
         "answer": "Shivalik",
@@ -2544,7 +2940,7 @@
         ]
     },
     {
-        "id": 213,
+        "id": 246,
         "sheet": "BiharSpecific",
         "question": "The Kaimur or Rohtas plateau is part of",
         "answer": "Vindhya",
@@ -2556,7 +2952,7 @@
         ]
     },
     {
-        "id": 214,
+        "id": 247,
         "sheet": "BiharSpecific",
         "question": "Kaimur plateau is seperated from Chhota-Nagpur plateau by which river",
         "answer": "Son",
@@ -2568,7 +2964,7 @@
         ]
     },
     {
-        "id": 215,
+        "id": 248,
         "sheet": "BiharSpecific",
         "question": "New Alluvium soil is also known as",
         "answer": "Khadar",
@@ -2580,7 +2976,7 @@
         ]
     },
     {
-        "id": 216,
+        "id": 249,
         "sheet": "BiharSpecific",
         "question": "Terai Soil is found along which border of Bihar",
         "answer": "Northern",
@@ -2592,7 +2988,7 @@
         ]
     },
     {
-        "id": 217,
+        "id": 250,
         "sheet": "BiharSpecific",
         "question": "Peidmont Swamp soil is found in which district of Bihar",
         "answer": "West Champaran",
@@ -2604,7 +3000,7 @@
         ]
     },
     {
-        "id": 218,
+        "id": 251,
         "sheet": "BiharSpecific",
         "question": "What do we extract from Pyrite mineral",
         "answer": "Sulphur",
@@ -2616,7 +3012,7 @@
         ]
     },
     {
-        "id": 219,
+        "id": 252,
         "sheet": "BiharSpecific",
         "question": "Pyrite is mainly found in which district of Bihar",
         "answer": "Rohtas",
@@ -2628,7 +3024,7 @@
         ]
     },
     {
-        "id": 220,
+        "id": 253,
         "sheet": "BiharSpecific",
         "question": "Which mineral is also known as Fool's Gold",
         "answer": "Pyrite",
@@ -2640,7 +3036,7 @@
         ]
     },
     {
-        "id": 221,
+        "id": 254,
         "sheet": "BiharSpecific",
         "question": "Where is Gold reserve of Bihar",
         "answer": "Jamui",
@@ -2652,7 +3048,7 @@
         ]
     },
     {
-        "id": 222,
+        "id": 255,
         "sheet": "BiharSpecific",
         "question": "According to Koppen climate classification, Bihar falls under which category",
         "answer": "Cwa",
@@ -2664,7 +3060,7 @@
         ]
     },
     {
-        "id": 223,
+        "id": 256,
         "sheet": "BiharSpecific",
         "question": "The most famous river for changing its route in Bihar is",
         "answer": "Kosi",
@@ -2676,7 +3072,7 @@
         ]
     },
     {
-        "id": 224,
+        "id": 257,
         "sheet": "BiharSpecific",
         "question": "Which river flows from west to east in the middle of Bihar",
         "answer": "Ganga",
@@ -2688,7 +3084,7 @@
         ]
     },
     {
-        "id": 225,
+        "id": 258,
         "sheet": "BiharSpecific",
         "question": "State the total length of Ganga in kms",
         "answer": "2525 km",
@@ -2700,7 +3096,7 @@
         ]
     },
     {
-        "id": 226,
+        "id": 259,
         "sheet": "BiharSpecific",
         "question": "What is the length of Ganga within territory of Bihar",
         "answer": "445 km",
@@ -2712,7 +3108,7 @@
         ]
     },
     {
-        "id": 227,
+        "id": 260,
         "sheet": "BiharSpecific",
         "question": "Where is the origin of the river Ganga",
         "answer": "Rohtas",
@@ -2724,7 +3120,7 @@
         ]
     },
     {
-        "id": 228,
+        "id": 261,
         "sheet": "BiharSpecific",
         "question": "Ganga river first enters in which district of Bihar from Uttar Pradesh",
         "answer": "Buxar",
@@ -2736,7 +3132,7 @@
         ]
     },
     {
-        "id": 229,
+        "id": 262,
         "sheet": "BiharSpecific",
         "question": "Which of the following rivers decide the borders of Bihar and Uttar Pradesh",
         "answer": "All of these",
@@ -2748,7 +3144,7 @@
         ]
     },
     {
-        "id": 230,
+        "id": 263,
         "sheet": "BiharSpecific",
         "question": "The river Ganga touches how many districts of Bihar",
         "answer": 12,
@@ -2760,7 +3156,7 @@
         ]
     },
     {
-        "id": 231,
+        "id": 264,
         "sheet": "BiharSpecific",
         "question": "Which district of Bihar touches the river Ganga the longest",
         "answer": "Patna",
@@ -2772,7 +3168,7 @@
         ]
     },
     {
-        "id": 232,
+        "id": 265,
         "sheet": "BiharSpecific",
         "question": "The river Ganga terminates in",
         "answer": "Bay of Bengal",
@@ -2784,7 +3180,7 @@
         ]
     },
     {
-        "id": 233,
+        "id": 266,
         "sheet": "BiharSpecific",
         "question": "Which river enters into Ganga 10 kms away from Danapur near west Maner",
         "answer": "Sone",
@@ -2796,7 +3192,7 @@
         ]
     },
     {
-        "id": 234,
+        "id": 267,
         "sheet": "BiharSpecific",
         "question": "Origin of river Ghagra",
         "answer": "Nepal",
@@ -2808,7 +3204,7 @@
         ]
     },
     {
-        "id": 235,
+        "id": 268,
         "sheet": "BiharSpecific",
         "question": "Which of the following rivers is also known as Saryu",
         "answer": "Ghaghra",
@@ -2820,7 +3216,7 @@
         ]
     },
     {
-        "id": 236,
+        "id": 269,
         "sheet": "BiharSpecific",
         "question": "Ghaghra river merges with Ganga in which district of Bihar",
         "answer": "Saran",
@@ -2832,7 +3228,7 @@
         ]
     },
     {
-        "id": 237,
+        "id": 270,
         "sheet": "BiharSpecific",
         "question": "The river Gandak enters in which district of Bihar first",
         "answer": "West Champaran",
@@ -2844,7 +3240,7 @@
         ]
     },
     {
-        "id": 238,
+        "id": 271,
         "sheet": "BiharSpecific",
         "question": "In which district Valmiki Nagar Barrage has been built",
         "answer": "West Champaran",
@@ -2856,7 +3252,7 @@
         ]
     },
     {
-        "id": 239,
+        "id": 272,
         "sheet": "BiharSpecific",
         "question": "Valmiki Nagar Barrage is built upon which river",
         "answer": "Gandak",
@@ -2868,7 +3264,7 @@
         ]
     },
     {
-        "id": 240,
+        "id": 273,
         "sheet": "BiharSpecific",
         "question": "Name of the world famous fair held at the confluence of Gandak river",
         "answer": "Harihar Kshetra Mela",
@@ -2880,7 +3276,7 @@
         ]
     },
     {
-        "id": 241,
+        "id": 274,
         "sheet": "BiharSpecific",
         "question": "World's largest cattle fair is organised at confluence of which river",
         "answer": "Gandak",
@@ -2892,7 +3288,7 @@
         ]
     },
     {
-        "id": 242,
+        "id": 275,
         "sheet": "BiharSpecific",
         "question": "Which river flows in the eastern part parallel to the river Gandak",
         "answer": "Budhi Gandak",
@@ -2904,7 +3300,7 @@
         ]
     },
     {
-        "id": 243,
+        "id": 276,
         "sheet": "BiharSpecific",
         "question": "Which river has it's origin in Chautarva Chaur near Vishambharpur under Someshwar series hills",
         "answer": "Budhi Gandak",
@@ -2916,7 +3312,7 @@
         ]
     },
     {
-        "id": 244,
+        "id": 277,
         "sheet": "BiharSpecific",
         "question": "Which of the following rivers has shifted 150 kms from east to west in the last 200 years",
         "answer": "Kosi",
@@ -2928,7 +3324,7 @@
         ]
     },
     {
-        "id": 245,
+        "id": 278,
         "sheet": "BiharSpecific",
         "question": "At which place the river Kosi forms a delta before merging with river Ganga",
         "answer": "Kursela",
@@ -2940,7 +3336,7 @@
         ]
     },
     {
-        "id": 246,
+        "id": 279,
         "sheet": "BiharSpecific",
         "question": "Which of the following is the major tributary of Budhi-Gandak",
         "answer": "Bagmati",
@@ -2952,7 +3348,7 @@
         ]
     },
     {
-        "id": 247,
+        "id": 280,
         "sheet": "BiharSpecific",
         "question": "The origin of Bagmati has occurred in Nepal from which mountain range",
         "answer": "Mahabharat",
@@ -2964,7 +3360,7 @@
         ]
     },
     {
-        "id": 248,
+        "id": 281,
         "sheet": "BiharSpecific",
         "question": "Which river enters in Terai area after passing through Mahabharat range in Nepal",
         "answer": "Budhi-Gandak",
@@ -2976,7 +3372,7 @@
         ]
     },
     {
-        "id": 249,
+        "id": 282,
         "sheet": "BiharSpecific",
         "question": "Ancient name of river Kosi",
         "answer": "Kaushiki",
@@ -2988,7 +3384,7 @@
         ]
     },
     {
-        "id": 250,
+        "id": 283,
         "sheet": "BiharSpecific",
         "question": "All the seven currents of Kosi merge at which place where it also known as Sapta Kosi",
         "answer": "Triveni (Nepal)",
@@ -3000,7 +3396,7 @@
         ]
     },
     {
-        "id": 251,
+        "id": 284,
         "sheet": "BiharSpecific",
         "question": "Which of the following river is also known as \"Bihar ka shok\"",
         "answer": "Kosi",
@@ -3012,7 +3408,7 @@
         ]
     },
     {
-        "id": 252,
+        "id": 285,
         "sheet": "BiharSpecific",
         "question": "Mount Everest and Kanchenjunga falls under catchement area of which river",
         "answer": "Kosi",
@@ -3024,7 +3420,7 @@
         ]
     },
     {
-        "id": 253,
+        "id": 286,
         "sheet": "BiharSpecific",
         "question": "Which of the following rivers is a river of the east following through North Bihar",
         "answer": "Mahananda",
@@ -3036,7 +3432,7 @@
         ]
     },
     {
-        "id": 254,
+        "id": 287,
         "sheet": "BiharSpecific",
         "question": "Which river determines the borders of Bengal & Bihar",
         "answer": "Mahananda",
@@ -3048,7 +3444,7 @@
         ]
     },
     {
-        "id": 255,
+        "id": 288,
         "sheet": "BiharSpecific",
         "question": "Origin of which river lies in Amarkantak in Madhya Pradesh",
         "answer": "Son",
@@ -3060,7 +3456,7 @@
         ]
     },
     {
-        "id": 256,
+        "id": 289,
         "sheet": "BiharSpecific",
         "question": "Which river is the longest flowing tributary of the Ganga in Southern Bihar",
         "answer": "Son",
@@ -3072,7 +3468,7 @@
         ]
     },
     {
-        "id": 257,
+        "id": 290,
         "sheet": "BiharSpecific",
         "question": "Son river first enters in which district of Bihar",
         "answer": "Rohtas",
@@ -3084,7 +3480,7 @@
         ]
     },
     {
-        "id": 258,
+        "id": 291,
         "sheet": "BiharSpecific",
         "question": "On which of the following rivers Indrapuri Barrage is located",
         "answer": "Son",
@@ -3096,7 +3492,7 @@
         ]
     },
     {
-        "id": 259,
+        "id": 292,
         "sheet": "BiharSpecific",
         "question": "On the riverbed of which of the following rivers, Gautam Buddha attained awakening",
         "answer": "Falgu",
@@ -3108,7 +3504,7 @@
         ]
     },
     {
-        "id": 260,
+        "id": 293,
         "sheet": "BiharSpecific",
         "question": "Where in Bihar, Pitrapaksha Mela is held",
         "answer": "Gaya",
@@ -3120,7 +3516,7 @@
         ]
     },
     {
-        "id": 261,
+        "id": 294,
         "sheet": "BiharSpecific",
         "question": "In which of the following rivers, the ritual of Pind-dan is performed",
         "answer": "Falgu",
@@ -3132,7 +3528,7 @@
         ]
     },
     {
-        "id": 262,
+        "id": 295,
         "sheet": "BiharSpecific",
         "question": "Which river gets divided in two parts in Jehanabad district near Barabar Hills",
         "answer": "Falgu",
@@ -3144,7 +3540,7 @@
         ]
     },
     {
-        "id": 263,
+        "id": 296,
         "sheet": "BiharSpecific",
         "question": "Origin of the river Punpun",
         "answer": "Chhota-Nagpur Plataeu",
@@ -3156,7 +3552,7 @@
         ]
     },
     {
-        "id": 264,
+        "id": 297,
         "sheet": "BiharSpecific",
         "question": "At which place Punpun river merges with Ganga",
         "answer": "Fatuha",
@@ -3168,7 +3564,7 @@
         ]
     },
     {
-        "id": 265,
+        "id": 298,
         "sheet": "BiharSpecific",
         "question": "Which river has its ancient name as Hiranyavah",
         "answer": "Son",
@@ -3180,7 +3576,7 @@
         ]
     },
     {
-        "id": 266,
+        "id": 299,
         "sheet": "BiharSpecific",
         "question": "Which art form of Bihar has a sequential representation of stories, hence also known as scroll painting",
         "answer": "Manjusha Art",
@@ -3192,7 +3588,7 @@
         ]
     },
     {
-        "id": 267,
+        "id": 300,
         "sheet": "BiharSpecific",
         "question": "Bihula-Bishahari Gatha is related to with art form of Bihar",
         "answer": "Manjusha Art",
@@ -3204,7 +3600,7 @@
         ]
     },
     {
-        "id": 268,
+        "id": 301,
         "sheet": "BiharSpecific",
         "question": "Origin of Manjusha Art ",
         "answer": "Bhagalpur",
@@ -3216,7 +3612,7 @@
         ]
     },
     {
-        "id": 269,
+        "id": 302,
         "sheet": "BiharSpecific",
         "question": "Origin of Tikuli Art",
         "answer": "Patna",
@@ -3228,7 +3624,7 @@
         ]
     },
     {
-        "id": 270,
+        "id": 303,
         "sheet": "BiharSpecific",
         "question": "Which art form is also know as Firangi Kalam or as the white man's art",
         "answer": "Patna Kalam",
@@ -3240,7 +3636,7 @@
         ]
     },
     {
-        "id": 271,
+        "id": 304,
         "sheet": "BiharSpecific",
         "question": "The subject of these paintings were common man and their mundane routines, name the art form",
         "answer": "Patna Kalam",
@@ -3252,7 +3648,7 @@
         ]
     },
     {
-        "id": 272,
+        "id": 305,
         "sheet": "BiharSpecific",
         "question": "Where is Kakolat Waterfall located in Bihar",
         "answer": "Nawada",
@@ -3264,7 +3660,7 @@
         ]
     },
     {
-        "id": 273,
+        "id": 306,
         "sheet": "BiharSpecific",
         "question": "Where is Tutla Bhawani Waterfall located in Bihar",
         "answer": "Rohtas",
@@ -3276,7 +3672,7 @@
         ]
     },
     {
-        "id": 274,
+        "id": 307,
         "sheet": "BiharSpecific",
         "question": "Where is Telhar Kund Waterfall located in Bihar",
         "answer": "Kaimur",
@@ -3288,7 +3684,7 @@
         ]
     },
     {
-        "id": 275,
+        "id": 308,
         "sheet": "BiharSpecific",
         "question": "Where is Karakat Waterfall located in Bihar",
         "answer": "Kaimur",
@@ -3300,7 +3696,7 @@
         ]
     },
     {
-        "id": 276,
+        "id": 309,
         "sheet": "BiharSpecific",
         "question": "Where is Manjhar Kund located in Bihar",
         "answer": "Rohtas",
@@ -3312,7 +3708,7 @@
         ]
     },
     {
-        "id": 277,
+        "id": 310,
         "sheet": "BiharSpecific",
         "question": "Where is Dhua Kund located in Bihar",
         "answer": "Rohtas",
@@ -3324,7 +3720,7 @@
         ]
     },
     {
-        "id": 278,
+        "id": 311,
         "sheet": "BiharSpecific",
         "question": "Where is Kanwar Lake located in Bihar",
         "answer": "Begusarai",
@@ -3336,7 +3732,7 @@
         ]
     },
     {
-        "id": 279,
+        "id": 312,
         "sheet": "BiharSpecific",
         "question": "How may Ramsar sites are there in Bihar as of 2025",
         "answer": "Three",
@@ -3348,7 +3744,7 @@
         ]
     },
     {
-        "id": 280,
+        "id": 313,
         "sheet": "BiharSpecific",
         "question": "Where is Muchalinda Lake in Bihar",
         "answer": "Bodhgaya",
@@ -3360,7 +3756,7 @@
         ]
     },
     {
-        "id": 281,
+        "id": 314,
         "sheet": "BiharSpecific",
         "question": "Where is Sarai Man Lake in Bihar",
         "answer": "West Champaran",
@@ -3372,7 +3768,7 @@
         ]
     },
     {
-        "id": 282,
+        "id": 315,
         "sheet": "BiharSpecific",
         "question": "Where is Moti Jheel located in Bihar",
         "answer": "East Champaran",
@@ -3384,7 +3780,7 @@
         ]
     },
     {
-        "id": 283,
+        "id": 316,
         "sheet": "BiharSpecific",
         "question": "Where is Pandu Pokhar located in Bihar",
         "answer": "Rajgir",
@@ -3396,7 +3792,7 @@
         ]
     },
     {
-        "id": 284,
+        "id": 317,
         "sheet": "BiharSpecific",
         "question": "Where is Ghorakatora Lake located in Bihar",
         "answer": "Rajgir",
@@ -3408,7 +3804,7 @@
         ]
     },
     {
-        "id": 285,
+        "id": 318,
         "sheet": "BiharSpecific",
         "question": "Which type of forest is found in Bihar",
         "answer": "Moist Deciduos",
@@ -3420,7 +3816,7 @@
         ]
     },
     {
-        "id": 286,
+        "id": 319,
         "sheet": "BiharSpecific",
         "question": "Which is most abundantly found in forests of Bihar",
         "answer": "Sal",
@@ -3432,7 +3828,7 @@
         ]
     },
     {
-        "id": 287,
+        "id": 320,
         "sheet": "BiharSpecific",
         "question": "How much is the natural forest cover in Bihar",
         "answer": "7.27 percent",
@@ -3444,7 +3840,7 @@
         ]
     },
     {
-        "id": 288,
+        "id": 321,
         "sheet": "BiharSpecific",
         "question": "How many National Parks are there in Bihar",
         "answer": "One",
@@ -3456,7 +3852,7 @@
         ]
     },
     {
-        "id": 289,
+        "id": 322,
         "sheet": "BiharSpecific",
         "question": "Valmiki National Park is located in",
         "answer": "West Champaran",
@@ -3468,7 +3864,7 @@
         ]
     },
     {
-        "id": 290,
+        "id": 323,
         "sheet": "BiharSpecific",
         "question": "Vikramshila Gangetic Dolphin Wildlife Sanctuary is located in",
         "answer": "Bhagalpur",
@@ -3480,7 +3876,7 @@
         ]
     },
     {
-        "id": 291,
+        "id": 324,
         "sheet": "BiharSpecific",
         "question": "Where is Bhimbandh Wildlife Sanctuary located in Bihar",
         "answer": "Munger",
@@ -3492,7 +3888,7 @@
         ]
     },
     {
-        "id": 292,
+        "id": 325,
         "sheet": "BiharSpecific",
         "question": "Where is Gautam Buddha Wildlife Sanctuary located in Bihar",
         "answer": "Gaya",
@@ -3504,7 +3900,7 @@
         ]
     },
     {
-        "id": 293,
+        "id": 326,
         "sheet": "BiharSpecific",
         "question": "Where is Udaypur Wildlife Sanctuary located in Bihar",
         "answer": "West Champaran",
@@ -3516,7 +3912,7 @@
         ]
     },
     {
-        "id": 294,
+        "id": 327,
         "sheet": "BiharSpecific",
         "question": "Where is Nakti Dam located in Bihar",
         "answer": "Jamui",
@@ -3528,7 +3924,7 @@
         ]
     },
     {
-        "id": 295,
+        "id": 328,
         "sheet": "BiharSpecific",
         "question": "Where is Nagi Dam located in Bihar",
         "answer": "Jamui",
@@ -3540,7 +3936,7 @@
         ]
     },
     {
-        "id": 296,
+        "id": 329,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "What is the size of Bihar's economy at current price in 2023-24",
         "answer": "8.54 lakh crore",
@@ -3552,7 +3948,7 @@
         ]
     },
     {
-        "id": 297,
+        "id": 330,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "Growth in Bihar's GSDP at current price for year 2023-24",
         "answer": "14.5 percent",
@@ -3564,7 +3960,7 @@
         ]
     },
     {
-        "id": 298,
+        "id": 331,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
         "answer": "9.2 percent",
@@ -3576,7 +3972,7 @@
         ]
     },
     {
-        "id": 299,
+        "id": 332,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "Which economic sector is the hightest contributor in Bihar state GVA for year 2023-24",
         "answer": "Tertiary",
@@ -3588,7 +3984,7 @@
         ]
     },
     {
-        "id": 300,
+        "id": 333,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
         "answer": "58.6 percent",
@@ -3600,7 +3996,7 @@
         ]
     },
     {
-        "id": 301,
+        "id": 334,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "Industry contributing the most in Bihar state GVA for year 2023-24",
         "answer": "Non-Metallic Mineral Production",
@@ -3612,7 +4008,7 @@
         ]
     },
     {
-        "id": 302,
+        "id": 335,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "How much Bihar contributes in total Makhana production of India",
         "answer": "85 percent",
@@ -3624,7 +4020,7 @@
         ]
     },
     {
-        "id": 303,
+        "id": 336,
         "sheet": "BiharBudget2025-26",
         "question": "Department with highest Bihar's budget allocation for year 2025-26",
         "answer": "Education",
@@ -3636,7 +4032,7 @@
         ]
     },
     {
-        "id": 304,
+        "id": 337,
         "sheet": "BiharBudget2025-26",
         "question": "What is the size of budget as mentioned in Bihar's Budget for year 2025-26",
         "answer": "3.17 lakh crore",
@@ -3648,7 +4044,7 @@
         ]
     },
     {
-        "id": 305,
+        "id": 338,
         "sheet": "BiharBudget2025-26",
         "question": "Center of excellence for jaggery is proposed in which district of Bihar",
         "answer": "Samastipur",
@@ -3660,7 +4056,7 @@
         ]
     },
     {
-        "id": 306,
+        "id": 339,
         "sheet": "Science",
         "question": "Physics involves the study of",
         "answer": "Nature & Natural Phenomena",
@@ -3672,7 +4068,7 @@
         ]
     },
     {
-        "id": 307,
+        "id": 340,
         "sheet": "Science",
         "question": "Classical Physics does not include subjects like",
         "answer": "Elementary Particles",
@@ -3684,7 +4080,7 @@
         ]
     },
     {
-        "id": 308,
+        "id": 341,
         "sheet": "Science",
         "question": "Size of universe is of the order of",
         "answer": "10^26 m",
@@ -3696,7 +4092,7 @@
         ]
     },
     {
-        "id": 309,
+        "id": 342,
         "sheet": "Science",
         "question": "Einstein was awarded Nobel Prize in Physics for",
         "answer": "Law of Photoelectric Effect",
@@ -3708,7 +4104,7 @@
         ]
     },
     {
-        "id": 310,
+        "id": 343,
         "sheet": "Science",
         "question": "Fundamental unit of luminous intensity",
         "answer": "Candela",
@@ -3720,7 +4116,7 @@
         ]
     },
     {
-        "id": 311,
+        "id": 344,
         "sheet": "Science",
         "question": "Weber is derived unit of",
         "answer": "Magnetic Flux",
@@ -3732,7 +4128,7 @@
         ]
     },
     {
-        "id": 312,
+        "id": 345,
         "sheet": "Science",
         "question": "The prefix femto stands for",
         "answer": "10^-15",
@@ -3744,7 +4140,7 @@
         ]
     },
     {
-        "id": 313,
+        "id": 346,
         "sheet": "Science",
         "question": "Number of basic SI Unit is ",
         "answer": 7,
@@ -3756,7 +4152,7 @@
         ]
     },
     {
-        "id": 314,
+        "id": 347,
         "sheet": "Science",
         "question": "Light-year is a unit of ",
         "answer": "Distance",
@@ -3768,7 +4164,7 @@
         ]
     },
     {
-        "id": 315,
+        "id": 348,
         "sheet": "Science",
         "question": "Speed of light in a vacuum is approximately ",
         "answer": "3 x 10^8 m/s",
@@ -3780,7 +4176,7 @@
         ]
     },
     {
-        "id": 316,
+        "id": 349,
         "sheet": "Science",
         "question": "Ampere is unit of",
         "answer": "Electric Current",
@@ -3792,7 +4188,7 @@
         ]
     },
     {
-        "id": 317,
+        "id": 350,
         "sheet": "Science",
         "question": "SI unit of pressure",
         "answer": "Pascal",
@@ -3804,7 +4200,7 @@
         ]
     },
     {
-        "id": 318,
+        "id": 351,
         "sheet": "Science",
         "question": "Decibel is unit of",
         "answer": "Intensity of Sound",
@@ -3816,7 +4212,7 @@
         ]
     },
     {
-        "id": 319,
+        "id": 352,
         "sheet": "Science",
         "question": "SI unit of electric charge",
         "answer": "Coulomb",
@@ -3828,7 +4224,7 @@
         ]
     },
     {
-        "id": 320,
+        "id": 353,
         "sheet": "Science",
         "question": "One astronomical unit (AU) is the average distance between",
         "answer": "Earth & Sun",
@@ -3840,7 +4236,7 @@
         ]
     },
     {
-        "id": 321,
+        "id": 354,
         "sheet": "Science",
         "question": "Physical quantity without any unit",
         "answer": "Strain",
@@ -3852,7 +4248,7 @@
         ]
     },
     {
-        "id": 322,
+        "id": 355,
         "sheet": "Science",
         "question": "One Newton equals to",
         "answer": "1 Kg m/s^2",
@@ -3864,7 +4260,7 @@
         ]
     },
     {
-        "id": 323,
+        "id": 356,
         "sheet": "Science",
         "question": "SI unit of acceleration is",
         "answer": "m/s^2",
@@ -3876,7 +4272,7 @@
         ]
     },
     {
-        "id": 324,
+        "id": 357,
         "sheet": "Science",
         "question": "SI unit of electric resistance is",
         "answer": "Ohm",
@@ -3888,7 +4284,7 @@
         ]
     },
     {
-        "id": 325,
+        "id": 358,
         "sheet": "Science",
         "question": "1 kWh equals to",
         "answer": "3.6 x 10^6 J",
@@ -3900,7 +4296,7 @@
         ]
     },
     {
-        "id": 326,
+        "id": 359,
         "sheet": "Science",
         "question": "Electric Potential is measured in",
         "answer": "Joule / Coulomb",
@@ -3912,7 +4308,7 @@
         ]
     },
     {
-        "id": 327,
+        "id": 360,
         "sheet": "Science",
         "question": "Which of the following pairs have the same units",
         "answer": "Work & Energy",
@@ -3924,7 +4320,7 @@
         ]
     },
     {
-        "id": 328,
+        "id": 361,
         "sheet": "Science",
         "question": "Rate of change of momentum of a body is ",
         "answer": "Impulse",
@@ -3936,7 +4332,7 @@
         ]
     },
     {
-        "id": 329,
+        "id": 362,
         "sheet": "Science",
         "question": "SI unit of power is",
         "answer": "Watt",
@@ -3948,7 +4344,7 @@
         ]
     },
     {
-        "id": 330,
+        "id": 363,
         "sheet": "Science",
         "question": "Which of the following equations represents Pressure in Physics",
         "answer": "Force / Area",
@@ -3960,7 +4356,7 @@
         ]
     },
     {
-        "id": 331,
+        "id": 364,
         "sheet": "Science",
         "question": "Which of the following is a scalar quantity",
         "answer": "Mass",
@@ -3972,7 +4368,7 @@
         ]
     },
     {
-        "id": 332,
+        "id": 365,
         "sheet": "Science",
         "question": "One horsepower is approximately equal to",
         "answer": "746 W",
@@ -3984,7 +4380,7 @@
         ]
     },
     {
-        "id": 333,
+        "id": 366,
         "sheet": "Science",
         "question": "Molecular formula of Methyl Isocynate",
         "answer": "C2H3NO",
@@ -3996,7 +4392,7 @@
         ]
     },
     {
-        "id": 334,
+        "id": 367,
         "sheet": "Science",
         "question": "Ore of Thorium",
         "answer": "Monzite",
@@ -4008,7 +4404,7 @@
         ]
     },
     {
-        "id": 335,
+        "id": 368,
         "sheet": "Science",
         "question": "Ore of Uranium",
         "answer": "Pitchblende",
@@ -4020,7 +4416,7 @@
         ]
     },
     {
-        "id": 336,
+        "id": 369,
         "sheet": "Science",
         "question": "Which of the following acids is secreted in the stomach",
         "answer": "Hydrochloric acid",
@@ -4032,7 +4428,7 @@
         ]
     },
     {
-        "id": 337,
+        "id": 370,
         "sheet": "Science",
         "question": "The meter used to measure the distance moved by the vehicle is known as",
         "answer": "Odometer",
@@ -4044,7 +4440,7 @@
         ]
     },
     {
-        "id": 338,
+        "id": 371,
         "sheet": "Science",
         "question": "Heat transfer that does not require a medium is called",
         "answer": "Radiation",
@@ -4056,7 +4452,7 @@
         ]
     },
     {
-        "id": 339,
+        "id": 372,
         "sheet": "Science",
         "question": "What type of rock is formed from the cooling and solidification of lava",
         "answer": "Igneous",
@@ -4068,7 +4464,7 @@
         ]
     },
     {
-        "id": 340,
+        "id": 373,
         "sheet": "Science",
         "question": "Which of the following represents the suitable condition for the liquefaction of gases",
         "answer": "Low Temperature, High Pressure",
@@ -4080,7 +4476,7 @@
         ]
     },
     {
-        "id": 341,
+        "id": 374,
         "sheet": "Science",
         "question": "Which of the following is an Iron ore",
         "answer": "Limonite",
@@ -4092,7 +4488,7 @@
         ]
     },
     {
-        "id": 342,
+        "id": 375,
         "sheet": "Science",
         "question": "Which component of fertilizer is used for stimulating early growth",
         "answer": "Phosphorus",
@@ -4104,7 +4500,7 @@
         ]
     },
     {
-        "id": 343,
+        "id": 376,
         "sheet": "Science",
         "question": "Which of the following are the constituents of a sodia acid fire extinguisher",
         "answer": "Dilute sulphuric acid and sodium bicarbonate solution",
@@ -4116,7 +4512,7 @@
         ]
     },
     {
-        "id": 344,
+        "id": 377,
         "sheet": "Science",
         "question": "Which of the following bacterial diseases is called splenic fever",
         "answer": "Anthrax",
@@ -4128,7 +4524,7 @@
         ]
     },
     {
-        "id": 345,
+        "id": 378,
         "sheet": "Science",
         "question": "Which of the following radiation is used to get relief from body aches",
         "answer": "Infrared",
@@ -4140,7 +4536,7 @@
         ]
     },
     {
-        "id": 346,
+        "id": 379,
         "sheet": "Science",
         "question": "Which one of the following is an example of melamine used for making floor tiles",
         "answer": "Thermosetting Plastics",
@@ -4152,7 +4548,7 @@
         ]
     },
     {
-        "id": 347,
+        "id": 380,
         "sheet": "Science",
         "question": "Which of the following is the first artificially prepared element",
         "answer": "Tc",
@@ -4164,7 +4560,7 @@
         ]
     },
     {
-        "id": 348,
+        "id": 381,
         "sheet": "Science",
         "question": "Which of the following has a highly elongated elliptical orbit",
         "answer": "Comet",
@@ -4176,7 +4572,7 @@
         ]
     },
     {
-        "id": 349,
+        "id": 382,
         "sheet": "Science",
         "question": "Which of the following is the fluid part of the blood",
         "answer": "Plasma",
@@ -4188,7 +4584,7 @@
         ]
     },
     {
-        "id": 350,
+        "id": 383,
         "sheet": "Science",
         "question": "Which of the following minerals occur in Minas Gerais province of Brazil",
         "answer": "Iron",
@@ -4200,7 +4596,7 @@
         ]
     },
     {
-        "id": 351,
+        "id": 384,
         "sheet": "Science",
         "question": "Which of the following is a non-contact force",
         "answer": "Magnetic",
@@ -4212,7 +4608,7 @@
         ]
     },
     {
-        "id": 352,
+        "id": 385,
         "sheet": "Science",
         "question": "What is the structural and functional unit of Life",
         "answer": "Cell",
@@ -4224,7 +4620,7 @@
         ]
     },
     {
-        "id": 353,
+        "id": 386,
         "sheet": "Science",
         "question": "Which of the following, corundrum and cryolite are important ore",
         "answer": "Aluminium",
@@ -4236,7 +4632,7 @@
         ]
     },
     {
-        "id": 354,
+        "id": 387,
         "sheet": "Science",
         "question": "Which of the following is the resistance of wire",
         "answer": "R = V/I",
@@ -4248,7 +4644,7 @@
         ]
     },
     {
-        "id": 355,
+        "id": 388,
         "sheet": "Science",
         "question": "What is the value of solar constant",
         "answer": "1.4 kW/m2",
@@ -4260,7 +4656,7 @@
         ]
     },
     {
-        "id": 356,
+        "id": 389,
         "sheet": "Science",
         "question": "Which of the following the chlorophyll in photosyntesis is used for",
         "answer": "Absorbing light",
@@ -4272,7 +4668,7 @@
         ]
     },
     {
-        "id": 357,
+        "id": 390,
         "sheet": "Science",
         "question": "Which part of alimentary canal receives bile from the liver",
         "answer": "Small Intestine",
@@ -4284,7 +4680,7 @@
         ]
     },
     {
-        "id": 358,
+        "id": 391,
         "sheet": "Science",
         "question": "The process of breaking down organic matter by micro-organisms is called",
         "answer": "Decomposition",
@@ -4296,7 +4692,7 @@
         ]
     },
     {
-        "id": 359,
+        "id": 392,
         "sheet": "Science",
         "question": "Which of the following is a major cause of pollution",
         "answer": "Burning of Fossil Fuels",
@@ -4308,7 +4704,7 @@
         ]
     },
     {
-        "id": 360,
+        "id": 393,
         "sheet": "Science",
         "question": "Who was the first to propose a model for the structure of an atom",
         "answer": "J J Thomson",
