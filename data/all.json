@@ -2653,6 +2653,54 @@
     },
     {
         "id": 222,
+        "sheet": "Recent2025",
+        "question": "Bill to allow Assisted dying for terminally ill adults was recently passed in lower house of which country",
+        "answer": "United Kingdom",
+        "choices": [
+            "United Kingdom",
+            "United States of America",
+            "India",
+            "France"
+        ]
+    },
+    {
+        "id": 223,
+        "sheet": "Recent2025",
+        "question": "Which of the following country is not a signatory of Nuclear Non-Proliferation Treaty?",
+        "answer": "India",
+        "choices": [
+            "India",
+            "USA",
+            "UK",
+            "France"
+        ]
+    },
+    {
+        "id": 224,
+        "sheet": "Recent2025",
+        "question": "Which of the following country is a signatory of Nuclear Non-Proliferation Treaty?",
+        "answer": "Iran",
+        "choices": [
+            "Iran",
+            "Isreal",
+            "Pakistan",
+            "India"
+        ]
+    },
+    {
+        "id": 225,
+        "sheet": "Recent2025",
+        "question": "When was Nuclear Non-Proliferation Treaty signed?",
+        "answer": "1st July 1968",
+        "choices": [
+            "1st July 1968",
+            "5th March 1970",
+            "5th July 1968",
+            "1st July 1970"
+        ]
+    },
+    {
+        "id": 226,
         "sheet": "BiharSpecific",
         "question": "Bihar State Formation Day",
         "answer": "22nd March 1912",
@@ -2664,7 +2712,7 @@
         ]
     },
     {
-        "id": 223,
+        "id": 227,
         "sheet": "BiharSpecific",
         "question": "North most latitude of Bihar",
         "answer": "27 deg 31 min 15 sec N",
@@ -2676,7 +2724,7 @@
         ]
     },
     {
-        "id": 224,
+        "id": 228,
         "sheet": "BiharSpecific",
         "question": "South most latitude of Bihar",
         "answer": "24 deg 20 min 10 sec N",
@@ -2688,7 +2736,7 @@
         ]
     },
     {
-        "id": 225,
+        "id": 229,
         "sheet": "BiharSpecific",
         "question": "East most longitude of Bihar",
         "answer": "88 deg 17 min 40 sec E",
@@ -2700,7 +2748,7 @@
         ]
     },
     {
-        "id": 226,
+        "id": 230,
         "sheet": "BiharSpecific",
         "question": "West most longitude of Bihar",
         "answer": "83 deg 19 min 50 sec E",
@@ -2712,7 +2760,7 @@
         ]
     },
     {
-        "id": 227,
+        "id": 231,
         "sheet": "BiharSpecific",
         "question": "North-South extent of Bihar",
         "answer": "345 km",
@@ -2724,7 +2772,7 @@
         ]
     },
     {
-        "id": 228,
+        "id": 232,
         "sheet": "BiharSpecific",
         "question": "East-West extent of Bihar",
         "answer": "483 km",
@@ -2736,7 +2784,7 @@
         ]
     },
     {
-        "id": 229,
+        "id": 233,
         "sheet": "BiharSpecific",
         "question": "Total area of Bihar",
         "answer": "94,163 sq km",
@@ -2748,7 +2796,7 @@
         ]
     },
     {
-        "id": 230,
+        "id": 234,
         "sheet": "BiharSpecific",
         "question": "Area of Bihar compared to area of India",
         "answer": "2.86 percent",
@@ -2760,7 +2808,7 @@
         ]
     },
     {
-        "id": 231,
+        "id": 235,
         "sheet": "BiharSpecific",
         "question": "Height of Bihar above mean sea-level in feet",
         "answer": "173 ft",
@@ -2772,7 +2820,7 @@
         ]
     },
     {
-        "id": 232,
+        "id": 236,
         "sheet": "BiharSpecific",
         "question": "Height of Bihar above mean sea-level in meters",
         "answer": "53 m",
@@ -2784,7 +2832,7 @@
         ]
     },
     {
-        "id": 233,
+        "id": 237,
         "sheet": "BiharSpecific",
         "question": "Total number of Divisions in Bihar",
         "answer": 9,
@@ -2796,7 +2844,7 @@
         ]
     },
     {
-        "id": 234,
+        "id": 238,
         "sheet": "BiharSpecific",
         "question": "Total number of Districts in Bihar",
         "answer": 38,
@@ -2808,7 +2856,7 @@
         ]
     },
     {
-        "id": 235,
+        "id": 239,
         "sheet": "BiharSpecific",
         "question": "Total number of Sub-Divisions in Bihar",
         "answer": 101,
@@ -2820,7 +2868,7 @@
         ]
     },
     {
-        "id": 236,
+        "id": 240,
         "sheet": "BiharSpecific",
         "question": "Total number of Blocks in Bihar",
         "answer": 534,
@@ -2832,7 +2880,7 @@
         ]
     },
     {
-        "id": 237,
+        "id": 241,
         "sheet": "BiharSpecific",
         "question": "Total number of Panchayat in Bihar",
         "answer": 8406,
@@ -2844,7 +2892,7 @@
         ]
     },
     {
-        "id": 238,
+        "id": 242,
         "sheet": "BiharSpecific",
         "question": "How many district of Bihar shares international boundary with Nepal",
         "answer": 7,
@@ -2856,7 +2904,7 @@
         ]
     },
     {
-        "id": 239,
+        "id": 243,
         "sheet": "BiharSpecific",
         "question": "Northern-most district of Bihar",
         "answer": "West Champaran",
@@ -2868,7 +2916,7 @@
         ]
     },
     {
-        "id": 240,
+        "id": 244,
         "sheet": "BiharSpecific",
         "question": "Southern-most district of Bihar",
         "answer": "Gaya",
@@ -2880,7 +2928,7 @@
         ]
     },
     {
-        "id": 241,
+        "id": 245,
         "sheet": "BiharSpecific",
         "question": "Eastern-most district of Bihar",
         "answer": "Kishanganj",
@@ -2892,7 +2940,7 @@
         ]
     },
     {
-        "id": 242,
+        "id": 246,
         "sheet": "BiharSpecific",
         "question": "Western-most district of Bihar",
         "answer": "Kaimur",
@@ -2904,7 +2952,7 @@
         ]
     },
     {
-        "id": 243,
+        "id": 247,
         "sheet": "BiharSpecific",
         "question": "Area wise largest district of Bihar",
         "answer": "West Champaran",
@@ -2916,7 +2964,7 @@
         ]
     },
     {
-        "id": 244,
+        "id": 248,
         "sheet": "BiharSpecific",
         "question": "Area wise smallest district of Bihar",
         "answer": "Sheohar",
@@ -2928,7 +2976,7 @@
         ]
     },
     {
-        "id": 245,
+        "id": 249,
         "sheet": "BiharSpecific",
         "question": "District with highest rainfall in Bihar",
         "answer": "Kishanganj",
@@ -2940,7 +2988,7 @@
         ]
     },
     {
-        "id": 246,
+        "id": 250,
         "sheet": "BiharSpecific",
         "question": "District with least rainfall in Bihar",
         "answer": "Kaimur",
@@ -2952,7 +3000,7 @@
         ]
     },
     {
-        "id": 247,
+        "id": 251,
         "sheet": "BiharSpecific",
         "question": "Average number of rainy days in Bihar in a year",
         "answer": "52.5 days",
@@ -2964,7 +3012,7 @@
         ]
     },
     {
-        "id": 248,
+        "id": 252,
         "sheet": "BiharSpecific",
         "question": "Official language of Bihar",
         "answer": "Hindi",
@@ -2976,7 +3024,7 @@
         ]
     },
     {
-        "id": 249,
+        "id": 253,
         "sheet": "BiharSpecific",
         "question": "In which constitutional amendment Maithili was included in the 8th Schedule of Constitution",
         "answer": "92nd",
@@ -2988,7 +3036,7 @@
         ]
     },
     {
-        "id": 250,
+        "id": 254,
         "sheet": "BiharSpecific",
         "question": "What is the population percentage of Bihar compared to India according to Census 2011",
         "answer": "8.6 percent",
@@ -3000,7 +3048,7 @@
         ]
     },
     {
-        "id": 251,
+        "id": 255,
         "sheet": "BiharSpecific",
         "question": "What is the population percentage density of Bihar according to Census 2011",
         "answer": "1,106 person per sq km",
@@ -3012,7 +3060,7 @@
         ]
     },
     {
-        "id": 252,
+        "id": 256,
         "sheet": "BiharSpecific",
         "question": "District with highest population density in Bihar",
         "answer": "Sheohar",
@@ -3024,7 +3072,7 @@
         ]
     },
     {
-        "id": 253,
+        "id": 257,
         "sheet": "BiharSpecific",
         "question": "District with least population density in Bihar",
         "answer": "Kaimur",
@@ -3036,7 +3084,7 @@
         ]
     },
     {
-        "id": 254,
+        "id": 258,
         "sheet": "BiharSpecific",
         "question": "Most populated district of Bihar",
         "answer": "Patna",
@@ -3048,7 +3096,7 @@
         ]
     },
     {
-        "id": 255,
+        "id": 259,
         "sheet": "BiharSpecific",
         "question": "Least populated district of Bihar",
         "answer": "Sheikhpura",
@@ -3060,7 +3108,7 @@
         ]
     },
     {
-        "id": 256,
+        "id": 260,
         "sheet": "BiharSpecific",
         "question": "Sex Ratio of Bihar according to Census 2011",
         "answer": 918,
@@ -3072,7 +3120,7 @@
         ]
     },
     {
-        "id": 257,
+        "id": 261,
         "sheet": "BiharSpecific",
         "question": "Child Sex Ratio of Bihar according to Census 2011",
         "answer": 935,
@@ -3084,7 +3132,7 @@
         ]
     },
     {
-        "id": 258,
+        "id": 262,
         "sheet": "BiharSpecific",
         "question": "District with highest sex ratio in Bihar",
         "answer": "Gopalganj",
@@ -3096,7 +3144,7 @@
         ]
     },
     {
-        "id": 259,
+        "id": 263,
         "sheet": "BiharSpecific",
         "question": "District with least sex ratio in Bihar",
         "answer": "Munger",
@@ -3108,7 +3156,7 @@
         ]
     },
     {
-        "id": 260,
+        "id": 264,
         "sheet": "BiharSpecific",
         "question": "Literacy rate of Bihar according to Census 2011",
         "answer": "61.80 percent",
@@ -3120,7 +3168,7 @@
         ]
     },
     {
-        "id": 261,
+        "id": 265,
         "sheet": "BiharSpecific",
         "question": "District with highest literacy rate in Bihar",
         "answer": "Rohtas",
@@ -3132,7 +3180,7 @@
         ]
     },
     {
-        "id": 262,
+        "id": 266,
         "sheet": "BiharSpecific",
         "question": "District with lowest literacy rate in Bihar",
         "answer": "Purnea",
@@ -3144,7 +3192,7 @@
         ]
     },
     {
-        "id": 263,
+        "id": 267,
         "sheet": "BiharSpecific",
         "question": "What is the urbanisation rate of Bihar according to Census 2011",
         "answer": "11.29 percent",
@@ -3156,7 +3204,7 @@
         ]
     },
     {
-        "id": 264,
+        "id": 268,
         "sheet": "BiharSpecific",
         "question": "Most urbanised district of Bihar",
         "answer": "Patna",
@@ -3168,7 +3216,7 @@
         ]
     },
     {
-        "id": 265,
+        "id": 269,
         "sheet": "BiharSpecific",
         "question": "Least urbanised district of Bihar",
         "answer": "Munger",
@@ -3180,7 +3228,7 @@
         ]
     },
     {
-        "id": 266,
+        "id": 270,
         "sheet": "BiharSpecific",
         "question": "What is the tribal population of Bihar compared to India according to Census 2011",
         "answer": "1.30 percent",
@@ -3192,7 +3240,7 @@
         ]
     },
     {
-        "id": 267,
+        "id": 271,
         "sheet": "BiharSpecific",
         "question": "What is the tribal population of Bihar compared to India according to Caste Survey 2022",
         "answer": "1.68 percent",
@@ -3204,7 +3252,7 @@
         ]
     },
     {
-        "id": 268,
+        "id": 272,
         "sheet": "BiharSpecific",
         "question": "Rank of Bihar among all state & UTs of India in terms of Population",
         "answer": "3rd",
@@ -3216,7 +3264,7 @@
         ]
     },
     {
-        "id": 269,
+        "id": 273,
         "sheet": "BiharSpecific",
         "question": "Rank of Bihar among all state & UTs of India in terms of Area",
         "answer": "12th",
@@ -3228,7 +3276,7 @@
         ]
     },
     {
-        "id": 270,
+        "id": 274,
         "sheet": "BiharSpecific",
         "question": "Decadal population growth of Bihar till 2011",
         "answer": "25.42 percent",
@@ -3240,7 +3288,7 @@
         ]
     },
     {
-        "id": 271,
+        "id": 275,
         "sheet": "BiharSpecific",
         "question": "Total seats in Bihar Vidhan Shabha (Legislative Assembly)",
         "answer": 243,
@@ -3252,7 +3300,7 @@
         ]
     },
     {
-        "id": 272,
+        "id": 276,
         "sheet": "BiharSpecific",
         "question": "Total seats in Bihar Vidhan Parishad (Legislative Council)",
         "answer": 75,
@@ -3264,7 +3312,7 @@
         ]
     },
     {
-        "id": 273,
+        "id": 277,
         "sheet": "BiharSpecific",
         "question": "Total Lok Shabha seats from Bihar",
         "answer": 40,
@@ -3276,7 +3324,7 @@
         ]
     },
     {
-        "id": 274,
+        "id": 278,
         "sheet": "BiharSpecific",
         "question": "Total Rajya Shabha seats from Bihar",
         "answer": 16,
@@ -3288,7 +3336,7 @@
         ]
     },
     {
-        "id": 275,
+        "id": 279,
         "sheet": "BiharSpecific",
         "question": "Who was the first Governor of Bihar post independence",
         "answer": "Shri Jairam Daulatram",
@@ -3300,7 +3348,7 @@
         ]
     },
     {
-        "id": 276,
+        "id": 280,
         "sheet": "BiharSpecific",
         "question": "Who was the first Chief Minister of Bihar",
         "answer": "Shri Krishna Sinha",
@@ -3312,7 +3360,7 @@
         ]
     },
     {
-        "id": 277,
+        "id": 281,
         "sheet": "BiharSpecific",
         "question": "Bihar state is situated in the north of",
         "answer": "Tropic of Cancer",
@@ -3324,7 +3372,7 @@
         ]
     },
     {
-        "id": 278,
+        "id": 282,
         "sheet": "BiharSpecific",
         "question": "In which district of Bihar Dharwad period rocks are found",
         "answer": "All of these",
@@ -3336,7 +3384,7 @@
         ]
     },
     {
-        "id": 279,
+        "id": 283,
         "sheet": "BiharSpecific",
         "question": "In which district of Bihar Vindhyan series rocks are found",
         "answer": "Kaimur & Rohtas",
@@ -3348,7 +3396,7 @@
         ]
     },
     {
-        "id": 280,
+        "id": 284,
         "sheet": "BiharSpecific",
         "question": "When were rocks of Vindhyan series formed",
         "answer": "Pre-Cambrian Period",
@@ -3360,7 +3408,7 @@
         ]
     },
     {
-        "id": 281,
+        "id": 285,
         "sheet": "BiharSpecific",
         "question": "When were rocks of Dharwad series formed",
         "answer": "Archeon",
@@ -3372,7 +3420,7 @@
         ]
     },
     {
-        "id": 282,
+        "id": 286,
         "sheet": "BiharSpecific",
         "question": "Tertiary rocks are found in which Himalayan series",
         "answer": "Shivalik",
@@ -3384,7 +3432,7 @@
         ]
     },
     {
-        "id": 283,
+        "id": 287,
         "sheet": "BiharSpecific",
         "question": "The Kaimur or Rohtas plateau is part of",
         "answer": "Vindhya",
@@ -3396,7 +3444,7 @@
         ]
     },
     {
-        "id": 284,
+        "id": 288,
         "sheet": "BiharSpecific",
         "question": "Kaimur plateau is seperated from Chhota-Nagpur plateau by which river",
         "answer": "Son",
@@ -3408,7 +3456,7 @@
         ]
     },
     {
-        "id": 285,
+        "id": 289,
         "sheet": "BiharSpecific",
         "question": "New Alluvium soil is also known as",
         "answer": "Khadar",
@@ -3420,7 +3468,7 @@
         ]
     },
     {
-        "id": 286,
+        "id": 290,
         "sheet": "BiharSpecific",
         "question": "Terai Soil is found along which border of Bihar",
         "answer": "Northern",
@@ -3432,7 +3480,7 @@
         ]
     },
     {
-        "id": 287,
+        "id": 291,
         "sheet": "BiharSpecific",
         "question": "Peidmont Swamp soil is found in which district of Bihar",
         "answer": "West Champaran",
@@ -3444,7 +3492,7 @@
         ]
     },
     {
-        "id": 288,
+        "id": 292,
         "sheet": "BiharSpecific",
         "question": "What do we extract from Pyrite mineral",
         "answer": "Sulphur",
@@ -3456,7 +3504,7 @@
         ]
     },
     {
-        "id": 289,
+        "id": 293,
         "sheet": "BiharSpecific",
         "question": "Pyrite is mainly found in which district of Bihar",
         "answer": "Rohtas",
@@ -3468,7 +3516,7 @@
         ]
     },
     {
-        "id": 290,
+        "id": 294,
         "sheet": "BiharSpecific",
         "question": "Which mineral is also known as Fool's Gold",
         "answer": "Pyrite",
@@ -3480,7 +3528,7 @@
         ]
     },
     {
-        "id": 291,
+        "id": 295,
         "sheet": "BiharSpecific",
         "question": "Where is Gold reserve of Bihar",
         "answer": "Jamui",
@@ -3492,7 +3540,7 @@
         ]
     },
     {
-        "id": 292,
+        "id": 296,
         "sheet": "BiharSpecific",
         "question": "According to Koppen climate classification, Bihar falls under which category",
         "answer": "Cwa",
@@ -3504,7 +3552,7 @@
         ]
     },
     {
-        "id": 293,
+        "id": 297,
         "sheet": "BiharSpecific",
         "question": "The most famous river for changing its route in Bihar is",
         "answer": "Kosi",
@@ -3516,7 +3564,7 @@
         ]
     },
     {
-        "id": 294,
+        "id": 298,
         "sheet": "BiharSpecific",
         "question": "Which river flows from west to east in the middle of Bihar",
         "answer": "Ganga",
@@ -3528,7 +3576,7 @@
         ]
     },
     {
-        "id": 295,
+        "id": 299,
         "sheet": "BiharSpecific",
         "question": "State the total length of Ganga in kms",
         "answer": "2525 km",
@@ -3540,7 +3588,7 @@
         ]
     },
     {
-        "id": 296,
+        "id": 300,
         "sheet": "BiharSpecific",
         "question": "What is the length of Ganga within territory of Bihar",
         "answer": "445 km",
@@ -3552,7 +3600,7 @@
         ]
     },
     {
-        "id": 297,
+        "id": 301,
         "sheet": "BiharSpecific",
         "question": "Where is the origin of the river Ganga",
         "answer": "Uttrakhand",
@@ -3564,7 +3612,7 @@
         ]
     },
     {
-        "id": 298,
+        "id": 302,
         "sheet": "BiharSpecific",
         "question": "Ganga river first enters in which district of Bihar from Uttar Pradesh",
         "answer": "Buxar",
@@ -3576,7 +3624,7 @@
         ]
     },
     {
-        "id": 299,
+        "id": 303,
         "sheet": "BiharSpecific",
         "question": "Which of the following rivers decide the borders of Bihar and Uttar Pradesh",
         "answer": "All of these",
@@ -3588,7 +3636,7 @@
         ]
     },
     {
-        "id": 300,
+        "id": 304,
         "sheet": "BiharSpecific",
         "question": "The river Ganga touches how many districts of Bihar",
         "answer": 12,
@@ -3600,7 +3648,7 @@
         ]
     },
     {
-        "id": 301,
+        "id": 305,
         "sheet": "BiharSpecific",
         "question": "Which district of Bihar touches the river Ganga the longest",
         "answer": "Patna",
@@ -3612,7 +3660,7 @@
         ]
     },
     {
-        "id": 302,
+        "id": 306,
         "sheet": "BiharSpecific",
         "question": "The river Ganga terminates in",
         "answer": "Bay of Bengal",
@@ -3624,7 +3672,7 @@
         ]
     },
     {
-        "id": 303,
+        "id": 307,
         "sheet": "BiharSpecific",
         "question": "Which river enters into Ganga 10 kms away from Danapur near west Maner",
         "answer": "Sone",
@@ -3636,7 +3684,7 @@
         ]
     },
     {
-        "id": 304,
+        "id": 308,
         "sheet": "BiharSpecific",
         "question": "Origin of river Ghagra",
         "answer": "Nepal",
@@ -3648,7 +3696,7 @@
         ]
     },
     {
-        "id": 305,
+        "id": 309,
         "sheet": "BiharSpecific",
         "question": "Which of the following rivers is also known as Saryu",
         "answer": "Ghaghra",
@@ -3660,7 +3708,7 @@
         ]
     },
     {
-        "id": 306,
+        "id": 310,
         "sheet": "BiharSpecific",
         "question": "Ghaghra river merges with Ganga in which district of Bihar",
         "answer": "Saran",
@@ -3672,7 +3720,7 @@
         ]
     },
     {
-        "id": 307,
+        "id": 311,
         "sheet": "BiharSpecific",
         "question": "The river Gandak enters in which district of Bihar first",
         "answer": "West Champaran",
@@ -3684,7 +3732,7 @@
         ]
     },
     {
-        "id": 308,
+        "id": 312,
         "sheet": "BiharSpecific",
         "question": "In which district Valmiki Nagar Barrage has been built",
         "answer": "West Champaran",
@@ -3696,7 +3744,7 @@
         ]
     },
     {
-        "id": 309,
+        "id": 313,
         "sheet": "BiharSpecific",
         "question": "Valmiki Nagar Barrage is built upon which river",
         "answer": "Gandak",
@@ -3708,7 +3756,7 @@
         ]
     },
     {
-        "id": 310,
+        "id": 314,
         "sheet": "BiharSpecific",
         "question": "Name of the world famous fair held at the confluence of Gandak river",
         "answer": "Harihar Kshetra Mela",
@@ -3720,7 +3768,7 @@
         ]
     },
     {
-        "id": 311,
+        "id": 315,
         "sheet": "BiharSpecific",
         "question": "World's largest cattle fair is organised at confluence of which river",
         "answer": "Gandak",
@@ -3732,7 +3780,7 @@
         ]
     },
     {
-        "id": 312,
+        "id": 316,
         "sheet": "BiharSpecific",
         "question": "Which river flows in the eastern part parallel to the river Gandak",
         "answer": "Budhi Gandak",
@@ -3744,7 +3792,7 @@
         ]
     },
     {
-        "id": 313,
+        "id": 317,
         "sheet": "BiharSpecific",
         "question": "Which river has it's origin in Chautarva Chaur near Vishambharpur under Someshwar series hills",
         "answer": "Budhi Gandak",
@@ -3756,7 +3804,7 @@
         ]
     },
     {
-        "id": 314,
+        "id": 318,
         "sheet": "BiharSpecific",
         "question": "Which of the following rivers has shifted 150 kms from east to west in the last 200 years",
         "answer": "Kosi",
@@ -3768,7 +3816,7 @@
         ]
     },
     {
-        "id": 315,
+        "id": 319,
         "sheet": "BiharSpecific",
         "question": "At which place the river Kosi forms a delta before merging with river Ganga",
         "answer": "Kursela",
@@ -3780,7 +3828,7 @@
         ]
     },
     {
-        "id": 316,
+        "id": 320,
         "sheet": "BiharSpecific",
         "question": "Which of the following is the major tributary of Budhi-Gandak",
         "answer": "Bagmati",
@@ -3792,7 +3840,7 @@
         ]
     },
     {
-        "id": 317,
+        "id": 321,
         "sheet": "BiharSpecific",
         "question": "The origin of Bagmati has occurred in Nepal from which mountain range",
         "answer": "Mahabharat",
@@ -3804,7 +3852,7 @@
         ]
     },
     {
-        "id": 318,
+        "id": 322,
         "sheet": "BiharSpecific",
         "question": "Which river enters in Terai area after passing through Mahabharat range in Nepal",
         "answer": "Budhi-Gandak",
@@ -3816,7 +3864,7 @@
         ]
     },
     {
-        "id": 319,
+        "id": 323,
         "sheet": "BiharSpecific",
         "question": "Ancient name of river Kosi",
         "answer": "Kaushiki",
@@ -3828,7 +3876,7 @@
         ]
     },
     {
-        "id": 320,
+        "id": 324,
         "sheet": "BiharSpecific",
         "question": "All the seven currents of Kosi merge at which place where it also known as Sapta Kosi",
         "answer": "Triveni (Nepal)",
@@ -3840,7 +3888,7 @@
         ]
     },
     {
-        "id": 321,
+        "id": 325,
         "sheet": "BiharSpecific",
         "question": "Which of the following river is also known as \"Bihar ka shok\"",
         "answer": "Kosi",
@@ -3852,7 +3900,7 @@
         ]
     },
     {
-        "id": 322,
+        "id": 326,
         "sheet": "BiharSpecific",
         "question": "Mount Everest and Kanchenjunga falls under catchement area of which river",
         "answer": "Kosi",
@@ -3864,7 +3912,7 @@
         ]
     },
     {
-        "id": 323,
+        "id": 327,
         "sheet": "BiharSpecific",
         "question": "Which of the following rivers is a river of the east following through North Bihar",
         "answer": "Mahananda",
@@ -3876,7 +3924,7 @@
         ]
     },
     {
-        "id": 324,
+        "id": 328,
         "sheet": "BiharSpecific",
         "question": "Which river determines the borders of Bengal & Bihar",
         "answer": "Mahananda",
@@ -3888,7 +3936,7 @@
         ]
     },
     {
-        "id": 325,
+        "id": 329,
         "sheet": "BiharSpecific",
         "question": "Origin of which river lies in Amarkantak in Madhya Pradesh",
         "answer": "Son",
@@ -3900,7 +3948,7 @@
         ]
     },
     {
-        "id": 326,
+        "id": 330,
         "sheet": "BiharSpecific",
         "question": "Which river is the longest flowing tributary of the Ganga in Southern Bihar",
         "answer": "Son",
@@ -3912,7 +3960,7 @@
         ]
     },
     {
-        "id": 327,
+        "id": 331,
         "sheet": "BiharSpecific",
         "question": "Son river first enters in which district of Bihar",
         "answer": "Rohtas",
@@ -3924,7 +3972,7 @@
         ]
     },
     {
-        "id": 328,
+        "id": 332,
         "sheet": "BiharSpecific",
         "question": "On which of the following rivers Indrapuri Barrage is located",
         "answer": "Son",
@@ -3936,7 +3984,7 @@
         ]
     },
     {
-        "id": 329,
+        "id": 333,
         "sheet": "BiharSpecific",
         "question": "On the riverbed of which of the following rivers, Gautam Buddha attained awakening",
         "answer": "Falgu",
@@ -3948,7 +3996,7 @@
         ]
     },
     {
-        "id": 330,
+        "id": 334,
         "sheet": "BiharSpecific",
         "question": "Where in Bihar, Pitrapaksha Mela is held",
         "answer": "Gaya",
@@ -3960,7 +4008,7 @@
         ]
     },
     {
-        "id": 331,
+        "id": 335,
         "sheet": "BiharSpecific",
         "question": "In which of the following rivers, the ritual of Pind-dan is performed",
         "answer": "Falgu",
@@ -3972,7 +4020,7 @@
         ]
     },
     {
-        "id": 332,
+        "id": 336,
         "sheet": "BiharSpecific",
         "question": "Which river gets divided in two parts in Jehanabad district near Barabar Hills",
         "answer": "Falgu",
@@ -3984,7 +4032,7 @@
         ]
     },
     {
-        "id": 333,
+        "id": 337,
         "sheet": "BiharSpecific",
         "question": "Origin of the river Punpun",
         "answer": "Chhota-Nagpur Plataeu",
@@ -3996,7 +4044,7 @@
         ]
     },
     {
-        "id": 334,
+        "id": 338,
         "sheet": "BiharSpecific",
         "question": "At which place Punpun river merges with Ganga",
         "answer": "Fatuha",
@@ -4008,7 +4056,7 @@
         ]
     },
     {
-        "id": 335,
+        "id": 339,
         "sheet": "BiharSpecific",
         "question": "Which river has its ancient name as Hiranyavah",
         "answer": "Son",
@@ -4020,7 +4068,7 @@
         ]
     },
     {
-        "id": 336,
+        "id": 340,
         "sheet": "BiharSpecific",
         "question": "Which art form of Bihar has a sequential representation of stories, hence also known as scroll painting",
         "answer": "Manjusha Art",
@@ -4032,7 +4080,7 @@
         ]
     },
     {
-        "id": 337,
+        "id": 341,
         "sheet": "BiharSpecific",
         "question": "Bihula-Bishahari Gatha is related to with art form of Bihar",
         "answer": "Manjusha Art",
@@ -4044,7 +4092,7 @@
         ]
     },
     {
-        "id": 338,
+        "id": 342,
         "sheet": "BiharSpecific",
         "question": "Origin of Manjusha Art ",
         "answer": "Bhagalpur",
@@ -4056,7 +4104,7 @@
         ]
     },
     {
-        "id": 339,
+        "id": 343,
         "sheet": "BiharSpecific",
         "question": "Origin of Tikuli Art",
         "answer": "Patna",
@@ -4068,7 +4116,7 @@
         ]
     },
     {
-        "id": 340,
+        "id": 344,
         "sheet": "BiharSpecific",
         "question": "Which art form is also know as Firangi Kalam or as the white man's art",
         "answer": "Patna Kalam",
@@ -4080,7 +4128,7 @@
         ]
     },
     {
-        "id": 341,
+        "id": 345,
         "sheet": "BiharSpecific",
         "question": "The subject of these paintings were common man and their mundane routines, name the art form",
         "answer": "Patna Kalam",
@@ -4092,7 +4140,7 @@
         ]
     },
     {
-        "id": 342,
+        "id": 346,
         "sheet": "BiharSpecific",
         "question": "Where is Kakolat Waterfall located in Bihar",
         "answer": "Nawada",
@@ -4104,7 +4152,7 @@
         ]
     },
     {
-        "id": 343,
+        "id": 347,
         "sheet": "BiharSpecific",
         "question": "Where is Tutla Bhawani Waterfall located in Bihar",
         "answer": "Rohtas",
@@ -4116,7 +4164,7 @@
         ]
     },
     {
-        "id": 344,
+        "id": 348,
         "sheet": "BiharSpecific",
         "question": "Where is Telhar Kund Waterfall located in Bihar",
         "answer": "Kaimur",
@@ -4128,7 +4176,7 @@
         ]
     },
     {
-        "id": 345,
+        "id": 349,
         "sheet": "BiharSpecific",
         "question": "Where is Karakat Waterfall located in Bihar",
         "answer": "Kaimur",
@@ -4140,7 +4188,7 @@
         ]
     },
     {
-        "id": 346,
+        "id": 350,
         "sheet": "BiharSpecific",
         "question": "Where is Manjhar Kund located in Bihar",
         "answer": "Rohtas",
@@ -4152,7 +4200,7 @@
         ]
     },
     {
-        "id": 347,
+        "id": 351,
         "sheet": "BiharSpecific",
         "question": "Where is Dhua Kund located in Bihar",
         "answer": "Rohtas",
@@ -4164,7 +4212,7 @@
         ]
     },
     {
-        "id": 348,
+        "id": 352,
         "sheet": "BiharSpecific",
         "question": "Where is Kanwar Lake located in Bihar",
         "answer": "Begusarai",
@@ -4176,7 +4224,7 @@
         ]
     },
     {
-        "id": 349,
+        "id": 353,
         "sheet": "BiharSpecific",
         "question": "How may Ramsar sites are there in Bihar as of 2025",
         "answer": "Three",
@@ -4188,7 +4236,7 @@
         ]
     },
     {
-        "id": 350,
+        "id": 354,
         "sheet": "BiharSpecific",
         "question": "Where is Muchalinda Lake in Bihar",
         "answer": "Bodhgaya",
@@ -4200,7 +4248,7 @@
         ]
     },
     {
-        "id": 351,
+        "id": 355,
         "sheet": "BiharSpecific",
         "question": "Where is Sarai Man Lake in Bihar",
         "answer": "West Champaran",
@@ -4212,7 +4260,7 @@
         ]
     },
     {
-        "id": 352,
+        "id": 356,
         "sheet": "BiharSpecific",
         "question": "Where is Moti Jheel located in Bihar",
         "answer": "East Champaran",
@@ -4224,7 +4272,7 @@
         ]
     },
     {
-        "id": 353,
+        "id": 357,
         "sheet": "BiharSpecific",
         "question": "Where is Pandu Pokhar located in Bihar",
         "answer": "Rajgir",
@@ -4236,7 +4284,7 @@
         ]
     },
     {
-        "id": 354,
+        "id": 358,
         "sheet": "BiharSpecific",
         "question": "Where is Ghorakatora Lake located in Bihar",
         "answer": "Rajgir",
@@ -4248,7 +4296,7 @@
         ]
     },
     {
-        "id": 355,
+        "id": 359,
         "sheet": "BiharSpecific",
         "question": "Which type of forest is found in Bihar",
         "answer": "Moist Deciduos",
@@ -4260,7 +4308,7 @@
         ]
     },
     {
-        "id": 356,
+        "id": 360,
         "sheet": "BiharSpecific",
         "question": "Which is most abundantly found in forests of Bihar",
         "answer": "Sal",
@@ -4272,7 +4320,7 @@
         ]
     },
     {
-        "id": 357,
+        "id": 361,
         "sheet": "BiharSpecific",
         "question": "How much is the natural forest cover in Bihar",
         "answer": "7.27 percent",
@@ -4284,7 +4332,7 @@
         ]
     },
     {
-        "id": 358,
+        "id": 362,
         "sheet": "BiharSpecific",
         "question": "How many National Parks are there in Bihar",
         "answer": "One",
@@ -4296,7 +4344,7 @@
         ]
     },
     {
-        "id": 359,
+        "id": 363,
         "sheet": "BiharSpecific",
         "question": "Valmiki National Park is located in",
         "answer": "West Champaran",
@@ -4308,7 +4356,7 @@
         ]
     },
     {
-        "id": 360,
+        "id": 364,
         "sheet": "BiharSpecific",
         "question": "Vikramshila Gangetic Dolphin Wildlife Sanctuary is located in",
         "answer": "Bhagalpur",
@@ -4320,7 +4368,7 @@
         ]
     },
     {
-        "id": 361,
+        "id": 365,
         "sheet": "BiharSpecific",
         "question": "Where is Bhimbandh Wildlife Sanctuary located in Bihar",
         "answer": "Munger",
@@ -4332,7 +4380,7 @@
         ]
     },
     {
-        "id": 362,
+        "id": 366,
         "sheet": "BiharSpecific",
         "question": "Where is Gautam Buddha Wildlife Sanctuary located in Bihar",
         "answer": "Gaya",
@@ -4344,7 +4392,7 @@
         ]
     },
     {
-        "id": 363,
+        "id": 367,
         "sheet": "BiharSpecific",
         "question": "Where is Udaypur Wildlife Sanctuary located in Bihar",
         "answer": "West Champaran",
@@ -4356,7 +4404,7 @@
         ]
     },
     {
-        "id": 364,
+        "id": 368,
         "sheet": "BiharSpecific",
         "question": "Where is Nakti Dam located in Bihar",
         "answer": "Jamui",
@@ -4368,7 +4416,7 @@
         ]
     },
     {
-        "id": 365,
+        "id": 369,
         "sheet": "BiharSpecific",
         "question": "Where is Nagi Dam located in Bihar",
         "answer": "Jamui",
@@ -4380,7 +4428,667 @@
         ]
     },
     {
-        "id": 366,
+        "id": 370,
+        "sheet": "BiharSpecific",
+        "question": "The name of the Hindi weekly which was the mouthpiece of the agrarian and peasant movements in Bihar in 1940 was",
+        "answer": "Hunkar",
+        "choices": [
+            "Hunkar",
+            "Lokmat",
+            "Sarathi",
+            "Leader"
+        ]
+    },
+    {
+        "id": 371,
+        "sheet": "BiharSpecific",
+        "question": "Who was author of Hunkar - a Hindi weekly voicing for peasants in Bihar",
+        "answer": "Swami Sahajanand Saraswati",
+        "choices": [
+            "Swami Sahajanand Saraswati",
+            "Ram Manohar Lohia",
+            "Jagadish Prasad",
+            "Jayaprakash Narayan"
+        ]
+    },
+    {
+        "id": 372,
+        "sheet": "BiharSpecific",
+        "question": "Who was the first provisional premier of Bihar under Provincial Autonomy in 1937",
+        "answer": "Mohammad Yunus",
+        "choices": [
+            "Mohammad Yunus",
+            "Shri Krishna Sinha",
+            "Ramsunder Singh",
+            "Jagdal Chaudhary"
+        ]
+    },
+    {
+        "id": 373,
+        "sheet": "BiharSpecific",
+        "question": "Who was the first premier of Bihar under Provincial Autonomy in 1937",
+        "answer": "Shri Krishna Sinha",
+        "choices": [
+            "Shri Krishna Sinha",
+            "Mohammad Yunus",
+            "Ramsunder Singh",
+            "Jagdal Chaudhary"
+        ]
+    },
+    {
+        "id": 374,
+        "sheet": "BiharSpecific",
+        "question": "The first Indian National Congress session in Bihar after bcoming a separate province was held in",
+        "answer": "Patna, 1912",
+        "choices": [
+            "Patna, 1912",
+            "Gaya, 1922",
+            "Patna, 1934",
+            "Gaya, 1934"
+        ]
+    },
+    {
+        "id": 375,
+        "sheet": "BiharSpecific",
+        "question": "The Indian National Congress Session of 1922 was held at which place in Bihar?",
+        "answer": "Gaya",
+        "choices": [
+            "Gaya",
+            "Patna",
+            "Munger",
+            "Bhagalpur"
+        ]
+    },
+    {
+        "id": 376,
+        "sheet": "BiharSpecific",
+        "question": "Who organised the Hindu Mela",
+        "answer": "Nabagopal Mitra",
+        "choices": [
+            "Nabagopal Mitra",
+            "Satyendranath Tagore",
+            "Aurobindo Ghosh",
+            "Rajnarayan Bose"
+        ]
+    },
+    {
+        "id": 377,
+        "sheet": "BiharSpecific",
+        "question": "Who was the commissioner of Patna divison during the revolt of 1857?",
+        "answer": "William Taylor",
+        "choices": [
+            "William Taylor",
+            "H. C. Wake",
+            "Brigadier Douglas",
+            "R. P. Harrison"
+        ]
+    },
+    {
+        "id": 378,
+        "sheet": "BiharSpecific",
+        "question": "Kunwar Singh returned to Jagdishpur Palace on",
+        "answer": "23rd April 1858",
+        "choices": [
+            "23rd April 1858",
+            "23rd April 1859",
+            "26th April 1859",
+            "26th April 1858"
+        ]
+    },
+    {
+        "id": 379,
+        "sheet": "BiharSpecific",
+        "question": "When did Kunwar Singh, leader of revolt of 1857 in Bihar, breathed his last?",
+        "answer": "26th April 1858",
+        "choices": [
+            "26th April 1858",
+            "23rd April 1859",
+            "23rd April 1858",
+            "26th April 1859"
+        ]
+    },
+    {
+        "id": 380,
+        "sheet": "BiharSpecific",
+        "question": "Veer Kunwar Singh was the king of",
+        "answer": "Jagadishpur",
+        "choices": [
+            "Jagadishpur",
+            "Dheerpur",
+            "Rampur",
+            "Hamirpur"
+        ]
+    },
+    {
+        "id": 381,
+        "sheet": "BiharSpecific",
+        "question": "Who fought bravely against the British troops under Brigadier Douglas on 21 April, 1858 in Bihar?",
+        "answer": "Kunwar Singh",
+        "choices": [
+            "Kunwar Singh",
+            "Ujjal Sahi",
+            "Surendra Sahi",
+            "Jagdal Choudhary"
+        ]
+    },
+    {
+        "id": 382,
+        "sheet": "BiharSpecific",
+        "question": "Name the revolutionary from Bihar who attended the meeting of Hindustan Socialist Republican Army in September, 1928",
+        "answer": "Phanindra Nath Ghosh",
+        "choices": [
+            "Phanindra Nath Ghosh",
+            "Bhagat Singh",
+            "Ajay Ghosh",
+            "Jyotindra Nath"
+        ]
+    },
+    {
+        "id": 383,
+        "sheet": "BiharSpecific",
+        "question": "Patna was made capital of his state by",
+        "answer": "Shershah Suri",
+        "choices": [
+            "Shershah Suri",
+            "Alauddin Hussain Shah",
+            "Ibrahim Lodi",
+            "Prince Azim"
+        ]
+    },
+    {
+        "id": 384,
+        "sheet": "BiharSpecific",
+        "question": "Who was the mentor of Birsa Munda?",
+        "answer": "Anand Pandey",
+        "choices": [
+            "Anand Pandey",
+            "Swami Sahajanand Saraswati",
+            "Jatra Bhagat",
+            "M. N. Roy"
+        ]
+    },
+    {
+        "id": 385,
+        "sheet": "BiharSpecific",
+        "question": "When was Birsa Munda born",
+        "answer": "15th November 1875",
+        "choices": [
+            "15th November 1875",
+            "15th November 1975",
+            "15th November 1965",
+            "15th November 1865"
+        ]
+    },
+    {
+        "id": 386,
+        "sheet": "BiharSpecific",
+        "question": "Birsa Munda was captured in Chakradharpur, while asleep on",
+        "answer": "3rd February 1900",
+        "choices": [
+            "3rd February 1900",
+            "1st February 1900",
+            "2nd February 1900",
+            "4th February 1900"
+        ]
+    },
+    {
+        "id": 387,
+        "sheet": "BiharSpecific",
+        "question": "Identify the region where Santhals declared their government in 1855-56",
+        "answer": "Bhagalpur-Rajmahal",
+        "choices": [
+            "Bhagalpur-Rajmahal",
+            "Munger-Bhagalpur",
+            "Gaya-Munger",
+            "Shahabad-Gaya"
+        ]
+    },
+    {
+        "id": 388,
+        "sheet": "BiharSpecific",
+        "question": "The Bihar Herald was started in 1872 by",
+        "answer": "Babu Guru Prasad Sen",
+        "choices": [
+            "Babu Guru Prasad Sen",
+            "Munahi Surajmal",
+            "Rai Roshan Lal",
+            "Krishan Bhatt"
+        ]
+    },
+    {
+        "id": 389,
+        "sheet": "BiharSpecific",
+        "question": "Which was the first English newspaper published from Patna?",
+        "answer": "The Bihar Herald",
+        "choices": [
+            "The Bihar Herald",
+            "The Indian Mirror",
+            "Searchlight",
+            "Hindoo Patriot"
+        ]
+    },
+    {
+        "id": 390,
+        "sheet": "BiharSpecific",
+        "question": "The revolt of 1857 affected many towns of Bihar, Which of the following is the correct sequence of the occurrence of revolt in various town of Bihar?",
+        "answer": "Rohini > Patna > Muzaffarpur > Jagdishpur",
+        "choices": [
+            "Rohini > Patna > Muzaffarpur > Jagdishpur",
+            "Muzaffarpur > Patna > Jagadishpur > Rohini",
+            "Jagadishpur > Patna > Rohini > Muzaffarpur",
+            "Patna > Muzaffarpur > Rohini > Jagadishpur"
+        ]
+    },
+    {
+        "id": 391,
+        "sheet": "BiharSpecific",
+        "question": "Which leader of Bihar along with Mahatma Gandhi led the farmer's movement?",
+        "answer": "Raj Kumar Shukla",
+        "choices": [
+            "Raj Kumar Shukla",
+            "Rajendra Prasad",
+            "Baba Ramchandra",
+            "Rafi Ahmed Kidwai"
+        ]
+    },
+    {
+        "id": 392,
+        "sheet": "BiharSpecific",
+        "question": "Raj Kumar Shukla was a resident of which village?",
+        "answer": "Murali Bharahwa",
+        "choices": [
+            "Murali Bharahwa",
+            "Murali Bheet",
+            "Murali Kher",
+            "Murali Dhir"
+        ]
+    },
+    {
+        "id": 393,
+        "sheet": "BiharSpecific",
+        "question": "Who highlighted the plight of the peasants of Champaran by writing psedonyms like Dukhi, Dukhi Atma, Dukhi Hriday?",
+        "answer": "Pir Mohaammed Munis",
+        "choices": [
+            "Pir Mohaammed Munis",
+            "Rajendra Prasad",
+            "Rajkumar Shukla",
+            "Sahajanand Saraswati"
+        ]
+    },
+    {
+        "id": 394,
+        "sheet": "BiharSpecific",
+        "question": "Who was the author of Biography of Kunwar Singh and Amar Singh",
+        "answer": "Kalikinkar Datta",
+        "choices": [
+            "Kalikinkar Datta",
+            "M. N. Roy",
+            "Jawaharlal Nehru",
+            "Sahajanand Saraswati"
+        ]
+    },
+    {
+        "id": 395,
+        "sheet": "BiharSpecific",
+        "question": "Swami Sahajanand Saraswati published a magazine named",
+        "answer": "Hunkar",
+        "choices": [
+            "Hunkar",
+            "Jankranti",
+            "Krishak Samachar",
+            "Vidrohi"
+        ]
+    },
+    {
+        "id": 396,
+        "sheet": "BiharSpecific",
+        "question": "One of the popular beliefs in Bihar during the Non-Cooperation Movement of 1920-22 was that they would be victorious because Gandhi",
+        "answer": "was an accomplished politician",
+        "choices": [
+            "was an accomplished politician",
+            "was the epitome of Dharma",
+            "knew the way to defeat the English",
+            "knew English"
+        ]
+    },
+    {
+        "id": 397,
+        "sheet": "BiharSpecific",
+        "question": "On which date Linlithgow ordered to fire on the mob of Patna and its surrounding during the August Revolution, 1942?",
+        "answer": "11th August 1942",
+        "choices": [
+            "11th August 1942",
+            "1st August 1942",
+            "15th August 1942",
+            "5th August 1942"
+        ]
+    },
+    {
+        "id": 398,
+        "sheet": "BiharSpecific",
+        "question": "Dr. Rajendra Prasad, who was the first President of India, earlier held the position of",
+        "answer": "Chairman of Patna Municipality",
+        "choices": [
+            "Chairman of Patna Municipality",
+            "Chief Minister of Bihar",
+            "Head Postmaster at Chapra",
+            "Mayor of Patna"
+        ]
+    },
+    {
+        "id": 399,
+        "sheet": "BiharSpecific",
+        "question": "Where was the first Zila School of Bihar opened in 1835",
+        "answer": "Patna",
+        "choices": [
+            "Patna",
+            "Muzaffarpur",
+            "Darbhanga",
+            "Munger"
+        ]
+    },
+    {
+        "id": 400,
+        "sheet": "BiharSpecific",
+        "question": "Who left Patna College with just 20 days remaining for his examination during the Non-Cooperation movement?",
+        "answer": "Jai Prakash Narayan",
+        "choices": [
+            "Jai Prakash Narayan",
+            "Rajendra Prasad",
+            "Braj Kishore",
+            "Shri Krishna Sinha"
+        ]
+    },
+    {
+        "id": 401,
+        "sheet": "BiharSpecific",
+        "question": "Jubba Sahni, a freedom fighter belonged to which district of Bihar?",
+        "answer": "Muzaffarpur",
+        "choices": [
+            "Muzaffarpur",
+            "Bhagalpur",
+            "Patna",
+            "Sasaram"
+        ]
+    },
+    {
+        "id": 402,
+        "sheet": "BiharSpecific",
+        "question": "Who led cultivators in Bihar during the Non-Cooperation Movement?",
+        "answer": "Swami Vidyanand",
+        "choices": [
+            "Swami Vidyanand",
+            "Shri Krishna Sinha",
+            "Raj Kumar Shukla",
+            "Sahajanand Saraswati"
+        ]
+    },
+    {
+        "id": 403,
+        "sheet": "BiharSpecific",
+        "question": "Who led the peasant movement in the region of Darbhanga Raj?",
+        "answer": "Swami Vidyanand",
+        "choices": [
+            "Swami Vidyanand",
+            "Baba Ramchandra",
+            "Vinoba Bhave",
+            "Sahajanand Saraswati"
+        ]
+    },
+    {
+        "id": 404,
+        "sheet": "BiharSpecific",
+        "question": "During Salt Satyagraha, in Bihar, in addition to making salt, the people choose to oppose the government by opposing which tax?",
+        "answer": "Chowkidari",
+        "choices": [
+            "Chowkidari",
+            "Haathi",
+            "Malba",
+            "Development"
+        ]
+    },
+    {
+        "id": 405,
+        "sheet": "BiharSpecific",
+        "question": "When was the Salt Movement started in Bihar?",
+        "answer": "12th March 1930",
+        "choices": [
+            "12th March 1930",
+            "12th April 1930",
+            "12th May 1930",
+            "12th June 1930"
+        ]
+    },
+    {
+        "id": 406,
+        "sheet": "BiharSpecific",
+        "question": "Famous sufi saint of Bihar Sharfuddin Maneri is related to which Sufi order?",
+        "answer": "Firdausi",
+        "choices": [
+            "Firdausi",
+            "Chisti",
+            "Suhrawardi",
+            "Kubrawi"
+        ]
+    },
+    {
+        "id": 407,
+        "sheet": "BiharSpecific",
+        "question": "Who was the first Muslim conqueror of Bihar?",
+        "answer": "Bakhtiyar Khalji",
+        "choices": [
+            "Bakhtiyar Khalji",
+            "Malik Ibrahim",
+            "Iltutmish",
+            "Ali Mardan Khalji"
+        ]
+    },
+    {
+        "id": 408,
+        "sheet": "BiharSpecific",
+        "question": "Baba Thakur Das established which society in Patna?",
+        "answer": "Ramakrishna Mission Society",
+        "choices": [
+            "Ramakrishna Mission Society",
+            "Servants of India Society",
+            "Seva Samiti",
+            "Social Service League"
+        ]
+    },
+    {
+        "id": 409,
+        "sheet": "BiharSpecific",
+        "question": "Who established the branch of Anushila Samiti at Patna in 1913",
+        "answer": "Sachindra Nath Sanyal",
+        "choices": [
+            "Sachindra Nath Sanyal",
+            "Bankim Chandra Mitra",
+            "Raghubir Singh",
+            "Baba Thakur Das"
+        ]
+    },
+    {
+        "id": 410,
+        "sheet": "BiharSpecific",
+        "question": "Who established Swaraj Dal in Bihar",
+        "answer": "Shri Krishna Sinha",
+        "choices": [
+            "Shri Krishna Sinha",
+            "Bankim Chandra Mitra",
+            "Ramlal Singh",
+            "Rajendra Prasad"
+        ]
+    },
+    {
+        "id": 411,
+        "sheet": "BiharSpecific",
+        "question": "Bihar Congress Socialist Party was formed in ",
+        "answer": 1934,
+        "choices": [
+            1934,
+            1939,
+            1931,
+            1930
+        ]
+    },
+    {
+        "id": 412,
+        "sheet": "BiharSpecific",
+        "question": "Bihar Socialist party was born in 1934 with its secretary",
+        "answer": "Jayaprakash Narayan",
+        "choices": [
+            "Jayaprakash Narayan",
+            "Acharya Narendra Dev",
+            "Rambriksh Benipuri",
+            "Karpoori Thakur"
+        ]
+    },
+    {
+        "id": 413,
+        "sheet": "BiharSpecific",
+        "question": "Who formed the Bihar Samajwadi Party in 1931",
+        "answer": "Phoolan Prasad Verma & Jayaprakash Narayan",
+        "choices": [
+            "Phoolan Prasad Verma & Jayaprakash Narayan",
+            "Phoolchand Tiwari & Rajendra Prasad",
+            "Rajkumar Shukla & Swami Agnivesh",
+            "Swami Sahajanand & Swami Yogananda"
+        ]
+    },
+    {
+        "id": 414,
+        "sheet": "BiharSpecific",
+        "question": "When was Bihar Samajwadi Party formed",
+        "answer": 1931,
+        "choices": [
+            1931,
+            1934,
+            1939,
+            1930
+        ]
+    },
+    {
+        "id": 415,
+        "sheet": "BiharSpecific",
+        "question": "Bihar Provincial Kisan Sabha was formed in",
+        "answer": 1929,
+        "choices": [
+            1929,
+            1934,
+            1939,
+            1930
+        ]
+    },
+    {
+        "id": 416,
+        "sheet": "BiharSpecific",
+        "question": "Who started the Kisan Sabha Movement in Bihar in 1929?",
+        "answer": "Swami Sahajanand Saraswati",
+        "choices": [
+            "Swami Sahajanand Saraswati",
+            "Raj Kumar Shukla",
+            "Baikuntha Shukla",
+            "Acharya Kripalani"
+        ]
+    },
+    {
+        "id": 417,
+        "sheet": "BiharSpecific",
+        "question": "Name the left-wing leader of Bihar Provincial Kisan Sabha who popularised this in Bihar?",
+        "answer": "karyanand Sharma",
+        "choices": [
+            "karyanand Sharma",
+            "Wadhwa Ram",
+            "P. C. Joshi",
+            "Raj Kumar Shukla"
+        ]
+    },
+    {
+        "id": 418,
+        "sheet": "BiharSpecific",
+        "question": "The first Indian Ministry in Bihar in 1937 came into existence under whose leadership?",
+        "answer": "Md. Yunus",
+        "choices": [
+            "Md. Yunus",
+            "Shri Krishna Sinha",
+            "Wahab Ali",
+            "G. S. Lal"
+        ]
+    },
+    {
+        "id": 419,
+        "sheet": "BiharSpecific",
+        "question": "The elected Government of Bihar resigned in February 1938 for which reason?",
+        "answer": "For the release of political prisoners",
+        "choices": [
+            "For the release of political prisoners",
+            "the participation of India in war",
+            "Satyagraha against the British at the call of Gandhi",
+            "High taxes being imposed by British"
+        ]
+    },
+    {
+        "id": 420,
+        "sheet": "BiharSpecific",
+        "question": "Who led the Ambari Satyagraha in 1939 in Bihar",
+        "answer": "Rahul Sankrityayan",
+        "choices": [
+            "Rahul Sankrityayan",
+            "Yadunandan Sharma",
+            "Swami Sahajanand",
+            "Swami Yoganand"
+        ]
+    },
+    {
+        "id": 421,
+        "sheet": "BiharSpecific",
+        "question": "Who among the following was the leader of the first Congress Ministry in Bihar?",
+        "answer": "Shri Krishna Sinha",
+        "choices": [
+            "Shri Krishna Sinha",
+            "Abdul Bari",
+            "Anugrah Narayan Sinha",
+            "Jayaprakash Narayan"
+        ]
+    },
+    {
+        "id": 422,
+        "sheet": "BiharSpecific",
+        "question": "Gandhiji's Non-Cooperation movement urged people to avoid alcohol. This resulted in a serious loss of revenue for the government. The government of a province circulated a list of prominent individuals who drank alcohol as a device to persuade people to start drinking again. Name the province",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Bombay",
+            "Gujarat",
+            "Andhra Pradesh"
+        ]
+    },
+    {
+        "id": 423,
+        "sheet": "BiharSpecific",
+        "question": "Which of the following statement is correct about the Maharajas of Dumrao, Darbhanga and Hatwa during the revolt of 1857",
+        "answer": "They helped the English with men and money",
+        "choices": [
+            "They helped the English with men and money",
+            "They helped the English with men but not money",
+            "They helped the English with only money but not men",
+            "They opposed the English"
+        ]
+    },
+    {
+        "id": 424,
+        "sheet": "BiharSpecific",
+        "question": "The word Bihar originally means",
+        "answer": "Buddhist Monastery",
+        "choices": [
+            "Buddhist Monastery",
+            "Land of Angels",
+            "Arya Pradesh",
+            "Land of Greenry"
+        ]
+    },
+    {
+        "id": 425,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "What is the size of Bihar's economy at current price in 2023-24",
         "answer": "8.54 lakh crore",
@@ -4392,7 +5100,7 @@
         ]
     },
     {
-        "id": 367,
+        "id": 426,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "Growth in Bihar's GSDP at current price for year 2023-24",
         "answer": "14.5 percent",
@@ -4404,7 +5112,7 @@
         ]
     },
     {
-        "id": 368,
+        "id": 427,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
         "answer": "9.2 percent",
@@ -4416,7 +5124,7 @@
         ]
     },
     {
-        "id": 369,
+        "id": 428,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "Which economic sector is the hightest contributor in Bihar state GVA for year 2023-24",
         "answer": "Tertiary",
@@ -4428,7 +5136,7 @@
         ]
     },
     {
-        "id": 370,
+        "id": 429,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
         "answer": "58.6 percent",
@@ -4440,7 +5148,7 @@
         ]
     },
     {
-        "id": 371,
+        "id": 430,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "Industry contributing the most in Bihar state GVA for year 2023-24",
         "answer": "Non-Metallic Mineral Production",
@@ -4452,7 +5160,7 @@
         ]
     },
     {
-        "id": 372,
+        "id": 431,
         "sheet": "BiharEcoSrvy2024-25",
         "question": "How much Bihar contributes in total Makhana production of India",
         "answer": "85 percent",
@@ -4464,7 +5172,7 @@
         ]
     },
     {
-        "id": 373,
+        "id": 432,
         "sheet": "BiharBudget2025-26",
         "question": "Department with highest Bihar's budget allocation for year 2025-26",
         "answer": "Education",
@@ -4476,7 +5184,7 @@
         ]
     },
     {
-        "id": 374,
+        "id": 433,
         "sheet": "BiharBudget2025-26",
         "question": "What is the size of budget as mentioned in Bihar's Budget for year 2025-26",
         "answer": "3.17 lakh crore",
@@ -4488,7 +5196,7 @@
         ]
     },
     {
-        "id": 375,
+        "id": 434,
         "sheet": "BiharBudget2025-26",
         "question": "Center of excellence for jaggery is proposed in which district of Bihar",
         "answer": "Samastipur",
@@ -4500,7 +5208,7 @@
         ]
     },
     {
-        "id": 376,
+        "id": 435,
         "sheet": "Science",
         "question": "Physics involves the study of",
         "answer": "Nature & Natural Phenomena",
@@ -4512,7 +5220,7 @@
         ]
     },
     {
-        "id": 377,
+        "id": 436,
         "sheet": "Science",
         "question": "Classical Physics does not include subjects like",
         "answer": "Elementary Particles",
@@ -4524,7 +5232,7 @@
         ]
     },
     {
-        "id": 378,
+        "id": 437,
         "sheet": "Science",
         "question": "Size of universe is of the order of",
         "answer": "10^26 m",
@@ -4536,7 +5244,7 @@
         ]
     },
     {
-        "id": 379,
+        "id": 438,
         "sheet": "Science",
         "question": "Einstein was awarded Nobel Prize in Physics for",
         "answer": "Law of Photoelectric Effect",
@@ -4548,7 +5256,7 @@
         ]
     },
     {
-        "id": 380,
+        "id": 439,
         "sheet": "Science",
         "question": "Fundamental unit of luminous intensity",
         "answer": "Candela",
@@ -4560,7 +5268,7 @@
         ]
     },
     {
-        "id": 381,
+        "id": 440,
         "sheet": "Science",
         "question": "Weber is derived unit of",
         "answer": "Magnetic Flux",
@@ -4572,7 +5280,7 @@
         ]
     },
     {
-        "id": 382,
+        "id": 441,
         "sheet": "Science",
         "question": "The prefix femto stands for",
         "answer": "10^-15",
@@ -4584,7 +5292,7 @@
         ]
     },
     {
-        "id": 383,
+        "id": 442,
         "sheet": "Science",
         "question": "Number of basic SI Unit is ",
         "answer": 7,
@@ -4596,7 +5304,7 @@
         ]
     },
     {
-        "id": 384,
+        "id": 443,
         "sheet": "Science",
         "question": "Light-year is a unit of ",
         "answer": "Distance",
@@ -4608,7 +5316,7 @@
         ]
     },
     {
-        "id": 385,
+        "id": 444,
         "sheet": "Science",
         "question": "Speed of light in a vacuum is approximately ",
         "answer": "3 x 10^8 m/s",
@@ -4620,7 +5328,7 @@
         ]
     },
     {
-        "id": 386,
+        "id": 445,
         "sheet": "Science",
         "question": "Ampere is unit of",
         "answer": "Electric Current",
@@ -4632,7 +5340,7 @@
         ]
     },
     {
-        "id": 387,
+        "id": 446,
         "sheet": "Science",
         "question": "SI unit of pressure",
         "answer": "Pascal",
@@ -4644,7 +5352,7 @@
         ]
     },
     {
-        "id": 388,
+        "id": 447,
         "sheet": "Science",
         "question": "Decibel is unit of",
         "answer": "Intensity of Sound",
@@ -4656,7 +5364,7 @@
         ]
     },
     {
-        "id": 389,
+        "id": 448,
         "sheet": "Science",
         "question": "SI unit of electric charge",
         "answer": "Coulomb",
@@ -4668,7 +5376,7 @@
         ]
     },
     {
-        "id": 390,
+        "id": 449,
         "sheet": "Science",
         "question": "One astronomical unit (AU) is the average distance between",
         "answer": "Earth & Sun",
@@ -4680,7 +5388,7 @@
         ]
     },
     {
-        "id": 391,
+        "id": 450,
         "sheet": "Science",
         "question": "Physical quantity without any unit",
         "answer": "Strain",
@@ -4692,7 +5400,7 @@
         ]
     },
     {
-        "id": 392,
+        "id": 451,
         "sheet": "Science",
         "question": "One Newton equals to",
         "answer": "1 Kg m/s^2",
@@ -4704,7 +5412,7 @@
         ]
     },
     {
-        "id": 393,
+        "id": 452,
         "sheet": "Science",
         "question": "SI unit of acceleration is",
         "answer": "m/s^2",
@@ -4716,7 +5424,7 @@
         ]
     },
     {
-        "id": 394,
+        "id": 453,
         "sheet": "Science",
         "question": "SI unit of electric resistance is",
         "answer": "Ohm",
@@ -4728,7 +5436,7 @@
         ]
     },
     {
-        "id": 395,
+        "id": 454,
         "sheet": "Science",
         "question": "1 kWh equals to",
         "answer": "3.6 x 10^6 J",
@@ -4740,7 +5448,7 @@
         ]
     },
     {
-        "id": 396,
+        "id": 455,
         "sheet": "Science",
         "question": "Electric Potential is measured in",
         "answer": "Joule / Coulomb",
@@ -4752,7 +5460,7 @@
         ]
     },
     {
-        "id": 397,
+        "id": 456,
         "sheet": "Science",
         "question": "Which of the following pairs have the same units",
         "answer": "Work & Energy",
@@ -4764,7 +5472,7 @@
         ]
     },
     {
-        "id": 398,
+        "id": 457,
         "sheet": "Science",
         "question": "Rate of change of momentum of a body is ",
         "answer": "Impulse",
@@ -4776,7 +5484,7 @@
         ]
     },
     {
-        "id": 399,
+        "id": 458,
         "sheet": "Science",
         "question": "SI unit of power is",
         "answer": "Watt",
@@ -4788,7 +5496,7 @@
         ]
     },
     {
-        "id": 400,
+        "id": 459,
         "sheet": "Science",
         "question": "Which of the following equations represents Pressure in Physics",
         "answer": "Force / Area",
@@ -4800,7 +5508,7 @@
         ]
     },
     {
-        "id": 401,
+        "id": 460,
         "sheet": "Science",
         "question": "Which of the following is a scalar quantity",
         "answer": "Mass",
@@ -4812,7 +5520,7 @@
         ]
     },
     {
-        "id": 402,
+        "id": 461,
         "sheet": "Science",
         "question": "One horsepower is approximately equal to",
         "answer": "746 W",
@@ -4824,7 +5532,7 @@
         ]
     },
     {
-        "id": 403,
+        "id": 462,
         "sheet": "Science",
         "question": "Molecular formula of Methyl Isocynate",
         "answer": "C2H3NO",
@@ -4836,7 +5544,7 @@
         ]
     },
     {
-        "id": 404,
+        "id": 463,
         "sheet": "Science",
         "question": "Ore of Thorium",
         "answer": "Monzite",
@@ -4848,7 +5556,7 @@
         ]
     },
     {
-        "id": 405,
+        "id": 464,
         "sheet": "Science",
         "question": "Ore of Uranium",
         "answer": "Pitchblende",
@@ -4860,7 +5568,7 @@
         ]
     },
     {
-        "id": 406,
+        "id": 465,
         "sheet": "Science",
         "question": "Which of the following acids is secreted in the stomach",
         "answer": "Hydrochloric acid",
@@ -4872,7 +5580,7 @@
         ]
     },
     {
-        "id": 407,
+        "id": 466,
         "sheet": "Science",
         "question": "The meter used to measure the distance moved by the vehicle is known as",
         "answer": "Odometer",
@@ -4884,7 +5592,7 @@
         ]
     },
     {
-        "id": 408,
+        "id": 467,
         "sheet": "Science",
         "question": "Heat transfer that does not require a medium is called",
         "answer": "Radiation",
@@ -4896,7 +5604,7 @@
         ]
     },
     {
-        "id": 409,
+        "id": 468,
         "sheet": "Science",
         "question": "What type of rock is formed from the cooling and solidification of lava",
         "answer": "Igneous",
@@ -4908,7 +5616,7 @@
         ]
     },
     {
-        "id": 410,
+        "id": 469,
         "sheet": "Science",
         "question": "Which of the following represents the suitable condition for the liquefaction of gases",
         "answer": "Low Temperature, High Pressure",
@@ -4920,7 +5628,7 @@
         ]
     },
     {
-        "id": 411,
+        "id": 470,
         "sheet": "Science",
         "question": "Which of the following is an Iron ore",
         "answer": "Limonite",
@@ -4932,7 +5640,7 @@
         ]
     },
     {
-        "id": 412,
+        "id": 471,
         "sheet": "Science",
         "question": "Which component of fertilizer is used for stimulating early growth",
         "answer": "Phosphorus",
@@ -4944,7 +5652,7 @@
         ]
     },
     {
-        "id": 413,
+        "id": 472,
         "sheet": "Science",
         "question": "Which of the following are the constituents of a sodia acid fire extinguisher",
         "answer": "Dilute sulphuric acid and sodium bicarbonate solution",
@@ -4956,7 +5664,7 @@
         ]
     },
     {
-        "id": 414,
+        "id": 473,
         "sheet": "Science",
         "question": "Which of the following bacterial diseases is called splenic fever",
         "answer": "Anthrax",
@@ -4968,7 +5676,7 @@
         ]
     },
     {
-        "id": 415,
+        "id": 474,
         "sheet": "Science",
         "question": "Which of the following radiation is used to get relief from body aches",
         "answer": "Infrared",
@@ -4980,7 +5688,7 @@
         ]
     },
     {
-        "id": 416,
+        "id": 475,
         "sheet": "Science",
         "question": "Which one of the following is an example of melamine used for making floor tiles",
         "answer": "Thermosetting Plastics",
@@ -4992,7 +5700,7 @@
         ]
     },
     {
-        "id": 417,
+        "id": 476,
         "sheet": "Science",
         "question": "Which of the following is the first artificially prepared element",
         "answer": "Tc",
@@ -5004,7 +5712,7 @@
         ]
     },
     {
-        "id": 418,
+        "id": 477,
         "sheet": "Science",
         "question": "Which of the following has a highly elongated elliptical orbit",
         "answer": "Comet",
@@ -5016,7 +5724,7 @@
         ]
     },
     {
-        "id": 419,
+        "id": 478,
         "sheet": "Science",
         "question": "Which of the following is the fluid part of the blood",
         "answer": "Plasma",
@@ -5028,7 +5736,7 @@
         ]
     },
     {
-        "id": 420,
+        "id": 479,
         "sheet": "Science",
         "question": "Which of the following minerals occur in Minas Gerais province of Brazil",
         "answer": "Iron",
@@ -5040,7 +5748,7 @@
         ]
     },
     {
-        "id": 421,
+        "id": 480,
         "sheet": "Science",
         "question": "Which of the following is a non-contact force",
         "answer": "Magnetic",
@@ -5052,7 +5760,7 @@
         ]
     },
     {
-        "id": 422,
+        "id": 481,
         "sheet": "Science",
         "question": "What is the structural and functional unit of Life",
         "answer": "Cell",
@@ -5064,7 +5772,7 @@
         ]
     },
     {
-        "id": 423,
+        "id": 482,
         "sheet": "Science",
         "question": "Which of the following, corundrum and cryolite are important ore",
         "answer": "Aluminium",
@@ -5076,7 +5784,7 @@
         ]
     },
     {
-        "id": 424,
+        "id": 483,
         "sheet": "Science",
         "question": "Which of the following is the resistance of wire",
         "answer": "R = V/I",
@@ -5088,7 +5796,7 @@
         ]
     },
     {
-        "id": 425,
+        "id": 484,
         "sheet": "Science",
         "question": "What is the value of solar constant",
         "answer": "1.4 kW/m2",
@@ -5100,7 +5808,7 @@
         ]
     },
     {
-        "id": 426,
+        "id": 485,
         "sheet": "Science",
         "question": "Which of the following the chlorophyll in photosyntesis is used for",
         "answer": "Absorbing light",
@@ -5112,7 +5820,7 @@
         ]
     },
     {
-        "id": 427,
+        "id": 486,
         "sheet": "Science",
         "question": "Which part of alimentary canal receives bile from the liver",
         "answer": "Small Intestine",
@@ -5124,7 +5832,7 @@
         ]
     },
     {
-        "id": 428,
+        "id": 487,
         "sheet": "Science",
         "question": "The process of breaking down organic matter by micro-organisms is called",
         "answer": "Decomposition",
@@ -5136,7 +5844,7 @@
         ]
     },
     {
-        "id": 429,
+        "id": 488,
         "sheet": "Science",
         "question": "Which of the following is a major cause of pollution",
         "answer": "Burning of Fossil Fuels",
@@ -5148,7 +5856,7 @@
         ]
     },
     {
-        "id": 430,
+        "id": 489,
         "sheet": "Science",
         "question": "Who was the first to propose a model for the structure of an atom",
         "answer": "J J Thomson",
