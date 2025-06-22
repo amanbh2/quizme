@@ -1,0 +1,332 @@
+[
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which one of the following periods is also known as Chalcolithic Age?",
+        "answer": "Copper Age",
+        "choices": [
+            "Copper Age",
+            "Old Stone Age",
+            "New Stone Age",
+            "Iron Age"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Indus Civilisation existed in",
+        "answer": "Proto-Historic age",
+        "choices": [
+            "Proto-Historic age",
+            "Pre-Historic age",
+            "Historic age",
+            "Post-Historic age"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The earliest evidence of animal domestication and agriculture in India has come from",
+        "answer": "Mehrgarh",
+        "choices": [
+            "Mehrgarh",
+            "Harappa",
+            "Lothal",
+            "Diamabad"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The earliest evidence of rice cultivation in Ganga valley comes from",
+        "answer": "Lahuradewa",
+        "choices": [
+            "Lahuradewa",
+            "Mehrgarh",
+            "Lothal",
+            "Diamabad"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which colour was commonly used in the Harappan Pottery?",
+        "answer": "Red-Black",
+        "choices": [
+            "Red-Black",
+            "Yellow",
+            "Green",
+            "Blue-Grey"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which of the following Harappan cities, furrows of ploughed fields have been found?",
+        "answer": "Kalibangan",
+        "choices": [
+            "Kalibangan",
+            "Dholavira",
+            "Mohenjodaro",
+            "Lothal"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which of the following Harappan sites, terracotta of plough has been found?",
+        "answer": "Banawali",
+        "choices": [
+            "Banawali",
+            "Dholavira",
+            "Kalibangan",
+            "Lothal"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "What is the most significant feature of the Indus Valley Civilisation?",
+        "answer": "Use of burnt bricks",
+        "choices": [
+            "Use of burnt bricks",
+            "Fine true arches",
+            "Buildings of worship",
+            "Art & Architecture"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following animals was not known to the people of Indus Valley Civilisation",
+        "answer": "Horse",
+        "choices": [
+            "Horse",
+            "Humped Bull (Zebu)",
+            "Deer",
+            "Elephant"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is Harappan Port",
+        "answer": "Lothal",
+        "choices": [
+            "Lothal",
+            "Diamabad",
+            "Nagapattinam",
+            "Mahasthangarh"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the largest Harappan site in India",
+        "answer": "Rakhigarhi",
+        "choices": [
+            "Rakhigarhi",
+            "Mohenjodaro",
+            "Lothal",
+            "Kalibangan"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the largest Harappan site",
+        "answer": "Mohenjodaro",
+        "choices": [
+            "Mohenjodaro",
+            "Rakhigarhi",
+            "Lothal",
+            "Kalibangan"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the western most Harappan site",
+        "answer": "Sutkagendor",
+        "choices": [
+            "Sutkagendor",
+            "Shortugai",
+            "Alamgirpur",
+            "Diamabad"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the eastern most Harappan site",
+        "answer": "Alamgirpur",
+        "choices": [
+            "Alamgirpur",
+            "Shortugai",
+            "Suktagendor",
+            "Diamabad"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the northern most Harappan site",
+        "answer": "Shortugai",
+        "choices": [
+            "Shortugai",
+            "Alamgirpur",
+            "Suktagendor",
+            "Diamabad"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the southern most Harappan site",
+        "answer": "Diamabad",
+        "choices": [
+            "Diamabad",
+            "Alamgirpur",
+            "Suktagendor",
+            "Shortugai"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following Harappan site is associated with trade in Lapis Lazuli",
+        "answer": "Shortugai",
+        "choices": [
+            "Shortugai",
+            "Sutkagendor",
+            "Surkotada",
+            "Manda"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is a Harappan site in Gujarat",
+        "answer": "Lothal",
+        "choices": [
+            "Lothal",
+            "Dabarkot",
+            "Kalibangan",
+            "Rakhigarhi"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who among the following was not associated with the excavation of Harappa and Mohenjodaro?",
+        "answer": "V A Smith",
+        "choices": [
+            "V A Smith",
+            "R D Banerjee",
+            "K N Dikshit",
+            "M S Vats"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "According to report of IIT Kharagpur study group, continous low rainfall for how many years was the cause of fall of the Indus Valley civilisation?",
+        "answer": "900 years",
+        "choices": [
+            "900 years",
+            "600 years",
+            "700 years",
+            "800 years"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "When did the use of Iron begin in Indian Subcontinent?",
+        "answer": "Around 3000 years ago",
+        "choices": [
+            "Around 3000 years ago",
+            "Around 6000 years ago",
+            "Around 9000 years ago",
+            "Around 10000 years ago"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which mandala of Rig Veda is completely dedicated to 'Soma'?",
+        "answer": "Ninth Mandala",
+        "choices": [
+            "Ninth Mandala",
+            "Seventh Mandala",
+            "Eighth Mandala",
+            "Tenth Mandala"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Name the ancient site outside India from where inscription containing Rigvedic dieties names has been found",
+        "answer": "Boghazkoi",
+        "choices": [
+            "Boghazkoi",
+            "Babylon",
+            "Gonur Tepe",
+            "Ur"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Famous Battle of Ten Kings was fought on the bank of river:",
+        "answer": "Parushni",
+        "choices": [
+            "Parushni",
+            "Ganga",
+            "Brahmputra",
+            "Kaveri"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which Mandala of Rigveda, Battle of Ten Kings is mentioned",
+        "answer": "Seventh Mandala",
+        "choices": [
+            "Seventh Mandala",
+            "Eighth Mandala",
+            "Tenth Mandala",
+            "Ninth Mandala"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which Mandala of Rigveda, Gayatri Mantra is mentioned",
+        "answer": "Third Mandala",
+        "choices": [
+            "Third Mandala",
+            "Eighth Mandala",
+            "Seventh Mandala",
+            "Ninth Mandala"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which book Gayatri Mantra is found",
+        "answer": "Rig Veda",
+        "choices": [
+            "Rig Veda",
+            "Upanishad",
+            "Bhagwatgita",
+            "Ramayana"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Gayatri Mantra is dedicated to which diety",
+        "answer": "Sun",
+        "choices": [
+            "Sun",
+            "Parvati",
+            "Shiva",
+            "Indra"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which phase, the concept of untouchability was put clearly?",
+        "answer": "Dharmashastra Phase",
+        "choices": [
+            "Dharmashastra Phase",
+            "Rigvedic Phase",
+            "Later Vedic Phase",
+            "Later Gupta Phase"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which ancient Indian text, composed during the later Vedic period, contains philosophical hymns and discussions on cosmology and ethics?",
+        "answer": "Upanishads",
+        "choices": [
+            "Upanishads",
+            "Rigveda",
+            "Yajurveda",
+            "Samveda"
+        ]
+    }
+]

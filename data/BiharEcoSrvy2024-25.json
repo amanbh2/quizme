@@ -1,0 +1,79 @@
+[
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "What is the size of Bihar's economy at current price in 2023-24",
+        "answer": "8.54 lakh crore",
+        "choices": [
+            "8.54 lakh crore",
+            "4.64 lakh crore",
+            "6.82 lakh crore",
+            "9.32 lakh crore"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "Growth in Bihar's GSDP at current price for year 2023-24",
+        "answer": "14.5 percent",
+        "choices": [
+            "14.5 percent",
+            "9.2 percent",
+            "10 percent",
+            "11 percent"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
+        "answer": "9.2 percent",
+        "choices": [
+            "9.2 percent",
+            "14.5 percent",
+            "10 percent",
+            "11 percent"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "Which economic sector is the hightest contributor in Bihar state GVA for year 2023-24",
+        "answer": "Tertiary",
+        "choices": [
+            "Tertiary",
+            "Primary",
+            "Secondary",
+            "Tourism"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
+        "answer": "58.6 percent",
+        "choices": [
+            "58.6 percent",
+            "21.5 percent",
+            "19.9 percent",
+            "11 percent"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "Industry contributing the most in Bihar state GVA for year 2023-24",
+        "answer": "Non-Metallic Mineral Production",
+        "choices": [
+            "Non-Metallic Mineral Production",
+            "Food Processing",
+            "Cement",
+            "Textile"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "How much Bihar contributes in total Makhana production of India",
+        "answer": "85 percent",
+        "choices": [
+            "85 percent",
+            "90 percent",
+            "80 percent",
+            "75 percent"
+        ]
+    }
+]

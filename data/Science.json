@@ -1,0 +1,1113 @@
+[
+    {
+        "sheet": "Science",
+        "question": "Physics involves the study of",
+        "answer": "Nature & Natural Phenomena",
+        "choices": [
+            "Nature & Natural Phenomena",
+            "Humans",
+            "Birds & Animals",
+            "Plants"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Classical Physics does not include subjects like",
+        "answer": "Elementary Particles",
+        "choices": [
+            "Elementary Particles",
+            "Mechanics",
+            "Heat",
+            "Sound"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Size of universe is of the order of",
+        "answer": "10^26 m",
+        "choices": [
+            "10^26 m",
+            "10^18 m",
+            "10^40 m",
+            "10^16 m"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Einstein was awarded Nobel Prize in Physics for",
+        "answer": "Law of Photoelectric Effect",
+        "choices": [
+            "Law of Photoelectric Effect",
+            "Theory of Relativity",
+            "Law of Gravition",
+            "Special Relativity"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Fundamental unit of luminous intensity",
+        "answer": "Candela",
+        "choices": [
+            "Candela",
+            "Watt",
+            "Joule",
+            "Lux"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Weber is derived unit of",
+        "answer": "Magnetic Flux",
+        "choices": [
+            "Magnetic Flux",
+            "Magnetic Moment",
+            "Luminous Flux",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The prefix femto stands for",
+        "answer": "10^-15",
+        "choices": [
+            "10^-15",
+            "10^15",
+            "10^12",
+            "10^-12"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Number of basic SI Unit is ",
+        "answer": 7,
+        "choices": [
+            7,
+            6,
+            8,
+            5
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Light-year is a unit of ",
+        "answer": "Distance",
+        "choices": [
+            "Distance",
+            "Light",
+            "Intensity of Light",
+            "Time"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Speed of light in a vacuum is approximately ",
+        "answer": "3 x 10^8 m/s",
+        "choices": [
+            "3 x 10^8 m/s",
+            "3 x 10^8 km/s",
+            "3 x 10^6 m/s",
+            "3 x 10^6 km/s"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Ampere is unit of",
+        "answer": "Electric Current",
+        "choices": [
+            "Electric Current",
+            "Electric Charge",
+            "Magentic Flux",
+            "Electric Resistance"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "SI unit of pressure",
+        "answer": "Pascal",
+        "choices": [
+            "Pascal",
+            "Dyne",
+            "Newton",
+            "Joule"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Decibel is unit of",
+        "answer": "Intensity of Sound",
+        "choices": [
+            "Intensity of Sound",
+            "Intensity of Light",
+            "Speed of Light",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "SI unit of electric charge",
+        "answer": "Coulomb",
+        "choices": [
+            "Coulomb",
+            "Volts",
+            "Ohm",
+            "Ampere"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "One astronomical unit (AU) is the average distance between",
+        "answer": "Earth & Sun",
+        "choices": [
+            "Earth & Sun",
+            "Earth & Moon",
+            "Sun & Moon",
+            "Sun & Pluto"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Physical quantity without any unit",
+        "answer": "Strain",
+        "choices": [
+            "Strain",
+            "Stress",
+            "Force",
+            "Pressure"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "One Newton equals to",
+        "answer": "1 Kg m/s^2",
+        "choices": [
+            "1 Kg m/s^2",
+            "1 Kg m s",
+            "1 Kg m/s",
+            "1 Kg m s^2"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "SI unit of acceleration is",
+        "answer": "m/s^2",
+        "choices": [
+            "m/s^2",
+            "m/s",
+            "ms",
+            "ms^2"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "SI unit of electric resistance is",
+        "answer": "Ohm",
+        "choices": [
+            "Ohm",
+            "Ampere",
+            "Volt",
+            "Coulomb"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "1 kWh equals to",
+        "answer": "3.6 x 10^6 J",
+        "choices": [
+            "3.6 x 10^6 J",
+            "3.6 x 10^5 J",
+            "3.6 x 10^-6 J",
+            "3.6 x 10^-5 J"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Electric Potential is measured in",
+        "answer": "Joule / Coulomb",
+        "choices": [
+            "Joule / Coulomb",
+            "Watt",
+            "Newton-second",
+            "Joule"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following pairs have the same units",
+        "answer": "Work & Energy",
+        "choices": [
+            "Work & Energy",
+            "Force & Pressure",
+            "Power & Energy",
+            "Force & Work"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Rate of change of momentum of a body is ",
+        "answer": "Impulse",
+        "choices": [
+            "Impulse",
+            "Energy",
+            "Power",
+            "Force"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "SI unit of power is",
+        "answer": "Watt",
+        "choices": [
+            "Watt",
+            "Joule-Second",
+            "Joule",
+            "Newton-Second"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following equations represents Pressure in Physics",
+        "answer": "Force / Area",
+        "choices": [
+            "Force / Area",
+            "Force x Area",
+            "Mass / Acceleration",
+            "Mass x Acceleration"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is a scalar quantity",
+        "answer": "Mass",
+        "choices": [
+            "Mass",
+            "Momentum",
+            "Weight",
+            "Gravity"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "One horsepower is approximately equal to",
+        "answer": "746 W",
+        "choices": [
+            "746 W",
+            "647 W",
+            "476 W",
+            "764 W"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Molecular formula of Methyl Isocynate",
+        "answer": "C2H3NO",
+        "choices": [
+            "C2H3NO",
+            "C3H5NO",
+            "C4H7NO",
+            "C4H9NO"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Ore of Thorium",
+        "answer": "Monzite",
+        "choices": [
+            "Monzite",
+            "Pitchblende",
+            "Carnotite",
+            "Hematite"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Ore of Uranium",
+        "answer": "Pitchblende",
+        "choices": [
+            "Pitchblende",
+            "Monzite",
+            "Thorite",
+            "Hematite"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following acids is secreted in the stomach",
+        "answer": "Hydrochloric acid",
+        "choices": [
+            "Hydrochloric acid",
+            "Sulphuric acid",
+            "Nitric acid",
+            "Phosphoric Acid"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The meter used to measure the distance moved by the vehicle is known as",
+        "answer": "Odometer",
+        "choices": [
+            "Odometer",
+            "Ammeter",
+            "Speedometer",
+            "Chronometer"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Heat transfer that does not require a medium is called",
+        "answer": "Radiation",
+        "choices": [
+            "Radiation",
+            "Reflection",
+            "Conduction",
+            "Convection"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What type of rock is formed from the cooling and solidification of lava",
+        "answer": "Igneous",
+        "choices": [
+            "Igneous",
+            "Sedimentary",
+            "Metamorphic",
+            "Crystal"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following represents the suitable condition for the liquefaction of gases",
+        "answer": "Low Temperature, High Pressure",
+        "choices": [
+            "Low Temperature, High Pressure",
+            "Low Temperature, Low Pressure",
+            "High Temperature, High Pressure",
+            "High Temperature, Low Pressure"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is an Iron ore",
+        "answer": "Limonite",
+        "choices": [
+            "Limonite",
+            "Cinnabar",
+            "Bauxite",
+            "Pyrite"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which component of fertilizer is used for stimulating early growth",
+        "answer": "Phosphorus",
+        "choices": [
+            "Phosphorus",
+            "Nitrogen",
+            "Potassium",
+            "Oxygen"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following are the constituents of a sodia acid fire extinguisher",
+        "answer": "Dilute sulphuric acid and sodium bicarbonate solution",
+        "choices": [
+            "Dilute sulphuric acid and sodium bicarbonate solution",
+            "Dilute sulphuric acid and sodium carbonate",
+            "Concentrated sulphuric acid and sodium carbonate solution",
+            "Concentrated sulphuric acid and aluminium suplhate"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following bacterial diseases is called splenic fever",
+        "answer": "Anthrax",
+        "choices": [
+            "Anthrax",
+            "Typhoid",
+            "Cholera",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following radiation is used to get relief from body aches",
+        "answer": "Infrared",
+        "choices": [
+            "Infrared",
+            "UV",
+            "Visible",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which one of the following is an example of melamine used for making floor tiles",
+        "answer": "Thermosetting Plastics",
+        "choices": [
+            "Thermosetting Plastics",
+            "Thermoplastics",
+            "Polythene",
+            "PVC"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is the first artificially prepared element",
+        "answer": "Tc",
+        "choices": [
+            "Tc",
+            "Te",
+            "Th",
+            "TI"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following has a highly elongated elliptical orbit",
+        "answer": "Comet",
+        "choices": [
+            "Comet",
+            "Asteroid",
+            "Meteorite",
+            "Meteor"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is the fluid part of the blood",
+        "answer": "Plasma",
+        "choices": [
+            "Plasma",
+            "WBC",
+            "RBC",
+            "Platelets"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following minerals occur in Minas Gerais province of Brazil",
+        "answer": "Iron",
+        "choices": [
+            "Iron",
+            "Bauxite",
+            "Mica",
+            "Coal"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is a non-contact force",
+        "answer": "Magnetic",
+        "choices": [
+            "Magnetic",
+            "Frictional",
+            "Impact",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the structural and functional unit of Life",
+        "answer": "Cell",
+        "choices": [
+            "Cell",
+            "Organ",
+            "Tissue",
+            "Organism"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following, corundrum and cryolite are important ore",
+        "answer": "Aluminium",
+        "choices": [
+            "Aluminium",
+            "Silver",
+            "Tin",
+            "Iron"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is the resistance of wire",
+        "answer": "R = V/I",
+        "choices": [
+            "R = V/I",
+            "R = IV",
+            "R = I/V",
+            "I = R/V"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the value of solar constant",
+        "answer": "1.4 kW/m2",
+        "choices": [
+            "1.4 kW/m2",
+            "1.6 kW/m2",
+            "1.2 kW/m2",
+            "1.8 kW/m2"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following the chlorophyll in photosyntesis is used for",
+        "answer": "Absorbing light",
+        "choices": [
+            "Absorbing light",
+            "Reduction of CO2",
+            "Breaking downs water molecules",
+            "No Function"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which part of alimentary canal receives bile from the liver",
+        "answer": "Small Intestine",
+        "choices": [
+            "Small Intestine",
+            "Stomach",
+            "Oesophagus",
+            "Large Intestine"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The process of breaking down organic matter by micro-organisms is called",
+        "answer": "Decomposition",
+        "choices": [
+            "Decomposition",
+            "Respiration",
+            "Photosynthesis",
+            "Fermentation"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is a major cause of pollution",
+        "answer": "Burning of Fossil Fuels",
+        "choices": [
+            "Burning of Fossil Fuels",
+            "Disposal of Plastics",
+            "Deforestation",
+            "Execessive use of pesticides"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Who was the first to propose a model for the structure of an atom",
+        "answer": "J J Thomson",
+        "choices": [
+            "J J Thomson",
+            "E Goldstein",
+            "Rutherford",
+            "Neil Bohr"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "In the following which is fundamental physical quantitiy?",
+        "answer": "Electric Current",
+        "choices": [
+            "Electric Current",
+            "Force",
+            "Velocity",
+            "Work"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "At time of a short circuit, the current in the circuit",
+        "answer": "increases heavily",
+        "choices": [
+            "increases heavily",
+            "varies continously",
+            "reduces substantially",
+            "does not change"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Frequency is measured in",
+        "answer": "Hertz",
+        "choices": [
+            "Hertz",
+            "metre/second",
+            "radian",
+            "watt"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is measured in hertz?",
+        "answer": "Frequency",
+        "choices": [
+            "Frequency",
+            "Energy",
+            "Heat",
+            "Work"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Bolometer is used to measure",
+        "answer": "Heat Radiations",
+        "choices": [
+            "Heat Radiations",
+            "Frequency",
+            "Velocity",
+            "Wavelength"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is hearing frequency range of Human",
+        "answer": "20Hz to 20kHz",
+        "choices": [
+            "20Hz to 20kHz",
+            "2Hz to 20kHz",
+            "2Hz to 20Hz",
+            "2kHz to 20kHz"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Ohm-meter is unit of ",
+        "answer": "Resistivity",
+        "choices": [
+            "Resistivity",
+            "Resistance",
+            "Charge",
+            "Conductance"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Angstrom is a unit of ",
+        "answer": "Wavelength",
+        "choices": [
+            "Wavelength",
+            "Energy",
+            "Frequency",
+            "Velocity"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "1 Zepto is equal to",
+        "answer": "10^-21",
+        "choices": [
+            "10^-21",
+            "10^21",
+            "10^-12",
+            "10^12"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "One micron is equal to",
+        "answer": "10^-6 m",
+        "choices": [
+            "10^-6 m",
+            "10^6 m",
+            "10^-3 m",
+            "10^3 m"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "One picogram is equal to",
+        "answer": "10^-12",
+        "choices": [
+            "10^-12",
+            "10^-21",
+            "10^-9",
+            "10^-6"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the unit of pressure?",
+        "answer": "Newton / sq. meter",
+        "choices": [
+            "Newton / sq. meter",
+            "Newton-meter",
+            "Newton",
+            "Newton/meter"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Magnetic field is a ",
+        "answer": "Vector Quantity",
+        "choices": [
+            "Vector Quantity",
+            "Scalar Quantity",
+            "Dimensionless Quantity",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is Galvanometer used to measure",
+        "answer": "Electric Current",
+        "choices": [
+            "Electric Current",
+            "Electric Charge",
+            "Electric Resistance",
+            "Electric Potential"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is used to measure the intensity of earthquake?",
+        "answer": "Mercalli Scale",
+        "choices": [
+            "Mercalli Scale",
+            "Ritcher Scale",
+            "Seismograph",
+            "Accelerometer"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Hot-wire ammeters are used to measure",
+        "answer": "both AC and DC",
+        "choices": [
+            "both AC and DC",
+            "only DC",
+            "only AC",
+            "neither AC nor DC"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which instrument is used for measuring electric potential?",
+        "answer": "Potentiometer",
+        "choices": [
+            "Potentiometer",
+            "Ammeter",
+            "Galvanometer",
+            "Accelerometer"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The device used to measure electric current is",
+        "answer": "Ammeter",
+        "choices": [
+            "Ammeter",
+            "Potentiometer",
+            "Voltmeter",
+            "Voltameter"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The resistance of an ideal voltmeter is ",
+        "answer": "infinite",
+        "choices": [
+            "infinite",
+            "negative",
+            "zero",
+            "one"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which instrument is used to measure humidity",
+        "answer": "Hygrometer",
+        "choices": [
+            "Hygrometer",
+            "Hydrometer",
+            "Pyrometer",
+            "Lactometer"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Electroencephalogram (EEG) is used in monitoring",
+        "answer": "Brain",
+        "choices": [
+            "Brain",
+            "Heart",
+            "Liver",
+            "Kidney"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "For a satellite, escape velocity is 11km/s. If the satellite is launched at an angle of 60 degree with the vertical, then the escape velocity will be",
+        "answer": "does not change",
+        "choices": [
+            "does not change",
+            "increases",
+            "decreases",
+            "becomes zero"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the law in which under the same conditions of temperature and pressure, equal volumes of all gases contain equal number of molecules?",
+        "answer": "Avogadro's Law",
+        "choices": [
+            "Avogadro's Law",
+            "Graham's Law",
+            "Pascal's Law",
+            "Coriolis Effect"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A goalkeeper in a game of football pull his hands backwards after holding the ball shot at the goal. This enables the goalkeeper to",
+        "answer": "decrease the rate of change of momentum",
+        "choices": [
+            "decrease the rate of change of momentum",
+            "increase the force exerted by the ball on hands",
+            "exert large force on the ball",
+            "increases the score"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "When the stone is brought from the surface of the moon to the earth, then",
+        "answer": "its weight will change, but mass will not change",
+        "choices": [
+            "its weight will change, but mass will not change",
+            "it mass will change",
+            "both weight and mass will change",
+            "neither weight nor mass will change"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is not a vector quantity",
+        "answer": "volume",
+        "choices": [
+            "volume",
+            "velocity",
+            "displacement",
+            "force"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is not a vector quantity",
+        "answer": "speed",
+        "choices": [
+            "speed",
+            "velocity",
+            "torque",
+            "displacement"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is a scalar quantity",
+        "answer": "Pressure",
+        "choices": [
+            "Pressure",
+            "Force",
+            "Acceleration",
+            "Velocity"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Current density is",
+        "answer": "a vector quantity",
+        "choices": [
+            "a vector quantity",
+            "a scalar quantity",
+            "Dimensionless Quantity",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A sudden rise in the barometric height indicates",
+        "answer": "extremely dry weather",
+        "choices": [
+            "extremely dry weather",
+            "coming of storm or cyclone",
+            "possibility of rain",
+            "dry weather"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The time period of a pendulum clock is ",
+        "answer": "1 second",
+        "choices": [
+            "1 second",
+            "2 seconds",
+            "1 minute",
+            "1 hour"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which physical quantity is represented by the ratio of momentum and velocity of the body?",
+        "answer": "Mass",
+        "choices": [
+            "Mass",
+            "velocity",
+            "Acceleration",
+            "Force"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which is the correct formula of acceleration?",
+        "answer": "a = (v-u)/t",
+        "choices": [
+            "a = (v-u)/t",
+            "a = u + vt",
+            "a = (u + v )/t",
+            "a = u + v/t"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Force is the product of ",
+        "answer": "Mass & Acceleration",
+        "choices": [
+            "Mass & Acceleration",
+            "Mass & Velocity",
+            "Weight & Density",
+            "Weight & Acceleration"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Ball bearings are used to convert static friction into",
+        "answer": "rolling friction",
+        "choices": [
+            "rolling friction",
+            "drag",
+            "sliding friction",
+            "torque"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following energy changes involves frictional force?",
+        "answer": "Kinetic Energy to Heat Energy",
+        "choices": [
+            "Kinetic Energy to Heat Energy",
+            "Chemical energy to Heat Energy",
+            "Kinetic Energy to Electric Energy",
+            "Potential Energy to Sound Energy"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Lenz's law is derived from the law of conservation of ",
+        "answer": "Energy",
+        "choices": [
+            "Energy",
+            "Charge",
+            "Momentum",
+            "Magnetism"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "If a feather, a rubber ball and a wooden ball are failing freely simultaneously from the same height in the vacuum then",
+        "answer": "all three will reach the ground together",
+        "choices": [
+            "all three will reach the ground together",
+            "the wooden ball will reach the ground first",
+            "the rubber ball will reach the ground first",
+            "the feather will reach the ground last"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "When a body falls freely towards the Earth, then its total energy",
+        "answer": "remains constant",
+        "choices": [
+            "remains constant",
+            "increases",
+            "decreases",
+            "becomes zero"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A second pendulum is mounted in a rocket. Its period of oscillation decreases when the rocket",
+        "answer": "moves up with uniform acceleration",
+        "choices": [
+            "moves up with uniform acceleration",
+            "comes down with uniform acceleration",
+            "moves round the earth in a geostationary orbit",
+            "moves up with uniform velocity"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "For a body moving with constant speed in a horizontal circle, which of the following remains constant?",
+        "answer": "Kinetic Energy",
+        "choices": [
+            "Kinetic Energy",
+            "velocity",
+            "Acceleration",
+            "Centripetal Force"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "If the spinning speed of the earth increases, then the weight of the body at equator will",
+        "answer": "decrease",
+        "choices": [
+            "decrease",
+            "increase",
+            "remains same",
+            "be doubled"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The time period of a pendulum",
+        "answer": "depends on its length",
+        "choices": [
+            "depends on its length",
+            "depends on the mass",
+            "depends on time",
+            "depends on temperature"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "You are standing in an elevator. The force exerted by your weight on the floor of the elevator",
+        "answer": "will be zero when the lift comes down with an acceleration of 9.8m/s2",
+        "choices": [
+            "will be zero when the lift comes down with an acceleration of 9.8m/s2",
+            "will be zero when the lift goes up with an acceleration of 9.8m/s2",
+            "Zero when the lift moves in any direction with an acceleration of 9.8m/s2",
+            "will not be affected by the change in the rate of acceleration of the lift"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A bus is moving along a straight path and takes a sharp turn to the right side suddenly, the passengers in the bus will",
+        "answer": "bent towards left side",
+        "choices": [
+            "bent towards left side",
+            "bent towards right side",
+            "fall in forward direction ",
+            "fall in backward direction"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A man pushes more weight on the Earth at",
+        "answer": "standing position",
+        "choices": [
+            "standing position",
+            "sitting position",
+            "lying position",
+            "sleeping position"
+        ]
+    }
+]
