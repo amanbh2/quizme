@@ -2541,6 +2541,72 @@
         ]
     },
     {
+        "sheet": "Recent2025",
+        "question": "Strait of Hormuz connects",
+        "answer": "Persian Gulf & Gulf of Oman",
+        "choices": [
+            "Persian Gulf & Gulf of Oman",
+            "Persian Gulf & Gulf of Aden",
+            "Red Sea and Gulf of Aden",
+            "Red Sea and Gulf of Oman"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Where is the proposed CIP-South Asia Regional Centre (CSARC) Potato research centre coming up",
+        "answer": "Agra, Uttar Pradesh",
+        "choices": [
+            "Agra, Uttar Pradesh",
+            "Patna, Bihar",
+            "Lucknow, Uttar Pradesh",
+            "Amritsar, Punjab"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The proposed CIP-South Asia Regional Centre will focus research and development of",
+        "answer": "Potato & Sweet Potato",
+        "choices": [
+            "Potato & Sweet Potato",
+            "Wheat",
+            "Rice",
+            "Sugarcane"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the revised total coastline of India",
+        "answer": "11098.81 km",
+        "choices": [
+            "11098.81 km",
+            "7516 km",
+            "9069.52 km",
+            "10042.61 km"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which state of India has longest coastline",
+        "answer": "Gujarat",
+        "choices": [
+            "Gujarat",
+            "Andhra Pradesh",
+            "Tamil Nadu",
+            "Maharashtra"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the primary use of GLP-1 (Glucagon-Like Peptide-1) drug?",
+        "answer": "Treatment of Diabetes and obesity",
+        "choices": [
+            "Treatment of Diabetes and obesity",
+            "Treatment of Cancer",
+            "Treatment of Tuberculosis",
+            "Treatment of AIDS"
+        ]
+    },
+    {
         "sheet": "BiharSpecific",
         "question": "Bihar State Formation Day",
         "answer": "22nd March 1912",

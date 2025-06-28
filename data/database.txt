@@ -1,9 +1,9 @@
 Question counts:
 History1450Onwards: 23 questions
 HistoryAncient: 30 questions
-Recent2025: 178 questions
+Recent2025: 184 questions
 BiharSpecific: 199 questions
 BiharEcoSrvy2024-25: 7 questions
 BiharBudget2025-26: 3 questions
 Science: 101 questions
-Total questions: 541
+Total questions: 547

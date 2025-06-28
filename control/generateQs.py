@@ -4,7 +4,7 @@ import os
 
 # Define input and output directory paths
 input_file = r'C:\Users\amanb\OneDrive\Documents\ObjectiveQuestions.xlsx'
-output_dir = "../data"
+output_dir = r"C:\Users\amanb\Dev\quizme\data"
 os.makedirs(output_dir, exist_ok=True)  # Create output directory exists if it doesn't exist
 
 # Load the Excel file to get sheet names
