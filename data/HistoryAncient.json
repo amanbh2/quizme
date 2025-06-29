@@ -328,5 +328,577 @@
             "Yajurveda",
             "Samveda"
         ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Where did Mahatma Buddha's Mahaparinirvana take place",
+        "answer": "Khushi Nagar",
+        "choices": [
+            "Khushi Nagar",
+            "Lumbini",
+            "Kapilvastu",
+            "Bodhgaya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The ruler of Suvarnabhumi, who founded a Buddhist monastery at Nalanda and requested Devapala through his ambassador to grant, five villages for its maintenance, was",
+        "answer": "Balaputradeva",
+        "choices": [
+            "Balaputradeva",
+            "Dharanindra",
+            "Sangramadhanjaya",
+            "Chudamanivarmana"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "At which place did Mahatma Buddha give his first Dharmachakkhapavathana?",
+        "answer": "Sarnath",
+        "choices": [
+            "Sarnath",
+            "Lumbini",
+            "Khushi Nagar",
+            "Kapilvastu"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who got enlightenment in Bodh Gaya?",
+        "answer": "Gautam Buddha",
+        "choices": [
+            "Gautam Buddha",
+            "Mahavir Jain",
+            "Smandhar Swami",
+            "Parshvanath Swami"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Gautam Buddha gave his first sermon at",
+        "answer": "Sarnath",
+        "choices": [
+            "Sarnath",
+            "Vaishali",
+            "Kaushambi",
+            "Pavapuri"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following rulers convened the fourth Buddhist Council in Kashmir?",
+        "answer": "Kanishka",
+        "choices": [
+            "Kanishka",
+            "Ashoka",
+            "Ajatshatru",
+            "kalashoka"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "A Buddhist Council during the reign of Kanishka was held at",
+        "answer": "Kashmir",
+        "choices": [
+            "Kashmir",
+            "Magadha",
+            "Pataliputra",
+            "Rajgriha"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Where was the third Buddhist Council held?",
+        "answer": "Pataliputra",
+        "choices": [
+            "Pataliputra",
+            "Sarnath",
+            "Taxila",
+            "Bodh Gaya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The third Buddhist Council was presided over by",
+        "answer": "Moggaliputta-Tissa",
+        "choices": [
+            "Moggaliputta-Tissa",
+            "Mahakassapa",
+            "Vasumitra",
+            "Ashvaghosha"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In Indian art, the construction of Stupa, Chaitya and Vihara is related to which of the following?",
+        "answer": "Buddhism",
+        "choices": [
+            "Buddhism",
+            "Jainism",
+            "Vaishanva sect",
+            "Shaiva sect"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Mahabodhi temple has been built at Bodh Gaya where",
+        "answer": "Gautam Buddha received enlightenment",
+        "choices": [
+            "Gautam Buddha received enlightenment",
+            "Gautam Buddha was born",
+            "Gautam Buddha gave his first sermon",
+            "Gautam Buddha passed away"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The present Bodhi Vriksha in Bodh Gaya belongs to which generation of family",
+        "answer": "Fifth",
+        "choices": [
+            "Fifth",
+            "Fourth",
+            "Third",
+            "Sixth"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "After the Mahaparinirvana of Lord Buddha, the first Buddhist council was held at",
+        "answer": "Rajgriha (Rajgir)",
+        "choices": [
+            "Rajgriha (Rajgir)",
+            "Pataliputra (Patna)",
+            "Kundalvana (Kashmir)",
+            "Vaishali"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Tripatikas are the sacred books of the",
+        "answer": "Buddhists",
+        "choices": [
+            "Buddhists",
+            "Jains",
+            "Hindus",
+            "Parsis"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following buddhist literature is not grouped as Tripitaks",
+        "answer": "Milind Panha",
+        "choices": [
+            "Milind Panha",
+            "Sutta Pitaka",
+            "Vinay Pitaka",
+            "Abhidhamma Pitaka"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Where is the highest Vishwa Shanti Stupa located in Bihar",
+        "answer": "Rajgir",
+        "choices": [
+            "Rajgir",
+            "Vaishali",
+            "Patna",
+            "Nalanda"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Barabudur is the most wonderful Stupa in the world and its images and sculptures are the finest examples of",
+        "answer": "Indo-Javanese Art",
+        "choices": [
+            "Indo-Javanese Art",
+            "Indo-Tibetan Art",
+            "Indo-Cambodian Art",
+            "Indo-Champan Art"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Gautam Buddha was elevated to the position of God during the period of",
+        "answer": "Kanishka",
+        "choices": [
+            "Kanishka",
+            "Ashoka",
+            "Chandragupta Vikramaditya",
+            "Harsha"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Where is Odantipuri (Uddandapura) Mahavihar located?",
+        "answer": "Bihar Sharif",
+        "choices": [
+            "Bihar Sharif",
+            "Bhagalpur",
+            "Nalanda",
+            "Bengal"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Odantipuri (Uddandapura) Mahavihar was established by",
+        "answer": "Gopal",
+        "choices": [
+            "Gopal",
+            "Kumargupta",
+            "Dharampala",
+            "Ajatshatru"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Nalanda University was founded during the dynasty of",
+        "answer": "Gupta",
+        "choices": [
+            "Gupta",
+            "Kushan",
+            "Maurya",
+            "Pala"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Why was Nalanda University famous in the world?",
+        "answer": "Buddhist Religious Philosophy",
+        "choices": [
+            "Buddhist Religious Philosophy",
+            "Medical Science",
+            "Philosophy",
+            "Chemical Science"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the founder of Nalanda University?",
+        "answer": "Kumargupta",
+        "choices": [
+            "Kumargupta",
+            "Chandragupta Vikramaditya",
+            "Dharampala",
+            "Pushyagupta"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Nav Nalanda Mahavihar is famous for",
+        "answer": "Pali Research Centre",
+        "choices": [
+            "Pali Research Centre",
+            "Museum",
+            "Hsuan-Tsang Memorial",
+            "Birth place of Mahavir"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which one of the following is not common between Buddhism and Jainism?",
+        "answer": "Self-Mortification",
+        "choices": [
+            "Self-Mortification",
+            "Ahimsa",
+            "Indifference to Vedas",
+            "Rejection of Rituals"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The painting of Bodhisattva Padmapani is located at",
+        "answer": "Ajanta",
+        "choices": [
+            "Ajanta",
+            "Ellora",
+            "Rajgir",
+            "Barabar Hills"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Where was Mahavira Swami born",
+        "answer": "Kundgram (Vaishali)",
+        "choices": [
+            "Kundgram (Vaishali)",
+            "Pataliputra (Patna)",
+            "Rajgriha (Rajgir)",
+            "Lumbini"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Mahavir Jain breathed his last at",
+        "answer": "Pavapuri",
+        "choices": [
+            "Pavapuri",
+            "Kundgram (Vaishali)",
+            "Rajgriha (Rajgir)",
+            "Kapilvastu"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The salvation place of Mahavirji, the originator of Jain religion, is located at",
+        "answer": "Jrimbhikagrama (Jamui)",
+        "choices": [
+            "Jrimbhikagrama (Jamui)",
+            "Kundgram (Vaishali)",
+            "Rajgriha (Rajgir)",
+            "Bodh Gaya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Triratna or Three Jewels i.e. right knowledge, right faith and right action are related to which of the following?",
+        "answer": "Jainism",
+        "choices": [
+            "Jainism",
+            "Buddhism",
+            "Hinduism",
+            "Christianity"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the earliest holy book of Jain?",
+        "answer": "Fourteen Purvas",
+        "choices": [
+            "Fourteen Purvas",
+            "Fourteen Uppurva",
+            "Twelve angas",
+            "Twelve Upangas"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the first disciple of Lord Mahavira",
+        "answer": "Jamali",
+        "choices": [
+            "Jamali",
+            "Yashoda",
+            "Bipin",
+            "Prabhash"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Ajivika sect was founded by",
+        "answer": "Makkhali Gosala",
+        "choices": [
+            "Makkhali Gosala",
+            "Anand",
+            "Rahulabhadra ",
+            "Upali"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who used the caves of Barabar as their shelter-house?",
+        "answer": "Ajivikas",
+        "choices": [
+            "Ajivikas",
+            "Jains",
+            "Tantrikas",
+            "Buddhists"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who of the following kings was strongly inclined towards Jainism?",
+        "answer": "Kharavela",
+        "choices": [
+            "Kharavela",
+            "Dasaratha",
+            "Brihadrath",
+            "Huvishk"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Gorathagiri in the Barabar Hills was conquered by",
+        "answer": "Kharavela",
+        "choices": [
+            "Kharavela",
+            "Rajaraja Chola",
+            "Menander",
+            "Pushyamitra Sunga"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Nathpanthis, Siddhas and Yogis made devotional religion popular in",
+        "answer": "Northern India",
+        "choices": [
+            "Northern India",
+            "Southern India",
+            "Eastern India",
+            "Western India"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who contributes the most in the development of Bhagavata sect?",
+        "answer": "Gupta",
+        "choices": [
+            "Gupta",
+            "Persian",
+            "Indo-Greek people",
+            "Kushan"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In ancient times, the area to the south of the Ganga was known as",
+        "answer": "Magadh",
+        "choices": [
+            "Magadh",
+            "Chola",
+            "Anarta",
+            "Takshashila"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which was the first capital of ancient Mahajanapada Magadh?",
+        "answer": "Rajgriha (Rajgir)",
+        "choices": [
+            "Rajgriha (Rajgir)",
+            "Pataliputra (Patna)",
+            "Vaishali",
+            "Anga"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which ruler founded the beautiful city, Pataliputra?",
+        "answer": "Ajatashatru",
+        "choices": [
+            "Ajatashatru",
+            "Bimbisara",
+            "Bindusara",
+            "Udayin"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "By which ruler Pataliputra was chosen as a capital for the first time?",
+        "answer": "Udayin",
+        "choices": [
+            "Udayin",
+            "Ajatashatru",
+            "Kalashoka",
+            "Kanishka"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "According to Mahavamsa, Bimbisara ascended the throne at the age of ",
+        "answer": "15 years",
+        "choices": [
+            "15 years",
+            "18 years",
+            "20 years",
+            "12 years"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which century did the first Magadhan Empire rise?",
+        "answer": "6th centurey BCE",
+        "choices": [
+            "6th centurey BCE",
+            "4th centurey BCE",
+            "7th centurey BCE",
+            "5th centurey BCE"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Magadha and Anga plains are part of which of the following?",
+        "answer": "Middle Ganga Valley",
+        "choices": [
+            "Middle Ganga Valley",
+            "Upper Ganga Valley",
+            "Lower Ganga Valley",
+            "Lower Brahmputra Valley"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Where was the world's first republican system in the 6th century BCE?",
+        "answer": "Vaishali",
+        "choices": [
+            "Vaishali",
+            "Athens",
+            "Pataliputra",
+            "Spata"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The list of sixteen Mahajanapadas is available in",
+        "answer": "Anguttar Nikaya",
+        "choices": [
+            "Anguttar Nikaya",
+            "Mahabharata",
+            "Chandogya Upanishad",
+            "Samyukta Nikaya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "What was the name of the dynasty of Ajatashatru?",
+        "answer": "Haryanka",
+        "choices": [
+            "Haryanka",
+            "Maurya",
+            "Gupta",
+            "Nanda"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the physician of Magadha ruler Bimbisara?",
+        "answer": "Jeevaka",
+        "choices": [
+            "Jeevaka",
+            "Shilabhadra",
+            "Vijayaena",
+            "Manu"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which dynasty did rule over Magadha after Nanda Dynasty?",
+        "answer": "Maurya",
+        "choices": [
+            "Maurya",
+            "Shunga",
+            "Gupta",
+            "Kushan"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the last king of Karnata dynasty?",
+        "answer": "Harisimhadev",
+        "choices": [
+            "Harisimhadev",
+            "Ramsimhadev",
+            "Nanyadeva",
+            "Narsimhadeva"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which one of the following rulers of the Magadha was the contemporary of Alexander?",
+        "answer": "Dhanananda",
+        "choices": [
+            "Dhanananda",
+            "Mahapadmananda",
+            "Sukalpa",
+            "Chandragupta Maurya"
+        ]
     }
 ]
