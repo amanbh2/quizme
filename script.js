@@ -14,29 +14,40 @@ document.addEventListener("DOMContentLoaded", function () {
             loadQuestions();
         });
 
-    function createSubjectDropdown() {
-        const subjectElem = document.getElementById("subject");
-        subjectElem.innerHTML = ""; // Clear any existing content
-
-        const select = document.createElement("select");
-        select.id = "subject-select"; // For CSS targeting
-
-        availableSheets.forEach(sheet => {
-            const option = document.createElement("option");
-            option.value = sheet;
-            option.textContent = sheet.replace('.json', '').toUpperCase();
-            select.appendChild(option);
-        });
-        select.value = dataUrl.split('/').pop();
-
-        select.onchange = () => {
-            dataUrl = "data/" + select.value;
-            loadQuestions();
-        };
-
-        subjectElem.appendChild(select);
+    // Add progress bar to container
+    const container = document.querySelector('.container');
+    if (container && !document.getElementById('progress-bar-container')) {
+        const progressBarContainer = document.createElement('div');
+        progressBarContainer.id = 'progress-bar-container';
+        const progressBar = document.createElement('div');
+        progressBar.id = 'progress-bar';
+        progressBarContainer.appendChild(progressBar);
+        container.prepend(progressBarContainer);
     }
 });
+
+function createSubjectDropdown() {
+    const subjectElem = document.getElementById("subject");
+    subjectElem.innerHTML = ""; // Clear any existing content
+
+    const select = document.createElement("select");
+    select.id = "subject-select"; // For CSS targeting
+
+    availableSheets.forEach(sheet => {
+        const option = document.createElement("option");
+        option.value = sheet;
+        option.textContent = sheet.replace('.json', '').toUpperCase();
+        select.appendChild(option);
+    });
+    select.value = dataUrl.split('/').pop();
+
+    select.onchange = () => {
+        dataUrl = "data/" + select.value;
+        loadQuestions();
+    };
+
+    subjectElem.appendChild(select);
+}
 
 function loadQuestions() {
     fetch(dataUrl)
@@ -71,6 +82,15 @@ function shuffleArray(array) {
     return array.sort(() => Math.random() - 0.5);
 }
 
+function updateProgressBar() {
+    const progressBar = document.getElementById('progress-bar');
+    if (!progressBar) return;
+    const total = questions.length || 1;
+    const answered = usedIndexes.size;
+    const percent = Math.round((answered / total) * 100);
+    progressBar.style.width = percent + "%";
+}
+
 function showQuestion() {
     const quizContainer = document.getElementById("quiz-container");
     quizContainer.innerHTML = "";
@@ -78,6 +98,8 @@ function showQuestion() {
     const streak = document.getElementById("streak");
     streak.innerHTML = `${usedIndexes.size} <i class="fa-solid fa-fire"></i> ${questions.length}`;
     
+    updateProgressBar(); // <-- update progress bar here
+
     currentQuestionIndex = getRandomIndex();
     
     if (currentQuestionIndex === -1) {

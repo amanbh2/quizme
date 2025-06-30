@@ -40,12 +40,46 @@ a {
     font-family: "Outfit", serif;
 }
 
+#header > div:nth-child(2) {
+    /* font-size: 2.2rem; */
+    font-weight: bold;
+    background: linear-gradient(90deg, #ff9800, #ff5e62, #f44336);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
 .container {
     width: 90%;
     margin: 30px auto;
     background: var(--secondary-color);
     padding: 20px;
     box-shadow: rgba(0, 0, 0, 0.5) 0px 7px 29px 0px;
+    position: relative; /* Needed for progress bar positioning */
+}
+
+#progress-bar-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 6px;
+    /* background: rgba(255,255,255,0.08); */
+    background: var(--secondary-color);
+    border-radius: 0 6px 6px 0;
+    overflow: hidden;
+    z-index: 2;
+}
+
+#progress-bar {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, #ff9800, #ff5e62, #f44336);
+    transition: width 0.3s;
+    border-radius: 0 6px 6px 0;
 }
 
 .question {
