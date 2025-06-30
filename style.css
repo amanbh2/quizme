@@ -40,6 +40,18 @@ a {
     font-family: "Outfit", serif;
 }
 
+#header > div:nth-child(2) {
+    /* font-size: 2.2rem; */
+    font-weight: bold;
+    background: linear-gradient(90deg, #ff9800, #ff5e62, #f44336);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
 .container {
     width: 90%;
     margin: 30px auto;
