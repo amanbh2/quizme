@@ -156,8 +156,35 @@ a {
     color: var(--text-color);
 }
 
-#settings-btn {
+#subject {
     cursor: pointer;
+    user-select: none;
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: color 0.2s;
+}
+#subject:hover {
+    color: var(--primary-color);
+}
+
+#subject select, select#subject-select {
+    padding: 8px 12px;
+    border: none;
+    background: var(--bg-color);
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 10px;
+    outline: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    width: 100%;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+#subject select:focus, select#subject-select:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 2px var(--primary-color);
 }
 
 @media screen and (min-width: 480px) {
