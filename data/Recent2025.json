@@ -397,7 +397,7 @@
     },
     {
         "sheet": "Recent2025",
-        "question": "First women president of Internation Olympics Committee",
+        "question": "First women president of International Olympics Committee",
         "answer": "Kirsty Conventry",
         "choices": [
             "Kirsty Conventry",
@@ -2021,6 +2021,83 @@
             "Treatment of Cancer",
             "Treatment of Tuberculosis",
             "Treatment of AIDS"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "In which constitutional amendment the term socialist and secular were inserted into the preamble?",
+        "answer": "42nd Amendment",
+        "choices": [
+            "42nd Amendment",
+            "44th Amendment",
+            "52nd Amendment",
+            "62nd Amendment"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "When was emergency declared in India?",
+        "answer": "25th June 1975",
+        "choices": [
+            "25th June 1975",
+            "25th June 1980",
+            "25th June 1965",
+            "25th June 1995"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who has the authority to proclaim an emergency under Article 352?",
+        "answer": "President of India",
+        "choices": [
+            "President of India",
+            "Prime Minister of India",
+            "Chief Justice of India",
+            "Parliament of India"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who was president of India when emergency was declared in 1975?",
+        "answer": "Fakhruddin Ali Ahmed",
+        "choices": [
+            "Fakhruddin Ali Ahmed",
+            "Shankar Dayal Sharma",
+            "Zakir Hussain",
+            "V. V. Giri"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Under which Article of the Indian Constitution can a National Emergency be proclaimed?",
+        "answer": "Article 352",
+        "choices": [
+            "Article 352",
+            "Article 360",
+            "Article 370",
+            "Article 356"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which constitutional amendment replaced the term “internal disturbance” with “armed rebellion” in Article 352?",
+        "answer": "44th Amendment",
+        "choices": [
+            "44th Amendment",
+            "42nd Amendment",
+            "52nd Amendment",
+            "62nd Amendment"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "For how many months India was placed under state of Emergency by Indira's Government?",
+        "answer": "21 months",
+        "choices": [
+            "21 months",
+            "20 months",
+            "18 months",
+            "24 months"
         ]
     }
 ]

@@ -251,5 +251,16 @@
             "Guru Nanak",
             "Prithviraj Chouhan"
         ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who was the leader of the Ghadar Movement, a revolutionary movement aimed at overthrowing British rule in India?",
+        "answer": "Kartar Singh Sarabha",
+        "choices": [
+            "Kartar Singh Sarabha",
+            "Lala Lajpat Rai",
+            "Bhagat Singh",
+            "Sardar Uddham Singh"
+        ]
     }
 ]

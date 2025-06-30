@@ -110,12 +110,27 @@ a {
 }
 
 #streakBoard {
-    width: 100%;
+    width: 90%;
     margin: 30px auto 0;
     background: transparent;
     color: var(--text-color);
     display: grid;
     place-items: center;
+    grid-template-columns: 40px auto 100px;
+}
+
+#streakBoard > :nth-child(1) {
+    justify-self: center;
+}
+#streakBoard > :nth-child(2) {
+    justify-self: start;
+}
+#streakBoard > :nth-child(3) {
+    justify-self: end;
+}
+
+#streak{
+    font-size: 16px;
 }
 
 #footer, #github {
@@ -141,10 +156,18 @@ a {
     color: var(--text-color);
 }
 
+#settings-btn {
+    cursor: pointer;
+}
+
 @media screen and (min-width: 480px) {
     .container {
         width: 60%;
         padding: 50px;
         margin-bottom: 20px;
+    }
+
+    #streakBoard {
+        width: 60%;
     }
 }
