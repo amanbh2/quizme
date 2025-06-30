@@ -1,16 +1,52 @@
 let questions = [];
 let usedIndexes = new Set();
 let currentQuestionIndex = 0;
+let dataUrl = "data/all.json"; // Default
+
+let availableSheets = [];
 
 document.addEventListener("DOMContentLoaded", function () {
-    fetch("data/all.json")
+    fetch("control/manifest.json")
+        .then(res => res.json())
+        .then(sheets => {
+            availableSheets = sheets.files;
+            createSubjectDropdown();
+            loadQuestions();
+        });
+
+    function createSubjectDropdown() {
+        const subjectElem = document.getElementById("subject");
+        subjectElem.innerHTML = ""; // Clear any existing content
+
+        const select = document.createElement("select");
+        select.id = "subject-select"; // For CSS targeting
+
+        availableSheets.forEach(sheet => {
+            const option = document.createElement("option");
+            option.value = sheet;
+            option.textContent = sheet.replace('.json', '').toUpperCase();
+            select.appendChild(option);
+        });
+        select.value = dataUrl.split('/').pop();
+
+        select.onchange = () => {
+            dataUrl = "data/" + select.value;
+            loadQuestions();
+        };
+
+        subjectElem.appendChild(select);
+    }
+});
+
+function loadQuestions() {
+    fetch(dataUrl)
         .then(response => response.json())
         .then(data => {
             questions = data;
             startQuiz();
         })
         .catch(error => console.error("Error loading JSON:", error));
-});
+}
 
 function startQuiz() {
     usedIndexes.clear();

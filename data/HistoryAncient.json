@@ -900,5 +900,775 @@
             "Sukalpa",
             "Chandragupta Maurya"
         ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The first empire was established by which ruler in India?",
+        "answer": "Chandragupta Maurya",
+        "choices": [
+            "Chandragupta Maurya",
+            "Ashoka",
+            "Kanishka",
+            "Chandragupta II - Vikramaditya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Chandragupta Maurya figures prominently in the book of",
+        "answer": "Vishakhadatta",
+        "choices": [
+            "Vishakhadatta",
+            "Bhasa",
+            "Surdraka",
+            "Ashvaghosha"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who recognised Sandoorkottos as Chandragupta Maurya?",
+        "answer": "William Jones",
+        "choices": [
+            "William Jones",
+            "V. Smith",
+            "R. K. Mukharjee",
+            "D. R. Bhandarkar"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Chandragupta's palace situated at Pataliputra is mainly made up of",
+        "answer": "Woods",
+        "choices": [
+            "Woods",
+            "Bricks",
+            "Stones",
+            "Clay"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who amongst the following Mauryan rulers did conquer the Deccan?",
+        "answer": "Chandragupta Maurya",
+        "choices": [
+            "Chandragupta Maurya",
+            "Ashoka",
+            "Bindusara",
+            "Kunala"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which book describe Bindusara as an anointed Kshtriya?",
+        "answer": "Divyadana",
+        "choices": [
+            "Divyadana",
+            "Rajatarangini",
+            "Arthashastra",
+            "Indica"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The inscription which proves Chandragupta's sway over western India is",
+        "answer": "Junagarh Rock Inscription of Rudradaman",
+        "choices": [
+            "Junagarh Rock Inscription of Rudradaman",
+            "Kalinga Rock Inscriptions",
+            "Girnar Rock Inscription of Ashoka",
+            "Sopara Rock Inscription of Ashoka"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which one territory of the following was not a part of Ashoka's empire?",
+        "answer": "Sri Lanka",
+        "choices": [
+            "Sri Lanka",
+            "Afghanistan",
+            "Bihar",
+            "Kalinga"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "A Buddhist Council during the reign of  Ashoka was held at",
+        "answer": "Pataliputra",
+        "choices": [
+            "Pataliputra",
+            "Vaishali",
+            "Rajgir",
+            "Kanauj"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Language used in the incription of Ashoka is ",
+        "answer": "Prakrit",
+        "choices": [
+            "Prakrit",
+            "Sanskrit",
+            "Pali",
+            "Hindi"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which one of the following scripts of ancient India was written from right to left?",
+        "answer": "Kharosthi",
+        "choices": [
+            "Kharosthi",
+            "Brahmi",
+            "Devanagri",
+            "Kaithi"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who first discovered the Brahmi script?",
+        "answer": "James Prinsep",
+        "choices": [
+            "James Prinsep",
+            "A Cunningham",
+            "A. H. Dani",
+            "Buhler"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The name by which Ashoka is referred to in his incriptions is",
+        "answer": "Priyadarshi",
+        "choices": [
+            "Priyadarshi",
+            "Chakravarti",
+            "Dharamadeva",
+            "Dharmakirti"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The only pillar on which Ashoka declares himself as the emperor of Magadha",
+        "answer": "Bhabru Pillar",
+        "choices": [
+            "Bhabru Pillar",
+            "Minor Pillar of Maski",
+            "Rummindei Pillar",
+            "Queen Pillar"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Megasthenes was the ambassador of",
+        "answer": "Seleucus I Nicator",
+        "choices": [
+            "Seleucus I Nicator",
+            "Alexander",
+            "Darius",
+            "Napolean"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In how many categories did Megasthenes divide the Indian society?",
+        "answer": "Seven",
+        "choices": [
+            "Seven",
+            "Six",
+            "Five",
+            "Four"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The division of Mauryan society into seven classes is particularly mentioned in",
+        "answer": "The Indica of Megasthenes",
+        "choices": [
+            "The Indica of Megasthenes",
+            "Kautilya's Arthashastra",
+            "Ashokan Rock Edicts",
+            "The Puranas"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The description of the administration of Pataliputra is available in",
+        "answer": "The Indica of Megasthenes",
+        "choices": [
+            "The Indica of Megasthenes",
+            "Kautilya's Arthashastra",
+            "Ashokan Rock Edicts",
+            "Divyanadan"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "What is the name of Megasthenes book?",
+        "answer": "Indica",
+        "choices": [
+            "Indica",
+            "Rig Veda",
+            "Purana",
+            "Economics"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the author of Indica?",
+        "answer": "Megasthenes",
+        "choices": [
+            "Megasthenes",
+            "Deimachus",
+            "Vishnugupta",
+            "Pliny"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The last Mauryan emperor was",
+        "answer": "Brihadratha",
+        "choices": [
+            "Brihadratha",
+            "Jaloka",
+            "Avanti Verma",
+            "Nandi Vardhana"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The decline of the Mauryan Empire was largely due to the economic consequences of Ashoka's policy. Who believed in this fact?",
+        "answer": "Romila Thapar",
+        "choices": [
+            "Romila Thapar",
+            "V. A. Smith",
+            "D. N. Jha",
+            "H. C. Raychaudhari"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Pradyota was the king of",
+        "answer": "Avanti",
+        "choices": [
+            "Avanti",
+            "Kasi",
+            "Koshala",
+            "Magadha"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which inscription tells about the various achievements of Rudraman-I?",
+        "answer": "Junagadh",
+        "choices": [
+            "Junagadh",
+            "Bhitari",
+            "Nasik",
+            "Sanchi"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "According to the rock inscription in Sanskrit, composed around 2nd Century CE, Sudarshan Lake, an artificial reservoir, was repaired by",
+        "answer": "Rudradaman",
+        "choices": [
+            "Rudradaman",
+            "Harsha",
+            "Kanishka",
+            "Ashoka"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who among the following first issued gold coins on a large scale?",
+        "answer": "Vima Kadphises",
+        "choices": [
+            "Vima Kadphises",
+            "Pushyamitra Shunga",
+            "Menander",
+            "Gautamiputra Satkarni"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which dynasty ruled over India after Shunga dynasty?",
+        "answer": "Kanva",
+        "choices": [
+            "Kanva",
+            "Satvahana",
+            "Gupta",
+            "Kushan"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Art of Gandhara style flourished during the reign of",
+        "answer": "Kushans",
+        "choices": [
+            "Kushans",
+            "Guptas",
+            "Mauryas",
+            "Kanvas"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "King Kharavela is related to",
+        "answer": "Hathigumpha Inscription",
+        "choices": [
+            "Hathigumpha Inscription",
+            "Piller inscription of Girnar",
+            "Pillar inscription of Junagarh",
+            "Sarnath Inscription"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Kaling king Kharavel was related to ",
+        "answer": "Mahameghavahana / Chedi Dynasty",
+        "choices": [
+            "Mahameghavahana / Chedi Dynasty",
+            "Satvahana Dynasty",
+            "Rath-Bhojak Dynasty",
+            "Maurya Dynasty"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which Gupta ruler assumed the throne after killing his elder brother?",
+        "answer": "Chandragupta II - Vikramaditya",
+        "choices": [
+            "Chandragupta II - Vikramaditya",
+            "Shri Gupta",
+            "Samudragupta",
+            "Skandagupta"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who is called the Napolean of Ancient India?",
+        "answer": "Samudragupta",
+        "choices": [
+            "Samudragupta",
+            "Shri Gupta",
+            "Chandragupta Maurya",
+            "Pushyamitra Sunga"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "According to Chinese source, Meghavarman, the ruler of Sri Lanka, sent a missionary to which of the following Gupta Kings for permission to build a Buddhist temple at Gaya?",
+        "answer": "Samudragupta",
+        "choices": [
+            "Samudragupta",
+            "Chandragupta I",
+            "Chandragupta II - Vikramaditya",
+            "Shir Gupta"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The Gupta emperor who defeated the Hunas was",
+        "answer": "Skandagupta",
+        "choices": [
+            "Skandagupta",
+            "Chandragupta I",
+            "Samudragupta",
+            "Chandragupta II - Vikramaditya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which Gupta ruler is mentioned as Param Bhagawata in Nalanda Copper Plates?",
+        "answer": "Samudragupta",
+        "choices": [
+            "Samudragupta",
+            "Chandragupta I",
+            "Chandragupta II - Vikramaditya",
+            "Skandagupta"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In Pre-Gupta times, a large number of lead coins were issued by the",
+        "answer": "Satavahanas",
+        "choices": [
+            "Satavahanas",
+            "Shakas",
+            "Kushans",
+            "Mauryas"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The gradual decline of towns was an important feature of which period?",
+        "answer": "Gupta period",
+        "choices": [
+            "Gupta period",
+            "Pratihara era",
+            "Rashtrakut era",
+            "Satavahana era"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which ruling dynasty donated maximum villages to temples and Brahmins?",
+        "answer": "Gupta Dynasty",
+        "choices": [
+            "Gupta Dynasty",
+            "Pala Dynasty",
+            "Rashtrakuta",
+            "Pratihara"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "What was the land revenue rate in Gupta age?",
+        "answer": "Sixth part of the production",
+        "choices": [
+            "Sixth part of the production",
+            "tenth part of the production",
+            "half part of the production",
+            "third part of the production"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "What is the land revenue rate in religious books?",
+        "answer": "One-sixth",
+        "choices": [
+            "One-sixth",
+            "One-eighth",
+            "One-third",
+            "One-fourth"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which type of land was called Aprahat",
+        "answer": "Without cultivated forest land",
+        "choices": [
+            "Without cultivated forest land",
+            "Irrigated land",
+            "Dense Forest Land",
+            "Cultivated Land"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Chinese traveller Sungyun or Song Yun came to India during",
+        "answer": "518 to 521 CE",
+        "choices": [
+            "518 to 521 CE",
+            "525 to 5529 CE",
+            "545 to 552 CE",
+            "592 to 597 CE"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The account of the Moroccan traveller Ibn Battuta is known as",
+        "answer": "Rihla",
+        "choices": [
+            "Rihla",
+            "Tarikh-i-Rashidi",
+            "Subh-u'l-Asha",
+            "Riyaz-us-salatin"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following philosophies of India propounded the atom theory?",
+        "answer": "Vaisheshika",
+        "choices": [
+            "Vaisheshika",
+            "Nyaya",
+            "Sankhya",
+            "Yoga"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who has written the Harshacharita",
+        "answer": "Banabhatta",
+        "choices": [
+            "Banabhatta",
+            "Aryabhatta",
+            "Vishnugupta",
+            "Parimalgupta"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who laid the foundation of Vardhana Dynasty?",
+        "answer": "Pushyabhuti",
+        "choices": [
+            "Pushyabhuti",
+            "Rajyavardhana",
+            "Harshavardhana",
+            "Prabhakarvardhana"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which Chinese traveller visited India during Haravardhana's rule?",
+        "answer": "Hiuen-Tsang",
+        "choices": [
+            "Hiuen-Tsang",
+            "Fa-Hien",
+            "I-Tsing",
+            "Taranath"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The famous Chinese pilgrim Fa-Hien visited India during the reign of",
+        "answer": "Chandragupta II - Vikramaditya",
+        "choices": [
+            "Chandragupta II - Vikramaditya",
+            "Harshavardhana",
+            "Ramagupta",
+            "Chandragupta I"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "During Hiuen-Tsang tour in India most famous city for the production of cotton clothes was",
+        "answer": "Mathura",
+        "choices": [
+            "Mathura",
+            "Varanasi",
+            "Pataliputra",
+            "Kanchi"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Chinese traveller Hiuen-Tsang studied at which univesity",
+        "answer": "Nalanda",
+        "choices": [
+            "Nalanda",
+            "Taxilla",
+            "Vikramshila",
+            "Uddandapura"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Chinese traveller I-tsing was on the tour of Bihar in about",
+        "answer": "671 CE",
+        "choices": [
+            "671 CE",
+            "405 CE",
+            "635 CE",
+            "637 CE"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Nalanda Vihar was destroyed by",
+        "answer": "Bakhtiyar Khalji",
+        "choices": [
+            "Bakhtiyar Khalji",
+            "Qutubuddin Aibak",
+            "Muhammad Bin Tughlaq",
+            "Alauddin Khalji"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the real founder of Turk rule in Bihar?",
+        "answer": "Bakhtiyar Khalji",
+        "choices": [
+            "Bakhtiyar Khalji",
+            "Malik Husarnuddin",
+            "Ibrahim",
+            "Dariya Khan Noohani"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "How many rulers of Aryavarta have been mentioned in 21st line of Allahabad Pillar Inscription?",
+        "answer": "Nine",
+        "choices": [
+            "Nine",
+            "Eight",
+            "Seven",
+            "Six"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who has argued that the Gupta and post-Gupta periods saw a decline in the money economy?",
+        "answer": "R. S. Sharma",
+        "choices": [
+            "R. S. Sharma",
+            "R. S. Tripathi",
+            "Radha Kumud Mookerjee",
+            "D. C. Sircar"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the ruler of India during the 7th cneture CE known for his patronage of Buddhism and support for cultural activities?",
+        "answer": "Harsha",
+        "choices": [
+            "Harsha",
+            "Ashoka",
+            "Chandragupta Maurya",
+            "Vikramaditya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The associates of Khajuraho Temple Architecture were",
+        "answer": "Chandela",
+        "choices": [
+            "Chandela",
+            "Chahamana",
+            "Gurjara-Pratihara",
+            "Paramara"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The attractive doors of the temples of South India are called",
+        "answer": "Gopuram",
+        "choices": [
+            "Gopuram",
+            "Shikhara",
+            "Devalaya",
+            "Mandapam"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who established trade relations with Roman empire?",
+        "answer": "Cheras",
+        "choices": [
+            "Cheras",
+            "Kushanas",
+            "Western Shakas",
+            "Vakatakas"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The Chola age was most famous for",
+        "answer": "Village Assemblies",
+        "choices": [
+            "Village Assemblies",
+            "Trade with Ceylon",
+            "Advancement in Tamil Culture",
+            "War with the Rashtrakutas"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the founder of Chola Dynasty?",
+        "answer": "Vijayalaya",
+        "choices": [
+            "Vijayalaya",
+            "Karikal",
+            "Aditya I",
+            "Rajaraja I"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following dynasties is not mentioned in Sangam literature?",
+        "answer": "Kadamb",
+        "choices": [
+            "Kadamb",
+            "Chola",
+            "Chera",
+            "Pandya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Why was uraiyur famous in Sangam Era?",
+        "answer": "Important trade centre of cotton",
+        "choices": [
+            "Important trade centre of cotton",
+            "Important trade centre of spices",
+            "Important trade centre of domestic trade",
+            "Important trade centre of foreign trade"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the writer of Mudrarakshasa?",
+        "answer": "Vishakhadatta",
+        "choices": [
+            "Vishakhadatta",
+            "Aswaghosha",
+            "Kalidasa",
+            "Bhasa"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Kumarsambhavam an epic poem was composed by",
+        "answer": "Kalidasa",
+        "choices": [
+            "Kalidasa",
+            "Banabhatta",
+            "Harishena",
+            "Chanda Bardai"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "What is the name of Kalhana's book?",
+        "answer": "Rajtarangini",
+        "choices": [
+            "Rajtarangini",
+            "Arthashastra",
+            "Indica",
+            "Purana"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The author of Swapanavasavadatta is",
+        "answer": "Bhasa",
+        "choices": [
+            "Bhasa",
+            "Kalidasa",
+            "Bhavabhutti",
+            "Rajashekhara"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who wrote the book Kiratarjuniya?",
+        "answer": "Bharavi",
+        "choices": [
+            "Bharavi",
+            "Bhatti",
+            "Shudrak",
+            "Kalidasa"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Epigraphic records (Inscriptions) suggest that in ancient India, the rulers of Bihar had contact with",
+        "answer": "Java-Sumatra",
+        "choices": [
+            "Java-Sumatra",
+            "Thailand",
+            "Burma",
+            "Cambodia"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which ruler of Bengal founded the ancient University called Vikramshila",
+        "answer": "Dharampala",
+        "choices": [
+            "Dharampala",
+            "Gopala",
+            "Devpala",
+            "Mahipala"
+        ]
     }
 ]

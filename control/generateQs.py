@@ -1,6 +1,8 @@
 import pandas as pd
 import json
 import os
+import re
+from tqdm import tqdm  # pip install tqdm
 
 # Define input and output directory paths
 input_file = r'C:\Users\amanb\OneDrive\Documents\ObjectiveQuestions.xlsx'
@@ -25,10 +27,17 @@ question_counts = {}
 total_questions = 0
 all_quiz_data = []
 
+def sanitize_filename(name):
+    return re.sub(r'[\\/*?:"<>|]', "_", name)
+
 def process_sheet(sheet_name):
     df = pd.read_excel(input_file, sheet_name=sheet_name)
+    expected_columns = {"Question", "Answer", "Choice1", "Choice2", "Choice3", "Choice4"}
+    if not expected_columns.issubset(df.columns):
+        print(f"Sheet '{sheet_name}' is missing required columns. Skipping.")
+        return
     sheet_data = []
-    for _, row in df.iterrows():
+    for _, row in tqdm(df.iterrows(), total=len(df), desc=f"Processing {sheet_name}"):
         question_data = {
             "sheet": sheet_name,
             "question": row["Question"],
@@ -63,7 +72,7 @@ else:
 
 # Save separate JSON files for each sheet
 for sheet_name, data in quiz_data_by_sheet.items():
-    output_file = os.path.join(output_dir, f"{sheet_name}.json")
+    output_file = os.path.join(output_dir, f"{sanitize_filename(sheet_name)}.json")
     with open(output_file, "w", encoding="utf-8") as json_file:
         json.dump(data, json_file, indent=4, ensure_ascii=False)
     print(f"JSON file saved to {output_file}")

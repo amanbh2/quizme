@@ -110,12 +110,27 @@ a {
 }
 
 #streakBoard {
-    width: 100%;
+    width: 90%;
     margin: 30px auto 0;
     background: transparent;
     color: var(--text-color);
     display: grid;
     place-items: center;
+    grid-template-columns: 40px auto 100px;
+}
+
+#streakBoard > :nth-child(1) {
+    justify-self: center;
+}
+#streakBoard > :nth-child(2) {
+    justify-self: start;
+}
+#streakBoard > :nth-child(3) {
+    justify-self: end;
+}
+
+#streak{
+    font-size: 16px;
 }
 
 #footer, #github {
@@ -141,10 +156,45 @@ a {
     color: var(--text-color);
 }
 
+#subject {
+    cursor: pointer;
+    user-select: none;
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: color 0.2s;
+}
+#subject:hover {
+    color: var(--primary-color);
+}
+
+#subject select, select#subject-select {
+    padding: 8px 12px;
+    border: none;
+    background: var(--bg-color);
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 10px;
+    outline: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    width: 100%;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+#subject select:focus, select#subject-select:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 2px var(--primary-color);
+}
+
 @media screen and (min-width: 480px) {
     .container {
         width: 60%;
         padding: 50px;
         margin-bottom: 20px;
+    }
+
+    #streakBoard {
+        width: 60%;
     }
 }
