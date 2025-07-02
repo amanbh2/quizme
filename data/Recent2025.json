@@ -2099,5 +2099,49 @@
             "18 months",
             "24 months"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who is the 14th and current Dalai Lama?",
+        "answer": "Tenzin Gyatso",
+        "choices": [
+            "Tenzin Gyatso",
+            "Gedun Drupa",
+            "Thubten Gyatso",
+            "Trinley Gyatso"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the position of current Dalai Lama - Tenzin Gyatso",
+        "answer": "14th",
+        "choices": [
+            "14th",
+            "13th",
+            "15th",
+            "11th"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The 14th Dalai Lama, Tenzin Gyatso, fled to India in which year?",
+        "answer": 1959,
+        "choices": [
+            1959,
+            1962,
+            1960,
+            1958
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "In which mountain range Lake Mansarovar is located?",
+        "answer": "Kailash",
+        "choices": [
+            "Kailash",
+            "Himadri",
+            "Pir Panjal",
+            "Zaskar"
+        ]
     }
 ]

@@ -1,0 +1,321 @@
+[
+    {
+        "sheet": "Geography",
+        "question": "India's territorial limit extends towards the sea up to how many nautical miles from the coast?",
+        "answer": "12 nautical miles",
+        "choices": [
+            "12 nautical miles",
+            "200 nautical miles",
+            "24 nautical miles",
+            "100 nautical miles"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "India's Exclusive Economic Zone extends towards the sea up to how many nautical miles from the coast?",
+        "answer": "200 nautical miles",
+        "choices": [
+            "200 nautical miles",
+            "12 nautical miles",
+            "24 nautical miles",
+            "100 nautical miles"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "How many latitudes are there on the globe drawn at 1 degree interval?",
+        "answer": 179,
+        "choices": [
+            179,
+            180,
+            360,
+            359
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "How much is the difference between Indian Standard Time (IST) and Greenwich Mean Time (GMT)?",
+        "answer": "plus 5 hour 30 minutes",
+        "choices": [
+            "plus 5 hour 30 minutes",
+            "minus 5 hour 30 minutes",
+            "minus 4 hour 30 minutes",
+            "plus 5 hour 30 minutes"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "On which plateau, the Tropic of Cancer and the Indian Standard Time intersect each other?",
+        "answer": "Baghelkhand",
+        "choices": [
+            "Baghelkhand",
+            "Bundelkhand",
+            "Kaimur",
+            "Chhota-Nagpur"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "On which longitude does Indian Standard Time coicide?",
+        "answer": "82deg 30min E",
+        "choices": [
+            "82deg 30min E",
+            "85deg 30min W",
+            "88deg 30min E",
+            "80deg 30min W"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Difference of one degree longitude will correspond to how much time",
+        "answer": "4 minutes",
+        "choices": [
+            "4 minutes",
+            "6 minutes",
+            "60 minutes",
+            "30 minutes"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the local time of Thimphu (Bhutan) located at 90deg E longitude when the time at Greenwich (0deg) is 12:00 noon?",
+        "answer": "6:00 pm",
+        "choices": [
+            "6:00 pm",
+            "4:00 pm",
+            "5:00 pm",
+            "6:00 am"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The foothills region of Himalayas is",
+        "answer": "Shiwalik",
+        "choices": [
+            "Shiwalik",
+            "Great Himalayas",
+            "Trans-Himalayas",
+            "Lesser Himalayas"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following areas is not landslide-prone area?",
+        "answer": "Eastern Ghats",
+        "choices": [
+            "Eastern Ghats",
+            "Western Ghats",
+            "Himalayan Region",
+            "North-Eastern Region"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The highest peak in the Eastern Ghats of India is",
+        "answer": "Arma Konda (Jhindhagada)",
+        "choices": [
+            "Arma Konda (Jhindhagada)",
+            "Mahendragiri",
+            "Anai Mudi",
+            "Kanchenjunga"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The highest peak in the Western Ghats of India is",
+        "answer": "Anai Mudi",
+        "choices": [
+            "Anai Mudi",
+            "Mahendragiri",
+            "Arma Konda (Jhindhagada)",
+            "Kanchenjunga"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The highest mountain peak in India?",
+        "answer": "K2 (Godwin-Austen)",
+        "choices": [
+            "K2 (Godwin-Austen)",
+            "Everest",
+            "Nanda Devi",
+            "Kanchenjunga"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Kailash Range is part of which larger mountain system?",
+        "answer": "Trans-Himalaya",
+        "choices": [
+            "Trans-Himalaya",
+            "Great Himalayas",
+            "Shiwalik",
+            "Lesser Himalayas"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Mount Everest lies in which mountain range?",
+        "answer": "Great Himalayas",
+        "choices": [
+            "Great Himalayas",
+            "Trans-Himalaya",
+            "Shiwalik",
+            "Lesser Himalayas"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which is the highest mountain peak entirely within India (not on the border)?",
+        "answer": "Nanda Devi",
+        "choices": [
+            "Nanda Devi",
+            "Kanchenjunga",
+            "Trishul",
+            "Kamet"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Shiwalik series was formed in",
+        "answer": "Cenozoic",
+        "choices": [
+            "Cenozoic",
+            "Proterozoic",
+            "Mesozoic",
+            "Palaeozoic"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Someshwar range is a part of which of the following mountain ranges?",
+        "answer": "Shiwalik",
+        "choices": [
+            "Shiwalik",
+            "Satpura",
+            "Vindhayan",
+            "Eastern Ghats"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Atal Tunnel is across which one of the following Himalayan ranges?",
+        "answer": "Eastern Pir Panjal",
+        "choices": [
+            "Eastern Pir Panjal",
+            "Western Pir Panjal",
+            "Zanskar",
+            "Ladakh"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "At which of the following hills the Eastern Ghats join the Western Ghats?",
+        "answer": "Nilgiri Hills",
+        "choices": [
+            "Nilgiri Hills",
+            "Palni Hills",
+            "Anaimudi Hills",
+            "Shevaroy Hills"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Western Ghats in Maharashtra and Karnataka is known as",
+        "answer": "Sahyadri",
+        "choices": [
+            "Sahyadri",
+            "Nilgiri",
+            "Shiwalik",
+            "Nandi"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Hills situated closer to Kanyakumari are",
+        "answer": "Cardamom Hills",
+        "choices": [
+            "Cardamom Hills",
+            "Nilgiri Hills",
+            "Anaialai Hills",
+            "Shevaroy Hills"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following is not a part of the Meghalaya Plateau?",
+        "answer": "Bhuban Hills",
+        "choices": [
+            "Bhuban Hills",
+            "Garo Hills",
+            "Khasi Hills",
+            "Jaintia Hills"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Extra peninsular mountains of India were formed during",
+        "answer": "Cenozoic Era",
+        "choices": [
+            "Cenozoic Era",
+            "Palaeozoic Era",
+            "Aozoic Era",
+            "Mesozoic Era"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Chhota-Nagpur Plateau is a",
+        "answer": "front sloping",
+        "choices": [
+            "front sloping",
+            "pitfall",
+            "foothill",
+            "plain subland"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following districts does not have Dharwar geological formations?",
+        "answer": "Rohtas",
+        "choices": [
+            "Rohtas",
+            "Jamui",
+            "Munger",
+            "Nawada"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "How many coastal states are there in India?",
+        "answer": "Nine",
+        "choices": [
+            "Nine",
+            "Eight",
+            "Thirteen",
+            "Eleven"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Island group Lakshadweep is",
+        "answer": "Accumulation of Coral Reef",
+        "choices": [
+            "Accumulation of Coral Reef",
+            "Accumulation of Volcanic substances",
+            "Sedimentated Soil",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Lakshadweep consists of how many islands?",
+        "answer": 36,
+        "choices": [
+            36,
+            16,
+            17,
+            26
+        ]
+    }
+]
