@@ -1,2260 +1,5 @@
 [
     {
-        "sheet": "History1450Onwards",
-        "question": "Who established Lodi Dyansty",
-        "answer": "Bahlul Khan Lodi",
-        "choices": [
-            "Bahlul Khan Lodi",
-            "Sikandr Khan Lodi",
-            "Malik Sultan Khan Lodi",
-            "Ibrahim Lodi"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "First Sikh Guru",
-        "answer": "Guru Nanak",
-        "choices": [
-            "Guru Nanak",
-            "Guru Angad",
-            "Guru Gobind Singh",
-            "Guru Hargobind"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Which year marks fall of Constantinople",
-        "answer": 1453,
-        "choices": [
-            1453,
-            1454,
-            1452,
-            1455
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Who discovered America",
-        "answer": "Christopher Columbus",
-        "choices": [
-            "Christopher Columbus",
-            "Vasco Da Gama",
-            "Prince Henry The Navigator",
-            "Captain Hawkins"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Treaty of Tordesillias was signed between",
-        "answer": "Spain & Portugal",
-        "choices": [
-            "Spain & Portugal",
-            "Spain & England",
-            "Portugal & England",
-            "Greece & Spain"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Last ruling dynasty of Delhi Sultanate",
-        "answer": "Lodi",
-        "choices": [
-            "Lodi",
-            "Mameluk",
-            "Tughlaq",
-            "Khalji"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "First ruling dynasty of Delhi Sultanate",
-        "answer": "Mameluk",
-        "choices": [
-            "Mameluk",
-            "Lodi",
-            "Tughlaq",
-            "Khalji"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Name the ruler who led to the fall of Constantinople",
-        "answer": "Mehmed II",
-        "choices": [
-            "Mehmed II",
-            "Ibrahim II",
-            "Murad II",
-            "Bayezid II"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Who established the Agra city",
-        "answer": "Sikhander Khan Lodi",
-        "choices": [
-            "Sikhander Khan Lodi",
-            "Malik Sultan Khan Lodi",
-            "Ibrahim Lodi",
-            "Ibrahim Lodi"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Who discovered all sea route from Europe to India",
-        "answer": "Vasco Da Gama",
-        "choices": [
-            "Vasco Da Gama",
-            "Christopher Columbus",
-            "Captain Hawkins",
-            "Afonso de Albuquerque"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Who established the Mughal Empire",
-        "answer": "Babur",
-        "choices": [
-            "Babur",
-            "Akbar",
-            "Jahangir",
-            "Shah Jahan"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Who restored the Grand Trunk Road from the river Indus in the west to Sonargaon in Bengal",
-        "answer": "Sher Shah Suri",
-        "choices": [
-            "Sher Shah Suri",
-            "Humayun",
-            "Shah Jahan",
-            "Akbar"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Thomas Roe, the royal envoy of the king of England visited court of which ruler in India",
-        "answer": "Jahangir",
-        "choices": [
-            "Jahangir",
-            "Akbar",
-            "Humayun",
-            "Aurangzeb"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Who constructed the Taj Mahal",
-        "answer": "Shah Jahan",
-        "choices": [
-            "Shah Jahan",
-            "Akbar",
-            "Humayun",
-            "Aurangzeb"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Who executed Guru Tegh Bahadur",
-        "answer": "Aurangzeb",
-        "choices": [
-            "Aurangzeb",
-            "Akbar",
-            "Humayun",
-            "Shah Jahan"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Sikh Guru born in Bihar",
-        "answer": "Guru Gobind Singh",
-        "choices": [
-            "Guru Gobind Singh",
-            "Guru Tegh Bahadu",
-            "Guru Nanak",
-            "Guru Angad"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Who established the Maratha Kingdom",
-        "answer": "Shivaji",
-        "choices": [
-            "Shivaji",
-            "Shambhaji",
-            "Nana Pahadi",
-            "Tanhaji"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "The Khalsa, warrior group of Sikh was established by",
-        "answer": "Guru Gobind Singh",
-        "choices": [
-            "Guru Gobind Singh",
-            "Guru Nanak",
-            "Guru Tegh Bahadur",
-            "Guru Angad"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "In which year was the first regulating act passed to regulate the administration of the East India Company in India",
-        "answer": 1773,
-        "choices": [
-            1773,
-            1774,
-            1775,
-            1772
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "In which year Pitt's India Act enacted",
-        "answer": 1784,
-        "choices": [
-            1784,
-            1783,
-            1786,
-            1785
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Who introduced Permanent Settlement system of revenue collection",
-        "answer": "Charles Cornwallis",
-        "choices": [
-            "Charles Cornwallis",
-            "Warren Hastings",
-            "Robert Clive",
-            "William Pitt"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Who introduced the system of Subsidiary Alliance",
-        "answer": "Richard Wellesley",
-        "choices": [
-            "Richard Wellesley",
-            "Charles Cornwallis",
-            "Warren Hastings",
-            "Robert Clive"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Who established the Sikh Empire",
-        "answer": "Ranjit Singh",
-        "choices": [
-            "Ranjit Singh",
-            "Guru Gobind",
-            "Guru Nanak",
-            "Prithviraj Chouhan"
-        ]
-    },
-    {
-        "sheet": "History1450Onwards",
-        "question": "Who was the leader of the Ghadar Movement, a revolutionary movement aimed at overthrowing British rule in India?",
-        "answer": "Kartar Singh Sarabha",
-        "choices": [
-            "Kartar Singh Sarabha",
-            "Lala Lajpat Rai",
-            "Bhagat Singh",
-            "Sardar Uddham Singh"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "India's territorial limit extends towards the sea up to how many nautical miles from the coast?",
-        "answer": "12 nautical miles",
-        "choices": [
-            "12 nautical miles",
-            "200 nautical miles",
-            "24 nautical miles",
-            "100 nautical miles"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "India's Exclusive Economic Zone extends towards the sea up to how many nautical miles from the coast?",
-        "answer": "200 nautical miles",
-        "choices": [
-            "200 nautical miles",
-            "12 nautical miles",
-            "24 nautical miles",
-            "100 nautical miles"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "How many latitudes are there on the globe drawn at 1 degree interval?",
-        "answer": 179,
-        "choices": [
-            179,
-            180,
-            360,
-            359
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "How much is the difference between Indian Standard Time (IST) and Greenwich Mean Time (GMT)?",
-        "answer": "plus 5 hour 30 minutes",
-        "choices": [
-            "plus 5 hour 30 minutes",
-            "minus 5 hour 30 minutes",
-            "minus 4 hour 30 minutes",
-            "plus 5 hour 30 minutes"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "On which plateau, the Tropic of Cancer and the Indian Standard Time intersect each other?",
-        "answer": "Baghelkhand",
-        "choices": [
-            "Baghelkhand",
-            "Bundelkhand",
-            "Kaimur",
-            "Chhota-Nagpur"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "On which longitude does Indian Standard Time coicide?",
-        "answer": "82deg 30min E",
-        "choices": [
-            "82deg 30min E",
-            "85deg 30min W",
-            "88deg 30min E",
-            "80deg 30min W"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Difference of one degree longitude will correspond to how much time",
-        "answer": "4 minutes",
-        "choices": [
-            "4 minutes",
-            "6 minutes",
-            "60 minutes",
-            "30 minutes"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "What is the local time of Thimphu (Bhutan) located at 90deg E longitude when the time at Greenwich (0deg) is 12:00 noon?",
-        "answer": "6:00 pm",
-        "choices": [
-            "6:00 pm",
-            "4:00 pm",
-            "5:00 pm",
-            "6:00 am"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The foothills region of Himalayas is",
-        "answer": "Shiwalik",
-        "choices": [
-            "Shiwalik",
-            "Great Himalayas",
-            "Trans-Himalayas",
-            "Lesser Himalayas"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which of the following areas is not landslide-prone area?",
-        "answer": "Eastern Ghats",
-        "choices": [
-            "Eastern Ghats",
-            "Western Ghats",
-            "Himalayan Region",
-            "North-Eastern Region"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The highest peak in the Eastern Ghats of India is",
-        "answer": "Arma Konda (Jhindhagada)",
-        "choices": [
-            "Arma Konda (Jhindhagada)",
-            "Mahendragiri",
-            "Anai Mudi",
-            "Kanchenjunga"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The highest peak in the Western Ghats of India is",
-        "answer": "Anai Mudi",
-        "choices": [
-            "Anai Mudi",
-            "Mahendragiri",
-            "Arma Konda (Jhindhagada)",
-            "Kanchenjunga"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The highest mountain peak in India?",
-        "answer": "K2 (Godwin-Austen)",
-        "choices": [
-            "K2 (Godwin-Austen)",
-            "Everest",
-            "Nanda Devi",
-            "Kanchenjunga"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Kailash Range is part of which larger mountain system?",
-        "answer": "Trans-Himalaya",
-        "choices": [
-            "Trans-Himalaya",
-            "Great Himalayas",
-            "Shiwalik",
-            "Lesser Himalayas"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Mount Everest lies in which mountain range?",
-        "answer": "Great Himalayas",
-        "choices": [
-            "Great Himalayas",
-            "Trans-Himalaya",
-            "Shiwalik",
-            "Lesser Himalayas"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which is the highest mountain peak entirely within India (not on the border)?",
-        "answer": "Nanda Devi",
-        "choices": [
-            "Nanda Devi",
-            "Kanchenjunga",
-            "Trishul",
-            "Kamet"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Shiwalik series was formed in",
-        "answer": "Cenozoic",
-        "choices": [
-            "Cenozoic",
-            "Proterozoic",
-            "Mesozoic",
-            "Palaeozoic"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Someshwar range is a part of which of the following mountain ranges?",
-        "answer": "Shiwalik",
-        "choices": [
-            "Shiwalik",
-            "Satpura",
-            "Vindhayan",
-            "Eastern Ghats"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Atal Tunnel is across which one of the following Himalayan ranges?",
-        "answer": "Eastern Pir Panjal",
-        "choices": [
-            "Eastern Pir Panjal",
-            "Western Pir Panjal",
-            "Zanskar",
-            "Ladakh"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "At which of the following hills the Eastern Ghats join the Western Ghats?",
-        "answer": "Nilgiri Hills",
-        "choices": [
-            "Nilgiri Hills",
-            "Palni Hills",
-            "Anaimudi Hills",
-            "Shevaroy Hills"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Western Ghats in Maharashtra and Karnataka is known as",
-        "answer": "Sahyadri",
-        "choices": [
-            "Sahyadri",
-            "Nilgiri",
-            "Shiwalik",
-            "Nandi"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Hills situated closer to Kanyakumari are",
-        "answer": "Cardamom Hills",
-        "choices": [
-            "Cardamom Hills",
-            "Nilgiri Hills",
-            "Anaialai Hills",
-            "Shevaroy Hills"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which of the following is not a part of the Meghalaya Plateau?",
-        "answer": "Bhuban Hills",
-        "choices": [
-            "Bhuban Hills",
-            "Garo Hills",
-            "Khasi Hills",
-            "Jaintia Hills"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Extra peninsular mountains of India were formed during",
-        "answer": "Cenozoic Era",
-        "choices": [
-            "Cenozoic Era",
-            "Palaeozoic Era",
-            "Aozoic Era",
-            "Mesozoic Era"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Chhota-Nagpur Plateau is a",
-        "answer": "front sloping",
-        "choices": [
-            "front sloping",
-            "pitfall",
-            "foothill",
-            "plain subland"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which one of the following districts does not have Dharwar geological formations?",
-        "answer": "Rohtas",
-        "choices": [
-            "Rohtas",
-            "Jamui",
-            "Munger",
-            "Nawada"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "How many coastal states are there in India?",
-        "answer": "Nine",
-        "choices": [
-            "Nine",
-            "Eight",
-            "Thirteen",
-            "Eleven"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Island group Lakshadweep is",
-        "answer": "Accumulation of Coral Reef",
-        "choices": [
-            "Accumulation of Coral Reef",
-            "Accumulation of Volcanic substances",
-            "Sedimentated Soil",
-            "None of these"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Lakshadweep consists of how many islands?",
-        "answer": 36,
-        "choices": [
-            36,
-            16,
-            17,
-            26
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which one of the following periods is also known as Chalcolithic Age?",
-        "answer": "Copper Age",
-        "choices": [
-            "Copper Age",
-            "Old Stone Age",
-            "New Stone Age",
-            "Iron Age"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Indus Civilisation existed in",
-        "answer": "Proto-Historic age",
-        "choices": [
-            "Proto-Historic age",
-            "Pre-Historic age",
-            "Historic age",
-            "Post-Historic age"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The earliest evidence of animal domestication and agriculture in India has come from",
-        "answer": "Mehrgarh",
-        "choices": [
-            "Mehrgarh",
-            "Harappa",
-            "Lothal",
-            "Diamabad"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The earliest evidence of rice cultivation in Ganga valley comes from",
-        "answer": "Lahuradewa",
-        "choices": [
-            "Lahuradewa",
-            "Mehrgarh",
-            "Lothal",
-            "Diamabad"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which colour was commonly used in the Harappan Pottery?",
-        "answer": "Red-Black",
-        "choices": [
-            "Red-Black",
-            "Yellow",
-            "Green",
-            "Blue-Grey"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "In which of the following Harappan cities, furrows of ploughed fields have been found?",
-        "answer": "Kalibangan",
-        "choices": [
-            "Kalibangan",
-            "Dholavira",
-            "Mohenjodaro",
-            "Lothal"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "In which of the following Harappan sites, terracotta of plough has been found?",
-        "answer": "Banawali",
-        "choices": [
-            "Banawali",
-            "Dholavira",
-            "Kalibangan",
-            "Lothal"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "What is the most significant feature of the Indus Valley Civilisation?",
-        "answer": "Use of burnt bricks",
-        "choices": [
-            "Use of burnt bricks",
-            "Fine true arches",
-            "Buildings of worship",
-            "Art & Architecture"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following animals was not known to the people of Indus Valley Civilisation",
-        "answer": "Horse",
-        "choices": [
-            "Horse",
-            "Humped Bull (Zebu)",
-            "Deer",
-            "Elephant"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following is Harappan Port",
-        "answer": "Lothal",
-        "choices": [
-            "Lothal",
-            "Diamabad",
-            "Nagapattinam",
-            "Mahasthangarh"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following is the largest Harappan site in India",
-        "answer": "Rakhigarhi",
-        "choices": [
-            "Rakhigarhi",
-            "Mohenjodaro",
-            "Lothal",
-            "Kalibangan"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following is the largest Harappan site",
-        "answer": "Mohenjodaro",
-        "choices": [
-            "Mohenjodaro",
-            "Rakhigarhi",
-            "Lothal",
-            "Kalibangan"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following is the western most Harappan site",
-        "answer": "Sutkagendor",
-        "choices": [
-            "Sutkagendor",
-            "Shortugai",
-            "Alamgirpur",
-            "Diamabad"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following is the eastern most Harappan site",
-        "answer": "Alamgirpur",
-        "choices": [
-            "Alamgirpur",
-            "Shortugai",
-            "Suktagendor",
-            "Diamabad"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following is the northern most Harappan site",
-        "answer": "Shortugai",
-        "choices": [
-            "Shortugai",
-            "Alamgirpur",
-            "Suktagendor",
-            "Diamabad"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following is the southern most Harappan site",
-        "answer": "Diamabad",
-        "choices": [
-            "Diamabad",
-            "Alamgirpur",
-            "Suktagendor",
-            "Shortugai"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following Harappan site is associated with trade in Lapis Lazuli",
-        "answer": "Shortugai",
-        "choices": [
-            "Shortugai",
-            "Sutkagendor",
-            "Surkotada",
-            "Manda"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following is a Harappan site in Gujarat",
-        "answer": "Lothal",
-        "choices": [
-            "Lothal",
-            "Dabarkot",
-            "Kalibangan",
-            "Rakhigarhi"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who among the following was not associated with the excavation of Harappa and Mohenjodaro?",
-        "answer": "V A Smith",
-        "choices": [
-            "V A Smith",
-            "R D Banerjee",
-            "K N Dikshit",
-            "M S Vats"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "According to report of IIT Kharagpur study group, continous low rainfall for how many years was the cause of fall of the Indus Valley civilisation?",
-        "answer": "900 years",
-        "choices": [
-            "900 years",
-            "600 years",
-            "700 years",
-            "800 years"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "When did the use of Iron begin in Indian Subcontinent?",
-        "answer": "Around 3000 years ago",
-        "choices": [
-            "Around 3000 years ago",
-            "Around 6000 years ago",
-            "Around 9000 years ago",
-            "Around 10000 years ago"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which mandala of Rig Veda is completely dedicated to 'Soma'?",
-        "answer": "Ninth Mandala",
-        "choices": [
-            "Ninth Mandala",
-            "Seventh Mandala",
-            "Eighth Mandala",
-            "Tenth Mandala"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Name the ancient site outside India from where inscription containing Rigvedic dieties names has been found",
-        "answer": "Boghazkoi",
-        "choices": [
-            "Boghazkoi",
-            "Babylon",
-            "Gonur Tepe",
-            "Ur"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Famous Battle of Ten Kings was fought on the bank of river:",
-        "answer": "Parushni",
-        "choices": [
-            "Parushni",
-            "Ganga",
-            "Brahmputra",
-            "Kaveri"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "In which Mandala of Rigveda, Battle of Ten Kings is mentioned",
-        "answer": "Seventh Mandala",
-        "choices": [
-            "Seventh Mandala",
-            "Eighth Mandala",
-            "Tenth Mandala",
-            "Ninth Mandala"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "In which Mandala of Rigveda, Gayatri Mantra is mentioned",
-        "answer": "Third Mandala",
-        "choices": [
-            "Third Mandala",
-            "Eighth Mandala",
-            "Seventh Mandala",
-            "Ninth Mandala"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "In which book Gayatri Mantra is found",
-        "answer": "Rig Veda",
-        "choices": [
-            "Rig Veda",
-            "Upanishad",
-            "Bhagwatgita",
-            "Ramayana"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Gayatri Mantra is dedicated to which diety",
-        "answer": "Sun",
-        "choices": [
-            "Sun",
-            "Parvati",
-            "Shiva",
-            "Indra"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "In which phase, the concept of untouchability was put clearly?",
-        "answer": "Dharmashastra Phase",
-        "choices": [
-            "Dharmashastra Phase",
-            "Rigvedic Phase",
-            "Later Vedic Phase",
-            "Later Gupta Phase"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which ancient Indian text, composed during the later Vedic period, contains philosophical hymns and discussions on cosmology and ethics?",
-        "answer": "Upanishads",
-        "choices": [
-            "Upanishads",
-            "Rigveda",
-            "Yajurveda",
-            "Samveda"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Where did Mahatma Buddha's Mahaparinirvana take place",
-        "answer": "Khushi Nagar",
-        "choices": [
-            "Khushi Nagar",
-            "Lumbini",
-            "Kapilvastu",
-            "Bodhgaya"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The ruler of Suvarnabhumi, who founded a Buddhist monastery at Nalanda and requested Devapala through his ambassador to grant, five villages for its maintenance, was",
-        "answer": "Balaputradeva",
-        "choices": [
-            "Balaputradeva",
-            "Dharanindra",
-            "Sangramadhanjaya",
-            "Chudamanivarmana"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "At which place did Mahatma Buddha give his first Dharmachakkhapavathana?",
-        "answer": "Sarnath",
-        "choices": [
-            "Sarnath",
-            "Lumbini",
-            "Khushi Nagar",
-            "Kapilvastu"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who got enlightenment in Bodh Gaya?",
-        "answer": "Gautam Buddha",
-        "choices": [
-            "Gautam Buddha",
-            "Mahavir Jain",
-            "Smandhar Swami",
-            "Parshvanath Swami"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Gautam Buddha gave his first sermon at",
-        "answer": "Sarnath",
-        "choices": [
-            "Sarnath",
-            "Vaishali",
-            "Kaushambi",
-            "Pavapuri"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following rulers convened the fourth Buddhist Council in Kashmir?",
-        "answer": "Kanishka",
-        "choices": [
-            "Kanishka",
-            "Ashoka",
-            "Ajatshatru",
-            "kalashoka"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "A Buddhist Council during the reign of Kanishka was held at",
-        "answer": "Kashmir",
-        "choices": [
-            "Kashmir",
-            "Magadha",
-            "Pataliputra",
-            "Rajgriha"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Where was the third Buddhist Council held?",
-        "answer": "Pataliputra",
-        "choices": [
-            "Pataliputra",
-            "Sarnath",
-            "Taxila",
-            "Bodh Gaya"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The third Buddhist Council was presided over by",
-        "answer": "Moggaliputta-Tissa",
-        "choices": [
-            "Moggaliputta-Tissa",
-            "Mahakassapa",
-            "Vasumitra",
-            "Ashvaghosha"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "In Indian art, the construction of Stupa, Chaitya and Vihara is related to which of the following?",
-        "answer": "Buddhism",
-        "choices": [
-            "Buddhism",
-            "Jainism",
-            "Vaishanva sect",
-            "Shaiva sect"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Mahabodhi temple has been built at Bodh Gaya where",
-        "answer": "Gautam Buddha received enlightenment",
-        "choices": [
-            "Gautam Buddha received enlightenment",
-            "Gautam Buddha was born",
-            "Gautam Buddha gave his first sermon",
-            "Gautam Buddha passed away"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The present Bodhi Vriksha in Bodh Gaya belongs to which generation of family",
-        "answer": "Fifth",
-        "choices": [
-            "Fifth",
-            "Fourth",
-            "Third",
-            "Sixth"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "After the Mahaparinirvana of Lord Buddha, the first Buddhist council was held at",
-        "answer": "Rajgriha (Rajgir)",
-        "choices": [
-            "Rajgriha (Rajgir)",
-            "Pataliputra (Patna)",
-            "Kundalvana (Kashmir)",
-            "Vaishali"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Tripatikas are the sacred books of the",
-        "answer": "Buddhists",
-        "choices": [
-            "Buddhists",
-            "Jains",
-            "Hindus",
-            "Parsis"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following buddhist literature is not grouped as Tripitaks",
-        "answer": "Milind Panha",
-        "choices": [
-            "Milind Panha",
-            "Sutta Pitaka",
-            "Vinay Pitaka",
-            "Abhidhamma Pitaka"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Where is the highest Vishwa Shanti Stupa located in Bihar",
-        "answer": "Rajgir",
-        "choices": [
-            "Rajgir",
-            "Vaishali",
-            "Patna",
-            "Nalanda"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Barabudur is the most wonderful Stupa in the world and its images and sculptures are the finest examples of",
-        "answer": "Indo-Javanese Art",
-        "choices": [
-            "Indo-Javanese Art",
-            "Indo-Tibetan Art",
-            "Indo-Cambodian Art",
-            "Indo-Champan Art"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Gautam Buddha was elevated to the position of God during the period of",
-        "answer": "Kanishka",
-        "choices": [
-            "Kanishka",
-            "Ashoka",
-            "Chandragupta Vikramaditya",
-            "Harsha"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Where is Odantipuri (Uddandapura) Mahavihar located?",
-        "answer": "Bihar Sharif",
-        "choices": [
-            "Bihar Sharif",
-            "Bhagalpur",
-            "Nalanda",
-            "Bengal"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Odantipuri (Uddandapura) Mahavihar was established by",
-        "answer": "Gopal",
-        "choices": [
-            "Gopal",
-            "Kumargupta",
-            "Dharampala",
-            "Ajatshatru"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Nalanda University was founded during the dynasty of",
-        "answer": "Gupta",
-        "choices": [
-            "Gupta",
-            "Kushan",
-            "Maurya",
-            "Pala"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Why was Nalanda University famous in the world?",
-        "answer": "Buddhist Religious Philosophy",
-        "choices": [
-            "Buddhist Religious Philosophy",
-            "Medical Science",
-            "Philosophy",
-            "Chemical Science"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who was the founder of Nalanda University?",
-        "answer": "Kumargupta",
-        "choices": [
-            "Kumargupta",
-            "Chandragupta Vikramaditya",
-            "Dharampala",
-            "Pushyagupta"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Nav Nalanda Mahavihar is famous for",
-        "answer": "Pali Research Centre",
-        "choices": [
-            "Pali Research Centre",
-            "Museum",
-            "Hsuan-Tsang Memorial",
-            "Birth place of Mahavir"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which one of the following is not common between Buddhism and Jainism?",
-        "answer": "Self-Mortification",
-        "choices": [
-            "Self-Mortification",
-            "Ahimsa",
-            "Indifference to Vedas",
-            "Rejection of Rituals"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The painting of Bodhisattva Padmapani is located at",
-        "answer": "Ajanta",
-        "choices": [
-            "Ajanta",
-            "Ellora",
-            "Rajgir",
-            "Barabar Hills"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Where was Mahavira Swami born",
-        "answer": "Kundgram (Vaishali)",
-        "choices": [
-            "Kundgram (Vaishali)",
-            "Pataliputra (Patna)",
-            "Rajgriha (Rajgir)",
-            "Lumbini"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Mahavir Jain breathed his last at",
-        "answer": "Pavapuri",
-        "choices": [
-            "Pavapuri",
-            "Kundgram (Vaishali)",
-            "Rajgriha (Rajgir)",
-            "Kapilvastu"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The salvation place of Mahavirji, the originator of Jain religion, is located at",
-        "answer": "Jrimbhikagrama (Jamui)",
-        "choices": [
-            "Jrimbhikagrama (Jamui)",
-            "Kundgram (Vaishali)",
-            "Rajgriha (Rajgir)",
-            "Bodh Gaya"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Triratna or Three Jewels i.e. right knowledge, right faith and right action are related to which of the following?",
-        "answer": "Jainism",
-        "choices": [
-            "Jainism",
-            "Buddhism",
-            "Hinduism",
-            "Christianity"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following is the earliest holy book of Jain?",
-        "answer": "Fourteen Purvas",
-        "choices": [
-            "Fourteen Purvas",
-            "Fourteen Uppurva",
-            "Twelve angas",
-            "Twelve Upangas"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who was the first disciple of Lord Mahavira",
-        "answer": "Jamali",
-        "choices": [
-            "Jamali",
-            "Yashoda",
-            "Bipin",
-            "Prabhash"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Ajivika sect was founded by",
-        "answer": "Makkhali Gosala",
-        "choices": [
-            "Makkhali Gosala",
-            "Anand",
-            "Rahulabhadra ",
-            "Upali"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who used the caves of Barabar as their shelter-house?",
-        "answer": "Ajivikas",
-        "choices": [
-            "Ajivikas",
-            "Jains",
-            "Tantrikas",
-            "Buddhists"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who of the following kings was strongly inclined towards Jainism?",
-        "answer": "Kharavela",
-        "choices": [
-            "Kharavela",
-            "Dasaratha",
-            "Brihadrath",
-            "Huvishk"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Gorathagiri in the Barabar Hills was conquered by",
-        "answer": "Kharavela",
-        "choices": [
-            "Kharavela",
-            "Rajaraja Chola",
-            "Menander",
-            "Pushyamitra Sunga"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Nathpanthis, Siddhas and Yogis made devotional religion popular in",
-        "answer": "Northern India",
-        "choices": [
-            "Northern India",
-            "Southern India",
-            "Eastern India",
-            "Western India"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who contributes the most in the development of Bhagavata sect?",
-        "answer": "Gupta",
-        "choices": [
-            "Gupta",
-            "Persian",
-            "Indo-Greek people",
-            "Kushan"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "In ancient times, the area to the south of the Ganga was known as",
-        "answer": "Magadh",
-        "choices": [
-            "Magadh",
-            "Chola",
-            "Anarta",
-            "Takshashila"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which was the first capital of ancient Mahajanapada Magadh?",
-        "answer": "Rajgriha (Rajgir)",
-        "choices": [
-            "Rajgriha (Rajgir)",
-            "Pataliputra (Patna)",
-            "Vaishali",
-            "Anga"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which ruler founded the beautiful city, Pataliputra?",
-        "answer": "Ajatashatru",
-        "choices": [
-            "Ajatashatru",
-            "Bimbisara",
-            "Bindusara",
-            "Udayin"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "By which ruler Pataliputra was chosen as a capital for the first time?",
-        "answer": "Udayin",
-        "choices": [
-            "Udayin",
-            "Ajatashatru",
-            "Kalashoka",
-            "Kanishka"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "According to Mahavamsa, Bimbisara ascended the throne at the age of ",
-        "answer": "15 years",
-        "choices": [
-            "15 years",
-            "18 years",
-            "20 years",
-            "12 years"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "In which century did the first Magadhan Empire rise?",
-        "answer": "6th centurey BCE",
-        "choices": [
-            "6th centurey BCE",
-            "4th centurey BCE",
-            "7th centurey BCE",
-            "5th centurey BCE"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Magadha and Anga plains are part of which of the following?",
-        "answer": "Middle Ganga Valley",
-        "choices": [
-            "Middle Ganga Valley",
-            "Upper Ganga Valley",
-            "Lower Ganga Valley",
-            "Lower Brahmputra Valley"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Where was the world's first republican system in the 6th century BCE?",
-        "answer": "Vaishali",
-        "choices": [
-            "Vaishali",
-            "Athens",
-            "Pataliputra",
-            "Spata"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The list of sixteen Mahajanapadas is available in",
-        "answer": "Anguttar Nikaya",
-        "choices": [
-            "Anguttar Nikaya",
-            "Mahabharata",
-            "Chandogya Upanishad",
-            "Samyukta Nikaya"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "What was the name of the dynasty of Ajatashatru?",
-        "answer": "Haryanka",
-        "choices": [
-            "Haryanka",
-            "Maurya",
-            "Gupta",
-            "Nanda"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who was the physician of Magadha ruler Bimbisara?",
-        "answer": "Jeevaka",
-        "choices": [
-            "Jeevaka",
-            "Shilabhadra",
-            "Vijayaena",
-            "Manu"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which dynasty did rule over Magadha after Nanda Dynasty?",
-        "answer": "Maurya",
-        "choices": [
-            "Maurya",
-            "Shunga",
-            "Gupta",
-            "Kushan"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who was the last king of Karnata dynasty?",
-        "answer": "Harisimhadev",
-        "choices": [
-            "Harisimhadev",
-            "Ramsimhadev",
-            "Nanyadeva",
-            "Narsimhadeva"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which one of the following rulers of the Magadha was the contemporary of Alexander?",
-        "answer": "Dhanananda",
-        "choices": [
-            "Dhanananda",
-            "Mahapadmananda",
-            "Sukalpa",
-            "Chandragupta Maurya"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The first empire was established by which ruler in India?",
-        "answer": "Chandragupta Maurya",
-        "choices": [
-            "Chandragupta Maurya",
-            "Ashoka",
-            "Kanishka",
-            "Chandragupta II - Vikramaditya"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Chandragupta Maurya figures prominently in the book of",
-        "answer": "Vishakhadatta",
-        "choices": [
-            "Vishakhadatta",
-            "Bhasa",
-            "Surdraka",
-            "Ashvaghosha"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who recognised Sandoorkottos as Chandragupta Maurya?",
-        "answer": "William Jones",
-        "choices": [
-            "William Jones",
-            "V. Smith",
-            "R. K. Mukharjee",
-            "D. R. Bhandarkar"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Chandragupta's palace situated at Pataliputra is mainly made up of",
-        "answer": "Woods",
-        "choices": [
-            "Woods",
-            "Bricks",
-            "Stones",
-            "Clay"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who amongst the following Mauryan rulers did conquer the Deccan?",
-        "answer": "Chandragupta Maurya",
-        "choices": [
-            "Chandragupta Maurya",
-            "Ashoka",
-            "Bindusara",
-            "Kunala"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which book describe Bindusara as an anointed Kshtriya?",
-        "answer": "Divyadana",
-        "choices": [
-            "Divyadana",
-            "Rajatarangini",
-            "Arthashastra",
-            "Indica"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The inscription which proves Chandragupta's sway over western India is",
-        "answer": "Junagarh Rock Inscription of Rudradaman",
-        "choices": [
-            "Junagarh Rock Inscription of Rudradaman",
-            "Kalinga Rock Inscriptions",
-            "Girnar Rock Inscription of Ashoka",
-            "Sopara Rock Inscription of Ashoka"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which one territory of the following was not a part of Ashoka's empire?",
-        "answer": "Sri Lanka",
-        "choices": [
-            "Sri Lanka",
-            "Afghanistan",
-            "Bihar",
-            "Kalinga"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "A Buddhist Council during the reign of  Ashoka was held at",
-        "answer": "Pataliputra",
-        "choices": [
-            "Pataliputra",
-            "Vaishali",
-            "Rajgir",
-            "Kanauj"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Language used in the incription of Ashoka is ",
-        "answer": "Prakrit",
-        "choices": [
-            "Prakrit",
-            "Sanskrit",
-            "Pali",
-            "Hindi"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which one of the following scripts of ancient India was written from right to left?",
-        "answer": "Kharosthi",
-        "choices": [
-            "Kharosthi",
-            "Brahmi",
-            "Devanagri",
-            "Kaithi"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who first discovered the Brahmi script?",
-        "answer": "James Prinsep",
-        "choices": [
-            "James Prinsep",
-            "A Cunningham",
-            "A. H. Dani",
-            "Buhler"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The name by which Ashoka is referred to in his incriptions is",
-        "answer": "Priyadarshi",
-        "choices": [
-            "Priyadarshi",
-            "Chakravarti",
-            "Dharamadeva",
-            "Dharmakirti"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The only pillar on which Ashoka declares himself as the emperor of Magadha",
-        "answer": "Bhabru Pillar",
-        "choices": [
-            "Bhabru Pillar",
-            "Minor Pillar of Maski",
-            "Rummindei Pillar",
-            "Queen Pillar"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Megasthenes was the ambassador of",
-        "answer": "Seleucus I Nicator",
-        "choices": [
-            "Seleucus I Nicator",
-            "Alexander",
-            "Darius",
-            "Napolean"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "In how many categories did Megasthenes divide the Indian society?",
-        "answer": "Seven",
-        "choices": [
-            "Seven",
-            "Six",
-            "Five",
-            "Four"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The division of Mauryan society into seven classes is particularly mentioned in",
-        "answer": "The Indica of Megasthenes",
-        "choices": [
-            "The Indica of Megasthenes",
-            "Kautilya's Arthashastra",
-            "Ashokan Rock Edicts",
-            "The Puranas"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The description of the administration of Pataliputra is available in",
-        "answer": "The Indica of Megasthenes",
-        "choices": [
-            "The Indica of Megasthenes",
-            "Kautilya's Arthashastra",
-            "Ashokan Rock Edicts",
-            "Divyanadan"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "What is the name of Megasthenes book?",
-        "answer": "Indica",
-        "choices": [
-            "Indica",
-            "Rig Veda",
-            "Purana",
-            "Economics"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who was the author of Indica?",
-        "answer": "Megasthenes",
-        "choices": [
-            "Megasthenes",
-            "Deimachus",
-            "Vishnugupta",
-            "Pliny"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The last Mauryan emperor was",
-        "answer": "Brihadratha",
-        "choices": [
-            "Brihadratha",
-            "Jaloka",
-            "Avanti Verma",
-            "Nandi Vardhana"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The decline of the Mauryan Empire was largely due to the economic consequences of Ashoka's policy. Who believed in this fact?",
-        "answer": "Romila Thapar",
-        "choices": [
-            "Romila Thapar",
-            "V. A. Smith",
-            "D. N. Jha",
-            "H. C. Raychaudhari"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Pradyota was the king of",
-        "answer": "Avanti",
-        "choices": [
-            "Avanti",
-            "Kasi",
-            "Koshala",
-            "Magadha"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which inscription tells about the various achievements of Rudraman-I?",
-        "answer": "Junagadh",
-        "choices": [
-            "Junagadh",
-            "Bhitari",
-            "Nasik",
-            "Sanchi"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "According to the rock inscription in Sanskrit, composed around 2nd Century CE, Sudarshan Lake, an artificial reservoir, was repaired by",
-        "answer": "Rudradaman",
-        "choices": [
-            "Rudradaman",
-            "Harsha",
-            "Kanishka",
-            "Ashoka"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who among the following first issued gold coins on a large scale?",
-        "answer": "Vima Kadphises",
-        "choices": [
-            "Vima Kadphises",
-            "Pushyamitra Shunga",
-            "Menander",
-            "Gautamiputra Satkarni"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which dynasty ruled over India after Shunga dynasty?",
-        "answer": "Kanva",
-        "choices": [
-            "Kanva",
-            "Satvahana",
-            "Gupta",
-            "Kushan"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Art of Gandhara style flourished during the reign of",
-        "answer": "Kushans",
-        "choices": [
-            "Kushans",
-            "Guptas",
-            "Mauryas",
-            "Kanvas"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "King Kharavela is related to",
-        "answer": "Hathigumpha Inscription",
-        "choices": [
-            "Hathigumpha Inscription",
-            "Piller inscription of Girnar",
-            "Pillar inscription of Junagarh",
-            "Sarnath Inscription"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Kaling king Kharavel was related to ",
-        "answer": "Mahameghavahana / Chedi Dynasty",
-        "choices": [
-            "Mahameghavahana / Chedi Dynasty",
-            "Satvahana Dynasty",
-            "Rath-Bhojak Dynasty",
-            "Maurya Dynasty"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which Gupta ruler assumed the throne after killing his elder brother?",
-        "answer": "Chandragupta II - Vikramaditya",
-        "choices": [
-            "Chandragupta II - Vikramaditya",
-            "Shri Gupta",
-            "Samudragupta",
-            "Skandagupta"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who is called the Napolean of Ancient India?",
-        "answer": "Samudragupta",
-        "choices": [
-            "Samudragupta",
-            "Shri Gupta",
-            "Chandragupta Maurya",
-            "Pushyamitra Sunga"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "According to Chinese source, Meghavarman, the ruler of Sri Lanka, sent a missionary to which of the following Gupta Kings for permission to build a Buddhist temple at Gaya?",
-        "answer": "Samudragupta",
-        "choices": [
-            "Samudragupta",
-            "Chandragupta I",
-            "Chandragupta II - Vikramaditya",
-            "Shir Gupta"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The Gupta emperor who defeated the Hunas was",
-        "answer": "Skandagupta",
-        "choices": [
-            "Skandagupta",
-            "Chandragupta I",
-            "Samudragupta",
-            "Chandragupta II - Vikramaditya"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which Gupta ruler is mentioned as Param Bhagawata in Nalanda Copper Plates?",
-        "answer": "Samudragupta",
-        "choices": [
-            "Samudragupta",
-            "Chandragupta I",
-            "Chandragupta II - Vikramaditya",
-            "Skandagupta"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "In Pre-Gupta times, a large number of lead coins were issued by the",
-        "answer": "Satavahanas",
-        "choices": [
-            "Satavahanas",
-            "Shakas",
-            "Kushans",
-            "Mauryas"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The gradual decline of towns was an important feature of which period?",
-        "answer": "Gupta period",
-        "choices": [
-            "Gupta period",
-            "Pratihara era",
-            "Rashtrakut era",
-            "Satavahana era"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which ruling dynasty donated maximum villages to temples and Brahmins?",
-        "answer": "Gupta Dynasty",
-        "choices": [
-            "Gupta Dynasty",
-            "Pala Dynasty",
-            "Rashtrakuta",
-            "Pratihara"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "What was the land revenue rate in Gupta age?",
-        "answer": "Sixth part of the production",
-        "choices": [
-            "Sixth part of the production",
-            "tenth part of the production",
-            "half part of the production",
-            "third part of the production"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "What is the land revenue rate in religious books?",
-        "answer": "One-sixth",
-        "choices": [
-            "One-sixth",
-            "One-eighth",
-            "One-third",
-            "One-fourth"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which type of land was called Aprahat",
-        "answer": "Without cultivated forest land",
-        "choices": [
-            "Without cultivated forest land",
-            "Irrigated land",
-            "Dense Forest Land",
-            "Cultivated Land"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Chinese traveller Sungyun or Song Yun came to India during",
-        "answer": "518 to 521 CE",
-        "choices": [
-            "518 to 521 CE",
-            "525 to 5529 CE",
-            "545 to 552 CE",
-            "592 to 597 CE"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The account of the Moroccan traveller Ibn Battuta is known as",
-        "answer": "Rihla",
-        "choices": [
-            "Rihla",
-            "Tarikh-i-Rashidi",
-            "Subh-u'l-Asha",
-            "Riyaz-us-salatin"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following philosophies of India propounded the atom theory?",
-        "answer": "Vaisheshika",
-        "choices": [
-            "Vaisheshika",
-            "Nyaya",
-            "Sankhya",
-            "Yoga"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who has written the Harshacharita",
-        "answer": "Banabhatta",
-        "choices": [
-            "Banabhatta",
-            "Aryabhatta",
-            "Vishnugupta",
-            "Parimalgupta"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who laid the foundation of Vardhana Dynasty?",
-        "answer": "Pushyabhuti",
-        "choices": [
-            "Pushyabhuti",
-            "Rajyavardhana",
-            "Harshavardhana",
-            "Prabhakarvardhana"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which Chinese traveller visited India during Haravardhana's rule?",
-        "answer": "Hiuen-Tsang",
-        "choices": [
-            "Hiuen-Tsang",
-            "Fa-Hien",
-            "I-Tsing",
-            "Taranath"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The famous Chinese pilgrim Fa-Hien visited India during the reign of",
-        "answer": "Chandragupta II - Vikramaditya",
-        "choices": [
-            "Chandragupta II - Vikramaditya",
-            "Harshavardhana",
-            "Ramagupta",
-            "Chandragupta I"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "During Hiuen-Tsang tour in India most famous city for the production of cotton clothes was",
-        "answer": "Mathura",
-        "choices": [
-            "Mathura",
-            "Varanasi",
-            "Pataliputra",
-            "Kanchi"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Chinese traveller Hiuen-Tsang studied at which univesity",
-        "answer": "Nalanda",
-        "choices": [
-            "Nalanda",
-            "Taxilla",
-            "Vikramshila",
-            "Uddandapura"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Chinese traveller I-tsing was on the tour of Bihar in about",
-        "answer": "671 CE",
-        "choices": [
-            "671 CE",
-            "405 CE",
-            "635 CE",
-            "637 CE"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Nalanda Vihar was destroyed by",
-        "answer": "Bakhtiyar Khalji",
-        "choices": [
-            "Bakhtiyar Khalji",
-            "Qutubuddin Aibak",
-            "Muhammad Bin Tughlaq",
-            "Alauddin Khalji"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who was the real founder of Turk rule in Bihar?",
-        "answer": "Bakhtiyar Khalji",
-        "choices": [
-            "Bakhtiyar Khalji",
-            "Malik Husarnuddin",
-            "Ibrahim",
-            "Dariya Khan Noohani"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "How many rulers of Aryavarta have been mentioned in 21st line of Allahabad Pillar Inscription?",
-        "answer": "Nine",
-        "choices": [
-            "Nine",
-            "Eight",
-            "Seven",
-            "Six"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who has argued that the Gupta and post-Gupta periods saw a decline in the money economy?",
-        "answer": "R. S. Sharma",
-        "choices": [
-            "R. S. Sharma",
-            "R. S. Tripathi",
-            "Radha Kumud Mookerjee",
-            "D. C. Sircar"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who was the ruler of India during the 7th cneture CE known for his patronage of Buddhism and support for cultural activities?",
-        "answer": "Harsha",
-        "choices": [
-            "Harsha",
-            "Ashoka",
-            "Chandragupta Maurya",
-            "Vikramaditya"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The associates of Khajuraho Temple Architecture were",
-        "answer": "Chandela",
-        "choices": [
-            "Chandela",
-            "Chahamana",
-            "Gurjara-Pratihara",
-            "Paramara"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The attractive doors of the temples of South India are called",
-        "answer": "Gopuram",
-        "choices": [
-            "Gopuram",
-            "Shikhara",
-            "Devalaya",
-            "Mandapam"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who established trade relations with Roman empire?",
-        "answer": "Cheras",
-        "choices": [
-            "Cheras",
-            "Kushanas",
-            "Western Shakas",
-            "Vakatakas"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The Chola age was most famous for",
-        "answer": "Village Assemblies",
-        "choices": [
-            "Village Assemblies",
-            "Trade with Ceylon",
-            "Advancement in Tamil Culture",
-            "War with the Rashtrakutas"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who was the founder of Chola Dynasty?",
-        "answer": "Vijayalaya",
-        "choices": [
-            "Vijayalaya",
-            "Karikal",
-            "Aditya I",
-            "Rajaraja I"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which of the following dynasties is not mentioned in Sangam literature?",
-        "answer": "Kadamb",
-        "choices": [
-            "Kadamb",
-            "Chola",
-            "Chera",
-            "Pandya"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Why was uraiyur famous in Sangam Era?",
-        "answer": "Important trade centre of cotton",
-        "choices": [
-            "Important trade centre of cotton",
-            "Important trade centre of spices",
-            "Important trade centre of domestic trade",
-            "Important trade centre of foreign trade"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who was the writer of Mudrarakshasa?",
-        "answer": "Vishakhadatta",
-        "choices": [
-            "Vishakhadatta",
-            "Aswaghosha",
-            "Kalidasa",
-            "Bhasa"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Kumarsambhavam an epic poem was composed by",
-        "answer": "Kalidasa",
-        "choices": [
-            "Kalidasa",
-            "Banabhatta",
-            "Harishena",
-            "Chanda Bardai"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "What is the name of Kalhana's book?",
-        "answer": "Rajtarangini",
-        "choices": [
-            "Rajtarangini",
-            "Arthashastra",
-            "Indica",
-            "Purana"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "The author of Swapanavasavadatta is",
-        "answer": "Bhasa",
-        "choices": [
-            "Bhasa",
-            "Kalidasa",
-            "Bhavabhutti",
-            "Rajashekhara"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Who wrote the book Kiratarjuniya?",
-        "answer": "Bharavi",
-        "choices": [
-            "Bharavi",
-            "Bhatti",
-            "Shudrak",
-            "Kalidasa"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Epigraphic records (Inscriptions) suggest that in ancient India, the rulers of Bihar had contact with",
-        "answer": "Java-Sumatra",
-        "choices": [
-            "Java-Sumatra",
-            "Thailand",
-            "Burma",
-            "Cambodia"
-        ]
-    },
-    {
-        "sheet": "HistoryAncient",
-        "question": "Which ruler of Bengal founded the ancient University called Vikramshila",
-        "answer": "Dharampala",
-        "choices": [
-            "Dharampala",
-            "Gopala",
-            "Devpala",
-            "Mahipala"
-        ]
-    },
-    {
         "sheet": "Recent2025",
         "question": "Dulari Devi from Bihar was awarded with Padma shri, she is associated with",
         "answer": "Madhubani Art",
@@ -4397,6 +2142,1986 @@
             "Himadri",
             "Pir Panjal",
             "Zaskar"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Fourth of july is related to",
+        "answer": "American Independence day",
+        "choices": [
+            "American Independence day",
+            "American Republic Day",
+            "Birth of Jesus Christ",
+            "Christian Halloween"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "On which date 13 American colonies declared independence from Britain?",
+        "answer": "4th July 1776",
+        "choices": [
+            "4th July 1776",
+            "4th July 1786",
+            "1st July 1786",
+            "6th July 1776"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "How many American colonies signed the declaration of independence from Britain on 4th July 1776?",
+        "answer": "Thirteen",
+        "choices": [
+            "Thirteen",
+            "Eleven",
+            "Twelve",
+            "Ten"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Name the last Indian warship purchased from the foreign country recently?",
+        "answer": "INS Tamal",
+        "choices": [
+            "INS Tamal",
+            "INS Talwar",
+            "INS Trishul",
+            "INS Tarkash"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who established Lodi Dyansty",
+        "answer": "Bahlul Khan Lodi",
+        "choices": [
+            "Bahlul Khan Lodi",
+            "Sikandr Khan Lodi",
+            "Malik Sultan Khan Lodi",
+            "Ibrahim Lodi"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "First Sikh Guru",
+        "answer": "Guru Nanak",
+        "choices": [
+            "Guru Nanak",
+            "Guru Angad",
+            "Guru Gobind Singh",
+            "Guru Hargobind"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Which year marks fall of Constantinople",
+        "answer": 1453,
+        "choices": [
+            1453,
+            1454,
+            1452,
+            1455
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who discovered America",
+        "answer": "Christopher Columbus",
+        "choices": [
+            "Christopher Columbus",
+            "Vasco Da Gama",
+            "Prince Henry The Navigator",
+            "Captain Hawkins"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Treaty of Tordesillias was signed between",
+        "answer": "Spain & Portugal",
+        "choices": [
+            "Spain & Portugal",
+            "Spain & England",
+            "Portugal & England",
+            "Greece & Spain"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Last ruling dynasty of Delhi Sultanate",
+        "answer": "Lodi",
+        "choices": [
+            "Lodi",
+            "Mameluk",
+            "Tughlaq",
+            "Khalji"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "First ruling dynasty of Delhi Sultanate",
+        "answer": "Mameluk",
+        "choices": [
+            "Mameluk",
+            "Lodi",
+            "Tughlaq",
+            "Khalji"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Name the ruler who led to the fall of Constantinople",
+        "answer": "Mehmed II",
+        "choices": [
+            "Mehmed II",
+            "Ibrahim II",
+            "Murad II",
+            "Bayezid II"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who established the Agra city",
+        "answer": "Sikhander Khan Lodi",
+        "choices": [
+            "Sikhander Khan Lodi",
+            "Malik Sultan Khan Lodi",
+            "Ibrahim Lodi",
+            "Ibrahim Lodi"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who discovered all sea route from Europe to India",
+        "answer": "Vasco Da Gama",
+        "choices": [
+            "Vasco Da Gama",
+            "Christopher Columbus",
+            "Captain Hawkins",
+            "Afonso de Albuquerque"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who established the Mughal Empire",
+        "answer": "Babur",
+        "choices": [
+            "Babur",
+            "Akbar",
+            "Jahangir",
+            "Shah Jahan"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who restored the Grand Trunk Road from the river Indus in the west to Sonargaon in Bengal",
+        "answer": "Sher Shah Suri",
+        "choices": [
+            "Sher Shah Suri",
+            "Humayun",
+            "Shah Jahan",
+            "Akbar"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Thomas Roe, the royal envoy of the king of England visited court of which ruler in India",
+        "answer": "Jahangir",
+        "choices": [
+            "Jahangir",
+            "Akbar",
+            "Humayun",
+            "Aurangzeb"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who constructed the Taj Mahal",
+        "answer": "Shah Jahan",
+        "choices": [
+            "Shah Jahan",
+            "Akbar",
+            "Humayun",
+            "Aurangzeb"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who executed Guru Tegh Bahadur",
+        "answer": "Aurangzeb",
+        "choices": [
+            "Aurangzeb",
+            "Akbar",
+            "Humayun",
+            "Shah Jahan"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Sikh Guru born in Bihar",
+        "answer": "Guru Gobind Singh",
+        "choices": [
+            "Guru Gobind Singh",
+            "Guru Tegh Bahadu",
+            "Guru Nanak",
+            "Guru Angad"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who established the Maratha Kingdom",
+        "answer": "Shivaji",
+        "choices": [
+            "Shivaji",
+            "Shambhaji",
+            "Nana Pahadi",
+            "Tanhaji"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "The Khalsa, warrior group of Sikh was established by",
+        "answer": "Guru Gobind Singh",
+        "choices": [
+            "Guru Gobind Singh",
+            "Guru Nanak",
+            "Guru Tegh Bahadur",
+            "Guru Angad"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "In which year was the first regulating act passed to regulate the administration of the East India Company in India",
+        "answer": 1773,
+        "choices": [
+            1773,
+            1774,
+            1775,
+            1772
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "In which year Pitt's India Act enacted",
+        "answer": 1784,
+        "choices": [
+            1784,
+            1783,
+            1786,
+            1785
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who introduced Permanent Settlement system of revenue collection",
+        "answer": "Charles Cornwallis",
+        "choices": [
+            "Charles Cornwallis",
+            "Warren Hastings",
+            "Robert Clive",
+            "William Pitt"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who introduced the system of Subsidiary Alliance",
+        "answer": "Richard Wellesley",
+        "choices": [
+            "Richard Wellesley",
+            "Charles Cornwallis",
+            "Warren Hastings",
+            "Robert Clive"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who established the Sikh Empire",
+        "answer": "Ranjit Singh",
+        "choices": [
+            "Ranjit Singh",
+            "Guru Gobind",
+            "Guru Nanak",
+            "Prithviraj Chouhan"
+        ]
+    },
+    {
+        "sheet": "History1450Onwards",
+        "question": "Who was the leader of the Ghadar Movement, a revolutionary movement aimed at overthrowing British rule in India?",
+        "answer": "Kartar Singh Sarabha",
+        "choices": [
+            "Kartar Singh Sarabha",
+            "Lala Lajpat Rai",
+            "Bhagat Singh",
+            "Sardar Uddham Singh"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which one of the following periods is also known as Chalcolithic Age?",
+        "answer": "Copper Age",
+        "choices": [
+            "Copper Age",
+            "Old Stone Age",
+            "New Stone Age",
+            "Iron Age"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Indus Civilisation existed in",
+        "answer": "Proto-Historic age",
+        "choices": [
+            "Proto-Historic age",
+            "Pre-Historic age",
+            "Historic age",
+            "Post-Historic age"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The earliest evidence of animal domestication and agriculture in India has come from",
+        "answer": "Mehrgarh",
+        "choices": [
+            "Mehrgarh",
+            "Harappa",
+            "Lothal",
+            "Diamabad"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The earliest evidence of rice cultivation in Ganga valley comes from",
+        "answer": "Lahuradewa",
+        "choices": [
+            "Lahuradewa",
+            "Mehrgarh",
+            "Lothal",
+            "Diamabad"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which colour was commonly used in the Harappan Pottery?",
+        "answer": "Red-Black",
+        "choices": [
+            "Red-Black",
+            "Yellow",
+            "Green",
+            "Blue-Grey"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which of the following Harappan cities, furrows of ploughed fields have been found?",
+        "answer": "Kalibangan",
+        "choices": [
+            "Kalibangan",
+            "Dholavira",
+            "Mohenjodaro",
+            "Lothal"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which of the following Harappan sites, terracotta of plough has been found?",
+        "answer": "Banawali",
+        "choices": [
+            "Banawali",
+            "Dholavira",
+            "Kalibangan",
+            "Lothal"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "What is the most significant feature of the Indus Valley Civilisation?",
+        "answer": "Use of burnt bricks",
+        "choices": [
+            "Use of burnt bricks",
+            "Fine true arches",
+            "Buildings of worship",
+            "Art & Architecture"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following animals was not known to the people of Indus Valley Civilisation",
+        "answer": "Horse",
+        "choices": [
+            "Horse",
+            "Humped Bull (Zebu)",
+            "Deer",
+            "Elephant"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is Harappan Port",
+        "answer": "Lothal",
+        "choices": [
+            "Lothal",
+            "Diamabad",
+            "Nagapattinam",
+            "Mahasthangarh"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the largest Harappan site in India",
+        "answer": "Rakhigarhi",
+        "choices": [
+            "Rakhigarhi",
+            "Mohenjodaro",
+            "Lothal",
+            "Kalibangan"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the largest Harappan site",
+        "answer": "Mohenjodaro",
+        "choices": [
+            "Mohenjodaro",
+            "Rakhigarhi",
+            "Lothal",
+            "Kalibangan"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the western most Harappan site",
+        "answer": "Sutkagendor",
+        "choices": [
+            "Sutkagendor",
+            "Shortugai",
+            "Alamgirpur",
+            "Diamabad"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the eastern most Harappan site",
+        "answer": "Alamgirpur",
+        "choices": [
+            "Alamgirpur",
+            "Shortugai",
+            "Suktagendor",
+            "Diamabad"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the northern most Harappan site",
+        "answer": "Shortugai",
+        "choices": [
+            "Shortugai",
+            "Alamgirpur",
+            "Suktagendor",
+            "Diamabad"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the southern most Harappan site",
+        "answer": "Diamabad",
+        "choices": [
+            "Diamabad",
+            "Alamgirpur",
+            "Suktagendor",
+            "Shortugai"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following Harappan site is associated with trade in Lapis Lazuli",
+        "answer": "Shortugai",
+        "choices": [
+            "Shortugai",
+            "Sutkagendor",
+            "Surkotada",
+            "Manda"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is a Harappan site in Gujarat",
+        "answer": "Lothal",
+        "choices": [
+            "Lothal",
+            "Dabarkot",
+            "Kalibangan",
+            "Rakhigarhi"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who among the following was not associated with the excavation of Harappa and Mohenjodaro?",
+        "answer": "V A Smith",
+        "choices": [
+            "V A Smith",
+            "R D Banerjee",
+            "K N Dikshit",
+            "M S Vats"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "According to report of IIT Kharagpur study group, continous low rainfall for how many years was the cause of fall of the Indus Valley civilisation?",
+        "answer": "900 years",
+        "choices": [
+            "900 years",
+            "600 years",
+            "700 years",
+            "800 years"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "When did the use of Iron begin in Indian Subcontinent?",
+        "answer": "Around 3000 years ago",
+        "choices": [
+            "Around 3000 years ago",
+            "Around 6000 years ago",
+            "Around 9000 years ago",
+            "Around 10000 years ago"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which mandala of Rig Veda is completely dedicated to 'Soma'?",
+        "answer": "Ninth Mandala",
+        "choices": [
+            "Ninth Mandala",
+            "Seventh Mandala",
+            "Eighth Mandala",
+            "Tenth Mandala"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Name the ancient site outside India from where inscription containing Rigvedic dieties names has been found",
+        "answer": "Boghazkoi",
+        "choices": [
+            "Boghazkoi",
+            "Babylon",
+            "Gonur Tepe",
+            "Ur"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Famous Battle of Ten Kings was fought on the bank of river:",
+        "answer": "Parushni",
+        "choices": [
+            "Parushni",
+            "Ganga",
+            "Brahmputra",
+            "Kaveri"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which Mandala of Rigveda, Battle of Ten Kings is mentioned",
+        "answer": "Seventh Mandala",
+        "choices": [
+            "Seventh Mandala",
+            "Eighth Mandala",
+            "Tenth Mandala",
+            "Ninth Mandala"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which Mandala of Rigveda, Gayatri Mantra is mentioned",
+        "answer": "Third Mandala",
+        "choices": [
+            "Third Mandala",
+            "Eighth Mandala",
+            "Seventh Mandala",
+            "Ninth Mandala"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which book Gayatri Mantra is found",
+        "answer": "Rig Veda",
+        "choices": [
+            "Rig Veda",
+            "Upanishad",
+            "Bhagwatgita",
+            "Ramayana"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Gayatri Mantra is dedicated to which diety",
+        "answer": "Sun",
+        "choices": [
+            "Sun",
+            "Parvati",
+            "Shiva",
+            "Indra"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which phase, the concept of untouchability was put clearly?",
+        "answer": "Dharmashastra Phase",
+        "choices": [
+            "Dharmashastra Phase",
+            "Rigvedic Phase",
+            "Later Vedic Phase",
+            "Later Gupta Phase"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which ancient Indian text, composed during the later Vedic period, contains philosophical hymns and discussions on cosmology and ethics?",
+        "answer": "Upanishads",
+        "choices": [
+            "Upanishads",
+            "Rigveda",
+            "Yajurveda",
+            "Samveda"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Where did Mahatma Buddha's Mahaparinirvana take place",
+        "answer": "Khushi Nagar",
+        "choices": [
+            "Khushi Nagar",
+            "Lumbini",
+            "Kapilvastu",
+            "Bodhgaya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The ruler of Suvarnabhumi, who founded a Buddhist monastery at Nalanda and requested Devapala through his ambassador to grant, five villages for its maintenance, was",
+        "answer": "Balaputradeva",
+        "choices": [
+            "Balaputradeva",
+            "Dharanindra",
+            "Sangramadhanjaya",
+            "Chudamanivarmana"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "At which place did Mahatma Buddha give his first Dharmachakkhapavathana?",
+        "answer": "Sarnath",
+        "choices": [
+            "Sarnath",
+            "Lumbini",
+            "Khushi Nagar",
+            "Kapilvastu"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who got enlightenment in Bodh Gaya?",
+        "answer": "Gautam Buddha",
+        "choices": [
+            "Gautam Buddha",
+            "Mahavir Jain",
+            "Smandhar Swami",
+            "Parshvanath Swami"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Gautam Buddha gave his first sermon at",
+        "answer": "Sarnath",
+        "choices": [
+            "Sarnath",
+            "Vaishali",
+            "Kaushambi",
+            "Pavapuri"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following rulers convened the fourth Buddhist Council in Kashmir?",
+        "answer": "Kanishka",
+        "choices": [
+            "Kanishka",
+            "Ashoka",
+            "Ajatshatru",
+            "kalashoka"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "A Buddhist Council during the reign of Kanishka was held at",
+        "answer": "Kashmir",
+        "choices": [
+            "Kashmir",
+            "Magadha",
+            "Pataliputra",
+            "Rajgriha"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Where was the third Buddhist Council held?",
+        "answer": "Pataliputra",
+        "choices": [
+            "Pataliputra",
+            "Sarnath",
+            "Taxila",
+            "Bodh Gaya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The third Buddhist Council was presided over by",
+        "answer": "Moggaliputta-Tissa",
+        "choices": [
+            "Moggaliputta-Tissa",
+            "Mahakassapa",
+            "Vasumitra",
+            "Ashvaghosha"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In Indian art, the construction of Stupa, Chaitya and Vihara is related to which of the following?",
+        "answer": "Buddhism",
+        "choices": [
+            "Buddhism",
+            "Jainism",
+            "Vaishanva sect",
+            "Shaiva sect"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Mahabodhi temple has been built at Bodh Gaya where",
+        "answer": "Gautam Buddha received enlightenment",
+        "choices": [
+            "Gautam Buddha received enlightenment",
+            "Gautam Buddha was born",
+            "Gautam Buddha gave his first sermon",
+            "Gautam Buddha passed away"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The present Bodhi Vriksha in Bodh Gaya belongs to which generation of family",
+        "answer": "Fifth",
+        "choices": [
+            "Fifth",
+            "Fourth",
+            "Third",
+            "Sixth"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "After the Mahaparinirvana of Lord Buddha, the first Buddhist council was held at",
+        "answer": "Rajgriha (Rajgir)",
+        "choices": [
+            "Rajgriha (Rajgir)",
+            "Pataliputra (Patna)",
+            "Kundalvana (Kashmir)",
+            "Vaishali"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Tripatikas are the sacred books of the",
+        "answer": "Buddhists",
+        "choices": [
+            "Buddhists",
+            "Jains",
+            "Hindus",
+            "Parsis"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following buddhist literature is not grouped as Tripitaks",
+        "answer": "Milind Panha",
+        "choices": [
+            "Milind Panha",
+            "Sutta Pitaka",
+            "Vinay Pitaka",
+            "Abhidhamma Pitaka"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Where is the highest Vishwa Shanti Stupa located in Bihar",
+        "answer": "Rajgir",
+        "choices": [
+            "Rajgir",
+            "Vaishali",
+            "Patna",
+            "Nalanda"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Barabudur is the most wonderful Stupa in the world and its images and sculptures are the finest examples of",
+        "answer": "Indo-Javanese Art",
+        "choices": [
+            "Indo-Javanese Art",
+            "Indo-Tibetan Art",
+            "Indo-Cambodian Art",
+            "Indo-Champan Art"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Gautam Buddha was elevated to the position of God during the period of",
+        "answer": "Kanishka",
+        "choices": [
+            "Kanishka",
+            "Ashoka",
+            "Chandragupta Vikramaditya",
+            "Harsha"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Where is Odantipuri (Uddandapura) Mahavihar located?",
+        "answer": "Bihar Sharif",
+        "choices": [
+            "Bihar Sharif",
+            "Bhagalpur",
+            "Nalanda",
+            "Bengal"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Odantipuri (Uddandapura) Mahavihar was established by",
+        "answer": "Gopal",
+        "choices": [
+            "Gopal",
+            "Kumargupta",
+            "Dharampala",
+            "Ajatshatru"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Nalanda University was founded during the dynasty of",
+        "answer": "Gupta",
+        "choices": [
+            "Gupta",
+            "Kushan",
+            "Maurya",
+            "Pala"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Why was Nalanda University famous in the world?",
+        "answer": "Buddhist Religious Philosophy",
+        "choices": [
+            "Buddhist Religious Philosophy",
+            "Medical Science",
+            "Philosophy",
+            "Chemical Science"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the founder of Nalanda University?",
+        "answer": "Kumargupta",
+        "choices": [
+            "Kumargupta",
+            "Chandragupta Vikramaditya",
+            "Dharampala",
+            "Pushyagupta"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Nav Nalanda Mahavihar is famous for",
+        "answer": "Pali Research Centre",
+        "choices": [
+            "Pali Research Centre",
+            "Museum",
+            "Hsuan-Tsang Memorial",
+            "Birth place of Mahavir"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which one of the following is not common between Buddhism and Jainism?",
+        "answer": "Self-Mortification",
+        "choices": [
+            "Self-Mortification",
+            "Ahimsa",
+            "Indifference to Vedas",
+            "Rejection of Rituals"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The painting of Bodhisattva Padmapani is located at",
+        "answer": "Ajanta",
+        "choices": [
+            "Ajanta",
+            "Ellora",
+            "Rajgir",
+            "Barabar Hills"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Where was Mahavira Swami born",
+        "answer": "Kundgram (Vaishali)",
+        "choices": [
+            "Kundgram (Vaishali)",
+            "Pataliputra (Patna)",
+            "Rajgriha (Rajgir)",
+            "Lumbini"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Mahavir Jain breathed his last at",
+        "answer": "Pavapuri",
+        "choices": [
+            "Pavapuri",
+            "Kundgram (Vaishali)",
+            "Rajgriha (Rajgir)",
+            "Kapilvastu"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The salvation place of Mahavirji, the originator of Jain religion, is located at",
+        "answer": "Jrimbhikagrama (Jamui)",
+        "choices": [
+            "Jrimbhikagrama (Jamui)",
+            "Kundgram (Vaishali)",
+            "Rajgriha (Rajgir)",
+            "Bodh Gaya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Triratna or Three Jewels i.e. right knowledge, right faith and right action are related to which of the following?",
+        "answer": "Jainism",
+        "choices": [
+            "Jainism",
+            "Buddhism",
+            "Hinduism",
+            "Christianity"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following is the earliest holy book of Jain?",
+        "answer": "Fourteen Purvas",
+        "choices": [
+            "Fourteen Purvas",
+            "Fourteen Uppurva",
+            "Twelve angas",
+            "Twelve Upangas"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the first disciple of Lord Mahavira",
+        "answer": "Jamali",
+        "choices": [
+            "Jamali",
+            "Yashoda",
+            "Bipin",
+            "Prabhash"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Ajivika sect was founded by",
+        "answer": "Makkhali Gosala",
+        "choices": [
+            "Makkhali Gosala",
+            "Anand",
+            "Rahulabhadra ",
+            "Upali"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who used the caves of Barabar as their shelter-house?",
+        "answer": "Ajivikas",
+        "choices": [
+            "Ajivikas",
+            "Jains",
+            "Tantrikas",
+            "Buddhists"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who of the following kings was strongly inclined towards Jainism?",
+        "answer": "Kharavela",
+        "choices": [
+            "Kharavela",
+            "Dasaratha",
+            "Brihadrath",
+            "Huvishk"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Gorathagiri in the Barabar Hills was conquered by",
+        "answer": "Kharavela",
+        "choices": [
+            "Kharavela",
+            "Rajaraja Chola",
+            "Menander",
+            "Pushyamitra Sunga"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Nathpanthis, Siddhas and Yogis made devotional religion popular in",
+        "answer": "Northern India",
+        "choices": [
+            "Northern India",
+            "Southern India",
+            "Eastern India",
+            "Western India"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who contributes the most in the development of Bhagavata sect?",
+        "answer": "Gupta",
+        "choices": [
+            "Gupta",
+            "Persian",
+            "Indo-Greek people",
+            "Kushan"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In ancient times, the area to the south of the Ganga was known as",
+        "answer": "Magadh",
+        "choices": [
+            "Magadh",
+            "Chola",
+            "Anarta",
+            "Takshashila"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which was the first capital of ancient Mahajanapada Magadh?",
+        "answer": "Rajgriha (Rajgir)",
+        "choices": [
+            "Rajgriha (Rajgir)",
+            "Pataliputra (Patna)",
+            "Vaishali",
+            "Anga"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which ruler founded the beautiful city, Pataliputra?",
+        "answer": "Ajatashatru",
+        "choices": [
+            "Ajatashatru",
+            "Bimbisara",
+            "Bindusara",
+            "Udayin"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "By which ruler Pataliputra was chosen as a capital for the first time?",
+        "answer": "Udayin",
+        "choices": [
+            "Udayin",
+            "Ajatashatru",
+            "Kalashoka",
+            "Kanishka"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "According to Mahavamsa, Bimbisara ascended the throne at the age of ",
+        "answer": "15 years",
+        "choices": [
+            "15 years",
+            "18 years",
+            "20 years",
+            "12 years"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In which century did the first Magadhan Empire rise?",
+        "answer": "6th centurey BCE",
+        "choices": [
+            "6th centurey BCE",
+            "4th centurey BCE",
+            "7th centurey BCE",
+            "5th centurey BCE"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Magadha and Anga plains are part of which of the following?",
+        "answer": "Middle Ganga Valley",
+        "choices": [
+            "Middle Ganga Valley",
+            "Upper Ganga Valley",
+            "Lower Ganga Valley",
+            "Lower Brahmputra Valley"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Where was the world's first republican system in the 6th century BCE?",
+        "answer": "Vaishali",
+        "choices": [
+            "Vaishali",
+            "Athens",
+            "Pataliputra",
+            "Spata"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The list of sixteen Mahajanapadas is available in",
+        "answer": "Anguttar Nikaya",
+        "choices": [
+            "Anguttar Nikaya",
+            "Mahabharata",
+            "Chandogya Upanishad",
+            "Samyukta Nikaya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "What was the name of the dynasty of Ajatashatru?",
+        "answer": "Haryanka",
+        "choices": [
+            "Haryanka",
+            "Maurya",
+            "Gupta",
+            "Nanda"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the physician of Magadha ruler Bimbisara?",
+        "answer": "Jeevaka",
+        "choices": [
+            "Jeevaka",
+            "Shilabhadra",
+            "Vijayaena",
+            "Manu"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which dynasty did rule over Magadha after Nanda Dynasty?",
+        "answer": "Maurya",
+        "choices": [
+            "Maurya",
+            "Shunga",
+            "Gupta",
+            "Kushan"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the last king of Karnata dynasty?",
+        "answer": "Harisimhadev",
+        "choices": [
+            "Harisimhadev",
+            "Ramsimhadev",
+            "Nanyadeva",
+            "Narsimhadeva"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which one of the following rulers of the Magadha was the contemporary of Alexander?",
+        "answer": "Dhanananda",
+        "choices": [
+            "Dhanananda",
+            "Mahapadmananda",
+            "Sukalpa",
+            "Chandragupta Maurya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The first empire was established by which ruler in India?",
+        "answer": "Chandragupta Maurya",
+        "choices": [
+            "Chandragupta Maurya",
+            "Ashoka",
+            "Kanishka",
+            "Chandragupta II - Vikramaditya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Chandragupta Maurya figures prominently in the book of",
+        "answer": "Vishakhadatta",
+        "choices": [
+            "Vishakhadatta",
+            "Bhasa",
+            "Surdraka",
+            "Ashvaghosha"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who recognised Sandoorkottos as Chandragupta Maurya?",
+        "answer": "William Jones",
+        "choices": [
+            "William Jones",
+            "V. Smith",
+            "R. K. Mukharjee",
+            "D. R. Bhandarkar"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Chandragupta's palace situated at Pataliputra is mainly made up of",
+        "answer": "Woods",
+        "choices": [
+            "Woods",
+            "Bricks",
+            "Stones",
+            "Clay"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who amongst the following Mauryan rulers did conquer the Deccan?",
+        "answer": "Chandragupta Maurya",
+        "choices": [
+            "Chandragupta Maurya",
+            "Ashoka",
+            "Bindusara",
+            "Kunala"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which book describe Bindusara as an anointed Kshtriya?",
+        "answer": "Divyadana",
+        "choices": [
+            "Divyadana",
+            "Rajatarangini",
+            "Arthashastra",
+            "Indica"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The inscription which proves Chandragupta's sway over western India is",
+        "answer": "Junagarh Rock Inscription of Rudradaman",
+        "choices": [
+            "Junagarh Rock Inscription of Rudradaman",
+            "Kalinga Rock Inscriptions",
+            "Girnar Rock Inscription of Ashoka",
+            "Sopara Rock Inscription of Ashoka"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which one territory of the following was not a part of Ashoka's empire?",
+        "answer": "Sri Lanka",
+        "choices": [
+            "Sri Lanka",
+            "Afghanistan",
+            "Bihar",
+            "Kalinga"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "A Buddhist Council during the reign of  Ashoka was held at",
+        "answer": "Pataliputra",
+        "choices": [
+            "Pataliputra",
+            "Vaishali",
+            "Rajgir",
+            "Kanauj"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Language used in the incription of Ashoka is ",
+        "answer": "Prakrit",
+        "choices": [
+            "Prakrit",
+            "Sanskrit",
+            "Pali",
+            "Hindi"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which one of the following scripts of ancient India was written from right to left?",
+        "answer": "Kharosthi",
+        "choices": [
+            "Kharosthi",
+            "Brahmi",
+            "Devanagri",
+            "Kaithi"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who first discovered the Brahmi script?",
+        "answer": "James Prinsep",
+        "choices": [
+            "James Prinsep",
+            "A Cunningham",
+            "A. H. Dani",
+            "Buhler"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The name by which Ashoka is referred to in his incriptions is",
+        "answer": "Priyadarshi",
+        "choices": [
+            "Priyadarshi",
+            "Chakravarti",
+            "Dharamadeva",
+            "Dharmakirti"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The only pillar on which Ashoka declares himself as the emperor of Magadha",
+        "answer": "Bhabru Pillar",
+        "choices": [
+            "Bhabru Pillar",
+            "Minor Pillar of Maski",
+            "Rummindei Pillar",
+            "Queen Pillar"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Megasthenes was the ambassador of",
+        "answer": "Seleucus I Nicator",
+        "choices": [
+            "Seleucus I Nicator",
+            "Alexander",
+            "Darius",
+            "Napolean"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In how many categories did Megasthenes divide the Indian society?",
+        "answer": "Seven",
+        "choices": [
+            "Seven",
+            "Six",
+            "Five",
+            "Four"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The division of Mauryan society into seven classes is particularly mentioned in",
+        "answer": "The Indica of Megasthenes",
+        "choices": [
+            "The Indica of Megasthenes",
+            "Kautilya's Arthashastra",
+            "Ashokan Rock Edicts",
+            "The Puranas"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The description of the administration of Pataliputra is available in",
+        "answer": "The Indica of Megasthenes",
+        "choices": [
+            "The Indica of Megasthenes",
+            "Kautilya's Arthashastra",
+            "Ashokan Rock Edicts",
+            "Divyanadan"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "What is the name of Megasthenes book?",
+        "answer": "Indica",
+        "choices": [
+            "Indica",
+            "Rig Veda",
+            "Purana",
+            "Economics"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the author of Indica?",
+        "answer": "Megasthenes",
+        "choices": [
+            "Megasthenes",
+            "Deimachus",
+            "Vishnugupta",
+            "Pliny"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The last Mauryan emperor was",
+        "answer": "Brihadratha",
+        "choices": [
+            "Brihadratha",
+            "Jaloka",
+            "Avanti Verma",
+            "Nandi Vardhana"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The decline of the Mauryan Empire was largely due to the economic consequences of Ashoka's policy. Who believed in this fact?",
+        "answer": "Romila Thapar",
+        "choices": [
+            "Romila Thapar",
+            "V. A. Smith",
+            "D. N. Jha",
+            "H. C. Raychaudhari"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Pradyota was the king of",
+        "answer": "Avanti",
+        "choices": [
+            "Avanti",
+            "Kasi",
+            "Koshala",
+            "Magadha"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which inscription tells about the various achievements of Rudraman-I?",
+        "answer": "Junagadh",
+        "choices": [
+            "Junagadh",
+            "Bhitari",
+            "Nasik",
+            "Sanchi"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "According to the rock inscription in Sanskrit, composed around 2nd Century CE, Sudarshan Lake, an artificial reservoir, was repaired by",
+        "answer": "Rudradaman",
+        "choices": [
+            "Rudradaman",
+            "Harsha",
+            "Kanishka",
+            "Ashoka"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who among the following first issued gold coins on a large scale?",
+        "answer": "Vima Kadphises",
+        "choices": [
+            "Vima Kadphises",
+            "Pushyamitra Shunga",
+            "Menander",
+            "Gautamiputra Satkarni"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which dynasty ruled over India after Shunga dynasty?",
+        "answer": "Kanva",
+        "choices": [
+            "Kanva",
+            "Satvahana",
+            "Gupta",
+            "Kushan"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Art of Gandhara style flourished during the reign of",
+        "answer": "Kushans",
+        "choices": [
+            "Kushans",
+            "Guptas",
+            "Mauryas",
+            "Kanvas"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "King Kharavela is related to",
+        "answer": "Hathigumpha Inscription",
+        "choices": [
+            "Hathigumpha Inscription",
+            "Piller inscription of Girnar",
+            "Pillar inscription of Junagarh",
+            "Sarnath Inscription"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Kaling king Kharavel was related to ",
+        "answer": "Mahameghavahana / Chedi Dynasty",
+        "choices": [
+            "Mahameghavahana / Chedi Dynasty",
+            "Satvahana Dynasty",
+            "Rath-Bhojak Dynasty",
+            "Maurya Dynasty"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which Gupta ruler assumed the throne after killing his elder brother?",
+        "answer": "Chandragupta II - Vikramaditya",
+        "choices": [
+            "Chandragupta II - Vikramaditya",
+            "Shri Gupta",
+            "Samudragupta",
+            "Skandagupta"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who is called the Napolean of Ancient India?",
+        "answer": "Samudragupta",
+        "choices": [
+            "Samudragupta",
+            "Shri Gupta",
+            "Chandragupta Maurya",
+            "Pushyamitra Sunga"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "According to Chinese source, Meghavarman, the ruler of Sri Lanka, sent a missionary to which of the following Gupta Kings for permission to build a Buddhist temple at Gaya?",
+        "answer": "Samudragupta",
+        "choices": [
+            "Samudragupta",
+            "Chandragupta I",
+            "Chandragupta II - Vikramaditya",
+            "Shir Gupta"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The Gupta emperor who defeated the Hunas was",
+        "answer": "Skandagupta",
+        "choices": [
+            "Skandagupta",
+            "Chandragupta I",
+            "Samudragupta",
+            "Chandragupta II - Vikramaditya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which Gupta ruler is mentioned as Param Bhagawata in Nalanda Copper Plates?",
+        "answer": "Samudragupta",
+        "choices": [
+            "Samudragupta",
+            "Chandragupta I",
+            "Chandragupta II - Vikramaditya",
+            "Skandagupta"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "In Pre-Gupta times, a large number of lead coins were issued by the",
+        "answer": "Satavahanas",
+        "choices": [
+            "Satavahanas",
+            "Shakas",
+            "Kushans",
+            "Mauryas"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The gradual decline of towns was an important feature of which period?",
+        "answer": "Gupta period",
+        "choices": [
+            "Gupta period",
+            "Pratihara era",
+            "Rashtrakut era",
+            "Satavahana era"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which ruling dynasty donated maximum villages to temples and Brahmins?",
+        "answer": "Gupta Dynasty",
+        "choices": [
+            "Gupta Dynasty",
+            "Pala Dynasty",
+            "Rashtrakuta",
+            "Pratihara"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "What was the land revenue rate in Gupta age?",
+        "answer": "Sixth part of the production",
+        "choices": [
+            "Sixth part of the production",
+            "tenth part of the production",
+            "half part of the production",
+            "third part of the production"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "What is the land revenue rate in religious books?",
+        "answer": "One-sixth",
+        "choices": [
+            "One-sixth",
+            "One-eighth",
+            "One-third",
+            "One-fourth"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which type of land was called Aprahat",
+        "answer": "Without cultivated forest land",
+        "choices": [
+            "Without cultivated forest land",
+            "Irrigated land",
+            "Dense Forest Land",
+            "Cultivated Land"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Chinese traveller Sungyun or Song Yun came to India during",
+        "answer": "518 to 521 CE",
+        "choices": [
+            "518 to 521 CE",
+            "525 to 5529 CE",
+            "545 to 552 CE",
+            "592 to 597 CE"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The account of the Moroccan traveller Ibn Battuta is known as",
+        "answer": "Rihla",
+        "choices": [
+            "Rihla",
+            "Tarikh-i-Rashidi",
+            "Subh-u'l-Asha",
+            "Riyaz-us-salatin"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following philosophies of India propounded the atom theory?",
+        "answer": "Vaisheshika",
+        "choices": [
+            "Vaisheshika",
+            "Nyaya",
+            "Sankhya",
+            "Yoga"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who has written the Harshacharita",
+        "answer": "Banabhatta",
+        "choices": [
+            "Banabhatta",
+            "Aryabhatta",
+            "Vishnugupta",
+            "Parimalgupta"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who laid the foundation of Vardhana Dynasty?",
+        "answer": "Pushyabhuti",
+        "choices": [
+            "Pushyabhuti",
+            "Rajyavardhana",
+            "Harshavardhana",
+            "Prabhakarvardhana"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which Chinese traveller visited India during Haravardhana's rule?",
+        "answer": "Hiuen-Tsang",
+        "choices": [
+            "Hiuen-Tsang",
+            "Fa-Hien",
+            "I-Tsing",
+            "Taranath"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The famous Chinese pilgrim Fa-Hien visited India during the reign of",
+        "answer": "Chandragupta II - Vikramaditya",
+        "choices": [
+            "Chandragupta II - Vikramaditya",
+            "Harshavardhana",
+            "Ramagupta",
+            "Chandragupta I"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "During Hiuen-Tsang tour in India most famous city for the production of cotton clothes was",
+        "answer": "Mathura",
+        "choices": [
+            "Mathura",
+            "Varanasi",
+            "Pataliputra",
+            "Kanchi"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Chinese traveller Hiuen-Tsang studied at which univesity",
+        "answer": "Nalanda",
+        "choices": [
+            "Nalanda",
+            "Taxilla",
+            "Vikramshila",
+            "Uddandapura"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Chinese traveller I-tsing was on the tour of Bihar in about",
+        "answer": "671 CE",
+        "choices": [
+            "671 CE",
+            "405 CE",
+            "635 CE",
+            "637 CE"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Nalanda Vihar was destroyed by",
+        "answer": "Bakhtiyar Khalji",
+        "choices": [
+            "Bakhtiyar Khalji",
+            "Qutubuddin Aibak",
+            "Muhammad Bin Tughlaq",
+            "Alauddin Khalji"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the real founder of Turk rule in Bihar?",
+        "answer": "Bakhtiyar Khalji",
+        "choices": [
+            "Bakhtiyar Khalji",
+            "Malik Husarnuddin",
+            "Ibrahim",
+            "Dariya Khan Noohani"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "How many rulers of Aryavarta have been mentioned in 21st line of Allahabad Pillar Inscription?",
+        "answer": "Nine",
+        "choices": [
+            "Nine",
+            "Eight",
+            "Seven",
+            "Six"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who has argued that the Gupta and post-Gupta periods saw a decline in the money economy?",
+        "answer": "R. S. Sharma",
+        "choices": [
+            "R. S. Sharma",
+            "R. S. Tripathi",
+            "Radha Kumud Mookerjee",
+            "D. C. Sircar"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the ruler of India during the 7th cneture CE known for his patronage of Buddhism and support for cultural activities?",
+        "answer": "Harsha",
+        "choices": [
+            "Harsha",
+            "Ashoka",
+            "Chandragupta Maurya",
+            "Vikramaditya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The associates of Khajuraho Temple Architecture were",
+        "answer": "Chandela",
+        "choices": [
+            "Chandela",
+            "Chahamana",
+            "Gurjara-Pratihara",
+            "Paramara"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The attractive doors of the temples of South India are called",
+        "answer": "Gopuram",
+        "choices": [
+            "Gopuram",
+            "Shikhara",
+            "Devalaya",
+            "Mandapam"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who established trade relations with Roman empire?",
+        "answer": "Cheras",
+        "choices": [
+            "Cheras",
+            "Kushanas",
+            "Western Shakas",
+            "Vakatakas"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The Chola age was most famous for",
+        "answer": "Village Assemblies",
+        "choices": [
+            "Village Assemblies",
+            "Trade with Ceylon",
+            "Advancement in Tamil Culture",
+            "War with the Rashtrakutas"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the founder of Chola Dynasty?",
+        "answer": "Vijayalaya",
+        "choices": [
+            "Vijayalaya",
+            "Karikal",
+            "Aditya I",
+            "Rajaraja I"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which of the following dynasties is not mentioned in Sangam literature?",
+        "answer": "Kadamb",
+        "choices": [
+            "Kadamb",
+            "Chola",
+            "Chera",
+            "Pandya"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Why was uraiyur famous in Sangam Era?",
+        "answer": "Important trade centre of cotton",
+        "choices": [
+            "Important trade centre of cotton",
+            "Important trade centre of spices",
+            "Important trade centre of domestic trade",
+            "Important trade centre of foreign trade"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the writer of Mudrarakshasa?",
+        "answer": "Vishakhadatta",
+        "choices": [
+            "Vishakhadatta",
+            "Aswaghosha",
+            "Kalidasa",
+            "Bhasa"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Kumarsambhavam an epic poem was composed by",
+        "answer": "Kalidasa",
+        "choices": [
+            "Kalidasa",
+            "Banabhatta",
+            "Harishena",
+            "Chanda Bardai"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "What is the name of Kalhana's book?",
+        "answer": "Rajtarangini",
+        "choices": [
+            "Rajtarangini",
+            "Arthashastra",
+            "Indica",
+            "Purana"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "The author of Swapanavasavadatta is",
+        "answer": "Bhasa",
+        "choices": [
+            "Bhasa",
+            "Kalidasa",
+            "Bhavabhutti",
+            "Rajashekhara"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who wrote the book Kiratarjuniya?",
+        "answer": "Bharavi",
+        "choices": [
+            "Bharavi",
+            "Bhatti",
+            "Shudrak",
+            "Kalidasa"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Epigraphic records (Inscriptions) suggest that in ancient India, the rulers of Bihar had contact with",
+        "answer": "Java-Sumatra",
+        "choices": [
+            "Java-Sumatra",
+            "Thailand",
+            "Burma",
+            "Cambodia"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which ruler of Bengal founded the ancient University called Vikramshila",
+        "answer": "Dharampala",
+        "choices": [
+            "Dharampala",
+            "Gopala",
+            "Devpala",
+            "Mahipala"
         ]
     },
     {
@@ -6586,6 +6311,776 @@
             "Land of Angels",
             "Arya Pradesh",
             "Land of Greenry"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "India's territorial limit extends towards the sea up to how many nautical miles from the coast?",
+        "answer": "12 nautical miles",
+        "choices": [
+            "12 nautical miles",
+            "200 nautical miles",
+            "24 nautical miles",
+            "100 nautical miles"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "India's Exclusive Economic Zone extends towards the sea up to how many nautical miles from the coast?",
+        "answer": "200 nautical miles",
+        "choices": [
+            "200 nautical miles",
+            "12 nautical miles",
+            "24 nautical miles",
+            "100 nautical miles"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "How many latitudes are there on the globe drawn at 1 degree interval?",
+        "answer": 179,
+        "choices": [
+            179,
+            180,
+            360,
+            359
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "How much is the difference between Indian Standard Time (IST) and Greenwich Mean Time (GMT)?",
+        "answer": "plus 5 hour 30 minutes",
+        "choices": [
+            "plus 5 hour 30 minutes",
+            "minus 5 hour 30 minutes",
+            "minus 4 hour 30 minutes",
+            "plus 4 hour 30 minutes"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "On which plateau, the Tropic of Cancer and the Indian Standard Time intersect each other?",
+        "answer": "Baghelkhand",
+        "choices": [
+            "Baghelkhand",
+            "Bundelkhand",
+            "Kaimur",
+            "Chhota-Nagpur"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "On which longitude does Indian Standard Time coicide?",
+        "answer": "82deg 30min E",
+        "choices": [
+            "82deg 30min E",
+            "85deg 30min W",
+            "88deg 30min E",
+            "80deg 30min W"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Difference of one degree longitude will correspond to how much time",
+        "answer": "4 minutes",
+        "choices": [
+            "4 minutes",
+            "6 minutes",
+            "60 minutes",
+            "30 minutes"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the local time of Thimphu (Bhutan) located at 90deg E longitude when the time at Greenwich (0deg) is 12:00 noon?",
+        "answer": "6:00 pm",
+        "choices": [
+            "6:00 pm",
+            "4:00 pm",
+            "5:00 pm",
+            "6:00 am"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The foothills region of Himalayas is",
+        "answer": "Shiwalik",
+        "choices": [
+            "Shiwalik",
+            "Great Himalayas",
+            "Trans-Himalayas",
+            "Lesser Himalayas"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following areas is not landslide-prone area?",
+        "answer": "Eastern Ghats",
+        "choices": [
+            "Eastern Ghats",
+            "Western Ghats",
+            "Himalayan Region",
+            "North-Eastern Region"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The highest peak in the Eastern Ghats of India is",
+        "answer": "Arma Konda (Jhindhagada)",
+        "choices": [
+            "Arma Konda (Jhindhagada)",
+            "Mahendragiri",
+            "Anai Mudi",
+            "Kanchenjunga"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The highest peak in the Western Ghats of India is",
+        "answer": "Anai Mudi",
+        "choices": [
+            "Anai Mudi",
+            "Mahendragiri",
+            "Arma Konda (Jhindhagada)",
+            "Kanchenjunga"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The highest mountain peak in India?",
+        "answer": "K2 (Godwin-Austen)",
+        "choices": [
+            "K2 (Godwin-Austen)",
+            "Everest",
+            "Nanda Devi",
+            "Kanchenjunga"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Kailash Range is part of which larger mountain system?",
+        "answer": "Trans-Himalaya",
+        "choices": [
+            "Trans-Himalaya",
+            "Great Himalayas",
+            "Shiwalik",
+            "Lesser Himalayas"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Mount Everest lies in which mountain range?",
+        "answer": "Great Himalayas",
+        "choices": [
+            "Great Himalayas",
+            "Trans-Himalaya",
+            "Shiwalik",
+            "Lesser Himalayas"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which is the highest mountain peak entirely within India (not on the border)?",
+        "answer": "Nanda Devi",
+        "choices": [
+            "Nanda Devi",
+            "Kanchenjunga",
+            "Trishul",
+            "Kamet"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Shiwalik series was formed in",
+        "answer": "Cenozoic",
+        "choices": [
+            "Cenozoic",
+            "Proterozoic",
+            "Mesozoic",
+            "Palaeozoic"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Someshwar range is a part of which of the following mountain ranges?",
+        "answer": "Shiwalik",
+        "choices": [
+            "Shiwalik",
+            "Satpura",
+            "Vindhayan",
+            "Eastern Ghats"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Atal Tunnel is across which one of the following Himalayan ranges?",
+        "answer": "Eastern Pir Panjal",
+        "choices": [
+            "Eastern Pir Panjal",
+            "Western Pir Panjal",
+            "Zanskar",
+            "Ladakh"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "At which of the following hills the Eastern Ghats join the Western Ghats?",
+        "answer": "Nilgiri Hills",
+        "choices": [
+            "Nilgiri Hills",
+            "Palni Hills",
+            "Anaimudi Hills",
+            "Shevaroy Hills"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Western Ghats in Maharashtra and Karnataka is known as",
+        "answer": "Sahyadri",
+        "choices": [
+            "Sahyadri",
+            "Nilgiri",
+            "Shiwalik",
+            "Nandi"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Hills situated closer to Kanyakumari are",
+        "answer": "Cardamom Hills",
+        "choices": [
+            "Cardamom Hills",
+            "Nilgiri Hills",
+            "Anaialai Hills",
+            "Shevaroy Hills"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following is not a part of the Meghalaya Plateau?",
+        "answer": "Bhuban Hills",
+        "choices": [
+            "Bhuban Hills",
+            "Garo Hills",
+            "Khasi Hills",
+            "Jaintia Hills"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Extra peninsular mountains of India were formed during",
+        "answer": "Cenozoic Era",
+        "choices": [
+            "Cenozoic Era",
+            "Palaeozoic Era",
+            "Aozoic Era",
+            "Mesozoic Era"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Chhota-Nagpur Plateau is a",
+        "answer": "front sloping",
+        "choices": [
+            "front sloping",
+            "pitfall",
+            "foothill",
+            "plain subland"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following districts does not have Dharwar geological formations?",
+        "answer": "Rohtas",
+        "choices": [
+            "Rohtas",
+            "Jamui",
+            "Munger",
+            "Nawada"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "How many coastal states are there in India?",
+        "answer": "Nine",
+        "choices": [
+            "Nine",
+            "Eight",
+            "Thirteen",
+            "Eleven"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Island group Lakshadweep is",
+        "answer": "Accumulation of Coral Reef",
+        "choices": [
+            "Accumulation of Coral Reef",
+            "Accumulation of Volcanic substances",
+            "Sedimentated Soil",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Lakshadweep consists of how many islands?",
+        "answer": 36,
+        "choices": [
+            36,
+            16,
+            17,
+            26
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The first session of Constituent Assembly was held on",
+        "answer": "9th December 1946",
+        "choices": [
+            "9th December 1946",
+            "15th August 1947",
+            "26th November 1949",
+            "26th January 1946"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Indian Constitution was adopted by the Constituent Assembly on",
+        "answer": "26th Novemeber 1949",
+        "choices": [
+            "26th Novemeber 1949",
+            "26th Novemeber 1950",
+            "26th January 1950",
+            "15th August 1949"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "January 26 was selected as the date for the inaugaration of the Constitution, because",
+        "answer": "The Congress had observed it as the Independence Day in 1930",
+        "choices": [
+            "The Congress had observed it as the Independence Day in 1930",
+            "It was considered to be an auspicious day",
+            "On that day the Quit India Movement was started in 1942",
+            "MK Gandhi returned to India on that day"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who of the following was the chairman of the Provincial Constitution Committee of the Constituent Assembly of India",
+        "answer": "Sardar Vallabhbhai Patel",
+        "choices": [
+            "Sardar Vallabhbhai Patel",
+            "Rajendra Prasad",
+            "Bhim Rao Ambedkar",
+            "K. M. Munshi"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who was the labour Minister in Jawaharlal Nehru's Provisional Government?",
+        "answer": "Jagjivan Ram",
+        "choices": [
+            "Jagjivan Ram",
+            "Rajendra Prasad",
+            "Aruna Asaf Ali",
+            "C. Rajgopalachari"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Indian Constitution was adopted by",
+        "answer": "Constituent Assembly",
+        "choices": [
+            "Constituent Assembly",
+            "British Parliament",
+            "Governor-General",
+            "Indian Parliament"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Constitution Day of India is celebrated on",
+        "answer": "26th Novemeber",
+        "choices": [
+            "26th Novemeber",
+            "26th January",
+            "15th August",
+            "14th August"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who was the President of Indian National Congress at the time of partition of India?",
+        "answer": "J. B. Kripalani",
+        "choices": [
+            "J. B. Kripalani",
+            "Jawaharlal Nehru",
+            "Maulana Abul Kalam Azad",
+            "C. Rajgopalachari"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "In Indian political system which one is supereme?",
+        "answer": "The Constitution",
+        "choices": [
+            "The Constitution",
+            "The Supreme Court",
+            "The President",
+            "The Parliament"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following subject lies in the concurrent list?",
+        "answer": "Education",
+        "choices": [
+            "Education",
+            "Police",
+            "Defence",
+            "Agriculture"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Constitution Tenth schedule relates to",
+        "answer": "Anti-Defection Law",
+        "choices": [
+            "Anti-Defection Law",
+            "National Language of India",
+            "Administration of SC and ST Area",
+            "Judicial Review"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Land Reform comes under the subjects of",
+        "answer": "State List",
+        "choices": [
+            "State List",
+            "Union List",
+            "Concurrent List",
+            "National List"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following is not a part in the Eleventh Schedule of the Constitution?",
+        "answer": "Rural Sports",
+        "choices": [
+            "Rural Sports",
+            "Libraries",
+            "Fuel and Fodder",
+            "Technical Training"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What was the duration in the making of the Indian Constitution?",
+        "answer": "2 years 11 monts and 18 days",
+        "choices": [
+            "2 years 11 monts and 18 days",
+            "1 years 11 monts and 18 days",
+            "3 years 11 monts and 18 days",
+            "2 years 10 monts and 18 days"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The provision of amending the constitutional provision is given in",
+        "answer": "Part XX Article 368",
+        "choices": [
+            "Part XX Article 368",
+            "Part XIX Article 356",
+            "Part XX Article 356",
+            "Part XXI Article 368"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following characterstics is not true for unitary form of Government?",
+        "answer": "Ideal for large countries",
+        "choices": [
+            "Ideal for large countries",
+            "Flexible",
+            "Swift Decision",
+            "Uniformity of Laws"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Democracy of India is based on the fact that",
+        "answer": "Public enjoys the right to choose and change the Government",
+        "choices": [
+            "Public enjoys the right to choose and change the Government",
+            "Fundamental Rights have been provided",
+            "The Constitution is written",
+            "Directive Principles of State policy have been provided for here"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following statements is correct regarding parliamentary form of government?",
+        "answer": "Executive is responsible to the legislature",
+        "choices": [
+            "Executive is responsible to the legislature",
+            "The legislature is responsible to Executive",
+            "The Legislative and the Executive are independent",
+            "The Legislature is responsible to Judiciary"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the nature of the Indian Constitution",
+        "answer": "Federal in nature but unitary in spirit",
+        "choices": [
+            "Federal in nature but unitary in spirit",
+            "Federal",
+            "Unitary",
+            "Parliamentary"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "After Independence, in which year were the Indian states reorganised on the linguistic basis?",
+        "answer": 1956,
+        "choices": [
+            1956,
+            2000,
+            1947,
+            1950
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Chief Minister of Union Territory, where such a setup exists, is appointed by the",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Governor",
+            "Lieutenant Governor",
+            "Chief Justice of India"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Creation of a new state requires which majority for Consitutional Amendment.",
+        "answer": "Simple",
+        "choices": [
+            "Simple",
+            "Two-third",
+            "Three-fourth",
+            "Two-third plus ratification by half of all states"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Delhi is a/an",
+        "answer": "Union Territory",
+        "choices": [
+            "Union Territory",
+            "State",
+            "Autonomous Council",
+            "Dominion"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Sikkim became an associate state of India under",
+        "answer": "35th Amendment",
+        "choices": [
+            "35th Amendment",
+            "45th Amendment",
+            "42nd Amendment",
+            "36th Amendment"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "On which day Sikkim gained full statehood in India",
+        "answer": "16th May 1975",
+        "choices": [
+            "16th May 1975",
+            "15th May 1975",
+            "16th June 1975",
+            "15th July 1975"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "In which year did the state of Jharkhand come into existence?",
+        "answer": 2000,
+        "choices": [
+            2000,
+            1975,
+            1956,
+            1987
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Bihar as an Indian State was formed in ",
+        "answer": 1912,
+        "choices": [
+            1912,
+            1956,
+            1987,
+            1911
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The phrase equality before law used in Article 14 of the Indian Constitution has been borrowed from the Constitution of",
+        "answer": "Britain",
+        "choices": [
+            "Britain",
+            "USA",
+            "France",
+            "Canada"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The phrase equality protection of law used in Article 14 of the Indian Constitution has been borrowed from the Constitution of",
+        "answer": "USA",
+        "choices": [
+            "USA",
+            "Britain",
+            "France",
+            "Canada"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "From which country, the Indian Constitution has taken reference for the idea of the Fundamental Rights?",
+        "answer": "United States of America",
+        "choices": [
+            "United States of America",
+            "Ireland",
+            "United Kingdom",
+            "Canada"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following is given the power to enforce the Fundamental Rights by the Constitution?",
+        "answer": "The Supreme Court and High Courts",
+        "choices": [
+            "The Supreme Court and High Courts",
+            "All Courts in India",
+            "The Parliament",
+            "The President"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is meant by Rule of Law",
+        "answer": "One act for all and one judiciary for all",
+        "choices": [
+            "One act for all and one judiciary for all",
+            "One act for all and one state for all",
+            "One state for all and one judicary for all",
+            "All acts for one and one judiciary for all"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The description of Fundamental Rights for the Indian cititzens is in",
+        "answer": "Article 12 to 35",
+        "choices": [
+            "Article 12 to 35",
+            "Article 12 to 35",
+            "Article 16 to 40",
+            "Article 15 to 39"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Supreme Court's judgement of Indra Sawhney vs Union of India Case is related to which issue?",
+        "answer": "Regarding OBC reservation in Government Employment",
+        "choices": [
+            "Regarding OBC reservation in Government Employment",
+            "Doctrine of Basic Structure of Constitution",
+            "Reservation on promotion of SC",
+            "Extended reservation for ST"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which article of the Constitution of India is related with the Freedom of Press.",
+        "answer": "Article 19",
+        "choices": [
+            "Article 19",
+            "Article 20",
+            "Article 21",
+            "Article 22"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following can a court issue for enforcement of the Fundamental Rights?",
+        "answer": "Writ",
+        "choices": [
+            "Writ",
+            "Decree",
+            "Ordinance",
+            "Bill"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following is not a fundamental right?",
+        "answer": "Right to Property",
+        "choices": [
+            "Right to Property",
+            "Right to Constitutional Remedy",
+            "Right to Peaceful Assembly",
+            "Right to free movement all over the country"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Supreme Court has held that hoisting the National Flag atop the private buildings is a fundamental right of every citizen under",
+        "answer": "Article 19",
+        "choices": [
+            "Article 19",
+            "Article 14",
+            "Article 21",
+            "Article 25"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following rights conferred by the Constitution of India is also available to non-citizens?",
+        "answer": "Right to Constitutional Remedies",
+        "choices": [
+            "Right to Constitutional Remedies",
+            "Freedom of Speech",
+            "Freedom to move and settle in any part of the country",
+            "Freedom to accquire property"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "When was the Right to Education added through the amendment in the Constitution of India?",
+        "answer": "1st April 2010",
+        "choices": [
+            "1st April 2010",
+            "1st August 2010",
+            "2nd October 2010",
+            "1st December 2010"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Untouchability is abolished by which article of the Indian Constitution?",
+        "answer": "Article 17",
+        "choices": [
+            "Article 17",
+            "Article 19",
+            "Article 15",
+            "Article 14"
         ]
     },
     {

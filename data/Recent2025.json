@@ -2143,5 +2143,49 @@
             "Pir Panjal",
             "Zaskar"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Fourth of july is related to",
+        "answer": "American Independence day",
+        "choices": [
+            "American Independence day",
+            "American Republic Day",
+            "Birth of Jesus Christ",
+            "Christian Halloween"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "On which date 13 American colonies declared independence from Britain?",
+        "answer": "4th July 1776",
+        "choices": [
+            "4th July 1776",
+            "4th July 1786",
+            "1st July 1786",
+            "6th July 1776"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "How many American colonies signed the declaration of independence from Britain on 4th July 1776?",
+        "answer": "Thirteen",
+        "choices": [
+            "Thirteen",
+            "Eleven",
+            "Twelve",
+            "Ten"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Name the last Indian warship purchased from the foreign country recently?",
+        "answer": "INS Tamal",
+        "choices": [
+            "INS Tamal",
+            "INS Talwar",
+            "INS Trishul",
+            "INS Tarkash"
+        ]
     }
 ]

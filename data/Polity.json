@@ -1,0 +1,453 @@
+[
+    {
+        "sheet": "Polity",
+        "question": "The first session of Constituent Assembly was held on",
+        "answer": "9th December 1946",
+        "choices": [
+            "9th December 1946",
+            "15th August 1947",
+            "26th November 1949",
+            "26th January 1946"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Indian Constitution was adopted by the Constituent Assembly on",
+        "answer": "26th Novemeber 1949",
+        "choices": [
+            "26th Novemeber 1949",
+            "26th Novemeber 1950",
+            "26th January 1950",
+            "15th August 1949"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "January 26 was selected as the date for the inaugaration of the Constitution, because",
+        "answer": "The Congress had observed it as the Independence Day in 1930",
+        "choices": [
+            "The Congress had observed it as the Independence Day in 1930",
+            "It was considered to be an auspicious day",
+            "On that day the Quit India Movement was started in 1942",
+            "MK Gandhi returned to India on that day"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who of the following was the chairman of the Provincial Constitution Committee of the Constituent Assembly of India",
+        "answer": "Sardar Vallabhbhai Patel",
+        "choices": [
+            "Sardar Vallabhbhai Patel",
+            "Rajendra Prasad",
+            "Bhim Rao Ambedkar",
+            "K. M. Munshi"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who was the labour Minister in Jawaharlal Nehru's Provisional Government?",
+        "answer": "Jagjivan Ram",
+        "choices": [
+            "Jagjivan Ram",
+            "Rajendra Prasad",
+            "Aruna Asaf Ali",
+            "C. Rajgopalachari"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Indian Constitution was adopted by",
+        "answer": "Constituent Assembly",
+        "choices": [
+            "Constituent Assembly",
+            "British Parliament",
+            "Governor-General",
+            "Indian Parliament"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Constitution Day of India is celebrated on",
+        "answer": "26th Novemeber",
+        "choices": [
+            "26th Novemeber",
+            "26th January",
+            "15th August",
+            "14th August"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who was the President of Indian National Congress at the time of partition of India?",
+        "answer": "J. B. Kripalani",
+        "choices": [
+            "J. B. Kripalani",
+            "Jawaharlal Nehru",
+            "Maulana Abul Kalam Azad",
+            "C. Rajgopalachari"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "In Indian political system which one is supereme?",
+        "answer": "The Constitution",
+        "choices": [
+            "The Constitution",
+            "The Supreme Court",
+            "The President",
+            "The Parliament"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following subject lies in the concurrent list?",
+        "answer": "Education",
+        "choices": [
+            "Education",
+            "Police",
+            "Defence",
+            "Agriculture"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Constitution Tenth schedule relates to",
+        "answer": "Anti-Defection Law",
+        "choices": [
+            "Anti-Defection Law",
+            "National Language of India",
+            "Administration of SC and ST Area",
+            "Judicial Review"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Land Reform comes under the subjects of",
+        "answer": "State List",
+        "choices": [
+            "State List",
+            "Union List",
+            "Concurrent List",
+            "National List"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following is not a part in the Eleventh Schedule of the Constitution?",
+        "answer": "Rural Sports",
+        "choices": [
+            "Rural Sports",
+            "Libraries",
+            "Fuel and Fodder",
+            "Technical Training"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What was the duration in the making of the Indian Constitution?",
+        "answer": "2 years 11 monts and 18 days",
+        "choices": [
+            "2 years 11 monts and 18 days",
+            "1 years 11 monts and 18 days",
+            "3 years 11 monts and 18 days",
+            "2 years 10 monts and 18 days"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The provision of amending the constitutional provision is given in",
+        "answer": "Part XX Article 368",
+        "choices": [
+            "Part XX Article 368",
+            "Part XIX Article 356",
+            "Part XX Article 356",
+            "Part XXI Article 368"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following characterstics is not true for unitary form of Government?",
+        "answer": "Ideal for large countries",
+        "choices": [
+            "Ideal for large countries",
+            "Flexible",
+            "Swift Decision",
+            "Uniformity of Laws"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Democracy of India is based on the fact that",
+        "answer": "Public enjoys the right to choose and change the Government",
+        "choices": [
+            "Public enjoys the right to choose and change the Government",
+            "Fundamental Rights have been provided",
+            "The Constitution is written",
+            "Directive Principles of State policy have been provided for here"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following statements is correct regarding parliamentary form of government?",
+        "answer": "Executive is responsible to the legislature",
+        "choices": [
+            "Executive is responsible to the legislature",
+            "The legislature is responsible to Executive",
+            "The Legislative and the Executive are independent",
+            "The Legislature is responsible to Judiciary"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the nature of the Indian Constitution",
+        "answer": "Federal in nature but unitary in spirit",
+        "choices": [
+            "Federal in nature but unitary in spirit",
+            "Federal",
+            "Unitary",
+            "Parliamentary"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "After Independence, in which year were the Indian states reorganised on the linguistic basis?",
+        "answer": 1956,
+        "choices": [
+            1956,
+            2000,
+            1947,
+            1950
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Chief Minister of Union Territory, where such a setup exists, is appointed by the",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Governor",
+            "Lieutenant Governor",
+            "Chief Justice of India"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Creation of a new state requires which majority for Consitutional Amendment.",
+        "answer": "Simple",
+        "choices": [
+            "Simple",
+            "Two-third",
+            "Three-fourth",
+            "Two-third plus ratification by half of all states"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Delhi is a/an",
+        "answer": "Union Territory",
+        "choices": [
+            "Union Territory",
+            "State",
+            "Autonomous Council",
+            "Dominion"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Sikkim became an associate state of India under",
+        "answer": "35th Amendment",
+        "choices": [
+            "35th Amendment",
+            "45th Amendment",
+            "42nd Amendment",
+            "36th Amendment"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "On which day Sikkim gained full statehood in India",
+        "answer": "16th May 1975",
+        "choices": [
+            "16th May 1975",
+            "15th May 1975",
+            "16th June 1975",
+            "15th July 1975"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "In which year did the state of Jharkhand come into existence?",
+        "answer": 2000,
+        "choices": [
+            2000,
+            1975,
+            1956,
+            1987
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Bihar as an Indian State was formed in ",
+        "answer": 1912,
+        "choices": [
+            1912,
+            1956,
+            1987,
+            1911
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The phrase equality before law used in Article 14 of the Indian Constitution has been borrowed from the Constitution of",
+        "answer": "Britain",
+        "choices": [
+            "Britain",
+            "USA",
+            "France",
+            "Canada"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The phrase equality protection of law used in Article 14 of the Indian Constitution has been borrowed from the Constitution of",
+        "answer": "USA",
+        "choices": [
+            "USA",
+            "Britain",
+            "France",
+            "Canada"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "From which country, the Indian Constitution has taken reference for the idea of the Fundamental Rights?",
+        "answer": "United States of America",
+        "choices": [
+            "United States of America",
+            "Ireland",
+            "United Kingdom",
+            "Canada"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following is given the power to enforce the Fundamental Rights by the Constitution?",
+        "answer": "The Supreme Court and High Courts",
+        "choices": [
+            "The Supreme Court and High Courts",
+            "All Courts in India",
+            "The Parliament",
+            "The President"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is meant by Rule of Law",
+        "answer": "One act for all and one judiciary for all",
+        "choices": [
+            "One act for all and one judiciary for all",
+            "One act for all and one state for all",
+            "One state for all and one judicary for all",
+            "All acts for one and one judiciary for all"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The description of Fundamental Rights for the Indian cititzens is in",
+        "answer": "Article 12 to 35",
+        "choices": [
+            "Article 12 to 35",
+            "Article 12 to 35",
+            "Article 16 to 40",
+            "Article 15 to 39"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Supreme Court's judgement of Indra Sawhney vs Union of India Case is related to which issue?",
+        "answer": "Regarding OBC reservation in Government Employment",
+        "choices": [
+            "Regarding OBC reservation in Government Employment",
+            "Doctrine of Basic Structure of Constitution",
+            "Reservation on promotion of SC",
+            "Extended reservation for ST"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which article of the Constitution of India is related with the Freedom of Press.",
+        "answer": "Article 19",
+        "choices": [
+            "Article 19",
+            "Article 20",
+            "Article 21",
+            "Article 22"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following can a court issue for enforcement of the Fundamental Rights?",
+        "answer": "Writ",
+        "choices": [
+            "Writ",
+            "Decree",
+            "Ordinance",
+            "Bill"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following is not a fundamental right?",
+        "answer": "Right to Property",
+        "choices": [
+            "Right to Property",
+            "Right to Constitutional Remedy",
+            "Right to Peaceful Assembly",
+            "Right to free movement all over the country"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Supreme Court has held that hoisting the National Flag atop the private buildings is a fundamental right of every citizen under",
+        "answer": "Article 19",
+        "choices": [
+            "Article 19",
+            "Article 14",
+            "Article 21",
+            "Article 25"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following rights conferred by the Constitution of India is also available to non-citizens?",
+        "answer": "Right to Constitutional Remedies",
+        "choices": [
+            "Right to Constitutional Remedies",
+            "Freedom of Speech",
+            "Freedom to move and settle in any part of the country",
+            "Freedom to accquire property"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "When was the Right to Education added through the amendment in the Constitution of India?",
+        "answer": "1st April 2010",
+        "choices": [
+            "1st April 2010",
+            "1st August 2010",
+            "2nd October 2010",
+            "1st December 2010"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Untouchability is abolished by which article of the Indian Constitution?",
+        "answer": "Article 17",
+        "choices": [
+            "Article 17",
+            "Article 19",
+            "Article 15",
+            "Article 14"
+        ]
+    }
+]
