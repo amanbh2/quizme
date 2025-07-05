@@ -2233,6 +2233,17 @@
         ]
     },
     {
+        "sheet": "Recent2025",
+        "question": "On bank of which river Keezhadi Civilisation was based upon?",
+        "answer": "Vaigai",
+        "choices": [
+            "Vaigai",
+            "Indus",
+            "Godavari",
+            "Krishna"
+        ]
+    },
+    {
         "sheet": "HistoryModern",
         "question": "Who established Lodi Dyansty",
         "answer": "Bahlul Khan Lodi",
@@ -4199,6 +4210,138 @@
             "Gopala",
             "Devpala",
             "Mahipala"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Muhammad Ghori granted first Iqta in India to",
+        "answer": "Qutbuddin Aibak",
+        "choices": [
+            "Qutbuddin Aibak",
+            "Tajuddin Yalduz",
+            "Shamsuddin Iltutmish",
+            "Nazir-ud-din Qubacha"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who was the first ruler of the Slave Dynasty?",
+        "answer": "Qutbuddin Aibak",
+        "choices": [
+            "Qutbuddin Aibak",
+            "Iltutmish",
+            "Raziyya",
+            "Balban"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which Sultan of Delhi Sultanate was known as Lakh Baksh?",
+        "answer": "Qutbuddin Aibak",
+        "choices": [
+            "Qutbuddin Aibak",
+            "Alauddin Khalji",
+            "Raziyya",
+            "Balban"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "The capital of Qutbuddin Aibak was",
+        "answer": "Lahore",
+        "choices": [
+            "Lahore",
+            "Ajmer",
+            "Delhi",
+            "Agra"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "The Qutub Minar was completed by",
+        "answer": "Iltutmish",
+        "choices": [
+            "Iltutmish",
+            "Qutbuddin Aibak",
+            "Ulugh Khan",
+            "Raziya Sultan"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Iltutmish appointed his first subedar in Bihar to",
+        "answer": "Malik Jani",
+        "choices": [
+            "Malik Jani",
+            "Aivaj",
+            "Nasiruddin Mahmud",
+            "Alimardan"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who was the first ruler to formulate the Theory of Kingship similar to the theory of divine right of the kings?",
+        "answer": "Balban",
+        "choices": [
+            "Balban",
+            "Aibak",
+            "Iltutmish",
+            "Alauddin"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which Sultan of Delhi introduced the practice of Sijda?",
+        "answer": "Balban",
+        "choices": [
+            "Balban",
+            "Qutbuddin Aibak",
+            "Alauddin Khalji",
+            "Muhammad Bin Tuqhlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which Delhi Sultan is known for adopting the blood and iron policy?",
+        "answer": "Balban",
+        "choices": [
+            "Balban",
+            "Iltutmish",
+            "Alauddin Khalji",
+            "Muhammad Bin Tuqhlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who among the following introduced the Persian festival Nowruz in India?",
+        "answer": "Balban",
+        "choices": [
+            "Balban",
+            "Iltutmish",
+            "Alauddin Khalji",
+            "Firuz Shah Tughlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who was the first Muslim conqueror of Bihar?",
+        "answer": "Bakhtiyar Khalji",
+        "choices": [
+            "Bakhtiyar Khalji",
+            "Malik Ibrahim",
+            "Iltutmish",
+            "Alauddin Khalji"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Tughril Khan raised a standard of revolt during whose reign?",
+        "answer": "Balban",
+        "choices": [
+            "Balban",
+            "Khizr Khan",
+            "Firuz Shah Tughlaq",
+            "Alauddin Khalji"
         ]
     },
     {
@@ -7254,7 +7397,7 @@
         "answer": "Article 12 to 35",
         "choices": [
             "Article 12 to 35",
-            "Article 12 to 35",
+            "Article 25 to 50",
             "Article 16 to 40",
             "Article 15 to 39"
         ]

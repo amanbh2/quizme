@@ -2231,5 +2231,16 @@
             "Petrol vehicles over 15 years and Diesel vehicles over 20 years",
             "Petrol vehicles over 20 years and Diesel vehicles over 15 years"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "On bank of which river Keezhadi Civilisation was based upon?",
+        "answer": "Vaigai",
+        "choices": [
+            "Vaigai",
+            "Indus",
+            "Godavari",
+            "Krishna"
+        ]
     }
 ]
