@@ -317,5 +317,170 @@
             17,
             26
         ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Ramsar Convention is associated with the conservation of",
+        "answer": "Wetlands",
+        "choices": [
+            "Wetlands",
+            "Drylands",
+            "Forests",
+            "Hills"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which gas contributes to global warming through its greenhouse effect?",
+        "answer": "All of these",
+        "choices": [
+            "All of these",
+            "Methane",
+            "Nitrous Oxide",
+            "Carbon Dioxide"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following gas is responsible for the depletion of Ozone layer?",
+        "answer": "Chlorofluorocarbons",
+        "choices": [
+            "Chlorofluorocarbons",
+            "Carbon Monoxide",
+            "Carbon Dioxide",
+            "Nitrous Oxide"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the percentage of forest and tree cover in the total geographical area of India according to Indian State of Forest Report 2023?",
+        "answer": "25.17 percent",
+        "choices": [
+            "25.17 percent",
+            "21.76 percent",
+            "3.41 percent",
+            "91.33 percent"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the percentage of forest cover in the total geographical area of India according to Indian State of Forest Report 2023?",
+        "answer": "21.76 percent",
+        "choices": [
+            "21.76 percent",
+            "25.17 percent",
+            "3.41 percent",
+            "91.33 percent"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The largest percentage of forest area is in",
+        "answer": "Lakshadweep",
+        "choices": [
+            "Lakshadweep",
+            "Mizoram",
+            "Andman & Nicobar",
+            "Madhya Pradesh"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "State having largest forest cover in India",
+        "answer": "Madhya Pradesh",
+        "choices": [
+            "Madhya Pradesh",
+            "Arunanchal Pradesh",
+            "Chhattisgarh",
+            "Sikkim"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "In National Park protection is given to",
+        "answer": "Whole Ecosystem",
+        "choices": [
+            "Whole Ecosystem",
+            "Only Fauna",
+            "Only Flora",
+            "Only Birds"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following areas in India does not grow tropical wet evergreen forests?",
+        "answer": "Eastern Ghats",
+        "choices": [
+            "Eastern Ghats",
+            "Western Ghats",
+            "Andaman Islands",
+            "North-Eastern Region"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "In which forest do the majority of species of birds inhabit the mountainous areas?",
+        "answer": "Pine Forest",
+        "choices": [
+            "Pine Forest",
+            "Bush Forest",
+            "Oak Forest",
+            "Maple Forest"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "India's first Dolphin Observatory is being built in",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Kolkata",
+            "Odisha",
+            "Delhi"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The state of India with maximum number of wildlife sanctuaries is",
+        "answer": "Maharashtra",
+        "choices": [
+            "Maharashtra",
+            "Karnataka",
+            "Madhya Pradesh",
+            "Tamil Nadu"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following is the well-publicised wildife campaign in the world launched in 1973?",
+        "answer": "Project Tiger",
+        "choices": [
+            "Project Tiger",
+            "Sunderbans Project",
+            "Project Big Cat",
+            "Project Elephant"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following is not included under in-situ conservation?",
+        "answer": "Botanical Garden",
+        "choices": [
+            "Botanical Garden",
+            "National Parks",
+            "Wildlife Sanctuaries",
+            "Biosphere Reserves"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Total Ramsar sites in India?",
+        "answer": 91,
+        "choices": [
+            91,
+            90,
+            19,
+            45
+        ]
     }
 ]

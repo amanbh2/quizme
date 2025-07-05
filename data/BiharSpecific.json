@@ -2187,5 +2187,27 @@
             "Arya Pradesh",
             "Land of Greenry"
         ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "According to following districts, which one has larger area under dense deciduous forest cover?",
+        "answer": "Paschim Champaran",
+        "choices": [
+            "Paschim Champaran",
+            "Gaya",
+            "Kaimur",
+            "Nawada"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "How many UNESCO World Heritage site is there in Bihar?",
+        "answer": "Two",
+        "choices": [
+            "Two",
+            "One",
+            "Three",
+            "Four"
+        ]
     }
 ]

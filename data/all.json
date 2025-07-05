@@ -2189,7 +2189,51 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "Recent2025",
+        "question": "Who is the Prime Minister of Trinidad & Tobago?",
+        "answer": "Kemala Persad",
+        "choices": [
+            "Kemala Persad",
+            "Christine Kangaloo",
+            "Jagdeo Singh",
+            "Wade Mark"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Where is the capital of Trinidad & Tobago?",
+        "answer": "Port of Spain",
+        "choices": [
+            "Port of Spain",
+            "Accra",
+            "Buenos Aires",
+            "Brasilia"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Where is the capital of Ghana?",
+        "answer": "Accra",
+        "choices": [
+            "Accra",
+            "Port of Spain",
+            "Buenos Aires",
+            "Brasilia"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the condition of End-of-Life Vehicles",
+        "answer": "Petrol vehicles over 15 years and Diesel vehicles over 10 years",
+        "choices": [
+            "Petrol vehicles over 15 years and Diesel vehicles over 10 years",
+            "Petrol vehicles over 10 years and Diesel vehicles over 15 years",
+            "Petrol vehicles over 15 years and Diesel vehicles over 20 years",
+            "Petrol vehicles over 20 years and Diesel vehicles over 15 years"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
         "question": "Who established Lodi Dyansty",
         "answer": "Bahlul Khan Lodi",
         "choices": [
@@ -2200,7 +2244,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "First Sikh Guru",
         "answer": "Guru Nanak",
         "choices": [
@@ -2211,7 +2255,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Which year marks fall of Constantinople",
         "answer": 1453,
         "choices": [
@@ -2222,7 +2266,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Who discovered America",
         "answer": "Christopher Columbus",
         "choices": [
@@ -2233,7 +2277,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Treaty of Tordesillias was signed between",
         "answer": "Spain & Portugal",
         "choices": [
@@ -2244,7 +2288,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Last ruling dynasty of Delhi Sultanate",
         "answer": "Lodi",
         "choices": [
@@ -2255,7 +2299,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "First ruling dynasty of Delhi Sultanate",
         "answer": "Mameluk",
         "choices": [
@@ -2266,7 +2310,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Name the ruler who led to the fall of Constantinople",
         "answer": "Mehmed II",
         "choices": [
@@ -2277,7 +2321,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Who established the Agra city",
         "answer": "Sikhander Khan Lodi",
         "choices": [
@@ -2288,7 +2332,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Who discovered all sea route from Europe to India",
         "answer": "Vasco Da Gama",
         "choices": [
@@ -2299,7 +2343,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Who established the Mughal Empire",
         "answer": "Babur",
         "choices": [
@@ -2310,7 +2354,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Who restored the Grand Trunk Road from the river Indus in the west to Sonargaon in Bengal",
         "answer": "Sher Shah Suri",
         "choices": [
@@ -2321,7 +2365,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Thomas Roe, the royal envoy of the king of England visited court of which ruler in India",
         "answer": "Jahangir",
         "choices": [
@@ -2332,7 +2376,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Who constructed the Taj Mahal",
         "answer": "Shah Jahan",
         "choices": [
@@ -2343,7 +2387,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Who executed Guru Tegh Bahadur",
         "answer": "Aurangzeb",
         "choices": [
@@ -2354,7 +2398,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Sikh Guru born in Bihar",
         "answer": "Guru Gobind Singh",
         "choices": [
@@ -2365,7 +2409,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Who established the Maratha Kingdom",
         "answer": "Shivaji",
         "choices": [
@@ -2376,7 +2420,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "The Khalsa, warrior group of Sikh was established by",
         "answer": "Guru Gobind Singh",
         "choices": [
@@ -2387,7 +2431,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "In which year was the first regulating act passed to regulate the administration of the East India Company in India",
         "answer": 1773,
         "choices": [
@@ -2398,7 +2442,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "In which year Pitt's India Act enacted",
         "answer": 1784,
         "choices": [
@@ -2409,7 +2453,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Who introduced Permanent Settlement system of revenue collection",
         "answer": "Charles Cornwallis",
         "choices": [
@@ -2420,7 +2464,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Who introduced the system of Subsidiary Alliance",
         "answer": "Richard Wellesley",
         "choices": [
@@ -2431,7 +2475,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Who established the Sikh Empire",
         "answer": "Ranjit Singh",
         "choices": [
@@ -2442,7 +2486,7 @@
         ]
     },
     {
-        "sheet": "History1450Onwards",
+        "sheet": "HistoryModern",
         "question": "Who was the leader of the Ghadar Movement, a revolutionary movement aimed at overthrowing British rule in India?",
         "answer": "Kartar Singh Sarabha",
         "choices": [
@@ -2450,6 +2494,39 @@
             "Lala Lajpat Rai",
             "Bhagat Singh",
             "Sardar Uddham Singh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The term \"Girmitiya\" refers to",
+        "answer": "Indian indentured laborers sent to work overseas under contract",
+        "choices": [
+            "Indian indentured laborers sent to work overseas under contract",
+            "British planters in India",
+            "Indian traders in Southeast Asia",
+            "Foreign slaves in India"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The word \"Girmitiya\" is derived from",
+        "answer": "The English word \"agreement\"",
+        "choices": [
+            "The English word \"agreement\"",
+            "The Hindi word \"grihapati\"",
+            "A Sanskrit term meaning worker",
+            "A Persian word meaning servant"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The system of indentured labor was introduced primarily after",
+        "answer": "The abolition of slavery in the British Empire",
+        "choices": [
+            "The abolition of slavery in the British Empire",
+            "The arrival of the British in India",
+            "The end of the Mughal Empire",
+            "The Industrial Revolution in Britain"
         ]
     },
     {
@@ -6314,6 +6391,28 @@
         ]
     },
     {
+        "sheet": "BiharSpecific",
+        "question": "According to following districts, which one has larger area under dense deciduous forest cover?",
+        "answer": "Paschim Champaran",
+        "choices": [
+            "Paschim Champaran",
+            "Gaya",
+            "Kaimur",
+            "Nawada"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "How many UNESCO World Heritage site is there in Bihar?",
+        "answer": "Two",
+        "choices": [
+            "Two",
+            "One",
+            "Three",
+            "Four"
+        ]
+    },
+    {
         "sheet": "Geography",
         "question": "India's territorial limit extends towards the sea up to how many nautical miles from the coast?",
         "answer": "12 nautical miles",
@@ -6630,6 +6729,171 @@
             16,
             17,
             26
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Ramsar Convention is associated with the conservation of",
+        "answer": "Wetlands",
+        "choices": [
+            "Wetlands",
+            "Drylands",
+            "Forests",
+            "Hills"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which gas contributes to global warming through its greenhouse effect?",
+        "answer": "All of these",
+        "choices": [
+            "All of these",
+            "Methane",
+            "Nitrous Oxide",
+            "Carbon Dioxide"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following gas is responsible for the depletion of Ozone layer?",
+        "answer": "Chlorofluorocarbons",
+        "choices": [
+            "Chlorofluorocarbons",
+            "Carbon Monoxide",
+            "Carbon Dioxide",
+            "Nitrous Oxide"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the percentage of forest and tree cover in the total geographical area of India according to Indian State of Forest Report 2023?",
+        "answer": "25.17 percent",
+        "choices": [
+            "25.17 percent",
+            "21.76 percent",
+            "3.41 percent",
+            "91.33 percent"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the percentage of forest cover in the total geographical area of India according to Indian State of Forest Report 2023?",
+        "answer": "21.76 percent",
+        "choices": [
+            "21.76 percent",
+            "25.17 percent",
+            "3.41 percent",
+            "91.33 percent"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The largest percentage of forest area is in",
+        "answer": "Lakshadweep",
+        "choices": [
+            "Lakshadweep",
+            "Mizoram",
+            "Andman & Nicobar",
+            "Madhya Pradesh"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "State having largest forest cover in India",
+        "answer": "Madhya Pradesh",
+        "choices": [
+            "Madhya Pradesh",
+            "Arunanchal Pradesh",
+            "Chhattisgarh",
+            "Sikkim"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "In National Park protection is given to",
+        "answer": "Whole Ecosystem",
+        "choices": [
+            "Whole Ecosystem",
+            "Only Fauna",
+            "Only Flora",
+            "Only Birds"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following areas in India does not grow tropical wet evergreen forests?",
+        "answer": "Eastern Ghats",
+        "choices": [
+            "Eastern Ghats",
+            "Western Ghats",
+            "Andaman Islands",
+            "North-Eastern Region"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "In which forest do the majority of species of birds inhabit the mountainous areas?",
+        "answer": "Pine Forest",
+        "choices": [
+            "Pine Forest",
+            "Bush Forest",
+            "Oak Forest",
+            "Maple Forest"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "India's first Dolphin Observatory is being built in",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Kolkata",
+            "Odisha",
+            "Delhi"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The state of India with maximum number of wildlife sanctuaries is",
+        "answer": "Maharashtra",
+        "choices": [
+            "Maharashtra",
+            "Karnataka",
+            "Madhya Pradesh",
+            "Tamil Nadu"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following is the well-publicised wildife campaign in the world launched in 1973?",
+        "answer": "Project Tiger",
+        "choices": [
+            "Project Tiger",
+            "Sunderbans Project",
+            "Project Big Cat",
+            "Project Elephant"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following is not included under in-situ conservation?",
+        "answer": "Botanical Garden",
+        "choices": [
+            "Botanical Garden",
+            "National Parks",
+            "Wildlife Sanctuaries",
+            "Biosphere Reserves"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Total Ramsar sites in India?",
+        "answer": 91,
+        "choices": [
+            91,
+            90,
+            19,
+            45
         ]
     },
     {
@@ -7081,116 +7345,6 @@
             "Article 19",
             "Article 15",
             "Article 14"
-        ]
-    },
-    {
-        "sheet": "BiharEcoSrvy2024-25",
-        "question": "What is the size of Bihar's economy at current price in 2023-24",
-        "answer": "8.54 lakh crore",
-        "choices": [
-            "8.54 lakh crore",
-            "4.64 lakh crore",
-            "6.82 lakh crore",
-            "9.32 lakh crore"
-        ]
-    },
-    {
-        "sheet": "BiharEcoSrvy2024-25",
-        "question": "Growth in Bihar's GSDP at current price for year 2023-24",
-        "answer": "14.5 percent",
-        "choices": [
-            "14.5 percent",
-            "9.2 percent",
-            "10 percent",
-            "11 percent"
-        ]
-    },
-    {
-        "sheet": "BiharEcoSrvy2024-25",
-        "question": "Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
-        "answer": "9.2 percent",
-        "choices": [
-            "9.2 percent",
-            "14.5 percent",
-            "10 percent",
-            "11 percent"
-        ]
-    },
-    {
-        "sheet": "BiharEcoSrvy2024-25",
-        "question": "Which economic sector is the hightest contributor in Bihar state GVA for year 2023-24",
-        "answer": "Tertiary",
-        "choices": [
-            "Tertiary",
-            "Primary",
-            "Secondary",
-            "Tourism"
-        ]
-    },
-    {
-        "sheet": "BiharEcoSrvy2024-25",
-        "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
-        "answer": "58.6 percent",
-        "choices": [
-            "58.6 percent",
-            "21.5 percent",
-            "19.9 percent",
-            "11 percent"
-        ]
-    },
-    {
-        "sheet": "BiharEcoSrvy2024-25",
-        "question": "Industry contributing the most in Bihar state GVA for year 2023-24",
-        "answer": "Non-Metallic Mineral Production",
-        "choices": [
-            "Non-Metallic Mineral Production",
-            "Food Processing",
-            "Cement",
-            "Textile"
-        ]
-    },
-    {
-        "sheet": "BiharEcoSrvy2024-25",
-        "question": "How much Bihar contributes in total Makhana production of India",
-        "answer": "85 percent",
-        "choices": [
-            "85 percent",
-            "90 percent",
-            "80 percent",
-            "75 percent"
-        ]
-    },
-    {
-        "sheet": "BiharBudget2025-26",
-        "question": "Department with highest Bihar's budget allocation for year 2025-26",
-        "answer": "Education",
-        "choices": [
-            "Education",
-            "Health",
-            "Rural Development",
-            "Agriculture"
-        ]
-    },
-    {
-        "sheet": "BiharBudget2025-26",
-        "question": "What is the size of budget as mentioned in Bihar's Budget for year 2025-26",
-        "answer": "3.17 lakh crore",
-        "choices": [
-            "3.17 lakh crore",
-            "1.37 lakh crore",
-            "7.31 lakh crore",
-            "1.73 lakh crore"
-        ]
-    },
-    {
-        "sheet": "BiharBudget2025-26",
-        "question": "Center of excellence for jaggery is proposed in which district of Bihar",
-        "answer": "Samastipur",
-        "choices": [
-            "Samastipur",
-            "Darbhanga",
-            "Muzaffarpur",
-            "Patna"
         ]
     },
     {
@@ -8302,6 +8456,237 @@
             "sitting position",
             "lying position",
             "sleeping position"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Environment is a composite state of",
+        "answer": "All of these",
+        "choices": [
+            "All of these",
+            "Biotic Factors",
+            "Abiotic Factors",
+            "Physiographic Factors"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the thin layer of gases around the earth called?",
+        "answer": "Atmosphere",
+        "choices": [
+            "Atmosphere",
+            "Biosphere",
+            "Hydroshpere",
+            "Lithoshpere"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The atmosphere is mainly heated by the ",
+        "answer": "long-wave terrestrial radiation",
+        "choices": [
+            "long-wave terrestrial radiation",
+            "short-wave solar radiation",
+            "volcanic emission",
+            "emission from distant stars"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Air is a/an",
+        "answer": "Mixture",
+        "choices": [
+            "Mixture",
+            "Compound",
+            "Element",
+            "Electrolyte"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The highest percentage of gas in the air is",
+        "answer": "Nitrogen",
+        "choices": [
+            "Nitrogen",
+            "Hydrogen",
+            "Oxygen",
+            "Carbon Dioxide"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The tallest known living tree",
+        "answer": "Sequoia",
+        "choices": [
+            "Sequoia",
+            "Eucalyptus",
+            "Deodar",
+            "Parnang"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The major component of CNG is",
+        "answer": "CH4",
+        "choices": [
+            "CH4",
+            "N2",
+            "CO2",
+            "H2"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Pollutant emission gas in vehichle exhaust is mainly",
+        "answer": "Carbon Monoxide",
+        "choices": [
+            "Carbon Monoxide",
+            "Carbon Dioxide",
+            "Nitrogen Oxide",
+            "Marsh Gas"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Inhalation of air polluted with Carbon Monoxide is dangerous because",
+        "answer": "It combines with hemoglobin",
+        "choices": [
+            "It combines with hemoglobin",
+            "it combines with oxygen in blood",
+            "it removes water from the body and causes dehydration",
+            "it causes coagulation of proteins in the body"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The components of acid rain is/are",
+        "answer": "HNO3 & H2SO4",
+        "choices": [
+            "HNO3 & H2SO4",
+            "HNO3",
+            "H2SO4",
+            "CO2"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The major and top source of oxygen in the atmosphere is",
+        "answer": "Photosynthesis by oceanic phytoplanktons",
+        "choices": [
+            "Photosynthesis by oceanic phytoplanktons",
+            "Photosynthesis by forest plants",
+            "photosynthesis by grassland ecosystem",
+            "photosynthesis be wtland algaes"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "What is the size of Bihar's economy at current price in 2023-24",
+        "answer": "8.54 lakh crore",
+        "choices": [
+            "8.54 lakh crore",
+            "4.64 lakh crore",
+            "6.82 lakh crore",
+            "9.32 lakh crore"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "Growth in Bihar's GSDP at current price for year 2023-24",
+        "answer": "14.5 percent",
+        "choices": [
+            "14.5 percent",
+            "9.2 percent",
+            "10 percent",
+            "11 percent"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
+        "answer": "9.2 percent",
+        "choices": [
+            "9.2 percent",
+            "14.5 percent",
+            "10 percent",
+            "11 percent"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "Which economic sector is the hightest contributor in Bihar state GVA for year 2023-24",
+        "answer": "Tertiary",
+        "choices": [
+            "Tertiary",
+            "Primary",
+            "Secondary",
+            "Tourism"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
+        "answer": "58.6 percent",
+        "choices": [
+            "58.6 percent",
+            "21.5 percent",
+            "19.9 percent",
+            "11 percent"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "Industry contributing the most in Bihar state GVA for year 2023-24",
+        "answer": "Non-Metallic Mineral Production",
+        "choices": [
+            "Non-Metallic Mineral Production",
+            "Food Processing",
+            "Cement",
+            "Textile"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy2024-25",
+        "question": "How much Bihar contributes in total Makhana production of India",
+        "answer": "85 percent",
+        "choices": [
+            "85 percent",
+            "90 percent",
+            "80 percent",
+            "75 percent"
+        ]
+    },
+    {
+        "sheet": "BiharBudget2025-26",
+        "question": "Department with highest Bihar's budget allocation for year 2025-26",
+        "answer": "Education",
+        "choices": [
+            "Education",
+            "Health",
+            "Rural Development",
+            "Agriculture"
+        ]
+    },
+    {
+        "sheet": "BiharBudget2025-26",
+        "question": "What is the size of budget as mentioned in Bihar's Budget for year 2025-26",
+        "answer": "3.17 lakh crore",
+        "choices": [
+            "3.17 lakh crore",
+            "1.37 lakh crore",
+            "7.31 lakh crore",
+            "1.73 lakh crore"
+        ]
+    },
+    {
+        "sheet": "BiharBudget2025-26",
+        "question": "Center of excellence for jaggery is proposed in which district of Bihar",
+        "answer": "Samastipur",
+        "choices": [
+            "Samastipur",
+            "Darbhanga",
+            "Muzaffarpur",
+            "Patna"
         ]
     }
 ]

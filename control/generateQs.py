@@ -91,11 +91,11 @@ with open(database_file, "w", encoding="utf-8") as txt_file:
     for sheet_name, count in question_counts.items():
         txt_file.write(f"{sheet_name}: {count} questions\n")
         total_questions += count
-    txt_file.write(f"Total questions: {total_questions}\n")
+    txt_file.write(f"Total Questions: {total_questions}\n")
 print(f"Question counts saved to {database_file}")
 
 # Print question counts
 print("\nQuestion counts:")
 for sheet_name, count in question_counts.items():
     print(f"{sheet_name}: {count} questions")
-print(f"Total questions: {total_questions}")
+print(f"Total Questions: {total_questions}")

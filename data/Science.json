@@ -1109,5 +1109,126 @@
             "lying position",
             "sleeping position"
         ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Environment is a composite state of",
+        "answer": "All of these",
+        "choices": [
+            "All of these",
+            "Biotic Factors",
+            "Abiotic Factors",
+            "Physiographic Factors"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the thin layer of gases around the earth called?",
+        "answer": "Atmosphere",
+        "choices": [
+            "Atmosphere",
+            "Biosphere",
+            "Hydroshpere",
+            "Lithoshpere"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The atmosphere is mainly heated by the ",
+        "answer": "long-wave terrestrial radiation",
+        "choices": [
+            "long-wave terrestrial radiation",
+            "short-wave solar radiation",
+            "volcanic emission",
+            "emission from distant stars"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Air is a/an",
+        "answer": "Mixture",
+        "choices": [
+            "Mixture",
+            "Compound",
+            "Element",
+            "Electrolyte"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The highest percentage of gas in the air is",
+        "answer": "Nitrogen",
+        "choices": [
+            "Nitrogen",
+            "Hydrogen",
+            "Oxygen",
+            "Carbon Dioxide"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The tallest known living tree",
+        "answer": "Sequoia",
+        "choices": [
+            "Sequoia",
+            "Eucalyptus",
+            "Deodar",
+            "Parnang"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The major component of CNG is",
+        "answer": "CH4",
+        "choices": [
+            "CH4",
+            "N2",
+            "CO2",
+            "H2"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Pollutant emission gas in vehichle exhaust is mainly",
+        "answer": "Carbon Monoxide",
+        "choices": [
+            "Carbon Monoxide",
+            "Carbon Dioxide",
+            "Nitrogen Oxide",
+            "Marsh Gas"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Inhalation of air polluted with Carbon Monoxide is dangerous because",
+        "answer": "It combines with hemoglobin",
+        "choices": [
+            "It combines with hemoglobin",
+            "it combines with oxygen in blood",
+            "it removes water from the body and causes dehydration",
+            "it causes coagulation of proteins in the body"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The components of acid rain is/are",
+        "answer": "HNO3 & H2SO4",
+        "choices": [
+            "HNO3 & H2SO4",
+            "HNO3",
+            "H2SO4",
+            "CO2"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The major and top source of oxygen in the atmosphere is",
+        "answer": "Photosynthesis by oceanic phytoplanktons",
+        "choices": [
+            "Photosynthesis by oceanic phytoplanktons",
+            "Photosynthesis by forest plants",
+            "photosynthesis by grassland ecosystem",
+            "photosynthesis be wtland algaes"
+        ]
     }
 ]

@@ -2187,5 +2187,49 @@
             "INS Trishul",
             "INS Tarkash"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who is the Prime Minister of Trinidad & Tobago?",
+        "answer": "Kemala Persad",
+        "choices": [
+            "Kemala Persad",
+            "Christine Kangaloo",
+            "Jagdeo Singh",
+            "Wade Mark"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Where is the capital of Trinidad & Tobago?",
+        "answer": "Port of Spain",
+        "choices": [
+            "Port of Spain",
+            "Accra",
+            "Buenos Aires",
+            "Brasilia"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Where is the capital of Ghana?",
+        "answer": "Accra",
+        "choices": [
+            "Accra",
+            "Port of Spain",
+            "Buenos Aires",
+            "Brasilia"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the condition of End-of-Life Vehicles",
+        "answer": "Petrol vehicles over 15 years and Diesel vehicles over 10 years",
+        "choices": [
+            "Petrol vehicles over 15 years and Diesel vehicles over 10 years",
+            "Petrol vehicles over 10 years and Diesel vehicles over 15 years",
+            "Petrol vehicles over 15 years and Diesel vehicles over 20 years",
+            "Petrol vehicles over 20 years and Diesel vehicles over 15 years"
+        ]
     }
 ]

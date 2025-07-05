@@ -1,0 +1,299 @@
+[
+    {
+        "sheet": "HistoryModern",
+        "question": "Who established Lodi Dyansty",
+        "answer": "Bahlul Khan Lodi",
+        "choices": [
+            "Bahlul Khan Lodi",
+            "Sikandr Khan Lodi",
+            "Malik Sultan Khan Lodi",
+            "Ibrahim Lodi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "First Sikh Guru",
+        "answer": "Guru Nanak",
+        "choices": [
+            "Guru Nanak",
+            "Guru Angad",
+            "Guru Gobind Singh",
+            "Guru Hargobind"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which year marks fall of Constantinople",
+        "answer": 1453,
+        "choices": [
+            1453,
+            1454,
+            1452,
+            1455
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who discovered America",
+        "answer": "Christopher Columbus",
+        "choices": [
+            "Christopher Columbus",
+            "Vasco Da Gama",
+            "Prince Henry The Navigator",
+            "Captain Hawkins"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Treaty of Tordesillias was signed between",
+        "answer": "Spain & Portugal",
+        "choices": [
+            "Spain & Portugal",
+            "Spain & England",
+            "Portugal & England",
+            "Greece & Spain"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Last ruling dynasty of Delhi Sultanate",
+        "answer": "Lodi",
+        "choices": [
+            "Lodi",
+            "Mameluk",
+            "Tughlaq",
+            "Khalji"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "First ruling dynasty of Delhi Sultanate",
+        "answer": "Mameluk",
+        "choices": [
+            "Mameluk",
+            "Lodi",
+            "Tughlaq",
+            "Khalji"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Name the ruler who led to the fall of Constantinople",
+        "answer": "Mehmed II",
+        "choices": [
+            "Mehmed II",
+            "Ibrahim II",
+            "Murad II",
+            "Bayezid II"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who established the Agra city",
+        "answer": "Sikhander Khan Lodi",
+        "choices": [
+            "Sikhander Khan Lodi",
+            "Malik Sultan Khan Lodi",
+            "Ibrahim Lodi",
+            "Ibrahim Lodi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who discovered all sea route from Europe to India",
+        "answer": "Vasco Da Gama",
+        "choices": [
+            "Vasco Da Gama",
+            "Christopher Columbus",
+            "Captain Hawkins",
+            "Afonso de Albuquerque"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who established the Mughal Empire",
+        "answer": "Babur",
+        "choices": [
+            "Babur",
+            "Akbar",
+            "Jahangir",
+            "Shah Jahan"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who restored the Grand Trunk Road from the river Indus in the west to Sonargaon in Bengal",
+        "answer": "Sher Shah Suri",
+        "choices": [
+            "Sher Shah Suri",
+            "Humayun",
+            "Shah Jahan",
+            "Akbar"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Thomas Roe, the royal envoy of the king of England visited court of which ruler in India",
+        "answer": "Jahangir",
+        "choices": [
+            "Jahangir",
+            "Akbar",
+            "Humayun",
+            "Aurangzeb"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who constructed the Taj Mahal",
+        "answer": "Shah Jahan",
+        "choices": [
+            "Shah Jahan",
+            "Akbar",
+            "Humayun",
+            "Aurangzeb"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who executed Guru Tegh Bahadur",
+        "answer": "Aurangzeb",
+        "choices": [
+            "Aurangzeb",
+            "Akbar",
+            "Humayun",
+            "Shah Jahan"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Sikh Guru born in Bihar",
+        "answer": "Guru Gobind Singh",
+        "choices": [
+            "Guru Gobind Singh",
+            "Guru Tegh Bahadu",
+            "Guru Nanak",
+            "Guru Angad"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who established the Maratha Kingdom",
+        "answer": "Shivaji",
+        "choices": [
+            "Shivaji",
+            "Shambhaji",
+            "Nana Pahadi",
+            "Tanhaji"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Khalsa, warrior group of Sikh was established by",
+        "answer": "Guru Gobind Singh",
+        "choices": [
+            "Guru Gobind Singh",
+            "Guru Nanak",
+            "Guru Tegh Bahadur",
+            "Guru Angad"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which year was the first regulating act passed to regulate the administration of the East India Company in India",
+        "answer": 1773,
+        "choices": [
+            1773,
+            1774,
+            1775,
+            1772
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which year Pitt's India Act enacted",
+        "answer": 1784,
+        "choices": [
+            1784,
+            1783,
+            1786,
+            1785
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who introduced Permanent Settlement system of revenue collection",
+        "answer": "Charles Cornwallis",
+        "choices": [
+            "Charles Cornwallis",
+            "Warren Hastings",
+            "Robert Clive",
+            "William Pitt"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who introduced the system of Subsidiary Alliance",
+        "answer": "Richard Wellesley",
+        "choices": [
+            "Richard Wellesley",
+            "Charles Cornwallis",
+            "Warren Hastings",
+            "Robert Clive"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who established the Sikh Empire",
+        "answer": "Ranjit Singh",
+        "choices": [
+            "Ranjit Singh",
+            "Guru Gobind",
+            "Guru Nanak",
+            "Prithviraj Chouhan"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the leader of the Ghadar Movement, a revolutionary movement aimed at overthrowing British rule in India?",
+        "answer": "Kartar Singh Sarabha",
+        "choices": [
+            "Kartar Singh Sarabha",
+            "Lala Lajpat Rai",
+            "Bhagat Singh",
+            "Sardar Uddham Singh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The term \"Girmitiya\" refers to",
+        "answer": "Indian indentured laborers sent to work overseas under contract",
+        "choices": [
+            "Indian indentured laborers sent to work overseas under contract",
+            "British planters in India",
+            "Indian traders in Southeast Asia",
+            "Foreign slaves in India"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The word \"Girmitiya\" is derived from",
+        "answer": "The English word \"agreement\"",
+        "choices": [
+            "The English word \"agreement\"",
+            "The Hindi word \"grihapati\"",
+            "A Sanskrit term meaning worker",
+            "A Persian word meaning servant"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The system of indentured labor was introduced primarily after",
+        "answer": "The abolition of slavery in the British Empire",
+        "choices": [
+            "The abolition of slavery in the British Empire",
+            "The arrival of the British in India",
+            "The end of the Mughal Empire",
+            "The Industrial Revolution in Britain"
+        ]
+    }
+]
