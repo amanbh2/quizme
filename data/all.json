@@ -2541,6 +2541,17 @@
         ]
     },
     {
+        "sheet": "HistoryModern",
+        "question": "Who laid the foundation of new landed aristocracy in Bengal?",
+        "answer": "Murshid Quli Khan",
+        "choices": [
+            "Murshid Quli Khan",
+            "Mir Jafar",
+            "Mir Qasim",
+            "Shah Alam"
+        ]
+    },
+    {
         "sheet": "HistoryAncient",
         "question": "Which one of the following periods is also known as Chalcolithic Age?",
         "answer": "Copper Age",
@@ -4342,6 +4353,952 @@
             "Khizr Khan",
             "Firuz Shah Tughlaq",
             "Alauddin Khalji"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who was deputed for the conquest of Dvarasamudra by Alauddin Khalji?",
+        "answer": "Malik Kafur",
+        "choices": [
+            "Malik Kafur",
+            "Khizr Khan",
+            "Alp Khan",
+            "Umar Khan"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "When he attained Kingship, he was fully independent from rules and orders of Shariat. For which Sultan barani made this statement?",
+        "answer": "Alauddin Khalji",
+        "choices": [
+            "Alauddin Khalji",
+            "Iltutmish",
+            "Balban",
+            "Muhammad Bin Tuqhlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who reduced the Khuts and Muqaddams to such an extent that their wives served in the house of Muslims?",
+        "answer": "Alauddin Khalji",
+        "choices": [
+            "Alauddin Khalji",
+            "Balban",
+            "Muhammad Bin Tuqhlaq",
+            "Firuz Shah Tughlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who among army-commanders of Alauddin Khalji died fighting against Mongols?",
+        "answer": "Zafar Khan",
+        "choices": [
+            "Zafar Khan",
+            "Nusrat Khan",
+            "Alp Khan",
+            "Ulugh Khan"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Padmini is associated with Alauddin conquest of Chittor. She was wife of",
+        "answer": "Rana Ratan Singh",
+        "choices": [
+            "Rana Ratan Singh",
+            "Ranjit Singh",
+            "Maharana Pratap Singh",
+            "Raja Man Singh"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who was the ruler of Devagiri at the time of Alauddin Khalji's invasion?",
+        "answer": "Ramachandra Dev",
+        "choices": [
+            "Ramachandra Dev",
+            "Prataprudra Dev",
+            "Malik Kafur",
+            "Rana Ratan Singh"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "During the regime of which Sultan was the Khalisa land developed on a large scale?",
+        "answer": "Alauddin Khalji",
+        "choices": [
+            "Alauddin Khalji",
+            "Ghiyasuddin Balban",
+            "Muhammad Bin Tuqhlaq",
+            "Firuz Shah Tughlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who started Public Distribution System in Sultanate period?",
+        "answer": "Alauddin Khalji",
+        "choices": [
+            "Alauddin Khalji",
+            "Sikandar Lodhi",
+            "Muhammad Bin Tuqhlaq",
+            "Firuz Shah Tughlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which one of the following Sultans provided employment to the unemployed?",
+        "answer": "Firuz Shah Tughlaq",
+        "choices": [
+            "Firuz Shah Tughlaq",
+            "Sher Shah Suri",
+            "Alauddin Khalji",
+            "Muhammad Bin Tuqhlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which of the following Sultans had most numbers of slaves in his court?",
+        "answer": "Firuz Shah Tughlaq",
+        "choices": [
+            "Firuz Shah Tughlaq",
+            "Balban",
+            "Alauddin Khalji",
+            "Muhammad Bin Tuqhlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which Delhi Sultan built the maximum number of canals?",
+        "answer": "Firuz Shah Tughlaq",
+        "choices": [
+            "Firuz Shah Tughlaq",
+            "Iltutmish",
+            "Balban",
+            "Sikandar Khan Lodi"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which one of the following Sultans of Delhi introduced measures of improving the quality of fruits?",
+        "answer": "Firuz Shah Tughlaq",
+        "choices": [
+            "Firuz Shah Tughlaq",
+            "Muhammad Bin Tughlaq",
+            "Sher Shah Suri",
+            "Sikandar Khan Lodi"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "What was Dar-ul-Shafa established by Firuz Shah Tughlaq?",
+        "answer": "Charitable Hospital",
+        "choices": [
+            "Charitable Hospital",
+            "Atmosphere",
+            "Library",
+            "Guest House for Pilgrims"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which Sultan of Delhi Sultanate established a charitable hospital named Dar-ul-Shifa?",
+        "answer": "Firuz Shah Tughlaq",
+        "choices": [
+            "Firuz Shah Tughlaq",
+            "Balban",
+            "Iltutmish",
+            "Muhammad Bin Tuqhlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which one of the following dynasties ruled over India after the invasion of Timur?",
+        "answer": "Sayyid Dynasty",
+        "choices": [
+            "Sayyid Dynasty",
+            "Lodi Dynasty",
+            "Tughlaq Dynasty",
+            "Khalji Dynasty"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which of the following Sultans founded a town where now stands Agra?",
+        "answer": "Sikandar Khan Lodi",
+        "choices": [
+            "Sikandar Khan Lodi",
+            "Firuz Shah Tughlaq",
+            "Muhammad Bin Tuqhlaq",
+            "Bahlul Lodi"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Identify the first ruler of Vijayanagara who captured Goa from Bahamani's?",
+        "answer": "Harihara II",
+        "choices": [
+            "Harihara II",
+            "Harihara I",
+            "Bukka II",
+            "Devaraya II"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who was the founder of Vijayanagara Empire?",
+        "answer": "Harihara-Bukka",
+        "choices": [
+            "Harihara-Bukka",
+            "Devaray",
+            "Krishanadevaray",
+            "Vir Narsimharay"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "With whom the king of Vijayanagara, Krishnadevaraya fought the battle of Golconda?",
+        "answer": "Quli Qutb Shah",
+        "choices": [
+            "Quli Qutb Shah",
+            "Qutbuddin Aibak",
+            "Ismail Adil Khan",
+            "Gajapati"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which among the following King's region Persian traveller Abdur Razzak came to India?",
+        "answer": "Devaraya II",
+        "choices": [
+            "Devaraya II",
+            "Devaraya I",
+            "Krishanadevaraya I",
+            "Krishnna Rai II"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which famous war took place in 1565 BCE?",
+        "answer": "Talikota War",
+        "choices": [
+            "Talikota War",
+            "Panipat I War",
+            "Panipat II War",
+            "Khanwa War"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "What was the chief characterstic of the finanacial system of Vijayanagara Empire?",
+        "answer": "Land Revenue",
+        "choices": [
+            "Land Revenue",
+            "Surplus rent",
+            "Income from seaports",
+            "Monetary System"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "The remains of Vijayanagara Empire are found in?",
+        "answer": "Hampi",
+        "choices": [
+            "Hampi",
+            "Bijapur",
+            "Golconda",
+            "Baroda"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who among the following famous rulers founded a suburban township of Nagalapuram, near Vijayanagara, after his mother's name?",
+        "answer": "Krishnadevaraya",
+        "choices": [
+            "Krishnadevaraya",
+            "Harihara",
+            "Bukka",
+            "Gajapati"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "During the Delhi Sultanate, the designation Muqaddam or Chaudhari was used for",
+        "answer": "Village Headman",
+        "choices": [
+            "Village Headman",
+            "Revenue Officials",
+            "Village Accountant",
+            "Peasants"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Diwan-i-Arz department was associated with",
+        "answer": "Defence",
+        "choices": [
+            "Defence",
+            "Royal Correspondence",
+            "Foreign",
+            "Finanace"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Zawabits were concerned with",
+        "answer": "State Laws",
+        "choices": [
+            "State Laws",
+            "Laws relating to mansab system",
+            "Laws regulating mint house",
+            "Agricultural taxes"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Coins-Tanka, Shashgani and Jital of Sultanate period was made of which of the following metals",
+        "answer": "Silver, Copper",
+        "choices": [
+            "Silver, Copper",
+            "Gold, Silver, Copper",
+            "Silver, Zinc, Copper",
+            "Gold, Zinc, Copper"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "The famous Buland Darwaza at Fatehpur Sikri forms which entrance to the Jama Masjid?",
+        "answer": "Southern",
+        "choices": [
+            "Southern",
+            "Northern",
+            "Eastern",
+            "Western"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who built the Buland Darwaza at Fathepur Sikri",
+        "answer": "Akbar",
+        "choices": [
+            "Akbar",
+            "Alauddin Khalji",
+            "Qutubuddin Aibak",
+            "Firuz Shah Tughlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which Sultan built Alai Darwaza?",
+        "answer": "Alauddin Khalji",
+        "choices": [
+            "Alauddin Khalji",
+            "Akbar",
+            "Qutubuddin Aibak",
+            "Firuz Shah Tughlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who was the author of Tabaqat-i-Nasiri?",
+        "answer": "Minhaz-us-Siraj",
+        "choices": [
+            "Minhaz-us-Siraj",
+            "Shaikh Jamaluddin",
+            "Al-Biruni",
+            "Ziyauddin Barani"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "The earliest description of Bakhtiyar Khalji's invasion of Bihar is in",
+        "answer": "Tabaqat-i-Nasiri",
+        "choices": [
+            "Tabaqat-i-Nasiri",
+            "Tarikh-i-Hind",
+            "Tuj-ul-Maasir",
+            "Tarikh-i-Mubarak Shahi"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which Sultan demanded half of the crops on land after measurement as revenue?",
+        "answer": "Alauddin Khalji",
+        "choices": [
+            "Alauddin Khalji",
+            "Iltutmish",
+            "Balban",
+            "Muhammad Bin Tuqhlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who among the following rulers divided his troops into units of two hundred, two hundred fifty and five hundred?",
+        "answer": "Islam Shah",
+        "choices": [
+            "Islam Shah",
+            "Sikandar Shah",
+            "Bahlul Lodi",
+            "Sher Shah Suri"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which city of India was called Shiraj-i-Mashriq (East) in the medieval age?",
+        "answer": "Jaunpur",
+        "choices": [
+            "Jaunpur",
+            "Delhi",
+            "Agra",
+            "Lucknow"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who was the founder of Bahamani Kingdom?",
+        "answer": "Alauddin Hasan Gangu",
+        "choices": [
+            "Alauddin Hasan Gangu",
+            "Firuz Shah Tughlaq",
+            "Asaf Khan",
+            "Mahmud Gaonwa"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "A common feature of all Bhakti Saints was that they",
+        "answer": "composed their verses in the language understood by their followers",
+        "choices": [
+            "composed their verses in the language understood by their followers",
+            "rejected the authority of the priestly class",
+            "encouraged women to go to the temples",
+            "encouraged idol worship"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which of the following Sultans of Delhi was refused an audience by Nizamuddin Auliya?",
+        "answer": "Alauddin Khalji",
+        "choices": [
+            "Alauddin Khalji",
+            "Jalaluddin Khalji",
+            "Ghiyasuddin Tughlaq",
+            "Muhammad Bin Tuqhlaq"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "In which sufi order was sufi saint Sharfuddin Yahya Maneri associated",
+        "answer": "Firdausi",
+        "choices": [
+            "Firdausi",
+            "Chisti",
+            "Suhrawardi",
+            "Qadiri"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Shaikh Bahauddin Zakaria belonged to which sect?",
+        "answer": "Suhrawardi",
+        "choices": [
+            "Suhrawardi",
+            "Chisti",
+            "Firdausi",
+            "Rishi"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who composed Barahmasa?",
+        "answer": "Malik Muhammad Jayasi",
+        "choices": [
+            "Malik Muhammad Jayasi",
+            "Imami",
+            "Amir Khusrau",
+            "Raskhan"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "The main reason for Babur's victory in the battle of Panipat was",
+        "answer": "His skilled warfare",
+        "choices": [
+            "His skilled warfare",
+            "His horse riding force",
+            "Tulghuma system",
+            "Internal disputes among Afghans"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "In which language was Tuzuk-i-Baburi written?",
+        "answer": "Turkish",
+        "choices": [
+            "Turkish",
+            "Persian",
+            "Arabic",
+            "Urdu"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who wrote Humayun Nama?",
+        "answer": "Gulbadan Begum",
+        "choices": [
+            "Gulbadan Begum",
+            "Babur",
+            "Humayun",
+            "Jahangir"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Arrange properly as per dates of four important battles fought by Humayun",
+        "answer": "Devara, Chausa, Kannuaj, Sirhind",
+        "choices": [
+            "Devara, Chausa, Kannuaj, Sirhind",
+            "Chausa, Devara, Kannuaj, Sirhind",
+            "Devara, Kannuaj, Chausa, Sirhind",
+            "Sirhind, Devara, Chausa, Kannuaj"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which of the following rulers at first assumed the title of Hazrat-e-Ala and afterward Sultan?",
+        "answer": "Sher Shah Suri",
+        "choices": [
+            "Sher Shah Suri",
+            "Bahlul Lodi",
+            "Sikandar Lodi",
+            "Islam Shah Suri"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Where is Sher Shah's tomb located?",
+        "answer": "Sasaram",
+        "choices": [
+            "Sasaram",
+            "Maner",
+            "Sitamarhi",
+            "Pavapuri"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "When Humayun invaded the Chunar Fort for the first time?",
+        "answer": 1532,
+        "choices": [
+            1532,
+            1531,
+            1536,
+            1533
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who among the following made an offer to Humayun that he would surrender Bihar and pay an annual tribute of 10 lakh dinars if he was allowed to retain Bengal?",
+        "answer": "Sher Khan",
+        "choices": [
+            "Sher Khan",
+            "Bahadur Shah",
+            "Bairam Khan",
+            "Sher Shah Suri"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who among the following has constructed mausoleum for his emperoro husband?",
+        "answer": "Haji Begum",
+        "choices": [
+            "Haji Begum",
+            "Shah Begum",
+            "Mumtaz Mahal Begum",
+            "Nurnissa Begum"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who was the commander of Rana Pratap's army in the battle of Haldighati?",
+        "answer": "Hakim Khan Sur",
+        "choices": [
+            "Hakim Khan Sur",
+            "Amar Singh",
+            "Man Singh",
+            "Shakti Singh"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Yousuf Shah Chak, the last Muslim ruler of Kashmir valley, who was exiled to Bihar by the Mughal emperor Akbar, was buried in",
+        "answer": "Nalanda",
+        "choices": [
+            "Nalanda",
+            "Rajgir",
+            "Pataliputra",
+            "Munger"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who of the following Muslim rulers abolished the pilgrimage tax?",
+        "answer": "Akbar",
+        "choices": [
+            "Akbar",
+            "Bahlul Lodi",
+            "Sher Shah Suri",
+            "Humayun"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Zabti system was introduced by",
+        "answer": "Akbar",
+        "choices": [
+            "Akbar",
+            "Ghiyasuddin Tughlaq",
+            "Sikandar Lodi",
+            "Sher Shah Suri"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who promulgated Din-e-Elahi?",
+        "answer": "Akbar",
+        "choices": [
+            "Akbar",
+            "Babur",
+            "Shah Jahan",
+            "Jahangir"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "European paintings were introduced in the court of",
+        "answer": "Akbar",
+        "choices": [
+            "Akbar",
+            "Jahangir",
+            "Humayun",
+            "Shah Jahan"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Daswant and Basawan famour painters were courtier of Mughal emperor",
+        "answer": "Akbar",
+        "choices": [
+            "Akbar",
+            "Jahangir",
+            "Aurangzeb",
+            "Shah Jahan"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who was the ruler of India when the English East India was formed?",
+        "answer": "Akbar",
+        "choices": [
+            "Akbar",
+            "Jahangir",
+            "Aurangzeb",
+            "Humayun"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Akbar merged Bengal and Bihar in his empire in",
+        "answer": "1576 CE",
+        "choices": [
+            "1576 CE",
+            "1590 CE",
+            "1575 CE",
+            "1572 CE"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Ain-e-Akbari was written by",
+        "answer": "Abul Fazal",
+        "choices": [
+            "Abul Fazal",
+            "Akbar",
+            "Abdul Qadir",
+            "Khwaja Nizamuddin Ahmad"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Tabaqat-i-Akbari, which has been sometimes considered more reliable than Abul Fazl's Akbarnama, was written by",
+        "answer": "Khwaja Nizamuddin Ahmad",
+        "choices": [
+            "Khwaja Nizamuddin Ahmad",
+            "Gulbadan Begum",
+            "Abdul Hamid Lahori",
+            "Abul Fazal"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who introduced Do-aspa and Sih-aspa system?",
+        "answer": "Jahangir",
+        "choices": [
+            "Jahangir",
+            "Akbar",
+            "Shah Jahan",
+            "Aurangzeb"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Whom of the following Englishmen did Jahangir respected with title English Khan?",
+        "answer": "Hawkins",
+        "choices": [
+            "Hawkins",
+            "Sir Thomas Roe",
+            "Edward Terry",
+            "Robert Clive"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Itmad-ud-Daula's tomb at Agra was built by",
+        "answer": "Nur Jahan",
+        "choices": [
+            "Nur Jahan",
+            "Akbar",
+            "Jahangir",
+            "Shah Jahan"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "During the times of which Mughal Emperor did Sir Thomas Roe came to India?",
+        "answer": "Jahangir",
+        "choices": [
+            "Jahangir",
+            "Akbar",
+            "Shah Jahan",
+            "Babur"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "What was the root of dispute between Shah of Iran and Mughal rulers?",
+        "answer": "Qandhar",
+        "choices": [
+            "Qandhar",
+            "Kabul",
+            "Ghazni",
+            "Kunduz"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who made the Red Fort in Delhi?",
+        "answer": "Shah Jahan",
+        "choices": [
+            "Shah Jahan",
+            "Akbar",
+            "Nur Jahan",
+            "Jahangir"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who was the first Mughal ruler who fought against the British?",
+        "answer": "Aurangzeb",
+        "choices": [
+            "Aurangzeb",
+            "Jahangir",
+            "Akbar",
+            "Shah Jahan"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "The meaning of Jihad carried on by Aurangzeb is",
+        "answer": "Holy War",
+        "choices": [
+            "Holy War",
+            "Dar-ul-Harb",
+            "Dar-ul-Islam",
+            "Jizya"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who wrote Alamgir-Nama?",
+        "answer": "Mirza Muhammad Kazim",
+        "choices": [
+            "Mirza Muhammad Kazim",
+            "Muhammad Saqi Mustaid Khan",
+            "Aqil Khan Razi",
+            "Ishwar Das"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "In the Mughal administration Muhtasib was",
+        "answer": "An Officer-in-charge of public morals",
+        "choices": [
+            "An Officer-in-charge of public morals",
+            "Officer of correspondence Department",
+            "Head of Foreign Affairs",
+            "Military Officer"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "In Medieval India, why was the mansabdari system introduced?",
+        "answer": "Ensuring clean administration",
+        "choices": [
+            "Ensuring clean administration",
+            "For revenue collection",
+            "Facilitating recruitment to the army",
+            "To establish religious harmony"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Madad-i-Maash indicates in Mughal administration",
+        "answer": "Revenue-free land grant for charitable reasons",
+        "choices": [
+            "Revenue-free land grant for charitable reasons",
+            "Toll Tax",
+            "Pension provided to military officials",
+            "Cultivation Tax"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "The meaning of word Bantai during Medieval period was?",
+        "answer": "System of revenue collection",
+        "choices": [
+            "System of revenue collection",
+            "Religious Tax",
+            "Wealth Tax",
+            "Property Tax"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Mughal paintings reached its zenith under",
+        "answer": "Jahangir",
+        "choices": [
+            "Jahangir",
+            "Humayun",
+            "Shah Jahan",
+            "Akbar"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which Mughal ruler established Karkhanas for painting?",
+        "answer": "Akbar",
+        "choices": [
+            "Akbar",
+            "Jahangir",
+            "Shah Jahan",
+            "Humayun"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which among the following ports was called Babul Makka during the Mughal period?",
+        "answer": "Surat",
+        "choices": [
+            "Surat",
+            "Calicut",
+            "Cambay",
+            "Broach"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which Sultan was reputed to be Akbar of Kashmir",
+        "answer": "Sultan Zainul Abidin",
+        "choices": [
+            "Sultan Zainul Abidin",
+            "Sultan Shamsuddin Shah",
+            "Sultan Qutbuddin",
+            "Sultan Sikandar"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who stated the five thousand to twenty thousand men worked for forty years to build the palace of forty pillars at Allhabad in Akbar's time?",
+        "answer": "William Finch",
+        "choices": [
+            "William Finch",
+            "Manucci",
+            "Tavernier",
+            "Abdul Hamid Lahori"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Where was the capital of Shivaji?",
+        "answer": "Raigarh",
+        "choices": [
+            "Raigarh",
+            "Sindugarh",
+            "Poona",
+            "Kolhapur"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Ashta Pradhan was established by which ruler?",
+        "answer": "Shivaji",
+        "choices": [
+            "Shivaji",
+            "Akbar",
+            "Babur",
+            "Aurangzeb"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Ashta Pradhan was a council of ministers in whose administration",
+        "answer": "Maratha",
+        "choices": [
+            "Maratha",
+            "Gupta",
+            "Chola",
+            "Vijayanagara"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Saranzami system was related to",
+        "answer": "land revenue system of Maratha",
+        "choices": [
+            "land revenue system of Maratha",
+            "Taluqdari system",
+            "Qutb Shahi administration",
+            "Religious Tax"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who was the last Mughal Emperor to sit on Mayur Singhasan?",
+        "answer": "Muhammad Shah",
+        "choices": [
+            "Muhammad Shah",
+            "Shah Alam I",
+            "Bahadur Shah",
+            "Jahandar Shah"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Which of the following Mughal emperors was not allowed to enter into Delhi by Wazir Ghaziuddin?",
+        "answer": "Shah Alam II",
+        "choices": [
+            "Shah Alam II",
+            "Alamgir II",
+            "Akbar II",
+            "Bahadur Shah II"
         ]
     },
     {

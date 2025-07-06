@@ -295,5 +295,16 @@
             "The end of the Mughal Empire",
             "The Industrial Revolution in Britain"
         ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who laid the foundation of new landed aristocracy in Bengal?",
+        "answer": "Murshid Quli Khan",
+        "choices": [
+            "Murshid Quli Khan",
+            "Mir Jafar",
+            "Mir Qasim",
+            "Shah Alam"
+        ]
     }
 ]

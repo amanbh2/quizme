@@ -1,12 +1,12 @@
 Question counts:
 Recent2025: 204 questions
-HistoryModern: 27 questions
+HistoryModern: 28 questions
 HistoryAncient: 152 questions
-HistoryMedieval: 12 questions
+HistoryMedieval: 98 questions
 BiharSpecific: 201 questions
 Geography: 44 questions
 Polity: 41 questions
 Science: 112 questions
 BiharEcoSrvy2024-25: 7 questions
 BiharBudget2025-26: 3 questions
-Total Questions: 803
+Total Questions: 890
