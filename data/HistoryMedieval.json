@@ -1076,5 +1076,159 @@
             "Akbar II",
             "Bahadur Shah II"
         ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who established Lodi Dyansty",
+        "answer": "Bahlul Khan Lodi",
+        "choices": [
+            "Bahlul Khan Lodi",
+            "Sikandr Khan Lodi",
+            "Malik Sultan Khan Lodi",
+            "Ibrahim Lodi"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "First Sikh Guru",
+        "answer": "Guru Nanak",
+        "choices": [
+            "Guru Nanak",
+            "Guru Angad",
+            "Guru Gobind Singh",
+            "Guru Hargobind"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Last ruling dynasty of Delhi Sultanate",
+        "answer": "Lodi",
+        "choices": [
+            "Lodi",
+            "Mameluk",
+            "Tughlaq",
+            "Khalji"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "First ruling dynasty of Delhi Sultanate",
+        "answer": "Mameluk",
+        "choices": [
+            "Mameluk",
+            "Lodi",
+            "Tughlaq",
+            "Khalji"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Name the ruler who led to the fall of Constantinople",
+        "answer": "Mehmed II",
+        "choices": [
+            "Mehmed II",
+            "Ibrahim II",
+            "Murad II",
+            "Bayezid II"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who established the Mughal Empire",
+        "answer": "Babur",
+        "choices": [
+            "Babur",
+            "Akbar",
+            "Jahangir",
+            "Shah Jahan"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who restored the Grand Trunk Road from the river Indus in the west to Sonargaon in Bengal",
+        "answer": "Sher Shah Suri",
+        "choices": [
+            "Sher Shah Suri",
+            "Humayun",
+            "Shah Jahan",
+            "Akbar"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Thomas Roe, the royal envoy of the king of England visited court of which ruler in India",
+        "answer": "Jahangir",
+        "choices": [
+            "Jahangir",
+            "Akbar",
+            "Humayun",
+            "Aurangzeb"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who constructed the Taj Mahal",
+        "answer": "Shah Jahan",
+        "choices": [
+            "Shah Jahan",
+            "Akbar",
+            "Humayun",
+            "Aurangzeb"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who executed Guru Tegh Bahadur",
+        "answer": "Aurangzeb",
+        "choices": [
+            "Aurangzeb",
+            "Akbar",
+            "Humayun",
+            "Shah Jahan"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Sikh Guru born in Bihar",
+        "answer": "Guru Gobind Singh",
+        "choices": [
+            "Guru Gobind Singh",
+            "Guru Tegh Bahadu",
+            "Guru Nanak",
+            "Guru Angad"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who established the Maratha Kingdom",
+        "answer": "Shivaji",
+        "choices": [
+            "Shivaji",
+            "Shambhaji",
+            "Nana Pahadi",
+            "Tanhaji"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "The Khalsa, warrior group of Sikh was established by",
+        "answer": "Guru Gobind Singh",
+        "choices": [
+            "Guru Gobind Singh",
+            "Guru Nanak",
+            "Guru Tegh Bahadur",
+            "Guru Angad"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who established the Sikh Empire",
+        "answer": "Ranjit Singh",
+        "choices": [
+            "Ranjit Singh",
+            "Guru Gobind",
+            "Guru Nanak",
+            "Prithviraj Chouhan"
+        ]
     }
 ]

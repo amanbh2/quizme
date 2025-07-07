@@ -2242,5 +2242,16 @@
             "Godavari",
             "Krishna"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "How many countries are member of BRICS as of 2025?",
+        "answer": "Ten",
+        "choices": [
+            "Ten",
+            "Five",
+            "Six",
+            "Eight"
+        ]
     }
 ]

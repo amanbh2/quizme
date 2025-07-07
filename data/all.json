@@ -2244,25 +2244,14 @@
         ]
     },
     {
-        "sheet": "HistoryModern",
-        "question": "Who established Lodi Dyansty",
-        "answer": "Bahlul Khan Lodi",
+        "sheet": "Recent2025",
+        "question": "How many countries are member of BRICS as of 2025?",
+        "answer": "Ten",
         "choices": [
-            "Bahlul Khan Lodi",
-            "Sikandr Khan Lodi",
-            "Malik Sultan Khan Lodi",
-            "Ibrahim Lodi"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
-        "question": "First Sikh Guru",
-        "answer": "Guru Nanak",
-        "choices": [
-            "Guru Nanak",
-            "Guru Angad",
-            "Guru Gobind Singh",
-            "Guru Hargobind"
+            "Ten",
+            "Five",
+            "Six",
+            "Eight"
         ]
     },
     {
@@ -2300,50 +2289,6 @@
     },
     {
         "sheet": "HistoryModern",
-        "question": "Last ruling dynasty of Delhi Sultanate",
-        "answer": "Lodi",
-        "choices": [
-            "Lodi",
-            "Mameluk",
-            "Tughlaq",
-            "Khalji"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
-        "question": "First ruling dynasty of Delhi Sultanate",
-        "answer": "Mameluk",
-        "choices": [
-            "Mameluk",
-            "Lodi",
-            "Tughlaq",
-            "Khalji"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
-        "question": "Name the ruler who led to the fall of Constantinople",
-        "answer": "Mehmed II",
-        "choices": [
-            "Mehmed II",
-            "Ibrahim II",
-            "Murad II",
-            "Bayezid II"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
-        "question": "Who established the Agra city",
-        "answer": "Sikhander Khan Lodi",
-        "choices": [
-            "Sikhander Khan Lodi",
-            "Malik Sultan Khan Lodi",
-            "Ibrahim Lodi",
-            "Ibrahim Lodi"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
         "question": "Who discovered all sea route from Europe to India",
         "answer": "Vasco Da Gama",
         "choices": [
@@ -2351,94 +2296,6 @@
             "Christopher Columbus",
             "Captain Hawkins",
             "Afonso de Albuquerque"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
-        "question": "Who established the Mughal Empire",
-        "answer": "Babur",
-        "choices": [
-            "Babur",
-            "Akbar",
-            "Jahangir",
-            "Shah Jahan"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
-        "question": "Who restored the Grand Trunk Road from the river Indus in the west to Sonargaon in Bengal",
-        "answer": "Sher Shah Suri",
-        "choices": [
-            "Sher Shah Suri",
-            "Humayun",
-            "Shah Jahan",
-            "Akbar"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
-        "question": "Thomas Roe, the royal envoy of the king of England visited court of which ruler in India",
-        "answer": "Jahangir",
-        "choices": [
-            "Jahangir",
-            "Akbar",
-            "Humayun",
-            "Aurangzeb"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
-        "question": "Who constructed the Taj Mahal",
-        "answer": "Shah Jahan",
-        "choices": [
-            "Shah Jahan",
-            "Akbar",
-            "Humayun",
-            "Aurangzeb"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
-        "question": "Who executed Guru Tegh Bahadur",
-        "answer": "Aurangzeb",
-        "choices": [
-            "Aurangzeb",
-            "Akbar",
-            "Humayun",
-            "Shah Jahan"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
-        "question": "Sikh Guru born in Bihar",
-        "answer": "Guru Gobind Singh",
-        "choices": [
-            "Guru Gobind Singh",
-            "Guru Tegh Bahadu",
-            "Guru Nanak",
-            "Guru Angad"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
-        "question": "Who established the Maratha Kingdom",
-        "answer": "Shivaji",
-        "choices": [
-            "Shivaji",
-            "Shambhaji",
-            "Nana Pahadi",
-            "Tanhaji"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
-        "question": "The Khalsa, warrior group of Sikh was established by",
-        "answer": "Guru Gobind Singh",
-        "choices": [
-            "Guru Gobind Singh",
-            "Guru Nanak",
-            "Guru Tegh Bahadur",
-            "Guru Angad"
         ]
     },
     {
@@ -2483,17 +2340,6 @@
             "Charles Cornwallis",
             "Warren Hastings",
             "Robert Clive"
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
-        "question": "Who established the Sikh Empire",
-        "answer": "Ranjit Singh",
-        "choices": [
-            "Ranjit Singh",
-            "Guru Gobind",
-            "Guru Nanak",
-            "Prithviraj Chouhan"
         ]
     },
     {
@@ -2549,6 +2395,204 @@
             "Mir Jafar",
             "Mir Qasim",
             "Shah Alam"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the first Portugese Viceroy in India?",
+        "answer": "Almeida",
+        "choices": [
+            "Almeida",
+            "Diaz",
+            "Vasco da Gama",
+            "Albuquerque"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who used Hooghly as a base for piracy in the Bay of Bengal?",
+        "answer": "Portugeese",
+        "choices": [
+            "Portugeese",
+            "Dutch",
+            "French",
+            "British"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Dutch East India Company established its factory at Patna in which year?",
+        "answer": 1632,
+        "choices": [
+            1632,
+            1601,
+            1774,
+            1651
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Where in India did Britishers set up their first factory in 1613?",
+        "answer": "Surat",
+        "choices": [
+            "Surat",
+            "Goa",
+            "Hooghly",
+            "Amarkot"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the British officials defeated Portugeese at Sowlley?",
+        "answer": "Thomas Best",
+        "choices": [
+            "Thomas Best",
+            "William Hawkins",
+            "Josiah Child",
+            "Thomas Roe"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which one of the following was the immediate cause of First Carnatic War?",
+        "answer": "Capture of French ships by British",
+        "choices": [
+            "Capture of French ships by British",
+            "Anglo-French Rivalry",
+            "Austrian War of Succession",
+            "Issues of Carnatic Succession"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Identify the region from where Europeans got best shora (Saltpetre) and opium",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Gujarat",
+            "Bengal",
+            "Madras"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "During British rule which region of India was famous for the production of opium?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Gujarat",
+            "Assam",
+            "Bengal"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Emperor Shah Alam II gave the Diwani of Bengal, Bihar and Orissa to East India Company on",
+        "answer": "12th  August 1765",
+        "choices": [
+            "12th  August 1765",
+            "18th  August 1765",
+            "29th  August 1765",
+            "21st  August 1765"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which treaty was signed after the Battle of Buxar?",
+        "answer": "Treaty of Allahabad",
+        "choices": [
+            "Treaty of Allahabad",
+            "Treaty of Sugauli",
+            "Treaty of Bassein",
+            "Treaty of Salbai"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the Commander-in-chief of the English forces during the Buxar war?",
+        "answer": "Hector Munro",
+        "choices": [
+            "Hector Munro",
+            "Campbell",
+            "Holwell",
+            "Neill"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was appointed Deputy Diwan of Murshidabad by Robert Clive after the Allahabad Treaty?",
+        "answer": "Muhammad Raza Khan",
+        "choices": [
+            "Muhammad Raza Khan",
+            "Shitab Rai",
+            "Rai Durlabh",
+            "Syed Ghulam Hussain"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The famous Battle of Wandiwash in 1760 was fought by the British against whom?",
+        "answer": "French",
+        "choices": [
+            "French",
+            "Dutch",
+            "Mysore",
+            "Portugese"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which city of Bihar was made capital in lieu of Murshidabad by Mir Qasim?",
+        "answer": "Munger",
+        "choices": [
+            "Munger",
+            "Rajgir",
+            "Patna",
+            "Darbhanga"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Robert Lytton is not associated with which of the following?",
+        "answer": "Ilbert Bill",
+        "choices": [
+            "Ilbert Bill",
+            "Strachey Commission",
+            "Arms act",
+            "Vernacular Press act"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Ranjeet Singh got famous Kohinoor diamond from",
+        "answer": "Shah Shuja",
+        "choices": [
+            "Shah Shuja",
+            "Zaman Shah",
+            "Dost Mohammad",
+            "Sher Ali"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Tipu Sultan set up his capital at",
+        "answer": "Srirangapatnam",
+        "choices": [
+            "Srirangapatnam",
+            "Mysore",
+            "Bangalore",
+            "Coimbatore"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Englishmen made the Treaty of Srirangapatnam with",
+        "answer": "Tipu Sultan",
+        "choices": [
+            "Tipu Sultan",
+            "Hyder Ali",
+            "Dupleix",
+            "Nandraj"
         ]
     },
     {
@@ -5299,6 +5343,160 @@
             "Alamgir II",
             "Akbar II",
             "Bahadur Shah II"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who established Lodi Dyansty",
+        "answer": "Bahlul Khan Lodi",
+        "choices": [
+            "Bahlul Khan Lodi",
+            "Sikandr Khan Lodi",
+            "Malik Sultan Khan Lodi",
+            "Ibrahim Lodi"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "First Sikh Guru",
+        "answer": "Guru Nanak",
+        "choices": [
+            "Guru Nanak",
+            "Guru Angad",
+            "Guru Gobind Singh",
+            "Guru Hargobind"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Last ruling dynasty of Delhi Sultanate",
+        "answer": "Lodi",
+        "choices": [
+            "Lodi",
+            "Mameluk",
+            "Tughlaq",
+            "Khalji"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "First ruling dynasty of Delhi Sultanate",
+        "answer": "Mameluk",
+        "choices": [
+            "Mameluk",
+            "Lodi",
+            "Tughlaq",
+            "Khalji"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Name the ruler who led to the fall of Constantinople",
+        "answer": "Mehmed II",
+        "choices": [
+            "Mehmed II",
+            "Ibrahim II",
+            "Murad II",
+            "Bayezid II"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who established the Mughal Empire",
+        "answer": "Babur",
+        "choices": [
+            "Babur",
+            "Akbar",
+            "Jahangir",
+            "Shah Jahan"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who restored the Grand Trunk Road from the river Indus in the west to Sonargaon in Bengal",
+        "answer": "Sher Shah Suri",
+        "choices": [
+            "Sher Shah Suri",
+            "Humayun",
+            "Shah Jahan",
+            "Akbar"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Thomas Roe, the royal envoy of the king of England visited court of which ruler in India",
+        "answer": "Jahangir",
+        "choices": [
+            "Jahangir",
+            "Akbar",
+            "Humayun",
+            "Aurangzeb"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who constructed the Taj Mahal",
+        "answer": "Shah Jahan",
+        "choices": [
+            "Shah Jahan",
+            "Akbar",
+            "Humayun",
+            "Aurangzeb"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who executed Guru Tegh Bahadur",
+        "answer": "Aurangzeb",
+        "choices": [
+            "Aurangzeb",
+            "Akbar",
+            "Humayun",
+            "Shah Jahan"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Sikh Guru born in Bihar",
+        "answer": "Guru Gobind Singh",
+        "choices": [
+            "Guru Gobind Singh",
+            "Guru Tegh Bahadu",
+            "Guru Nanak",
+            "Guru Angad"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who established the Maratha Kingdom",
+        "answer": "Shivaji",
+        "choices": [
+            "Shivaji",
+            "Shambhaji",
+            "Nana Pahadi",
+            "Tanhaji"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "The Khalsa, warrior group of Sikh was established by",
+        "answer": "Guru Gobind Singh",
+        "choices": [
+            "Guru Gobind Singh",
+            "Guru Nanak",
+            "Guru Tegh Bahadur",
+            "Guru Angad"
+        ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who established the Sikh Empire",
+        "answer": "Ranjit Singh",
+        "choices": [
+            "Ranjit Singh",
+            "Guru Gobind",
+            "Guru Nanak",
+            "Prithviraj Chouhan"
         ]
     },
     {
