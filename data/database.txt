@@ -1,12 +1,12 @@
 Question counts:
-Recent2025: 205 questions
-HistoryModern: 31 questions
-HistoryAncient: 152 questions
-HistoryMedieval: 112 questions
-BiharSpecific: 201 questions
-Geography: 44 questions
-Polity: 41 questions
-Science: 112 questions
-BiharEcoSrvy2024-25: 7 questions
-BiharBudget2025-26: 3 questions
-Total Questions: 908
+Recent2025: 210
+HistoryModern: 57
+HistoryAncient: 152
+HistoryMedieval: 112
+BiharSpecific: 201
+Geography: 44
+Polity: 41
+Science: 112
+BiharEcoSrvy2024-25: 7
+BiharBudget2025-26: 3
+Total Questions: 939

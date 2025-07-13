@@ -2253,5 +2253,60 @@
             "Six",
             "Eight"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Name the Indain state which overtook TB Death Free initiative in 2022 showing promiment reduction in death rate of TB patients?",
+        "answer": "Tamil Nadu",
+        "choices": [
+            "Tamil Nadu",
+            "Bihar",
+            "Maharashtra",
+            "Kerala"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Name the first woman director of Railway Protection Force in India?",
+        "answer": "Sonali Mishra",
+        "choices": [
+            "Sonali Mishra",
+            "Kiran Bedi",
+            "Kanchan Chaudhary Bhattacharya",
+            "Meera Borwankar"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which technology underlies cryptocurrencies like Bitcoins and Stablecoins?",
+        "answer": "Blockchain",
+        "choices": [
+            "Blockchain",
+            "Cloud Computing",
+            "Artificial Intelligence",
+            "Quantum Computing"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What are Stablecoins",
+        "answer": "Cryptocurrencies backed by an asset",
+        "choices": [
+            "Cryptocurrencies backed by an asset",
+            "Cyrptocurrencies not linked to any fiat money",
+            "Cryptocurrencies independent of market",
+            "Cryptocurrencies issued by private entity"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which type of asset can back a fiat-collateralised Stablecoin?",
+        "answer": "Indian Rupee",
+        "choices": [
+            "Indian Rupee",
+            "Cryptocurrency",
+            "Oil",
+            "Gold"
+        ]
     }
 ]

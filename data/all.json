@@ -2255,6 +2255,61 @@
         ]
     },
     {
+        "sheet": "Recent2025",
+        "question": "Name the Indain state which overtook TB Death Free initiative in 2022 showing promiment reduction in death rate of TB patients?",
+        "answer": "Tamil Nadu",
+        "choices": [
+            "Tamil Nadu",
+            "Bihar",
+            "Maharashtra",
+            "Kerala"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Name the first woman director of Railway Protection Force in India?",
+        "answer": "Sonali Mishra",
+        "choices": [
+            "Sonali Mishra",
+            "Kiran Bedi",
+            "Kanchan Chaudhary Bhattacharya",
+            "Meera Borwankar"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which technology underlies cryptocurrencies like Bitcoins and Stablecoins?",
+        "answer": "Blockchain",
+        "choices": [
+            "Blockchain",
+            "Cloud Computing",
+            "Artificial Intelligence",
+            "Quantum Computing"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What are Stablecoins",
+        "answer": "Cryptocurrencies backed by an asset",
+        "choices": [
+            "Cryptocurrencies backed by an asset",
+            "Cyrptocurrencies not linked to any fiat money",
+            "Cryptocurrencies independent of market",
+            "Cryptocurrencies issued by private entity"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which type of asset can back a fiat-collateralised Stablecoin?",
+        "answer": "Indian Rupee",
+        "choices": [
+            "Indian Rupee",
+            "Cryptocurrency",
+            "Oil",
+            "Gold"
+        ]
+    },
+    {
         "sheet": "HistoryModern",
         "question": "Which year marks fall of Constantinople",
         "answer": 1453,
@@ -2355,7 +2410,7 @@
     },
     {
         "sheet": "HistoryModern",
-        "question": "The term \"Girmitiya\" refers to",
+        "question": "The term Girmitiya refers to",
         "answer": "Indian indentured laborers sent to work overseas under contract",
         "choices": [
             "Indian indentured laborers sent to work overseas under contract",
@@ -2366,11 +2421,11 @@
     },
     {
         "sheet": "HistoryModern",
-        "question": "The word \"Girmitiya\" is derived from",
-        "answer": "The English word \"agreement\"",
+        "question": "The word Girmitiya is derived from",
+        "answer": "The English word agreement",
         "choices": [
-            "The English word \"agreement\"",
-            "The Hindi word \"grihapati\"",
+            "The English word agreement",
+            "The Hindi word grihapati",
             "A Sanskrit term meaning worker",
             "A Persian word meaning servant"
         ]
@@ -2593,6 +2648,292 @@
             "Hyder Ali",
             "Dupleix",
             "Nandraj"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the first Governor General of India?",
+        "answer": "William Bentick",
+        "choices": [
+            "William Bentick",
+            "Warren Hastings",
+            "Charles Canning",
+            "Robert Lytton"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which year, first Census was introduced in India?",
+        "answer": 1872,
+        "choices": [
+            1872,
+            1901,
+            1911,
+            1921
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who said, A single shelf of a good European library was worth the whole native literature of India and Arabia?",
+        "answer": "Thomas Babington Macaulay",
+        "choices": [
+            "Thomas Babington Macaulay",
+            "Dr William Carey",
+            "Charles Grant",
+            "John Elliot - Minto"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following abolished Dual Government system in Bengal?",
+        "answer": "Warren Hastings",
+        "choices": [
+            "Warren Hastings",
+            "Robert Clive",
+            "Charles Cornwallis",
+            "Richard Wellesley"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The policy of Security Cell or Ring Fence policy is related to",
+        "answer": "Warren Hastings",
+        "choices": [
+            "Warren Hastings",
+            "James Andrew - Dalhousie",
+            "Charles Cornwallis",
+            "Robert Clive"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The dual system of governance in Bengal was enforced by",
+        "answer": "Robert Clive",
+        "choices": [
+            "Robert Clive",
+            "Warren Hastings",
+            "William Bentinck",
+            "George Curzon"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who is considered the Father of Diarchy?",
+        "answer": "Lionel Curtis",
+        "choices": [
+            "Lionel Curtis",
+            "Robert Clive",
+            "Hector Munro",
+            "Thomas Babington Macaulay"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "First Maratha Sardar to accept the subsidiary alliance of Richard Wellesley was",
+        "answer": "Peshwa Bajirao II",
+        "choices": [
+            "Peshwa Bajirao II",
+            "Raghuji Bhosle",
+            "Daulat Rao Scindia",
+            "Bhalaji Rao"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Under whose leadership was the suppresson of Thugs achieved?",
+        "answer": "Captain Sleeman",
+        "choices": [
+            "Captain Sleeman",
+            "Robert Clive",
+            "Hector Munro",
+            "Alexander Burnes"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following princely states was not annexed by the British",
+        "answer": "Gwalior",
+        "choices": [
+            "Gwalior",
+            "Sind",
+            "Awadh",
+            "Satara"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Sind was conquered and annexed by",
+        "answer": "Charles Napier",
+        "choices": [
+            "Charles Napier",
+            "Wellington",
+            "Sleeman",
+            "Lawrence"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The first railway in India was ladi down during the period of",
+        "answer": "Dalhousie",
+        "choices": [
+            "Dalhousie",
+            "George Curzon",
+            "Wellesly",
+            "Lytton"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Queen Victoria was appointed the Empress of India in",
+        "answer": 1876,
+        "choices": [
+            1876,
+            1877,
+            1858,
+            1885
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Viceroy who followd aggressive policy towards Afghanistan was",
+        "answer": "Robert Lytton",
+        "choices": [
+            "Robert Lytton",
+            "Richard Bourke - Mayo",
+            "Frederick Hamilton - Dufferin",
+            "Charles Canning"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which among the following viceroy's period the title of Rai Bahadur and Khan Bhadur began to confer to Indian?",
+        "answer": "Robert Lytton",
+        "choices": [
+            "Robert Lytton",
+            "Richard Bourke - Mayo",
+            "Frederick Hamilton - Dufferin",
+            "George Robinson Ripon"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In 1902 George Curzon appointed the University Commission including two Indian members.Who were they?",
+        "answer": "Syed Hussain Bilgrami & Justice Gururdas Banerjeee",
+        "choices": [
+            "Syed Hussain Bilgrami & Justice Gururdas Banerjeee",
+            "Bal Gangadhar Tilak and Surendranath Banerjee",
+            "Gopal Krishna Gokhale and Rashbehari Bose",
+            "Syed Hussain Bilgrami & Justice Gurudas Banerjee"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which year was the Indian Universities Act passed by George Curzon?",
+        "answer": 1904,
+        "choices": [
+            1904,
+            1901,
+            1906,
+            18886
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who established Imperial Cadet Corps?",
+        "answer": "Charles Curzon",
+        "choices": [
+            "Charles Curzon",
+            "George Robinson Ripon",
+            "John Elliot - Minto",
+            "Robert Lytton"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In my belief Congress is to tottering to its fails and one of my great ambitions while in India is to assist it to a peaceful demise. Who wrote it",
+        "answer": "Charles Curzon",
+        "choices": [
+            "Charles Curzon",
+            "Frederick Hamilton Dufferin",
+            "John Elliot - Minto",
+            "Robert Lytton"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Muslims, if contented and satisfied would become the greatest bulwark of British power in India, who wrote it?",
+        "answer": "William Wilson Hunter",
+        "choices": [
+            "William Wilson Hunter",
+            "Herbert Risley",
+            "Henry Noel Brailsford",
+            "Robert Lytton"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the founder of Empire in India?",
+        "answer": "Robert Clive",
+        "choices": [
+            "Robert Clive",
+            "John Elliot - Minto",
+            "Richard Bourke - Mayo",
+            "William Henry Sleeman"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who introduced the system of Mahalwari Settlement in Bengal?",
+        "answer": "Holt mackenzie",
+        "choices": [
+            "Holt mackenzie",
+            "Charles Cornwallis",
+            "Warren Hastings",
+            "William Bentinck"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which compensation tax the Indigo farmers were required to pay, if they desired exemption from Indigo cultivation?",
+        "answer": "Tawan",
+        "choices": [
+            "Tawan",
+            "Batta",
+            "Jaziya",
+            "Nazrana"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Permanent Settlement was made with",
+        "answer": "Zamindars",
+        "choices": [
+            "Zamindars",
+            "Muqaddamas",
+            "Peasants",
+            "Village Communities"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following is correct about permanent settlement introduced in Bihar",
+        "answer": "The right of ownership of land was made hereditary and transferable for the Zamindars",
+        "choices": [
+            "The right of ownership of land was made hereditary and transferable for the Zamindars",
+            "The Zamindars were deprived of the ownership of the land",
+            "Land Revenue was not fixed",
+            "Abolition of Zamindari"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which year the rights of the tenants on land in Bengal and Bihar were given by the Bengal Tenancy Act",
+        "answer": 1885,
+        "choices": [
+            1885,
+            1995,
+            1875,
+            1975
         ]
     },
     {
@@ -6590,7 +6931,7 @@
     },
     {
         "sheet": "BiharSpecific",
-        "question": "Which of the following river is also known as \"Bihar ka shok\"",
+        "question": "Which of the following river is also known as Bihar ka shok",
         "answer": "Kosi",
         "choices": [
             "Kosi",
