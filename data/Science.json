@@ -1230,5 +1230,49 @@
             "photosynthesis by grassland ecosystem",
             "photosynthesis be wtland algaes"
         ]
+    },
+    {
+        "sheet": "Science",
+        "question": "In which year International Space Station was launched?",
+        "answer": 1998,
+        "choices": [
+            1998,
+            1999,
+            2000,
+            1997
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Name the world's first Space Station",
+        "answer": "Salyut 1",
+        "choices": [
+            "Salyut 1",
+            "Mir",
+            "Skylab",
+            "Tiangong"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "First country to launch space station in the world",
+        "answer": "USSR",
+        "choices": [
+            "USSR",
+            "USA",
+            "China",
+            "India"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Name the first person in the world to travel in space?",
+        "answer": "Yuri Gagrin",
+        "choices": [
+            "Yuri Gagrin",
+            "Rakesh Sharma",
+            "Shubhanshu Shukla",
+            "Alan Shepard"
+        ]
     }
 ]

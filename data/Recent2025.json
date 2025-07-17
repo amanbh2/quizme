@@ -2308,5 +2308,49 @@
             "Oil",
             "Gold"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "How many days does Shubhanshu Shukla spent in space during Axiom4 mission?",
+        "answer": "20 days",
+        "choices": [
+            "20 days",
+            "15 days",
+            "18 days",
+            "16 days"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "How much is the contribution from Non-Fossil Fuel sources in country's total installed electric capacity?",
+        "answer": "50.1 percent",
+        "choices": [
+            "50.1 percent",
+            "49.9 percent",
+            "37.8 percent",
+            "30.4 percent"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "How many UNESCO World Heritage sites are there in India as per July 2025?",
+        "answer": 44,
+        "choices": [
+            44,
+            45,
+            43,
+            40
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Name the latest addition in UNESCO World Heritage sites in India in July 2025?",
+        "answer": "Military Landscape of Maratha Empire",
+        "choices": [
+            "Military Landscape of Maratha Empire",
+            "Moidams – Mound-Burial System of the Ahom Dynasty",
+            "Sacred Ensembles of the Hoysalas",
+            "Dholavira: A Harappan City"
+        ]
     }
 ]

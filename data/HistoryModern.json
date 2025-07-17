@@ -513,7 +513,7 @@
             "Syed Hussain Bilgrami & Justice Gururdas Banerjeee",
             "Bal Gangadhar Tilak and Surendranath Banerjee",
             "Gopal Krishna Gokhale and Rashbehari Bose",
-            "Syed Hussain Bilgrami & Justice Gurudas Banerjee"
+            "Syed Hussain Bilgrami & Surendranath Banerjee"
         ]
     },
     {
@@ -524,7 +524,7 @@
             1904,
             1901,
             1906,
-            18886
+            1886
         ]
     },
     {
@@ -624,6 +624,611 @@
             1995,
             1875,
             1975
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The system, under which the peasant himself is the owner of the land and is held responsible for the payment of land revenue to the government is known as?",
+        "answer": "Ryotwari System",
+        "choices": [
+            "Ryotwari System",
+            "Zamindari System",
+            "Mahalwari System",
+            "Dahsala System"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Ryotwari system was first implemented in",
+        "answer": "Madras",
+        "choices": [
+            "Madras",
+            "Bihar",
+            "Bengal",
+            "Odisha"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "When was new Enfield Riffle with greased cartridges introduced in the British Indian Army?",
+        "answer": "December, 1856",
+        "choices": [
+            "December, 1856",
+            "November, 1856",
+            "January, 1857",
+            "February, 1857"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following is not a reason for making the sepoys of the East India Company rebellious?",
+        "answer": "Inefficiency of the officers",
+        "choices": [
+            "Inefficiency of the officers",
+            "The efforts of the officers of the company to spread Christianity",
+            "The order to the sepoys to travel on ships",
+            "The stoppage of Bhatta"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Where from the Revolution of 1857 started first?",
+        "answer": "Meerut",
+        "choices": [
+            "Meerut",
+            "Lucknow",
+            "Allahabad",
+            "Jhansi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "At Delhi, during the Revolt of 1857, the nominal and symbolic leadership belonged to the emperor Bahadur Shah, but the real command lay with a court of soldiers headed by",
+        "answer": "Bakht Khan",
+        "choices": [
+            "Bakht Khan",
+            "Nana Saheb",
+            "Hazrat Mahal",
+            "Laxmibai"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The first woman President of the Indian National Congress was",
+        "answer": "Annie Besant",
+        "choices": [
+            "Annie Besant",
+            "Sarojini Naidu",
+            "Kasturba Gandhi",
+            "Aruna Asaf Ali"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The female freedom fighter popularly known as the Grand Old Lady of the Independence Movement was",
+        "answer": "Aruna Asaf Ali",
+        "choices": [
+            "Aruna Asaf Ali",
+            "Gulab Kaur",
+            "Bishni Devi Shah",
+            "Annie Besant"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The revolt of 1857 at Lucknow was led by",
+        "answer": "Begum Hazrat Mahal",
+        "choices": [
+            "Begum Hazrat Mahal",
+            "Tatya Tope",
+            "Rani Lakshmibai",
+            "Nana Saheb"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Where did Satyendra Prasad Sinha resign from the post of Governor in 1921?",
+        "answer": "Bihar-Odisha",
+        "choices": [
+            "Bihar-Odisha",
+            "Bengal",
+            "Punjab",
+            "Madras"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who spearheaded the 1857 Revolt in Bihar?",
+        "answer": "Kunwar Singh",
+        "choices": [
+            "Kunwar Singh",
+            "Nana Saheb",
+            "Tatya Tope",
+            "Maulvi Ahmadullah"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Where did Kunwar Singh join the Rebellion of 1857 against the British?",
+        "answer": "Arrah",
+        "choices": [
+            "Arrah",
+            "Patna",
+            "Bettiah",
+            "Varanasi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who said, Wherever I am, there is Jagadishpur?",
+        "answer": "Kunwar Singh",
+        "choices": [
+            "Kunwar Singh",
+            "Amar Singh",
+            "Rani Lakshmibai",
+            "General Lloyd"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The mutiny of 1857 at Patna was led by a dynamic old person known as",
+        "answer": "Kunwar Singh",
+        "choices": [
+            "Kunwar Singh",
+            "Hyder Ali Khan",
+            "Judhar Singh",
+            "Kusal Singh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The centre of 1857 revolt in Bihar from 15th July 1857 to 20th January 1858 was",
+        "answer": "Jagdishpur",
+        "choices": [
+            "Jagdishpur",
+            "Hamirpur",
+            "Dheerpur",
+            "Rampur"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "One of the leaders of the Revolt of 1857 Kunwar Singh was related to which place?",
+        "answer": "Jagdishpur",
+        "choices": [
+            "Jagdishpur",
+            "Gwalior",
+            "Jhansi",
+            "Meerut"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who of the following was the bitterest enemy of the British during the Revolt of 1857?",
+        "answer": "Maulavi Ahamadullah Shah",
+        "choices": [
+            "Maulavi Ahamadullah Shah",
+            "Maulavi Imadadullah",
+            "Maulana Fazi-i-Haq Khairabadi",
+            "Nawab Liaquat Ali"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Revolt of 1857 was witnessed by the poet",
+        "answer": "Ghalib",
+        "choices": [
+            "Ghalib",
+            "Zauq",
+            "Mir Taqi Mir",
+            "Iqbal"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following did not rebel against the British East India Company's control over them?",
+        "answer": "Nizam of Hyderabad",
+        "choices": [
+            "Nizam of Hyderabad",
+            "Raja of Vijayanagar",
+            "Polygar of Tamil Nadu",
+            "Dewan Velu Thampi of Travancore"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which part of Bihar was unaffected with the revolt of 1857?",
+        "answer": "Munger",
+        "choices": [
+            "Munger",
+            "Patna",
+            "Muzaffarpur",
+            "Arrah"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the Governor-General of India in 1857?",
+        "answer": "Charles Canning",
+        "choices": [
+            "Charles Canning",
+            "James Andrew - Dalhousie",
+            "Richard Wellesley",
+            "John Elliot - Minto"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "What was the main cause of the failure of the revolt of 1857?",
+        "answer": "Lack of common strategy and central organisation",
+        "choices": [
+            "Lack of common strategy and central organisation",
+            "Lack of Hindu-Muslim Unity",
+            "Its effect was within a limited area",
+            "Non-participations of Landlords"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who called the revolt of 1857 a conspiracy?",
+        "answer": "Sir James Outram and W Taylor",
+        "choices": [
+            "Sir James Outram and W Taylor",
+            "Sir John K",
+            "Sir John Lawrence",
+            "T R Homes"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "When did Queen Victoria declare the taking over of Indian Administration under British Crown?",
+        "answer": "1st November 1858",
+        "choices": [
+            "1st November 1858",
+            "31st Decemeber 1857",
+            "6th January 1958",
+            "17th November 1859"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following commissions is associated with the army reorganisation after the suppression of the Revolt of 1857?",
+        "answer": "Peel Commission",
+        "choices": [
+            "Peel Commission",
+            "Public Service Commission",
+            "Hunter Commission",
+            "Simon Commission"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "After the revolt of 1857, the British recruited the soldiers from the",
+        "answer": "Gurkhas, Sikhs and Punjabis in the North",
+        "choices": [
+            "Gurkhas, Sikhs and Punjabis in the North",
+            "Brahmins of UP & Bihar",
+            "Bengalis and Orria's from the East",
+            "Madras presidency and Marathas"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The uprising of 1857 was described as the First Indian War of Independence by",
+        "answer": "V D Savarkar",
+        "choices": [
+            "V D Savarkar",
+            "Bal Gangadhar Tilak",
+            "R C Mazumdar",
+            "Dadabhai Naoroji"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Tana Bhagat Movement, a nonviolent movement against British rule, originated among the tribal communities of which Indian State?",
+        "answer": "Jharkhand",
+        "choices": [
+            "Jharkhand",
+            "Kerala",
+            "Uttar Pradesh",
+            "Madras"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Indigo rebellion was about",
+        "answer": "the peasant not wanting to grow indigo but being forced to grow at a price that was unacceptable",
+        "choices": [
+            "the peasant not wanting to grow indigo but being forced to grow at a price that was unacceptable",
+            "the peasant not wanting to grow indigo but being forced",
+            "the peasant wanting to grow indigo but being forced not to",
+            "a protest movement that carried an indigo coloured flag"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who is the author of Neel Darpan a book written on the miserable condition of Indigo farmers?",
+        "answer": "Dinbandhu Mitra",
+        "choices": [
+            "Dinbandhu Mitra",
+            "Bankim Chandra Chatterji",
+            "Acharya Kripalani",
+            "Rabindranath Tagore"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which month of 1918 was the Champaran Agrarian Act passed against the European Indigo planters?",
+        "answer": "March, 1918",
+        "choices": [
+            "March, 1918",
+            "January, 1918",
+            "December, 1918",
+            "September, 1918"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the bitter critic of Sir Syed Ahmed Khan?",
+        "answer": "Jamaluddin Afghani",
+        "choices": [
+            "Jamaluddin Afghani",
+            "C F Andrews",
+            "Maulvi Zakaullah",
+            "Shibli Nomani"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "What was the purpose of Barhiyataal resistence in Munger?",
+        "answer": "Demand of Bakast land restoration",
+        "choices": [
+            "Demand of Bakast land restoration",
+            "Muslim peasants may not be exploited",
+            "Abolishment of Zamindari custom",
+            "Beginning of class struggle"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Kuka Movement was organised by",
+        "answer": "Guru Ram Singh",
+        "choices": [
+            "Guru Ram Singh",
+            "Guru Nanak",
+            "Guru Gobind Singh",
+            "Guru Ram Das"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who founded the Pagal Panth",
+        "answer": "Karam Shah",
+        "choices": [
+            "Karam Shah",
+            "Bulleh Shah",
+            "Yaduvendra Singh",
+            "Swami Shajananada"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who were the Faraizis?",
+        "answer": "Followers of Haji Shariatullah",
+        "choices": [
+            "Followers of Haji Shariatullah",
+            "Followers of Dadu",
+            "Followers of the Arya Samaj",
+            "Followers of the Muslim League"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who began the Faraizi movement?",
+        "answer": "Haji Shariatullah",
+        "choices": [
+            "Haji Shariatullah",
+            "Syed Ahmed",
+            "Salimullah",
+            "Muhammad Ali Jinnah"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Taiyuni Movement began in opposition of the Faraizi Movement at Dhaka in 1893 was started by",
+        "answer": "Maulana Karamat Ali of Jaunpur",
+        "choices": [
+            "Maulana Karamat Ali of Jaunpur",
+            "Syed Amir Ali of Calcutta",
+            "Sir Syed Ahmed of Aligarh",
+            "Hasn Imam of Patna"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who founded Ramosi Krishak Jatha in Maharashtra?",
+        "answer": "Vasudeo Balwant Phadke",
+        "choices": [
+            "Vasudeo Balwant Phadke",
+            "Justice Ranade",
+            "Gopal Krishna Gokhale",
+            "Jyotiba Phule"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The correct geographical location for the Ramosi Uprising was",
+        "answer": "Western Ghats",
+        "choices": [
+            "Western Ghats",
+            "Western India",
+            "Eastern India",
+            "Eastern Ghats"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Name the tribe that rebelled against the Britishers because human sacrifice system was banned",
+        "answer": "Khond",
+        "choices": [
+            "Khond",
+            "Kuki",
+            "Oraon",
+            "Nackda"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Kol Mutiny of 1831 under Buddho Bhagat took place in which of the following regions?",
+        "answer": "Singhbum",
+        "choices": [
+            "Singhbum",
+            "Kutch",
+            "Western Ghats",
+            "Satara"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Waghera Uprising happened in",
+        "answer": "Baroda",
+        "choices": [
+            "Baroda",
+            "Surat",
+            "Poona",
+            "Calicut"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who were the leaders of Santhal Revolt?",
+        "answer": "Sidhu and Kanhu",
+        "choices": [
+            "Sidhu and Kanhu",
+            "Jara Bhagat and Balaram Bhagat",
+            "Gaurakshni Bhagat and Keshav Chandra Roy",
+            "Shambhumath Pal and Korra Mallaya"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which among the following year Santhal Revolt occurred?",
+        "answer": "1855-56 CE",
+        "choices": [
+            "1855-56 CE",
+            "1831-32 CE",
+            "1844-46 CE",
+            "1851-52 CE"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which British Commander was defeated by the Santhals in 1855?",
+        "answer": "Major Burroguh",
+        "choices": [
+            "Major Burroguh",
+            "Captain nek Feville",
+            "Lt. Bastain",
+            "Colonel White"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Mundas raised revolt in",
+        "answer": 1899,
+        "choices": [
+            1899,
+            1888,
+            1857,
+            1875
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Birsa Munda was considered by his followers as the incarnation of ",
+        "answer": "Dharti Abba",
+        "choices": [
+            "Dharti Abba",
+            "Sing Bonga",
+            "Mago Manki",
+            "Bir Sing"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Ulgulan Revolt was related to",
+        "answer": "Birsa Munda",
+        "choices": [
+            "Birsa Munda",
+            "Kachha Nagh",
+            "Santhal",
+            "Kol"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the leader of Munda rebellion of 1899-1900 CE?",
+        "answer": "Birsa Munda",
+        "choices": [
+            "Birsa Munda",
+            "Budha Bhagat",
+            "Siddhu",
+            "Tilak Manjhi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Birsa Munda was in favour of",
+        "answer": "Munda Raj",
+        "choices": [
+            "Munda Raj",
+            "British Raj",
+            "Raj of Dikus",
+            "Sepration of Jharkhand"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which was the working area of Birsa Munda?",
+        "answer": "Ranchi",
+        "choices": [
+            "Ranchi",
+            "Champaran",
+            "Alipur",
+            "Balia"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which territory did tribals rebel against the British?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Punjab",
+            "Sindh",
+            "Kathiwar"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Hoz revolt took place during",
+        "answer": "1820-21",
+        "choices": [
+            "1820-21",
+            "1620-21",
+            "1720-21",
+            "1920-21"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Moplah Rebellion of 1921 broke out in",
+        "answer": "Kerala",
+        "choices": [
+            "Kerala",
+            "Assam",
+            "Punjab",
+            "Bengal"
         ]
     }
 ]
