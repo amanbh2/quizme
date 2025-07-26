@@ -1296,5 +1296,27 @@
             "Plasmodium ovale",
             "Plasmodium malariae"
         ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the typical electrical output range of Small Modular Reactors (SMRs)?",
+        "answer": "50 to 300 MW",
+        "choices": [
+            "50 to 300 MW",
+            "10 to 50 MW",
+            "300 to 1000 MW",
+            "More than 2000 MW"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the key feature of a Small Modular Reactor (SMR) compared to traditional nuclear reactors?",
+        "answer": "Can be manufactured in a factory and assembled on-site",
+        "choices": [
+            "Can be manufactured in a factory and assembled on-site",
+            "Uses only thorium as fuel",
+            "Requires high population density",
+            "Requires extremely large cooling towers"
+        ]
     }
 ]

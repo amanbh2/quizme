@@ -2385,5 +2385,170 @@
             "United Kingdom",
             "France"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Under which Article of the Indian Constitution can a Supreme Court judge be removed from office?",
+        "answer": "Article 124(4)",
+        "choices": [
+            "Article 124(4)",
+            "Article 142",
+            "Article 370",
+            "Article 356"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What are the grounds for initiating impeachment proceedings against a Supreme Court or High Court judge in India?",
+        "answer": "Proved misbehaviour or incapacity",
+        "choices": [
+            "Proved misbehaviour or incapacity",
+            "Financial irregularities",
+            "Treason",
+            "Breach of privilege"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the minimum number of Lok Sabha members required to sign a motion for the removal of a judge?",
+        "answer": 100,
+        "choices": [
+            100,
+            50,
+            150,
+            200
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the minimum number of Rajya Shabha members required to sign a motion for the removal of a judge?",
+        "answer": 50,
+        "choices": [
+            50,
+            100,
+            150,
+            200
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "For a judge’s removal motion to pass in Parliament, what is the required majority in both Houses?",
+        "answer": "Majority of total membership and two-third of members present and voting",
+        "choices": [
+            "Majority of total membership and two-third of members present and voting",
+            "simple majority",
+            "two-third of total membership",
+            "three-fourth of total membership"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which Act regulates the detailed procedure for the investigation and removal of judges in India?",
+        "answer": "Judges (Inquiry) Act, 1968",
+        "choices": [
+            "Judges (Inquiry) Act, 1968",
+            "Judicial Review Act, 1970",
+            "Indian Penal Code",
+            "Representation of the People act"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The term of office of vice-president of India is mentioned under which article?",
+        "answer": "Article 67",
+        "choices": [
+            "Article 67",
+            "Article 124",
+            "Article 56",
+            "Article 65"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The title Gangaikonda Chola was acquired by which ruler?",
+        "answer": "Rajendra Chola I",
+        "choices": [
+            "Rajendra Chola I",
+            "Rajaraja Chola I",
+            "Aditya Chola",
+            "Kulothunga Chola I"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The Aadi Thiruvathirai Festival celebrates the birth anniversary of which great Chola emperor?",
+        "answer": "Rajendra Chola I",
+        "choices": [
+            "Rajendra Chola I",
+            "Rajaraja Chola I",
+            "Karikala Chola",
+            "Kulothunga Chola I"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Name the capital established by Rajendra Chola I?",
+        "answer": "Gangaikonda Cholapuram",
+        "choices": [
+            "Gangaikonda Cholapuram",
+            "Thanjavur",
+            "Uraiyur",
+            "Kaveripoompattinam"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Name the Pala king who was defeated by Rajendra Chola I?",
+        "answer": "Mahipala I",
+        "choices": [
+            "Mahipala I",
+            "Devapala",
+            "Rajyapala",
+            "Gopala I"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Name the first state in India to introduce an e-voting system for urban local body elections",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who has won the Sahitya Akademi Yuva Puraskar 2025 for Maithili language",
+        "answer": "Neha Jha Mani for Benaras Aa Hum",
+        "choices": [
+            "Neha Jha Mani for Benaras Aa Hum",
+            "Sushil Shukla for Ek Batey Bara",
+            "Advait Kottary for Siddhartha",
+            "Parvati Tirkey for Phir Ugna"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who has won the Sahitya Akademi Bal Puraskar 2025 for Maithili language",
+        "answer": "Munni Kamat for Chukka",
+        "choices": [
+            "Munni Kamat for Chukka",
+            "Neha Jha Mani for Benaras Aa Hum",
+            "Advait Kottary for Siddhartha",
+            "Parvati Tirkey for Phir Ugna"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "In which city has Chief Minister of Bihar recently inaugurated Bikram Lock Canal Bank solar power project",
+        "answer": "Patna",
+        "choices": [
+            "Patna",
+            "Muzaffarpur",
+            "Darbhanga",
+            "Jamui"
+        ]
     }
 ]

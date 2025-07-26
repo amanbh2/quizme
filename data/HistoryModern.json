@@ -2077,5 +2077,445 @@
             "Raja of Jagdishpur",
             "Raja of Bhinga"
         ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Sardar Udham Singh killed whom?",
+        "answer": "Micheal O'Dwyar",
+        "choices": [
+            "Micheal O'Dwyar",
+            "Reginald Dyer",
+            "Curzon Wyllie",
+            "Saunders"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The protest method of moderate leaders of the Congress was?",
+        "answer": "Constitutional Agitation",
+        "choices": [
+            "Constitutional Agitation",
+            "Non-Cooperation",
+            "Passive Resistance",
+            "Civil Disobedience"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Most of the moderate leader hailed from",
+        "answer": "Urban Areas",
+        "choices": [
+            "Urban Areas",
+            "Rural Areas",
+            "Both Rural & Urban Areas",
+            "Punjab"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which one of the following was not an extremist?",
+        "answer": "Gopal Krishna Gokhale",
+        "choices": [
+            "Gopal Krishna Gokhale",
+            "Bal Gangadhar Tilak",
+            "Udham Singh",
+            "Madan Lal"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who established the Servants of India Society?",
+        "answer": "Gopal Krishna Gokhale",
+        "choices": [
+            "Gopal Krishna Gokhale",
+            "Lala Lajpat Rai",
+            "Bipin Chandra Pal",
+            "Bhagat Singh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Indian National Movement came to be dominated by the extremists after",
+        "answer": 1906,
+        "choices": [
+            1906,
+            1909,
+            1914,
+            1919
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which one of the following leaders belonged to the Extremist wing of the Congress?",
+        "answer": "Aurobindo Ghosh",
+        "choices": [
+            "Aurobindo Ghosh",
+            "Dadabhai Naoroji",
+            "Gopal Krishna Gokhale",
+            "Surendranath Banerjee"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following was not known as a moderate in the National Movement?",
+        "answer": "Bal Gangadhar Tilak",
+        "choices": [
+            "Bal Gangadhar Tilak",
+            "Dadabhai Naoroji",
+            "Gopal Krishna Gokhale",
+            "Mahadev Govind Ranade"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who is popularly known as Sher-e-Punjab?",
+        "answer": "Lala Lajpat Rai",
+        "choices": [
+            "Lala Lajpat Rai",
+            "Bhagat Singh",
+            "Rajguru",
+            "Udham Singh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In 1908, Bal Gangadhar Tilak was imprisoned for",
+        "answer": "6 years",
+        "choices": [
+            "6 years",
+            "5 years",
+            "7 years",
+            "8 years"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who said about Bengal partition, The partition announcement fell like a bomb shell?",
+        "answer": "Surendranath Banerjee",
+        "choices": [
+            "Surendranath Banerjee",
+            "Gopal Krishna Gokhale",
+            "Bipin Chandra Pal",
+            "Chittaranjan Das"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Bal Gangadhar Tilak came to be known as Lokmanya Tilak when",
+        "answer": "The Government accused him in the Rand Murder case",
+        "choices": [
+            "The Government accused him in the Rand Murder case",
+            "He started the Shivaji and Ganpati festivals",
+            "He started a popular newspaper",
+            "He became a popular teacher"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who founded Abhinav Bharat Society in 1906 in London?",
+        "answer": "Vinayak Damodar Savarkar",
+        "choices": [
+            "Vinayak Damodar Savarkar",
+            "Shyamji Krishna Verma",
+            "Sohan Singh",
+            "Pandurang Mahadev Bapat"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who established a branch of Anushilan Samiti at Patna in 1913?",
+        "answer": "Sachindra Nath Sanyal",
+        "choices": [
+            "Sachindra Nath Sanyal",
+            "Rewati Nag",
+            "Yadunath Sarkar",
+            "Mazharul Haque"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Anushilan Samiti was",
+        "answer": "a revolutionary organisation",
+        "choices": [
+            "a revolutionary organisation",
+            "dedicated to the upliftment of women",
+            "promoting widow remarriage",
+            "interested in labour welfare"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the founder of Swadesh Bandhav Samiti?",
+        "answer": "Ashwini Kumar Dutta",
+        "choices": [
+            "Ashwini Kumar Dutta",
+            "Prafulla Chaki",
+            "Vinayak Damodar Savarkar",
+            "Gopal Krishna Gokhale"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "When did the attempt of murder of Kingsford was made at Muzaffarpur, Bihar?",
+        "answer": 1908,
+        "choices": [
+            1908,
+            1909,
+            1907,
+            1911
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following was hanged on the charge of Muzaffarpur Bomb Case?",
+        "answer": "Khudiram Bose",
+        "choices": [
+            "Khudiram Bose",
+            "Prafulla Chaki",
+            "Batukeshwar Dutt",
+            "Rajendra Lahiri"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which place Khudiram Bose tried to kill Kingsford?",
+        "answer": "Muzaffarpur",
+        "choices": [
+            "Muzaffarpur",
+            "Gaya",
+            "Darbhanga",
+            "Patna"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was given life punishment for the murder of Colonel Wyllie?",
+        "answer": "Madan Lal Dhingra",
+        "choices": [
+            "Madan Lal Dhingra",
+            "Udham Singh",
+            "Bhagat Singh",
+            "Manmathanath"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Non-Cooperation Movement was suspended in",
+        "answer": 1922,
+        "choices": [
+            1922,
+            1921,
+            1923,
+            1924
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which year Hindustan Republican Association was set up",
+        "answer": 1924,
+        "choices": [
+            1924,
+            1920,
+            1928,
+            1930
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who penned the following lines? Sarfaroshi ki tamanna ab hamare dil me hai dekhna hai zor kitna baju-e-qatil me hai.",
+        "answer": "Bismil Azimabadi",
+        "choices": [
+            "Bismil Azimabadi",
+            "Rajguru",
+            "Bhagat Singh",
+            "Azad"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which revolutionaries were hanged in the Kakori Train Robbery Case?",
+        "answer": "Ram Prasad Bismil and Ashfaqulla",
+        "choices": [
+            "Ram Prasad Bismil and Ashfaqulla",
+            "Vinayak Damodar Savarkar and Vasudev Chapekar",
+            "Prafulla Chandra Chaki and Khudiram Bose",
+            "Surya Sen and Udham Singh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following was not associated with the Kakori train robbery case?",
+        "answer": "Sukhdev",
+        "choices": [
+            "Sukhdev",
+            "Ram Prasad Bismil",
+            "Ashfaqulla Khan",
+            "Roshan Singh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "How old was Bhagat Singh when he threw a bomb in the assembly in protest against the government?",
+        "answer": "a little more than 21 years",
+        "choices": [
+            "a little more than 21 years",
+            "21 years",
+            "25 years",
+            "a little more than 25 years"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "One of the founder leaders of Hindustan Socialist Republican Army was",
+        "answer": "Bhagat Singh",
+        "choices": [
+            "Bhagat Singh",
+            "Bhimrao Ambedkar",
+            "Subhash Chandra Bose",
+            "Jai Prakash Narayan"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who gave the Inquilab Zindabad slogan?",
+        "answer": "Bhagat Singh",
+        "choices": [
+            "Bhagat Singh",
+            "Mahatma Gandhi",
+            "Iqbal",
+            "Subhash Chandra Bose"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Bhagat Singh, Rajguru and Sukhdev were executed on",
+        "answer": "23rd March 1931",
+        "choices": [
+            "23rd March 1931",
+            "23rd March 1932",
+            "23rd March 1933",
+            "23rd March 1934"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Chittagong Armoury raid had been planned by",
+        "answer": "Surya Sen",
+        "choices": [
+            "Surya Sen",
+            "Chandan Dutta",
+            "Jatin Das",
+            "Vidhan Ghosh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who propounded the doctrine of Passive Resistance",
+        "answer": "Aurobindo Ghosh",
+        "choices": [
+            "Aurobindo Ghosh",
+            "Mahatma Gandhi",
+            "Bipin Chandra Pal",
+            "Bal Gangadhar Tilak"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "What was the slogan of the Bolsheviks during the 1917 Revolution?",
+        "answer": "Peace, Land, Bread",
+        "choices": [
+            "Peace, Land, Bread",
+            "Workers of the world, Unite",
+            "Liberty, Equality, Fraternity",
+            "Freedom and Justice"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the founder of the India House in London?",
+        "answer": "Shyamji Krishnavarma",
+        "choices": [
+            "Shyamji Krishnavarma",
+            "Rash Behari Bose",
+            "Ramchandra",
+            "Taraknath Das"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Ghadar Party was established in the year?",
+        "answer": 1913,
+        "choices": [
+            1913,
+            1907,
+            1917,
+            1920
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Where was the Ghadar Party established?",
+        "answer": "United States of America",
+        "choices": [
+            "United States of America",
+            "Germany",
+            "France",
+            "England"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "What was the cause of outbreak of Ghadar Revolution",
+        "answer": "Beginning of first World War",
+        "choices": [
+            "Beginning of first World War",
+            "Arresting of Lala Hardayal",
+            "Kamagatamaru incident",
+            "Hanging of Kartar Singh Sarabha"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Interim government under the leadership of Raja Mahendra Pratap Singh was founded in Kabul with the support of Germany during",
+        "answer": "First World War",
+        "choices": [
+            "First World War",
+            "Second World War",
+            "Ghadar Movement",
+            "Swadeshi Movement"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who is regarded as the Mother of Indian Revolution?",
+        "answer": "Bhikaiji Rustom Cama",
+        "choices": [
+            "Bhikaiji Rustom Cama",
+            "Annie Besant",
+            "Sarojini Naidu",
+            "Rama Bai"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Where did Madam Cama unfurl India's tricolour flag of freedom?",
+        "answer": "Stuttgart, Germany",
+        "choices": [
+            "Stuttgart, Germany",
+            "Paris, France",
+            "London, England",
+            "Geneva, Switzerland"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who called for a Total Revolution at Gandhi Maidan, Patna?",
+        "answer": "Jayaprakash Narayan",
+        "choices": [
+            "Jayaprakash Narayan",
+            "Rajendra Prasad",
+            "Raj Kumar Shukla",
+            "Karpoori Thakur"
+        ]
     }
 ]
