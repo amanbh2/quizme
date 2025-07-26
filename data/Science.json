@@ -1274,5 +1274,27 @@
             "Shubhanshu Shukla",
             "Alan Shepard"
         ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The indigenous malaria vaccine candidate developed under the aegis of ICMR is called",
+        "answer": "RTS,S",
+        "choices": [
+            "RTS,S",
+            "R21/Matrix-M",
+            "AdFalciVax",
+            "Covaxin"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": " AdFalciVax, the malaria vaccine candidate developed in India, is primarily targeted against which malaria parasite?",
+        "answer": "Plasmodium falciparum",
+        "choices": [
+            "Plasmodium falciparum",
+            "Plasmodium vivax",
+            "Plasmodium ovale",
+            "Plasmodium malariae"
+        ]
     }
 ]

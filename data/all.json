@@ -2354,6 +2354,39 @@
         ]
     },
     {
+        "sheet": "Recent2025",
+        "question": "According to Article 145(3) what is the minimum number of judges required to interprete the Constitution or hear any reference?",
+        "answer": "Five",
+        "choices": [
+            "Five",
+            "Four",
+            "Ten",
+            "Seven"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the maximum one-time incentive for first-time employees under the ELI scheme?",
+        "answer": "15,000 rupees",
+        "choices": [
+            "15,000 rupees",
+            "50,000 rupees",
+            "20,000 rupees",
+            "25,000 rupees"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which of the following countries is not part of E3 grouping?",
+        "answer": "Switzerland",
+        "choices": [
+            "Switzerland",
+            "Germany",
+            "United Kingdom",
+            "France"
+        ]
+    },
+    {
         "sheet": "HistoryModern",
         "question": "Which year marks fall of Constantinople",
         "answer": 1453,
@@ -2697,9 +2730,9 @@
     {
         "sheet": "HistoryModern",
         "question": "Who was the first Governor General of India?",
-        "answer": "William Bentick",
+        "answer": "William Bentinck",
         "choices": [
-            "William Bentick",
+            "William Bentinck",
             "Warren Hastings",
             "Charles Canning",
             "Robert Lytton"
@@ -2785,9 +2818,9 @@
     {
         "sheet": "HistoryModern",
         "question": "Under whose leadership was the suppresson of Thugs achieved?",
-        "answer": "Captain Sleeman",
+        "answer": "Captain William Henry Sleeman",
         "choices": [
-            "Captain Sleeman",
+            "Captain William Henry Sleeman",
             "Robert Clive",
             "Hector Munro",
             "Alexander Burnes"
@@ -3583,6 +3616,853 @@
             "Assam",
             "Punjab",
             "Bengal"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which year did Charles Wood send his despatch on General Education in India?",
+        "answer": 1854,
+        "choices": [
+            1854,
+            1857,
+            1848,
+            1850
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which year Mohammedan Anglo-Oriental College at Aligarh was established?",
+        "answer": 1877,
+        "choices": [
+            1877,
+            1870,
+            1880,
+            1890
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "When was the National Council of Education established?",
+        "answer": "15th August 1906",
+        "choices": [
+            "15th August 1906",
+            "15th August 1903",
+            "15th August 1904",
+            "15th August 1905"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "When did the British Government appoint Sadler University Commission for reforms in education?",
+        "answer": 1917,
+        "choices": [
+            1917,
+            1919,
+            1921,
+            1896
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following Indians qualified the Indian Civil Service Exam for the first time in 1863?",
+        "answer": "Satyendranath Thakur",
+        "choices": [
+            "Satyendranath Thakur",
+            "Rabindranath Thakur",
+            "Debendranath Thakur",
+            "Surendranath Thakur"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In 1890, the first woman graduate of Calcutta University, who addressed the Congress session was",
+        "answer": "Kadambini Ganguly",
+        "choices": [
+            "Kadambini Ganguly",
+            "Sarojini Naidu",
+            "Annie Besant",
+            "Indira Gandhi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The spiritual side of nationalism was voiced by",
+        "answer": "Swami Vivekananda",
+        "choices": [
+            "Swami Vivekananda",
+            "Raja Ram Mohun Roy",
+            "Swami Shraddhanand",
+            "Swami Shajananada"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who founded the newspaper - The Hindu in 1878, which became influential in shaping public opinion during the Indian national movement?",
+        "answer": "G Subramania Iyer",
+        "choices": [
+            "G Subramania Iyer",
+            "Viraraghavachariar",
+            "Mahatma Gandhi",
+            "Sahajananda Saraswati"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following repealed the Vernacular Press Act of 1878?",
+        "answer": "George Robinson - Ripon",
+        "choices": [
+            "George Robinson - Ripon",
+            "Robert Lytton",
+            "Charles Curzon",
+            "John Elliot - Minto"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who in America started to issue newspaper The Free Hindustan?",
+        "answer": "Tarak Nath Das",
+        "choices": [
+            "Tarak Nath Das",
+            "Ram Nath Puri",
+            "G D Kumar",
+            "Lala Hardayal"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who founded the Amrit Bazar Patrika?",
+        "answer": "Shishir Kumar Ghose",
+        "choices": [
+            "Shishir Kumar Ghose",
+            "Harish Chandra Mukherjee",
+            "S N Banerjee",
+            "Girish Chandra Ghose"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following papers was essentially the mouthpiece of the policies of liberals?",
+        "answer": "Leader",
+        "choices": [
+            "Leader",
+            "New India",
+            "Young India",
+            "Free Press Journal"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which journal was not associated with revolutionary activities?",
+        "answer": "Young India",
+        "choices": [
+            "Young India",
+            "Yugantar",
+            "Sandhya",
+            "Gadar"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following newspaper used to be published from Patna?",
+        "answer": "The Indian Nation",
+        "choices": [
+            "The Indian Nation",
+            "Punjab Kesari",
+            "Prabhakar",
+            "Dawn"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Name the editor of nationalist newspaper - Kesari",
+        "answer": "Bal Gangadhar Tilak",
+        "choices": [
+            "Bal Gangadhar Tilak",
+            "G Subramania Iyer",
+            "Surendranath Banerjee",
+            "Gopal Krishna Gokhale"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Name the editor of nationalist newspaper - Bengalee",
+        "answer": "Surendranath Banerjee",
+        "choices": [
+            "Surendranath Banerjee",
+            "Ganga Prasad Verma",
+            "Bal Gangadhar Tilak",
+            "Gopal Krishna Gokhale"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Name the editor of nationalist newspaper - Hindustani",
+        "answer": "Ganga Prasad Verma",
+        "choices": [
+            "Ganga Prasad Verma",
+            "Surendranath Banerjee",
+            "Bal Gangadhar Tilak",
+            "Gopal Krishna Gokhale"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Name the editor of nationalist newspaper - Sudharak",
+        "answer": "Gopal Krishna Gokhale",
+        "choices": [
+            "Gopal Krishna Gokhale",
+            "Ganga Prasad Verma",
+            "G Subramania Iyer",
+            "Surendranath Banerjee"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Name the editor of nationalist newspaper - The Mahratta",
+        "answer": "Bal Gangadhar Tilak",
+        "choices": [
+            "Bal Gangadhar Tilak",
+            "G Subramania Iyer",
+            "Surendranath Banerjee",
+            "Ganga Prasad Verma"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following was not a nationalist newspaper",
+        "answer": "The Times of India",
+        "choices": [
+            "The Times of India",
+            "Bengalee",
+            "The Mahratta",
+            "The Hindu"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The nationalist daily newpaper - Then Indian Nation started its publication in",
+        "answer": 1931,
+        "choices": [
+            1931,
+            1930,
+            1940,
+            1947
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which category of population was least attracted to Religious reform movements of the nineteenth century?",
+        "answer": "Poor Ordinariness Class",
+        "choices": [
+            "Poor Ordinariness Class",
+            "Intellectuals",
+            "Urban Upper Castes",
+            "Liberal Princes"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the father of the Indian Renaissance movement?",
+        "answer": "Raja Ram Mohan Roy",
+        "choices": [
+            "Raja Ram Mohan Roy",
+            "Bal Gangadhar Tilak",
+            "Dayanand Saraswati",
+            "Shraddhanand"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following was the founder of Atmiya Sabha?",
+        "answer": "Raja Ram Mohan Roy",
+        "choices": [
+            "Raja Ram Mohan Roy",
+            "Swami Dayanand Saraswati",
+            "Swami Vivekanand",
+            "Aurobindo Ghosh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Brahmo Samaj was founded in the year of",
+        "answer": 1828,
+        "choices": [
+            1828,
+            1827,
+            1829,
+            1843
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The best representative of Neo-Hindustan in the second half of the 19th century was",
+        "answer": "Swami Vivekananda",
+        "choices": [
+            "Swami Vivekananda",
+            "Ramkrishna Paramhans",
+            "Bankim Chandra Chatterji",
+            "Raja Ram Mohan Roy"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following participated in the parliament of Religions held at Chicago in 1893?",
+        "answer": "Swami Vivekananda",
+        "choices": [
+            "Swami Vivekananda",
+            "Swami Dayanand Saraswati",
+            "Mahatma Gandhi",
+            "Raja Ram Mohan Roy"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Swami Vivekananda established Ramakrishna Mission in the year",
+        "answer": 1897,
+        "choices": [
+            1897,
+            1891,
+            1861,
+            1893
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was Sharadamani",
+        "answer": "wife of Ramakrishna Paramhansa",
+        "choices": [
+            "wife of Ramakrishna Paramhansa",
+            "Wife of Raja Ram Mohan Roy",
+            "Mother of Vivekananda",
+            "Daughter of Keshab Chandra Sen"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Dayanand Saraswati founded",
+        "answer": "Arya Samaj",
+        "choices": [
+            "Arya Samaj",
+            "Brahmo Samaj",
+            "Prathana Samaj",
+            "Bhaujan Samaj"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who established the Arya Samaj",
+        "answer": "Swami Dayanand Saraswati",
+        "choices": [
+            "Swami Dayanand Saraswati",
+            "Swami Vivekanand",
+            "Joytirao Phule",
+            "Ishwar Chandra Vidyasagar"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following gave the slogan - India for the Indians?",
+        "answer": "Swami Dayanand Saraswati",
+        "choices": [
+            "Swami Dayanand Saraswati",
+            "Swami Vivekanand",
+            "H N Kunzru",
+            "Ishwar Chandra Vidyasagar"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Satyarth Prakash was written by",
+        "answer": "Swami Dayanand Saraswati",
+        "choices": [
+            "Swami Dayanand Saraswati",
+            "Swami Vivekanand",
+            "Mahatma Gandhi",
+            "Swami Vivekanand"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the founder of Prarthana Samaj",
+        "answer": "Atmaram Pandurang",
+        "choices": [
+            "Atmaram Pandurang",
+            "Jyotirao Phule",
+            "Gopal Hari Deshmukh",
+            "Mahatma Gandhi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In 1873 who founded Satya Shodhak Samaj?",
+        "answer": "Jyotirao Phule",
+        "choices": [
+            "Jyotirao Phule",
+            "Atmaram Pandurang",
+            "Gopal Hari Deshmukh",
+            "Naoroji Furdunji"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who established Rehnumai Mazdayasan Sabha",
+        "answer": "Naoroji Furdunji",
+        "choices": [
+            "Naoroji Furdunji",
+            "Jyotirao Phule",
+            "Atmaram Pandurang",
+            "Gopal Hari Deshmukh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which social reformer was called Lokhitwadi?",
+        "answer": "Gopal Hari Deshmukh",
+        "choices": [
+            "Gopal Hari Deshmukh",
+            "Gopal Krishna Gokhale",
+            "Jayaprakash Narayan",
+            "Karpuri Thakur"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who declared Sati illegal?",
+        "answer": "William Bentinck",
+        "choices": [
+            "William Bentinck",
+            "Warren Hastings",
+            "Charles Curzon",
+            "Charles Cornwallis"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "When was the Prohibition of Sati Act passed in India?",
+        "answer": 1829,
+        "choices": [
+            1829,
+            1830,
+            1831,
+            1836
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following inscriptions mentions the instance of widow burining (Sati)?",
+        "answer": "Eran Pillar Inscription of Bhanugupta",
+        "choices": [
+            "Eran Pillar Inscription of Bhanugupta",
+            "Eran Pillar Inscription of Budhagupta",
+            "Eran Stone Inscription of Samudragupta",
+            "Eran Boar Inscription of Toramana"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who founded the Theosophical Society?",
+        "answer": "Helena Petrovna Blavatsky",
+        "choices": [
+            "Helena Petrovna Blavatsky",
+            "Raja Ram Mohan Roy",
+            "Mahatma Gandhi",
+            "Swami Vivekanand"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who demanded the right to enter temples that caused a terrible riot in Tirunelveli in 1899?",
+        "answer": "Nadars",
+        "choices": [
+            "Nadars",
+            "Okalinga",
+            "Mahar",
+            "Pali"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the founder of the Indian Association in 1876?",
+        "answer": "Surendranath Banerjee",
+        "choices": [
+            "Surendranath Banerjee",
+            "Chittaranjan Das",
+            "Arvind Ghosh",
+            "Dadabhai Naoroji"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The most important of the pre-Congress Nationalist Organisation was the",
+        "answer": "Indian Association of Calcutta",
+        "choices": [
+            "Indian Association of Calcutta",
+            "Young Bengal Association",
+            "East India Association",
+            "Bengal British India Society"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which year Surendra Nath Banerjee was eliminated from Indian Civil Services?",
+        "answer": 1874,
+        "choices": [
+            1874,
+            1892,
+            1885,
+            1877
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which year Surendra Nath Banerjee founded the Indian Association in Kolkata",
+        "answer": 1876,
+        "choices": [
+            1876,
+            1870,
+            1885,
+            1884
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the first Indian to resist the political reforms?",
+        "answer": "Raja Ram Mohan Roy",
+        "choices": [
+            "Raja Ram Mohan Roy",
+            "Dadabhai Naoroji",
+            "Surendranath Banerjee",
+            "Bal Gangadhar Tilak"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Madras Mahajan Sabha was established in the year",
+        "answer": 1884,
+        "choices": [
+            1884,
+            1874,
+            1881,
+            1882
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Madras Mahajan Sabha was established by",
+        "answer": "M. Veeraraghavachariar",
+        "choices": [
+            "M. Veeraraghavachariar",
+            "Mahadev Govind Ranade",
+            "Surendranath Banerjee",
+            "Womesh Chunder Bonerjee"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Poona Sarvajanik Sabha was founded in",
+        "answer": 1870,
+        "choices": [
+            1870,
+            1874,
+            1881,
+            1882
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Poona Sarvajanik Sabha was founded by",
+        "answer": "Mahadev Govind Ranade",
+        "choices": [
+            "Mahadev Govind Ranade",
+            "M. Veeraraghavachariar",
+            "Surendranath Banerjee",
+            "Womesh Chunder Bonerjee"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Bombay Presidency Association was founded in",
+        "answer": 1885,
+        "choices": [
+            1885,
+            1870,
+            1884,
+            1876
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following was not a founder of Bombay Presidency Association",
+        "answer": "Womesh Chunder Bonerjee",
+        "choices": [
+            "Womesh Chunder Bonerjee",
+            "Pherozeshah Mehta",
+            "Kashinath Trimbak Telang",
+            "Badruddin Tayabji"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Indian National Congress was founded by",
+        "answer": "Allan Octavian Hume",
+        "choices": [
+            "Allan Octavian Hume",
+            "Surendranath Banerjee",
+            "Womesh Chunder Bonerjee",
+            "Annie Besant"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The founder of the Indian National Congress was a",
+        "answer": "Civil Servant",
+        "choices": [
+            "Civil Servant",
+            "Scientist",
+            "Social Worker",
+            "Commander"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "When was the Indian National Congress set up?",
+        "answer": 1885,
+        "choices": [
+            1885,
+            1884,
+            1886,
+            1887
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "How many representatives took part in the first session of the Indian National Congress?",
+        "answer": "72 delegates",
+        "choices": [
+            "72 delegates",
+            "62 delegates",
+            "82 delegates",
+            "52 delegates"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The first conference of Indian National Congress was held at",
+        "answer": "Mumbai",
+        "choices": [
+            "Mumbai",
+            "Pune",
+            "Kolkata",
+            "Lahore"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the first muslim President of the Indian National Congress?",
+        "answer": "Badruddin Tyabji",
+        "choices": [
+            "Badruddin Tyabji",
+            "Zakir Hussain",
+            "Hakim Ajmal Khan",
+            "R A Kidwani"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The precursor of Indian National Congress was",
+        "answer": "Indian National Union",
+        "choices": [
+            "Indian National Union",
+            "British Indian Association",
+            "Indian Association",
+            "Indian League"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "How many muslim delegates participated in the Second Convention of the Indian National Congress?",
+        "answer": 33,
+        "choices": [
+            33,
+            41,
+            30,
+            2
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The second session of the Indian National Congress was presided over by",
+        "answer": "Dadabhai Naoroji",
+        "choices": [
+            "Dadabhai Naoroji",
+            "Ganesh Agarkar",
+            "Surendranath Banerjee",
+            "Pherozeshah Mehta"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the second muslim President of the Indian National Congress?",
+        "answer": "Rahimtulla Mahomed Sayani",
+        "choices": [
+            "Rahimtulla Mahomed Sayani",
+            "Zakir Hussain",
+            "Badruddin Tyabji",
+            "Maulana Abul Kalam Azad"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the first woman President of the Indian National Congress?",
+        "answer": "Annie Besant",
+        "choices": [
+            "Annie Besant",
+            "Sarojini Naidu",
+            "Kadambini Ganguly",
+            "Kasturba Gandhi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the first Indian woman President of the Indian National Congress?",
+        "answer": "Sarojini Naidu",
+        "choices": [
+            "Sarojini Naidu",
+            "Annie Besant",
+            "Kadambini Ganguly",
+            "Sucheta Kriplani"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "At which place was the 27th session of the Indian National Congress held?",
+        "answer": "Bankipur",
+        "choices": [
+            "Bankipur",
+            "Ramgarh",
+            "Gaya",
+            "Bhagalpur"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "At which of the following sessions of the Indian National Congress did the Champaran trouble come up for discussion?",
+        "answer": "Lucknow, 1916",
+        "choices": [
+            "Lucknow, 1916",
+            "Calcutta, 1911",
+            "Bankipur, 1912",
+            "Ramgarh, 1940"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who said - Sawaraj is my birthright and I shall have it?",
+        "answer": "Bal Gangadhar Tilak",
+        "choices": [
+            "Bal Gangadhar Tilak",
+            "Bipan Chandra Pal",
+            "Aurobindo Ghosh",
+            "Subhash Chandra Bose"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who said - The basic cause of problems facing Bharat is the neglect of its national identity?",
+        "answer": "Deen Dayal Upadhyay",
+        "choices": [
+            "Deen Dayal Upadhyay",
+            "Keshav Baliram Hedgewar",
+            "Madhav Sadashiv Golwalkar",
+            "Karpoori Thakur"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Lucknow Pact took place in which year",
+        "answer": 1916,
+        "choices": [
+            1916,
+            1915,
+            1917,
+            1912
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Remember once again, now that this flag is unfurled, it must not be lowered as long as a single Indian, man, woman or child lives in India, who said this?",
+        "answer": "Jawaharlal Nehru in Lahore",
+        "choices": [
+            "Jawaharlal Nehru in Lahore",
+            "Gandhi in Gujarat",
+            "Surendranath Banerjee in Bengal",
+            "Subhash Chandra Bose in Singapore"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who said that Congress Movement was neither inspired by the people, nor devised or planned by them?",
+        "answer": "Lala Lajpat Rai",
+        "choices": [
+            "Lala Lajpat Rai",
+            "Syed Ahmed",
+            "Frederick Hamilton - Dufferin",
+            "George Curzon"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the President of the Patna Session of Indian National Congress held in 1912?",
+        "answer": "Raghunath Narsinha Mudholkar",
+        "choices": [
+            "Raghunath Narsinha Mudholkar",
+            "Madan Mohan Malviya",
+            "Chittaranjan Das",
+            "Ambica Charan Mazumdar"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the President of the Gaya Session of Indian National Congress held in 1922?",
+        "answer": "Chittaranjan Das",
+        "choices": [
+            "Chittaranjan Das",
+            "Surendranath Banerjee",
+            "Rajendra Prasad",
+            "Raghunath Narsinha Mudholkar"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which tribe of Bihar attended Gaya Session of Congress?",
+        "answer": "Oraon",
+        "choices": [
+            "Oraon",
+            "Santhal",
+            "Sannyasi",
+            "Munda"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Shubhas Chandra Bose became the President of the Indian National Congress in Tripuri Session by defeating",
+        "answer": "Pattabhi Sitaramayya",
+        "choices": [
+            "Pattabhi Sitaramayya",
+            "Rash Behari Bose",
+            "Jawaharlal Nehru",
+            "Rajendra Prasad"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which Raja rendered a very valuable assistance to the Indian Natioanal Congress for holding is Fourth Session at Allahabad in 1888?",
+        "answer": "Raja of Darbhanga",
+        "choices": [
+            "Raja of Darbhanga",
+            "Raja of Benaras",
+            "Raja of Jagdishpur",
+            "Raja of Bhinga"
         ]
     },
     {
@@ -10909,6 +11789,28 @@
             "Rakesh Sharma",
             "Shubhanshu Shukla",
             "Alan Shepard"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The indigenous malaria vaccine candidate developed under the aegis of ICMR is called",
+        "answer": "RTS,S",
+        "choices": [
+            "RTS,S",
+            "R21/Matrix-M",
+            "AdFalciVax",
+            "Covaxin"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": " AdFalciVax, the malaria vaccine candidate developed in India, is primarily targeted against which malaria parasite?",
+        "answer": "Plasmodium falciparum",
+        "choices": [
+            "Plasmodium falciparum",
+            "Plasmodium vivax",
+            "Plasmodium ovale",
+            "Plasmodium malariae"
         ]
     },
     {

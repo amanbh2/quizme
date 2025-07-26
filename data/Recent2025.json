@@ -2352,5 +2352,38 @@
             "Sacred Ensembles of the Hoysalas",
             "Dholavira: A Harappan City"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "According to Article 145(3) what is the minimum number of judges required to interprete the Constitution or hear any reference?",
+        "answer": "Five",
+        "choices": [
+            "Five",
+            "Four",
+            "Ten",
+            "Seven"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the maximum one-time incentive for first-time employees under the ELI scheme?",
+        "answer": "15,000 rupees",
+        "choices": [
+            "15,000 rupees",
+            "50,000 rupees",
+            "20,000 rupees",
+            "25,000 rupees"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which of the following countries is not part of E3 grouping?",
+        "answer": "Switzerland",
+        "choices": [
+            "Switzerland",
+            "Germany",
+            "United Kingdom",
+            "France"
+        ]
     }
 ]
