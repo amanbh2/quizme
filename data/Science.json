@@ -1278,11 +1278,11 @@
     {
         "sheet": "Science",
         "question": "The indigenous malaria vaccine candidate developed under the aegis of ICMR is called",
-        "answer": "RTS,S",
+        "answer": "AdFalciVax",
         "choices": [
-            "RTS,S",
-            "R21/Matrix-M",
             "AdFalciVax",
+            "R21/Matrix-M",
+            "RTS,S",
             "Covaxin"
         ]
     },

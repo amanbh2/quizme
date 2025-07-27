@@ -5071,6 +5071,215 @@
         ]
     },
     {
+        "sheet": "HistoryModern",
+        "question": "The Swadeshi and Boycott were adopted as the methods of struggle for the first time during the",
+        "answer": "Partition of Bengal",
+        "choices": [
+            "Partition of Bengal",
+            "Home Rule Movement",
+            "Visit of Simon Commission ",
+            "Arrival of Mahatma Gandhi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which place was the organisation named Golden League formed to work for boycott and the Swadeshi Movement?",
+        "answer": "Deoghar",
+        "choices": [
+            "Deoghar",
+            "Muzaffarpur",
+            "Patna",
+            "Ranchi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The declaration of Partition of Bengal was done on",
+        "answer": "19th July 1905",
+        "choices": [
+            "19th July 1905",
+            "16th October 1905",
+            "15th August 1905",
+            "7th August 1905"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which movement started after the Partition of Bengal?",
+        "answer": "Swadeshi Movement",
+        "choices": [
+            "Swadeshi Movement",
+            "Civil Disobedience",
+            "Quit India Movement",
+            "Non-Cooperation Movement"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Name the viceroy of Indian concerned with Bengal partition",
+        "answer": "Charles Curzon",
+        "choices": [
+            "Charles Curzon",
+            "John Elliot - Minto",
+            "Robert Lytton",
+            "Charles Hardinge"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Bengal was partitioned in 1905, but due to opposition it was annulled in",
+        "answer": 1911,
+        "choices": [
+            1911,
+            1906,
+            1916,
+            1909
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following classes was mainly unaffected of Swadeshi Movement of 1905?",
+        "answer": "Farmers & Muslims",
+        "choices": [
+            "Farmers & Muslims",
+            "Women",
+            "Intellectuals",
+            "Women & Farmers"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following leaders presided over Congress Session at Calcutta in 1906?",
+        "answer": "Dadabhai Naoroji",
+        "choices": [
+            "Dadabhai Naoroji",
+            "Bal Gangadhar Tilak",
+            "Gopal Krishna Gokhale",
+            "Aurobindo Ghosh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "At the Calcutta Session of the Indian National Congress held in 1906, the Flag of Swaraj for India was unfurled by",
+        "answer": "Dadabhai Naoroji",
+        "choices": [
+            "Dadabhai Naoroji",
+            "Allan Octavian Hume",
+            "Gopal Krishna Gokhale",
+            "Bal Gangadhar Tilak"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "First Indian elected to the British House of Commons was Dadabhai Naoroji who contested on the ticket of ",
+        "answer": "Liberal Party",
+        "choices": [
+            "Liberal Party",
+            "Labour Party",
+            "Conservative Party",
+            "Communist Party"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was not among the founders of All India Muslim League?",
+        "answer": "Muhammad Ali Jinnah",
+        "choices": [
+            "Muhammad Ali Jinnah",
+            "Nawab Salimullah",
+            "Nawab Moshin-ul-Mulk",
+            "Agha Khan"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Muslim deputation met Minto in 1906 at Shimla and pleaded for",
+        "answer": "Separate electorate for Muslims",
+        "choices": [
+            "Separate electorate for Muslims",
+            "a composite electorate",
+            "higher representation to the Hindus",
+            "Special representation to Muslim by nomination"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who propounded the two-nation theory prior to the Pakistan Resolution of the Muslim League?",
+        "answer": "Syed Ahmad Khan",
+        "choices": [
+            "Syed Ahmad Khan",
+            "Muhammad Iqbal",
+            "Liaquat Ali Khan",
+            "Muhammad Ali Jinnah"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Whom did Rajendra Prasad considered as the father of Pakistan?",
+        "answer": "Gilbert Elliot - Minto",
+        "choices": [
+            "Gilbert Elliot - Minto",
+            "Muhammad Ali Jinnah",
+            "Louis Mountbatten",
+            "Liaquat Ali Khan"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Bihar became a separate state during the British rule in the year?",
+        "answer": 1912,
+        "choices": [
+            1912,
+            1905,
+            1936,
+            1946
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who earned the title of Recruiting Sergeant of the British for this support to the government during First World War?",
+        "answer": "Mahatma Gandhi",
+        "choices": [
+            "Mahatma Gandhi",
+            "Motilal Nehru",
+            "Madan Mohan Malviya",
+            "Gopal Krishna Gokhale"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following did not contribute to Home Rule League?",
+        "answer": "T S Alcott",
+        "choices": [
+            "T S Alcott",
+            "Bal Gangadhar Tilak",
+            "Annie Besant",
+            "S Subramaniam Iyer"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which conference could the Home-Rule supporters demonstrate their political power successfully?",
+        "answer": "Lucknow Conference of Congress in 1916",
+        "choices": [
+            "Lucknow Conference of Congress in 1916",
+            "All India Trade Union Conference held at Bombay in 1920",
+            "First Uttar Pradesh Association held in 1918",
+            "Joint AITUC and NTU sabha at Nagpur in 1938"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Home Rule Movement was symbol of starting a new phase of freedom movement in India because",
+        "answer": "it put a perfect project for the self-Government before the nation",
+        "choices": [
+            "it put a perfect project for the self-Government before the nation",
+            "Leadership of the movement came in the hands of Gandhiji",
+            "Hindus and Muslims started to struggle jointly",
+            "It established co-ordination between extremists and moderates"
+        ]
+    },
+    {
         "sheet": "HistoryAncient",
         "question": "Which one of the following periods is also known as Chalcolithic Age?",
         "answer": "Copper Age",
@@ -12399,11 +12608,11 @@
     {
         "sheet": "Science",
         "question": "The indigenous malaria vaccine candidate developed under the aegis of ICMR is called",
-        "answer": "RTS,S",
+        "answer": "AdFalciVax",
         "choices": [
-            "RTS,S",
-            "R21/Matrix-M",
             "AdFalciVax",
+            "R21/Matrix-M",
+            "RTS,S",
             "Covaxin"
         ]
     },
