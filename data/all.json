@@ -2552,6 +2552,105 @@
         ]
     },
     {
+        "sheet": "Recent2025",
+        "question": "What does NISAR stand for?",
+        "answer": "NASA-ISRO Synthetic Aperture Radar",
+        "choices": [
+            "NASA-ISRO Synthetic Aperture Radar",
+            "National Integrated Sattellite for Atmospheric Research",
+            "New Indian Satellite for Advanced Remote Sensing",
+            "National Indian Space Agency Radar"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which launch vehicle was used to carry the NISAR satellite into orbit?",
+        "answer": "GSLV-F16",
+        "choices": [
+            "GSLV-F16",
+            "Falcon 9",
+            "Araine 5",
+            "PSLV-C50"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "NISAR employs a dual-frequency Synthtic Aperture Radar (SAR) system. Which two radar bands does it utilize?",
+        "answer": "L-band and S-band",
+        "choices": [
+            "L-band and S-band",
+            "Ku-band and Ka-band",
+            "P-band and V-band",
+            "X-band and C-band"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Among the two bands that NISAR utilises which one is provided by NASA?",
+        "answer": "L-Band",
+        "choices": [
+            "L-Band",
+            "S-Band",
+            "X-Band",
+            "C-Band"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Among the two bands that NISAR utilises which one is provided by ISRO?",
+        "answer": "S-Band",
+        "choices": [
+            "S-Band",
+            "L-Band",
+            "X-Band",
+            "C-Band"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the approximate revisit cycle of the NISAR satellite, meaning how often it scans nearly all of Earth's land and ice surfaces?",
+        "answer": "Every 12 days",
+        "choices": [
+            "Every 12 days",
+            "Every 6 months",
+            "Once a year",
+            "Every 24 hours"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which article of Constitution of India empowers the Election Commission to undertake the Special Intensive Revision (SIR) of electoral rolls in states like Bihar?",
+        "answer": "Article 324",
+        "choices": [
+            "Article 324",
+            "Article 423",
+            "Article 234",
+            "Article 342"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What was the magnitude of the recent earthquake that struck off Russia's eastern Kamchatka Peninsula?",
+        "answer": 8.8,
+        "choices": [
+            8.8,
+            9.5,
+            9.1,
+            8.2
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The recent earthquake that struck off Russia's eastern Kamchatka Peninsula is part of which seismic active region?",
+        "answer": "Circum-Pacific Belt or Ring of Fire",
+        "choices": [
+            "Circum-Pacific Belt or Ring of Fire",
+            "Alpide Belt",
+            "Mid-Atlantic Ridge",
+            "San Andreas Fault Zone"
+        ]
+    },
+    {
         "sheet": "HistoryModern",
         "question": "Which year marks fall of Constantinople",
         "answer": 1453,
@@ -5277,6 +5376,193 @@
             "Leadership of the movement came in the hands of Gandhiji",
             "Hindus and Muslims started to struggle jointly",
             "It established co-ordination between extremists and moderates"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which of the following colleges, Gandhiji studied?",
+        "answer": "Samaldas College, Bhavnagar",
+        "choices": [
+            "Samaldas College, Bhavnagar",
+            "Dharmendrasinji College, Rajkot",
+            "Gujarat College, Ahmedabad",
+            "Bahauddin College, Junagadh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "To sort out whose legal problem was Mahatma Gandhi invited in South Africa in 1893?",
+        "answer": "Dada Abdullah of Gujarat",
+        "choices": [
+            "Dada Abdullah of Gujarat",
+            "Sheikh Abdullah of Kashmir",
+            "Titu Mir of Bengal",
+            "Imdad Imam of Bihar"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following was Gandhiji's first Satyagraha Movement in India in which he used Civil Disobedience?",
+        "answer": "Champaran",
+        "choices": [
+            "Champaran",
+            "Kheda",
+            "Ahmedabad",
+            "Rowlatt"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In response to the mass agitation of the Champaran Movement, the British Government took which step to address the issue?",
+        "answer": "Instituted the Champaran Agrarian Committee",
+        "choices": [
+            "Instituted the Champaran Agrarian Committee",
+            "Appointed Mahatma Gandhi as the Governor of Champaran",
+            "Enforced strict curfew and imposed Martial Law in the region",
+            "Declared Champaran as an independent State"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The cook from Bihar who saved Mahatma Gandhi's life from a murder attempt by food poisoning in 1917 was",
+        "answer": "Batak Mian",
+        "choices": [
+            "Batak Mian",
+            "Rajendra Prasad",
+            "Raj Kumar Shukla",
+            "Erwin"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which of the following movements did Mahatma Gandhi make the first use of the hunger strike as a weapon?",
+        "answer": "Ahmedabad Strike",
+        "choices": [
+            "Ahmedabad Strike",
+            "Non-Cooperation Movement",
+            "Bardoli Satyagraha",
+            "Rowlatt Satyagraha"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which of the following Satyagraha movements, did Gandhiji not participate directly?",
+        "answer": "Vaikom Satyagraha",
+        "choices": [
+            "Vaikom Satyagraha",
+            "Rajkot Satyagraha",
+            "Khera Satyagraha",
+            "Non-Cooperation Movement"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following capitalists served as an AICC treasurer for many years and went to Jail in 1930?",
+        "answer": "Jamnalal Bajaj",
+        "choices": [
+            "Jamnalal Bajaj",
+            "G D Birla",
+            "J R D Tata",
+            "Balchand Hirachand"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Gandhi's close English compatriot during the Freedom movement was",
+        "answer": "Charles Freer Andrews",
+        "choices": [
+            "Charles Freer Andrews",
+            "Thomas Moore",
+            "Allan Octavian Hume",
+            "William Wavell"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the political guru of Mahatma Gandhi?",
+        "answer": "Gopal Krishna Gokhale",
+        "choices": [
+            "Gopal Krishna Gokhale",
+            "Dadabhai Naoroji",
+            "Mahadev Govind Ranade",
+            "Surendranath Banerjee"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who participated in Satyagraha started by Gandhiji at Ahmedabad in 1917-18?",
+        "answer": "Industrial Workers",
+        "choices": [
+            "Industrial Workers",
+            "Cultivators Class",
+            "Public",
+            "Middle Class"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who drew Gandhiji's attention to the plight of Indigo peasants in Champaran?",
+        "answer": "Raj Kumar Shukla",
+        "choices": [
+            "Raj Kumar Shukla",
+            "Rajendra Prasad",
+            "Anugrah Narayan Sinha",
+            "Acharya Kriplani"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "How much part of the land was kept in trust for the cultivation of indigo in Bihar under Tinkathiya system?",
+        "answer": "3 of 20 Kattha",
+        "choices": [
+            "3 of 20 Kattha",
+            "1 of 10 Kattha",
+            "1 of 3 Kattha",
+            "3 of 25 Kattha"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "At which place of Bihar, Gandhiji started Satyagraha movement for the first time in India?",
+        "answer": "Champaran",
+        "choices": [
+            "Champaran",
+            "Madhubani",
+            "Gaya",
+            "Patna"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The person not connected with Champarana Movement was",
+        "answer": "Jai Prakash Narayan",
+        "choices": [
+            "Jai Prakash Narayan",
+            "Rajendra Prasad",
+            "Anugrah Narayan Sinha",
+            "Jivatram Bhagwandas Kriplani"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which Farmer's Movement did Mahatma Gandhi participate first of all?",
+        "answer": "Champaran",
+        "choices": [
+            "Champaran",
+            "Kheda",
+            "Bardoli",
+            "Baroda"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the National Leader of Champaran Indigo movement?",
+        "answer": "Mahatma Gandhi",
+        "choices": [
+            "Mahatma Gandhi",
+            "Birsa Munda",
+            "Baba Ramchandra",
+            "Ram Singh"
         ]
     },
     {

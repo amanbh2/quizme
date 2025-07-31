@@ -2550,5 +2550,104 @@
             "Darbhanga",
             "Jamui"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What does NISAR stand for?",
+        "answer": "NASA-ISRO Synthetic Aperture Radar",
+        "choices": [
+            "NASA-ISRO Synthetic Aperture Radar",
+            "National Integrated Sattellite for Atmospheric Research",
+            "New Indian Satellite for Advanced Remote Sensing",
+            "National Indian Space Agency Radar"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which launch vehicle was used to carry the NISAR satellite into orbit?",
+        "answer": "GSLV-F16",
+        "choices": [
+            "GSLV-F16",
+            "Falcon 9",
+            "Araine 5",
+            "PSLV-C50"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "NISAR employs a dual-frequency Synthtic Aperture Radar (SAR) system. Which two radar bands does it utilize?",
+        "answer": "L-band and S-band",
+        "choices": [
+            "L-band and S-band",
+            "Ku-band and Ka-band",
+            "P-band and V-band",
+            "X-band and C-band"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Among the two bands that NISAR utilises which one is provided by NASA?",
+        "answer": "L-Band",
+        "choices": [
+            "L-Band",
+            "S-Band",
+            "X-Band",
+            "C-Band"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Among the two bands that NISAR utilises which one is provided by ISRO?",
+        "answer": "S-Band",
+        "choices": [
+            "S-Band",
+            "L-Band",
+            "X-Band",
+            "C-Band"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the approximate revisit cycle of the NISAR satellite, meaning how often it scans nearly all of Earth's land and ice surfaces?",
+        "answer": "Every 12 days",
+        "choices": [
+            "Every 12 days",
+            "Every 6 months",
+            "Once a year",
+            "Every 24 hours"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which article of Constitution of India empowers the Election Commission to undertake the Special Intensive Revision (SIR) of electoral rolls in states like Bihar?",
+        "answer": "Article 324",
+        "choices": [
+            "Article 324",
+            "Article 423",
+            "Article 234",
+            "Article 342"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What was the magnitude of the recent earthquake that struck off Russia's eastern Kamchatka Peninsula?",
+        "answer": 8.8,
+        "choices": [
+            8.8,
+            9.5,
+            9.1,
+            8.2
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The recent earthquake that struck off Russia's eastern Kamchatka Peninsula is part of which seismic active region?",
+        "answer": "Circum-Pacific Belt or Ring of Fire",
+        "choices": [
+            "Circum-Pacific Belt or Ring of Fire",
+            "Alpide Belt",
+            "Mid-Atlantic Ridge",
+            "San Andreas Fault Zone"
+        ]
     }
 ]
