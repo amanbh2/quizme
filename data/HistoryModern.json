@@ -2913,5 +2913,434 @@
             "Baba Ramchandra",
             "Ram Singh"
         ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Nai-Dhobi Band was a form of Social boycott in 1919 which",
+        "answer": "was started by the farmers of Pratapgarh district",
+        "choices": [
+            "was started by the farmers of Pratapgarh district",
+            "was a movement started by saints for the emancipation of the people lower classes",
+            "was a step against contractors of lower castes by landlords",
+            "was a movement against contractors by lower castes"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Sarabandi Campaign of 1922 was led by",
+        "answer": "Sardar Vallabhbhai Patel",
+        "choices": [
+            "Sardar Vallabhbhai Patel",
+            "Chittaranjan Das",
+            "Rajendra Prasad",
+            "Lala Lajpat Rai"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Swami Sahajananda was related to which of the following?",
+        "answer": "Peasant Movement in Bihar",
+        "choices": [
+            "Peasant Movement in Bihar",
+            "Tribal Movement in Bihar",
+            "Labour Movement in Bihar",
+            "Caste Movement in Bihar"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "What was the aim of Eka Movement in Oudh?",
+        "answer": "To protect rights of peasants agianst landlord oppression",
+        "choices": [
+            "To protect rights of peasants agianst landlord oppression",
+            "To stop to give rent to the Government",
+            "To protect the rights of landlords ",
+            "End of Satyagraha"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Eka Movement was launched in the rural areas of which region?",
+        "answer": "Awadh",
+        "choices": [
+            "Awadh",
+            "Bihar",
+            "Punjab",
+            "Bengal"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Swami Sahajanand Saraswati published a journal named",
+        "answer": "Hunkar",
+        "choices": [
+            "Hunkar",
+            "Jankranti",
+            "Krishak Samachar",
+            "Vidrohi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Akhil Bhartiya Kisan Congress also known as All India Kisan Sabha was founded in ",
+        "answer": 1936,
+        "choices": [
+            1936,
+            1939,
+            1942,
+            1945
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was elected the first president of All India Kisan Sabha at Lucknow in 1936?",
+        "answer": "Swami Sahajanand Saraswati",
+        "choices": [
+            "Swami Sahajanand Saraswati",
+            "N G Ranga",
+            "E M S Namboodripad",
+            "Acharya Narendra Dev"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Where was the first All India Kisan Maha Sabha formed?",
+        "answer": "Lucknow",
+        "choices": [
+            "Lucknow",
+            "Allahabad",
+            "Kolkata",
+            "Patna"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Tebhaga Movement was started in 1946 from Bengal under leadership of",
+        "answer": "Kisan Sabha",
+        "choices": [
+            "Kisan Sabha",
+            "Muslim League",
+            "Indian National Congress",
+            "Trade Union"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Congress took a critical stand over the Montford Reforms in 1918, which led to break up with the old moderate remnants (Sapru, Jayakar, Chintamani) who formed the ",
+        "answer": "Indian National Liberal Federation",
+        "choices": [
+            "Indian National Liberal Federation",
+            "Servants of India Society",
+            "Swaraj Party",
+            "Janta Dal"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the first President of All India Trade Union Congress?",
+        "answer": "Lala Lajpat Rai",
+        "choices": [
+            "Lala Lajpat Rai",
+            "B T Ranade",
+            "Satya Bhakta",
+            "N M Joshi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "When was All India Trade Union Congress established in Bombay?",
+        "answer": 1920,
+        "choices": [
+            1920,
+            1925,
+            1929,
+            1935
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the first Indian to be the member of Communist International?",
+        "answer": "Manabendra Nath Roy",
+        "choices": [
+            "Manabendra Nath Roy",
+            "Muzaffar Ahmad",
+            "S A Dange",
+            "Lala Lajpat Rai"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The revolutionary phase of the trade union movement in India was",
+        "answer": "1926-39",
+        "choices": [
+            "1926-39",
+            "1939-45",
+            "1918-26",
+            "1914-18"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "When was the Rowlatt Act passed?",
+        "answer": 1919,
+        "choices": [
+            1919,
+            1909,
+            1930,
+            1942
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following Acts enabled the British Government to suspend the right of Habeas Corpus?",
+        "answer": "The Rowlatt Act, 1919",
+        "choices": [
+            "The Rowlatt Act, 1919",
+            "The Indian Councils Act, 1909",
+            "The Indian Councils Act, 1919",
+            "The Government of India Act, 1935"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Jallianwala Bagh Massacre happened in the context of which Gandhian Satyagraha?",
+        "answer": "Rowlatt Satyagraha",
+        "choices": [
+            "Rowlatt Satyagraha",
+            "Swadeshi Satyagraha",
+            "Bardoli Satyagraha",
+            "Individual Satyagraha"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Indian National Congress opposed the Rowlatt Act because it aimed",
+        "answer": "to limit the individual liberty",
+        "choices": [
+            "to limit the individual liberty",
+            "to ban Indian National Congress",
+            "to enlarge the communal delegations",
+            "to imprision national leaders charging the traitors to the nation"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The massacre of the crowd at Jallianwala Bagh at Amritsar took place on",
+        "answer": "April 13, 1919",
+        "choices": [
+            "April 13, 1919",
+            "May 5, 1918",
+            "April 1, 1919",
+            "July 29, 1919"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Why did people gather to demonstrate at Jallianwala Bagh?",
+        "answer": "to protest against the arrest of Kitchlu and Satyapal",
+        "choices": [
+            "to protest against the arrest of Kitchlu and Satyapal",
+            "To protest against the arrest of Gandhi and Lala Lajpat Rai",
+            "to protest against the abritarily of inhuman acts of the Punjab Government",
+            "to protest against General Dyer"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Rabindranath Tagore gave up his Knighthood because of ",
+        "answer": "Jallianwala Bagh Massacre",
+        "choices": [
+            "Jallianwala Bagh Massacre",
+            "Brutual supression of Civil Disobedience Movement",
+            "Execution of Bhagat Singh",
+            "Chauri Chaura Incident"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who from the following killed Micheal O Dwyer responsible for Jallianwala Bagh Massacre?",
+        "answer": "Udham Singh",
+        "choices": [
+            "Udham Singh",
+            "Prithvi Singh Azad",
+            "Sardar Kishan Singh",
+            "Sohan Singh Josh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Micheal O Dwyer was shot dead on 13th March 1940 in London by",
+        "answer": "Udham Singh",
+        "choices": [
+            "Udham Singh",
+            "Madan Lal Dhingra",
+            "Veer Damodar Savarkar",
+            "M P T Acharya"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the Prime Minister of England when Montague-Chlemsford Act was passed in 1919?",
+        "answer": "David Llyod George",
+        "choices": [
+            "David Llyod George",
+            "George Hamilton",
+            "Samuel Hoare",
+            "Salisbury"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Muddiman Committee was appointed to report on the working of the ",
+        "answer": "Dyarchy",
+        "choices": [
+            "Dyarchy",
+            "Communal Representation",
+            "Fedralism",
+            "Rowlatt Act"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which event served as a catalyst for the Khilafat Movement?",
+        "answer": "The Treaty of Vesailles",
+        "choices": [
+            "The Treaty of Vesailles",
+            "The Partition of Bengal",
+            "The Jallianwala Bagh Massacre",
+            "Arrival of Mahatma Gandhi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Why did Mahatma Gandhi support the Khilfat Movement?",
+        "answer": "Gandhiji wanted to win the support of the Indian Muslims against the British",
+        "choices": [
+            "Gandhiji wanted to win the support of the Indian Muslims against the British",
+            "The Khalifa had given shelter to Indian revolutionaries",
+            "The Khalifa supported Indian struggle for freedom",
+            "The Khalifa was a friend of Gandhiji"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who viewed the Khilafat Movement as an opportunity for integrating Hindus and Muslims which will not appear again within coming hundred years?",
+        "answer": "Ali Brothers",
+        "choices": [
+            "Ali Brothers",
+            "Abul Kalam Azad",
+            "Mahatma Gandhi",
+            "Khan Abdul Gaffar Khan"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which city was the conference of Khilafat Committee in 1920 held that requested Gandhiji to assume the leadership of Non-Cooperation Movement?",
+        "answer": "Allahabad",
+        "choices": [
+            "Allahabad",
+            "Lahore",
+            "Lucknow",
+            "Karachi"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Moplah Rebellion in 1921 was an offshoot of",
+        "answer": "Khilafat Movement",
+        "choices": [
+            "Khilafat Movement",
+            "Mutiny of 1857",
+            "Swadeshi Movement",
+            "Non-Cooperation Movement"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Non-Cooperation Movement was started in",
+        "answer": 1920,
+        "choices": [
+            1920,
+            1919,
+            1918,
+            1921
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "A pleader of bihar who left his lucrative practice during non-cooperation movement was",
+        "answer": "Rajendra Prasad",
+        "choices": [
+            "Rajendra Prasad",
+            "Jai Prakash Narayan",
+            "Sahjananad Saraswati",
+            "Raj Kumar Shukla"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which area was Rahul Sanrityayan active in the Non-Cooperation Movement of 1920?",
+        "answer": "Chhapra",
+        "choices": [
+            "Chhapra",
+            "Delhi",
+            "Lucknow",
+            "Patna"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who led cultivators in Bihar during the Non-Cooperation Movement?",
+        "answer": "Swami Vidyanand",
+        "choices": [
+            "Swami Vidyanand",
+            "Raj Kumar Shukla",
+            "Shri Krishna Singh",
+            "J B Sen"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "After which incident, Mahatma Gandhi halted the Non-Cooperation Movement and called it as his Himalayan Blunder?",
+        "answer": "Chauri-Chaura",
+        "choices": [
+            "Chauri-Chaura",
+            "Kakori Case",
+            "Jallianwala Bagh Massacre",
+            "Muzaffarpur Case"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who organized the  Swadesh Bandhav Samiti during the Indian Freedom Struggle?",
+        "answer": "Ashwini Kumar Dutta",
+        "choices": [
+            "Ashwini Kumar Dutta",
+            "Batukeshwar Dutta",
+            "Surya Sen",
+            "Surendranath Banerjee"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "In which state is Chauri-Chaura where in February 1922 a police station was set on fire?",
+        "answer": "Uttar Pradesh",
+        "choices": [
+            "Uttar Pradesh",
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Madhya Pradesh"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "A Sanyasi who came to that district after a spell as an indentured labourer in Fiji, carrying a copy of Tulsidas Ramayana on his back from which he would recite verses to rural audience. The peasant leader refferred to here is",
+        "answer": "Baba Ram Chandra",
+        "choices": [
+            "Baba Ram Chandra",
+            "Jhinguri Singh",
+            "Yadunandan Sharma",
+            "Sahajananda Saraswati"
+        ]
     }
 ]
