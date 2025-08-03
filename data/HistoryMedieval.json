@@ -1230,5 +1230,16 @@
             "Guru Nanak",
             "Prithviraj Chouhan"
         ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Futuhat-i-Alamgiri was written by",
+        "answer": "Ishwardas Nagar",
+        "choices": [
+            "Ishwardas Nagar",
+            "Bhimsen",
+            "Haridas",
+            "Todarmal"
+        ]
     }
 ]

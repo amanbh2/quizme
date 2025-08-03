@@ -1670,5 +1670,27 @@
             "Devpala",
             "Mahipala"
         ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who was the author of the famous Allahabad Prasasti?",
+        "answer": "Harisena",
+        "choices": [
+            "Harisena",
+            "Kalidasa",
+            "Ravikirti",
+            "Shudraka"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who is the author of Ashtanga Hridayam, a famous book for Ayurveda?",
+        "answer": "Vagbhata",
+        "choices": [
+            "Vagbhata",
+            "Banabhatta",
+            "Charaka",
+            "Dhanvantari"
+        ]
     }
 ]
