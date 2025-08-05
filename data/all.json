@@ -2651,6 +2651,61 @@
         ]
     },
     {
+        "sheet": "Recent2025",
+        "question": "Shibu Soren was popularly known by which of the following nicknames?",
+        "answer": "Dishom Guru",
+        "choices": [
+            "Dishom Guru",
+            "Loknayak",
+            "Netaji",
+            "Janayak"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who among the following is one of the founders of the Jharkhand Mukti Morcha?",
+        "answer": "Shibu Shoren",
+        "choices": [
+            "Shibu Shoren",
+            "Hemant Soren",
+            "Jaipal Singh Munda",
+            "Rajendra Prasad"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "On which date was Jharkhand officially formed as a separate state?",
+        "answer": "15th November 2000",
+        "choices": [
+            "15th November 2000",
+            "15th August 1999",
+            "26th January 2001",
+            "2nd October 2000"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Legislative Assemby of which state or UT in India has become completely solar-powered recently",
+        "answer": "Delhi",
+        "choices": [
+            "Delhi",
+            "Bihar",
+            "Gujarat",
+            "Lakshadweep"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which indigenous surface-to-air missile system was effective in a layered defense grid during Operation Sindoor?",
+        "answer": "Akash",
+        "choices": [
+            "Akash",
+            "BrahMos",
+            "Prithvi",
+            "Agni"
+        ]
+    },
+    {
         "sheet": "HistoryModern",
         "question": "Which year marks fall of Constantinople",
         "answer": 1453,
@@ -15342,6 +15397,50 @@
             "Uses only thorium as fuel",
             "Requires high population density",
             "Requires extremely large cooling towers"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "Which type of economy does India have?",
+        "answer": "Mixed",
+        "choices": [
+            "Socialist",
+            "Gandhian",
+            "Free",
+            "Mixed"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "The main source of national income of India is",
+        "answer": "Service",
+        "choices": [
+            "Manufacturing",
+            "Agriculture",
+            "Foreign Remittances",
+            "Service"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "As the economy develops, the national income share of tertiary sector",
+        "answer": "goes on increasing",
+        "choices": [
+            "first decreases, then increase",
+            "first increase, then decrease",
+            "goes on decreasing",
+            "goes on increasing"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "One of the problems in calculating National Income in India is",
+        "answer": "non-organised sector",
+        "choices": [
+            "under-employment",
+            "inflation",
+            "low level of savings",
+            "non-organised sector"
         ]
     },
     {

@@ -1,0 +1,46 @@
+[
+    {
+        "sheet": "Economy",
+        "question": "Which type of economy does India have?",
+        "answer": "Mixed",
+        "choices": [
+            "Socialist",
+            "Gandhian",
+            "Free",
+            "Mixed"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "The main source of national income of India is",
+        "answer": "Service",
+        "choices": [
+            "Manufacturing",
+            "Agriculture",
+            "Foreign Remittances",
+            "Service"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "As the economy develops, the national income share of tertiary sector",
+        "answer": "goes on increasing",
+        "choices": [
+            "first decreases, then increase",
+            "first increase, then decrease",
+            "goes on decreasing",
+            "goes on increasing"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "One of the problems in calculating National Income in India is",
+        "answer": "non-organised sector",
+        "choices": [
+            "under-employment",
+            "inflation",
+            "low level of savings",
+            "non-organised sector"
+        ]
+    }
+]
