@@ -1318,5 +1318,49 @@
             "Requires high population density",
             "Requires extremely large cooling towers"
         ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Chikungunya is caused by which type of microorganism?",
+        "answer": "Virus",
+        "choices": [
+            "Virus",
+            "Bacteria",
+            "Fungus",
+            "Protozoa"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Chikungunya virus is primarily transmitted by which mosquito?",
+        "answer": "Aedes Aegypti",
+        "choices": [
+            "Aedes Aegypti",
+            "Culex",
+            "Anopheles",
+            "Tabanus"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the most characteristic symptom of Chikungunya?",
+        "answer": "Severe joint pain",
+        "choices": [
+            "Severe joint pain",
+            "Skin Ulcers",
+            "Swelling of lympt nodes",
+            "Paralysis"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following diseases is not transmitted by Aedes mosquitoes?",
+        "answer": "Malaria",
+        "choices": [
+            "Malaria",
+            "Chikungunya",
+            "Zika",
+            "Dengue"
+        ]
     }
 ]

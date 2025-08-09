@@ -2704,5 +2704,38 @@
             "Prithvi",
             "Agni"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Name the latest release model of chatGPT",
+        "answer": "GPT-5",
+        "choices": [
+            "GPT-5",
+            "GPT-4",
+            "chatGPT Agent",
+            "GPT-4o"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "M.S. Swaminathan is best known for his contribution to which field?",
+        "answer": "Green Revolution in India",
+        "choices": [
+            "Green Revolution in India",
+            "Information Technology",
+            "Space Science",
+            "Indian Freedom Struggle"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who is known as the ‘Father of the Green Revolution in India’?",
+        "answer": "M S Swaminathan",
+        "choices": [
+            "M S Swaminathan",
+            "Norman Borlaug",
+            "Verghese Kurien",
+            "C Subramaniam"
+        ]
     }
 ]

@@ -2706,6 +2706,39 @@
         ]
     },
     {
+        "sheet": "Recent2025",
+        "question": "Name the latest release model of chatGPT",
+        "answer": "GPT-5",
+        "choices": [
+            "GPT-5",
+            "GPT-4",
+            "chatGPT Agent",
+            "GPT-4o"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "M.S. Swaminathan is best known for his contribution to which field?",
+        "answer": "Green Revolution in India",
+        "choices": [
+            "Green Revolution in India",
+            "Information Technology",
+            "Space Science",
+            "Indian Freedom Struggle"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who is known as the ‘Father of the Green Revolution in India’?",
+        "answer": "M S Swaminathan",
+        "choices": [
+            "M S Swaminathan",
+            "Norman Borlaug",
+            "Verghese Kurien",
+            "C Subramaniam"
+        ]
+    },
+    {
         "sheet": "HistoryModern",
         "question": "Which year marks fall of Constantinople",
         "answer": 1453,
@@ -15400,14 +15433,58 @@
         ]
     },
     {
+        "sheet": "Science",
+        "question": "Chikungunya is caused by which type of microorganism?",
+        "answer": "Virus",
+        "choices": [
+            "Virus",
+            "Bacteria",
+            "Fungus",
+            "Protozoa"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Chikungunya virus is primarily transmitted by which mosquito?",
+        "answer": "Aedes Aegypti",
+        "choices": [
+            "Aedes Aegypti",
+            "Culex",
+            "Anopheles",
+            "Tabanus"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the most characteristic symptom of Chikungunya?",
+        "answer": "Severe joint pain",
+        "choices": [
+            "Severe joint pain",
+            "Skin Ulcers",
+            "Swelling of lympt nodes",
+            "Paralysis"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following diseases is not transmitted by Aedes mosquitoes?",
+        "answer": "Malaria",
+        "choices": [
+            "Malaria",
+            "Chikungunya",
+            "Zika",
+            "Dengue"
+        ]
+    },
+    {
         "sheet": "Economy",
         "question": "Which type of economy does India have?",
         "answer": "Mixed",
         "choices": [
+            "Mixed",
             "Socialist",
             "Gandhian",
-            "Free",
-            "Mixed"
+            "Free"
         ]
     },
     {
@@ -15415,10 +15492,10 @@
         "question": "The main source of national income of India is",
         "answer": "Service",
         "choices": [
+            "Service",
             "Manufacturing",
             "Agriculture",
-            "Foreign Remittances",
-            "Service"
+            "Foreign Remittances"
         ]
     },
     {
@@ -15426,10 +15503,10 @@
         "question": "As the economy develops, the national income share of tertiary sector",
         "answer": "goes on increasing",
         "choices": [
+            "goes on increasing",
             "first decreases, then increase",
             "first increase, then decrease",
-            "goes on decreasing",
-            "goes on increasing"
+            "goes on decreasing"
         ]
     },
     {
@@ -15437,14 +15514,245 @@
         "question": "One of the problems in calculating National Income in India is",
         "answer": "non-organised sector",
         "choices": [
+            "non-organised sector",
             "under-employment",
             "inflation",
-            "low level of savings",
-            "non-organised sector"
+            "low level of savings"
         ]
     },
     {
-        "sheet": "BiharEcoSrvy2024-25",
+        "sheet": "Economy",
+        "question": "Which of the following is not a method to calculate the Gross Domestic Product (GDP)?",
+        "answer": "Diminishing Cost Method",
+        "choices": [
+            "Diminishing Cost Method",
+            "Product Method",
+            "Income Method",
+            "Expenditure Method"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "Which one does not come under economic infrastructure?",
+        "answer": "Education or Health",
+        "choices": [
+            "Education or Health",
+            "Energy",
+            "Roads",
+            "Railway"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "Hindu growth is related to",
+        "answer": "GDP",
+        "choices": [
+            "GDP",
+            "Money",
+            "Population",
+            "GNP"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "What is money?",
+        "answer": "Commodity",
+        "choices": [
+            "Commodity",
+            "Income",
+            "Wealth",
+            "Savings"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "The economist who for the first time scientifically determined National Income in India?",
+        "answer": "V K R V Rao",
+        "choices": [
+            "V K R V Rao",
+            "D R Gadgil",
+            "Manmohan Singh",
+            "Y V Alagh"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "Who was the remarkable person who took the action for calculating the national income of India before Independence?",
+        "answer": "Dadabhai Naoroji",
+        "choices": [
+            "Dadabhai Naoroji",
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Surendranath Banerjee"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "Which of the following offices or institutes releases data of the National Income in India?",
+        "answer": "Nationa Statistical Office (NSO)",
+        "choices": [
+            "Nationa Statistical Office (NSO)",
+            "National Sample Survey Office (NSSO)",
+            "Central Statistical Office (CSO) ",
+            "NITI Ayog"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "Which organisation carries out the survey for determining the poverty line?",
+        "answer": "Nationa Statistical Office (NSO)",
+        "choices": [
+            "Nationa Statistical Office (NSO)",
+            "National Sample Survey Office (NSSO)",
+            "Reserve Bank of India (RBI)",
+            "NITI Ayog"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "Which ministry is responsible for calculating GDP of India?",
+        "answer": "Ministry of Central Statistical and Program Implementation",
+        "choices": [
+            "Ministry of Central Statistical and Program Implementation",
+            "Ministry of Commerce and Industry",
+            "Ministry of Finance",
+            "Ministry of Consumer Affairs"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "The best index of economic income can be provided by",
+        "answer": "increase in per capita real income per year",
+        "choices": [
+            "increase in per capita real income per year",
+            "increase in national income at current price",
+            "increase in savings ration",
+            "improvement in balance of payment position"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "Per Capita income of a country is obtained from",
+        "answer": "both National Income and Population",
+        "choices": [
+            "both National Income and Population",
+            "Population",
+            "National Income",
+            "GDP"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "The latest per capita income at constant prices is lowest for which state of India?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Uttar Pradesh",
+            "Jharkhand",
+            "Manipur"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "The latest per capita income at constant prices is highest for which state of India?",
+        "answer": "Sikkim",
+        "choices": [
+            "Sikkim",
+            "Goa",
+            "Telangana",
+            "Karnataka"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "Which state of India has highest Gross State Domestic Product (GSDP)?",
+        "answer": "Maharashtra",
+        "choices": [
+            "Maharashtra",
+            "Karnataka",
+            "Uttar Pradesh",
+            "Tamil Nadu"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "Which sector of Indian economy contributes the most to the Gross National Product (GNP)?",
+        "answer": "Tertiary Sector",
+        "choices": [
+            "Tertiary Sector",
+            "Secondary Sector",
+            "Primary Sector",
+            "Public Sector"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "Which organization publishes the global Sustainable Development Report (SDR)?",
+        "answer": "UN Sustainable Development Solutions Network",
+        "choices": [
+            "UN Sustainable Development Solutions Network",
+            "NITI Aayog",
+            "United Nations Development Programme (UNDP)",
+            "World Bank"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "As per the Sustainable Development Report (SDR) 2025, what is India's rank in the SDG Index out of 167 countries?",
+        "answer": "99th",
+        "choices": [
+            "99th",
+            "109th ",
+            "112th",
+            "121st"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "Which Indian organization is responsible for monitoring the progress of SDGs at the sub-national level (States and UTs)?",
+        "answer": "NITI Aayog",
+        "choices": [
+            "NITI Aayog",
+            "Ministry of Finance",
+            "Reserve Bank of India (RBI)",
+            "Ministry of Statistics and Programme Implementation (MoSPI)"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "The SDG Index measures a country's progress towards which set of goals?",
+        "answer": "17 goals",
+        "choices": [
+            "17 goals",
+            "10 goals",
+            "15 goals",
+            "20 goals"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "The Human Capital Index (HCI) is published by which of the following international organizations?",
+        "answer": "World Bank",
+        "choices": [
+            "World Bank",
+            "United Nations Development Programme (UNDP)",
+            "World Health Organisation (WHO)",
+            "International Monetary Fund (IMF)"
+        ]
+    },
+    {
+        "sheet": "Economy",
+        "question": "In India, the agricultural crop year period is",
+        "answer": "1st July to 30th June",
+        "choices": [
+            "1st July to 30th June",
+            "1st June to 31st May",
+            "1st April to 31st March",
+            "1st January to 31st December"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
         "question": "What is the size of Bihar's economy at current price in 2023-24",
         "answer": "8.54 lakh crore",
         "choices": [
@@ -15455,7 +15763,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy2024-25",
+        "sheet": "BiharEcoSrvy",
         "question": "Growth in Bihar's GSDP at current price for year 2023-24",
         "answer": "14.5 percent",
         "choices": [
@@ -15466,7 +15774,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy2024-25",
+        "sheet": "BiharEcoSrvy",
         "question": "Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
         "answer": "9.2 percent",
         "choices": [
@@ -15477,7 +15785,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy2024-25",
+        "sheet": "BiharEcoSrvy",
         "question": "Which economic sector is the hightest contributor in Bihar state GVA for year 2023-24",
         "answer": "Tertiary",
         "choices": [
@@ -15488,7 +15796,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy2024-25",
+        "sheet": "BiharEcoSrvy",
         "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
         "answer": "58.6 percent",
         "choices": [
@@ -15499,7 +15807,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy2024-25",
+        "sheet": "BiharEcoSrvy",
         "question": "Industry contributing the most in Bihar state GVA for year 2023-24",
         "answer": "Non-Metallic Mineral Production",
         "choices": [
@@ -15510,7 +15818,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy2024-25",
+        "sheet": "BiharEcoSrvy",
         "question": "How much Bihar contributes in total Makhana production of India",
         "answer": "85 percent",
         "choices": [
@@ -15521,7 +15829,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget2025-26",
+        "sheet": "BiharBudget",
         "question": "Department with highest Bihar's budget allocation for year 2025-26",
         "answer": "Education",
         "choices": [
@@ -15532,7 +15840,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget2025-26",
+        "sheet": "BiharBudget",
         "question": "What is the size of budget as mentioned in Bihar's Budget for year 2025-26",
         "answer": "3.17 lakh crore",
         "choices": [
@@ -15543,7 +15851,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget2025-26",
+        "sheet": "BiharBudget",
         "question": "Center of excellence for jaggery is proposed in which district of Bihar",
         "answer": "Samastipur",
         "choices": [
@@ -15551,6 +15859,380 @@
             "Darbhanga",
             "Muzaffarpur",
             "Patna"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "Center of excellence for Paan is proposed in which district of Bihar",
+        "answer": "Vaishali (Bindupur)",
+        "choices": [
+            "Vaishali (Bindupur)",
+            "Gaya (Tanukumpa)",
+            "Samastipur",
+            "Muzaffarpur"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "Center of excellence for Nutritious Cereals is proposed in which district of Bihar",
+        "answer": "Gaya (Tanukumpa)",
+        "choices": [
+            "Gaya (Tanukumpa)",
+            "Vaishali (Bindupur)",
+            "Samastipur",
+            "Muzaffarpur"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "According to the Bihar Budget 2025-26, what is the projected Gross State Domestic Product (GSDP) at current prices?",
+        "answer": "10.97 lakh crore",
+        "choices": [
+            "10.97 lakh crore",
+            "9.50 lakh crore",
+            "10.00 lakh crore",
+            "11.55 lakh crore"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "Which among the following deficit is not presented by the state according to Bihar FRBM Act, 2022?",
+        "answer": "Effective Revenue Deficit",
+        "choices": [
+            "Effective Revenue Deficit",
+            "Revenue Deficit",
+            "Fiscal Deficit",
+            "Primary Deficit"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "According to the Bihar Budget 2025-26, how much is the expected Fiscal Deficit?",
+        "answer": "2.98% of GSDP",
+        "choices": [
+            "2.98% of GSDP",
+            "0.8% of GSDP",
+            "8.29% of GSDP",
+            "9.28% of GSDP"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "According to the Bihar Budget 2025-26, how much is the expected state Revenue Surplus?",
+        "answer": "0.8% of GSDP",
+        "choices": [
+            "0.8% of GSDP",
+            "1.8% of GSDP",
+            "2.98% of GSDP",
+            "9.8% of GSDP"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "According to the Bihar Budget 2025-26, how much was the interest payment in 2023-24?",
+        "answer": "9.11% of total revenue receipt",
+        "choices": [
+            "9.11% of total revenue receipt",
+            "11.9% of total revenue receipt",
+            "10.9% of total revenue receipt",
+            "1.9% of total revenue receipt"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "How much is the initial seed fund proposed for the Bihar Green Development Fund in Bihar Budget 2025-26?",
+        "answer": "25 crore",
+        "choices": [
+            "25 crore",
+            "20 crore",
+            "30 crore",
+            "15 crore"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "What is the share of Green budget in the General Budget of Bihar 2025-26?",
+        "answer": "4.92 percent",
+        "choices": [
+            "4.92 percent",
+            "3.50 percent",
+            "1.42 percent",
+            "2.41 percent"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "What is the theme for the Bihar Green Development Fund?",
+        "answer": "Hari Bihar, Samriddh Bihar",
+        "choices": [
+            "Hari Bihar, Samriddh Bihar",
+            "Hamara Bihar, Harit Bihar",
+            "Harit Vikas, Nishchit Vikas",
+            "Apna Bihar, Harit Bihar"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "What is the primary objective of the Tarkari Sudha outlets launched by the Bihar government?",
+        "answer": "To provide fresh vegetables directly from farmers at fair prices",
+        "choices": [
+            "To provide fresh vegetables directly from farmers at fair prices",
+            "To promote organic farming",
+            "To export vegetables intentionally",
+            "To set up vegetable processing factories"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "Which of the following is the full form of VEGFED?",
+        "answer": "Bihar State Vegetables and Fruits Development Corporation Ltd.",
+        "choices": [
+            "Bihar State Vegetables and Fruits Development Corporation Ltd.",
+            "Vegetables and Fertilizer Development Corporation",
+            "Vegetable Federation of India",
+            "Vegetable Farmers Empowerment Directorate"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "VEGFED functions primarily under which department of the Government of Bihar?",
+        "answer": "Department of Horticulture",
+        "choices": [
+            "Department of Horticulture",
+            "Department of Agriculture",
+            "Department of Animal and Fisheries Resources",
+            "Department of Cooperation"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "The Tarkari Sudha outlets launched in Bihar are managed and operated by:",
+        "answer": "VEGFED",
+        "choices": [
+            "VEGFED",
+            "COMFED",
+            "NABARD",
+            "Bihar State Agricultural Marketing Board"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": "Which model has been used for setting up Tarkari Sudha outlets under VEGFED?",
+        "answer": "Sudha Dairy retail booth model",
+        "choices": [
+            "Sudha Dairy retail booth model",
+            "AMUL model",
+            "Mother Dairy model",
+            "Farmer Producer Company model"
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": NaN,
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ]
+    },
+    {
+        "sheet": "BiharBudget",
+        "question": NaN,
+        "answer": " ",
+        "choices": [
+            NaN,
+            NaN,
+            NaN,
+            NaN
         ]
     }
 ]

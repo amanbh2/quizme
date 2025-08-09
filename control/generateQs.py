@@ -3,6 +3,7 @@ import json
 import os
 import re
 from tqdm import tqdm  # pip install tqdm
+import subprocess
 
 # Define input and output directory paths
 input_file = r'C:\Users\amanb\OneDrive\Documents\ObjectiveQuestions.xlsx'
@@ -99,3 +100,8 @@ print("\nQuestion counts:")
 for sheet_name, count in question_counts.items():
     print(f"{sheet_name}: {count}")
 print(f"Total Questions: {total_questions}")
+
+# Call createManifestFile.py to update manifest.json
+manifest_script = os.path.join(os.path.dirname(__file__), "createManifestFile.py")
+subprocess.run(["python", manifest_script], check=True)
+print("Manifest file updated.")
