@@ -39,6 +39,16 @@ def process_sheet(sheet_name):
         return
     sheet_data = []
     for _, row in tqdm(df.iterrows(), total=len(df), desc=f"Processing {sheet_name}"):
+        # Skip rows with any NaN in required fields
+        if (
+            pd.isna(row["Question"]) or
+            pd.isna(row["Answer"]) or
+            pd.isna(row["Choice1"]) or
+            pd.isna(row["Choice2"]) or
+            pd.isna(row["Choice3"]) or
+            pd.isna(row["Choice4"])
+        ):
+            continue
         question_data = {
             "sheet": sheet_name,
             "question": row["Question"],

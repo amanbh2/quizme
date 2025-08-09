@@ -12,7 +12,7 @@
     },
     {
         "sheet": "BiharEcoSrvy",
-        "question": "Growth in Bihar's GSDP at current price for year 2023-24",
+        "question": "Nominal Growth rate in Bihar's GSDP at current price for year 2023-24",
         "answer": "14.5 percent",
         "choices": [
             "14.5 percent",
@@ -23,7 +23,7 @@
     },
     {
         "sheet": "BiharEcoSrvy",
-        "question": "Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
+        "question": "Real Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
         "answer": "9.2 percent",
         "choices": [
             "9.2 percent",
@@ -74,6 +74,226 @@
             "90 percent",
             "80 percent",
             "75 percent"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "What is rank of bihar among states in economic growth in India?",
+        "answer": "Second",
+        "choices": [
+            "Second",
+            "Third",
+            "First",
+            "Fourth"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "According to the Economic Survey of Bihar 2024-25, what is the contribution of Primary, Secondary and Tertiary Sectors in GSVA respectively?",
+        "answer": "20%, 21%, 60%",
+        "choices": [
+            "20%, 21%, 60%",
+            "21%, 60%, 20%",
+            "60%, 21%, 20%",
+            "21%, 60%, 20%"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "According to the Economic Survey of Bihar 2024-25, which of the following is the largest contributor in the GSVA for primary sector?",
+        "answer": "Crops",
+        "choices": [
+            "Crops",
+            "Fishery",
+            "Forestry",
+            "Livestock"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "According to the Economic Survey of Bihar 2024-25, which of the following has the highest growth in the GSVA for primary sector?",
+        "answer": "Fishery",
+        "choices": [
+            "Fishery",
+            "Crops",
+            "Forestry",
+            "Livestock"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "According to the Economic Survey of Bihar 2024-25, which of the following is the largest contributor in the GSVA for secondary sector?",
+        "answer": "Construction",
+        "choices": [
+            "Construction",
+            "Manufacturing",
+            "Electricity",
+            "Gas"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "Which district of Bihar has the lowest per capita income?",
+        "answer": "Sheohar",
+        "choices": [
+            "Sheohar",
+            "Sitamarhi",
+            "Sheikhpura",
+            "Saran"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "Which district of Bihar has the highest per capita income?",
+        "answer": "Patna",
+        "choices": [
+            "Patna",
+            "Sheohar",
+            "Nalanda",
+            "Begusarai"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "How much is the Crop Intensity of Bihar?",
+        "answer": "144 percent",
+        "choices": [
+            "144 percent",
+            "184 percent",
+            "194 percent",
+            "164 percent"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "Which of the following cereal has the highest productivity in Bihar?",
+        "answer": "Maize",
+        "choices": [
+            "Maize",
+            "Wheat",
+            "Rice",
+            "Gram"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "As per Agriculture Census 2015–16, what percentage of Bihar’s total operational holding area is under marginal farmers (less than 1 ha)?",
+        "answer": "57.73 percent",
+        "choices": [
+            "57.73 percent",
+            "91.21 percent",
+            "76 percent",
+            "97 percent"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "The combined share of operational holding area under marginal and small farmers in Bihar is approximately",
+        "answer": "76 percent",
+        "choices": [
+            "76 percent",
+            "91.21 percent",
+            "57.73 percent",
+            "97 percent"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "High percentage of marginal and small farmers in Bihar indicates",
+        "answer": "Land Fragmentation",
+        "choices": [
+            "Land Fragmentation",
+            "Large-scale commercial farming",
+            "Land consolidation",
+            "Decline in agriculture"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "According to the Economic Survey of Bihar 2024-25 what is the per capita income of Bihar at constant price 2023-24?",
+        "answer": "36,333 rupees",
+        "choices": [
+            "36,333 rupees",
+            "66,828 rupees",
+            "55,424 rupees",
+            "38,555 rupees"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "According to the Economic Survey of Bihar 2024-25 what is the per capita income of Bihar at current price 2023-24?",
+        "answer": "66,828 rupees",
+        "choices": [
+            "66,828 rupees",
+            "36,333 rupees",
+            "55,424 rupees",
+            "38,555 rupees"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "Under the Satat Jeevikaoparjan Yojana a livelihood investment fund upto what amount is allocated to a household?",
+        "answer": "2 lakh",
+        "choices": [
+            "2 lakh",
+            "1 lakh",
+            "5 lakh",
+            "4 lakh"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "The Jeevika project in Bihar was launched in which year?",
+        "answer": 2006,
+        "choices": [
+            2006,
+            2005,
+            2010,
+            2018
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "What is the Gross Fixed Capital formation at current prices for Bihar in 2023-24?",
+        "answer": "4.6 percent",
+        "choices": [
+            "4.6 percent",
+            "10 percent",
+            "11.4 percent",
+            "5.9 percent"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "What is the unemployment rate in Bihar in 2023-24?",
+        "answer": "3 percent",
+        "choices": [
+            "3 percent",
+            "4.3 percent",
+            "4.5 percent",
+            "5.4 percent"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "According to Bihar Economic Survey 2024-25, what is the per capita energy consumption in Bihar in 2023-24?",
+        "answer": "363 kWh",
+        "choices": [
+            "363 kWh",
+            "229 kWh",
+            "350 kWh",
+            "134 kWh"
+        ]
+    },
+    {
+        "sheet": "BiharEcoSrvy",
+        "question": "Which of the following banks has the largest number of branches in Bihar?",
+        "answer": "Public Sector Banks",
+        "choices": [
+            "Public Sector Banks",
+            "Regional Rural Banks",
+            "Cooperative Banks",
+            "Private Sector Banks"
         ]
     }
 ]

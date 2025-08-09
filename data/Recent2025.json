@@ -2737,5 +2737,27 @@
             "Verghese Kurien",
             "C Subramaniam"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which National Sports Policy does NSP 2025 replace?",
+        "answer": 2001,
+        "choices": [
+            2001,
+            2010,
+            2015,
+            1992
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Where was Asia Rugby Under-20 Sevens Championship hosted?",
+        "answer": "Rajgir, Bihar",
+        "choices": [
+            "Rajgir, Bihar",
+            "Mumbai, Maharashtra",
+            "Delhi",
+            "Bhubaneswar, Odisha"
+        ]
     }
 ]

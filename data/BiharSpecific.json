@@ -2209,5 +2209,170 @@
             "Three",
             "Four"
         ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which river divides the northern plain area of Bihar into two parts?",
+        "answer": "Bagmati",
+        "choices": [
+            "Bagmati",
+            "Ganga",
+            "Gandak",
+            "Kosi"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which one of the following soils in not found in the Northern Gangetic Plain of Bihar?",
+        "answer": "Balthar Mitti",
+        "choices": [
+            "Balthar Mitti",
+            "New Alluvial (Khadar)",
+            "Marshy Soil",
+            "Bal Sundari Mitti"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The most predominant type of soil found in Bihar is",
+        "answer": "Alluvial Soil",
+        "choices": [
+            "Alluvial Soil",
+            "Laterite Soil",
+            "Yellow & Red Soil",
+            "Black Soil"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which river system is primarily responsible for the formation of the alluvial soils in Bihar?",
+        "answer": "Ganga",
+        "choices": [
+            "Ganga",
+            "Godavari",
+            "Son",
+            "Mahanadi"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which district of Bihar is known for patches of laterite soil?",
+        "answer": "Gaya",
+        "choices": [
+            "Gaya",
+            "Patna",
+            "Purnea",
+            "Sitamarhi"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Red and yellow soils in Bihar are mainly found in:",
+        "answer": "South Bihar Plateau region",
+        "choices": [
+            "South Bihar Plateau region",
+            "North Bihar plains",
+            "Floodplains of Kosi",
+            "Champaran region"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The soil in the Kosi river basin of Bihar is often less fertile due to:",
+        "answer": "Sand Deposition",
+        "choices": [
+            "Sand Deposition",
+            "Salinity",
+            "Excess Clay",
+            "Rocky Texture"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The Harha Valley in Bihar lies between which two geographical features?",
+        "answer": "Someshwar Range and Ramnagar Dun",
+        "choices": [
+            "Someshwar Range and Ramnagar Dun",
+            "Chotanagpur Plateau and Rajmahal Hills",
+            "Kaimur Hills and Rohtas Plateau",
+            "Gandak River and Koshi River"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The Harha Valley is also known as:",
+        "answer": "Doon Valley",
+        "choices": [
+            "Doon Valley",
+            "Terai Basin",
+            "Malwa Plateau",
+            "Barind Region"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The Harha River is located in which physical division of Bihar?",
+        "answer": "Northwestern Shivalik–Terai Region",
+        "choices": [
+            "Northwestern Shivalik–Terai Region",
+            "Middle Ganga Plain",
+            "Chhotanagpur Region",
+            "Eastern Coastal Plain"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which of the following rivers does not make boundary between Uttar Pradesh and Bihar?",
+        "answer": "Son",
+        "choices": [
+            "Son",
+            "Gandak",
+            "Ghagra",
+            "Karmanasha"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "From which river water comes in Triveni Canal?",
+        "answer": "Gandak",
+        "choices": [
+            "Gandak",
+            "Son",
+            "Kosi",
+            "Mayurkashi"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Where does the Budhi Gandak river meet the Ganga river?",
+        "answer": "Khagaria",
+        "choices": [
+            "Khagaria",
+            "Badalaghat",
+            "Kursela",
+            "Maner"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Mohana and Lilajan rivers are related to which river?",
+        "answer": "Falgu River",
+        "choices": [
+            "Falgu River",
+            "Kosi River",
+            "Chandan River",
+            "Kiul River"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "With which district is Chandan river related to in Bihar?",
+        "answer": "Banka",
+        "choices": [
+            "Banka",
+            "Nawada",
+            "Buxar",
+            "Madhubani"
+        ]
     }
 ]
