@@ -1,0 +1,519 @@
+[
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which type of economy does India have?",
+        "answer": "Mixed",
+        "choices": [
+            "Mixed",
+            "Socialist",
+            "Gandhian",
+            "Free"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The main source of national income of India is",
+        "answer": "Service",
+        "choices": [
+            "Service",
+            "Manufacturing",
+            "Agriculture",
+            "Foreign Remittances"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "As the economy develops, the national income share of tertiary sector",
+        "answer": "goes on increasing",
+        "choices": [
+            "goes on increasing",
+            "first decreases, then increase",
+            "first increase, then decrease",
+            "goes on decreasing"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "One of the problems in calculating National Income in India is",
+        "answer": "non-organised sector",
+        "choices": [
+            "non-organised sector",
+            "under-employment",
+            "inflation",
+            "low level of savings"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which of the following is not a method to calculate the Gross Domestic Product (GDP)?",
+        "answer": "Diminishing Cost Method",
+        "choices": [
+            "Diminishing Cost Method",
+            "Product Method",
+            "Income Method",
+            "Expenditure Method"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which one does not come under economic infrastructure?",
+        "answer": "Education or Health",
+        "choices": [
+            "Education or Health",
+            "Energy",
+            "Roads",
+            "Railway"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Hindu growth is related to",
+        "answer": "GDP",
+        "choices": [
+            "GDP",
+            "Money",
+            "Population",
+            "GNP"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "What is money?",
+        "answer": "Commodity",
+        "choices": [
+            "Commodity",
+            "Income",
+            "Wealth",
+            "Savings"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The economist who for the first time scientifically determined National Income in India?",
+        "answer": "V K R V Rao",
+        "choices": [
+            "V K R V Rao",
+            "D R Gadgil",
+            "Manmohan Singh",
+            "Y V Alagh"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Who was the remarkable person who took the action for calculating the national income of India before Independence?",
+        "answer": "Dadabhai Naoroji",
+        "choices": [
+            "Dadabhai Naoroji",
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Surendranath Banerjee"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which of the following offices or institutes releases data of the National Income in India?",
+        "answer": "Nationa Statistical Office (NSO)",
+        "choices": [
+            "Nationa Statistical Office (NSO)",
+            "National Sample Survey Office (NSSO)",
+            "Central Statistical Office (CSO) ",
+            "NITI Ayog"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which organisation carries out the survey for determining the poverty line?",
+        "answer": "Nationa Statistical Office (NSO)",
+        "choices": [
+            "Nationa Statistical Office (NSO)",
+            "National Sample Survey Office (NSSO)",
+            "Reserve Bank of India (RBI)",
+            "NITI Ayog"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which ministry is responsible for calculating GDP of India?",
+        "answer": "Ministry of Central Statistical and Program Implementation",
+        "choices": [
+            "Ministry of Central Statistical and Program Implementation",
+            "Ministry of Commerce and Industry",
+            "Ministry of Finance",
+            "Ministry of Consumer Affairs"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The best index of economic income can be provided by",
+        "answer": "increase in per capita real income per year",
+        "choices": [
+            "increase in per capita real income per year",
+            "increase in national income at current price",
+            "increase in savings ration",
+            "improvement in balance of payment position"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Per Capita income of a country is obtained from",
+        "answer": "both National Income and Population",
+        "choices": [
+            "both National Income and Population",
+            "Population",
+            "National Income",
+            "GDP"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The latest per capita income at constant prices is lowest for which state of India?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Uttar Pradesh",
+            "Jharkhand",
+            "Manipur"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The latest per capita income at constant prices is highest for which state of India?",
+        "answer": "Sikkim",
+        "choices": [
+            "Sikkim",
+            "Goa",
+            "Telangana",
+            "Karnataka"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which state of India has highest Gross State Domestic Product (GSDP)?",
+        "answer": "Maharashtra",
+        "choices": [
+            "Maharashtra",
+            "Karnataka",
+            "Uttar Pradesh",
+            "Tamil Nadu"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which sector of Indian economy contributes the most to the Gross National Product (GNP)?",
+        "answer": "Tertiary Sector",
+        "choices": [
+            "Tertiary Sector",
+            "Secondary Sector",
+            "Primary Sector",
+            "Public Sector"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which organization publishes the global Sustainable Development Report (SDR)?",
+        "answer": "UN Sustainable Development Solutions Network",
+        "choices": [
+            "UN Sustainable Development Solutions Network",
+            "NITI Aayog",
+            "United Nations Development Programme (UNDP)",
+            "World Bank"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "As per the Sustainable Development Report (SDR) 2025, what is India's rank in the SDG Index out of 167 countries?",
+        "answer": "99th",
+        "choices": [
+            "99th",
+            "109th ",
+            "112th",
+            "121st"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which Indian organization is responsible for monitoring the progress of SDGs at the sub-national level (States and UTs)?",
+        "answer": "NITI Aayog",
+        "choices": [
+            "NITI Aayog",
+            "Ministry of Finance",
+            "Reserve Bank of India (RBI)",
+            "Ministry of Statistics and Programme Implementation (MoSPI)"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The SDG Index measures a country's progress towards which set of goals?",
+        "answer": "17 goals",
+        "choices": [
+            "17 goals",
+            "10 goals",
+            "15 goals",
+            "20 goals"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The Human Capital Index (HCI) is published by which of the following international organizations?",
+        "answer": "World Bank",
+        "choices": [
+            "World Bank",
+            "United Nations Development Programme (UNDP)",
+            "World Health Organisation (WHO)",
+            "International Monetary Fund (IMF)"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In India, the agricultural crop year period is",
+        "answer": "1st July to 30th June",
+        "choices": [
+            "1st July to 30th June",
+            "1st June to 31st May",
+            "1st April to 31st March",
+            "1st January to 31st December"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "What is the theme of the Union Budget 2025-26?",
+        "answer": "Sabka Vikas",
+        "choices": [
+            "Sabka Vikas",
+            "Sabka Vikas Sabka Prayas",
+            "Sabka Sath",
+            "Viksit Bharat"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the expected Real GDP growth for FY2025?",
+        "answer": "6.4 percent",
+        "choices": [
+            "6.4 percent",
+            "4.6 percent",
+            "5.4 percent",
+            "4.5 percent"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the expected Real GVA growth for FY2025?",
+        "answer": "6.4 percent",
+        "choices": [
+            "6.4 percent",
+            "4.6 percent",
+            "5.4 percent",
+            "4.5 percent"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the Union Budget 2025-26 what are the four engines of Economic Growth?",
+        "answer": "Agriculture, MSME, Investment and Exports",
+        "choices": [
+            "Agriculture, MSME, Investment and Exports",
+            "Agriculture, Defence, Tourism, Banking",
+            "Defence, Tourism, Exports, Banking",
+            "Tourism, Banking, MSME, Sports"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the Union Budget 2025-26 what are the four focus point?",
+        "answer": "Poor, Youth, Farmers, Women",
+        "choices": [
+            "Poor, Youth, Farmers, Women",
+            "Poor, Science, Tourism, Health",
+            "Youth, Health, Sports, AI",
+            "AI, Crypto, Energy, Infrastructure"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The quote - A country is not just its soil; a country is its people, mentioned in the Union Budget 2025–26 speech, is attributed to which Indian personality?",
+        "answer": "Gurajada Appa Rao",
+        "choices": [
+            "Gurajada Appa Rao",
+            "Rabindranath Tagore",
+            "Mahatma Gandhi",
+            "Sarvepalli Radhakrishnan"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Under the broad principles of Viksit Bharat announced in the Union Budget 2025-26, what percentage of women should be engaged in economic activities?",
+        "answer": "70% by 2047",
+        "choices": [
+            "70% by 2047",
+            "60% by 2040",
+            "80% by 2050",
+            "50% by 2030"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the Union Budget 2025-26 which among the following is considered as the fuel for economic growth?",
+        "answer": "Reforms",
+        "choices": [
+            "Reforms",
+            "Inclusivity",
+            "Devlopment",
+            "Technology"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the Union Budget 2025-26 which among the following is considered as the guiding spirit for economic growth?",
+        "answer": "Inclusivity",
+        "choices": [
+            "Inclusivity",
+            "Reforms",
+            "Devlopment",
+            "Technology"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the Union Budget 2025-26 which among the following is considered as the destination of economic growth?",
+        "answer": "Viksit Bharat",
+        "choices": [
+            "Viksit Bharat",
+            "Inclusivity",
+            "Devlopment",
+            "Reforms"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024–25, India’s rank in global services exports is:",
+        "answer": "Seventh",
+        "choices": [
+            "Seventh",
+            "Third",
+            "Fifth",
+            "Tenth"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024–25, what was the approximate size of India’s forex reserves by the end of December 2024?",
+        "answer": "USD 640.3 billion",
+        "choices": [
+            "USD 640.3 billion",
+            "USD 640.3 million",
+            "USD 634.6 billion",
+            "USD 652.9 million"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Budget 2025-26, how many Atal Tinkering Labs will be open in government schools?",
+        "answer": 50000,
+        "choices": [
+            50000,
+            30000,
+            20000,
+            10000
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the Labour Force Participation ratio (LFPR) of India?",
+        "answer": "60.1 percent",
+        "choices": [
+            "60.1 percent",
+            "58.2 percent",
+            "57.9 percent",
+            "56.0 percent"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the Worker Population Ratio (WPR) of India?",
+        "answer": "58.2 percent",
+        "choices": [
+            "58.2 percent",
+            "60.1 percent",
+            "57.9 percent",
+            "56.0 percent"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the Unemployment rate in India?",
+        "answer": "3.2 percent",
+        "choices": [
+            "3.2 percent",
+            "2.8 percent",
+            "3.0 percent",
+            "2.5 percent"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Under the six-year Mission for Aatmanirbharta in Pulses, which of the following pulses is not explicitly given special focus?",
+        "answer": "Moong",
+        "choices": [
+            "Moong",
+            "Tur",
+            "Masoor",
+            "Urad"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024–25, which category represents the largest share of the total workforce in India?",
+        "answer": "Self-employed",
+        "choices": [
+            "Self-employed",
+            "Casual Labour",
+            "Regular Wage / Salaried",
+            "Unpaid Workers"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Micro MSME?",
+        "answer": "Investement up to 2.5 crore and turnover upto 10 crore",
+        "choices": [
+            "Investement up to 2.5 crore and turnover upto 10 crore",
+            "Investement up to 1 crore and turnover upto 5 crore",
+            "Investement up to 25 crore and turnover upto 100 crore",
+            "Investement up to 125 crore and turnover upto 500 crore"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Small MSME?",
+        "answer": "Investement up to 25 crore and turnover upto 100 crore",
+        "choices": [
+            "Investement up to 25 crore and turnover upto 100 crore",
+            "Investement up to 10 crore and turnover upto 50 crore",
+            "Investement up to 5 crore and turnover upto 10 crore",
+            "Investement up to 125 crore and turnover upto 500 crore"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Medium MSME?",
+        "answer": "Investement up to 125 crore and turnover upto 500 crore",
+        "choices": [
+            "Investement up to 125 crore and turnover upto 500 crore",
+            "Investement up to 50 crore and turnover upto 250 crore",
+            "Investement up to 25 crore and turnover upto 100 crore",
+            "Investement up to 2.5 crore and turnover upto 10 crore"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the Union Budget 2024–25, which ministry received the highest budget allocation?",
+        "answer": "Ministry of Defense",
+        "choices": [
+            "Ministry of Defense",
+            "Ministry of Agriuculture & Farmers Welfare",
+            "Ministry of Railways",
+            "Ministry of Education"
+        ]
+    }
+]

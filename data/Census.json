@@ -1,0 +1,420 @@
+[
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the literacy rate of Bihar?",
+        "answer": "61.8 percent",
+        "choices": [
+            "61.8 percent",
+            "58.5 percent",
+            "65.3 percent",
+            "70.2 percent"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "What was the literacy rate of India as per the Census 2011?",
+        "answer": "74.0 percent",
+        "choices": [
+            "74.0 percent",
+            "61.8 percent",
+            "65.4 percent",
+            "68.7 percent"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has highest literacy rate in Bihar?",
+        "answer": "Rohtas",
+        "choices": [
+            "Rohtas",
+            "Patna",
+            "Purnea",
+            "Gopalganj"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has lowest literacy rate in Bihar?",
+        "answer": "Purnea",
+        "choices": [
+            "Purnea",
+            "Munger",
+            "Rohtas",
+            "Gopalganj"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the male literacy rate in Bihar?",
+        "answer": "71.2 percent",
+        "choices": [
+            "71.2 percent",
+            "61.8 percent",
+            "74.0 percent",
+            "51.5 percent"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the female literacy rate in Bihar?",
+        "answer": "51.5 percent",
+        "choices": [
+            "51.5 percent",
+            "61.8 percent",
+            "74.0 percent",
+            "71.2 percent"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which state had the highest literacy rate according to Census 2011?",
+        "answer": "Kerala",
+        "choices": [
+            "Kerala",
+            "Bihar",
+            "Tamil Nadu",
+            "Maharashtra"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which state had the lowest literacy rate according to Census 2011?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Jharkhand",
+            "West Bengal",
+            "Assam"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what is the sex-ratio of Bihar?",
+        "answer": 918,
+        "choices": [
+            918,
+            943,
+            950,
+            981
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what is the sex-ratio of India?",
+        "answer": 943,
+        "choices": [
+            943,
+            918,
+            948,
+            952
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the highest sex-ratio in Bihar?",
+        "answer": "Gopalganj",
+        "choices": [
+            "Gopalganj",
+            "Munger",
+            "Purnea",
+            "Patna"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the lowest sex-ratio in Bihar?",
+        "answer": "Munger",
+        "choices": [
+            "Munger",
+            "Gopalganj",
+            "Sheohar",
+            "Kaimur"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what is the population density of Bihar?",
+        "answer": "1106 sq km",
+        "choices": [
+            "1106 sq km",
+            "382 sq km",
+            "812 sq km",
+            "1206 sq km"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what is the population density of India?",
+        "answer": "382 sq km",
+        "choices": [
+            "382 sq km",
+            "1106 sq km",
+            "812 sq km",
+            "1206 sq km"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the highest population density in Bihar?",
+        "answer": "Sheohar",
+        "choices": [
+            "Sheohar",
+            "Sheikhpura",
+            "Kaimur",
+            "Rohtas"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the lowest population density in Bihar?",
+        "answer": "Kaimur",
+        "choices": [
+            "Kaimur",
+            "Sheikhpura",
+            "Sheohar",
+            "Rohtas"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the lowest population in Bihar?",
+        "answer": "Sheikhpura",
+        "choices": [
+            "Sheikhpura",
+            "Sheohar",
+            "Kaimur",
+            "Patna"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the highest population in Bihar?",
+        "answer": "Patna",
+        "choices": [
+            "Patna",
+            "Sheohar",
+            "Kaimur",
+            "Sheikhpura"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which State has the highest population according to Census 2011?",
+        "answer": "Uttar Pradesh",
+        "choices": [
+            "Uttar Pradesh",
+            "Bihar",
+            "Maharashtra",
+            "West Bengal"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which State has the lowest population according to Census 2011?",
+        "answer": "Sikkim",
+        "choices": [
+            "Sikkim",
+            "Manipur",
+            "Tripura",
+            "Goa"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which Union Territory has the lowest population according to Census 2011?",
+        "answer": "Lakshadweep",
+        "choices": [
+            "Lakshadweep",
+            "Andmand & Nicobar Islands",
+            "Puducherry",
+            "Ladakh"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which Union Territory has the highest population according to Census 2011?",
+        "answer": "Delhi",
+        "choices": [
+            "Delhi",
+            "Ladakh",
+            "Jammu & Kashmir",
+            "Chandigarh"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the lowest population in India?",
+        "answer": "Dibang Valley, Arunachal Pradesh",
+        "choices": [
+            "Dibang Valley, Arunachal Pradesh",
+            "Leh, Ladakh",
+            "Mahe, Puducherry",
+            "Diu, Daman & Diu"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the highest population in India?",
+        "answer": "Thane, Maharashtra",
+        "choices": [
+            "Thane, Maharashtra",
+            "Sheohar, Bihar",
+            "Varanasi, Uttar Pradesh",
+            "Bhopal, Madhya Pradesh"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which State has the highest population density according to Census 2011?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Uttar Pradesh",
+            "Mahrashtra",
+            "Sikkim"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which State has the lowest population density according to Census 2011?",
+        "answer": "Arunachal Pradesh",
+        "choices": [
+            "Arunachal Pradesh",
+            "Assam",
+            "Sikkim",
+            "Goa"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which Union Territory has the highest population density according to Census 2011?",
+        "answer": "Delhi",
+        "choices": [
+            "Delhi",
+            "Lakshadweep",
+            "Andman & Nicobar Islands",
+            "Ladakh"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which Union Territory has the lowest population density according to Census 2011?",
+        "answer": "Andman & Nicobar Islands",
+        "choices": [
+            "Andman & Nicobar Islands",
+            "Lakshadweep",
+            "Daman & Diue",
+            "Ladakh"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the total population of India?",
+        "answer": "121 crore",
+        "choices": [
+            "121 crore",
+            "11 crore",
+            "110 crore",
+            "112 crore"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the total population of Bihar?",
+        "answer": "10.4 crore",
+        "choices": [
+            "10.4 crore",
+            "14 crore",
+            "104 crore",
+            "41 crore"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, Bihar’s population is approximately what percent of India’s total population?",
+        "answer": "8.6 percent",
+        "choices": [
+            "8.6 percent",
+            "7.2 percent",
+            "9.4 percent",
+            "10.2 percent"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "In terms of population, what is the rank of Bihar?",
+        "answer": "Third",
+        "choices": [
+            "Third",
+            "Second",
+            "First ",
+            "Fourth"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, the percentage of urban and rural population of Bihar is respectively",
+        "answer": "11.3% and 88.7%",
+        "choices": [
+            "11.3% and 88.7%",
+            "13.4% and 86.6%",
+            "17.3% and 82.7%",
+            "10.2% and 89.8%"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "In terms of urban population, Bihar ranks among the states/union territories of the country?",
+        "answer": "12th",
+        "choices": [
+            "12th",
+            "11th",
+            "13th",
+            "14th"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which is the most populous Scheduled Tribe in Bihar?",
+        "answer": "Santhal",
+        "choices": [
+            "Santhal",
+            "Bhil",
+            "Gond",
+            "Munda"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which is the most populous Scheduled Tribe in India?",
+        "answer": "Bhil",
+        "choices": [
+            "Bhil",
+            "Santhal",
+            "Gond",
+            "Munda"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what percentage of tribal population lives in India?",
+        "answer": "8.6 percent",
+        "choices": [
+            "8.6 percent",
+            "1.3 percent",
+            "9.4 percent",
+            "7.2 percent"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what percentage of tribal population lives in Bihar?",
+        "answer": "1.3 percent",
+        "choices": [
+            "1.3 percent",
+            "8.6 percent",
+            "9.4 percent",
+            "7.2 percent"
+        ]
+    }
+]

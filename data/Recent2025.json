@@ -2759,5 +2759,16 @@
             "Delhi",
             "Bhubaneswar, Odisha"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What percentage of seats does the Women’s Reservation Bill propose to reserve for women in Parliament and State Assemblies?",
+        "answer": "33 percent",
+        "choices": [
+            "33 percent",
+            "50 percent",
+            "25 percent",
+            "45 percent"
+        ]
     }
 ]

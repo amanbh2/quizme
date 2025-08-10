@@ -449,5 +449,115 @@
             "Article 15",
             "Article 14"
         ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which part of the Indian Constitution contains the Directive Principles of State Policy?",
+        "answer": "Part IV",
+        "choices": [
+            "Part IV",
+            "Part III",
+            "Part V",
+            "Part VI"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "How are Directive Principles of State Policy different from Fundamental Rights?",
+        "answer": "DPSPs are not enforceable while Fundamental Rights are enforceable",
+        "choices": [
+            "DPSPs are not enforceable while Fundamental Rights are enforceable",
+            "DPSPs are enforceable by courts, while Fundamental Rights are not.",
+            "DPSPs are not part of Constitution while Fundamental Rights are",
+            "DPSPs are part of Constitution while Fundamental Rights are not"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The concept of welfare state included in the Constitution of India in the",
+        "answer": "Directive Principles of State Policy",
+        "choices": [
+            "Directive Principles of State Policy",
+            "Fourth Schedule of the Constitution",
+            "Fundamental Rights",
+            "Preamble of Constitution"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Panchayat Raj System in India is laid down under",
+        "answer": "Directive Principles of State Policy",
+        "choices": [
+            "Directive Principles of State Policy",
+            "Fundamental Rights",
+            "Fundamental Duties",
+            "Election Commission Act"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Ministry of Panchayati Raj was created in the Central Government of India in",
+        "answer": 2004,
+        "choices": [
+            2004,
+            2001,
+            2000,
+            2003
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following Articles directs the State to organise the Panchayats?",
+        "answer": "Article 40",
+        "choices": [
+            "Article 40",
+            "Aritcle 50",
+            "Article 33",
+            "Article 36"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The concept of Directive Principles of State Policy in the Indian Constitution was borrowed from the Constitution of",
+        "answer": "Ireland",
+        "choices": [
+            "Ireland",
+            "Switzerland",
+            "England",
+            "United States of America"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Fundamental Duties are laid down in",
+        "answer": "42nd Amendment",
+        "choices": [
+            "42nd Amendment",
+            "43rd Amendment",
+            "40th Amendment",
+            "39th Amendment"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The 10 commandments, which were added in 42nd Amendment Act in Constitution of India, are called as ",
+        "answer": "Fundamental Duties",
+        "choices": [
+            "Fundamental Duties",
+            "Fundamental Rights",
+            "Panchayati Raj Principles",
+            "Directive Principles of State Policy"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following is a Fundamental Duty in India?",
+        "answer": "To value and preserve the rich heritage of our composite culture",
+        "choices": [
+            "To value and preserve the rich heritage of our composite culture",
+            "Separation of judiciary from executive",
+            "Free and compulsory education",
+            "Abolition of Untouchability"
+        ]
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "What is the size of Bihar's economy at current price in 2023-24",
         "answer": "8.54 lakh crore",
         "choices": [
@@ -11,7 +11,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Nominal Growth rate in Bihar's GSDP at current price for year 2023-24",
         "answer": "14.5 percent",
         "choices": [
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Real Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
         "answer": "9.2 percent",
         "choices": [
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Which economic sector is the hightest contributor in Bihar state GVA for year 2023-24",
         "answer": "Tertiary",
         "choices": [
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
         "answer": "58.6 percent",
         "choices": [
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Industry contributing the most in Bihar state GVA for year 2023-24",
         "answer": "Non-Metallic Mineral Production",
         "choices": [
@@ -66,7 +66,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "How much Bihar contributes in total Makhana production of India",
         "answer": "85 percent",
         "choices": [
@@ -77,7 +77,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "What is rank of bihar among states in economic growth in India?",
         "answer": "Second",
         "choices": [
@@ -88,7 +88,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25, what is the contribution of Primary, Secondary and Tertiary Sectors in GSVA respectively?",
         "answer": "20%, 21%, 60%",
         "choices": [
@@ -99,7 +99,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25, which of the following is the largest contributor in the GSVA for primary sector?",
         "answer": "Crops",
         "choices": [
@@ -110,7 +110,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25, which of the following has the highest growth in the GSVA for primary sector?",
         "answer": "Fishery",
         "choices": [
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25, which of the following is the largest contributor in the GSVA for secondary sector?",
         "answer": "Construction",
         "choices": [
@@ -132,7 +132,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Which district of Bihar has the lowest per capita income?",
         "answer": "Sheohar",
         "choices": [
@@ -143,7 +143,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Which district of Bihar has the highest per capita income?",
         "answer": "Patna",
         "choices": [
@@ -154,7 +154,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "How much is the Crop Intensity of Bihar?",
         "answer": "144 percent",
         "choices": [
@@ -165,7 +165,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Which of the following cereal has the highest productivity in Bihar?",
         "answer": "Maize",
         "choices": [
@@ -176,7 +176,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "As per Agriculture Census 2015–16, what percentage of Bihar’s total operational holding area is under marginal farmers (less than 1 ha)?",
         "answer": "57.73 percent",
         "choices": [
@@ -187,7 +187,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "The combined share of operational holding area under marginal and small farmers in Bihar is approximately",
         "answer": "76 percent",
         "choices": [
@@ -198,7 +198,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "High percentage of marginal and small farmers in Bihar indicates",
         "answer": "Land Fragmentation",
         "choices": [
@@ -209,7 +209,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25 what is the per capita income of Bihar at constant price 2023-24?",
         "answer": "36,333 rupees",
         "choices": [
@@ -220,7 +220,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25 what is the per capita income of Bihar at current price 2023-24?",
         "answer": "66,828 rupees",
         "choices": [
@@ -231,7 +231,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Under the Satat Jeevikaoparjan Yojana a livelihood investment fund upto what amount is allocated to a household?",
         "answer": "2 lakh",
         "choices": [
@@ -242,7 +242,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "The Jeevika project in Bihar was launched in which year?",
         "answer": 2006,
         "choices": [
@@ -253,7 +253,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "What is the Gross Fixed Capital formation at current prices for Bihar in 2023-24?",
         "answer": "4.6 percent",
         "choices": [
@@ -264,7 +264,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "What is the unemployment rate in Bihar in 2023-24?",
         "answer": "3 percent",
         "choices": [
@@ -275,7 +275,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to Bihar Economic Survey 2024-25, what is the per capita energy consumption in Bihar in 2023-24?",
         "answer": "363 kWh",
         "choices": [
@@ -286,7 +286,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Which of the following banks has the largest number of branches in Bihar?",
         "answer": "Public Sector Banks",
         "choices": [
@@ -294,6 +294,204 @@
             "Regional Rural Banks",
             "Cooperative Banks",
             "Private Sector Banks"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Department with highest Bihar's budget allocation for year 2025-26",
+        "answer": "Education",
+        "choices": [
+            "Education",
+            "Health",
+            "Rural Development",
+            "Agriculture"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "What is the size of budget as mentioned in Bihar's Budget for year 2025-26",
+        "answer": "3.17 lakh crore",
+        "choices": [
+            "3.17 lakh crore",
+            "1.37 lakh crore",
+            "7.31 lakh crore",
+            "1.73 lakh crore"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Center of excellence for jaggery is proposed in which district of Bihar",
+        "answer": "Samastipur",
+        "choices": [
+            "Samastipur",
+            "Darbhanga",
+            "Muzaffarpur",
+            "Patna"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Center of excellence for Paan is proposed in which district of Bihar",
+        "answer": "Vaishali (Bindupur)",
+        "choices": [
+            "Vaishali (Bindupur)",
+            "Gaya (Tanukumpa)",
+            "Samastipur",
+            "Muzaffarpur"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Center of excellence for Nutritious Cereals is proposed in which district of Bihar",
+        "answer": "Gaya (Tanukumpa)",
+        "choices": [
+            "Gaya (Tanukumpa)",
+            "Vaishali (Bindupur)",
+            "Samastipur",
+            "Muzaffarpur"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "According to the Bihar Budget 2025-26, what is the projected Gross State Domestic Product (GSDP) at current prices?",
+        "answer": "10.97 lakh crore",
+        "choices": [
+            "10.97 lakh crore",
+            "9.50 lakh crore",
+            "10.00 lakh crore",
+            "11.55 lakh crore"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Which among the following deficit is not presented by the state according to Bihar FRBM Act, 2022?",
+        "answer": "Effective Revenue Deficit",
+        "choices": [
+            "Effective Revenue Deficit",
+            "Revenue Deficit",
+            "Fiscal Deficit",
+            "Primary Deficit"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "According to the Bihar Budget 2025-26, how much is the expected Fiscal Deficit?",
+        "answer": "2.98% of GSDP",
+        "choices": [
+            "2.98% of GSDP",
+            "0.8% of GSDP",
+            "8.29% of GSDP",
+            "9.28% of GSDP"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "According to the Bihar Budget 2025-26, how much is the expected state Revenue Surplus?",
+        "answer": "0.8% of GSDP",
+        "choices": [
+            "0.8% of GSDP",
+            "1.8% of GSDP",
+            "2.98% of GSDP",
+            "9.8% of GSDP"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "According to the Bihar Budget 2025-26, how much was the interest payment in 2023-24?",
+        "answer": "9.11% of total revenue receipt",
+        "choices": [
+            "9.11% of total revenue receipt",
+            "11.9% of total revenue receipt",
+            "10.9% of total revenue receipt",
+            "1.9% of total revenue receipt"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "How much is the initial seed fund proposed for the Bihar Green Development Fund in Bihar Budget 2025-26?",
+        "answer": "25 crore",
+        "choices": [
+            "25 crore",
+            "20 crore",
+            "30 crore",
+            "15 crore"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "What is the share of Green budget in the General Budget of Bihar 2025-26?",
+        "answer": "4.92 percent",
+        "choices": [
+            "4.92 percent",
+            "3.50 percent",
+            "1.42 percent",
+            "2.41 percent"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "What is the theme for the Bihar Green Development Fund?",
+        "answer": "Hari Bihar, Samriddh Bihar",
+        "choices": [
+            "Hari Bihar, Samriddh Bihar",
+            "Hamara Bihar, Harit Bihar",
+            "Harit Vikas, Nishchit Vikas",
+            "Apna Bihar, Harit Bihar"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "What is the primary objective of the Tarkari Sudha outlets launched by the Bihar government?",
+        "answer": "To provide fresh vegetables directly from farmers at fair prices",
+        "choices": [
+            "To provide fresh vegetables directly from farmers at fair prices",
+            "To promote organic farming",
+            "To export vegetables intentionally",
+            "To set up vegetable processing factories"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Which of the following is the full form of VEGFED?",
+        "answer": "Bihar State Vegetables and Fruits Development Corporation Ltd.",
+        "choices": [
+            "Bihar State Vegetables and Fruits Development Corporation Ltd.",
+            "Vegetables and Fertilizer Development Corporation",
+            "Vegetable Federation of India",
+            "Vegetable Farmers Empowerment Directorate"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "VEGFED functions primarily under which department of the Government of Bihar?",
+        "answer": "Department of Horticulture",
+        "choices": [
+            "Department of Horticulture",
+            "Department of Agriculture",
+            "Department of Animal and Fisheries Resources",
+            "Department of Cooperation"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "The Tarkari Sudha outlets launched in Bihar are managed and operated by:",
+        "answer": "VEGFED",
+        "choices": [
+            "VEGFED",
+            "COMFED",
+            "NABARD",
+            "Bihar State Agricultural Marketing Board"
+        ]
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Which model has been used for setting up Tarkari Sudha outlets under VEGFED?",
+        "answer": "Sudha Dairy retail booth model",
+        "choices": [
+            "Sudha Dairy retail booth model",
+            "AMUL model",
+            "Mother Dairy model",
+            "Farmer Producer Company model"
         ]
     }
 ]

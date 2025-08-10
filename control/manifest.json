@@ -1,16 +1,17 @@
 {
   "files": [
     "all.json",
-    "BiharBudget.json",
-    "BiharEcoSrvy.json",
+    "BiharEconomy.json",
     "BiharSpecific.json",
-    "Economy.json",
+    "Census.json",
+    "GeneralKnowledge.json",
     "Geography.json",
     "HistoryAncient.json",
     "HistoryMedieval.json",
     "HistoryModern.json",
     "Polity.json",
     "Recent2025.json",
-    "Science.json"
+    "Science.json",
+    "UnionEconomy.json"
   ]
 }

@@ -2761,6 +2761,17 @@
         ]
     },
     {
+        "sheet": "Recent2025",
+        "question": "What percentage of seats does the Women’s Reservation Bill propose to reserve for women in Parliament and State Assemblies?",
+        "answer": "33 percent",
+        "choices": [
+            "33 percent",
+            "50 percent",
+            "25 percent",
+            "45 percent"
+        ]
+    },
+    {
         "sheet": "HistoryModern",
         "question": "Which year marks fall of Constantinople",
         "answer": 1453,
@@ -10989,6 +11000,3361 @@
         ]
     },
     {
+        "sheet": "Geography",
+        "question": "India's territorial limit extends towards the sea up to how many nautical miles from the coast?",
+        "answer": "12 nautical miles",
+        "choices": [
+            "12 nautical miles",
+            "200 nautical miles",
+            "24 nautical miles",
+            "100 nautical miles"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "India's Exclusive Economic Zone extends towards the sea up to how many nautical miles from the coast?",
+        "answer": "200 nautical miles",
+        "choices": [
+            "200 nautical miles",
+            "12 nautical miles",
+            "24 nautical miles",
+            "100 nautical miles"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "How many latitudes are there on the globe drawn at 1 degree interval?",
+        "answer": 179,
+        "choices": [
+            179,
+            180,
+            360,
+            359
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "How much is the difference between Indian Standard Time (IST) and Greenwich Mean Time (GMT)?",
+        "answer": "plus 5 hour 30 minutes",
+        "choices": [
+            "plus 5 hour 30 minutes",
+            "minus 5 hour 30 minutes",
+            "minus 4 hour 30 minutes",
+            "plus 4 hour 30 minutes"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "On which plateau, the Tropic of Cancer and the Indian Standard Time intersect each other?",
+        "answer": "Baghelkhand",
+        "choices": [
+            "Baghelkhand",
+            "Bundelkhand",
+            "Kaimur",
+            "Chhota-Nagpur"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "On which longitude does Indian Standard Time coicide?",
+        "answer": "82deg 30min E",
+        "choices": [
+            "82deg 30min E",
+            "85deg 30min W",
+            "88deg 30min E",
+            "80deg 30min W"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Difference of one degree longitude will correspond to how much time",
+        "answer": "4 minutes",
+        "choices": [
+            "4 minutes",
+            "6 minutes",
+            "60 minutes",
+            "30 minutes"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the local time of Thimphu (Bhutan) located at 90deg E longitude when the time at Greenwich (0deg) is 12:00 noon?",
+        "answer": "6:00 pm",
+        "choices": [
+            "6:00 pm",
+            "4:00 pm",
+            "5:00 pm",
+            "6:00 am"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The foothills region of Himalayas is",
+        "answer": "Shiwalik",
+        "choices": [
+            "Shiwalik",
+            "Great Himalayas",
+            "Trans-Himalayas",
+            "Lesser Himalayas"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following areas is not landslide-prone area?",
+        "answer": "Eastern Ghats",
+        "choices": [
+            "Eastern Ghats",
+            "Western Ghats",
+            "Himalayan Region",
+            "North-Eastern Region"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The highest peak in the Eastern Ghats of India is",
+        "answer": "Arma Konda (Jhindhagada)",
+        "choices": [
+            "Arma Konda (Jhindhagada)",
+            "Mahendragiri",
+            "Anai Mudi",
+            "Kanchenjunga"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The highest peak in the Western Ghats of India is",
+        "answer": "Anai Mudi",
+        "choices": [
+            "Anai Mudi",
+            "Mahendragiri",
+            "Arma Konda (Jhindhagada)",
+            "Kanchenjunga"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The highest mountain peak in India?",
+        "answer": "K2 (Godwin-Austen)",
+        "choices": [
+            "K2 (Godwin-Austen)",
+            "Everest",
+            "Nanda Devi",
+            "Kanchenjunga"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Kailash Range is part of which larger mountain system?",
+        "answer": "Trans-Himalaya",
+        "choices": [
+            "Trans-Himalaya",
+            "Great Himalayas",
+            "Shiwalik",
+            "Lesser Himalayas"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Mount Everest lies in which mountain range?",
+        "answer": "Great Himalayas",
+        "choices": [
+            "Great Himalayas",
+            "Trans-Himalaya",
+            "Shiwalik",
+            "Lesser Himalayas"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which is the highest mountain peak entirely within India (not on the border)?",
+        "answer": "Nanda Devi",
+        "choices": [
+            "Nanda Devi",
+            "Kanchenjunga",
+            "Trishul",
+            "Kamet"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Shiwalik series was formed in",
+        "answer": "Cenozoic",
+        "choices": [
+            "Cenozoic",
+            "Proterozoic",
+            "Mesozoic",
+            "Palaeozoic"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Someshwar range is a part of which of the following mountain ranges?",
+        "answer": "Shiwalik",
+        "choices": [
+            "Shiwalik",
+            "Satpura",
+            "Vindhayan",
+            "Eastern Ghats"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Atal Tunnel is across which one of the following Himalayan ranges?",
+        "answer": "Eastern Pir Panjal",
+        "choices": [
+            "Eastern Pir Panjal",
+            "Western Pir Panjal",
+            "Zanskar",
+            "Ladakh"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "At which of the following hills the Eastern Ghats join the Western Ghats?",
+        "answer": "Nilgiri Hills",
+        "choices": [
+            "Nilgiri Hills",
+            "Palni Hills",
+            "Anaimudi Hills",
+            "Shevaroy Hills"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Western Ghats in Maharashtra and Karnataka is known as",
+        "answer": "Sahyadri",
+        "choices": [
+            "Sahyadri",
+            "Nilgiri",
+            "Shiwalik",
+            "Nandi"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Hills situated closer to Kanyakumari are",
+        "answer": "Cardamom Hills",
+        "choices": [
+            "Cardamom Hills",
+            "Nilgiri Hills",
+            "Anaialai Hills",
+            "Shevaroy Hills"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following is not a part of the Meghalaya Plateau?",
+        "answer": "Bhuban Hills",
+        "choices": [
+            "Bhuban Hills",
+            "Garo Hills",
+            "Khasi Hills",
+            "Jaintia Hills"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Extra peninsular mountains of India were formed during",
+        "answer": "Cenozoic Era",
+        "choices": [
+            "Cenozoic Era",
+            "Palaeozoic Era",
+            "Aozoic Era",
+            "Mesozoic Era"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Chhota-Nagpur Plateau is a",
+        "answer": "front sloping",
+        "choices": [
+            "front sloping",
+            "pitfall",
+            "foothill",
+            "plain subland"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following districts does not have Dharwar geological formations?",
+        "answer": "Rohtas",
+        "choices": [
+            "Rohtas",
+            "Jamui",
+            "Munger",
+            "Nawada"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "How many coastal states are there in India?",
+        "answer": "Nine",
+        "choices": [
+            "Nine",
+            "Eight",
+            "Thirteen",
+            "Eleven"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Island group Lakshadweep is",
+        "answer": "Accumulation of Coral Reef",
+        "choices": [
+            "Accumulation of Coral Reef",
+            "Accumulation of Volcanic substances",
+            "Sedimentated Soil",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Lakshadweep consists of how many islands?",
+        "answer": 36,
+        "choices": [
+            36,
+            16,
+            17,
+            26
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Ramsar Convention is associated with the conservation of",
+        "answer": "Wetlands",
+        "choices": [
+            "Wetlands",
+            "Drylands",
+            "Forests",
+            "Hills"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which gas contributes to global warming through its greenhouse effect?",
+        "answer": "All of these",
+        "choices": [
+            "All of these",
+            "Methane",
+            "Nitrous Oxide",
+            "Carbon Dioxide"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following gas is responsible for the depletion of Ozone layer?",
+        "answer": "Chlorofluorocarbons",
+        "choices": [
+            "Chlorofluorocarbons",
+            "Carbon Monoxide",
+            "Carbon Dioxide",
+            "Nitrous Oxide"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the percentage of forest and tree cover in the total geographical area of India according to Indian State of Forest Report 2023?",
+        "answer": "25.17 percent",
+        "choices": [
+            "25.17 percent",
+            "21.76 percent",
+            "3.41 percent",
+            "91.33 percent"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the percentage of forest cover in the total geographical area of India according to Indian State of Forest Report 2023?",
+        "answer": "21.76 percent",
+        "choices": [
+            "21.76 percent",
+            "25.17 percent",
+            "3.41 percent",
+            "91.33 percent"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The largest percentage of forest area is in",
+        "answer": "Lakshadweep",
+        "choices": [
+            "Lakshadweep",
+            "Mizoram",
+            "Andman & Nicobar",
+            "Madhya Pradesh"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "State having largest forest cover in India",
+        "answer": "Madhya Pradesh",
+        "choices": [
+            "Madhya Pradesh",
+            "Arunanchal Pradesh",
+            "Chhattisgarh",
+            "Sikkim"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "In National Park protection is given to",
+        "answer": "Whole Ecosystem",
+        "choices": [
+            "Whole Ecosystem",
+            "Only Fauna",
+            "Only Flora",
+            "Only Birds"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following areas in India does not grow tropical wet evergreen forests?",
+        "answer": "Eastern Ghats",
+        "choices": [
+            "Eastern Ghats",
+            "Western Ghats",
+            "Andaman Islands",
+            "North-Eastern Region"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "In which forest do the majority of species of birds inhabit the mountainous areas?",
+        "answer": "Pine Forest",
+        "choices": [
+            "Pine Forest",
+            "Bush Forest",
+            "Oak Forest",
+            "Maple Forest"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "India's first Dolphin Observatory is being built in",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Kolkata",
+            "Odisha",
+            "Delhi"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The state of India with maximum number of wildlife sanctuaries is",
+        "answer": "Maharashtra",
+        "choices": [
+            "Maharashtra",
+            "Karnataka",
+            "Madhya Pradesh",
+            "Tamil Nadu"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following is the well-publicised wildife campaign in the world launched in 1973?",
+        "answer": "Project Tiger",
+        "choices": [
+            "Project Tiger",
+            "Sunderbans Project",
+            "Project Big Cat",
+            "Project Elephant"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following is not included under in-situ conservation?",
+        "answer": "Botanical Garden",
+        "choices": [
+            "Botanical Garden",
+            "National Parks",
+            "Wildlife Sanctuaries",
+            "Biosphere Reserves"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Total Ramsar sites in India?",
+        "answer": 91,
+        "choices": [
+            91,
+            90,
+            19,
+            45
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The first session of Constituent Assembly was held on",
+        "answer": "9th December 1946",
+        "choices": [
+            "9th December 1946",
+            "15th August 1947",
+            "26th November 1949",
+            "26th January 1946"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Indian Constitution was adopted by the Constituent Assembly on",
+        "answer": "26th Novemeber 1949",
+        "choices": [
+            "26th Novemeber 1949",
+            "26th Novemeber 1950",
+            "26th January 1950",
+            "15th August 1949"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "January 26 was selected as the date for the inaugaration of the Constitution, because",
+        "answer": "The Congress had observed it as the Independence Day in 1930",
+        "choices": [
+            "The Congress had observed it as the Independence Day in 1930",
+            "It was considered to be an auspicious day",
+            "On that day the Quit India Movement was started in 1942",
+            "MK Gandhi returned to India on that day"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who of the following was the chairman of the Provincial Constitution Committee of the Constituent Assembly of India",
+        "answer": "Sardar Vallabhbhai Patel",
+        "choices": [
+            "Sardar Vallabhbhai Patel",
+            "Rajendra Prasad",
+            "Bhim Rao Ambedkar",
+            "K. M. Munshi"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who was the labour Minister in Jawaharlal Nehru's Provisional Government?",
+        "answer": "Jagjivan Ram",
+        "choices": [
+            "Jagjivan Ram",
+            "Rajendra Prasad",
+            "Aruna Asaf Ali",
+            "C. Rajgopalachari"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Indian Constitution was adopted by",
+        "answer": "Constituent Assembly",
+        "choices": [
+            "Constituent Assembly",
+            "British Parliament",
+            "Governor-General",
+            "Indian Parliament"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Constitution Day of India is celebrated on",
+        "answer": "26th Novemeber",
+        "choices": [
+            "26th Novemeber",
+            "26th January",
+            "15th August",
+            "14th August"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who was the President of Indian National Congress at the time of partition of India?",
+        "answer": "J. B. Kripalani",
+        "choices": [
+            "J. B. Kripalani",
+            "Jawaharlal Nehru",
+            "Maulana Abul Kalam Azad",
+            "C. Rajgopalachari"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "In Indian political system which one is supereme?",
+        "answer": "The Constitution",
+        "choices": [
+            "The Constitution",
+            "The Supreme Court",
+            "The President",
+            "The Parliament"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following subject lies in the concurrent list?",
+        "answer": "Education",
+        "choices": [
+            "Education",
+            "Police",
+            "Defence",
+            "Agriculture"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Constitution Tenth schedule relates to",
+        "answer": "Anti-Defection Law",
+        "choices": [
+            "Anti-Defection Law",
+            "National Language of India",
+            "Administration of SC and ST Area",
+            "Judicial Review"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Land Reform comes under the subjects of",
+        "answer": "State List",
+        "choices": [
+            "State List",
+            "Union List",
+            "Concurrent List",
+            "National List"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following is not a part in the Eleventh Schedule of the Constitution?",
+        "answer": "Rural Sports",
+        "choices": [
+            "Rural Sports",
+            "Libraries",
+            "Fuel and Fodder",
+            "Technical Training"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What was the duration in the making of the Indian Constitution?",
+        "answer": "2 years 11 monts and 18 days",
+        "choices": [
+            "2 years 11 monts and 18 days",
+            "1 years 11 monts and 18 days",
+            "3 years 11 monts and 18 days",
+            "2 years 10 monts and 18 days"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The provision of amending the constitutional provision is given in",
+        "answer": "Part XX Article 368",
+        "choices": [
+            "Part XX Article 368",
+            "Part XIX Article 356",
+            "Part XX Article 356",
+            "Part XXI Article 368"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following characterstics is not true for unitary form of Government?",
+        "answer": "Ideal for large countries",
+        "choices": [
+            "Ideal for large countries",
+            "Flexible",
+            "Swift Decision",
+            "Uniformity of Laws"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Democracy of India is based on the fact that",
+        "answer": "Public enjoys the right to choose and change the Government",
+        "choices": [
+            "Public enjoys the right to choose and change the Government",
+            "Fundamental Rights have been provided",
+            "The Constitution is written",
+            "Directive Principles of State policy have been provided for here"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following statements is correct regarding parliamentary form of government?",
+        "answer": "Executive is responsible to the legislature",
+        "choices": [
+            "Executive is responsible to the legislature",
+            "The legislature is responsible to Executive",
+            "The Legislative and the Executive are independent",
+            "The Legislature is responsible to Judiciary"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the nature of the Indian Constitution",
+        "answer": "Federal in nature but unitary in spirit",
+        "choices": [
+            "Federal in nature but unitary in spirit",
+            "Federal",
+            "Unitary",
+            "Parliamentary"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "After Independence, in which year were the Indian states reorganised on the linguistic basis?",
+        "answer": 1956,
+        "choices": [
+            1956,
+            2000,
+            1947,
+            1950
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Chief Minister of Union Territory, where such a setup exists, is appointed by the",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Governor",
+            "Lieutenant Governor",
+            "Chief Justice of India"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Creation of a new state requires which majority for Consitutional Amendment.",
+        "answer": "Simple",
+        "choices": [
+            "Simple",
+            "Two-third",
+            "Three-fourth",
+            "Two-third plus ratification by half of all states"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Delhi is a/an",
+        "answer": "Union Territory",
+        "choices": [
+            "Union Territory",
+            "State",
+            "Autonomous Council",
+            "Dominion"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Sikkim became an associate state of India under",
+        "answer": "35th Amendment",
+        "choices": [
+            "35th Amendment",
+            "45th Amendment",
+            "42nd Amendment",
+            "36th Amendment"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "On which day Sikkim gained full statehood in India",
+        "answer": "16th May 1975",
+        "choices": [
+            "16th May 1975",
+            "15th May 1975",
+            "16th June 1975",
+            "15th July 1975"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "In which year did the state of Jharkhand come into existence?",
+        "answer": 2000,
+        "choices": [
+            2000,
+            1975,
+            1956,
+            1987
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Bihar as an Indian State was formed in ",
+        "answer": 1912,
+        "choices": [
+            1912,
+            1956,
+            1987,
+            1911
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The phrase equality before law used in Article 14 of the Indian Constitution has been borrowed from the Constitution of",
+        "answer": "Britain",
+        "choices": [
+            "Britain",
+            "USA",
+            "France",
+            "Canada"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The phrase equality protection of law used in Article 14 of the Indian Constitution has been borrowed from the Constitution of",
+        "answer": "USA",
+        "choices": [
+            "USA",
+            "Britain",
+            "France",
+            "Canada"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "From which country, the Indian Constitution has taken reference for the idea of the Fundamental Rights?",
+        "answer": "United States of America",
+        "choices": [
+            "United States of America",
+            "Ireland",
+            "United Kingdom",
+            "Canada"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following is given the power to enforce the Fundamental Rights by the Constitution?",
+        "answer": "The Supreme Court and High Courts",
+        "choices": [
+            "The Supreme Court and High Courts",
+            "All Courts in India",
+            "The Parliament",
+            "The President"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is meant by Rule of Law",
+        "answer": "One act for all and one judiciary for all",
+        "choices": [
+            "One act for all and one judiciary for all",
+            "One act for all and one state for all",
+            "One state for all and one judicary for all",
+            "All acts for one and one judiciary for all"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The description of Fundamental Rights for the Indian cititzens is in",
+        "answer": "Article 12 to 35",
+        "choices": [
+            "Article 12 to 35",
+            "Article 25 to 50",
+            "Article 16 to 40",
+            "Article 15 to 39"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Supreme Court's judgement of Indra Sawhney vs Union of India Case is related to which issue?",
+        "answer": "Regarding OBC reservation in Government Employment",
+        "choices": [
+            "Regarding OBC reservation in Government Employment",
+            "Doctrine of Basic Structure of Constitution",
+            "Reservation on promotion of SC",
+            "Extended reservation for ST"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which article of the Constitution of India is related with the Freedom of Press.",
+        "answer": "Article 19",
+        "choices": [
+            "Article 19",
+            "Article 20",
+            "Article 21",
+            "Article 22"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following can a court issue for enforcement of the Fundamental Rights?",
+        "answer": "Writ",
+        "choices": [
+            "Writ",
+            "Decree",
+            "Ordinance",
+            "Bill"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following is not a fundamental right?",
+        "answer": "Right to Property",
+        "choices": [
+            "Right to Property",
+            "Right to Constitutional Remedy",
+            "Right to Peaceful Assembly",
+            "Right to free movement all over the country"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Supreme Court has held that hoisting the National Flag atop the private buildings is a fundamental right of every citizen under",
+        "answer": "Article 19",
+        "choices": [
+            "Article 19",
+            "Article 14",
+            "Article 21",
+            "Article 25"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following rights conferred by the Constitution of India is also available to non-citizens?",
+        "answer": "Right to Constitutional Remedies",
+        "choices": [
+            "Right to Constitutional Remedies",
+            "Freedom of Speech",
+            "Freedom to move and settle in any part of the country",
+            "Freedom to accquire property"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "When was the Right to Education added through the amendment in the Constitution of India?",
+        "answer": "1st April 2010",
+        "choices": [
+            "1st April 2010",
+            "1st August 2010",
+            "2nd October 2010",
+            "1st December 2010"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Untouchability is abolished by which article of the Indian Constitution?",
+        "answer": "Article 17",
+        "choices": [
+            "Article 17",
+            "Article 19",
+            "Article 15",
+            "Article 14"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which part of the Indian Constitution contains the Directive Principles of State Policy?",
+        "answer": "Part IV",
+        "choices": [
+            "Part IV",
+            "Part III",
+            "Part V",
+            "Part VI"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "How are Directive Principles of State Policy different from Fundamental Rights?",
+        "answer": "DPSPs are not enforceable while Fundamental Rights are enforceable",
+        "choices": [
+            "DPSPs are not enforceable while Fundamental Rights are enforceable",
+            "DPSPs are enforceable by courts, while Fundamental Rights are not.",
+            "DPSPs are not part of Constitution while Fundamental Rights are",
+            "DPSPs are part of Constitution while Fundamental Rights are not"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The concept of welfare state included in the Constitution of India in the",
+        "answer": "Directive Principles of State Policy",
+        "choices": [
+            "Directive Principles of State Policy",
+            "Fourth Schedule of the Constitution",
+            "Fundamental Rights",
+            "Preamble of Constitution"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Panchayat Raj System in India is laid down under",
+        "answer": "Directive Principles of State Policy",
+        "choices": [
+            "Directive Principles of State Policy",
+            "Fundamental Rights",
+            "Fundamental Duties",
+            "Election Commission Act"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Ministry of Panchayati Raj was created in the Central Government of India in",
+        "answer": 2004,
+        "choices": [
+            2004,
+            2001,
+            2000,
+            2003
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following Articles directs the State to organise the Panchayats?",
+        "answer": "Article 40",
+        "choices": [
+            "Article 40",
+            "Aritcle 50",
+            "Article 33",
+            "Article 36"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The concept of Directive Principles of State Policy in the Indian Constitution was borrowed from the Constitution of",
+        "answer": "Ireland",
+        "choices": [
+            "Ireland",
+            "Switzerland",
+            "England",
+            "United States of America"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Fundamental Duties are laid down in",
+        "answer": "42nd Amendment",
+        "choices": [
+            "42nd Amendment",
+            "43rd Amendment",
+            "40th Amendment",
+            "39th Amendment"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The 10 commandments, which were added in 42nd Amendment Act in Constitution of India, are called as ",
+        "answer": "Fundamental Duties",
+        "choices": [
+            "Fundamental Duties",
+            "Fundamental Rights",
+            "Panchayati Raj Principles",
+            "Directive Principles of State Policy"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following is a Fundamental Duty in India?",
+        "answer": "To value and preserve the rich heritage of our composite culture",
+        "choices": [
+            "To value and preserve the rich heritage of our composite culture",
+            "Separation of judiciary from executive",
+            "Free and compulsory education",
+            "Abolition of Untouchability"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Physics involves the study of",
+        "answer": "Nature & Natural Phenomena",
+        "choices": [
+            "Nature & Natural Phenomena",
+            "Humans",
+            "Birds & Animals",
+            "Plants"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Classical Physics does not include subjects like",
+        "answer": "Elementary Particles",
+        "choices": [
+            "Elementary Particles",
+            "Mechanics",
+            "Heat",
+            "Sound"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Size of universe is of the order of",
+        "answer": "10^26 m",
+        "choices": [
+            "10^26 m",
+            "10^18 m",
+            "10^40 m",
+            "10^16 m"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Einstein was awarded Nobel Prize in Physics for",
+        "answer": "Law of Photoelectric Effect",
+        "choices": [
+            "Law of Photoelectric Effect",
+            "Theory of Relativity",
+            "Law of Gravition",
+            "Special Relativity"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Fundamental unit of luminous intensity",
+        "answer": "Candela",
+        "choices": [
+            "Candela",
+            "Watt",
+            "Joule",
+            "Lux"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Weber is derived unit of",
+        "answer": "Magnetic Flux",
+        "choices": [
+            "Magnetic Flux",
+            "Magnetic Moment",
+            "Luminous Flux",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The prefix femto stands for",
+        "answer": "10^-15",
+        "choices": [
+            "10^-15",
+            "10^15",
+            "10^12",
+            "10^-12"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Number of basic SI Unit is ",
+        "answer": 7,
+        "choices": [
+            7,
+            6,
+            8,
+            5
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Light-year is a unit of ",
+        "answer": "Distance",
+        "choices": [
+            "Distance",
+            "Light",
+            "Intensity of Light",
+            "Time"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Speed of light in a vacuum is approximately ",
+        "answer": "3 x 10^8 m/s",
+        "choices": [
+            "3 x 10^8 m/s",
+            "3 x 10^8 km/s",
+            "3 x 10^6 m/s",
+            "3 x 10^6 km/s"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Ampere is unit of",
+        "answer": "Electric Current",
+        "choices": [
+            "Electric Current",
+            "Electric Charge",
+            "Magentic Flux",
+            "Electric Resistance"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "SI unit of pressure",
+        "answer": "Pascal",
+        "choices": [
+            "Pascal",
+            "Dyne",
+            "Newton",
+            "Joule"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Decibel is unit of",
+        "answer": "Intensity of Sound",
+        "choices": [
+            "Intensity of Sound",
+            "Intensity of Light",
+            "Speed of Light",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "SI unit of electric charge",
+        "answer": "Coulomb",
+        "choices": [
+            "Coulomb",
+            "Volts",
+            "Ohm",
+            "Ampere"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "One astronomical unit (AU) is the average distance between",
+        "answer": "Earth & Sun",
+        "choices": [
+            "Earth & Sun",
+            "Earth & Moon",
+            "Sun & Moon",
+            "Sun & Pluto"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Physical quantity without any unit",
+        "answer": "Strain",
+        "choices": [
+            "Strain",
+            "Stress",
+            "Force",
+            "Pressure"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "One Newton equals to",
+        "answer": "1 Kg m/s^2",
+        "choices": [
+            "1 Kg m/s^2",
+            "1 Kg m s",
+            "1 Kg m/s",
+            "1 Kg m s^2"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "SI unit of acceleration is",
+        "answer": "m/s^2",
+        "choices": [
+            "m/s^2",
+            "m/s",
+            "ms",
+            "ms^2"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "SI unit of electric resistance is",
+        "answer": "Ohm",
+        "choices": [
+            "Ohm",
+            "Ampere",
+            "Volt",
+            "Coulomb"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "1 kWh equals to",
+        "answer": "3.6 x 10^6 J",
+        "choices": [
+            "3.6 x 10^6 J",
+            "3.6 x 10^5 J",
+            "3.6 x 10^-6 J",
+            "3.6 x 10^-5 J"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Electric Potential is measured in",
+        "answer": "Joule / Coulomb",
+        "choices": [
+            "Joule / Coulomb",
+            "Watt",
+            "Newton-second",
+            "Joule"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following pairs have the same units",
+        "answer": "Work & Energy",
+        "choices": [
+            "Work & Energy",
+            "Force & Pressure",
+            "Power & Energy",
+            "Force & Work"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Rate of change of momentum of a body is ",
+        "answer": "Impulse",
+        "choices": [
+            "Impulse",
+            "Energy",
+            "Power",
+            "Force"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "SI unit of power is",
+        "answer": "Watt",
+        "choices": [
+            "Watt",
+            "Joule-Second",
+            "Joule",
+            "Newton-Second"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following equations represents Pressure in Physics",
+        "answer": "Force / Area",
+        "choices": [
+            "Force / Area",
+            "Force x Area",
+            "Mass / Acceleration",
+            "Mass x Acceleration"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is a scalar quantity",
+        "answer": "Mass",
+        "choices": [
+            "Mass",
+            "Momentum",
+            "Weight",
+            "Gravity"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "One horsepower is approximately equal to",
+        "answer": "746 W",
+        "choices": [
+            "746 W",
+            "647 W",
+            "476 W",
+            "764 W"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Molecular formula of Methyl Isocynate",
+        "answer": "C2H3NO",
+        "choices": [
+            "C2H3NO",
+            "C3H5NO",
+            "C4H7NO",
+            "C4H9NO"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Ore of Thorium",
+        "answer": "Monzite",
+        "choices": [
+            "Monzite",
+            "Pitchblende",
+            "Carnotite",
+            "Hematite"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Ore of Uranium",
+        "answer": "Pitchblende",
+        "choices": [
+            "Pitchblende",
+            "Monzite",
+            "Thorite",
+            "Hematite"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following acids is secreted in the stomach",
+        "answer": "Hydrochloric acid",
+        "choices": [
+            "Hydrochloric acid",
+            "Sulphuric acid",
+            "Nitric acid",
+            "Phosphoric Acid"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The meter used to measure the distance moved by the vehicle is known as",
+        "answer": "Odometer",
+        "choices": [
+            "Odometer",
+            "Ammeter",
+            "Speedometer",
+            "Chronometer"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Heat transfer that does not require a medium is called",
+        "answer": "Radiation",
+        "choices": [
+            "Radiation",
+            "Reflection",
+            "Conduction",
+            "Convection"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What type of rock is formed from the cooling and solidification of lava",
+        "answer": "Igneous",
+        "choices": [
+            "Igneous",
+            "Sedimentary",
+            "Metamorphic",
+            "Crystal"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following represents the suitable condition for the liquefaction of gases",
+        "answer": "Low Temperature, High Pressure",
+        "choices": [
+            "Low Temperature, High Pressure",
+            "Low Temperature, Low Pressure",
+            "High Temperature, High Pressure",
+            "High Temperature, Low Pressure"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is an Iron ore",
+        "answer": "Limonite",
+        "choices": [
+            "Limonite",
+            "Cinnabar",
+            "Bauxite",
+            "Pyrite"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which component of fertilizer is used for stimulating early growth",
+        "answer": "Phosphorus",
+        "choices": [
+            "Phosphorus",
+            "Nitrogen",
+            "Potassium",
+            "Oxygen"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following are the constituents of a sodia acid fire extinguisher",
+        "answer": "Dilute sulphuric acid and sodium bicarbonate solution",
+        "choices": [
+            "Dilute sulphuric acid and sodium bicarbonate solution",
+            "Dilute sulphuric acid and sodium carbonate",
+            "Concentrated sulphuric acid and sodium carbonate solution",
+            "Concentrated sulphuric acid and aluminium suplhate"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following bacterial diseases is called splenic fever",
+        "answer": "Anthrax",
+        "choices": [
+            "Anthrax",
+            "Typhoid",
+            "Cholera",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following radiation is used to get relief from body aches",
+        "answer": "Infrared",
+        "choices": [
+            "Infrared",
+            "UV",
+            "Visible",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which one of the following is an example of melamine used for making floor tiles",
+        "answer": "Thermosetting Plastics",
+        "choices": [
+            "Thermosetting Plastics",
+            "Thermoplastics",
+            "Polythene",
+            "PVC"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is the first artificially prepared element",
+        "answer": "Tc",
+        "choices": [
+            "Tc",
+            "Te",
+            "Th",
+            "TI"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following has a highly elongated elliptical orbit",
+        "answer": "Comet",
+        "choices": [
+            "Comet",
+            "Asteroid",
+            "Meteorite",
+            "Meteor"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is the fluid part of the blood",
+        "answer": "Plasma",
+        "choices": [
+            "Plasma",
+            "WBC",
+            "RBC",
+            "Platelets"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following minerals occur in Minas Gerais province of Brazil",
+        "answer": "Iron",
+        "choices": [
+            "Iron",
+            "Bauxite",
+            "Mica",
+            "Coal"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is a non-contact force",
+        "answer": "Magnetic",
+        "choices": [
+            "Magnetic",
+            "Frictional",
+            "Impact",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the structural and functional unit of Life",
+        "answer": "Cell",
+        "choices": [
+            "Cell",
+            "Organ",
+            "Tissue",
+            "Organism"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following, corundrum and cryolite are important ore",
+        "answer": "Aluminium",
+        "choices": [
+            "Aluminium",
+            "Silver",
+            "Tin",
+            "Iron"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is the resistance of wire",
+        "answer": "R = V/I",
+        "choices": [
+            "R = V/I",
+            "R = IV",
+            "R = I/V",
+            "I = R/V"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the value of solar constant",
+        "answer": "1.4 kW/m2",
+        "choices": [
+            "1.4 kW/m2",
+            "1.6 kW/m2",
+            "1.2 kW/m2",
+            "1.8 kW/m2"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following the chlorophyll in photosyntesis is used for",
+        "answer": "Absorbing light",
+        "choices": [
+            "Absorbing light",
+            "Reduction of CO2",
+            "Breaking downs water molecules",
+            "No Function"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which part of alimentary canal receives bile from the liver",
+        "answer": "Small Intestine",
+        "choices": [
+            "Small Intestine",
+            "Stomach",
+            "Oesophagus",
+            "Large Intestine"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The process of breaking down organic matter by micro-organisms is called",
+        "answer": "Decomposition",
+        "choices": [
+            "Decomposition",
+            "Respiration",
+            "Photosynthesis",
+            "Fermentation"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is a major cause of pollution",
+        "answer": "Burning of Fossil Fuels",
+        "choices": [
+            "Burning of Fossil Fuels",
+            "Disposal of Plastics",
+            "Deforestation",
+            "Execessive use of pesticides"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Who was the first to propose a model for the structure of an atom",
+        "answer": "J J Thomson",
+        "choices": [
+            "J J Thomson",
+            "E Goldstein",
+            "Rutherford",
+            "Neil Bohr"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "In the following which is fundamental physical quantitiy?",
+        "answer": "Electric Current",
+        "choices": [
+            "Electric Current",
+            "Force",
+            "Velocity",
+            "Work"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "At time of a short circuit, the current in the circuit",
+        "answer": "increases heavily",
+        "choices": [
+            "increases heavily",
+            "varies continously",
+            "reduces substantially",
+            "does not change"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Frequency is measured in",
+        "answer": "Hertz",
+        "choices": [
+            "Hertz",
+            "metre/second",
+            "radian",
+            "watt"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is measured in hertz?",
+        "answer": "Frequency",
+        "choices": [
+            "Frequency",
+            "Energy",
+            "Heat",
+            "Work"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Bolometer is used to measure",
+        "answer": "Heat Radiations",
+        "choices": [
+            "Heat Radiations",
+            "Frequency",
+            "Velocity",
+            "Wavelength"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is hearing frequency range of Human",
+        "answer": "20Hz to 20kHz",
+        "choices": [
+            "20Hz to 20kHz",
+            "2Hz to 20kHz",
+            "2Hz to 20Hz",
+            "2kHz to 20kHz"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Ohm-meter is unit of ",
+        "answer": "Resistivity",
+        "choices": [
+            "Resistivity",
+            "Resistance",
+            "Charge",
+            "Conductance"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Angstrom is a unit of ",
+        "answer": "Wavelength",
+        "choices": [
+            "Wavelength",
+            "Energy",
+            "Frequency",
+            "Velocity"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "1 Zepto is equal to",
+        "answer": "10^-21",
+        "choices": [
+            "10^-21",
+            "10^21",
+            "10^-12",
+            "10^12"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "One micron is equal to",
+        "answer": "10^-6 m",
+        "choices": [
+            "10^-6 m",
+            "10^6 m",
+            "10^-3 m",
+            "10^3 m"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "One picogram is equal to",
+        "answer": "10^-12",
+        "choices": [
+            "10^-12",
+            "10^-21",
+            "10^-9",
+            "10^-6"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the unit of pressure?",
+        "answer": "Newton / sq. meter",
+        "choices": [
+            "Newton / sq. meter",
+            "Newton-meter",
+            "Newton",
+            "Newton/meter"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Magnetic field is a ",
+        "answer": "Vector Quantity",
+        "choices": [
+            "Vector Quantity",
+            "Scalar Quantity",
+            "Dimensionless Quantity",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is Galvanometer used to measure",
+        "answer": "Electric Current",
+        "choices": [
+            "Electric Current",
+            "Electric Charge",
+            "Electric Resistance",
+            "Electric Potential"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is used to measure the intensity of earthquake?",
+        "answer": "Mercalli Scale",
+        "choices": [
+            "Mercalli Scale",
+            "Ritcher Scale",
+            "Seismograph",
+            "Accelerometer"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Hot-wire ammeters are used to measure",
+        "answer": "both AC and DC",
+        "choices": [
+            "both AC and DC",
+            "only DC",
+            "only AC",
+            "neither AC nor DC"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which instrument is used for measuring electric potential?",
+        "answer": "Potentiometer",
+        "choices": [
+            "Potentiometer",
+            "Ammeter",
+            "Galvanometer",
+            "Accelerometer"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The device used to measure electric current is",
+        "answer": "Ammeter",
+        "choices": [
+            "Ammeter",
+            "Potentiometer",
+            "Voltmeter",
+            "Voltameter"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The resistance of an ideal voltmeter is ",
+        "answer": "infinite",
+        "choices": [
+            "infinite",
+            "negative",
+            "zero",
+            "one"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which instrument is used to measure humidity",
+        "answer": "Hygrometer",
+        "choices": [
+            "Hygrometer",
+            "Hydrometer",
+            "Pyrometer",
+            "Lactometer"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Electroencephalogram (EEG) is used in monitoring",
+        "answer": "Brain",
+        "choices": [
+            "Brain",
+            "Heart",
+            "Liver",
+            "Kidney"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "For a satellite, escape velocity is 11km/s. If the satellite is launched at an angle of 60 degree with the vertical, then the escape velocity will be",
+        "answer": "does not change",
+        "choices": [
+            "does not change",
+            "increases",
+            "decreases",
+            "becomes zero"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the law in which under the same conditions of temperature and pressure, equal volumes of all gases contain equal number of molecules?",
+        "answer": "Avogadro's Law",
+        "choices": [
+            "Avogadro's Law",
+            "Graham's Law",
+            "Pascal's Law",
+            "Coriolis Effect"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A goalkeeper in a game of football pull his hands backwards after holding the ball shot at the goal. This enables the goalkeeper to",
+        "answer": "decrease the rate of change of momentum",
+        "choices": [
+            "decrease the rate of change of momentum",
+            "increase the force exerted by the ball on hands",
+            "exert large force on the ball",
+            "increases the score"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "When the stone is brought from the surface of the moon to the earth, then",
+        "answer": "its weight will change, but mass will not change",
+        "choices": [
+            "its weight will change, but mass will not change",
+            "it mass will change",
+            "both weight and mass will change",
+            "neither weight nor mass will change"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is not a vector quantity",
+        "answer": "volume",
+        "choices": [
+            "volume",
+            "velocity",
+            "displacement",
+            "force"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is not a vector quantity",
+        "answer": "speed",
+        "choices": [
+            "speed",
+            "velocity",
+            "torque",
+            "displacement"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is a scalar quantity",
+        "answer": "Pressure",
+        "choices": [
+            "Pressure",
+            "Force",
+            "Acceleration",
+            "Velocity"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Current density is",
+        "answer": "a vector quantity",
+        "choices": [
+            "a vector quantity",
+            "a scalar quantity",
+            "Dimensionless Quantity",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A sudden rise in the barometric height indicates",
+        "answer": "extremely dry weather",
+        "choices": [
+            "extremely dry weather",
+            "coming of storm or cyclone",
+            "possibility of rain",
+            "dry weather"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The time period of a pendulum clock is ",
+        "answer": "1 second",
+        "choices": [
+            "1 second",
+            "2 seconds",
+            "1 minute",
+            "1 hour"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which physical quantity is represented by the ratio of momentum and velocity of the body?",
+        "answer": "Mass",
+        "choices": [
+            "Mass",
+            "velocity",
+            "Acceleration",
+            "Force"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which is the correct formula of acceleration?",
+        "answer": "a = (v-u)/t",
+        "choices": [
+            "a = (v-u)/t",
+            "a = u + vt",
+            "a = (u + v )/t",
+            "a = u + v/t"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Force is the product of ",
+        "answer": "Mass & Acceleration",
+        "choices": [
+            "Mass & Acceleration",
+            "Mass & Velocity",
+            "Weight & Density",
+            "Weight & Acceleration"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Ball bearings are used to convert static friction into",
+        "answer": "rolling friction",
+        "choices": [
+            "rolling friction",
+            "drag",
+            "sliding friction",
+            "torque"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following energy changes involves frictional force?",
+        "answer": "Kinetic Energy to Heat Energy",
+        "choices": [
+            "Kinetic Energy to Heat Energy",
+            "Chemical energy to Heat Energy",
+            "Kinetic Energy to Electric Energy",
+            "Potential Energy to Sound Energy"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Lenz's law is derived from the law of conservation of ",
+        "answer": "Energy",
+        "choices": [
+            "Energy",
+            "Charge",
+            "Momentum",
+            "Magnetism"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "If a feather, a rubber ball and a wooden ball are failing freely simultaneously from the same height in the vacuum then",
+        "answer": "all three will reach the ground together",
+        "choices": [
+            "all three will reach the ground together",
+            "the wooden ball will reach the ground first",
+            "the rubber ball will reach the ground first",
+            "the feather will reach the ground last"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "When a body falls freely towards the Earth, then its total energy",
+        "answer": "remains constant",
+        "choices": [
+            "remains constant",
+            "increases",
+            "decreases",
+            "becomes zero"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A second pendulum is mounted in a rocket. Its period of oscillation decreases when the rocket",
+        "answer": "moves up with uniform acceleration",
+        "choices": [
+            "moves up with uniform acceleration",
+            "comes down with uniform acceleration",
+            "moves round the earth in a geostationary orbit",
+            "moves up with uniform velocity"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "For a body moving with constant speed in a horizontal circle, which of the following remains constant?",
+        "answer": "Kinetic Energy",
+        "choices": [
+            "Kinetic Energy",
+            "velocity",
+            "Acceleration",
+            "Centripetal Force"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "If the spinning speed of the earth increases, then the weight of the body at equator will",
+        "answer": "decrease",
+        "choices": [
+            "decrease",
+            "increase",
+            "remains same",
+            "be doubled"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The time period of a pendulum",
+        "answer": "depends on its length",
+        "choices": [
+            "depends on its length",
+            "depends on the mass",
+            "depends on time",
+            "depends on temperature"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "You are standing in an elevator. The force exerted by your weight on the floor of the elevator",
+        "answer": "will be zero when the lift comes down with an acceleration of 9.8m/s2",
+        "choices": [
+            "will be zero when the lift comes down with an acceleration of 9.8m/s2",
+            "will be zero when the lift goes up with an acceleration of 9.8m/s2",
+            "Zero when the lift moves in any direction with an acceleration of 9.8m/s2",
+            "will not be affected by the change in the rate of acceleration of the lift"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A bus is moving along a straight path and takes a sharp turn to the right side suddenly, the passengers in the bus will",
+        "answer": "bent towards left side",
+        "choices": [
+            "bent towards left side",
+            "bent towards right side",
+            "fall in forward direction ",
+            "fall in backward direction"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A man pushes more weight on the Earth at",
+        "answer": "standing position",
+        "choices": [
+            "standing position",
+            "sitting position",
+            "lying position",
+            "sleeping position"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Environment is a composite state of",
+        "answer": "All of these",
+        "choices": [
+            "All of these",
+            "Biotic Factors",
+            "Abiotic Factors",
+            "Physiographic Factors"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the thin layer of gases around the earth called?",
+        "answer": "Atmosphere",
+        "choices": [
+            "Atmosphere",
+            "Biosphere",
+            "Hydroshpere",
+            "Lithoshpere"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The atmosphere is mainly heated by the ",
+        "answer": "long-wave terrestrial radiation",
+        "choices": [
+            "long-wave terrestrial radiation",
+            "short-wave solar radiation",
+            "volcanic emission",
+            "emission from distant stars"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Air is a/an",
+        "answer": "Mixture",
+        "choices": [
+            "Mixture",
+            "Compound",
+            "Element",
+            "Electrolyte"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The highest percentage of gas in the air is",
+        "answer": "Nitrogen",
+        "choices": [
+            "Nitrogen",
+            "Hydrogen",
+            "Oxygen",
+            "Carbon Dioxide"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The tallest known living tree",
+        "answer": "Sequoia",
+        "choices": [
+            "Sequoia",
+            "Eucalyptus",
+            "Deodar",
+            "Parnang"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The major component of CNG is",
+        "answer": "CH4",
+        "choices": [
+            "CH4",
+            "N2",
+            "CO2",
+            "H2"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Pollutant emission gas in vehichle exhaust is mainly",
+        "answer": "Carbon Monoxide",
+        "choices": [
+            "Carbon Monoxide",
+            "Carbon Dioxide",
+            "Nitrogen Oxide",
+            "Marsh Gas"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Inhalation of air polluted with Carbon Monoxide is dangerous because",
+        "answer": "It combines with hemoglobin",
+        "choices": [
+            "It combines with hemoglobin",
+            "it combines with oxygen in blood",
+            "it removes water from the body and causes dehydration",
+            "it causes coagulation of proteins in the body"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The components of acid rain is/are",
+        "answer": "HNO3 & H2SO4",
+        "choices": [
+            "HNO3 & H2SO4",
+            "HNO3",
+            "H2SO4",
+            "CO2"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The major and top source of oxygen in the atmosphere is",
+        "answer": "Photosynthesis by oceanic phytoplanktons",
+        "choices": [
+            "Photosynthesis by oceanic phytoplanktons",
+            "Photosynthesis by forest plants",
+            "photosynthesis by grassland ecosystem",
+            "photosynthesis be wtland algaes"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "In which year International Space Station was launched?",
+        "answer": 1998,
+        "choices": [
+            1998,
+            1999,
+            2000,
+            1997
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Name the world's first Space Station",
+        "answer": "Salyut 1",
+        "choices": [
+            "Salyut 1",
+            "Mir",
+            "Skylab",
+            "Tiangong"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "First country to launch space station in the world",
+        "answer": "USSR",
+        "choices": [
+            "USSR",
+            "USA",
+            "China",
+            "India"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Name the first person in the world to travel in space?",
+        "answer": "Yuri Gagrin",
+        "choices": [
+            "Yuri Gagrin",
+            "Rakesh Sharma",
+            "Shubhanshu Shukla",
+            "Alan Shepard"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The indigenous malaria vaccine candidate developed under the aegis of ICMR is called",
+        "answer": "AdFalciVax",
+        "choices": [
+            "AdFalciVax",
+            "R21/Matrix-M",
+            "RTS,S",
+            "Covaxin"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": " AdFalciVax, the malaria vaccine candidate developed in India, is primarily targeted against which malaria parasite?",
+        "answer": "Plasmodium falciparum",
+        "choices": [
+            "Plasmodium falciparum",
+            "Plasmodium vivax",
+            "Plasmodium ovale",
+            "Plasmodium malariae"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the typical electrical output range of Small Modular Reactors (SMRs)?",
+        "answer": "50 to 300 MW",
+        "choices": [
+            "50 to 300 MW",
+            "10 to 50 MW",
+            "300 to 1000 MW",
+            "More than 2000 MW"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the key feature of a Small Modular Reactor (SMR) compared to traditional nuclear reactors?",
+        "answer": "Can be manufactured in a factory and assembled on-site",
+        "choices": [
+            "Can be manufactured in a factory and assembled on-site",
+            "Uses only thorium as fuel",
+            "Requires high population density",
+            "Requires extremely large cooling towers"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Chikungunya is caused by which type of microorganism?",
+        "answer": "Virus",
+        "choices": [
+            "Virus",
+            "Bacteria",
+            "Fungus",
+            "Protozoa"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Chikungunya virus is primarily transmitted by which mosquito?",
+        "answer": "Aedes Aegypti",
+        "choices": [
+            "Aedes Aegypti",
+            "Culex",
+            "Anopheles",
+            "Tabanus"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the most characteristic symptom of Chikungunya?",
+        "answer": "Severe joint pain",
+        "choices": [
+            "Severe joint pain",
+            "Skin Ulcers",
+            "Swelling of lympt nodes",
+            "Paralysis"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following diseases is not transmitted by Aedes mosquitoes?",
+        "answer": "Malaria",
+        "choices": [
+            "Malaria",
+            "Chikungunya",
+            "Zika",
+            "Dengue"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "World Biofuel Day is observed every year on which date?",
+        "answer": "10th August",
+        "choices": [
+            "10th August",
+            "8th June",
+            "14th Novemeber",
+            "16th September"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which type of economy does India have?",
+        "answer": "Mixed",
+        "choices": [
+            "Mixed",
+            "Socialist",
+            "Gandhian",
+            "Free"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The main source of national income of India is",
+        "answer": "Service",
+        "choices": [
+            "Service",
+            "Manufacturing",
+            "Agriculture",
+            "Foreign Remittances"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "As the economy develops, the national income share of tertiary sector",
+        "answer": "goes on increasing",
+        "choices": [
+            "goes on increasing",
+            "first decreases, then increase",
+            "first increase, then decrease",
+            "goes on decreasing"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "One of the problems in calculating National Income in India is",
+        "answer": "non-organised sector",
+        "choices": [
+            "non-organised sector",
+            "under-employment",
+            "inflation",
+            "low level of savings"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which of the following is not a method to calculate the Gross Domestic Product (GDP)?",
+        "answer": "Diminishing Cost Method",
+        "choices": [
+            "Diminishing Cost Method",
+            "Product Method",
+            "Income Method",
+            "Expenditure Method"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which one does not come under economic infrastructure?",
+        "answer": "Education or Health",
+        "choices": [
+            "Education or Health",
+            "Energy",
+            "Roads",
+            "Railway"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Hindu growth is related to",
+        "answer": "GDP",
+        "choices": [
+            "GDP",
+            "Money",
+            "Population",
+            "GNP"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "What is money?",
+        "answer": "Commodity",
+        "choices": [
+            "Commodity",
+            "Income",
+            "Wealth",
+            "Savings"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The economist who for the first time scientifically determined National Income in India?",
+        "answer": "V K R V Rao",
+        "choices": [
+            "V K R V Rao",
+            "D R Gadgil",
+            "Manmohan Singh",
+            "Y V Alagh"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Who was the remarkable person who took the action for calculating the national income of India before Independence?",
+        "answer": "Dadabhai Naoroji",
+        "choices": [
+            "Dadabhai Naoroji",
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Surendranath Banerjee"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which of the following offices or institutes releases data of the National Income in India?",
+        "answer": "Nationa Statistical Office (NSO)",
+        "choices": [
+            "Nationa Statistical Office (NSO)",
+            "National Sample Survey Office (NSSO)",
+            "Central Statistical Office (CSO) ",
+            "NITI Ayog"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which organisation carries out the survey for determining the poverty line?",
+        "answer": "Nationa Statistical Office (NSO)",
+        "choices": [
+            "Nationa Statistical Office (NSO)",
+            "National Sample Survey Office (NSSO)",
+            "Reserve Bank of India (RBI)",
+            "NITI Ayog"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which ministry is responsible for calculating GDP of India?",
+        "answer": "Ministry of Central Statistical and Program Implementation",
+        "choices": [
+            "Ministry of Central Statistical and Program Implementation",
+            "Ministry of Commerce and Industry",
+            "Ministry of Finance",
+            "Ministry of Consumer Affairs"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The best index of economic income can be provided by",
+        "answer": "increase in per capita real income per year",
+        "choices": [
+            "increase in per capita real income per year",
+            "increase in national income at current price",
+            "increase in savings ration",
+            "improvement in balance of payment position"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Per Capita income of a country is obtained from",
+        "answer": "both National Income and Population",
+        "choices": [
+            "both National Income and Population",
+            "Population",
+            "National Income",
+            "GDP"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The latest per capita income at constant prices is lowest for which state of India?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Uttar Pradesh",
+            "Jharkhand",
+            "Manipur"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The latest per capita income at constant prices is highest for which state of India?",
+        "answer": "Sikkim",
+        "choices": [
+            "Sikkim",
+            "Goa",
+            "Telangana",
+            "Karnataka"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which state of India has highest Gross State Domestic Product (GSDP)?",
+        "answer": "Maharashtra",
+        "choices": [
+            "Maharashtra",
+            "Karnataka",
+            "Uttar Pradesh",
+            "Tamil Nadu"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which sector of Indian economy contributes the most to the Gross National Product (GNP)?",
+        "answer": "Tertiary Sector",
+        "choices": [
+            "Tertiary Sector",
+            "Secondary Sector",
+            "Primary Sector",
+            "Public Sector"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which organization publishes the global Sustainable Development Report (SDR)?",
+        "answer": "UN Sustainable Development Solutions Network",
+        "choices": [
+            "UN Sustainable Development Solutions Network",
+            "NITI Aayog",
+            "United Nations Development Programme (UNDP)",
+            "World Bank"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "As per the Sustainable Development Report (SDR) 2025, what is India's rank in the SDG Index out of 167 countries?",
+        "answer": "99th",
+        "choices": [
+            "99th",
+            "109th ",
+            "112th",
+            "121st"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which Indian organization is responsible for monitoring the progress of SDGs at the sub-national level (States and UTs)?",
+        "answer": "NITI Aayog",
+        "choices": [
+            "NITI Aayog",
+            "Ministry of Finance",
+            "Reserve Bank of India (RBI)",
+            "Ministry of Statistics and Programme Implementation (MoSPI)"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The SDG Index measures a country's progress towards which set of goals?",
+        "answer": "17 goals",
+        "choices": [
+            "17 goals",
+            "10 goals",
+            "15 goals",
+            "20 goals"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The Human Capital Index (HCI) is published by which of the following international organizations?",
+        "answer": "World Bank",
+        "choices": [
+            "World Bank",
+            "United Nations Development Programme (UNDP)",
+            "World Health Organisation (WHO)",
+            "International Monetary Fund (IMF)"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In India, the agricultural crop year period is",
+        "answer": "1st July to 30th June",
+        "choices": [
+            "1st July to 30th June",
+            "1st June to 31st May",
+            "1st April to 31st March",
+            "1st January to 31st December"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "What is the theme of the Union Budget 2025-26?",
+        "answer": "Sabka Vikas",
+        "choices": [
+            "Sabka Vikas",
+            "Sabka Vikas Sabka Prayas",
+            "Sabka Sath",
+            "Viksit Bharat"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the expected Real GDP growth for FY2025?",
+        "answer": "6.4 percent",
+        "choices": [
+            "6.4 percent",
+            "4.6 percent",
+            "5.4 percent",
+            "4.5 percent"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the expected Real GVA growth for FY2025?",
+        "answer": "6.4 percent",
+        "choices": [
+            "6.4 percent",
+            "4.6 percent",
+            "5.4 percent",
+            "4.5 percent"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the Union Budget 2025-26 what are the four engines of Economic Growth?",
+        "answer": "Agriculture, MSME, Investment and Exports",
+        "choices": [
+            "Agriculture, MSME, Investment and Exports",
+            "Agriculture, Defence, Tourism, Banking",
+            "Defence, Tourism, Exports, Banking",
+            "Tourism, Banking, MSME, Sports"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the Union Budget 2025-26 what are the four focus point?",
+        "answer": "Poor, Youth, Farmers, Women",
+        "choices": [
+            "Poor, Youth, Farmers, Women",
+            "Poor, Science, Tourism, Health",
+            "Youth, Health, Sports, AI",
+            "AI, Crypto, Energy, Infrastructure"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The quote - A country is not just its soil; a country is its people, mentioned in the Union Budget 2025–26 speech, is attributed to which Indian personality?",
+        "answer": "Gurajada Appa Rao",
+        "choices": [
+            "Gurajada Appa Rao",
+            "Rabindranath Tagore",
+            "Mahatma Gandhi",
+            "Sarvepalli Radhakrishnan"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Under the broad principles of Viksit Bharat announced in the Union Budget 2025-26, what percentage of women should be engaged in economic activities?",
+        "answer": "70% by 2047",
+        "choices": [
+            "70% by 2047",
+            "60% by 2040",
+            "80% by 2050",
+            "50% by 2030"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the Union Budget 2025-26 which among the following is considered as the fuel for economic growth?",
+        "answer": "Reforms",
+        "choices": [
+            "Reforms",
+            "Inclusivity",
+            "Devlopment",
+            "Technology"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the Union Budget 2025-26 which among the following is considered as the guiding spirit for economic growth?",
+        "answer": "Inclusivity",
+        "choices": [
+            "Inclusivity",
+            "Reforms",
+            "Devlopment",
+            "Technology"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the Union Budget 2025-26 which among the following is considered as the destination of economic growth?",
+        "answer": "Viksit Bharat",
+        "choices": [
+            "Viksit Bharat",
+            "Inclusivity",
+            "Devlopment",
+            "Reforms"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024–25, India’s rank in global services exports is:",
+        "answer": "Seventh",
+        "choices": [
+            "Seventh",
+            "Third",
+            "Fifth",
+            "Tenth"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024–25, what was the approximate size of India’s forex reserves by the end of December 2024?",
+        "answer": "USD 640.3 billion",
+        "choices": [
+            "USD 640.3 billion",
+            "USD 640.3 million",
+            "USD 634.6 billion",
+            "USD 652.9 million"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Budget 2025-26, how many Atal Tinkering Labs will be open in government schools?",
+        "answer": 50000,
+        "choices": [
+            50000,
+            30000,
+            20000,
+            10000
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the Labour Force Participation ratio (LFPR) of India?",
+        "answer": "60.1 percent",
+        "choices": [
+            "60.1 percent",
+            "58.2 percent",
+            "57.9 percent",
+            "56.0 percent"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the Worker Population Ratio (WPR) of India?",
+        "answer": "58.2 percent",
+        "choices": [
+            "58.2 percent",
+            "60.1 percent",
+            "57.9 percent",
+            "56.0 percent"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the Unemployment rate in India?",
+        "answer": "3.2 percent",
+        "choices": [
+            "3.2 percent",
+            "2.8 percent",
+            "3.0 percent",
+            "2.5 percent"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Under the six-year Mission for Aatmanirbharta in Pulses, which of the following pulses is not explicitly given special focus?",
+        "answer": "Moong",
+        "choices": [
+            "Moong",
+            "Tur",
+            "Masoor",
+            "Urad"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024–25, which category represents the largest share of the total workforce in India?",
+        "answer": "Self-employed",
+        "choices": [
+            "Self-employed",
+            "Casual Labour",
+            "Regular Wage / Salaried",
+            "Unpaid Workers"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Micro MSME?",
+        "answer": "Investement up to 2.5 crore and turnover upto 10 crore",
+        "choices": [
+            "Investement up to 2.5 crore and turnover upto 10 crore",
+            "Investement up to 1 crore and turnover upto 5 crore",
+            "Investement up to 25 crore and turnover upto 100 crore",
+            "Investement up to 125 crore and turnover upto 500 crore"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Small MSME?",
+        "answer": "Investement up to 25 crore and turnover upto 100 crore",
+        "choices": [
+            "Investement up to 25 crore and turnover upto 100 crore",
+            "Investement up to 10 crore and turnover upto 50 crore",
+            "Investement up to 5 crore and turnover upto 10 crore",
+            "Investement up to 125 crore and turnover upto 500 crore"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Medium MSME?",
+        "answer": "Investement up to 125 crore and turnover upto 500 crore",
+        "choices": [
+            "Investement up to 125 crore and turnover upto 500 crore",
+            "Investement up to 50 crore and turnover upto 250 crore",
+            "Investement up to 25 crore and turnover upto 100 crore",
+            "Investement up to 2.5 crore and turnover upto 10 crore"
+        ]
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the Union Budget 2024–25, which ministry received the highest budget allocation?",
+        "answer": "Ministry of Defense",
+        "choices": [
+            "Ministry of Defense",
+            "Ministry of Agriuculture & Farmers Welfare",
+            "Ministry of Railways",
+            "Ministry of Education"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the literacy rate of Bihar?",
+        "answer": "61.8 percent",
+        "choices": [
+            "61.8 percent",
+            "58.5 percent",
+            "65.3 percent",
+            "70.2 percent"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "What was the literacy rate of India as per the Census 2011?",
+        "answer": "74.0 percent",
+        "choices": [
+            "74.0 percent",
+            "61.8 percent",
+            "65.4 percent",
+            "68.7 percent"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has highest literacy rate in Bihar?",
+        "answer": "Rohtas",
+        "choices": [
+            "Rohtas",
+            "Patna",
+            "Purnea",
+            "Gopalganj"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has lowest literacy rate in Bihar?",
+        "answer": "Purnea",
+        "choices": [
+            "Purnea",
+            "Munger",
+            "Rohtas",
+            "Gopalganj"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the male literacy rate in Bihar?",
+        "answer": "71.2 percent",
+        "choices": [
+            "71.2 percent",
+            "61.8 percent",
+            "74.0 percent",
+            "51.5 percent"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the female literacy rate in Bihar?",
+        "answer": "51.5 percent",
+        "choices": [
+            "51.5 percent",
+            "61.8 percent",
+            "74.0 percent",
+            "71.2 percent"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which state had the highest literacy rate according to Census 2011?",
+        "answer": "Kerala",
+        "choices": [
+            "Kerala",
+            "Bihar",
+            "Tamil Nadu",
+            "Maharashtra"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which state had the lowest literacy rate according to Census 2011?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Jharkhand",
+            "West Bengal",
+            "Assam"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what is the sex-ratio of Bihar?",
+        "answer": 918,
+        "choices": [
+            918,
+            943,
+            950,
+            981
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what is the sex-ratio of India?",
+        "answer": 943,
+        "choices": [
+            943,
+            918,
+            948,
+            952
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the highest sex-ratio in Bihar?",
+        "answer": "Gopalganj",
+        "choices": [
+            "Gopalganj",
+            "Munger",
+            "Purnea",
+            "Patna"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the lowest sex-ratio in Bihar?",
+        "answer": "Munger",
+        "choices": [
+            "Munger",
+            "Gopalganj",
+            "Sheohar",
+            "Kaimur"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what is the population density of Bihar?",
+        "answer": "1106 sq km",
+        "choices": [
+            "1106 sq km",
+            "382 sq km",
+            "812 sq km",
+            "1206 sq km"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what is the population density of India?",
+        "answer": "382 sq km",
+        "choices": [
+            "382 sq km",
+            "1106 sq km",
+            "812 sq km",
+            "1206 sq km"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the highest population density in Bihar?",
+        "answer": "Sheohar",
+        "choices": [
+            "Sheohar",
+            "Sheikhpura",
+            "Kaimur",
+            "Rohtas"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the lowest population density in Bihar?",
+        "answer": "Kaimur",
+        "choices": [
+            "Kaimur",
+            "Sheikhpura",
+            "Sheohar",
+            "Rohtas"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the lowest population in Bihar?",
+        "answer": "Sheikhpura",
+        "choices": [
+            "Sheikhpura",
+            "Sheohar",
+            "Kaimur",
+            "Patna"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the highest population in Bihar?",
+        "answer": "Patna",
+        "choices": [
+            "Patna",
+            "Sheohar",
+            "Kaimur",
+            "Sheikhpura"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which State has the highest population according to Census 2011?",
+        "answer": "Uttar Pradesh",
+        "choices": [
+            "Uttar Pradesh",
+            "Bihar",
+            "Maharashtra",
+            "West Bengal"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which State has the lowest population according to Census 2011?",
+        "answer": "Sikkim",
+        "choices": [
+            "Sikkim",
+            "Manipur",
+            "Tripura",
+            "Goa"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which Union Territory has the lowest population according to Census 2011?",
+        "answer": "Lakshadweep",
+        "choices": [
+            "Lakshadweep",
+            "Andmand & Nicobar Islands",
+            "Puducherry",
+            "Ladakh"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which Union Territory has the highest population according to Census 2011?",
+        "answer": "Delhi",
+        "choices": [
+            "Delhi",
+            "Ladakh",
+            "Jammu & Kashmir",
+            "Chandigarh"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the lowest population in India?",
+        "answer": "Dibang Valley, Arunachal Pradesh",
+        "choices": [
+            "Dibang Valley, Arunachal Pradesh",
+            "Leh, Ladakh",
+            "Mahe, Puducherry",
+            "Diu, Daman & Diu"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the highest population in India?",
+        "answer": "Thane, Maharashtra",
+        "choices": [
+            "Thane, Maharashtra",
+            "Sheohar, Bihar",
+            "Varanasi, Uttar Pradesh",
+            "Bhopal, Madhya Pradesh"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which State has the highest population density according to Census 2011?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Uttar Pradesh",
+            "Mahrashtra",
+            "Sikkim"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which State has the lowest population density according to Census 2011?",
+        "answer": "Arunachal Pradesh",
+        "choices": [
+            "Arunachal Pradesh",
+            "Assam",
+            "Sikkim",
+            "Goa"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which Union Territory has the highest population density according to Census 2011?",
+        "answer": "Delhi",
+        "choices": [
+            "Delhi",
+            "Lakshadweep",
+            "Andman & Nicobar Islands",
+            "Ladakh"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "Which Union Territory has the lowest population density according to Census 2011?",
+        "answer": "Andman & Nicobar Islands",
+        "choices": [
+            "Andman & Nicobar Islands",
+            "Lakshadweep",
+            "Daman & Diue",
+            "Ladakh"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the total population of India?",
+        "answer": "121 crore",
+        "choices": [
+            "121 crore",
+            "11 crore",
+            "110 crore",
+            "112 crore"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the total population of Bihar?",
+        "answer": "10.4 crore",
+        "choices": [
+            "10.4 crore",
+            "14 crore",
+            "104 crore",
+            "41 crore"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, Bihar’s population is approximately what percent of India’s total population?",
+        "answer": "8.6 percent",
+        "choices": [
+            "8.6 percent",
+            "7.2 percent",
+            "9.4 percent",
+            "10.2 percent"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "In terms of population, what is the rank of Bihar?",
+        "answer": "Third",
+        "choices": [
+            "Third",
+            "Second",
+            "First ",
+            "Fourth"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, the percentage of urban and rural population of Bihar is respectively",
+        "answer": "11.3% and 88.7%",
+        "choices": [
+            "11.3% and 88.7%",
+            "13.4% and 86.6%",
+            "17.3% and 82.7%",
+            "10.2% and 89.8%"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "In terms of urban population, Bihar ranks among the states/union territories of the country?",
+        "answer": "12th",
+        "choices": [
+            "12th",
+            "11th",
+            "13th",
+            "14th"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which is the most populous Scheduled Tribe in Bihar?",
+        "answer": "Santhal",
+        "choices": [
+            "Santhal",
+            "Bhil",
+            "Gond",
+            "Munda"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which is the most populous Scheduled Tribe in India?",
+        "answer": "Bhil",
+        "choices": [
+            "Bhil",
+            "Santhal",
+            "Gond",
+            "Munda"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what percentage of tribal population lives in India?",
+        "answer": "8.6 percent",
+        "choices": [
+            "8.6 percent",
+            "1.3 percent",
+            "9.4 percent",
+            "7.2 percent"
+        ]
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what percentage of tribal population lives in Bihar?",
+        "answer": "1.3 percent",
+        "choices": [
+            "1.3 percent",
+            "8.6 percent",
+            "9.4 percent",
+            "7.2 percent"
+        ]
+    },
+    {
         "sheet": "BiharSpecific",
         "question": "Bihar State Formation Day",
         "answer": "22nd March 1912",
@@ -13365,2581 +16731,7 @@
         ]
     },
     {
-        "sheet": "Geography",
-        "question": "India's territorial limit extends towards the sea up to how many nautical miles from the coast?",
-        "answer": "12 nautical miles",
-        "choices": [
-            "12 nautical miles",
-            "200 nautical miles",
-            "24 nautical miles",
-            "100 nautical miles"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "India's Exclusive Economic Zone extends towards the sea up to how many nautical miles from the coast?",
-        "answer": "200 nautical miles",
-        "choices": [
-            "200 nautical miles",
-            "12 nautical miles",
-            "24 nautical miles",
-            "100 nautical miles"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "How many latitudes are there on the globe drawn at 1 degree interval?",
-        "answer": 179,
-        "choices": [
-            179,
-            180,
-            360,
-            359
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "How much is the difference between Indian Standard Time (IST) and Greenwich Mean Time (GMT)?",
-        "answer": "plus 5 hour 30 minutes",
-        "choices": [
-            "plus 5 hour 30 minutes",
-            "minus 5 hour 30 minutes",
-            "minus 4 hour 30 minutes",
-            "plus 4 hour 30 minutes"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "On which plateau, the Tropic of Cancer and the Indian Standard Time intersect each other?",
-        "answer": "Baghelkhand",
-        "choices": [
-            "Baghelkhand",
-            "Bundelkhand",
-            "Kaimur",
-            "Chhota-Nagpur"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "On which longitude does Indian Standard Time coicide?",
-        "answer": "82deg 30min E",
-        "choices": [
-            "82deg 30min E",
-            "85deg 30min W",
-            "88deg 30min E",
-            "80deg 30min W"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Difference of one degree longitude will correspond to how much time",
-        "answer": "4 minutes",
-        "choices": [
-            "4 minutes",
-            "6 minutes",
-            "60 minutes",
-            "30 minutes"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "What is the local time of Thimphu (Bhutan) located at 90deg E longitude when the time at Greenwich (0deg) is 12:00 noon?",
-        "answer": "6:00 pm",
-        "choices": [
-            "6:00 pm",
-            "4:00 pm",
-            "5:00 pm",
-            "6:00 am"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The foothills region of Himalayas is",
-        "answer": "Shiwalik",
-        "choices": [
-            "Shiwalik",
-            "Great Himalayas",
-            "Trans-Himalayas",
-            "Lesser Himalayas"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which of the following areas is not landslide-prone area?",
-        "answer": "Eastern Ghats",
-        "choices": [
-            "Eastern Ghats",
-            "Western Ghats",
-            "Himalayan Region",
-            "North-Eastern Region"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The highest peak in the Eastern Ghats of India is",
-        "answer": "Arma Konda (Jhindhagada)",
-        "choices": [
-            "Arma Konda (Jhindhagada)",
-            "Mahendragiri",
-            "Anai Mudi",
-            "Kanchenjunga"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The highest peak in the Western Ghats of India is",
-        "answer": "Anai Mudi",
-        "choices": [
-            "Anai Mudi",
-            "Mahendragiri",
-            "Arma Konda (Jhindhagada)",
-            "Kanchenjunga"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The highest mountain peak in India?",
-        "answer": "K2 (Godwin-Austen)",
-        "choices": [
-            "K2 (Godwin-Austen)",
-            "Everest",
-            "Nanda Devi",
-            "Kanchenjunga"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Kailash Range is part of which larger mountain system?",
-        "answer": "Trans-Himalaya",
-        "choices": [
-            "Trans-Himalaya",
-            "Great Himalayas",
-            "Shiwalik",
-            "Lesser Himalayas"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Mount Everest lies in which mountain range?",
-        "answer": "Great Himalayas",
-        "choices": [
-            "Great Himalayas",
-            "Trans-Himalaya",
-            "Shiwalik",
-            "Lesser Himalayas"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which is the highest mountain peak entirely within India (not on the border)?",
-        "answer": "Nanda Devi",
-        "choices": [
-            "Nanda Devi",
-            "Kanchenjunga",
-            "Trishul",
-            "Kamet"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Shiwalik series was formed in",
-        "answer": "Cenozoic",
-        "choices": [
-            "Cenozoic",
-            "Proterozoic",
-            "Mesozoic",
-            "Palaeozoic"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Someshwar range is a part of which of the following mountain ranges?",
-        "answer": "Shiwalik",
-        "choices": [
-            "Shiwalik",
-            "Satpura",
-            "Vindhayan",
-            "Eastern Ghats"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Atal Tunnel is across which one of the following Himalayan ranges?",
-        "answer": "Eastern Pir Panjal",
-        "choices": [
-            "Eastern Pir Panjal",
-            "Western Pir Panjal",
-            "Zanskar",
-            "Ladakh"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "At which of the following hills the Eastern Ghats join the Western Ghats?",
-        "answer": "Nilgiri Hills",
-        "choices": [
-            "Nilgiri Hills",
-            "Palni Hills",
-            "Anaimudi Hills",
-            "Shevaroy Hills"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Western Ghats in Maharashtra and Karnataka is known as",
-        "answer": "Sahyadri",
-        "choices": [
-            "Sahyadri",
-            "Nilgiri",
-            "Shiwalik",
-            "Nandi"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Hills situated closer to Kanyakumari are",
-        "answer": "Cardamom Hills",
-        "choices": [
-            "Cardamom Hills",
-            "Nilgiri Hills",
-            "Anaialai Hills",
-            "Shevaroy Hills"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which of the following is not a part of the Meghalaya Plateau?",
-        "answer": "Bhuban Hills",
-        "choices": [
-            "Bhuban Hills",
-            "Garo Hills",
-            "Khasi Hills",
-            "Jaintia Hills"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Extra peninsular mountains of India were formed during",
-        "answer": "Cenozoic Era",
-        "choices": [
-            "Cenozoic Era",
-            "Palaeozoic Era",
-            "Aozoic Era",
-            "Mesozoic Era"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Chhota-Nagpur Plateau is a",
-        "answer": "front sloping",
-        "choices": [
-            "front sloping",
-            "pitfall",
-            "foothill",
-            "plain subland"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which one of the following districts does not have Dharwar geological formations?",
-        "answer": "Rohtas",
-        "choices": [
-            "Rohtas",
-            "Jamui",
-            "Munger",
-            "Nawada"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "How many coastal states are there in India?",
-        "answer": "Nine",
-        "choices": [
-            "Nine",
-            "Eight",
-            "Thirteen",
-            "Eleven"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Island group Lakshadweep is",
-        "answer": "Accumulation of Coral Reef",
-        "choices": [
-            "Accumulation of Coral Reef",
-            "Accumulation of Volcanic substances",
-            "Sedimentated Soil",
-            "None of these"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Lakshadweep consists of how many islands?",
-        "answer": 36,
-        "choices": [
-            36,
-            16,
-            17,
-            26
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Ramsar Convention is associated with the conservation of",
-        "answer": "Wetlands",
-        "choices": [
-            "Wetlands",
-            "Drylands",
-            "Forests",
-            "Hills"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which gas contributes to global warming through its greenhouse effect?",
-        "answer": "All of these",
-        "choices": [
-            "All of these",
-            "Methane",
-            "Nitrous Oxide",
-            "Carbon Dioxide"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which of the following gas is responsible for the depletion of Ozone layer?",
-        "answer": "Chlorofluorocarbons",
-        "choices": [
-            "Chlorofluorocarbons",
-            "Carbon Monoxide",
-            "Carbon Dioxide",
-            "Nitrous Oxide"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "What is the percentage of forest and tree cover in the total geographical area of India according to Indian State of Forest Report 2023?",
-        "answer": "25.17 percent",
-        "choices": [
-            "25.17 percent",
-            "21.76 percent",
-            "3.41 percent",
-            "91.33 percent"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "What is the percentage of forest cover in the total geographical area of India according to Indian State of Forest Report 2023?",
-        "answer": "21.76 percent",
-        "choices": [
-            "21.76 percent",
-            "25.17 percent",
-            "3.41 percent",
-            "91.33 percent"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The largest percentage of forest area is in",
-        "answer": "Lakshadweep",
-        "choices": [
-            "Lakshadweep",
-            "Mizoram",
-            "Andman & Nicobar",
-            "Madhya Pradesh"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "State having largest forest cover in India",
-        "answer": "Madhya Pradesh",
-        "choices": [
-            "Madhya Pradesh",
-            "Arunanchal Pradesh",
-            "Chhattisgarh",
-            "Sikkim"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "In National Park protection is given to",
-        "answer": "Whole Ecosystem",
-        "choices": [
-            "Whole Ecosystem",
-            "Only Fauna",
-            "Only Flora",
-            "Only Birds"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which of the following areas in India does not grow tropical wet evergreen forests?",
-        "answer": "Eastern Ghats",
-        "choices": [
-            "Eastern Ghats",
-            "Western Ghats",
-            "Andaman Islands",
-            "North-Eastern Region"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "In which forest do the majority of species of birds inhabit the mountainous areas?",
-        "answer": "Pine Forest",
-        "choices": [
-            "Pine Forest",
-            "Bush Forest",
-            "Oak Forest",
-            "Maple Forest"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "India's first Dolphin Observatory is being built in",
-        "answer": "Bihar",
-        "choices": [
-            "Bihar",
-            "Kolkata",
-            "Odisha",
-            "Delhi"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "The state of India with maximum number of wildlife sanctuaries is",
-        "answer": "Maharashtra",
-        "choices": [
-            "Maharashtra",
-            "Karnataka",
-            "Madhya Pradesh",
-            "Tamil Nadu"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which one of the following is the well-publicised wildife campaign in the world launched in 1973?",
-        "answer": "Project Tiger",
-        "choices": [
-            "Project Tiger",
-            "Sunderbans Project",
-            "Project Big Cat",
-            "Project Elephant"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which one of the following is not included under in-situ conservation?",
-        "answer": "Botanical Garden",
-        "choices": [
-            "Botanical Garden",
-            "National Parks",
-            "Wildlife Sanctuaries",
-            "Biosphere Reserves"
-        ]
-    },
-    {
-        "sheet": "Geography",
-        "question": "Total Ramsar sites in India?",
-        "answer": 91,
-        "choices": [
-            91,
-            90,
-            19,
-            45
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "The first session of Constituent Assembly was held on",
-        "answer": "9th December 1946",
-        "choices": [
-            "9th December 1946",
-            "15th August 1947",
-            "26th November 1949",
-            "26th January 1946"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Indian Constitution was adopted by the Constituent Assembly on",
-        "answer": "26th Novemeber 1949",
-        "choices": [
-            "26th Novemeber 1949",
-            "26th Novemeber 1950",
-            "26th January 1950",
-            "15th August 1949"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "January 26 was selected as the date for the inaugaration of the Constitution, because",
-        "answer": "The Congress had observed it as the Independence Day in 1930",
-        "choices": [
-            "The Congress had observed it as the Independence Day in 1930",
-            "It was considered to be an auspicious day",
-            "On that day the Quit India Movement was started in 1942",
-            "MK Gandhi returned to India on that day"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who of the following was the chairman of the Provincial Constitution Committee of the Constituent Assembly of India",
-        "answer": "Sardar Vallabhbhai Patel",
-        "choices": [
-            "Sardar Vallabhbhai Patel",
-            "Rajendra Prasad",
-            "Bhim Rao Ambedkar",
-            "K. M. Munshi"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who was the labour Minister in Jawaharlal Nehru's Provisional Government?",
-        "answer": "Jagjivan Ram",
-        "choices": [
-            "Jagjivan Ram",
-            "Rajendra Prasad",
-            "Aruna Asaf Ali",
-            "C. Rajgopalachari"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Indian Constitution was adopted by",
-        "answer": "Constituent Assembly",
-        "choices": [
-            "Constituent Assembly",
-            "British Parliament",
-            "Governor-General",
-            "Indian Parliament"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Constitution Day of India is celebrated on",
-        "answer": "26th Novemeber",
-        "choices": [
-            "26th Novemeber",
-            "26th January",
-            "15th August",
-            "14th August"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who was the President of Indian National Congress at the time of partition of India?",
-        "answer": "J. B. Kripalani",
-        "choices": [
-            "J. B. Kripalani",
-            "Jawaharlal Nehru",
-            "Maulana Abul Kalam Azad",
-            "C. Rajgopalachari"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "In Indian political system which one is supereme?",
-        "answer": "The Constitution",
-        "choices": [
-            "The Constitution",
-            "The Supreme Court",
-            "The President",
-            "The Parliament"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following subject lies in the concurrent list?",
-        "answer": "Education",
-        "choices": [
-            "Education",
-            "Police",
-            "Defence",
-            "Agriculture"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Constitution Tenth schedule relates to",
-        "answer": "Anti-Defection Law",
-        "choices": [
-            "Anti-Defection Law",
-            "National Language of India",
-            "Administration of SC and ST Area",
-            "Judicial Review"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Land Reform comes under the subjects of",
-        "answer": "State List",
-        "choices": [
-            "State List",
-            "Union List",
-            "Concurrent List",
-            "National List"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following is not a part in the Eleventh Schedule of the Constitution?",
-        "answer": "Rural Sports",
-        "choices": [
-            "Rural Sports",
-            "Libraries",
-            "Fuel and Fodder",
-            "Technical Training"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "What was the duration in the making of the Indian Constitution?",
-        "answer": "2 years 11 monts and 18 days",
-        "choices": [
-            "2 years 11 monts and 18 days",
-            "1 years 11 monts and 18 days",
-            "3 years 11 monts and 18 days",
-            "2 years 10 monts and 18 days"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "The provision of amending the constitutional provision is given in",
-        "answer": "Part XX Article 368",
-        "choices": [
-            "Part XX Article 368",
-            "Part XIX Article 356",
-            "Part XX Article 356",
-            "Part XXI Article 368"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which one of the following characterstics is not true for unitary form of Government?",
-        "answer": "Ideal for large countries",
-        "choices": [
-            "Ideal for large countries",
-            "Flexible",
-            "Swift Decision",
-            "Uniformity of Laws"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Democracy of India is based on the fact that",
-        "answer": "Public enjoys the right to choose and change the Government",
-        "choices": [
-            "Public enjoys the right to choose and change the Government",
-            "Fundamental Rights have been provided",
-            "The Constitution is written",
-            "Directive Principles of State policy have been provided for here"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which one of the following statements is correct regarding parliamentary form of government?",
-        "answer": "Executive is responsible to the legislature",
-        "choices": [
-            "Executive is responsible to the legislature",
-            "The legislature is responsible to Executive",
-            "The Legislative and the Executive are independent",
-            "The Legislature is responsible to Judiciary"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is the nature of the Indian Constitution",
-        "answer": "Federal in nature but unitary in spirit",
-        "choices": [
-            "Federal in nature but unitary in spirit",
-            "Federal",
-            "Unitary",
-            "Parliamentary"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "After Independence, in which year were the Indian states reorganised on the linguistic basis?",
-        "answer": 1956,
-        "choices": [
-            1956,
-            2000,
-            1947,
-            1950
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Chief Minister of Union Territory, where such a setup exists, is appointed by the",
-        "answer": "President",
-        "choices": [
-            "President",
-            "Governor",
-            "Lieutenant Governor",
-            "Chief Justice of India"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Creation of a new state requires which majority for Consitutional Amendment.",
-        "answer": "Simple",
-        "choices": [
-            "Simple",
-            "Two-third",
-            "Three-fourth",
-            "Two-third plus ratification by half of all states"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Delhi is a/an",
-        "answer": "Union Territory",
-        "choices": [
-            "Union Territory",
-            "State",
-            "Autonomous Council",
-            "Dominion"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Sikkim became an associate state of India under",
-        "answer": "35th Amendment",
-        "choices": [
-            "35th Amendment",
-            "45th Amendment",
-            "42nd Amendment",
-            "36th Amendment"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "On which day Sikkim gained full statehood in India",
-        "answer": "16th May 1975",
-        "choices": [
-            "16th May 1975",
-            "15th May 1975",
-            "16th June 1975",
-            "15th July 1975"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "In which year did the state of Jharkhand come into existence?",
-        "answer": 2000,
-        "choices": [
-            2000,
-            1975,
-            1956,
-            1987
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Bihar as an Indian State was formed in ",
-        "answer": 1912,
-        "choices": [
-            1912,
-            1956,
-            1987,
-            1911
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "The phrase equality before law used in Article 14 of the Indian Constitution has been borrowed from the Constitution of",
-        "answer": "Britain",
-        "choices": [
-            "Britain",
-            "USA",
-            "France",
-            "Canada"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "The phrase equality protection of law used in Article 14 of the Indian Constitution has been borrowed from the Constitution of",
-        "answer": "USA",
-        "choices": [
-            "USA",
-            "Britain",
-            "France",
-            "Canada"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "From which country, the Indian Constitution has taken reference for the idea of the Fundamental Rights?",
-        "answer": "United States of America",
-        "choices": [
-            "United States of America",
-            "Ireland",
-            "United Kingdom",
-            "Canada"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following is given the power to enforce the Fundamental Rights by the Constitution?",
-        "answer": "The Supreme Court and High Courts",
-        "choices": [
-            "The Supreme Court and High Courts",
-            "All Courts in India",
-            "The Parliament",
-            "The President"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is meant by Rule of Law",
-        "answer": "One act for all and one judiciary for all",
-        "choices": [
-            "One act for all and one judiciary for all",
-            "One act for all and one state for all",
-            "One state for all and one judicary for all",
-            "All acts for one and one judiciary for all"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "The description of Fundamental Rights for the Indian cititzens is in",
-        "answer": "Article 12 to 35",
-        "choices": [
-            "Article 12 to 35",
-            "Article 25 to 50",
-            "Article 16 to 40",
-            "Article 15 to 39"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Supreme Court's judgement of Indra Sawhney vs Union of India Case is related to which issue?",
-        "answer": "Regarding OBC reservation in Government Employment",
-        "choices": [
-            "Regarding OBC reservation in Government Employment",
-            "Doctrine of Basic Structure of Constitution",
-            "Reservation on promotion of SC",
-            "Extended reservation for ST"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which article of the Constitution of India is related with the Freedom of Press.",
-        "answer": "Article 19",
-        "choices": [
-            "Article 19",
-            "Article 20",
-            "Article 21",
-            "Article 22"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following can a court issue for enforcement of the Fundamental Rights?",
-        "answer": "Writ",
-        "choices": [
-            "Writ",
-            "Decree",
-            "Ordinance",
-            "Bill"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following is not a fundamental right?",
-        "answer": "Right to Property",
-        "choices": [
-            "Right to Property",
-            "Right to Constitutional Remedy",
-            "Right to Peaceful Assembly",
-            "Right to free movement all over the country"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Supreme Court has held that hoisting the National Flag atop the private buildings is a fundamental right of every citizen under",
-        "answer": "Article 19",
-        "choices": [
-            "Article 19",
-            "Article 14",
-            "Article 21",
-            "Article 25"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following rights conferred by the Constitution of India is also available to non-citizens?",
-        "answer": "Right to Constitutional Remedies",
-        "choices": [
-            "Right to Constitutional Remedies",
-            "Freedom of Speech",
-            "Freedom to move and settle in any part of the country",
-            "Freedom to accquire property"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "When was the Right to Education added through the amendment in the Constitution of India?",
-        "answer": "1st April 2010",
-        "choices": [
-            "1st April 2010",
-            "1st August 2010",
-            "2nd October 2010",
-            "1st December 2010"
-        ]
-    },
-    {
-        "sheet": "Polity",
-        "question": "Untouchability is abolished by which article of the Indian Constitution?",
-        "answer": "Article 17",
-        "choices": [
-            "Article 17",
-            "Article 19",
-            "Article 15",
-            "Article 14"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Physics involves the study of",
-        "answer": "Nature & Natural Phenomena",
-        "choices": [
-            "Nature & Natural Phenomena",
-            "Humans",
-            "Birds & Animals",
-            "Plants"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Classical Physics does not include subjects like",
-        "answer": "Elementary Particles",
-        "choices": [
-            "Elementary Particles",
-            "Mechanics",
-            "Heat",
-            "Sound"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Size of universe is of the order of",
-        "answer": "10^26 m",
-        "choices": [
-            "10^26 m",
-            "10^18 m",
-            "10^40 m",
-            "10^16 m"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Einstein was awarded Nobel Prize in Physics for",
-        "answer": "Law of Photoelectric Effect",
-        "choices": [
-            "Law of Photoelectric Effect",
-            "Theory of Relativity",
-            "Law of Gravition",
-            "Special Relativity"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Fundamental unit of luminous intensity",
-        "answer": "Candela",
-        "choices": [
-            "Candela",
-            "Watt",
-            "Joule",
-            "Lux"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Weber is derived unit of",
-        "answer": "Magnetic Flux",
-        "choices": [
-            "Magnetic Flux",
-            "Magnetic Moment",
-            "Luminous Flux",
-            "None of these"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The prefix femto stands for",
-        "answer": "10^-15",
-        "choices": [
-            "10^-15",
-            "10^15",
-            "10^12",
-            "10^-12"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Number of basic SI Unit is ",
-        "answer": 7,
-        "choices": [
-            7,
-            6,
-            8,
-            5
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Light-year is a unit of ",
-        "answer": "Distance",
-        "choices": [
-            "Distance",
-            "Light",
-            "Intensity of Light",
-            "Time"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Speed of light in a vacuum is approximately ",
-        "answer": "3 x 10^8 m/s",
-        "choices": [
-            "3 x 10^8 m/s",
-            "3 x 10^8 km/s",
-            "3 x 10^6 m/s",
-            "3 x 10^6 km/s"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Ampere is unit of",
-        "answer": "Electric Current",
-        "choices": [
-            "Electric Current",
-            "Electric Charge",
-            "Magentic Flux",
-            "Electric Resistance"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "SI unit of pressure",
-        "answer": "Pascal",
-        "choices": [
-            "Pascal",
-            "Dyne",
-            "Newton",
-            "Joule"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Decibel is unit of",
-        "answer": "Intensity of Sound",
-        "choices": [
-            "Intensity of Sound",
-            "Intensity of Light",
-            "Speed of Light",
-            "None of these"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "SI unit of electric charge",
-        "answer": "Coulomb",
-        "choices": [
-            "Coulomb",
-            "Volts",
-            "Ohm",
-            "Ampere"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "One astronomical unit (AU) is the average distance between",
-        "answer": "Earth & Sun",
-        "choices": [
-            "Earth & Sun",
-            "Earth & Moon",
-            "Sun & Moon",
-            "Sun & Pluto"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Physical quantity without any unit",
-        "answer": "Strain",
-        "choices": [
-            "Strain",
-            "Stress",
-            "Force",
-            "Pressure"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "One Newton equals to",
-        "answer": "1 Kg m/s^2",
-        "choices": [
-            "1 Kg m/s^2",
-            "1 Kg m s",
-            "1 Kg m/s",
-            "1 Kg m s^2"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "SI unit of acceleration is",
-        "answer": "m/s^2",
-        "choices": [
-            "m/s^2",
-            "m/s",
-            "ms",
-            "ms^2"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "SI unit of electric resistance is",
-        "answer": "Ohm",
-        "choices": [
-            "Ohm",
-            "Ampere",
-            "Volt",
-            "Coulomb"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "1 kWh equals to",
-        "answer": "3.6 x 10^6 J",
-        "choices": [
-            "3.6 x 10^6 J",
-            "3.6 x 10^5 J",
-            "3.6 x 10^-6 J",
-            "3.6 x 10^-5 J"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Electric Potential is measured in",
-        "answer": "Joule / Coulomb",
-        "choices": [
-            "Joule / Coulomb",
-            "Watt",
-            "Newton-second",
-            "Joule"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following pairs have the same units",
-        "answer": "Work & Energy",
-        "choices": [
-            "Work & Energy",
-            "Force & Pressure",
-            "Power & Energy",
-            "Force & Work"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Rate of change of momentum of a body is ",
-        "answer": "Impulse",
-        "choices": [
-            "Impulse",
-            "Energy",
-            "Power",
-            "Force"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "SI unit of power is",
-        "answer": "Watt",
-        "choices": [
-            "Watt",
-            "Joule-Second",
-            "Joule",
-            "Newton-Second"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following equations represents Pressure in Physics",
-        "answer": "Force / Area",
-        "choices": [
-            "Force / Area",
-            "Force x Area",
-            "Mass / Acceleration",
-            "Mass x Acceleration"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is a scalar quantity",
-        "answer": "Mass",
-        "choices": [
-            "Mass",
-            "Momentum",
-            "Weight",
-            "Gravity"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "One horsepower is approximately equal to",
-        "answer": "746 W",
-        "choices": [
-            "746 W",
-            "647 W",
-            "476 W",
-            "764 W"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Molecular formula of Methyl Isocynate",
-        "answer": "C2H3NO",
-        "choices": [
-            "C2H3NO",
-            "C3H5NO",
-            "C4H7NO",
-            "C4H9NO"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Ore of Thorium",
-        "answer": "Monzite",
-        "choices": [
-            "Monzite",
-            "Pitchblende",
-            "Carnotite",
-            "Hematite"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Ore of Uranium",
-        "answer": "Pitchblende",
-        "choices": [
-            "Pitchblende",
-            "Monzite",
-            "Thorite",
-            "Hematite"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following acids is secreted in the stomach",
-        "answer": "Hydrochloric acid",
-        "choices": [
-            "Hydrochloric acid",
-            "Sulphuric acid",
-            "Nitric acid",
-            "Phosphoric Acid"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The meter used to measure the distance moved by the vehicle is known as",
-        "answer": "Odometer",
-        "choices": [
-            "Odometer",
-            "Ammeter",
-            "Speedometer",
-            "Chronometer"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Heat transfer that does not require a medium is called",
-        "answer": "Radiation",
-        "choices": [
-            "Radiation",
-            "Reflection",
-            "Conduction",
-            "Convection"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "What type of rock is formed from the cooling and solidification of lava",
-        "answer": "Igneous",
-        "choices": [
-            "Igneous",
-            "Sedimentary",
-            "Metamorphic",
-            "Crystal"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following represents the suitable condition for the liquefaction of gases",
-        "answer": "Low Temperature, High Pressure",
-        "choices": [
-            "Low Temperature, High Pressure",
-            "Low Temperature, Low Pressure",
-            "High Temperature, High Pressure",
-            "High Temperature, Low Pressure"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is an Iron ore",
-        "answer": "Limonite",
-        "choices": [
-            "Limonite",
-            "Cinnabar",
-            "Bauxite",
-            "Pyrite"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which component of fertilizer is used for stimulating early growth",
-        "answer": "Phosphorus",
-        "choices": [
-            "Phosphorus",
-            "Nitrogen",
-            "Potassium",
-            "Oxygen"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following are the constituents of a sodia acid fire extinguisher",
-        "answer": "Dilute sulphuric acid and sodium bicarbonate solution",
-        "choices": [
-            "Dilute sulphuric acid and sodium bicarbonate solution",
-            "Dilute sulphuric acid and sodium carbonate",
-            "Concentrated sulphuric acid and sodium carbonate solution",
-            "Concentrated sulphuric acid and aluminium suplhate"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following bacterial diseases is called splenic fever",
-        "answer": "Anthrax",
-        "choices": [
-            "Anthrax",
-            "Typhoid",
-            "Cholera",
-            "None of these"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following radiation is used to get relief from body aches",
-        "answer": "Infrared",
-        "choices": [
-            "Infrared",
-            "UV",
-            "Visible",
-            "None of these"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which one of the following is an example of melamine used for making floor tiles",
-        "answer": "Thermosetting Plastics",
-        "choices": [
-            "Thermosetting Plastics",
-            "Thermoplastics",
-            "Polythene",
-            "PVC"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is the first artificially prepared element",
-        "answer": "Tc",
-        "choices": [
-            "Tc",
-            "Te",
-            "Th",
-            "TI"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following has a highly elongated elliptical orbit",
-        "answer": "Comet",
-        "choices": [
-            "Comet",
-            "Asteroid",
-            "Meteorite",
-            "Meteor"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is the fluid part of the blood",
-        "answer": "Plasma",
-        "choices": [
-            "Plasma",
-            "WBC",
-            "RBC",
-            "Platelets"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following minerals occur in Minas Gerais province of Brazil",
-        "answer": "Iron",
-        "choices": [
-            "Iron",
-            "Bauxite",
-            "Mica",
-            "Coal"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is a non-contact force",
-        "answer": "Magnetic",
-        "choices": [
-            "Magnetic",
-            "Frictional",
-            "Impact",
-            "None of these"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the structural and functional unit of Life",
-        "answer": "Cell",
-        "choices": [
-            "Cell",
-            "Organ",
-            "Tissue",
-            "Organism"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following, corundrum and cryolite are important ore",
-        "answer": "Aluminium",
-        "choices": [
-            "Aluminium",
-            "Silver",
-            "Tin",
-            "Iron"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is the resistance of wire",
-        "answer": "R = V/I",
-        "choices": [
-            "R = V/I",
-            "R = IV",
-            "R = I/V",
-            "I = R/V"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the value of solar constant",
-        "answer": "1.4 kW/m2",
-        "choices": [
-            "1.4 kW/m2",
-            "1.6 kW/m2",
-            "1.2 kW/m2",
-            "1.8 kW/m2"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following the chlorophyll in photosyntesis is used for",
-        "answer": "Absorbing light",
-        "choices": [
-            "Absorbing light",
-            "Reduction of CO2",
-            "Breaking downs water molecules",
-            "No Function"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which part of alimentary canal receives bile from the liver",
-        "answer": "Small Intestine",
-        "choices": [
-            "Small Intestine",
-            "Stomach",
-            "Oesophagus",
-            "Large Intestine"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The process of breaking down organic matter by micro-organisms is called",
-        "answer": "Decomposition",
-        "choices": [
-            "Decomposition",
-            "Respiration",
-            "Photosynthesis",
-            "Fermentation"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is a major cause of pollution",
-        "answer": "Burning of Fossil Fuels",
-        "choices": [
-            "Burning of Fossil Fuels",
-            "Disposal of Plastics",
-            "Deforestation",
-            "Execessive use of pesticides"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Who was the first to propose a model for the structure of an atom",
-        "answer": "J J Thomson",
-        "choices": [
-            "J J Thomson",
-            "E Goldstein",
-            "Rutherford",
-            "Neil Bohr"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "In the following which is fundamental physical quantitiy?",
-        "answer": "Electric Current",
-        "choices": [
-            "Electric Current",
-            "Force",
-            "Velocity",
-            "Work"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "At time of a short circuit, the current in the circuit",
-        "answer": "increases heavily",
-        "choices": [
-            "increases heavily",
-            "varies continously",
-            "reduces substantially",
-            "does not change"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Frequency is measured in",
-        "answer": "Hertz",
-        "choices": [
-            "Hertz",
-            "metre/second",
-            "radian",
-            "watt"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "What is measured in hertz?",
-        "answer": "Frequency",
-        "choices": [
-            "Frequency",
-            "Energy",
-            "Heat",
-            "Work"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Bolometer is used to measure",
-        "answer": "Heat Radiations",
-        "choices": [
-            "Heat Radiations",
-            "Frequency",
-            "Velocity",
-            "Wavelength"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "What is hearing frequency range of Human",
-        "answer": "20Hz to 20kHz",
-        "choices": [
-            "20Hz to 20kHz",
-            "2Hz to 20kHz",
-            "2Hz to 20Hz",
-            "2kHz to 20kHz"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Ohm-meter is unit of ",
-        "answer": "Resistivity",
-        "choices": [
-            "Resistivity",
-            "Resistance",
-            "Charge",
-            "Conductance"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Angstrom is a unit of ",
-        "answer": "Wavelength",
-        "choices": [
-            "Wavelength",
-            "Energy",
-            "Frequency",
-            "Velocity"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "1 Zepto is equal to",
-        "answer": "10^-21",
-        "choices": [
-            "10^-21",
-            "10^21",
-            "10^-12",
-            "10^12"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "One micron is equal to",
-        "answer": "10^-6 m",
-        "choices": [
-            "10^-6 m",
-            "10^6 m",
-            "10^-3 m",
-            "10^3 m"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "One picogram is equal to",
-        "answer": "10^-12",
-        "choices": [
-            "10^-12",
-            "10^-21",
-            "10^-9",
-            "10^-6"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the unit of pressure?",
-        "answer": "Newton / sq. meter",
-        "choices": [
-            "Newton / sq. meter",
-            "Newton-meter",
-            "Newton",
-            "Newton/meter"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Magnetic field is a ",
-        "answer": "Vector Quantity",
-        "choices": [
-            "Vector Quantity",
-            "Scalar Quantity",
-            "Dimensionless Quantity",
-            "None of these"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "What is Galvanometer used to measure",
-        "answer": "Electric Current",
-        "choices": [
-            "Electric Current",
-            "Electric Charge",
-            "Electric Resistance",
-            "Electric Potential"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is used to measure the intensity of earthquake?",
-        "answer": "Mercalli Scale",
-        "choices": [
-            "Mercalli Scale",
-            "Ritcher Scale",
-            "Seismograph",
-            "Accelerometer"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Hot-wire ammeters are used to measure",
-        "answer": "both AC and DC",
-        "choices": [
-            "both AC and DC",
-            "only DC",
-            "only AC",
-            "neither AC nor DC"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which instrument is used for measuring electric potential?",
-        "answer": "Potentiometer",
-        "choices": [
-            "Potentiometer",
-            "Ammeter",
-            "Galvanometer",
-            "Accelerometer"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The device used to measure electric current is",
-        "answer": "Ammeter",
-        "choices": [
-            "Ammeter",
-            "Potentiometer",
-            "Voltmeter",
-            "Voltameter"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The resistance of an ideal voltmeter is ",
-        "answer": "infinite",
-        "choices": [
-            "infinite",
-            "negative",
-            "zero",
-            "one"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which instrument is used to measure humidity",
-        "answer": "Hygrometer",
-        "choices": [
-            "Hygrometer",
-            "Hydrometer",
-            "Pyrometer",
-            "Lactometer"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Electroencephalogram (EEG) is used in monitoring",
-        "answer": "Brain",
-        "choices": [
-            "Brain",
-            "Heart",
-            "Liver",
-            "Kidney"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "For a satellite, escape velocity is 11km/s. If the satellite is launched at an angle of 60 degree with the vertical, then the escape velocity will be",
-        "answer": "does not change",
-        "choices": [
-            "does not change",
-            "increases",
-            "decreases",
-            "becomes zero"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the law in which under the same conditions of temperature and pressure, equal volumes of all gases contain equal number of molecules?",
-        "answer": "Avogadro's Law",
-        "choices": [
-            "Avogadro's Law",
-            "Graham's Law",
-            "Pascal's Law",
-            "Coriolis Effect"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "A goalkeeper in a game of football pull his hands backwards after holding the ball shot at the goal. This enables the goalkeeper to",
-        "answer": "decrease the rate of change of momentum",
-        "choices": [
-            "decrease the rate of change of momentum",
-            "increase the force exerted by the ball on hands",
-            "exert large force on the ball",
-            "increases the score"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "When the stone is brought from the surface of the moon to the earth, then",
-        "answer": "its weight will change, but mass will not change",
-        "choices": [
-            "its weight will change, but mass will not change",
-            "it mass will change",
-            "both weight and mass will change",
-            "neither weight nor mass will change"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is not a vector quantity",
-        "answer": "volume",
-        "choices": [
-            "volume",
-            "velocity",
-            "displacement",
-            "force"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is not a vector quantity",
-        "answer": "speed",
-        "choices": [
-            "speed",
-            "velocity",
-            "torque",
-            "displacement"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is a scalar quantity",
-        "answer": "Pressure",
-        "choices": [
-            "Pressure",
-            "Force",
-            "Acceleration",
-            "Velocity"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Current density is",
-        "answer": "a vector quantity",
-        "choices": [
-            "a vector quantity",
-            "a scalar quantity",
-            "Dimensionless Quantity",
-            "None of these"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "A sudden rise in the barometric height indicates",
-        "answer": "extremely dry weather",
-        "choices": [
-            "extremely dry weather",
-            "coming of storm or cyclone",
-            "possibility of rain",
-            "dry weather"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The time period of a pendulum clock is ",
-        "answer": "1 second",
-        "choices": [
-            "1 second",
-            "2 seconds",
-            "1 minute",
-            "1 hour"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which physical quantity is represented by the ratio of momentum and velocity of the body?",
-        "answer": "Mass",
-        "choices": [
-            "Mass",
-            "velocity",
-            "Acceleration",
-            "Force"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which is the correct formula of acceleration?",
-        "answer": "a = (v-u)/t",
-        "choices": [
-            "a = (v-u)/t",
-            "a = u + vt",
-            "a = (u + v )/t",
-            "a = u + v/t"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Force is the product of ",
-        "answer": "Mass & Acceleration",
-        "choices": [
-            "Mass & Acceleration",
-            "Mass & Velocity",
-            "Weight & Density",
-            "Weight & Acceleration"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Ball bearings are used to convert static friction into",
-        "answer": "rolling friction",
-        "choices": [
-            "rolling friction",
-            "drag",
-            "sliding friction",
-            "torque"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following energy changes involves frictional force?",
-        "answer": "Kinetic Energy to Heat Energy",
-        "choices": [
-            "Kinetic Energy to Heat Energy",
-            "Chemical energy to Heat Energy",
-            "Kinetic Energy to Electric Energy",
-            "Potential Energy to Sound Energy"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Lenz's law is derived from the law of conservation of ",
-        "answer": "Energy",
-        "choices": [
-            "Energy",
-            "Charge",
-            "Momentum",
-            "Magnetism"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "If a feather, a rubber ball and a wooden ball are failing freely simultaneously from the same height in the vacuum then",
-        "answer": "all three will reach the ground together",
-        "choices": [
-            "all three will reach the ground together",
-            "the wooden ball will reach the ground first",
-            "the rubber ball will reach the ground first",
-            "the feather will reach the ground last"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "When a body falls freely towards the Earth, then its total energy",
-        "answer": "remains constant",
-        "choices": [
-            "remains constant",
-            "increases",
-            "decreases",
-            "becomes zero"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "A second pendulum is mounted in a rocket. Its period of oscillation decreases when the rocket",
-        "answer": "moves up with uniform acceleration",
-        "choices": [
-            "moves up with uniform acceleration",
-            "comes down with uniform acceleration",
-            "moves round the earth in a geostationary orbit",
-            "moves up with uniform velocity"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "For a body moving with constant speed in a horizontal circle, which of the following remains constant?",
-        "answer": "Kinetic Energy",
-        "choices": [
-            "Kinetic Energy",
-            "velocity",
-            "Acceleration",
-            "Centripetal Force"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "If the spinning speed of the earth increases, then the weight of the body at equator will",
-        "answer": "decrease",
-        "choices": [
-            "decrease",
-            "increase",
-            "remains same",
-            "be doubled"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The time period of a pendulum",
-        "answer": "depends on its length",
-        "choices": [
-            "depends on its length",
-            "depends on the mass",
-            "depends on time",
-            "depends on temperature"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "You are standing in an elevator. The force exerted by your weight on the floor of the elevator",
-        "answer": "will be zero when the lift comes down with an acceleration of 9.8m/s2",
-        "choices": [
-            "will be zero when the lift comes down with an acceleration of 9.8m/s2",
-            "will be zero when the lift goes up with an acceleration of 9.8m/s2",
-            "Zero when the lift moves in any direction with an acceleration of 9.8m/s2",
-            "will not be affected by the change in the rate of acceleration of the lift"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "A bus is moving along a straight path and takes a sharp turn to the right side suddenly, the passengers in the bus will",
-        "answer": "bent towards left side",
-        "choices": [
-            "bent towards left side",
-            "bent towards right side",
-            "fall in forward direction ",
-            "fall in backward direction"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "A man pushes more weight on the Earth at",
-        "answer": "standing position",
-        "choices": [
-            "standing position",
-            "sitting position",
-            "lying position",
-            "sleeping position"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Environment is a composite state of",
-        "answer": "All of these",
-        "choices": [
-            "All of these",
-            "Biotic Factors",
-            "Abiotic Factors",
-            "Physiographic Factors"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the thin layer of gases around the earth called?",
-        "answer": "Atmosphere",
-        "choices": [
-            "Atmosphere",
-            "Biosphere",
-            "Hydroshpere",
-            "Lithoshpere"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The atmosphere is mainly heated by the ",
-        "answer": "long-wave terrestrial radiation",
-        "choices": [
-            "long-wave terrestrial radiation",
-            "short-wave solar radiation",
-            "volcanic emission",
-            "emission from distant stars"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Air is a/an",
-        "answer": "Mixture",
-        "choices": [
-            "Mixture",
-            "Compound",
-            "Element",
-            "Electrolyte"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The highest percentage of gas in the air is",
-        "answer": "Nitrogen",
-        "choices": [
-            "Nitrogen",
-            "Hydrogen",
-            "Oxygen",
-            "Carbon Dioxide"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The tallest known living tree",
-        "answer": "Sequoia",
-        "choices": [
-            "Sequoia",
-            "Eucalyptus",
-            "Deodar",
-            "Parnang"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The major component of CNG is",
-        "answer": "CH4",
-        "choices": [
-            "CH4",
-            "N2",
-            "CO2",
-            "H2"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Pollutant emission gas in vehichle exhaust is mainly",
-        "answer": "Carbon Monoxide",
-        "choices": [
-            "Carbon Monoxide",
-            "Carbon Dioxide",
-            "Nitrogen Oxide",
-            "Marsh Gas"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Inhalation of air polluted with Carbon Monoxide is dangerous because",
-        "answer": "It combines with hemoglobin",
-        "choices": [
-            "It combines with hemoglobin",
-            "it combines with oxygen in blood",
-            "it removes water from the body and causes dehydration",
-            "it causes coagulation of proteins in the body"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The components of acid rain is/are",
-        "answer": "HNO3 & H2SO4",
-        "choices": [
-            "HNO3 & H2SO4",
-            "HNO3",
-            "H2SO4",
-            "CO2"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The major and top source of oxygen in the atmosphere is",
-        "answer": "Photosynthesis by oceanic phytoplanktons",
-        "choices": [
-            "Photosynthesis by oceanic phytoplanktons",
-            "Photosynthesis by forest plants",
-            "photosynthesis by grassland ecosystem",
-            "photosynthesis be wtland algaes"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "In which year International Space Station was launched?",
-        "answer": 1998,
-        "choices": [
-            1998,
-            1999,
-            2000,
-            1997
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Name the world's first Space Station",
-        "answer": "Salyut 1",
-        "choices": [
-            "Salyut 1",
-            "Mir",
-            "Skylab",
-            "Tiangong"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "First country to launch space station in the world",
-        "answer": "USSR",
-        "choices": [
-            "USSR",
-            "USA",
-            "China",
-            "India"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Name the first person in the world to travel in space?",
-        "answer": "Yuri Gagrin",
-        "choices": [
-            "Yuri Gagrin",
-            "Rakesh Sharma",
-            "Shubhanshu Shukla",
-            "Alan Shepard"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "The indigenous malaria vaccine candidate developed under the aegis of ICMR is called",
-        "answer": "AdFalciVax",
-        "choices": [
-            "AdFalciVax",
-            "R21/Matrix-M",
-            "RTS,S",
-            "Covaxin"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": " AdFalciVax, the malaria vaccine candidate developed in India, is primarily targeted against which malaria parasite?",
-        "answer": "Plasmodium falciparum",
-        "choices": [
-            "Plasmodium falciparum",
-            "Plasmodium vivax",
-            "Plasmodium ovale",
-            "Plasmodium malariae"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the typical electrical output range of Small Modular Reactors (SMRs)?",
-        "answer": "50 to 300 MW",
-        "choices": [
-            "50 to 300 MW",
-            "10 to 50 MW",
-            "300 to 1000 MW",
-            "More than 2000 MW"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the key feature of a Small Modular Reactor (SMR) compared to traditional nuclear reactors?",
-        "answer": "Can be manufactured in a factory and assembled on-site",
-        "choices": [
-            "Can be manufactured in a factory and assembled on-site",
-            "Uses only thorium as fuel",
-            "Requires high population density",
-            "Requires extremely large cooling towers"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Chikungunya is caused by which type of microorganism?",
-        "answer": "Virus",
-        "choices": [
-            "Virus",
-            "Bacteria",
-            "Fungus",
-            "Protozoa"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Chikungunya virus is primarily transmitted by which mosquito?",
-        "answer": "Aedes Aegypti",
-        "choices": [
-            "Aedes Aegypti",
-            "Culex",
-            "Anopheles",
-            "Tabanus"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the most characteristic symptom of Chikungunya?",
-        "answer": "Severe joint pain",
-        "choices": [
-            "Severe joint pain",
-            "Skin Ulcers",
-            "Swelling of lympt nodes",
-            "Paralysis"
-        ]
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following diseases is not transmitted by Aedes mosquitoes?",
-        "answer": "Malaria",
-        "choices": [
-            "Malaria",
-            "Chikungunya",
-            "Zika",
-            "Dengue"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "Which type of economy does India have?",
-        "answer": "Mixed",
-        "choices": [
-            "Mixed",
-            "Socialist",
-            "Gandhian",
-            "Free"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "The main source of national income of India is",
-        "answer": "Service",
-        "choices": [
-            "Service",
-            "Manufacturing",
-            "Agriculture",
-            "Foreign Remittances"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "As the economy develops, the national income share of tertiary sector",
-        "answer": "goes on increasing",
-        "choices": [
-            "goes on increasing",
-            "first decreases, then increase",
-            "first increase, then decrease",
-            "goes on decreasing"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "One of the problems in calculating National Income in India is",
-        "answer": "non-organised sector",
-        "choices": [
-            "non-organised sector",
-            "under-employment",
-            "inflation",
-            "low level of savings"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "Which of the following is not a method to calculate the Gross Domestic Product (GDP)?",
-        "answer": "Diminishing Cost Method",
-        "choices": [
-            "Diminishing Cost Method",
-            "Product Method",
-            "Income Method",
-            "Expenditure Method"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "Which one does not come under economic infrastructure?",
-        "answer": "Education or Health",
-        "choices": [
-            "Education or Health",
-            "Energy",
-            "Roads",
-            "Railway"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "Hindu growth is related to",
-        "answer": "GDP",
-        "choices": [
-            "GDP",
-            "Money",
-            "Population",
-            "GNP"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "What is money?",
-        "answer": "Commodity",
-        "choices": [
-            "Commodity",
-            "Income",
-            "Wealth",
-            "Savings"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "The economist who for the first time scientifically determined National Income in India?",
-        "answer": "V K R V Rao",
-        "choices": [
-            "V K R V Rao",
-            "D R Gadgil",
-            "Manmohan Singh",
-            "Y V Alagh"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "Who was the remarkable person who took the action for calculating the national income of India before Independence?",
-        "answer": "Dadabhai Naoroji",
-        "choices": [
-            "Dadabhai Naoroji",
-            "Jawaharlal Nehru",
-            "Mahatma Gandhi",
-            "Surendranath Banerjee"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "Which of the following offices or institutes releases data of the National Income in India?",
-        "answer": "Nationa Statistical Office (NSO)",
-        "choices": [
-            "Nationa Statistical Office (NSO)",
-            "National Sample Survey Office (NSSO)",
-            "Central Statistical Office (CSO) ",
-            "NITI Ayog"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "Which organisation carries out the survey for determining the poverty line?",
-        "answer": "Nationa Statistical Office (NSO)",
-        "choices": [
-            "Nationa Statistical Office (NSO)",
-            "National Sample Survey Office (NSSO)",
-            "Reserve Bank of India (RBI)",
-            "NITI Ayog"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "Which ministry is responsible for calculating GDP of India?",
-        "answer": "Ministry of Central Statistical and Program Implementation",
-        "choices": [
-            "Ministry of Central Statistical and Program Implementation",
-            "Ministry of Commerce and Industry",
-            "Ministry of Finance",
-            "Ministry of Consumer Affairs"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "The best index of economic income can be provided by",
-        "answer": "increase in per capita real income per year",
-        "choices": [
-            "increase in per capita real income per year",
-            "increase in national income at current price",
-            "increase in savings ration",
-            "improvement in balance of payment position"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "Per Capita income of a country is obtained from",
-        "answer": "both National Income and Population",
-        "choices": [
-            "both National Income and Population",
-            "Population",
-            "National Income",
-            "GDP"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "The latest per capita income at constant prices is lowest for which state of India?",
-        "answer": "Bihar",
-        "choices": [
-            "Bihar",
-            "Uttar Pradesh",
-            "Jharkhand",
-            "Manipur"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "The latest per capita income at constant prices is highest for which state of India?",
-        "answer": "Sikkim",
-        "choices": [
-            "Sikkim",
-            "Goa",
-            "Telangana",
-            "Karnataka"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "Which state of India has highest Gross State Domestic Product (GSDP)?",
-        "answer": "Maharashtra",
-        "choices": [
-            "Maharashtra",
-            "Karnataka",
-            "Uttar Pradesh",
-            "Tamil Nadu"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "Which sector of Indian economy contributes the most to the Gross National Product (GNP)?",
-        "answer": "Tertiary Sector",
-        "choices": [
-            "Tertiary Sector",
-            "Secondary Sector",
-            "Primary Sector",
-            "Public Sector"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "Which organization publishes the global Sustainable Development Report (SDR)?",
-        "answer": "UN Sustainable Development Solutions Network",
-        "choices": [
-            "UN Sustainable Development Solutions Network",
-            "NITI Aayog",
-            "United Nations Development Programme (UNDP)",
-            "World Bank"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "As per the Sustainable Development Report (SDR) 2025, what is India's rank in the SDG Index out of 167 countries?",
-        "answer": "99th",
-        "choices": [
-            "99th",
-            "109th ",
-            "112th",
-            "121st"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "Which Indian organization is responsible for monitoring the progress of SDGs at the sub-national level (States and UTs)?",
-        "answer": "NITI Aayog",
-        "choices": [
-            "NITI Aayog",
-            "Ministry of Finance",
-            "Reserve Bank of India (RBI)",
-            "Ministry of Statistics and Programme Implementation (MoSPI)"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "The SDG Index measures a country's progress towards which set of goals?",
-        "answer": "17 goals",
-        "choices": [
-            "17 goals",
-            "10 goals",
-            "15 goals",
-            "20 goals"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "The Human Capital Index (HCI) is published by which of the following international organizations?",
-        "answer": "World Bank",
-        "choices": [
-            "World Bank",
-            "United Nations Development Programme (UNDP)",
-            "World Health Organisation (WHO)",
-            "International Monetary Fund (IMF)"
-        ]
-    },
-    {
-        "sheet": "Economy",
-        "question": "In India, the agricultural crop year period is",
-        "answer": "1st July to 30th June",
-        "choices": [
-            "1st July to 30th June",
-            "1st June to 31st May",
-            "1st April to 31st March",
-            "1st January to 31st December"
-        ]
-    },
-    {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "What is the size of Bihar's economy at current price in 2023-24",
         "answer": "8.54 lakh crore",
         "choices": [
@@ -15950,7 +16742,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Nominal Growth rate in Bihar's GSDP at current price for year 2023-24",
         "answer": "14.5 percent",
         "choices": [
@@ -15961,7 +16753,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Real Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
         "answer": "9.2 percent",
         "choices": [
@@ -15972,7 +16764,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Which economic sector is the hightest contributor in Bihar state GVA for year 2023-24",
         "answer": "Tertiary",
         "choices": [
@@ -15983,7 +16775,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
         "answer": "58.6 percent",
         "choices": [
@@ -15994,7 +16786,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Industry contributing the most in Bihar state GVA for year 2023-24",
         "answer": "Non-Metallic Mineral Production",
         "choices": [
@@ -16005,7 +16797,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "How much Bihar contributes in total Makhana production of India",
         "answer": "85 percent",
         "choices": [
@@ -16016,7 +16808,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "What is rank of bihar among states in economic growth in India?",
         "answer": "Second",
         "choices": [
@@ -16027,7 +16819,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25, what is the contribution of Primary, Secondary and Tertiary Sectors in GSVA respectively?",
         "answer": "20%, 21%, 60%",
         "choices": [
@@ -16038,7 +16830,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25, which of the following is the largest contributor in the GSVA for primary sector?",
         "answer": "Crops",
         "choices": [
@@ -16049,7 +16841,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25, which of the following has the highest growth in the GSVA for primary sector?",
         "answer": "Fishery",
         "choices": [
@@ -16060,7 +16852,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25, which of the following is the largest contributor in the GSVA for secondary sector?",
         "answer": "Construction",
         "choices": [
@@ -16071,7 +16863,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Which district of Bihar has the lowest per capita income?",
         "answer": "Sheohar",
         "choices": [
@@ -16082,7 +16874,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Which district of Bihar has the highest per capita income?",
         "answer": "Patna",
         "choices": [
@@ -16093,7 +16885,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "How much is the Crop Intensity of Bihar?",
         "answer": "144 percent",
         "choices": [
@@ -16104,7 +16896,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Which of the following cereal has the highest productivity in Bihar?",
         "answer": "Maize",
         "choices": [
@@ -16115,7 +16907,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "As per Agriculture Census 2015–16, what percentage of Bihar’s total operational holding area is under marginal farmers (less than 1 ha)?",
         "answer": "57.73 percent",
         "choices": [
@@ -16126,7 +16918,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "The combined share of operational holding area under marginal and small farmers in Bihar is approximately",
         "answer": "76 percent",
         "choices": [
@@ -16137,7 +16929,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "High percentage of marginal and small farmers in Bihar indicates",
         "answer": "Land Fragmentation",
         "choices": [
@@ -16148,7 +16940,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25 what is the per capita income of Bihar at constant price 2023-24?",
         "answer": "36,333 rupees",
         "choices": [
@@ -16159,7 +16951,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25 what is the per capita income of Bihar at current price 2023-24?",
         "answer": "66,828 rupees",
         "choices": [
@@ -16170,7 +16962,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Under the Satat Jeevikaoparjan Yojana a livelihood investment fund upto what amount is allocated to a household?",
         "answer": "2 lakh",
         "choices": [
@@ -16181,7 +16973,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "The Jeevika project in Bihar was launched in which year?",
         "answer": 2006,
         "choices": [
@@ -16192,7 +16984,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "What is the Gross Fixed Capital formation at current prices for Bihar in 2023-24?",
         "answer": "4.6 percent",
         "choices": [
@@ -16203,7 +16995,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "What is the unemployment rate in Bihar in 2023-24?",
         "answer": "3 percent",
         "choices": [
@@ -16214,7 +17006,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "According to Bihar Economic Survey 2024-25, what is the per capita energy consumption in Bihar in 2023-24?",
         "answer": "363 kWh",
         "choices": [
@@ -16225,7 +17017,7 @@
         ]
     },
     {
-        "sheet": "BiharEcoSrvy",
+        "sheet": "BiharEconomy",
         "question": "Which of the following banks has the largest number of branches in Bihar?",
         "answer": "Public Sector Banks",
         "choices": [
@@ -16236,7 +17028,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "Department with highest Bihar's budget allocation for year 2025-26",
         "answer": "Education",
         "choices": [
@@ -16247,7 +17039,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "What is the size of budget as mentioned in Bihar's Budget for year 2025-26",
         "answer": "3.17 lakh crore",
         "choices": [
@@ -16258,7 +17050,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "Center of excellence for jaggery is proposed in which district of Bihar",
         "answer": "Samastipur",
         "choices": [
@@ -16269,7 +17061,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "Center of excellence for Paan is proposed in which district of Bihar",
         "answer": "Vaishali (Bindupur)",
         "choices": [
@@ -16280,7 +17072,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "Center of excellence for Nutritious Cereals is proposed in which district of Bihar",
         "answer": "Gaya (Tanukumpa)",
         "choices": [
@@ -16291,7 +17083,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "According to the Bihar Budget 2025-26, what is the projected Gross State Domestic Product (GSDP) at current prices?",
         "answer": "10.97 lakh crore",
         "choices": [
@@ -16302,7 +17094,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "Which among the following deficit is not presented by the state according to Bihar FRBM Act, 2022?",
         "answer": "Effective Revenue Deficit",
         "choices": [
@@ -16313,7 +17105,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "According to the Bihar Budget 2025-26, how much is the expected Fiscal Deficit?",
         "answer": "2.98% of GSDP",
         "choices": [
@@ -16324,7 +17116,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "According to the Bihar Budget 2025-26, how much is the expected state Revenue Surplus?",
         "answer": "0.8% of GSDP",
         "choices": [
@@ -16335,7 +17127,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "According to the Bihar Budget 2025-26, how much was the interest payment in 2023-24?",
         "answer": "9.11% of total revenue receipt",
         "choices": [
@@ -16346,7 +17138,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "How much is the initial seed fund proposed for the Bihar Green Development Fund in Bihar Budget 2025-26?",
         "answer": "25 crore",
         "choices": [
@@ -16357,7 +17149,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "What is the share of Green budget in the General Budget of Bihar 2025-26?",
         "answer": "4.92 percent",
         "choices": [
@@ -16368,7 +17160,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "What is the theme for the Bihar Green Development Fund?",
         "answer": "Hari Bihar, Samriddh Bihar",
         "choices": [
@@ -16379,7 +17171,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "What is the primary objective of the Tarkari Sudha outlets launched by the Bihar government?",
         "answer": "To provide fresh vegetables directly from farmers at fair prices",
         "choices": [
@@ -16390,7 +17182,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "Which of the following is the full form of VEGFED?",
         "answer": "Bihar State Vegetables and Fruits Development Corporation Ltd.",
         "choices": [
@@ -16401,7 +17193,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "VEGFED functions primarily under which department of the Government of Bihar?",
         "answer": "Department of Horticulture",
         "choices": [
@@ -16412,7 +17204,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "The Tarkari Sudha outlets launched in Bihar are managed and operated by:",
         "answer": "VEGFED",
         "choices": [
@@ -16423,7 +17215,7 @@
         ]
     },
     {
-        "sheet": "BiharBudget",
+        "sheet": "BiharEconomy",
         "question": "Which model has been used for setting up Tarkari Sudha outlets under VEGFED?",
         "answer": "Sudha Dairy retail booth model",
         "choices": [

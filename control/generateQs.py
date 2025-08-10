@@ -64,6 +64,10 @@ def process_sheet(sheet_name):
 
 # Process sheets based on user choice
 if choice.lower() == "all":
+    # Delete all existing .json files in output_dir
+    for filename in os.listdir(output_dir):
+        if filename.endswith(".json"):
+            os.remove(os.path.join(output_dir, filename))
     for sheet in sheet_names:
         print(f"Processing sheet: {sheet}")
         process_sheet(sheet)
