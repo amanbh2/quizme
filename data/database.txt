@@ -6,9 +6,9 @@ HistoryMedieval: 113
 Geography: 44
 Polity: 51
 Science: 124
-GeneralKnowledge: 1
+GeneralKnowledge: 3
 UnionEconomy: 47
 Census: 38
-BiharSpecific: 216
+BiharSpecific: 274
 BiharEconomy: 45
-Total Questions: 1566
+Total Questions: 1626

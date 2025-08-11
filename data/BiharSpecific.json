@@ -2374,5 +2374,643 @@
             "Buxar",
             "Madhubani"
         ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Where is Baraila Salim Ali-Zubba Sahni Bird Sanctuary located?",
+        "answer": "Vaishali",
+        "choices": [
+            "Vaishali",
+            "Bhagalpur",
+            "Begusarai",
+            "Rohtas"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "When is Bihar Prithvi Divas celebrated?",
+        "answer": "9th August",
+        "choices": [
+            "9th August",
+            "22nd April",
+            "5th June",
+            "2nd October"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The Someshwar Range is a part of which major Himalayan foothills?",
+        "answer": "Shiwaliks",
+        "choices": [
+            "Shiwaliks",
+            "Karakoram Range",
+            "Pir Panjal Range",
+            "Lesser Himalayas"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which district of Bihar is home to the Someshwar Range?",
+        "answer": "West Champaran",
+        "choices": [
+            "West Champaran",
+            "East Champaran",
+            "Sitamarhi",
+            "Sheohar"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "What is the name of the highest peak in the Someshwar Range, which is also the highest point in Bihar?",
+        "answer": "Someshwar Fort",
+        "choices": [
+            "Someshwar Fort",
+            "Rajgir Peak",
+            "Kaimur Fort",
+            "Girnar Peak"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The Someshwar Range forms a natural border between Bihar and which neighboring country?",
+        "answer": "Nepal",
+        "choices": [
+            "Nepal",
+            "Bangladesh",
+            "Bhutan",
+            "China"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which river flows through the Valmiki National Park and forms the western boundary of the Valmiki Wildlife Sanctuary, located near the Sumeshwar Range?",
+        "answer": "Gandak",
+        "choices": [
+            "Gandak",
+            "Kosi",
+            "Ganga",
+            "Son"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "What type of rocks primarily make up the Sumeshwar Range?",
+        "answer": "Sedimentory Rocks",
+        "choices": [
+            "Sedimentory Rocks",
+            "Igneous Rock",
+            "Metamorphic Rock",
+            "Granite Rocks"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Apart from the Sumeshwar Range, which of the following is another major hill range in Bihar?",
+        "answer": "Vindhya",
+        "choices": [
+            "Vindhya",
+            "Aravalli",
+            "Satupura Range",
+            "Eastern Ghats"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The Valmiki National Park is contiguous with which national park in Nepal?",
+        "answer": "Chitwan National Park",
+        "choices": [
+            "Chitwan National Park",
+            "Bardiya National Park",
+            "Sagarmatha National Park",
+            "Langtang National Park"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The Kanti Thermal Power Station is located near which city in Bihar?",
+        "answer": "Muzaffarpur",
+        "choices": [
+            "Muzaffarpur",
+            "Bhagalpur",
+            "Gaya",
+            "Patna"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which power plant, located in the Bhagalpur district of Bihar, is a major source of power for the eastern region of India?",
+        "answer": "Kahalgaon Super Thermal Power Station",
+        "choices": [
+            "Kahalgaon Super Thermal Power Station",
+            "Nabinagar Super Thermal Power Project",
+            "Muzaffarpur Thermal Power Station",
+            "Barauni Thermal Power Station"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "In which district of Bihar is the Nabinagar Super Thermal Power Project located?",
+        "answer": "Aurangabad",
+        "choices": [
+            "Aurangabad",
+            "Bhagalpur",
+            "Muzaffarpur",
+            "Begusarai"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The Barauni Thermal Power Station, one of the oldest power plants in Bihar, is located in which district?",
+        "answer": "Begusarai",
+        "choices": [
+            "Begusarai",
+            "Gaya",
+            "Supaul",
+            "Muzaffarpur"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Where is NTPC Barh Super Thermal Power Plant located in Bihar?",
+        "answer": "Patna",
+        "choices": [
+            "Patna",
+            "Begusarai",
+            "Bhagalpur",
+            "Aurangabad"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which city in Bihar is famously known as the 'Silk City' for its textile manufacturing?",
+        "answer": "Bhagalpur",
+        "choices": [
+            "Bhagalpur",
+            "Muzaffarpur",
+            "Gaya",
+            "Patna"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The famous Tussar silk is a specialty of which city in Bihar?",
+        "answer": "Bhagalpur",
+        "choices": [
+            "Bhagalpur",
+            "Nalanda",
+            "Vaishali",
+            "Darbhanga"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The silk industry in Bihar primarily focuses on which aspect of textile production?",
+        "answer": "Weaving and Manufacturing",
+        "choices": [
+            "Weaving and Manufacturing",
+            "Spinning & Reeling",
+            "Finishing & Dyeing",
+            "Sericulture (rearing Silkwroms)"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Where were the two main manufacturing plants of Bharat Wagon & Engineering Company Limited (BWEL) located in Bihar?",
+        "answer": "Muzaffarpur & Mokama",
+        "choices": [
+            "Muzaffarpur & Mokama",
+            "Bhagalpur & Nalanda",
+            "Darbhanga & Arrah",
+            "Patna & Gaya"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The Electric Locomotive Factory in Madhepura is a joint venture between Indian Railways and which company?",
+        "answer": "Alstom SA",
+        "choices": [
+            "Alstom SA",
+            "Bombardier",
+            "General Electric",
+            "Siemens"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Dalmianagar, a major industrial hub in its prime, is located in which district of Bihar?",
+        "answer": "Rohtas",
+        "choices": [
+            "Rohtas",
+            "Kaimur",
+            "Patna",
+            "Gaya"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Dalmianagar in Bihar is known for",
+        "answer": "Cement",
+        "choices": [
+            "Cement",
+            "Silk",
+            "Leather",
+            "Jute"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "What river is Dalmiyanagar situated on the banks of?",
+        "answer": "Son",
+        "choices": [
+            "Son",
+            "Ganga",
+            "Falgu",
+            "Punpun"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Mica, a mineral used in electrical insulation and electronics, is primarily found in which two districts of Bihar?",
+        "answer": "Nawada & Jamui",
+        "choices": [
+            "Nawada & Jamui",
+            "Patna & Bhojpur",
+            "Rohtas & Kaimur",
+            "Jamui & Banka"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Limestone, a crucial raw material for the cement industry, is abundant in which part of Bihar?",
+        "answer": "Southern Plateau region",
+        "choices": [
+            "Southern Plateau region",
+            "Ganga Basin",
+            "Eastern foothills of Himalayas",
+            "Northern Plains"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which district of Bihar is a known source of Quartzite, a mineral used in the production of glass and ceramics?",
+        "answer": "Munger",
+        "choices": [
+            "Munger",
+            "Kishanganj",
+            "Sheohar",
+            "Arwal"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which mineral found in Bihar is used in the manufacture of ceramics and is often referred to as 'kaolin'?",
+        "answer": "China Clay",
+        "choices": [
+            "China Clay",
+            "Dolomite",
+            "Steatite",
+            "Bauxite"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The Amjhore area in the Rohtas district is particularly famous for the mining of which mineral?",
+        "answer": "Pyrites",
+        "choices": [
+            "Pyrites",
+            "Mica",
+            "Bauxite",
+            "Gold"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Steatite, also known as soapstone, which is used for talcum powder and carvings, is found in which of the following regions of Bihar?",
+        "answer": "Gaya",
+        "choices": [
+            "Gaya",
+            "Supaul",
+            "Vaishali",
+            "Purnia"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Gold deposits have been discovered in which district of Bihar, leading to significant geological interest?",
+        "answer": "Jamui",
+        "choices": [
+            "Jamui",
+            "Rohtas",
+            "Lakhisarai",
+            "Saharsa"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which district in Bihar is home to the Barauni Refinery?",
+        "answer": "Begusarai",
+        "choices": [
+            "Begusarai",
+            "Munger",
+            "Patna",
+            "Gaya"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The Barauni Refinery was established as a result of a collaboration between India and which other country?",
+        "answer": "Soviet Union",
+        "choices": [
+            "Soviet Union",
+            "United Kingdom",
+            "France",
+            "United States"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which type of soil is predominantly found in the northern part of Bihar and is known for its high fertility?",
+        "answer": "Alluvial Soil",
+        "choices": [
+            "Alluvial Soil",
+            "Piedmont Swamp Soil",
+            "Red & Yellow Soil",
+            "Karail-Kewal Soil"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The older alluvial soil found in Bihar's plains is locally known by which of the following names?",
+        "answer": "Bangur",
+        "choices": [
+            "Bangur",
+            "Balthar",
+            "Tal",
+            "Khadar"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The 'Tal' soil, found in the southern Gangetic plain of Bihar, is best suited for the cultivation of which crop?",
+        "answer": "Wheat & Pulses",
+        "choices": [
+            "Wheat & Pulses",
+            "Rice (Dhan)",
+            "Sugarcane",
+            "Tea"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Karail-Kewal soil is a type of soil that is dark in color and has a heavy texture. Where is this soil primarily found?",
+        "answer": "Southern part of Gangetic plain",
+        "choices": [
+            "Southern part of Gangetic plain",
+            "Transitional zone between the plains and plateau",
+            "Mountainous region of state",
+            "Northernmost districts of Bihar"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The Red and Yellow soils in Bihar are found in the southern plateau region. What is the primary reason for their color?",
+        "answer": "Oxidation of Iron Compounds",
+        "choices": [
+            "Oxidation of Iron Compounds",
+            "High content of phosphorus and potash",
+            "Presence of humus and other organic matter",
+            "Low moisture retention and sandy texture"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which of the following soil types is formed by wind-blown deposits, is light in texture, and is found along the banks of the Ganges River?",
+        "answer": "Bal Sundari Soil",
+        "choices": [
+            "Bal Sundari Soil",
+            "Bhat Soil",
+            "Doab Soil",
+            "Teri Soil"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The soils in the floodplains of the Kosi River are often sandy and have a high pH. What is this soil type called?",
+        "answer": "Dhira Soil",
+        "choices": [
+            "Dhira Soil",
+            "Talsand Soil",
+            "Tari Soil",
+            "Bhangar Soil"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Soil in Bihar is often deficient in which two essential nutrients for plant growth?",
+        "answer": "Nitrogen and Phosphorus",
+        "choices": [
+            "Nitrogen and Phosphorus",
+            "Potash and Calcium",
+            "Sulphur and Manganese",
+            "Iron and Zinc"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which soil type in Bihar is characterized by its reddish-yellow color, is found in the transitional zone between the plains and the plateau, and is often less fertile?",
+        "answer": "Balthar Soil",
+        "choices": [
+            "Balthar Soil",
+            "Red and Yellow Soil",
+            "Bangur Soil",
+            "Tal Soil"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which state in India is the largest producer of litchi?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Jharkhand",
+            "Uttar Pradesh",
+            "West Bengal"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which city is famously known as the “Litchi Capital of India”?",
+        "answer": "Muzaffarpur",
+        "choices": [
+            "Muzaffarpur",
+            "Bhagalpur",
+            "Darbhanga",
+            "Patna"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "What is the name of the special variety of litchi from Muzaffarpur that has a GI tag?",
+        "answer": "Shahi Litchi",
+        "choices": [
+            "Shahi Litchi",
+            "Purbi Litchi",
+            "China Litchi",
+            "Deshi Litchi"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which of the following is the largest freshwater oxbow lake in Asia and is located in Bihar?",
+        "answer": "Kabar Taal (Kanwar Lake)",
+        "choices": [
+            "Kabar Taal (Kanwar Lake)",
+            "Ghogha Lake",
+            "Baraila Lake",
+            "Kusheshwar Asthan Lake"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which lake in Bihar is a declared bird sanctuary and is famous for attracting a large number of migratory birds during the winter?",
+        "answer": "Kusheshwar Asthan Bird Sanctuary",
+        "choices": [
+            "Kusheshwar Asthan Bird Sanctuary",
+            "Baraila Lake",
+            "Ghogha Lake",
+            "Kanwar Lake"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The Gogra-Barhila wetland, a recognized Ramsar site, is situated in which district of Bihar?",
+        "answer": "Saran",
+        "choices": [
+            "Saran",
+            "Begusarai",
+            "Darbhanga",
+            "Vaishali"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which of the following is a prominent man-made reservoir in Bihar, created for irrigation and power generation?",
+        "answer": "Indrapuri Barrage",
+        "choices": [
+            "Indrapuri Barrage",
+            "Ghogha Lake",
+            "Kanwar lake",
+            "Jal Mandir Lake"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Kusheshwar Asthan, a famous bird sanctuary, is located in which district of Bihar?",
+        "answer": "Darbhanga",
+        "choices": [
+            "Darbhanga",
+            "Araria",
+            "Madhepura",
+            "Katihar"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The 'Ghogha Lake' is an important wetland for migratory birds and is located in which district?",
+        "answer": "Bhagalpur",
+        "choices": [
+            "Bhagalpur",
+            "Nalanda",
+            "Jamui",
+            "Araria"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "The monsoon season in Bihar is primarily influenced by which branch of the Indian Monsoon?",
+        "answer": "Bay of Bengal branch",
+        "choices": [
+            "Bay of Bengal branch",
+            "South China Sea branch",
+            "Arabian Sea branch",
+            "Andaman Sea branch"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which district in Bihar has the highest forest cover by area?",
+        "answer": "Kaimur (Bhabua)",
+        "choices": [
+            "Kaimur (Bhabua)",
+            "West Champaran",
+            "Jamui",
+            "Rohtas"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which wildlife sanctuary is currently being proposed to become Bihar's second tiger reserve?",
+        "answer": "Kaimur Wildlife Sanctuary",
+        "choices": [
+            "Kaimur Wildlife Sanctuary",
+            "Bhimbandh Wildlife Sanctuary",
+            "Udaipur Wildlife Sanctuary",
+            "Gautam Buddha Wildlife Sanctuary"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which wildlife sanctuary is the largest in Bihar by area?",
+        "answer": "Kaimur Wildlife Sanctuary",
+        "choices": [
+            "Kaimur Wildlife Sanctuary",
+            "Valmiki National Park",
+            "Bhimbandh Wildlife Sanctuary",
+            "Nagi Dam Bird Sanctuary"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which major river, known as the 'Sorrow of Bihar,' is infamous for its frequent changes in course and devastating floods?",
+        "answer": "Kosi",
+        "choices": [
+            "Kosi",
+            "Son",
+            "Gandak",
+            "Mahananda"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "At which of the following locations does the Gandak River join the Ganga?",
+        "answer": "Sonpur",
+        "choices": [
+            "Sonpur",
+            "Badalaghat",
+            "Chhapra",
+            "Khagaria"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which river originates from the Chota Nagpur Plateau and flows into South Bihar?",
+        "answer": "Falgu",
+        "choices": [
+            "Falgu",
+            "Son",
+            "Mahananda",
+            "Bagmati"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Where is Bihar's first inland container depot (ICD) located?",
+        "answer": "Bihta (Patna)",
+        "choices": [
+            "Bihta (Patna)",
+            "Purnea",
+            "Gaya",
+            "Banka"
+        ]
     }
 ]

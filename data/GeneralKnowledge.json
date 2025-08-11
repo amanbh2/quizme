@@ -9,5 +9,27 @@
             "14th Novemeber",
             "16th September"
         ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "When is World Earth Day celebrated",
+        "answer": "22nd April",
+        "choices": [
+            "22nd April",
+            "5th June",
+            "9th August",
+            "2nd October"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "When is World Environment Day celebrated?",
+        "answer": "5th June",
+        "choices": [
+            "5th June",
+            "22nd April",
+            "9th August",
+            "2nd October"
+        ]
     }
 ]
