@@ -672,6 +672,28 @@
     },
     {
         "sheet": "Recent2025",
+        "question": "What was the motto of the 38th National Games?",
+        "answer": "Sankalp Se Shikhar Tak",
+        "choices": [
+            "Sankalp Se Shikhar Tak",
+            "Unity in Sports",
+            "Strive and Achieve",
+            "Play for Glory"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The mascot of the 38th National Games, Mauli, is inspired by which bird?",
+        "answer": "Himalayan Monal",
+        "choices": [
+            "Himalayan Monal",
+            "Peacock",
+            "Parrot",
+            "Eagle"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
         "question": "What was position of Bihar in 38th National Games India 2025",
         "answer": "29th",
         "choices": [
@@ -2769,6 +2791,710 @@
             "50 percent",
             "25 percent",
             "45 percent"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which of the following books by George Orwell is a satirical allegory of the Russian Revolution and the rise of Stalinism?",
+        "answer": "Animal Farm",
+        "choices": [
+            "Animal Farm",
+            "Nineteen Eighty-Four",
+            "Homage to Catalonia",
+            "Down and Out in Paris and London"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "George Orwell was the pen name of which British writer?",
+        "answer": "Eric Arthur Blair",
+        "choices": [
+            "Eric Arthur Blair",
+            "Thomas Hardy",
+            "Rudyard Kipling",
+            "W H Auden"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the birthplace of George Orwell?",
+        "answer": "Motihari, Bihar",
+        "choices": [
+            "Motihari, Bihar",
+            "London, UK",
+            "Patna, Bihar",
+            "Kolkata, West Bengal"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Padma Shree awardee Baua Devi is associated with which art form?",
+        "answer": "Mithila Painting",
+        "choices": [
+            "Mithila Painting",
+            "Sikki Craft",
+            "Patna Kalam",
+            "Manjusha Art"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Name the author of the book Street Vendor to Bureaucrat recently released by Governor of Bihar?",
+        "answer": "Manoj Kumar Rai",
+        "choices": [
+            "Manoj Kumar Rai",
+            "Arif Mohammed Khan",
+            "Amitava Kumar",
+            "Siddhartha Chaudhury"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which of the following is the most recent product from Bihar to have received a Geographical Indication (GI) tag?",
+        "answer": "Gaya Pattharkatti Stone Craft",
+        "choices": [
+            "Gaya Pattharkatti Stone Craft",
+            "Madhubani Paintings",
+            "Katarni Rice",
+            "Shahi Litchi"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The Government of Bihar launched the Bihari Yoddha Samman scheme to encourage citizens to report",
+        "answer": "Illegal Sand Mining",
+        "choices": [
+            "Illegal Sand Mining",
+            "Tax Evasion",
+            "Child Labour",
+            "Human Trafficking"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who launched the Bihari Yoddha Samman scheme in Bihar?",
+        "answer": "Mines & Geology Department, Bihar",
+        "choices": [
+            "Mines & Geology Department, Bihar",
+            "Bihar Police Department",
+            "Panchayati Raj Department",
+            "Forest & Environment Department"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Along which river and in which district is the planned incubation centre for gharials and turtles being established?",
+        "answer": "Gandak River, Bettiah (West Champaran)",
+        "choices": [
+            "Gandak River, Bettiah (West Champaran)",
+            "Ganga River, Bhagalpur",
+            "Kosi River, Darbhanga",
+            "Sone River, Rohtas"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What makes the Gandak River significant for gharial conservation in India?",
+        "answer": "It is the second most successful gharial breeding site after Chambal",
+        "choices": [
+            "It is the second most successful gharial breeding site after Chambal",
+            "It has the largest dolphin population in India",
+            "It's the only river with gharials in India",
+            "It has no history of illegal sand mining"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which organisation from outside India is collaborating with the Bihar government on Incubation Centre-cum-Nature Interpretation Centre' dedicated to gharials and freshwater turtles?",
+        "answer": "Los Angeles Zoo",
+        "choices": [
+            "Los Angeles Zoo",
+            "World Wildlife Fund (WWF)",
+            "Smithsonian Institution",
+            "London Zoo"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "In July 2025, a statue of Maharishi Valmiki was unveiled in which European country as a symbol of Indo-cultural ties?",
+        "answer": "Italy",
+        "choices": [
+            "Italy",
+            "France",
+            "Germany",
+            "United Kingdom"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Maharishi Valmiki is regarded as",
+        "answer": "The Adi Kavi (first poet) of Sanskrit literature",
+        "choices": [
+            "The Adi Kavi (first poet) of Sanskrit literature",
+            "The first philosopher of India",
+            "The composer of Mahabharata",
+            "The first astronomer of India"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Bihar won Gold at the ET Government Digitech Awards 2025 for which of the following initiatives?",
+        "answer": "Bihar Krishi App and Smart Prepaid Metering",
+        "choices": [
+            "Bihar Krishi App and Smart Prepaid Metering",
+            "Bihar Krishi App and e-Challan Portal",
+            "Smart City App and Digital Bihar Portal",
+            "e-Mandi App and Solar Power Initiative"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What was the official theme of India’s 79th Independence Day celebrations?",
+        "answer": "Naya Bharat",
+        "choices": [
+            "Naya Bharat",
+            "Vikstit Bharat",
+            "Aatmanirbhar Bharat",
+            "Yuva Bharat"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The Gazetteer-cum-Atlas of Water Bodies of Bihar was launched in which year?",
+        "answer": 2025,
+        "choices": [
+            2025,
+            2024,
+            2023,
+            2022
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The preparation of the Water Atlas supports which major Bihar government mission?",
+        "answer": "Jal-Jeevan-Hariyali Abhiyan",
+        "choices": [
+            "Jal-Jeevan-Hariyali Abhiyan",
+            "Har Ghar Jal Mission",
+            "Ganga Action Plan",
+            "Mission Amrit Sarovar"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The 29th Conference of the Parties (COP29) to the UNFCCC was held in which country?",
+        "answer": "Azerbaijan",
+        "choices": [
+            "Azerbaijan",
+            "India",
+            "Brazil",
+            "UAE"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What was the major finance commitment adopted at COP29, also called the “Baku Finance Goal”?",
+        "answer": "USD 300 billion per year by 2035",
+        "choices": [
+            "USD 300 billion per year by 2035",
+            "USD 100 billion per year till 2030",
+            "USD 500 billion per year by 2030",
+            "USD 1 trillion per year by 2035"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The “Baku to Belém Roadmap” announced at COP29 aims to scale up climate finance to what level by 2035?",
+        "answer": "USD 1.3 trillion per year",
+        "choices": [
+            "USD 1.3 trillion per year",
+            "USD 500 billion per year",
+            "USD 700 billion per year",
+            "USD 2 trillion per year"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The 29th UN Climate Change Conference (COP29) in 2024 was hosted in which city?",
+        "answer": "Baku, Azerbaijan",
+        "choices": [
+            "Baku, Azerbaijan",
+            "Balem, Brazil",
+            "Dubai, UAE",
+            "New Delhi, India"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What was the official theme of COP29 held in Baku, Azerbaijan, in 2024?",
+        "answer": "Investing in a Livable Planet for All",
+        "choices": [
+            "Investing in a Livable Planet for All",
+            "Strengthening Ambitions and Ensuring Action",
+            "Climate and Peace for Sustainable Growth",
+            "Nature, People, and Equity"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The world’s first wooden satellite developed by Japan in 2024 is called:",
+        "answer": "LignoSat",
+        "choices": [
+            "LignoSat",
+            "HikariSat",
+            "KiboSat",
+            "SakuraSat"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which country launched the wooden satellite LignoSat in November 2024?",
+        "answer": "Japan",
+        "choices": [
+            "Japan",
+            "India",
+            "USA",
+            "Russia"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The MATES scheme is a bilateral mobility arrangement between:",
+        "answer": "India & Australia",
+        "choices": [
+            "India & Australia",
+            "India & USA",
+            "India & Russia",
+            "India and UK"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the maximum duration Indian professionals can live and work in Australia under the MATES scheme?",
+        "answer": "2 years",
+        "choices": [
+            "2 years",
+            "3 years",
+            "4 years",
+            "5 years"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What was the rank of India in the Climate Change Performance Index (CCPI) 2025?",
+        "answer": "Tenth",
+        "choices": [
+            "Tenth",
+            "First",
+            "Seventh",
+            "Fourth"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which country topped the CCPI 2025 ranking?",
+        "answer": "Denmark",
+        "choices": [
+            "Denmark",
+            "Netherlands",
+            "United Kingdom",
+            "India"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who won the Miss Universe 2024 title?",
+        "answer": "Victoria Kjær Theilvig (Denmark)",
+        "choices": [
+            "Victoria Kjær Theilvig (Denmark)",
+            "Chidimma Adetshina (Nigeria)",
+            "Rhea Singha (India)",
+            "María Fernanda Beltrán (Mexico)"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The Miss Universe 2024 pageant was held in",
+        "answer": "Arena CDMX, Mexico City",
+        "choices": [
+            "Arena CDMX, Mexico City",
+            "Bangkok, Thailand",
+            "Impact Arena, Thailand",
+            "Las Vegas, USA"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "India’s representative in Miss Universe 2024 was",
+        "answer": "Rhea Singha",
+        "choices": [
+            "Rhea Singha",
+            "Sini Shetty",
+            "Harnaaz Sandhu",
+            "Adline Castelino"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which country will host the upcoming Miss Universe 2025?",
+        "answer": "Thailand",
+        "choices": [
+            "Thailand",
+            "Mexico",
+            "USA",
+            "Philippines"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which university was ranked #1 globally in the QS World University Rankings 2025?",
+        "answer": "Massachusetts Institute of Technology (MIT)",
+        "choices": [
+            "Massachusetts Institute of Technology (MIT)",
+            "Harvard University",
+            "University of Cambridge",
+            "University of Oxford"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which Indian university ranked highest in QS World University Ranking 2025?",
+        "answer": "IIT Bombay",
+        "choices": [
+            "IIT Bombay",
+            "IIT Delhi",
+            "IIT Madras",
+            "IISc Bangalore"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the commercial arm of ISRO responsible for marketing satellites and launch services?",
+        "answer": "NewSpace India Limited (NSIL)",
+        "choices": [
+            "NewSpace India Limited (NSIL)",
+            "Antrix Corporation",
+            "ISRO Enterprises",
+            "Indian Space Corporation"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What does NavIC stand for?",
+        "answer": "Navigation with Indian Constellation",
+        "choices": [
+            "Navigation with Indian Constellation",
+            "National India Vehicle for Communication",
+            "Navigation Indian Circular",
+            "National Aerospace and Vehicle Initiative for Communication"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The Gaganyaan mission is intended for",
+        "answer": "India’s first human spaceflight",
+        "choices": [
+            "India’s first human spaceflight",
+            "Venus exploration",
+            "Lunar exploration",
+            "Mars orbit"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which ISRO mission is planned to explore Venus?",
+        "answer": "Shukrayaan-1",
+        "choices": [
+            "Shukrayaan-1",
+            "Chandrayaan-3",
+            "Astrosat",
+            "Mangalyaan-2"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What was the theme of the 55th IFFI?",
+        "answer": "Young Filmmakers – The Future is Now",
+        "choices": [
+            "Young Filmmakers – The Future is Now",
+            "Global Stories, Local Voices",
+            "Cinema for Change",
+            "Films for Humanity"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which country was the country of focus at the 55th IFFI?",
+        "answer": "Australia",
+        "choices": [
+            "Australia",
+            "Japan",
+            "USA",
+            "France"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which film won the Golden Peacock Award (Best Film) at the 55th IFFI?",
+        "answer": "Toxic (Lithuania)",
+        "choices": [
+            "Toxic (Lithuania)",
+            "The Silent River (India)",
+            "The Last Dance (Australia)",
+            "Holy Cow (France)"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which new award was introduced at the 55th IFFI?",
+        "answer": "Best Debut Director of Indian Feature Film",
+        "choices": [
+            "Best Debut Director of Indian Feature Film",
+            "Best Actor in a Debut Film",
+            "Best Short Film Award",
+            "Lifetime Achievement Award"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who was honored as Personality of the Year at the 55th IFFI?",
+        "answer": "Vikrant Massey",
+        "choices": [
+            "Vikrant Massey",
+            "Ranbir Kapoor",
+            "Manoj Bajpayee",
+            "AR Rahman"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Where was the 2024 G20 Summit held?",
+        "answer": "Rio de Janeiro",
+        "choices": [
+            "Rio de Janeiro",
+            "Salvador",
+            "Sao paulo",
+            "Brasilia"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who was the host president of Brazil during the 2024 G20 Summit?",
+        "answer": "Luiz Inácio Lula da Silva",
+        "choices": [
+            "Luiz Inácio Lula da Silva",
+            "Jair Bolsonaro",
+            "Michel Temer",
+            "Fernando Henrique Cardoso"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What was the theme of the 2024 G20 Summit in Brazil?",
+        "answer": "Building a Just World and a Sustainable Planet",
+        "choices": [
+            "Building a Just World and a Sustainable Planet",
+            "Global Economic Recovery",
+            "Climate Action for All",
+            "Digital Transformation and Inclusion"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who was honored with the 34th Vyas Samman in 2024?",
+        "answer": "Suryabala",
+        "choices": [
+            "Suryabala",
+            "Pushpa Bharati",
+            "Ram Vilas Sharma",
+            "Kamal Kishore Goenka"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which of the following works earned Suryabala the 34th Vyas Samman?",
+        "answer": "Kaun Des Ko Vasi: Venu Ki Diary",
+        "choices": [
+            "Kaun Des Ko Vasi: Venu Ki Diary",
+            "Yaadein, Yaadein!...Aur Yaadein",
+            "Pagalkhana",
+            "Mahabali"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which country is scheduled to host the 47th ASEAN Summit in October 2025?",
+        "answer": "Malaysia",
+        "choices": [
+            "Malaysia",
+            "Thailand",
+            "Philippines",
+            "Myanmar"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What was the theme of the 46th ASEAN Summit held in Kuala Lumpur in May 2025?",
+        "answer": "Inclusivity and Sustainability",
+        "choices": [
+            "Inclusivity and Sustainability",
+            "Digital Transformation",
+            "Maritime Security",
+            "Economic Integration"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the theme of the 47th ASEAN Summit (2025) in Kuala Lumpur?",
+        "answer": "ASEAN: Catalyzing Innovation and Sustainability for a Resilient Future",
+        "choices": [
+            "ASEAN: Catalyzing Innovation and Sustainability for a Resilient Future",
+            "ASEAN: Driving Economic Integration and Connectivity",
+            "ASEAN: Strengthening Maritime Security and Cooperation",
+            "ASEAN: Promoting Cultural Heritage and Tourism"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which country was announced by the World Health Organization (WHO) as the first to have eliminated leprosy as a public health problem?",
+        "answer": "Jordan",
+        "choices": [
+            "Jordan",
+            "Brazil",
+            "India",
+            "Nigeria"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The biennial joint military (ARMY) exercise conducted between the armies of India and Oman is called",
+        "answer": "Al-Najah",
+        "choices": [
+            "Al-Najah",
+            "Naseem Al Bahr",
+            "Varun",
+            "Garuda"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The biennial joint military (NAVY) exercise conducted between the armies of India and Oman is called",
+        "answer": "Naseem Al Bahr",
+        "choices": [
+            "Naseem Al Bahr",
+            "Al-Najah",
+            "Varun",
+            "Garuda"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which Indian state has introduced the concept of 'co-districts'?",
+        "answer": "Assam",
+        "choices": [
+            "Assam",
+            "Bihar",
+            "West Bengal",
+            "Sikkim"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the official title of the head of a co-district in Assam?",
+        "answer": "Additional Deputy Commissioner",
+        "choices": [
+            "Additional Deputy Commissioner",
+            "Deputy Commissioner",
+            "Sub-Divisional Officer",
+            "District Magistrate"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the monthly stipend provided to interns under Prime Minister's Internship Scheme?",
+        "answer": "5000 rupees",
+        "choices": [
+            "5000 rupees",
+            "3000 rupees",
+            "15000 rupees",
+            "30000 rupees"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The internships under the Pradhan Mantri Internship Scheme are for a duration of how many months?",
+        "answer": "12 months",
+        "choices": [
+            "12 months",
+            "15 months",
+            "18 months",
+            "24 months"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Name the India’s fully indigenous, automated Air Defence Control and Reporting System?",
+        "answer": "Akashteer",
+        "choices": [
+            "Akashteer",
+            "Akash",
+            "Brahmos",
+            "Garuda"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Nirmala Devi, this year recepient of Padma Shri is related to",
+        "answer": "Sujni Embroidery",
+        "choices": [
+            "Sujni Embroidery",
+            "Madhubani Painting",
+            "Folk Songs of Bihar",
+            "Civil Service"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The “brain-eating amoeba” that causes Primary Amoebic Meningoencephalitis (PAM) is scientifically known as",
+        "answer": "Naegleria fowleri",
+        "choices": [
+            "Naegleria fowleri",
+            "Entamoeba histolytica",
+            "Giardia lamblia",
+            "Acanthamoeba castellanii"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which of the following is NOT true about Naegleria fowleri?",
+        "answer": "It usually spreads from person to person",
+        "choices": [
+            "It usually spreads from person to person",
+            "It thrives in warm freshwater bodies like lakes and ponds",
+            "It causes a disease called Primary Amoebic Meningoencephalitis",
+            "It can survive in chlorinated swimming pools"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "In the Bronco Test, the athlete runs repeated shuttles covering which standard set of distances?",
+        "answer": "20m, 40m, 60m",
+        "choices": [
+            "20m, 40m, 60m",
+            "20m, 40m, 80m",
+            "10m, 30m, 70m",
+            "40m, 60m, 100m"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The total distance covered in one complete Bronco Test circuit is:",
+        "answer": "1200 m",
+        "choices": [
+            "1200 m",
+            "1000 m",
+            "1500 m",
+            "500 m"
         ]
     },
     {
@@ -12045,6 +12771,787 @@
         ]
     },
     {
+        "sheet": "Polity",
+        "question": "Electoral College for the election of the President of India consits of",
+        "answer": "All elected members of both members of Parliament and elected members of the State Legislative Assemblies",
+        "choices": [
+            "All elected members of both members of Parliament and elected members of the State Legislative Assemblies",
+            "All the elected members of the Rajya Sabha",
+            "All the elected members of the Lok Sabha",
+            "All the members of the State Legislative Assemblies"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "If there is any dispute regarding the Presidential election, it can be referred to",
+        "answer": "Supreme Court of India",
+        "choices": [
+            "Supreme Court of India",
+            "Attorney General of India",
+            "Parliament",
+            "Special Tribunal"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The president of India can be removed from his post by",
+        "answer": "Parliament",
+        "choices": [
+            "Parliament",
+            "Chief Justice of India",
+            "The Prime Minister of India",
+            "Lok Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "If the position of President and Vice-President are vacant, who officiates as the President of India?",
+        "answer": "Chief Justice of India",
+        "choices": [
+            "Chief Justice of India",
+            "Prime Minister",
+            "Speaker of Lok Sabha",
+            "Chairman of Rajya Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Indian President is eligible for re-election for how many times?",
+        "answer": "Any number of times",
+        "choices": [
+            "Any number of times",
+            "Once",
+            "Twice",
+            "Thrice"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who is the Executive Head of State in India?",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Prime Minister",
+            "Leader of the Opposition",
+            "Chief Secretary, Government of India"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who of the following has been vested with the executive powers  of the central government under the constitution of India?",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Prime Minister",
+            "Central Cabinet",
+            "All of these"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "President of India exercises his powers",
+        "answer": "either directly or through officers subordinate to him",
+        "choices": [
+            "either directly or through officers subordinate to him",
+            "through ministers",
+            "through Prime Minister",
+            "through Cabinet"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The President",
+        "answer": "is a part of Parliament",
+        "choices": [
+            "is a part of Parliament",
+            "is not a part of parliament",
+            "is a part of parliament and sits in the parliament",
+            "can vote in parliament"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Constitution doesn't empower the President of India with the right of",
+        "answer": "Appointment of Chief Minister in states",
+        "choices": [
+            "Appointment of Chief Minister in states",
+            "Appointment of Prime Minister",
+            "Being the supreme commander of Defence Forces",
+            "Executing emergency in any part of the country"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The first President of Independent India - Rajendra Prasad belonged to which state",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Uttar Pradesh",
+            "Andhra Pradesh",
+            "Tamil Nadu"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who was among the following to receive first Bharat Ratna?",
+        "answer": "Sarvapalli Radhakrishnan",
+        "choices": [
+            "Sarvapalli Radhakrishnan",
+            "Jawaharlal Nehru",
+            "Rajendra Prasad",
+            "Lal Bahadur Shastri"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "A bill presented in Parliament becomes an Act after",
+        "answer": "the President has given his assent",
+        "choices": [
+            "the President has given his assent",
+            "It is passed by both the houses of Parliament",
+            "the Prime Minister has signed it",
+            "the Supreme Court has declared it to be within the competence of the Union-Parliament"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who among the following had been the first unopposed and unanimously elected President of India?",
+        "answer": "Neelam Sanjeeva Reddy",
+        "choices": [
+            "Neelam Sanjeeva Reddy",
+            "Savapalli Radhakrishnan",
+            "Rajendra Prasad",
+            "Zakir Hussain"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the minimum age to be eligible for contesting election of President in India?",
+        "answer": "35 years",
+        "choices": [
+            "35 years",
+            "25 years",
+            "32 years",
+            "21 years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the minimum age to be eligible for contesting election of Vice-President in India?",
+        "answer": "35 years",
+        "choices": [
+            "35 years",
+            "25 years",
+            "32 years",
+            "21 years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "To whom does the President of India address his resignation letter?",
+        "answer": "Vice-President",
+        "choices": [
+            "Vice-President",
+            "Chief Justice",
+            "Prime Minister",
+            "Speaker of Lok Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "To whom does the Vice-President of India address his resignation letter?",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Chief Justice",
+            "Prime Minister",
+            "Speaker of Rajya Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+        "answer": "Vice-President",
+        "choices": [
+            "Vice-President",
+            "President",
+            "Prime Minister",
+            "Chief Justice of India"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Electoral College for the 17th Vice Presidential Election of India for 2025 consists of how many members?",
+        "answer": "788 members",
+        "choices": [
+            "788 members",
+            "543 members",
+            "245 members",
+            "565 members"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The serial number of next Vice-President of India will be",
+        "answer": "17th",
+        "choices": [
+            "17th",
+            "16th",
+            "15th",
+            "18th"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Council of Ministers is responsible to the",
+        "answer": "Lok Sabha",
+        "choices": [
+            "Lok Sabha",
+            "President",
+            "Prime Minister",
+            "Rajya Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Council of Ministers shall hold office during the pleasure of the",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Prime Minister",
+            "Speaker of Lok Sabha",
+            "Chief Justice of India"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Prime Minister of India is responsible to the",
+        "answer": "Lok Sabha",
+        "choices": [
+            "Lok Sabha",
+            "President",
+            "Prime Minister",
+            "Rajya Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who administers the oaths of office and secrecy to Prime Minister?",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Chief Justice of India",
+            "Speaker of Lok Sabha",
+            "Vice-President"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who administers the oaths of office and secrecy to Vice-President?",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Chief Justice of India",
+            "Speaker of Rajya Sabha",
+            "Prime Minister"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who administers the oaths of office and secrecy to the President?",
+        "answer": "Chief Justice of India",
+        "choices": [
+            "Chief Justice of India",
+            "Vice-President",
+            "Speaker of Rajya Sabha",
+            "Prime Minister"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The word Matrimandal (Cabinet) is mentioned is which article?",
+        "answer": "Article 352",
+        "choices": [
+            "Article 352",
+            "Article 356",
+            "Article 75",
+            "Article 74"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who is the highest Civil Services Officers of the Central Government?",
+        "answer": "Cabinet Secretary",
+        "choices": [
+            "Cabinet Secretary",
+            "Attorney General of India",
+            "Home Secretary",
+            "Finance Secretary"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following Constitutional Amendment Act resitricted the size of the Council of Ministers to 15 percent of the total members of the Lok Sabha?",
+        "answer": "91st Amendment, 2003",
+        "choices": [
+            "91st Amendment, 2003",
+            "95th Amendment, 2009",
+            "93rd Amendment, 2005",
+            "90th Amendment, 2002"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who advises the Government of India on legal matters?",
+        "answer": "Attorney General",
+        "choices": [
+            "Attorney General",
+            "Comptroller & Auditor General",
+            "Chief Justice of the Supreme Court",
+            "Chairman, Law Commission"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which officer of the Government of India has the right to take part in the proceedings of Parliament of India even though he is not a member?",
+        "answer": "Attorney General",
+        "choices": [
+            "Attorney General",
+            "Comptroller & Auditor General",
+            "Vice-President",
+            "Election Commissioner"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who advises the State Government on legal matters?",
+        "answer": "Advocate-General",
+        "choices": [
+            "Advocate-General",
+            "Attorney General",
+            "Solicitor General",
+            "Chief Justice of the High Court"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Parliament's expenditure is controlled by the ",
+        "answer": "Comptroller & Auditor General",
+        "choices": [
+            "Comptroller & Auditor General",
+            "President",
+            "NITI Aayog",
+            "Finance Commission"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Lok Sabha can be dissolved before the completion of its term",
+        "answer": "by the president on the recommendation of the Prime Minister",
+        "choices": [
+            "by the president on the recommendation of the Prime Minister",
+            "at the discretion of the President",
+            "at the discretion of the Prime Minister",
+            "at the discretion of the speaker of Lok Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the minimum age laid down for a person to seek election to the Lok Sabha?",
+        "answer": "25 years",
+        "choices": [
+            "25 years",
+            "30 years",
+            "35 years",
+            "20 years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the minimum age laid down for a member of the Parliament?",
+        "answer": "25 years",
+        "choices": [
+            "25 years",
+            "30 years",
+            "35 years",
+            "20 years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the minimum age laid down for a member of the Rajya Sabha?",
+        "answer": "30 years",
+        "choices": [
+            "30 years",
+            "25 years",
+            "35 years",
+            "20 years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Generally how many sessions are there in the Lok Sabha?",
+        "answer": "Three",
+        "choices": [
+            "Three",
+            "Two",
+            "Four",
+            "Five"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "A candidate of Lok Sabha poll loses his security amount if he/she does not get",
+        "answer": "one-sixth of valid votes",
+        "choices": [
+            "one-sixth of valid votes",
+            "one-third of valid votes",
+            "one-fourth of valid votes",
+            "one-fifth of valid votes"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The state-wise allocation of seats in Lok Sabha is based on the 1971 Census. Up to which year does this remain intact?",
+        "answer": 2026,
+        "choices": [
+            2026,
+            2025,
+            2031,
+            2047
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Presently the number of seats each state in Lok Sabha is allotted on the basis of",
+        "answer": "Census of 1971",
+        "choices": [
+            "Census of 1971",
+            "Census of 1951",
+            "Census of 1961",
+            "Census of 1981"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Fifth Schedule deals with the governance and protection of which specific group of people?",
+        "answer": "Scheduled Tribes",
+        "choices": [
+            "Scheduled Tribes",
+            "Scheduled Castes",
+            "Religious Minorities",
+            "Linguistic Minorities"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "In which Article of the Constitution of India was the provision for reservation of scheduled castes in Lok Sabha made?",
+        "answer": "Article 330",
+        "choices": [
+            "Article 330",
+            "Article 331",
+            "Article 332",
+            "Article 333"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Session of Lok Sabha is called for at least",
+        "answer": "two times in a year",
+        "choices": [
+            "two times in a year",
+            "three times in a year",
+            "once in a year",
+            "four times in a year"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which State sends the largest number of members in Lok Sabha?",
+        "answer": "Uttar Pradesh",
+        "choices": [
+            "Uttar Pradesh",
+            "Maharashtra",
+            "Bihar",
+            "West Bengal"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "So long as the representation in Lok Sabha is concerned, which states rank second and third?",
+        "answer": "Maharashtra & West Bengal",
+        "choices": [
+            "Maharashtra & West Bengal",
+            "Bihar & Maharashtra",
+            "Madhya Pradesh & Tamil Nadu",
+            "Bihar & Tamil Nadu"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "First General Election of Lok Sabha was held in",
+        "answer": 1952,
+        "choices": [
+            1952,
+            1950,
+            1946,
+            1947
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who is the leader of the Lok Sabha?",
+        "answer": "Prime Minister",
+        "choices": [
+            "Prime Minister",
+            "President",
+            "Speaker",
+            "Whip"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "A seat of an MP can be declared vacant if he absents himself from the house for a continous period of",
+        "answer": "60 days",
+        "choices": [
+            "60 days",
+            "30 days",
+            "45 days",
+            "90 days"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Speaker of the Lok Sabha is elected by",
+        "answer": "all members of Lok Sabha",
+        "choices": [
+            "all members of Lok Sabha",
+            "all members of parliament",
+            "public directly",
+            "the members of party in majority"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Attorney General of India is appointed by the",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Law Minister",
+            "Speaker of the Lok Sabha",
+            "Prime Minister"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Rajya Sabha consits of",
+        "answer": "250 members of which 12 are nominated",
+        "choices": [
+            "250 members of which 12 are nominated",
+            "280 members of which 20 are nominated",
+            "275 members of which 18 are nominated",
+            "252 members of which 12 are nominated"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Maximum members in The Lok Sabha",
+        "answer": 550,
+        "choices": [
+            550,
+            530,
+            543,
+            545
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Representation of States in Council of States is based on",
+        "answer": "ratio of their Population",
+        "choices": [
+            "ratio of their Population",
+            "ratio of their revenue",
+            "ratio of their area",
+            "equal for all states"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Member of Rajya Sabha is elected for",
+        "answer": "6 years",
+        "choices": [
+            "6 years",
+            "5 years",
+            "4 years",
+            "life long"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Member of Lok Sabha is elected for",
+        "answer": "5 years",
+        "choices": [
+            "5 years",
+            "6 years",
+            "4 years",
+            "life long"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "According to our Constitution, the Rajya Sabha",
+        "answer": "is not subject to dissolution",
+        "choices": [
+            "is not subject to dissolution",
+            "is dissolved once in two years",
+            "is dissolved once in five years",
+            "is dissolved once in six years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Right to dissolve the Rajya Sabha is vested in",
+        "answer": "None of these",
+        "choices": [
+            "None of these",
+            "President",
+            "Vice-President",
+            "Supreme Court"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The number of members nominated by the President in Rajya Sabha is",
+        "answer": 12,
+        "choices": [
+            12,
+            10,
+            11,
+            20
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "In which House is the presiding officer not a member of that House?",
+        "answer": "Rajya Sabha",
+        "choices": [
+            "Rajya Sabha",
+            "Lok Sabha",
+            "Vidhan Sabha",
+            "Vidhan Parishad"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Under which Article, the speaker can allow any member of the House to speak in his/her mother tongue?",
+        "answer": "Article 120",
+        "choices": [
+            "Article 120",
+            "Article 110",
+            "Article 122",
+            "Article 115"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What can be the maximum interval between the two consecutive sessions of Parliament?",
+        "answer": "six months",
+        "choices": [
+            "six months",
+            "12 months",
+            "3 months",
+            "9 months"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Zero Hour in political jargon refers to",
+        "answer": "Question-Answer Session",
+        "choices": [
+            "Question-Answer Session",
+            "Suspended Motion",
+            "Adjourned Time",
+            "Day when no business in parliament is done"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Joint session of both Houses of Parliament is concerned ",
+        "answer": "to discuss and pass sucha a bill where both Houses have different opinion",
+        "choices": [
+            "to discuss and pass sucha a bill where both Houses have different opinion",
+            "for the election of the President of India",
+            "for the election of the vice-president of India",
+            "to pass the bill relating to the amendment of Constitution"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Money Bill can be presented",
+        "answer": "Only in Lok Sabha",
+        "choices": [
+            "Only in Lok Sabha",
+            "Only in Rajya Sabha",
+            "In both the Houses",
+            "in joint meeting of both the Houses"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Of the following statements, which one is not correct?",
+        "answer": "Money bill is introduced in the Rajya Sabha",
+        "choices": [
+            "Money bill is introduced in the Rajya Sabha",
+            "The Rajya Sabha is powerless in money matters",
+            "The Rajya Sabha has to pass the Money Bill within 14 days after it has been passed by the Lok Sabha",
+            "The Rajya Sabha may pass or return the Money Bill with some recommendations to the Lok Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Vote on Account is meant for",
+        "answer": "Appropriating funds pending passing of budget",
+        "choices": [
+            "Appropriating funds pending passing of budget",
+            "vote on the report of CAG",
+            "to meet unforeseen expenditure",
+            "Budget"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the object of Cut Motion",
+        "answer": "to move a proposal to reduce expenditure in the Budget proposals",
+        "choices": [
+            "to move a proposal to reduce expenditure in the Budget proposals",
+            "to put check on the policies of the Government",
+            "to stop the functioning of ruling party",
+            "rejection of complete financial dealings of the Government"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Public Accounts Committee submits its report to",
+        "answer": "Speaker of the Lok Sabha",
+        "choices": [
+            "Speaker of the Lok Sabha",
+            "Comptroller & Auditor General",
+            "Prime Minister",
+            "President"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The split system in the Indian Administration relates to",
+        "answer": "Policy / Implementation",
+        "choices": [
+            "Policy / Implementation",
+            "Audit / Accounts",
+            "Union / States",
+            "All India Service / Central Service"
+        ]
+    },
+    {
         "sheet": "Science",
         "question": "Physics involves the study of",
         "answer": "Nature & Natural Phenomena",
@@ -13439,6 +14946,94 @@
             "22nd April",
             "9th August",
             "2nd October"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "When is World Sparrow Day celebrated?",
+        "answer": "20th March",
+        "choices": [
+            "20th March",
+            "20th May",
+            "20th April",
+            "20th June"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Who is considered the founder of ISRO?",
+        "answer": "Dr Vikram Sarabhai",
+        "choices": [
+            "Dr Vikram Sarabhai",
+            "Dr Homi Bhabha",
+            "DR APJ Abdul Kalam",
+            "Dr Satish Shawan"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Where is the headquarters of ISRO located?",
+        "answer": "Bengaluru",
+        "choices": [
+            "Bengaluru",
+            "Hyderabad",
+            "Mumbai",
+            "Chennai"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Name the first President of India",
+        "answer": "Rajendra Prasad",
+        "choices": [
+            "Rajendra Prasad",
+            "Savapalli Radhakrishnan",
+            "Zakir Hussain",
+            "Pratibha Patil"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Name the first female President of India",
+        "answer": "Pratibha Patil",
+        "choices": [
+            "Pratibha Patil",
+            "Draupadi Murmu",
+            "Indira Gandhi",
+            "Rekha Gupta"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Name the first President of India belonging to minority religon",
+        "answer": "Zakir Hussain",
+        "choices": [
+            "Zakir Hussain",
+            "Draupadi Murmu",
+            "Pratibha Patil",
+            "Sarvapalli Radhakrishnan"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Name the first President of India belonging to tribal community",
+        "answer": "Draupadi Murmu",
+        "choices": [
+            "Draupadi Murmu",
+            "V V Giri",
+            "Rajendra Prasad",
+            "Zakir Hussain"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Name the longest serving president of India till now?",
+        "answer": "Rajendra Prasad",
+        "choices": [
+            "Rajendra Prasad",
+            "Savapalli Radhakrishnan",
+            "Mohammad Hamid Ansari",
+            "Pratibha Patil"
         ]
     },
     {
@@ -17391,6 +18986,17 @@
         ]
     },
     {
+        "sheet": "BiharSpecific",
+        "question": "JEEViKA was initially supported by which international organization?",
+        "answer": "World Bank",
+        "choices": [
+            "World Bank",
+            "UNDP",
+            "UNICEF",
+            "IMF"
+        ]
+    },
+    {
         "sheet": "BiharEconomy",
         "question": "What is the size of Bihar's economy at current price in 2023-24",
         "answer": "8.54 lakh crore",
@@ -17634,7 +19240,7 @@
     },
     {
         "sheet": "BiharEconomy",
-        "question": "The Jeevika project in Bihar was launched in which year?",
+        "question": "The JEEViKA program of Bihar was launched in which year?",
         "answer": 2006,
         "choices": [
             2006,

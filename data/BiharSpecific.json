@@ -3012,5 +3012,16 @@
             "Gaya",
             "Banka"
         ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "JEEViKA was initially supported by which international organization?",
+        "answer": "World Bank",
+        "choices": [
+            "World Bank",
+            "UNDP",
+            "UNICEF",
+            "IMF"
+        ]
     }
 ]

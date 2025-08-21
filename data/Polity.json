@@ -559,5 +559,786 @@
             "Free and compulsory education",
             "Abolition of Untouchability"
         ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Electoral College for the election of the President of India consits of",
+        "answer": "All elected members of both members of Parliament and elected members of the State Legislative Assemblies",
+        "choices": [
+            "All elected members of both members of Parliament and elected members of the State Legislative Assemblies",
+            "All the elected members of the Rajya Sabha",
+            "All the elected members of the Lok Sabha",
+            "All the members of the State Legislative Assemblies"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "If there is any dispute regarding the Presidential election, it can be referred to",
+        "answer": "Supreme Court of India",
+        "choices": [
+            "Supreme Court of India",
+            "Attorney General of India",
+            "Parliament",
+            "Special Tribunal"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The president of India can be removed from his post by",
+        "answer": "Parliament",
+        "choices": [
+            "Parliament",
+            "Chief Justice of India",
+            "The Prime Minister of India",
+            "Lok Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "If the position of President and Vice-President are vacant, who officiates as the President of India?",
+        "answer": "Chief Justice of India",
+        "choices": [
+            "Chief Justice of India",
+            "Prime Minister",
+            "Speaker of Lok Sabha",
+            "Chairman of Rajya Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Indian President is eligible for re-election for how many times?",
+        "answer": "Any number of times",
+        "choices": [
+            "Any number of times",
+            "Once",
+            "Twice",
+            "Thrice"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who is the Executive Head of State in India?",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Prime Minister",
+            "Leader of the Opposition",
+            "Chief Secretary, Government of India"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who of the following has been vested with the executive powers  of the central government under the constitution of India?",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Prime Minister",
+            "Central Cabinet",
+            "All of these"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "President of India exercises his powers",
+        "answer": "either directly or through officers subordinate to him",
+        "choices": [
+            "either directly or through officers subordinate to him",
+            "through ministers",
+            "through Prime Minister",
+            "through Cabinet"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The President",
+        "answer": "is a part of Parliament",
+        "choices": [
+            "is a part of Parliament",
+            "is not a part of parliament",
+            "is a part of parliament and sits in the parliament",
+            "can vote in parliament"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Constitution doesn't empower the President of India with the right of",
+        "answer": "Appointment of Chief Minister in states",
+        "choices": [
+            "Appointment of Chief Minister in states",
+            "Appointment of Prime Minister",
+            "Being the supreme commander of Defence Forces",
+            "Executing emergency in any part of the country"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The first President of Independent India - Rajendra Prasad belonged to which state",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Uttar Pradesh",
+            "Andhra Pradesh",
+            "Tamil Nadu"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who was among the following to receive first Bharat Ratna?",
+        "answer": "Sarvapalli Radhakrishnan",
+        "choices": [
+            "Sarvapalli Radhakrishnan",
+            "Jawaharlal Nehru",
+            "Rajendra Prasad",
+            "Lal Bahadur Shastri"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "A bill presented in Parliament becomes an Act after",
+        "answer": "the President has given his assent",
+        "choices": [
+            "the President has given his assent",
+            "It is passed by both the houses of Parliament",
+            "the Prime Minister has signed it",
+            "the Supreme Court has declared it to be within the competence of the Union-Parliament"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who among the following had been the first unopposed and unanimously elected President of India?",
+        "answer": "Neelam Sanjeeva Reddy",
+        "choices": [
+            "Neelam Sanjeeva Reddy",
+            "Savapalli Radhakrishnan",
+            "Rajendra Prasad",
+            "Zakir Hussain"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the minimum age to be eligible for contesting election of President in India?",
+        "answer": "35 years",
+        "choices": [
+            "35 years",
+            "25 years",
+            "32 years",
+            "21 years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the minimum age to be eligible for contesting election of Vice-President in India?",
+        "answer": "35 years",
+        "choices": [
+            "35 years",
+            "25 years",
+            "32 years",
+            "21 years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "To whom does the President of India address his resignation letter?",
+        "answer": "Vice-President",
+        "choices": [
+            "Vice-President",
+            "Chief Justice",
+            "Prime Minister",
+            "Speaker of Lok Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "To whom does the Vice-President of India address his resignation letter?",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Chief Justice",
+            "Prime Minister",
+            "Speaker of Rajya Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+        "answer": "Vice-President",
+        "choices": [
+            "Vice-President",
+            "President",
+            "Prime Minister",
+            "Chief Justice of India"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Electoral College for the 17th Vice Presidential Election of India for 2025 consists of how many members?",
+        "answer": "788 members",
+        "choices": [
+            "788 members",
+            "543 members",
+            "245 members",
+            "565 members"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The serial number of next Vice-President of India will be",
+        "answer": "17th",
+        "choices": [
+            "17th",
+            "16th",
+            "15th",
+            "18th"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Council of Ministers is responsible to the",
+        "answer": "Lok Sabha",
+        "choices": [
+            "Lok Sabha",
+            "President",
+            "Prime Minister",
+            "Rajya Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Council of Ministers shall hold office during the pleasure of the",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Prime Minister",
+            "Speaker of Lok Sabha",
+            "Chief Justice of India"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Prime Minister of India is responsible to the",
+        "answer": "Lok Sabha",
+        "choices": [
+            "Lok Sabha",
+            "President",
+            "Prime Minister",
+            "Rajya Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who administers the oaths of office and secrecy to Prime Minister?",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Chief Justice of India",
+            "Speaker of Lok Sabha",
+            "Vice-President"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who administers the oaths of office and secrecy to Vice-President?",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Chief Justice of India",
+            "Speaker of Rajya Sabha",
+            "Prime Minister"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who administers the oaths of office and secrecy to the President?",
+        "answer": "Chief Justice of India",
+        "choices": [
+            "Chief Justice of India",
+            "Vice-President",
+            "Speaker of Rajya Sabha",
+            "Prime Minister"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The word Matrimandal (Cabinet) is mentioned is which article?",
+        "answer": "Article 352",
+        "choices": [
+            "Article 352",
+            "Article 356",
+            "Article 75",
+            "Article 74"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who is the highest Civil Services Officers of the Central Government?",
+        "answer": "Cabinet Secretary",
+        "choices": [
+            "Cabinet Secretary",
+            "Attorney General of India",
+            "Home Secretary",
+            "Finance Secretary"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following Constitutional Amendment Act resitricted the size of the Council of Ministers to 15 percent of the total members of the Lok Sabha?",
+        "answer": "91st Amendment, 2003",
+        "choices": [
+            "91st Amendment, 2003",
+            "95th Amendment, 2009",
+            "93rd Amendment, 2005",
+            "90th Amendment, 2002"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who advises the Government of India on legal matters?",
+        "answer": "Attorney General",
+        "choices": [
+            "Attorney General",
+            "Comptroller & Auditor General",
+            "Chief Justice of the Supreme Court",
+            "Chairman, Law Commission"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which officer of the Government of India has the right to take part in the proceedings of Parliament of India even though he is not a member?",
+        "answer": "Attorney General",
+        "choices": [
+            "Attorney General",
+            "Comptroller & Auditor General",
+            "Vice-President",
+            "Election Commissioner"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who advises the State Government on legal matters?",
+        "answer": "Advocate-General",
+        "choices": [
+            "Advocate-General",
+            "Attorney General",
+            "Solicitor General",
+            "Chief Justice of the High Court"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Parliament's expenditure is controlled by the ",
+        "answer": "Comptroller & Auditor General",
+        "choices": [
+            "Comptroller & Auditor General",
+            "President",
+            "NITI Aayog",
+            "Finance Commission"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Lok Sabha can be dissolved before the completion of its term",
+        "answer": "by the president on the recommendation of the Prime Minister",
+        "choices": [
+            "by the president on the recommendation of the Prime Minister",
+            "at the discretion of the President",
+            "at the discretion of the Prime Minister",
+            "at the discretion of the speaker of Lok Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the minimum age laid down for a person to seek election to the Lok Sabha?",
+        "answer": "25 years",
+        "choices": [
+            "25 years",
+            "30 years",
+            "35 years",
+            "20 years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the minimum age laid down for a member of the Parliament?",
+        "answer": "25 years",
+        "choices": [
+            "25 years",
+            "30 years",
+            "35 years",
+            "20 years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the minimum age laid down for a member of the Rajya Sabha?",
+        "answer": "30 years",
+        "choices": [
+            "30 years",
+            "25 years",
+            "35 years",
+            "20 years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Generally how many sessions are there in the Lok Sabha?",
+        "answer": "Three",
+        "choices": [
+            "Three",
+            "Two",
+            "Four",
+            "Five"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "A candidate of Lok Sabha poll loses his security amount if he/she does not get",
+        "answer": "one-sixth of valid votes",
+        "choices": [
+            "one-sixth of valid votes",
+            "one-third of valid votes",
+            "one-fourth of valid votes",
+            "one-fifth of valid votes"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The state-wise allocation of seats in Lok Sabha is based on the 1971 Census. Up to which year does this remain intact?",
+        "answer": 2026,
+        "choices": [
+            2026,
+            2025,
+            2031,
+            2047
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Presently the number of seats each state in Lok Sabha is allotted on the basis of",
+        "answer": "Census of 1971",
+        "choices": [
+            "Census of 1971",
+            "Census of 1951",
+            "Census of 1961",
+            "Census of 1981"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Fifth Schedule deals with the governance and protection of which specific group of people?",
+        "answer": "Scheduled Tribes",
+        "choices": [
+            "Scheduled Tribes",
+            "Scheduled Castes",
+            "Religious Minorities",
+            "Linguistic Minorities"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "In which Article of the Constitution of India was the provision for reservation of scheduled castes in Lok Sabha made?",
+        "answer": "Article 330",
+        "choices": [
+            "Article 330",
+            "Article 331",
+            "Article 332",
+            "Article 333"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Session of Lok Sabha is called for at least",
+        "answer": "two times in a year",
+        "choices": [
+            "two times in a year",
+            "three times in a year",
+            "once in a year",
+            "four times in a year"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which State sends the largest number of members in Lok Sabha?",
+        "answer": "Uttar Pradesh",
+        "choices": [
+            "Uttar Pradesh",
+            "Maharashtra",
+            "Bihar",
+            "West Bengal"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "So long as the representation in Lok Sabha is concerned, which states rank second and third?",
+        "answer": "Maharashtra & West Bengal",
+        "choices": [
+            "Maharashtra & West Bengal",
+            "Bihar & Maharashtra",
+            "Madhya Pradesh & Tamil Nadu",
+            "Bihar & Tamil Nadu"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "First General Election of Lok Sabha was held in",
+        "answer": 1952,
+        "choices": [
+            1952,
+            1950,
+            1946,
+            1947
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who is the leader of the Lok Sabha?",
+        "answer": "Prime Minister",
+        "choices": [
+            "Prime Minister",
+            "President",
+            "Speaker",
+            "Whip"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "A seat of an MP can be declared vacant if he absents himself from the house for a continous period of",
+        "answer": "60 days",
+        "choices": [
+            "60 days",
+            "30 days",
+            "45 days",
+            "90 days"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Speaker of the Lok Sabha is elected by",
+        "answer": "all members of Lok Sabha",
+        "choices": [
+            "all members of Lok Sabha",
+            "all members of parliament",
+            "public directly",
+            "the members of party in majority"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Attorney General of India is appointed by the",
+        "answer": "President",
+        "choices": [
+            "President",
+            "Law Minister",
+            "Speaker of the Lok Sabha",
+            "Prime Minister"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Rajya Sabha consits of",
+        "answer": "250 members of which 12 are nominated",
+        "choices": [
+            "250 members of which 12 are nominated",
+            "280 members of which 20 are nominated",
+            "275 members of which 18 are nominated",
+            "252 members of which 12 are nominated"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Maximum members in The Lok Sabha",
+        "answer": 550,
+        "choices": [
+            550,
+            530,
+            543,
+            545
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Representation of States in Council of States is based on",
+        "answer": "ratio of their Population",
+        "choices": [
+            "ratio of their Population",
+            "ratio of their revenue",
+            "ratio of their area",
+            "equal for all states"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Member of Rajya Sabha is elected for",
+        "answer": "6 years",
+        "choices": [
+            "6 years",
+            "5 years",
+            "4 years",
+            "life long"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Member of Lok Sabha is elected for",
+        "answer": "5 years",
+        "choices": [
+            "5 years",
+            "6 years",
+            "4 years",
+            "life long"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "According to our Constitution, the Rajya Sabha",
+        "answer": "is not subject to dissolution",
+        "choices": [
+            "is not subject to dissolution",
+            "is dissolved once in two years",
+            "is dissolved once in five years",
+            "is dissolved once in six years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Right to dissolve the Rajya Sabha is vested in",
+        "answer": "None of these",
+        "choices": [
+            "None of these",
+            "President",
+            "Vice-President",
+            "Supreme Court"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The number of members nominated by the President in Rajya Sabha is",
+        "answer": 12,
+        "choices": [
+            12,
+            10,
+            11,
+            20
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "In which House is the presiding officer not a member of that House?",
+        "answer": "Rajya Sabha",
+        "choices": [
+            "Rajya Sabha",
+            "Lok Sabha",
+            "Vidhan Sabha",
+            "Vidhan Parishad"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Under which Article, the speaker can allow any member of the House to speak in his/her mother tongue?",
+        "answer": "Article 120",
+        "choices": [
+            "Article 120",
+            "Article 110",
+            "Article 122",
+            "Article 115"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What can be the maximum interval between the two consecutive sessions of Parliament?",
+        "answer": "six months",
+        "choices": [
+            "six months",
+            "12 months",
+            "3 months",
+            "9 months"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Zero Hour in political jargon refers to",
+        "answer": "Question-Answer Session",
+        "choices": [
+            "Question-Answer Session",
+            "Suspended Motion",
+            "Adjourned Time",
+            "Day when no business in parliament is done"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Joint session of both Houses of Parliament is concerned ",
+        "answer": "to discuss and pass sucha a bill where both Houses have different opinion",
+        "choices": [
+            "to discuss and pass sucha a bill where both Houses have different opinion",
+            "for the election of the President of India",
+            "for the election of the vice-president of India",
+            "to pass the bill relating to the amendment of Constitution"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Money Bill can be presented",
+        "answer": "Only in Lok Sabha",
+        "choices": [
+            "Only in Lok Sabha",
+            "Only in Rajya Sabha",
+            "In both the Houses",
+            "in joint meeting of both the Houses"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Of the following statements, which one is not correct?",
+        "answer": "Money bill is introduced in the Rajya Sabha",
+        "choices": [
+            "Money bill is introduced in the Rajya Sabha",
+            "The Rajya Sabha is powerless in money matters",
+            "The Rajya Sabha has to pass the Money Bill within 14 days after it has been passed by the Lok Sabha",
+            "The Rajya Sabha may pass or return the Money Bill with some recommendations to the Lok Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Vote on Account is meant for",
+        "answer": "Appropriating funds pending passing of budget",
+        "choices": [
+            "Appropriating funds pending passing of budget",
+            "vote on the report of CAG",
+            "to meet unforeseen expenditure",
+            "Budget"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the object of Cut Motion",
+        "answer": "to move a proposal to reduce expenditure in the Budget proposals",
+        "choices": [
+            "to move a proposal to reduce expenditure in the Budget proposals",
+            "to put check on the policies of the Government",
+            "to stop the functioning of ruling party",
+            "rejection of complete financial dealings of the Government"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Public Accounts Committee submits its report to",
+        "answer": "Speaker of the Lok Sabha",
+        "choices": [
+            "Speaker of the Lok Sabha",
+            "Comptroller & Auditor General",
+            "Prime Minister",
+            "President"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The split system in the Indian Administration relates to",
+        "answer": "Policy / Implementation",
+        "choices": [
+            "Policy / Implementation",
+            "Audit / Accounts",
+            "Union / States",
+            "All India Service / Central Service"
+        ]
     }
 ]

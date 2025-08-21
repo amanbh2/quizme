@@ -31,5 +31,93 @@
             "9th August",
             "2nd October"
         ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "When is World Sparrow Day celebrated?",
+        "answer": "20th March",
+        "choices": [
+            "20th March",
+            "20th May",
+            "20th April",
+            "20th June"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Who is considered the founder of ISRO?",
+        "answer": "Dr Vikram Sarabhai",
+        "choices": [
+            "Dr Vikram Sarabhai",
+            "Dr Homi Bhabha",
+            "DR APJ Abdul Kalam",
+            "Dr Satish Shawan"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Where is the headquarters of ISRO located?",
+        "answer": "Bengaluru",
+        "choices": [
+            "Bengaluru",
+            "Hyderabad",
+            "Mumbai",
+            "Chennai"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Name the first President of India",
+        "answer": "Rajendra Prasad",
+        "choices": [
+            "Rajendra Prasad",
+            "Savapalli Radhakrishnan",
+            "Zakir Hussain",
+            "Pratibha Patil"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Name the first female President of India",
+        "answer": "Pratibha Patil",
+        "choices": [
+            "Pratibha Patil",
+            "Draupadi Murmu",
+            "Indira Gandhi",
+            "Rekha Gupta"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Name the first President of India belonging to minority religon",
+        "answer": "Zakir Hussain",
+        "choices": [
+            "Zakir Hussain",
+            "Draupadi Murmu",
+            "Pratibha Patil",
+            "Sarvapalli Radhakrishnan"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Name the first President of India belonging to tribal community",
+        "answer": "Draupadi Murmu",
+        "choices": [
+            "Draupadi Murmu",
+            "V V Giri",
+            "Rajendra Prasad",
+            "Zakir Hussain"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Name the longest serving president of India till now?",
+        "answer": "Rajendra Prasad",
+        "choices": [
+            "Rajendra Prasad",
+            "Savapalli Radhakrishnan",
+            "Mohammad Hamid Ansari",
+            "Pratibha Patil"
+        ]
     }
 ]
