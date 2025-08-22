@@ -4,11 +4,11 @@ HistoryModern: 481
 HistoryAncient: 154
 HistoryMedieval: 113
 Geography: 44
-Polity: 122
+Polity: 147
 Science: 124
 GeneralKnowledge: 11
 UnionEconomy: 47
 Census: 38
 BiharSpecific: 275
 BiharEconomy: 45
-Total Questions: 1772
+Total Questions: 1797

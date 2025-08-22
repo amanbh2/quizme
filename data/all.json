@@ -13552,6 +13552,281 @@
         ]
     },
     {
+        "sheet": "Polity",
+        "question": "The Collegium System in India is primarily related to:",
+        "answer": "Appointment and transfer of judges",
+        "choices": [
+            "Appointment and transfer of judges",
+            "Appointment of Governors",
+            "Appointment of Election Commissioners",
+            "Appointment of Lokpal"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following constitutional bodies created the Collegium System?",
+        "answer": "Supreme Court through judgments",
+        "choices": [
+            "Supreme Court through judgments",
+            "Parliament through amendment",
+            "Law Commission of India",
+            "National Judicial Appointments Commission"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Collegium for appointment of Supreme Court judges consists of:",
+        "answer": "CJI + 4 senior-most SC judges",
+        "choices": [
+            "CJI + 4 senior-most SC judges",
+            "CJI + 2 senior-most SC judges",
+            "CJI + Law Minister + 2 senior-most SC judges",
+            "President + CJI + Attorney General"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which case established the primacy of the Chief Justice of India and introduced the Collegium System?",
+        "answer": "Second Judges Case (1993)",
+        "choices": [
+            "Second Judges Case (1993)",
+            "First Judges Case (1981)",
+            "Third Judges Case (1998)",
+            "Kesavananda Bharati Case (1973)"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The basic structure doctrine was established in which Supreme Court case?",
+        "answer": "Kesavananda Bharati Case (1973)",
+        "choices": [
+            "Kesavananda Bharati Case (1973)",
+            "Golaknath Case (1967)",
+            "Minerva Mills Case (1980)",
+            "Indira Sawhney Case (1992)"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Collegium System was expanded to include a 5-member body in which case?",
+        "answer": "Third Judges Case (1998)",
+        "choices": [
+            "Third Judges Case (1998)",
+            "First Judges Case (1981)",
+            "Second Judges Case (1993)",
+            "Indira Gandhi v. Raj Narain (1975)"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which judgment is called the “Election Case”, leading to the declaration of National Emergency in 1975?",
+        "answer": "Indira Gandhi v. Raj Narain (1975)",
+        "choices": [
+            "Indira Gandhi v. Raj Narain (1975)",
+            "First Judges Case (1981)",
+            "Second Judges Case (1993)",
+            "Third Judges Case (1998)"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which case is famously known as the “Habeas Corpus Case” during the Emergency (1976)?",
+        "answer": "ADM Jabalpur v. Shivkant Shukla (1976)",
+        "choices": [
+            "ADM Jabalpur v. Shivkant Shukla (1976)",
+            "Maneka Gandhi v. Union of India (1978)",
+            "Indira Gandhi v. Raj Narain (1975)",
+            "Minerva Mills v. Union of India (1980)"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Supreme Court is a ",
+        "answer": "Final Interpreter of the Constitution",
+        "choices": [
+            "Final Interpreter of the Constitution",
+            "Fedral Court",
+            "Protector of Human Rights",
+            "Civil Courts"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The current sanctioned strength of the Supreme Court of India is",
+        "answer": "34 Judges",
+        "choices": [
+            "34 Judges",
+            "30 Judges",
+            "28 Judges",
+            "24 Judges"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Supreme Court in India was established",
+        "answer": "by the Indian Constitution",
+        "choices": [
+            "by the Indian Constitution",
+            "by an act of Parliament in 1950",
+            "under Indian Independence Act, 147",
+            "under Indian Government Act, 1953"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Of the following statements, which one is not correct?",
+        "answer": "Supreme Court can hear from any High Court / Tribunals except Court-martial",
+        "choices": [
+            "Supreme Court can hear from any High Court / Tribunals except Court-martial",
+            "Supreme Court was constituted in 1950",
+            "Supreme Court is the highest Court of appeal in the country",
+            "Supreme Court can hear from any High Court/Tribunals as well as from Court-martial"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The power to increase the number of Judges in the Supreme Court of India is vested in",
+        "answer": "The Parliament",
+        "choices": [
+            "The Parliament",
+            "The President",
+            "The Chief Justice of India",
+            "The Law Commission"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who appoints the Judges of Supreme Court of India?",
+        "answer": "The President",
+        "choices": [
+            "The President",
+            "The Prime Minister",
+            "The Chief Justice of India",
+            "The Ombudsman"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the retirement age of the Judges of the Supreme Court?",
+        "answer": "65 Years",
+        "choices": [
+            "65 Years",
+            "62 Years",
+            "60 Years",
+            "64 Years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the retirement age of the Judges of the High Court?",
+        "answer": "62 Years",
+        "choices": [
+            "62 Years",
+            "65 Years",
+            "60 Years",
+            "70 Years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "A Judge of the Supreme Court may resign his office by writing to?",
+        "answer": "The President",
+        "choices": [
+            "The President",
+            "The Prime Minister",
+            "The Law Minister",
+            "The Attorney General of India"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The concept of Public Interest Litigation originated in the",
+        "answer": "United States",
+        "choices": [
+            "United States",
+            "United Kingdom",
+            "India",
+            "USSR"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who is the Constitutional Head of the State Governments?",
+        "answer": "Governor",
+        "choices": [
+            "Governor",
+            "Chief Minister",
+            "Speaker",
+            "High Court Judge"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Governor of a State is appointed by",
+        "answer": "President",
+        "choices": [
+            "President",
+            "The Chief Justice of the High",
+            "The Chief Justice of India",
+            "The Prime Minister"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "As per Indian Constitution, Legislature of States consits of",
+        "answer": "Governor, Legislative Assembly and Legislative Council where it exists",
+        "choices": [
+            "Governor, Legislative Assembly and Legislative Council where it exists",
+            "Legislative Assembly only",
+            "Legislative Council only",
+            "Governor and Legislative Council"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which is the Upper Chamber of State Legislatures in India?",
+        "answer": "Legislative Council",
+        "choices": [
+            "Legislative Council",
+            "Legislative Assembly",
+            "Rajya Sabha",
+            "Lok Sabha"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "In any State of India, Legislative Council can be created or can be abolished by",
+        "answer": "the Parliament as per Resolution passed by the Legislative Assembly of the State",
+        "choices": [
+            "the Parliament as per Resolution passed by the Legislative Assembly of the State",
+            "the Governor on the recommendation of the Council of Ministers",
+            "The Parliament",
+            "The President on the recommendation of the Governor of the State"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "If the Speaker of Legislative Assembly of a State wants to resign, he will give his resignation to",
+        "answer": "Deputy-Speaker",
+        "choices": [
+            "Deputy-Speaker",
+            "Chief Minister",
+            "Governor",
+            "President"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The members of a State Legislative Council are not chosen by which of the following categories of persons?",
+        "answer": "Industrialists",
+        "choices": [
+            "Industrialists",
+            "Members of the local bodies/panchayats",
+            "Teachers",
+            "Graduates"
+        ]
+    },
+    {
         "sheet": "Science",
         "question": "Physics involves the study of",
         "answer": "Nature & Natural Phenomena",
