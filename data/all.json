@@ -3498,6 +3498,72 @@
         ]
     },
     {
+        "sheet": "Recent2025",
+        "question": "What is the primary objective of the Gaganyaan mission?",
+        "answer": "To send a crew of three astronauts to a Low Earth Orbit for a short duration",
+        "choices": [
+            "To send a crew of three astronauts to a Low Earth Orbit for a short duration",
+            "To develop reusable launch vehicles for commercial purposes",
+            "To send a rover to Mars.",
+            "To establish a permanent space station in low Earth orbit"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the name of the unmanned mission conducted as a precursor to the Gaganyaan mission?",
+        "answer": "TV-D1",
+        "choices": [
+            "TV-D1",
+            "Vyommitra",
+            "Chandrayaan-3",
+            "Mangalyaan-2"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the name of the female humanoid robot developed to fly in the unmanned Gaganyaan test missions?",
+        "answer": "Vyommitra",
+        "choices": [
+            "Vyommitra",
+            "Rohini",
+            "Aditi",
+            "Pragati"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The astronauts chosen for the Gaganyaan mission are referred to as",
+        "answer": "Vyomanauts",
+        "choices": [
+            "Vyomanauts",
+            "Cosmonauts",
+            "Taikanauts",
+            "Astronauts"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What was the theme of this year National Space Day",
+        "answer": "Aryabhatta to Gaganyaan: Ancient wisdom to infinite possibilities",
+        "choices": [
+            "Aryabhatta to Gaganyaan: Ancient wisdom to infinite possibilities",
+            "Touching Lives while Touching the Moon: India's Space Saga",
+            "Bharat in space",
+            "Antriksh me bharat"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "In August 2024, a seven-judge Constitution Bench of the Supreme Court delivered a verdict allowing sub-classification within SCs/STs. This was in which case?",
+        "answer": "State of Punjab vs. Davinder Singh",
+        "choices": [
+            "State of Punjab vs. Davinder Singh",
+            "Balaji vs. State of Mysore",
+            "Indra Sawhney vs. Union of India",
+            "Ashoka Kumar Thakur vs. Union of India"
+        ]
+    },
+    {
         "sheet": "HistoryModern",
         "question": "Which year marks fall of Constantinople",
         "answer": 1453,
@@ -12210,6 +12276,61 @@
         ]
     },
     {
+        "sheet": "Geography",
+        "question": "The Radcliffe Line demarcates the boundary between",
+        "answer": "India-Pakistan",
+        "choices": [
+            "India-Pakistan",
+            "India-Bangladesh",
+            "India-Afghanistan",
+            "India-China"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The McMahon Line, often in dispute, is related to the boundary between India and",
+        "answer": "China",
+        "choices": [
+            "China",
+            "Bangladesh",
+            "Pakistan",
+            "Myanmar"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Durand Line (1893) originally separated British India from",
+        "answer": "Afghanistan",
+        "choices": [
+            "Afghanistan",
+            "China",
+            "Nepal",
+            "Bhutan"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Treaty of Sugauli (1816) defined India’s border with which country?",
+        "answer": "Nepal",
+        "choices": [
+            "Nepal",
+            "Bhutan",
+            "Myanmar",
+            "Sri Lanka"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Treaty of Sinchula (1865) related to India’s boundary with",
+        "answer": "Bhutan",
+        "choices": [
+            "Bhutan",
+            "Nepal",
+            "Myanmar",
+            "Sri Lanka"
+        ]
+    },
+    {
         "sheet": "Polity",
         "question": "The first session of Constituent Assembly was held on",
         "answer": "9th December 1946",
@@ -13827,6 +13948,677 @@
         ]
     },
     {
+        "sheet": "Polity",
+        "question": "The authority to determine the number of Judges in a High Court rests with which of the following entities:",
+        "answer": "The President",
+        "choices": [
+            "The President",
+            "The Chief Minister of the State",
+            "The Prime Minister",
+            "The Parliament"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "A High Court Judge addresses his letter of resignation to ",
+        "answer": "The President",
+        "choices": [
+            "The President",
+            "Chief Justice of India",
+            "Chief Justice of High Court",
+            "Governor of the State"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The mobile court in India is the brain child of",
+        "answer": "APJ Abdul Kalam",
+        "choices": [
+            "APJ Abdul Kalam",
+            "Rajeev Gandhi",
+            "Justice Bhagwati",
+            "Mrs Pratibha Patil"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following Constitutional Amendment in India made Judiciary subservient of Parliament?",
+        "answer": "42nd Amendment",
+        "choices": [
+            "42nd Amendment",
+            "43rd Amendment",
+            "40th Amendment",
+            "44th Amendment"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "In which year was Sarkaria Commission, empowered to recommend changes in Centre-State relations submitted its report?",
+        "answer": 1983,
+        "choices": [
+            1983,
+            1985,
+            1984,
+            1981
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The President can declare National Emergency on the basis of",
+        "answer": "Armed Rebellion",
+        "choices": [
+            "Armed Rebellion",
+            "External Aggression",
+            "War",
+            "All of these"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "According to which Article National Emergency may be declared by the president of India?",
+        "answer": "Article 352",
+        "choices": [
+            "Article 352",
+            "Article 370",
+            "Article 371",
+            "Article 395"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The proclamation of emergency at the first instance can be restricted to",
+        "answer": "6 months",
+        "choices": [
+            "6 months",
+            "3 months",
+            "15 days",
+            "One Year"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Mainly on whose advice the President's Rule is imposed in the State?",
+        "answer": "Governor",
+        "choices": [
+            "Governor",
+            "Chief Minister",
+            "Legislative Assembly",
+            "Chief Justice of High Court"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Under which one of the following Articles is the formation of Finance Commmission laid down?",
+        "answer": "Article 280",
+        "choices": [
+            "Article 280",
+            "Article 269",
+            "Article 265",
+            "Article 268"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Federal Finance Commission in India relates to",
+        "answer": "Finances between States and the Centre",
+        "choices": [
+            "Finances between States and the Centre",
+            "Finances among the States",
+            "Finances between the Centre and Local Self Governments",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "When was the Planning Commission established?",
+        "answer": "15th March, 1950",
+        "choices": [
+            "15th March, 1950",
+            "10th March, 1950",
+            "16th March, 1951",
+            "20th March, 1950"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who among the following is the CEO of the NITI Aayog?",
+        "answer": "BVR Subhramanyam",
+        "choices": [
+            "BVR Subhramanyam",
+            "Amitabh Kant",
+            "Cyrus Mistry",
+            "Soumya Kanti Ghosh"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the full form of NITI Aayog",
+        "answer": "National Institution for Transforming India",
+        "choices": [
+            "National Institution for Transforming India",
+            "National Internal Trade Information",
+            "National Intellectual Training Institute",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which Article in the Indian Constitution is related with the establishment of the Election Commission of India?",
+        "answer": "Article 324",
+        "choices": [
+            "Article 324",
+            "Article 148",
+            "Article 342",
+            "Article 325"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which Constitutional Amendment Act has added new provisions related to cooperative societies in fundamental rights and DPSPs of the Constitution of India?",
+        "answer": "97th Amendment",
+        "choices": [
+            "97th Amendment",
+            "96th Amendment",
+            "95th Amendment",
+            "94th Amendment"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "A bill for the amendment in Indian Constitution can be presented",
+        "answer": "either in Lok Sabha or Rajya Sabha",
+        "choices": [
+            "either in Lok Sabha or Rajya Sabha",
+            "Only in Rajya Sabha",
+            "Only in Lok Sabha",
+            "In the Supreme Court of India"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "When was the first Bill for the amendment of the Indian Constitution presented?",
+        "answer": 1951,
+        "choices": [
+            1951,
+            1950,
+            1955,
+            1958
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following Constitutional Amendment Acts was termed as Mini Constitution?",
+        "answer": "42nd Amendment",
+        "choices": [
+            "42nd Amendment",
+            "44th Amendment",
+            "46th Amendment",
+            "50th Amendment"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which Article of the Indian Constitution prescribes Hindi in Devanagari script as the Official language of the Union?",
+        "answer": "Article 343",
+        "choices": [
+            "Article 343",
+            "Article 341",
+            "Article 342",
+            "Article 346"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The number of official languages recognised by the constitution in the eight schedule is",
+        "answer": 22,
+        "choices": [
+            22,
+            18,
+            16,
+            20
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following was established as the first programme of community development?",
+        "answer": "National Extension Service",
+        "choices": [
+            "National Extension Service",
+            "Cooperation Movement",
+            "Integrated Rural Development Programme",
+            "Har Ghar Nal ka Jal"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The minimum age for contesting election to the Panchayati Raj Institutions is?",
+        "answer": "21 years",
+        "choices": [
+            "21 years",
+            "25 years",
+            "18 years",
+            "30 years"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Panchayati Raj was first introduced in",
+        "answer": "Rajasthan",
+        "choices": [
+            "Rajasthan",
+            "Andhra Pradesh",
+            "Uttar Pradesh",
+            "Himachal Pradesh"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The decision to conduct Panchayat Elections is taken by which of the following?",
+        "answer": "State Government",
+        "choices": [
+            "State Government",
+            "Central Government",
+            "District Judge",
+            "Election Commission"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The subject of Panchayati Raj is in",
+        "answer": "State List",
+        "choices": [
+            "State List",
+            "Union List",
+            "Concurrent List",
+            "Residual List"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following functions is not the concern of Local Self-Government?",
+        "answer": "Maintenance of Public Order",
+        "choices": [
+            "Maintenance of Public Order",
+            "Public Health",
+            "Sanitation",
+            "Public Utility Services"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "73rd Amendment of the Constitution is related to",
+        "answer": "Panchayati Raj System",
+        "choices": [
+            "Panchayati Raj System",
+            "Impeachement of the President",
+            "The appointment of the election commission",
+            "Reservation of seats in educational institutions"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The legislative origins of the 73rd Constitutional Amendment Act can be traced back to which Constitutional Amendment Bill?",
+        "answer": "64th Constitutional Amendment Bill",
+        "choices": [
+            "64th Constitutional Amendment Bill",
+            "61st Constitutional Amendment Bill",
+            "62nd Constitutional Amendment Bill",
+            "63rd Constitutional Amendment Bill"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which of the following was constituted under the Panchayati Raj System?",
+        "answer": "Gram Panchayat",
+        "choices": [
+            "Gram Panchayat",
+            "Khap Panchayat",
+            "Caste Panchayat",
+            "Jan Panchayat"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which Article of Indian Constitution directs state Government to organise village Panchayats?",
+        "answer": "Article 40",
+        "choices": [
+            "Article 40",
+            "Article 32",
+            "Article 48",
+            "Article 51"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Panchayti Raj is organised as a unit of self government under",
+        "answer": "73rd Amendment of the Constitution",
+        "choices": [
+            "73rd Amendment of the Constitution",
+            "Fundamental Rights of the Indian Constitution",
+            "The preamble of the Indian Constitution",
+            "Directive Principles of State Policy"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the main characterstic of Panchayati Raj system of Government?",
+        "answer": "All of these",
+        "choices": [
+            "All of these",
+            "It has three tiers of Government",
+            "It aims to give social and economic justice to villages",
+            "Some members of Parliament are as representatives in Zila Parishad"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "To review the financial position of Panchayats, the State Government constitutes every five years a/an",
+        "answer": "Finance Commission",
+        "choices": [
+            "Finance Commission",
+            "Finance Committee",
+            "Advisory Commission",
+            "Advisory Committee"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Panchayati Raj is mainly aimed at",
+        "answer": "Decentralisation of powers to villagers",
+        "choices": [
+            "Decentralisation of powers to villagers",
+            "Increasing rivalry among villagers",
+            "Giving training to villagers for contesting election",
+            "increasing revenue from the villagers"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "For successful functioning, Panchayati Raj needs full co-operation of ",
+        "answer": "Local Public",
+        "choices": [
+            "Local Public",
+            "Central Government",
+            "Bureuacrats",
+            "Politicians"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Panchayati Raj in India represents",
+        "answer": "Decentralisation of powers",
+        "choices": [
+            "Decentralisation of powers",
+            "Participation of the people",
+            "Community Development",
+            "All of these"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following is not the characterstic of decentralisation?",
+        "answer": "To instill non-confidence among local communities",
+        "choices": [
+            "To instill non-confidence among local communities",
+            "Autonomy",
+            "People's participation",
+            "to empower local communities"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Name the Committee which was set up by the NDC in 1957 for the reorganisation of CDP and NES, which suggested a three-tier system of rural local government",
+        "answer": "Balwant Rai Mehta Committee",
+        "choices": [
+            "Balwant Rai Mehta Committee",
+            "Ashok Mehta Committee",
+            "Maharashtra Committee on Democratic Decentralisation",
+            "Rural-Urban Relationship Committee"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Chairman of the Committee set up for the recommendation of Panchayati Raj in India was",
+        "answer": "Balwant Rai Mehta",
+        "choices": [
+            "Balwant Rai Mehta",
+            "BR Ambedkar",
+            "Jagjivan ram",
+            "Justice Krishna Ayer"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Panchayati Raj System was first started in India in the State of Rajasthan and ",
+        "answer": "Andhra Pradesh",
+        "choices": [
+            "Andhra Pradesh",
+            "Haryana",
+            "Gujarat",
+            "Uttar Pradesh"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Decentralisation System was recommended by",
+        "answer": "Balwant Rai Mehta",
+        "choices": [
+            "Balwant Rai Mehta",
+            "C Rajagopalachari",
+            "JB Kriplani",
+            "Ashok Mehta"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Ashok Mehta Committee recommended how many tiers of Panchayati Raj",
+        "answer": "Two-tier",
+        "choices": [
+            "Two-tier",
+            "Thre-tier",
+            "Single-tier",
+            "Multiple-tier"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following Committees/Commissions recommended the creation of Nyaya Panchayats?",
+        "answer": "Ashok Mehta Committee",
+        "choices": [
+            "Ashok Mehta Committee",
+            "Balwant Rai Mehta Committee",
+            "GVK Rao Committee",
+            "Sarkaria Comission"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which Constitutional Amendement granted Constitutional status to Panchayati Raj Institutions?",
+        "answer": "73rd Amdendment",
+        "choices": [
+            "73rd Amdendment",
+            "71st Amendment",
+            "70th Amritsar",
+            "75th Amendment"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which Article gives the list of 29 functions to be performed by the Panchayati Raj Institutions?",
+        "answer": "Article 243(G)",
+        "choices": [
+            "Article 243(G)",
+            "Article 243(H)",
+            "Article 243(F)",
+            "Article 243(E)"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which was the first state in India to provide 50% reservation for women in Panchayati Raj Institutions?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Tamil Nadu",
+            "Maharashtra",
+            "Madhya Prades"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The three-tier system of Panchayati Raj consits of ",
+        "answer": "Gram Panchayat, Panchayat Samiti, Zila Parishad",
+        "choices": [
+            "Gram Panchayat, Panchayat Samiti, Zila Parishad",
+            "Gram Panchayat, Panchayat Samit, Block Samiti",
+            "Gram Panchayat, Block Samiti, Zila Parishad",
+            "Block Samiti, Zila Parishad, Panchayat Samiti"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "A Panchayat Samiti at the block level in India is only a/an",
+        "answer": "Administrative Authority",
+        "choices": [
+            "Administrative Authority",
+            "Advisory Body",
+            "Consultative Committee",
+            "Coordinating and Supervisory Authority"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which is not among the powers of Panchayati Raj Insititutions in India?",
+        "answer": "Judicial Review",
+        "choices": [
+            "Judicial Review",
+            "Implementation of Land Reforms",
+            "Implementation of Poverty Allevation Programmes",
+            "Sanitation"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who among the following is land record officer?",
+        "answer": "Patwari",
+        "choices": [
+            "Patwari",
+            "Lambardar",
+            "Zamindar",
+            "Zaildar"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "At what level does a Panchayat Samiti operate a Panchayati Raj structure?",
+        "answer": "Block-level body",
+        "choices": [
+            "Block-level body",
+            "District Level",
+            "Gram Panchayat Level",
+            "State Level"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The National Human Rights Commission was set up in which year?",
+        "answer": 1993,
+        "choices": [
+            1993,
+            1992,
+            2003,
+            1983
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The right to Information in India is",
+        "answer": "Fundamental Right",
+        "choices": [
+            "Fundamental Right",
+            "Legal Right",
+            "Social Right",
+            "Directive Principle of State Policy"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who of the following was the Prime Minister of the country at the time of the formation of Mandal Commission in India?",
+        "answer": "Morarji Desai",
+        "choices": [
+            "Morarji Desai",
+            "Chaudhari Charan Singh",
+            "VP Singh",
+            "Indira Gandhi"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who among the following headed the two Boundary Commission set up to delineate the international frontiers between India and Pakistan in 1947?",
+        "answer": "Cyril Radcliffe",
+        "choices": [
+            "Cyril Radcliffe",
+            "Henry McMahon",
+            "AP Moon",
+            "AV Alexander"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Sikkim became a full-fledged State of the Union of India in",
+        "answer": 1975,
+        "choices": [
+            1975,
+            1974,
+            1976,
+            1977
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who was the Chairman of the First Law Commission in Independent India?",
+        "answer": "MC Setalvad",
+        "choices": [
+            "MC Setalvad",
+            "JL Kapur",
+            "VK Sunadaram",
+            "TV Venkatarama Aiyar"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Aritcle 300 of the Indian Constitution deal with",
+        "answer": "Suits and Proceedings",
+        "choices": [
+            "Suits and Proceedings",
+            "Government Contracts",
+            "Attorney General",
+            "Restriction on trade and commerce"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The division of each State into territorial constituencies for the Lok Sabha is done by Delimitation Commission. This delimitation has been freezed till which year?",
+        "answer": 2026,
+        "choices": [
+            2026,
+            2027,
+            2025,
+            2028
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Amnesty International is an organisation associated with",
+        "answer": "Protection of Human Rights",
+        "choices": [
+            "Protection of Human Rights",
+            "Protection of Women's Right",
+            "Abolition of Untouchability",
+            "Protection of Animal Rights"
+        ]
+    },
+    {
         "sheet": "Science",
         "question": "Physics involves the study of",
         "answer": "Nature & Natural Phenomena",
@@ -15309,6 +16101,116 @@
             "Savapalli Radhakrishnan",
             "Mohammad Hamid Ansari",
             "Pratibha Patil"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "When is National Space Day celebrated in India?",
+        "answer": "23rd August",
+        "choices": [
+            "23rd August",
+            "14th July",
+            "26th August",
+            "7th Sepetember"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which mission's successful landing on the lunar south pole led to the declaration of National Space Day?",
+        "answer": "Chandrayaan-3",
+        "choices": [
+            "Chandrayaan-3",
+            "Chandrayaan-2",
+            "Chandrayaan-1",
+            "Mangalyaan"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "The landing site of the Chandrayaan-3 lander has been named:",
+        "answer": "Shiv Shakti Point",
+        "choices": [
+            "Shiv Shakti Point",
+            "Jawahar Point",
+            "Mahatma Point",
+            "Tiranga Point"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "What was the name of the lander in the Chandrayaan-3 mission?",
+        "answer": "Vikram",
+        "choices": [
+            "Vikram",
+            "Pragyan",
+            "Agni",
+            "Dhruv"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "What is the name of the rover that was deployed from the Chandrayaan-3 lander?",
+        "answer": "Pragyan",
+        "choices": [
+            "Pragyan",
+            "Vikram",
+            "Agni",
+            "Dhruv"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which country became the first to successfully land a spacecraft on the lunar south pole?",
+        "answer": "India",
+        "choices": [
+            "India",
+            "United States",
+            "Russia",
+            "China"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "The headquarters of International Court of Justice is situated at",
+        "answer": "The Hague, Netherland",
+        "choices": [
+            "The Hague, Netherland",
+            "New York, USA",
+            "Geneva, Switzerland",
+            "Paris, France"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Government Report of which of the following countries is known as Yellow Book?",
+        "answer": "France",
+        "choices": [
+            "France",
+            "Britain",
+            "Italy",
+            "Germany"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Border Security Force came into existence in",
+        "answer": 1965,
+        "choices": [
+            1965,
+            1962,
+            1963,
+            1964
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Montesquieu proposed a division of powers within the government between legislature, executive, and judiciary in which of the following books by him?",
+        "answer": "The Spirit of the Laws",
+        "choices": [
+            "The Spirit of the Laws",
+            "My Thoughts",
+            "The Republic",
+            "The Social Contract"
         ]
     },
     {

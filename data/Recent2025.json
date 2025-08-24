@@ -3496,5 +3496,71 @@
             "1500 m",
             "500 m"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the primary objective of the Gaganyaan mission?",
+        "answer": "To send a crew of three astronauts to a Low Earth Orbit for a short duration",
+        "choices": [
+            "To send a crew of three astronauts to a Low Earth Orbit for a short duration",
+            "To develop reusable launch vehicles for commercial purposes",
+            "To send a rover to Mars.",
+            "To establish a permanent space station in low Earth orbit"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the name of the unmanned mission conducted as a precursor to the Gaganyaan mission?",
+        "answer": "TV-D1",
+        "choices": [
+            "TV-D1",
+            "Vyommitra",
+            "Chandrayaan-3",
+            "Mangalyaan-2"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the name of the female humanoid robot developed to fly in the unmanned Gaganyaan test missions?",
+        "answer": "Vyommitra",
+        "choices": [
+            "Vyommitra",
+            "Rohini",
+            "Aditi",
+            "Pragati"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The astronauts chosen for the Gaganyaan mission are referred to as",
+        "answer": "Vyomanauts",
+        "choices": [
+            "Vyomanauts",
+            "Cosmonauts",
+            "Taikanauts",
+            "Astronauts"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What was the theme of this year National Space Day",
+        "answer": "Aryabhatta to Gaganyaan: Ancient wisdom to infinite possibilities",
+        "choices": [
+            "Aryabhatta to Gaganyaan: Ancient wisdom to infinite possibilities",
+            "Touching Lives while Touching the Moon: India's Space Saga",
+            "Bharat in space",
+            "Antriksh me bharat"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "In August 2024, a seven-judge Constitution Bench of the Supreme Court delivered a verdict allowing sub-classification within SCs/STs. This was in which case?",
+        "answer": "State of Punjab vs. Davinder Singh",
+        "choices": [
+            "State of Punjab vs. Davinder Singh",
+            "Balaji vs. State of Mysore",
+            "Indra Sawhney vs. Union of India",
+            "Ashoka Kumar Thakur vs. Union of India"
+        ]
     }
 ]

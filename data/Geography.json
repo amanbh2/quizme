@@ -482,5 +482,60 @@
             19,
             45
         ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Radcliffe Line demarcates the boundary between",
+        "answer": "India-Pakistan",
+        "choices": [
+            "India-Pakistan",
+            "India-Bangladesh",
+            "India-Afghanistan",
+            "India-China"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The McMahon Line, often in dispute, is related to the boundary between India and",
+        "answer": "China",
+        "choices": [
+            "China",
+            "Bangladesh",
+            "Pakistan",
+            "Myanmar"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Durand Line (1893) originally separated British India from",
+        "answer": "Afghanistan",
+        "choices": [
+            "Afghanistan",
+            "China",
+            "Nepal",
+            "Bhutan"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Treaty of Sugauli (1816) defined India’s border with which country?",
+        "answer": "Nepal",
+        "choices": [
+            "Nepal",
+            "Bhutan",
+            "Myanmar",
+            "Sri Lanka"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Treaty of Sinchula (1865) related to India’s boundary with",
+        "answer": "Bhutan",
+        "choices": [
+            "Bhutan",
+            "Nepal",
+            "Myanmar",
+            "Sri Lanka"
+        ]
     }
 ]

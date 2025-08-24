@@ -119,5 +119,115 @@
             "Mohammad Hamid Ansari",
             "Pratibha Patil"
         ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "When is National Space Day celebrated in India?",
+        "answer": "23rd August",
+        "choices": [
+            "23rd August",
+            "14th July",
+            "26th August",
+            "7th Sepetember"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which mission's successful landing on the lunar south pole led to the declaration of National Space Day?",
+        "answer": "Chandrayaan-3",
+        "choices": [
+            "Chandrayaan-3",
+            "Chandrayaan-2",
+            "Chandrayaan-1",
+            "Mangalyaan"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "The landing site of the Chandrayaan-3 lander has been named:",
+        "answer": "Shiv Shakti Point",
+        "choices": [
+            "Shiv Shakti Point",
+            "Jawahar Point",
+            "Mahatma Point",
+            "Tiranga Point"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "What was the name of the lander in the Chandrayaan-3 mission?",
+        "answer": "Vikram",
+        "choices": [
+            "Vikram",
+            "Pragyan",
+            "Agni",
+            "Dhruv"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "What is the name of the rover that was deployed from the Chandrayaan-3 lander?",
+        "answer": "Pragyan",
+        "choices": [
+            "Pragyan",
+            "Vikram",
+            "Agni",
+            "Dhruv"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which country became the first to successfully land a spacecraft on the lunar south pole?",
+        "answer": "India",
+        "choices": [
+            "India",
+            "United States",
+            "Russia",
+            "China"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "The headquarters of International Court of Justice is situated at",
+        "answer": "The Hague, Netherland",
+        "choices": [
+            "The Hague, Netherland",
+            "New York, USA",
+            "Geneva, Switzerland",
+            "Paris, France"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Government Report of which of the following countries is known as Yellow Book?",
+        "answer": "France",
+        "choices": [
+            "France",
+            "Britain",
+            "Italy",
+            "Germany"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Border Security Force came into existence in",
+        "answer": 1965,
+        "choices": [
+            1965,
+            1962,
+            1963,
+            1964
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Montesquieu proposed a division of powers within the government between legislature, executive, and judiciary in which of the following books by him?",
+        "answer": "The Spirit of the Laws",
+        "choices": [
+            "The Spirit of the Laws",
+            "My Thoughts",
+            "The Republic",
+            "The Social Contract"
+        ]
     }
 ]
