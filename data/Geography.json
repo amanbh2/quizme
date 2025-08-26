@@ -537,5 +537,38 @@
             "Myanmar",
             "Sri Lanka"
         ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Indus River originates from which of the following places?",
+        "answer": "Mansarovar Lake, Tibet",
+        "choices": [
+            "Mansarovar Lake, Tibet",
+            "Kailash Range, Tibet",
+            "Gangotri Glacier, Uttrakhand",
+            "Karakoram Range, Ladakh"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Chenab River is formed by the confluence of which two rivers?",
+        "answer": "Chandra and Bhaga",
+        "choices": [
+            "Chandra and Bhaga",
+            "Jhelum and Ravi",
+            "Beas and Sutlej",
+            "Indus and Shyok"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following river is known as the Vitasta in ancient texts?",
+        "answer": "Jhelum",
+        "choices": [
+            "Jhelum",
+            "Ravi",
+            "Chenab",
+            "Beas"
+        ]
     }
 ]

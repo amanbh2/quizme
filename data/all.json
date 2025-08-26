@@ -3564,6 +3564,28 @@
         ]
     },
     {
+        "sheet": "Recent2025",
+        "question": "Which organization mediated the Indus Waters Treaty between India and Pakistan?",
+        "answer": "World Bank",
+        "choices": [
+            "World Bank",
+            "International Monetary Fund",
+            "United Nations",
+            "SAARC"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who signed the Indus Waters Treaty on behalf of India?",
+        "answer": "Jawaharlal Nehru",
+        "choices": [
+            "Jawaharlal Nehru",
+            "Rajendra Prasad",
+            "Lal Bahadur Shastri",
+            "VK Krishna Menon"
+        ]
+    },
+    {
         "sheet": "HistoryModern",
         "question": "Which year marks fall of Constantinople",
         "answer": 1453,
@@ -12328,6 +12350,39 @@
             "Nepal",
             "Myanmar",
             "Sri Lanka"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Indus River originates from which of the following places?",
+        "answer": "Mansarovar Lake, Tibet",
+        "choices": [
+            "Mansarovar Lake, Tibet",
+            "Kailash Range, Tibet",
+            "Gangotri Glacier, Uttrakhand",
+            "Karakoram Range, Ladakh"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Chenab River is formed by the confluence of which two rivers?",
+        "answer": "Chandra and Bhaga",
+        "choices": [
+            "Chandra and Bhaga",
+            "Jhelum and Ravi",
+            "Beas and Sutlej",
+            "Indus and Shyok"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following river is known as the Vitasta in ancient texts?",
+        "answer": "Jhelum",
+        "choices": [
+            "Jhelum",
+            "Ravi",
+            "Chenab",
+            "Beas"
         ]
     },
     {

@@ -3562,5 +3562,27 @@
             "Indra Sawhney vs. Union of India",
             "Ashoka Kumar Thakur vs. Union of India"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which organization mediated the Indus Waters Treaty between India and Pakistan?",
+        "answer": "World Bank",
+        "choices": [
+            "World Bank",
+            "International Monetary Fund",
+            "United Nations",
+            "SAARC"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who signed the Indus Waters Treaty on behalf of India?",
+        "answer": "Jawaharlal Nehru",
+        "choices": [
+            "Jawaharlal Nehru",
+            "Rajendra Prasad",
+            "Lal Bahadur Shastri",
+            "VK Krishna Menon"
+        ]
     }
 ]
