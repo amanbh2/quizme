@@ -113,19 +113,22 @@ function showQuestion() {
         quizContainer.innerHTML = `<h2>Perfect Score! 🎯</h2>`;
         return;
     }
+
+    const questionData = questions[currentQuestionIndex];
+    const shuffledChoices = shuffleArray(questionData.choices);
+    const questionDiv = document.createElement('div');
     questionDiv.innerHTML = `
         <p class="question"></p>
         <div class="choices"></div>
     `;
-    // Set question text safely
     questionDiv.querySelector('.question').textContent = questionData.question;
 
     const choicesDiv = questionDiv.querySelector('.choices');
     shuffledChoices.forEach(choice => {
         const btn = document.createElement('button');
-        btn.textContent = choice;
+        btn.textContent = choice.toString(); // Ensure string
         btn.addEventListener('click', function () {
-            checkAnswer(btn, choice, questionData.answer);
+            checkAnswer(btn, choice.toString(), questionData.answer.toString());
         });
         choicesDiv.appendChild(btn);
     });
@@ -154,20 +157,24 @@ function checkAnswer(button, selectedChoice, correctAnswer) {
     const buttons = document.querySelectorAll(".choices button");
 
     buttons.forEach(btn => {
-        if (btn.innerText === correctAnswer) {
+        if (btn.innerText === correctAnswer.toString()) {
             btn.classList.add("correct");
         }
-        if (btn.innerText === selectedChoice && selectedChoice !== correctAnswer) {
+        if (btn.innerText === selectedChoice && selectedChoice !== correctAnswer.toString()) {
             btn.classList.add("wrong");
         }
         btn.disabled = true;
     });
 
-    if (selectedChoice === correctAnswer) {
+    if (selectedChoice === correctAnswer.toString()) {
         setTimeout(() => {
             showQuestion();
         }, 1000);
     }
 }
 
-document.getElementById("restart-btn").addEventListener("click", startQuiz);
+// Safely add event listener if element exists
+const restartBtn = document.getElementById("restart-btn");
+if (restartBtn) {
+    restartBtn.addEventListener("click", startQuiz);
+}
