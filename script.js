@@ -61,6 +61,7 @@ function loadQuestions() {
 
 function startQuiz() {
     usedIndexes.clear();
+    document.onkeydown = null;
     showQuestion();
 }
 
@@ -98,7 +99,7 @@ function showQuestion() {
     const streak = document.getElementById("streak");
     streak.innerHTML = `${usedIndexes.size} <i class="fa-solid fa-fire"></i> ${questions.length}`;
     
-    updateProgressBar(); // <-- update progress bar here
+    updateProgressBar();
 
     currentQuestionIndex = getRandomIndex();
     
@@ -115,13 +116,30 @@ function showQuestion() {
     questionDiv.innerHTML = `
         <p class="question">${questionData.question}</p>
         <div class="choices">
-            ${shuffledChoices.map(choice => `
-                <button onclick="checkAnswer(this, '${choice}', '${questionData.answer}')">${choice}</button>
+            ${shuffledChoices.map((choice, idx) => `
+                <button data-choice-idx="${idx}" onclick="checkAnswer(this, '${choice}', '${questionData.answer}')">${choice}</button>
             `).join("")}
         </div>
     `;
     
     quizContainer.appendChild(questionDiv);
+
+    // Add keyboard support
+    document.onkeydown = function(e) {
+        const keyMap = { 'a': 0, 'b': 1, 'c': 2, 'd': 3 };
+        const pressed = e.key.toLowerCase();
+        if (keyMap.hasOwnProperty(pressed)) {
+            const buttons = document.querySelectorAll(".choices button");
+            const idx = keyMap[pressed];
+            if (buttons[idx] && !buttons[idx].disabled) {
+                buttons[idx].click();
+            }
+        }
+        // Restart quiz on 'r' key
+        if (pressed === 'r') {
+            startQuiz();
+        }
+    };
 }
 
 function checkAnswer(button, selectedChoice, correctAnswer) {
