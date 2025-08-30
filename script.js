@@ -80,7 +80,13 @@ function getRandomIndex() {
 }
 
 function shuffleArray(array) {
-    return array.sort(() => Math.random() - 0.5);
+    // Fisher-Yates shuffle
+    let arr = array.slice();
+    for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
 }
 
 function updateProgressBar() {
@@ -107,21 +113,23 @@ function showQuestion() {
         quizContainer.innerHTML = `<h2>Perfect Score! 🎯</h2>`;
         return;
     }
-    
-    const questionData = questions[currentQuestionIndex];
-    const shuffledChoices = shuffleArray([...questionData.choices]);
-    
-    const questionDiv = document.createElement("div");
-    
     questionDiv.innerHTML = `
-        <p class="question">${questionData.question}</p>
-        <div class="choices">
-            ${shuffledChoices.map((choice, idx) => `
-                <button data-choice-idx="${idx}" onclick="checkAnswer(this, '${choice}', '${questionData.answer}')">${choice}</button>
-            `).join("")}
-        </div>
+        <p class="question"></p>
+        <div class="choices"></div>
     `;
-    
+    // Set question text safely
+    questionDiv.querySelector('.question').textContent = questionData.question;
+
+    const choicesDiv = questionDiv.querySelector('.choices');
+    shuffledChoices.forEach(choice => {
+        const btn = document.createElement('button');
+        btn.textContent = choice;
+        btn.addEventListener('click', function () {
+            checkAnswer(btn, choice, questionData.answer);
+        });
+        choicesDiv.appendChild(btn);
+    });
+
     quizContainer.appendChild(questionDiv);
 
     // Add keyboard support
