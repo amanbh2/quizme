@@ -153,6 +153,46 @@ function showQuestion() {
     };
 }
 
+function launchStarConfetti() {
+    const duration = 1.2 * 1000; // 1.2 seconds
+    const animationEnd = Date.now() + duration;
+
+    (function frame() {
+        // Random star bursts
+        confetti({
+            particleCount: 6,
+            angle: 60,
+            spread: 55,
+            origin: { x: 0 },
+            shapes: ['star'],
+        });
+        confetti({
+            particleCount: 6,
+            angle: 120,
+            spread: 55,
+            origin: { x: 1 },
+            shapes: ['star'],
+        });
+
+        if (Date.now() < animationEnd) {
+            requestAnimationFrame(frame);
+        }
+    }());
+}
+
+function launchTomatoSplash() {
+    confetti({
+        particleCount: 40,
+        spread: 90,
+        startVelocity: 40,
+        origin: { y: 0.6 }, // middle of screen
+        colors: ['#ff6347', '#e32636', '#ff4500'], // tomato shades
+        shapes: ['circle']
+    });
+}
+
+
+
 function checkAnswer(button, selectedChoice, correctAnswer) {
     const buttons = document.querySelectorAll(".choices button");
 
@@ -167,9 +207,14 @@ function checkAnswer(button, selectedChoice, correctAnswer) {
     });
 
     if (selectedChoice === correctAnswer.toString()) {
+        // 🎉 Star confetti on correct answer
+        launchStarConfetti();
         setTimeout(() => {
             showQuestion();
-        }, 1000);
+        }, 1500);
+    } else {
+        // 🍅 Tomato splash on wrong answer
+        launchTomatoSplash();
     }
 }
 
