@@ -293,7 +293,7 @@
             6327,
             6732,
             6237,
-            6732
+            6932
         ]
     },
     {
@@ -2889,7 +2889,7 @@
             "Gandak River, Bettiah (West Champaran)",
             "Ganga River, Bhagalpur",
             "Kosi River, Darbhanga",
-            "Sone River, Rohtas"
+            "Son River, Rohtas"
         ]
     },
     {
@@ -15902,7 +15902,7 @@
             "Photosynthesis by oceanic phytoplanktons",
             "Photosynthesis by forest plants",
             "photosynthesis by grassland ecosystem",
-            "photosynthesis be wtland algaes"
+            "photosynthesis be wetland algaes"
         ]
     },
     {
@@ -16381,9 +16381,9 @@
     {
         "sheet": "UnionEconomy",
         "question": "Which of the following offices or institutes releases data of the National Income in India?",
-        "answer": "Nationa Statistical Office (NSO)",
+        "answer": "National Statistical Office (NSO)",
         "choices": [
-            "Nationa Statistical Office (NSO)",
+            "National Statistical Office (NSO)",
             "National Sample Survey Office (NSSO)",
             "Central Statistical Office (CSO) ",
             "NITI Ayog"
@@ -16392,9 +16392,9 @@
     {
         "sheet": "UnionEconomy",
         "question": "Which organisation carries out the survey for determining the poverty line?",
-        "answer": "Nationa Statistical Office (NSO)",
+        "answer": "National Statistical Office (NSO)",
         "choices": [
-            "Nationa Statistical Office (NSO)",
+            "National Statistical Office (NSO)",
             "National Sample Survey Office (NSSO)",
             "Reserve Bank of India (RBI)",
             "NITI Ayog"
@@ -18097,9 +18097,9 @@
     {
         "sheet": "BiharSpecific",
         "question": "Which river enters into Ganga 10 kms away from Danapur near west Maner",
-        "answer": "Sone",
+        "answer": "Son",
         "choices": [
-            "Sone",
+            "Son",
             "Punpun",
             "Falgu",
             "Gandak"
@@ -20660,9 +20660,9 @@
     {
         "sheet": "BiharEconomy",
         "question": "What is the theme for the Bihar Green Development Fund?",
-        "answer": "Hari Bihar, Samriddh Bihar",
+        "answer": "Harit Bihar, Samriddh Bihar",
         "choices": [
-            "Hari Bihar, Samriddh Bihar",
+            "Harit Bihar, Samriddh Bihar",
             "Hamara Bihar, Harit Bihar",
             "Harit Vikas, Nishchit Vikas",
             "Apna Bihar, Harit Bihar"

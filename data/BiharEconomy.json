@@ -431,9 +431,9 @@
     {
         "sheet": "BiharEconomy",
         "question": "What is the theme for the Bihar Green Development Fund?",
-        "answer": "Hari Bihar, Samriddh Bihar",
+        "answer": "Harit Bihar, Samriddh Bihar",
         "choices": [
-            "Hari Bihar, Samriddh Bihar",
+            "Harit Bihar, Samriddh Bihar",
             "Hamara Bihar, Harit Bihar",
             "Harit Vikas, Nishchit Vikas",
             "Apna Bihar, Harit Bihar"

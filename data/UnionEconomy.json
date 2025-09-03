@@ -112,9 +112,9 @@
     {
         "sheet": "UnionEconomy",
         "question": "Which of the following offices or institutes releases data of the National Income in India?",
-        "answer": "Nationa Statistical Office (NSO)",
+        "answer": "National Statistical Office (NSO)",
         "choices": [
-            "Nationa Statistical Office (NSO)",
+            "National Statistical Office (NSO)",
             "National Sample Survey Office (NSSO)",
             "Central Statistical Office (CSO) ",
             "NITI Ayog"
@@ -123,9 +123,9 @@
     {
         "sheet": "UnionEconomy",
         "question": "Which organisation carries out the survey for determining the poverty line?",
-        "answer": "Nationa Statistical Office (NSO)",
+        "answer": "National Statistical Office (NSO)",
         "choices": [
-            "Nationa Statistical Office (NSO)",
+            "National Statistical Office (NSO)",
             "National Sample Survey Office (NSSO)",
             "Reserve Bank of India (RBI)",
             "NITI Ayog"
