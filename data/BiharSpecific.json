@@ -606,17 +606,6 @@
     },
     {
         "sheet": "BiharSpecific",
-        "question": "Bihar state is situated in the north of",
-        "answer": "Tropic of Cancer",
-        "choices": [
-            "Tropic of Cancer",
-            "Tropic of Capricon",
-            "Equator",
-            "Artic Circle"
-        ]
-    },
-    {
-        "sheet": "BiharSpecific",
         "question": "In which district of Bihar Dharwad period rocks are found",
         "answer": "All of these",
         "choices": [
@@ -2879,17 +2868,6 @@
             "Baraila Lake",
             "Ghogha Lake",
             "Kanwar Lake"
-        ]
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Gogra-Barhila wetland, a recognized Ramsar site, is situated in which district of Bihar?",
-        "answer": "Saran",
-        "choices": [
-            "Saran",
-            "Begusarai",
-            "Darbhanga",
-            "Vaishali"
         ]
     },
     {

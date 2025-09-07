@@ -9,6 +9,6 @@ Science: 124
 GeneralKnowledge: 21
 UnionEconomy: 47
 Census: 38
-BiharSpecific: 275
+BiharSpecific: 273
 BiharEconomy: 45
-Total Questions: 1884
+Total Questions: 1882

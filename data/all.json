@@ -5177,7 +5177,7 @@
             "Swami Dayanand Saraswati",
             "Swami Vivekanand",
             "Mahatma Gandhi",
-            "Swami Vivekanand"
+            "Ishwar Chandra Vidyasagar"
         ]
     },
     {
@@ -5248,7 +5248,7 @@
     },
     {
         "sheet": "HistoryModern",
-        "question": "Which of the following inscriptions mentions the instance of widow burining (Sati)?",
+        "question": "Which of the following inscriptions mentions the instance of widow burning (Sati)?",
         "answer": "Eran Pillar Inscription of Bhanugupta",
         "choices": [
             "Eran Pillar Inscription of Bhanugupta",
@@ -7063,7 +7063,7 @@
     },
     {
         "sheet": "HistoryModern",
-        "question": "In which Sesssion Indian National Congress passed Completed Independence (Purna Swaraj) resolution?",
+        "question": "In which Sesssion Indian National Congress passed Complete Independence (Purna Swaraj) resolution?",
         "answer": "1929 Lahore",
         "choices": [
             "1929 Lahore",
@@ -11254,7 +11254,7 @@
     },
     {
         "sheet": "HistoryMedieval",
-        "question": "Who among the following has constructed mausoleum for his emperoro husband?",
+        "question": "Who among the following has constructed mausoleum for his emperor husband?",
         "answer": "Haji Begum",
         "choices": [
             "Haji Begum",
@@ -16089,7 +16089,7 @@
             "Dr Vikram Sarabhai",
             "Dr Homi Bhabha",
             "DR APJ Abdul Kalam",
-            "Dr Satish Shawan"
+            "Dr Satish Dhawan"
         ]
     },
     {
@@ -17806,17 +17806,6 @@
             "Shri Jairam Daulatram",
             "Shri Rajendra Prasad",
             "Shri Arif Mohammad Khan"
-        ]
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Bihar state is situated in the north of",
-        "answer": "Tropic of Cancer",
-        "choices": [
-            "Tropic of Cancer",
-            "Tropic of Capricon",
-            "Equator",
-            "Artic Circle"
         ]
     },
     {
@@ -20083,17 +20072,6 @@
             "Baraila Lake",
             "Ghogha Lake",
             "Kanwar Lake"
-        ]
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Gogra-Barhila wetland, a recognized Ramsar site, is situated in which district of Bihar?",
-        "answer": "Saran",
-        "choices": [
-            "Saran",
-            "Begusarai",
-            "Darbhanga",
-            "Vaishali"
         ]
     },
     {
