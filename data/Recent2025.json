@@ -3584,5 +3584,49 @@
             "Lal Bahadur Shastri",
             "VK Krishna Menon"
         ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who has become the first female Prime Minister of Japan in October 2025?",
+        "answer": "Sanae Takaichi",
+        "choices": [
+            "Sanae Takaichi",
+            "Yuriko Koike",
+            "Seiko Noda",
+            "Seiko Hashimoto"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Sanae Takaichi belongs to which political party?",
+        "answer": "Liberal Democratic Party (LDP)",
+        "choices": [
+            "Liberal Democratic Party (LDP)",
+            "Constitutional Democratic Party (CDP)",
+            "Japan Innovation Party",
+            "New Komeito"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who did Sanae Takaichi succeed as the Prime Minister of Japan?",
+        "answer": "Shingeru Ishiba",
+        "choices": [
+            "Shingeru Ishiba",
+            "Fumio Kishida",
+            "Yoshihide Suga",
+            "Shinzo Abe"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which of the following statements about Sanae Takaichi is incorrect?",
+        "answer": "She replaced Emperor Naruhito as head of state.",
+        "choices": [
+            "She replaced Emperor Naruhito as head of state.",
+            "She is Japan’s first woman Prime Minister.",
+            "She previously served as Japan’s Defense Minister.",
+            "She belongs to the Liberal Democratic Party."
+        ]
     }
 ]

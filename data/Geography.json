@@ -24,12 +24,12 @@
     {
         "sheet": "Geography",
         "question": "How many latitudes are there on the globe drawn at 1 degree interval?",
-        "answer": 179,
+        "answer": 181,
         "choices": [
-            179,
+            181,
             180,
             360,
-            359
+            179
         ]
     },
     {

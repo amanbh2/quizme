@@ -2,10 +2,43 @@ let questions = [];
 let usedIndexes = new Set();
 let currentQuestionIndex = 0;
 let dataUrl = "data/all.json"; // Default
+let questionStats = JSON.parse(localStorage.getItem('questionStats')) || {};
+let lastVisitDate = localStorage.getItem('lastVisitDate');
 
 let availableSheets = [];
 
 document.addEventListener("DOMContentLoaded", function () {
+    // Initialize settings panel
+    const settingsBtn = document.getElementById('settings-btn');
+    const settingsPanel = document.getElementById('settings-panel');
+    const overlay = document.querySelector('.overlay');
+    const closeSettings = document.querySelector('.close-settings');
+    const resetStatsBtn = document.getElementById('reset-stats');
+
+    settingsBtn.addEventListener('click', () => {
+        settingsPanel.classList.add('show');
+        overlay.classList.add('show');
+        updateStats();
+    });
+
+    closeSettings.addEventListener('click', () => {
+        settingsPanel.classList.remove('show');
+        overlay.classList.remove('show');
+    });
+
+    overlay.addEventListener('click', () => {
+        settingsPanel.classList.remove('show');
+        overlay.classList.remove('show');
+    });
+
+    resetStatsBtn.addEventListener('click', () => {
+        if (confirm('Are you sure you want to reset all statistics? This cannot be undone.')) {
+            localStorage.clear();
+            questionStats = {};
+            updateStats();
+        }
+    });
+
     fetch("control/manifest.json")
         .then(res => res.json())
         .then(sheets => {
@@ -153,20 +186,54 @@ function showQuestion() {
     };
 }
 
+function updateStats() {
+    const totalAttempts = Object.values(questionStats).reduce((sum, stat) => sum + stat.attempts, 0);
+    const totalCorrect = Object.values(questionStats).reduce((sum, stat) => sum + stat.correct, 0);
+    const successRate = totalAttempts ? Math.round((totalCorrect / totalAttempts) * 100) : 0;
+
+    document.getElementById('total-attempts').textContent = totalAttempts;
+    document.getElementById('total-correct').textContent = totalCorrect;
+    document.getElementById('success-rate').textContent = successRate + '%';
+}
+
+// Function to update last visited date
+function updateLastVisitedDate() {
+    const lastVisitedDateElement = document.getElementById('last-visited-date');
+    const currentDate = new Date().toLocaleDateString();
+    lastVisitedDateElement.textContent = currentDate;
+}
+
+// Call the function to set the last visited date on page load
+window.onload = updateLastVisitedDate;
+
 function checkAnswer(button, selectedChoice, correctAnswer) {
     const buttons = document.querySelectorAll(".choices button");
+    const isCorrect = selectedChoice === correctAnswer.toString();
+
+    // Track statistics
+    if (!questionStats[currentQuestionIndex]) {
+        questionStats[currentQuestionIndex] = { attempts: 0, correct: 0 };
+    }
+    questionStats[currentQuestionIndex].attempts++;
+    if (isCorrect) {
+        questionStats[currentQuestionIndex].correct++;
+    }
+    
+    // Save to localStorage
+    localStorage.setItem('questionStats', JSON.stringify(questionStats));
+    localStorage.setItem('lastVisitDate', new Date().toDateString());
 
     buttons.forEach(btn => {
         if (btn.innerText === correctAnswer.toString()) {
             btn.classList.add("correct");
         }
-        if (btn.innerText === selectedChoice && selectedChoice !== correctAnswer.toString()) {
+        if (btn.innerText === selectedChoice && !isCorrect) {
             btn.classList.add("wrong");
         }
         btn.disabled = true;
     });
 
-    if (selectedChoice === correctAnswer.toString()) {
+    if (isCorrect) {
         setTimeout(() => {
             showQuestion();
         }, 1000);

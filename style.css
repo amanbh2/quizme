@@ -336,3 +336,105 @@ a {
         margin: 15px 0;
     }
 }
+
+/* Settings Panel Styles */
+#settings-panel {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(26, 22, 37, 0.95);
+    padding: 20px;
+    border-radius: 12px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(124, 58, 237, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(124, 58, 237, 0.2);
+    z-index: 1000;
+    display: none;
+    min-width: 300px;
+}
+
+#settings-panel.show {
+    display: block;
+    animation: fadeIn 0.3s ease;
+}
+
+.settings-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(124, 58, 237, 0.2);
+}
+
+.settings-header h2 {
+    color: var(--text-color);
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.close-settings {
+    background: none;
+    border: none;
+    color: var(--text-color);
+    cursor: pointer;
+    font-size: 1.2em;
+}
+
+.settings-content button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    background: rgba(124, 58, 237, 0.1);
+    border: 1px solid rgba(124, 58, 237, 0.2);
+    color: var(--text-color);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.settings-content button:hover {
+    background: rgba(124, 58, 237, 0.2);
+}
+
+.stats-container {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    background: rgba(124, 58, 237, 0.05);
+}
+
+.stat-item {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+    color: var(--text-color);
+    font-size: 0.9em;
+}
+
+/* Overlay */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(3px);
+    z-index: 999;
+    display: none;
+}
+
+.overlay.show {
+    display: block;
+}
+
+#settings-btn {
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+#settings-btn:hover {
+    color: var(--primary-color);
+}
