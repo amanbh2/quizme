@@ -4621,17 +4621,6 @@
     },
     {
         "sheet": "HistoryModern",
-        "question": "When were the rights of the tenants on land in Bengal and Bihar recognised by the Bengal Tenancy Act",
-        "answer": 1885,
-        "choices": [
-            1885,
-            1968,
-            1881,
-            1893
-        ]
-    },
-    {
-        "sheet": "HistoryModern",
         "question": "Which Act provisioned competitive exam system for Civil Services?",
         "answer": 1853,
         "choices": [
@@ -5288,6 +5277,347 @@
             "Shikhars",
             "Devalayas",
             "Mandaps"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Name the Mughal emperor who was proclaimed the Shahenshah-e-Hindustan by the rebels of 1857",
+        "answer": "Bhadur Shah Zafar",
+        "choices": [
+            "Bhadur Shah Zafar",
+            "Bahadur Shah I",
+            "Ahmad Shah Bahadur",
+            "Akbar Shah II"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Name the political agent in Delhi who was killed by mutinying sepoys in the revolt of 1857",
+        "answer": "Simon Fraser",
+        "choices": [
+            "Simon Fraser",
+            "William Fraser",
+            "John Nicholson",
+            "Major Charlie Burton"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which region of India was least affected by the revolt of 1857?",
+        "answer": "South India",
+        "choices": [
+            "South India",
+            "North India",
+            "Western India",
+            "Central India"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Mangal Pandey belonged to which regiment before his execution?",
+        "answer": "34th Native Infantry",
+        "choices": [
+            "34th Native Infantry",
+            "24th Native Infantry",
+            "19th Native Infantry",
+            "7th Native Infantry"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of Bankim Chandra Chattopadhyay's novels is set against the backdrop of the Sanyasi Rebellion and the Great Bengal Famine of 1770?",
+        "answer": "Anandamath",
+        "choices": [
+            "Anandamath",
+            "Durgeshnandini",
+            "Krishnakanter Will",
+            "Kapalkundala"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Sanyasi Rebellion took place during which period?",
+        "answer": "1763-1800",
+        "choices": [
+            "1763-1800",
+            "1757-1764",
+            "1800-1820",
+            "1857-1858"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Sanyasi Rebellion primarily broke out in which region of India?",
+        "answer": "Bengal and Bihar",
+        "choices": [
+            "Bengal and Bihar",
+            "Awadh",
+            "Deccan",
+            "Punjab"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following was associated with the Sanyasi Rebellion as a woman leader?",
+        "answer": "Devi Chaudhurani",
+        "choices": [
+            "Devi Chaudhurani",
+            "Rani Durgavati",
+            "Rani Lakshmibai",
+            "Rani Chennamma"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Chuar Uprising primarily took place in which region of India?",
+        "answer": "Jungle Mahal region of Bengal",
+        "choices": [
+            "Jungle Mahal region of Bengal",
+            "Chota Nagpur Plateau",
+            "Malabar Coast",
+            "North-East India"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Chuar Uprising began in which year?",
+        "answer": 1766,
+        "choices": [
+            1766,
+            1770,
+            1793,
+            1757
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following women leaders was associated with the Chuar Uprising?",
+        "answer": "Rani Shiromani of Karnagarh",
+        "choices": [
+            "Rani Shiromani of Karnagarh",
+            "Devi Chaudhurani",
+            "Rani Lakshmibai",
+            "Rani Chennamma"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Bhil Uprising mainly took place in which part of India?",
+        "answer": "Satpura and Western Ghats region",
+        "choices": [
+            "Satpura and Western Ghats region",
+            "Chota Nagpur Plateau",
+            "Aravalli Ranges",
+            "Jungle Mahal region of Bengal"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Santhal Hool began from which village?",
+        "answer": "Bhognadih",
+        "choices": [
+            "Bhognadih",
+            "Raipur",
+            "Karnagarh",
+            "Dhadka"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who were the women leaders associated with the Santhal Hool?",
+        "answer": "Phulo and Jhano Murmu",
+        "choices": [
+            "Phulo and Jhano Murmu",
+            "Rani Shiromani and Devi Chaudhurani",
+            "Lakshmibai and Rani Chennamma",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The region known in colonial records as Damin-i-Koh, created by the British for the settlement of the Santhals, is geographically part of which of the following hills?",
+        "answer": "Rajmahal Hills",
+        "choices": [
+            "Rajmahal Hills",
+            "Aravalli Range",
+            "Garo Hills",
+            "Nilgiri Hills"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which Act was passed as a result of the Munda Rebellion?",
+        "answer": "Chotanagpur Tenancy Act 1908",
+        "choices": [
+            "Chotanagpur Tenancy Act 1908",
+            "Bengal Tenancy Act 1885",
+            "Santhal Pargana Act 1856",
+            "Scheduled Tribes Act 1950"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Indigo Revolt took place in",
+        "answer": "1859-60",
+        "choices": [
+            "1859-60",
+            "1855-56",
+            "1857-58",
+            "1862-63"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Indigo Revolt started from which village",
+        "answer": "Govindpur, Nadia",
+        "choices": [
+            "Govindpur, Nadia",
+            "Champaran",
+            "Pabna",
+            "Birbhum"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who were the main leaders of the Indigo Revolt?",
+        "answer": "Digambar Biswas and Bishnu Biswas",
+        "choices": [
+            "Digambar Biswas and Bishnu Biswas",
+            "Sidhu and Kanhu Murmu",
+            "Birsa Munda and Gaya Munda",
+            "Tilka Manjhi and Bhavani Pathak"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which play exposed the exploitation of indigo planters?",
+        "answer": "Neel Darpan",
+        "choices": [
+            "Neel Darpan",
+            "Anandamath",
+            "Nilgiri Hills",
+            "Bharat Durdasha"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Indigo Commission was appointed in",
+        "answer": 1860,
+        "choices": [
+            1860,
+            1857,
+            1862,
+            1875
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Indigo Revolt was supported by which Bengali newspaper?",
+        "answer": "Hindoo Patriot",
+        "choices": [
+            "Hindoo Patriot",
+            "The Statesman",
+            "Amrit Bazar Patrika",
+            "Bangadarshan"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who was the editor of Hindoo Patriot?",
+        "answer": "Harish Chandra Mukherjee",
+        "choices": [
+            "Harish Chandra Mukherjee",
+            "Shishir Kumar Ghose",
+            "S N Banerjee",
+            "Girish Chandra Ghose"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Bengal Tenancy Act was enacted during the viceroyalty of",
+        "answer": "George Frederick - Ripon",
+        "choices": [
+            "George Frederick - Ripon",
+            "Charles Canning",
+            "Robert Bulwer - Lytton",
+            "George Curzon"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following movements influenced the Bengal Tenancy Act?",
+        "answer": "Pabna Agrarian Revolt",
+        "choices": [
+            "Pabna Agrarian Revolt",
+            "Santhal Rebellion",
+            "Indigo Revolt",
+            "Munda Ulgulan"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "According to the Bengal Tenancy Act, a cultivator obtained occupancy right after cultivating land continuously for",
+        "answer": "12 years",
+        "choices": [
+            "12 years",
+            "15 years",
+            "20 years",
+            "10 years"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Pabna Agrarian Revolt took place during the viceroyalty of",
+        "answer": "Northbrook",
+        "choices": [
+            "Northbrook",
+            "Canning",
+            "Lytton",
+            "Ripon"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Pabna Revolt was mainly against",
+        "answer": "Zamindars",
+        "choices": [
+            "Zamindars",
+            "European Planters",
+            "Moneylenders",
+            "Colonial Government"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which political organisation is associated with the Pabna Revolt?",
+        "answer": "Indian Association",
+        "choices": [
+            "Indian Association",
+            "Indian National Congress",
+            "Bengal Presidency Association",
+            "British Indian Association"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Pabna Revolt led to passage of which Act?",
+        "answer": "Bengal Tenancy Act, 1885",
+        "choices": [
+            "Bengal Tenancy Act, 1885",
+            "Permanent Settlement Act",
+            "Rent Act, 1859",
+            "Ryotwari Settlement Act"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Deccan Riots of 1875 began in which region?",
+        "answer": "Poona (Pune) and Ahmednagar (Ahilyanagar)",
+        "choices": [
+            "Poona (Pune) and Ahmednagar (Ahilyanagar)",
+            "Bengal Presidency",
+            "Awadh Region",
+            "Madras Presidency"
         ]
     }
 ]

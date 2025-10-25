@@ -229,5 +229,38 @@
             "The Republic",
             "The Social Contract"
         ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Who wrote our national song Vade Mataram?",
+        "answer": "Bankim Chandra Chattopadhyay",
+        "choices": [
+            "Bankim Chandra Chattopadhyay",
+            "Aurobindo Ghose",
+            "Rabindranath Thakur",
+            "Satyendranath Thakur"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Who wrote our National Anthem?",
+        "answer": "Rabindranath Thakur",
+        "choices": [
+            "Rabindranath Thakur",
+            "Aurobindo Ghose",
+            "Bankim Chandra Chattopadhyay",
+            "Satyendranath Thakur"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which of Bankim Chandra Chattopadhyay's novels contains original version of our National Song - Vande Mataram?",
+        "answer": "Anandamath",
+        "choices": [
+            "Anandamath",
+            "Durgeshnandini",
+            "Krishnakanter Will",
+            "Kapalkundala"
+        ]
     }
 ]
