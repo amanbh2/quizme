@@ -1692,5 +1692,49 @@
             "Charaka",
             "Dhanvantari"
         ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which one of the following is not related to the Rigvedic period?",
+        "answer": "Gargi",
+        "choices": [
+            "Gargi",
+            "Ghosha",
+            "Apala",
+            "Vishvavara"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which one of the following is not written by Tulsidas?",
+        "answer": "Sahitya Lahari",
+        "choices": [
+            "Sahitya Lahari",
+            "Vinay Patrika",
+            "Geetavali",
+            "Kavitavali"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which Buddisht council was not held in Bihar?",
+        "answer": "Fourth",
+        "choices": [
+            "Fourth",
+            "Third",
+            "First",
+            "Second"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who among the following was not an Acharya in the Nalanda Vishvavidyalaya?",
+        "answer": "Kautilya",
+        "choices": [
+            "Kautilya",
+            "Nagarjun",
+            "Sheelbhadra",
+            "Shantirakshit"
+        ]
     }
 ]

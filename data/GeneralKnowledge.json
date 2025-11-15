@@ -262,5 +262,49 @@
             "Krishnakanter Will",
             "Kapalkundala"
         ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Bhutan adopted its first written Constitution in the year",
+        "answer": 2008,
+        "choices": [
+            2008,
+            2005,
+            2006,
+            2010
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "The Head of State of Bhutan is known as",
+        "answer": "Druk Gyalpo",
+        "choices": [
+            "Druk Gyalpo",
+            "Druk Desi",
+            "Gyalpo Khesar",
+            "Gups"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Who was the first King (Druk Gyalpo) of Bhutan?",
+        "answer": "Ugyen Wangchuck",
+        "choices": [
+            "Ugyen Wangchuck",
+            "Jigme Singye Wangchuck",
+            "Jigme Dorji Wangchuck",
+            "Jigme Khesar Namgyel Wangchuck"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "How many Indian Languages are accorded the satus of Classical Language?",
+        "answer": "Eleven",
+        "choices": [
+            "Eleven",
+            "Six",
+            "Ten",
+            "Nine"
+        ]
     }
 ]

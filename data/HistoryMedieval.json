@@ -1241,5 +1241,16 @@
             "Haridas",
             "Todarmal"
         ]
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Who among the following rulers, ruled for the maximum period?",
+        "answer": "Bahlul Khan Lodi",
+        "choices": [
+            "Bahlul Khan Lodi",
+            "Muhammad Bin Tughlaq",
+            "Balban",
+            "Alauddin Khalji"
+        ]
     }
 ]

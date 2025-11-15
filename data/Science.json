@@ -1362,5 +1362,335 @@
             "Zika",
             "Dengue"
         ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Energy consumed in a home is 250 units then the total energy in Joule will be",
+        "answer": "9x10^8 J",
+        "choices": [
+            "9x10^8 J",
+            "8x10^6 J",
+            "9x10^5 J",
+            "10^5 J"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "In which medium, the speed of sound is maximum?",
+        "answer": "Steel",
+        "choices": [
+            "Steel",
+            "Water",
+            "Air",
+            "Hydrogen"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A truck starts from rest down a hill with a constant acceleration. It achieves 400 meters in 20 seconds. If the mass of the truck is 7 tons then what will be the force acting on it?",
+        "answer": "14000 N",
+        "choices": [
+            "14000 N",
+            "13000 N",
+            "11000 N",
+            "12000 N"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "We apply a force of 200 Newton on a wooden Box and push it on the floor at constant velocity. The marginal friction force will be",
+        "answer": "200 N",
+        "choices": [
+            "200 N",
+            "100 N",
+            "300 N",
+            "400 N"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The potential energy of a freely falling body continuously decreases",
+        "answer": "The principle of conservation of energy is not violated",
+        "choices": [
+            "The principle of conservation of energy is not violated",
+            "The principle of conservation of energy is violated",
+            "Gravitational force is violated",
+            "Gravitational force is not violated"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A pair of Oxen exerts a force of 140 N while ploughing the field. The field ploughed is 15m long. The work done in ploughing the length of the field is",
+        "answer": "2100 Joule",
+        "choices": [
+            "2100 Joule",
+            "1900 Joule",
+            "2200 Joule",
+            "2000 Joule"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The focal length of a plane mirror is",
+        "answer": "infinity",
+        "choices": [
+            "infinity",
+            "minus 1cm",
+            "plus 1cm",
+            "2cm"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which term in the following does not denote the electric power in electric circuit?",
+        "answer": "IR^2",
+        "choices": [
+            "IR^2",
+            "I^2R",
+            "VI",
+            "V^2/R"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the device to protect equipments from the electric shock?",
+        "answer": "Fuse",
+        "choices": [
+            "Fuse",
+            "Generator",
+            "Motor",
+            "Current Controller"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "pH value of 0.1 N HCL solution is approximately",
+        "answer": 1,
+        "choices": [
+            1,
+            11,
+            10,
+            2
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which compound is known as night glowing pigment from below?",
+        "answer": "Europium dopped strontium aluminate",
+        "choices": [
+            "Europium dopped strontium aluminate",
+            "Copper Sulphide dopped zinc oxide",
+            "Barium sulphate dopped copper carbonate",
+            "Boron oxide dopped copper sulphate"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which material is used for smart film?",
+        "answer": "Indium Tin Oxide",
+        "choices": [
+            "Indium Tin Oxide",
+            "Calcium Carbonate",
+            "Zinc Chloride",
+            "Silica"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which metal compound is used for treatment of carcinoma?",
+        "answer": "Platinum",
+        "choices": [
+            "Platinum",
+            "Chromium",
+            "Iron",
+            "Chlorine"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which compound is used in contraceptive pills?",
+        "answer": "Levonorgestrel",
+        "choices": [
+            "Levonorgestrel",
+            "Cholecalciferol",
+            "Vanlaflexine",
+            "Cetrizine"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Why oil is not stored in a galvanised iron pot?",
+        "answer": "All of these",
+        "choices": [
+            "All of these",
+            "It produce toxic compound",
+            "it reduces quality of oil",
+            "it cause corrosion"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which compound is used to increase octane rating?",
+        "answer": "Tetraethyllead (TEL)",
+        "choices": [
+            "Tetraethyllead (TEL)",
+            "Tetramethyl Oxide",
+            "Trimethyl Hexane",
+            "Triethyl Toluene"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Full form of PHBV biodegradable polymer",
+        "answer": "Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)",
+        "choices": [
+            "Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)",
+            "Poly hydroxy butane veratric acid",
+            "Polyhydroxy butyl vaniline",
+            "Poly hydroxy butyric acid veratric acid"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Hormones are secreted by",
+        "answer": "Endocrine glands",
+        "choices": [
+            "Endocrine glands",
+            "Exocrine glands",
+            "Sebaceous glands",
+            "Reproductive glands"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which one of the following term characterises the interaction between herpes simplex virus and a human?",
+        "answer": "Endoparasitims",
+        "choices": [
+            "Endoparasitims",
+            "Symbiosis",
+            "Parasitism",
+            "Endosymbiosis"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which class of immunoglobulin is the first to be produced in response to an infection?",
+        "answer": "IgM",
+        "choices": [
+            "IgM",
+            "IgA",
+            "IgE",
+            "IgG"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The biological membranes are composed of",
+        "answer": "Lipids and proteins in varying combinations which are specific to each species, cell type and organelle",
+        "choices": [
+            "Lipids and proteins in varying combinations which are specific to each species, cell type and organelle",
+            "Lipids only",
+            "Protein only",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is a non-sense codon?",
+        "answer": "UAA",
+        "choices": [
+            "UAA",
+            "AUG",
+            "UUU",
+            "UGC"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The species which are in danger of exitinction are known as?",
+        "answer": "Endangered",
+        "choices": [
+            "Endangered",
+            "Rare",
+            "Vulnerable",
+            "Extinct"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is a Kharif crop?",
+        "answer": "Sugarcane",
+        "choices": [
+            "Sugarcane",
+            "Barley",
+            "Gram",
+            "Wheat"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Xylem in plants is responsible for following function",
+        "answer": "Transport of water and dissolved minerals",
+        "choices": [
+            "Transport of water and dissolved minerals",
+            "Transport of foods",
+            "Transport of oxygen and other gases",
+            "Transport of essential amino acids"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Who was the first to use the characteristics of vascular tissues in the classification of plants?",
+        "answer": "A P de Candolle",
+        "choices": [
+            "A P de Candolle",
+            "Engler and Prantl",
+            "Bentham and Hooker",
+            "More than one are correct"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The part which we eat in Mango is",
+        "answer": "Mesocarp",
+        "choices": [
+            "Mesocarp",
+            "Epicarp",
+            "Endocarp",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Ozone day is celebrated on",
+        "answer": "16th September",
+        "choices": [
+            "16th September",
+            "5th June",
+            "21st April",
+            "5th December"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "In mycorrhizal association, the advantage of plant is",
+        "answer": "Increased mineral absorption and diseases protection",
+        "choices": [
+            "Increased mineral absorption and diseases protection",
+            "Protection",
+            "Food",
+            "Water"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the primary objective of the LunarTrailblazer mission?",
+        "answer": "To detect and map water on the Moon's surface",
+        "choices": [
+            "To detect and map water on the Moon's surface",
+            "To create a 3D model of the entire Moon",
+            "To test new lunar rovers",
+            "to orbit around Moon"
+        ]
     }
 ]

@@ -1343,7 +1343,7 @@
     },
     {
         "sheet": "HistoryModern",
-        "question": "Who founded the Amrit Bazar Patrika?",
+        "question": "Who founded the Amrita Bazar Patrika?",
         "answer": "Shishir Kumar Ghose",
         "choices": [
             "Shishir Kumar Ghose",
@@ -5618,6 +5618,204 @@
             "Bengal Presidency",
             "Awadh Region",
             "Madras Presidency"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Deccan Agriculturists’ Relief Act was enacted in which year?",
+        "answer": 1879,
+        "choices": [
+            1879,
+            1875,
+            1877,
+            1881
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The first session of Indian National Congress was presided over by",
+        "answer": "Womesh Chunder Bonnerjee",
+        "choices": [
+            "Womesh Chunder Bonnerjee",
+            "Dadabhai Naoroji",
+            "Gopal Krishna Gokhale",
+            "Pherozeshah Mehta"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The original venue planned for the first INC session was Poona, but it was shifted to Bombay because of",
+        "answer": "Cholera outbreak in Poona",
+        "choices": [
+            "Cholera outbreak in Poona",
+            "Political restrictions by British officials",
+            "Lack of accomodation",
+            "Rail strike"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which Viceroy of India is associated with the founding of INC",
+        "answer": "Dufferin",
+        "choices": [
+            "Dufferin",
+            "Ripon",
+            "Lytton",
+            "Curzon"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The early phase of the Indian National Congress (1885–1905) is known as",
+        "answer": "Moderate Phase",
+        "choices": [
+            "Moderate Phase",
+            "Revolutionary Phase",
+            "Extremist Phase",
+            "Swarajist Phase"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following was not a founder of the Madras Mahajan Sabha?",
+        "answer": "Surendranath Banerjee",
+        "choices": [
+            "Surendranath Banerjee",
+            "G. Subramania Iyer",
+            "M. Veeraraghavachari",
+            "P. Ananda Charlu"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which newspaper was closely linked to the founders of the Madras Mahajan Sabha?",
+        "answer": "The Hindu",
+        "choices": [
+            "The Hindu",
+            "Amrita Bazar Patrika",
+            "Indian Mirror",
+            "The Leader"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Ilbert Bill was introduced during the viceroyalty of",
+        "answer": "Ripon",
+        "choices": [
+            "Ripon",
+            "Lytton",
+            "Curzon",
+            "Dufferin"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which Indian leader for the first time used the Safety-valve theory to attack the Moderates in the Congress?",
+        "answer": "Lala Lajpat Rai",
+        "choices": [
+            "Lala Lajpat Rai",
+            "Bipin Chandra Pal",
+            "Bal Gangadhar Tilak",
+            "Dadabhai Naoroji"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "At which Viceroy was a bomb thrown on the occasion of his state entry into Delhi?",
+        "answer": "Hardinge",
+        "choices": [
+            "Hardinge",
+            "Minto",
+            "Curzon",
+            "Wavell"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who got an opportunity to become Professor of Indian Philosophy in the University of California in 1911?",
+        "answer": "Har Dayal",
+        "choices": [
+            "Har Dayal",
+            "Virendranath Chattopadhyay",
+            "Sohan Singh Bhakna",
+            "Shyamji Krishna Varma"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Name the Principal of MAO College Aligarh who encouraged Muslim Communalism in the last decades of the 19th Century?",
+        "answer": "Theodore Beck",
+        "choices": [
+            "Theodore Beck",
+            "Minto",
+            "Dunlop Smith",
+            "William Morris"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Young India, a Nationalist paper, was started by",
+        "answer": "Mahatma Gandhi",
+        "choices": [
+            "Mahatma Gandhi",
+            "Annie Besant",
+            "Bal Gangadhar Tilak",
+            "Lala Lajpat Rai"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which Commission accentuated the discontent in all the political groups and parties for not associating any Indian member in it?",
+        "answer": "Simon Commission",
+        "choices": [
+            "Simon Commission",
+            "Cripps Mission",
+            "Welby Commission",
+            "Cabinet Commission"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who assumed the command of the Indian National Army and gave famous battle cry, Chalo Delhi?",
+        "answer": "Subhash Chandra Bose",
+        "choices": [
+            "Subhash Chandra Bose",
+            "Mohan Singh",
+            "Rash Behari Bose",
+            "Shah Nawaz Khan"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "We shall either free India or die in the attempt, who said it",
+        "answer": "Mahatma Gandhi",
+        "choices": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Abul Kalam Azad",
+            "VD Savarkar"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who raised the cry Divide and Quit?",
+        "answer": "M A Jinnah",
+        "choices": [
+            "M A Jinnah",
+            "M A Ansari",
+            "Jawaharlal Nehru",
+            "Muhammad Iqbal"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which Act provided for the partition of India in two new dominions - India and Pakistan",
+        "answer": "Indian Independence Act, 1947",
+        "choices": [
+            "Indian Independence Act, 1947",
+            "Government of India Act 1919",
+            "Government of India Act 1935",
+            "None of these"
         ]
     }
 ]

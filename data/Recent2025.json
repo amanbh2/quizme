@@ -3323,7 +3323,7 @@
     },
     {
         "sheet": "Recent2025",
-        "question": "Which country is scheduled to host the 47th ASEAN Summit in October 2025?",
+        "question": "The 2025 ASEAN Summit was hosted by which country?",
         "answer": "Malaysia",
         "choices": [
             "Malaysia",
@@ -3334,24 +3334,13 @@
     },
     {
         "sheet": "Recent2025",
-        "question": "What was the theme of the 46th ASEAN Summit held in Kuala Lumpur in May 2025?",
+        "question": "What was the theme of the 2025 ASEAN Summit held in Kuala Lumpur, Malaysia?",
         "answer": "Inclusivity and Sustainability",
         "choices": [
             "Inclusivity and Sustainability",
             "Digital Transformation",
             "Maritime Security",
             "Economic Integration"
-        ]
-    },
-    {
-        "sheet": "Recent2025",
-        "question": "What is the theme of the 47th ASEAN Summit (2025) in Kuala Lumpur?",
-        "answer": "ASEAN: Catalyzing Innovation and Sustainability for a Resilient Future",
-        "choices": [
-            "ASEAN: Catalyzing Innovation and Sustainability for a Resilient Future",
-            "ASEAN: Driving Economic Integration and Connectivity",
-            "ASEAN: Strengthening Maritime Security and Cooperation",
-            "ASEAN: Promoting Cultural Heritage and Tourism"
         ]
     },
     {
@@ -3627,6 +3616,193 @@
             "She is Japan’s first woman Prime Minister.",
             "She previously served as Japan’s Defense Minister.",
             "She belongs to the Liberal Democratic Party."
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which country was officially admitted as the 11th member of ASEAN in 2025?",
+        "answer": "Timor-Leste (East Timor)",
+        "choices": [
+            "Timor-Leste (East Timor)",
+            "Papua New Guinea",
+            "Bhutan",
+            "Mongolia"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which Indian city was recently designated as a UNESCO Creative City of Gastronomy on World Cities Day 2025?",
+        "answer": "Lucknow",
+        "choices": [
+            "Lucknow",
+            "Jaipur",
+            "Hyderabad",
+            "Indore"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The 2025 ICC Women’s Cricket World Cup was co-hosted by which two countries?",
+        "answer": "India & Sri Lanka",
+        "choices": [
+            "India & Sri Lanka",
+            "India & Bangladesh",
+            "India & Pakistan",
+            "Sri Lanka & Bangladesh"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which city hosted the final match of the 2025 ICC Women’s Cricket World Cup?",
+        "answer": "Navi Mumbai",
+        "choices": [
+            "Navi Mumbai",
+            "Bengaluru",
+            "Colombo",
+            "Ahmedabad"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "India won the 2025 ICC Women’s Cricket World Cup by defeating which team in the final?",
+        "answer": "South Africa",
+        "choices": [
+            "South Africa",
+            "Australia",
+            "England",
+            "New Zealand"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "India’s captain during the 2025 Women’s World Cup was",
+        "answer": "Harmanpreet Kaur",
+        "choices": [
+            "Harmanpreet Kaur",
+            "Smriti Mandhana",
+            "Deepti Sharma",
+            "Shafali Verma"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "How many teams participated in the 2025 Women’s Cricket World Cup?",
+        "answer": "Eight",
+        "choices": [
+            "Eight",
+            "Nine",
+            "Ten",
+            "Seven"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The 2025 Women’s World Cup is the ___ edition of the ICC Women’s Cricket World Cup.",
+        "answer": "13th",
+        "choices": [
+            "13th",
+            "11th",
+            "12th",
+            "14th"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The communication satellite CMS-03 launched by ISRO in November 2025 has a launch mass of approx",
+        "answer": "4410 kg",
+        "choices": [
+            "4410 kg",
+            "3100 kg",
+            "5850 kg",
+            "6000 kg"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The CMS-03 satellite was launched by which launch vehicle?",
+        "answer": "GSLV-Mk III-M5 (LVM3-M5)",
+        "choices": [
+            "GSLV-Mk III-M5 (LVM3-M5)",
+            "PSLV-C58",
+            "GSLV-Mk II-F14",
+            "SSLV-D3"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The CMS-03 satellite is also known by which other name?",
+        "answer": "GSAT-7R",
+        "choices": [
+            "GSAT-7R",
+            "GSAT-29",
+            "GSAT-11",
+            "INSAT-4A"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The LVM3 launch vehicle used for CMS-03 is nicknamed",
+        "answer": "Bahubali",
+        "choices": [
+            "Bahubali",
+            "Agni Putra",
+            "Aryabhata",
+            "Vikram-Lift"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The Punatsangchhu-II Hydroelectric Project, inaugurated during Modi’s 2025 visit to Bhutan, has a total capacity of",
+        "answer": "1020 MW",
+        "choices": [
+            "1020 MW",
+            "520 MW",
+            "720 MW",
+            "1420 MW"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The 30th Conference of Parties (COP30) to the UNFCCC is scheduled to be held in",
+        "answer": "Belem, Brazil",
+        "choices": [
+            "Belem, Brazil",
+            "New York, USA",
+            "Paris, France",
+            "Nairobi, Kenya"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which major international agreement provides the framework for COP meetings?",
+        "answer": "Paris Agreement 2015",
+        "choices": [
+            "Paris Agreement 2015",
+            "Montreal Protocol",
+            "Kyoto Protocol 1997",
+            "Rio+20 Declration"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The present King of Bhutan (as of 2025) is",
+        "answer": "Jigme Khesar Namgyel Wangchuck",
+        "choices": [
+            "Jigme Khesar Namgyel Wangchuck",
+            "Jigme Singye Wangchuck",
+            "Jigme Dorji Wangchuck",
+            "Ugyen Wangchuck"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The fourth King of Bhutan, who voluntarily abdicated in 2006 in favor of his son, is",
+        "answer": "Jigme Singye Wangchuck",
+        "choices": [
+            "Jigme Singye Wangchuck",
+            "Jigme Khesar Namgyel Wangchuck",
+            "Jigme Dorji Wangchuck",
+            "Ugyen Wangchuck"
         ]
     }
 ]

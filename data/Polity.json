@@ -2286,5 +2286,82 @@
             "Abolition of Untouchability",
             "Protection of Animal Rights"
         ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "The power to recruit the Secretarial staff of the House of the People is vested in",
+        "answer": "President after consultation with the speaker of the House of the people",
+        "choices": [
+            "President after consultation with the speaker of the House of the people",
+            "Union Public Service Commission",
+            "Prime Minister's Office",
+            "Staff Selection Commission"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Attorney General of India:",
+        "answer": "He gives advice to the President on legal matters",
+        "choices": [
+            "He gives advice to the President on legal matters",
+            "is not entitled of audience except the Supreme Court",
+            "cannot participate in the proceedings in the House of Parliament",
+            "is a whole time counsel for the government"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is true about the proceedings of the State Legislature?",
+        "answer": "Business in the legislature shall be transacted only in official language of the state or in Hindi or in English",
+        "choices": [
+            "Business in the legislature shall be transacted only in official language of the state or in Hindi or in English",
+            "Advocate General has right to vote",
+            "It can discuss the conduct of any judge of the High Court also",
+            "Validity of proceedings shall be called in question on the ground of any alleged irregularity"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who among the following determines the qualification which shall be requisite for appointment as member of the finance commission?",
+        "answer": "Parliament by act",
+        "choices": [
+            "Parliament by act",
+            "Council of Ministers",
+            "President of India",
+            "Union Cabinet"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who is empowered to review financial position of the Panchayats?",
+        "answer": "Finance Commission constituted by the Governor",
+        "choices": [
+            "Finance Commission constituted by the Governor",
+            "Chairman of Block Committee",
+            "Chief Minister",
+            "Chairman of District Council"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the main purpose of Panchayati Raj?",
+        "answer": "To enable people to participate in development administration",
+        "choices": [
+            "To enable people to participate in development administration",
+            "to increase employment",
+            "to increase agriculture production",
+            "to increase people's political awareness"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following subjects fall within the jurisdiction of both High Court and Supreme Court?",
+        "answer": "Protection of Fundamental Rights",
+        "choices": [
+            "Protection of Fundamental Rights",
+            "Dispute among States",
+            "Dispute between Centre and State",
+            "Protection from the violation of the constitution"
+        ]
     }
 ]

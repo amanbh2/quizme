@@ -3323,7 +3323,7 @@
     },
     {
         "sheet": "Recent2025",
-        "question": "Which country is scheduled to host the 47th ASEAN Summit in October 2025?",
+        "question": "The 2025 ASEAN Summit was hosted by which country?",
         "answer": "Malaysia",
         "choices": [
             "Malaysia",
@@ -3334,24 +3334,13 @@
     },
     {
         "sheet": "Recent2025",
-        "question": "What was the theme of the 46th ASEAN Summit held in Kuala Lumpur in May 2025?",
+        "question": "What was the theme of the 2025 ASEAN Summit held in Kuala Lumpur, Malaysia?",
         "answer": "Inclusivity and Sustainability",
         "choices": [
             "Inclusivity and Sustainability",
             "Digital Transformation",
             "Maritime Security",
             "Economic Integration"
-        ]
-    },
-    {
-        "sheet": "Recent2025",
-        "question": "What is the theme of the 47th ASEAN Summit (2025) in Kuala Lumpur?",
-        "answer": "ASEAN: Catalyzing Innovation and Sustainability for a Resilient Future",
-        "choices": [
-            "ASEAN: Catalyzing Innovation and Sustainability for a Resilient Future",
-            "ASEAN: Driving Economic Integration and Connectivity",
-            "ASEAN: Strengthening Maritime Security and Cooperation",
-            "ASEAN: Promoting Cultural Heritage and Tourism"
         ]
     },
     {
@@ -3627,6 +3616,193 @@
             "She is Japan’s first woman Prime Minister.",
             "She previously served as Japan’s Defense Minister.",
             "She belongs to the Liberal Democratic Party."
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which country was officially admitted as the 11th member of ASEAN in 2025?",
+        "answer": "Timor-Leste (East Timor)",
+        "choices": [
+            "Timor-Leste (East Timor)",
+            "Papua New Guinea",
+            "Bhutan",
+            "Mongolia"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which Indian city was recently designated as a UNESCO Creative City of Gastronomy on World Cities Day 2025?",
+        "answer": "Lucknow",
+        "choices": [
+            "Lucknow",
+            "Jaipur",
+            "Hyderabad",
+            "Indore"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The 2025 ICC Women’s Cricket World Cup was co-hosted by which two countries?",
+        "answer": "India & Sri Lanka",
+        "choices": [
+            "India & Sri Lanka",
+            "India & Bangladesh",
+            "India & Pakistan",
+            "Sri Lanka & Bangladesh"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which city hosted the final match of the 2025 ICC Women’s Cricket World Cup?",
+        "answer": "Navi Mumbai",
+        "choices": [
+            "Navi Mumbai",
+            "Bengaluru",
+            "Colombo",
+            "Ahmedabad"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "India won the 2025 ICC Women’s Cricket World Cup by defeating which team in the final?",
+        "answer": "South Africa",
+        "choices": [
+            "South Africa",
+            "Australia",
+            "England",
+            "New Zealand"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "India’s captain during the 2025 Women’s World Cup was",
+        "answer": "Harmanpreet Kaur",
+        "choices": [
+            "Harmanpreet Kaur",
+            "Smriti Mandhana",
+            "Deepti Sharma",
+            "Shafali Verma"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "How many teams participated in the 2025 Women’s Cricket World Cup?",
+        "answer": "Eight",
+        "choices": [
+            "Eight",
+            "Nine",
+            "Ten",
+            "Seven"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The 2025 Women’s World Cup is the ___ edition of the ICC Women’s Cricket World Cup.",
+        "answer": "13th",
+        "choices": [
+            "13th",
+            "11th",
+            "12th",
+            "14th"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The communication satellite CMS-03 launched by ISRO in November 2025 has a launch mass of approx",
+        "answer": "4410 kg",
+        "choices": [
+            "4410 kg",
+            "3100 kg",
+            "5850 kg",
+            "6000 kg"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The CMS-03 satellite was launched by which launch vehicle?",
+        "answer": "GSLV-Mk III-M5 (LVM3-M5)",
+        "choices": [
+            "GSLV-Mk III-M5 (LVM3-M5)",
+            "PSLV-C58",
+            "GSLV-Mk II-F14",
+            "SSLV-D3"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The CMS-03 satellite is also known by which other name?",
+        "answer": "GSAT-7R",
+        "choices": [
+            "GSAT-7R",
+            "GSAT-29",
+            "GSAT-11",
+            "INSAT-4A"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The LVM3 launch vehicle used for CMS-03 is nicknamed",
+        "answer": "Bahubali",
+        "choices": [
+            "Bahubali",
+            "Agni Putra",
+            "Aryabhata",
+            "Vikram-Lift"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The Punatsangchhu-II Hydroelectric Project, inaugurated during Modi’s 2025 visit to Bhutan, has a total capacity of",
+        "answer": "1020 MW",
+        "choices": [
+            "1020 MW",
+            "520 MW",
+            "720 MW",
+            "1420 MW"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The 30th Conference of Parties (COP30) to the UNFCCC is scheduled to be held in",
+        "answer": "Belem, Brazil",
+        "choices": [
+            "Belem, Brazil",
+            "New York, USA",
+            "Paris, France",
+            "Nairobi, Kenya"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which major international agreement provides the framework for COP meetings?",
+        "answer": "Paris Agreement 2015",
+        "choices": [
+            "Paris Agreement 2015",
+            "Montreal Protocol",
+            "Kyoto Protocol 1997",
+            "Rio+20 Declration"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The present King of Bhutan (as of 2025) is",
+        "answer": "Jigme Khesar Namgyel Wangchuck",
+        "choices": [
+            "Jigme Khesar Namgyel Wangchuck",
+            "Jigme Singye Wangchuck",
+            "Jigme Dorji Wangchuck",
+            "Ugyen Wangchuck"
+        ]
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The fourth King of Bhutan, who voluntarily abdicated in 2006 in favor of his son, is",
+        "answer": "Jigme Singye Wangchuck",
+        "choices": [
+            "Jigme Singye Wangchuck",
+            "Jigme Khesar Namgyel Wangchuck",
+            "Jigme Dorji Wangchuck",
+            "Ugyen Wangchuck"
         ]
     },
     {
@@ -4973,7 +5149,7 @@
     },
     {
         "sheet": "HistoryModern",
-        "question": "Who founded the Amrit Bazar Patrika?",
+        "question": "Who founded the Amrita Bazar Patrika?",
         "answer": "Shishir Kumar Ghose",
         "choices": [
             "Shishir Kumar Ghose",
@@ -9251,6 +9427,204 @@
         ]
     },
     {
+        "sheet": "HistoryModern",
+        "question": "The Deccan Agriculturists’ Relief Act was enacted in which year?",
+        "answer": 1879,
+        "choices": [
+            1879,
+            1875,
+            1877,
+            1881
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The first session of Indian National Congress was presided over by",
+        "answer": "Womesh Chunder Bonnerjee",
+        "choices": [
+            "Womesh Chunder Bonnerjee",
+            "Dadabhai Naoroji",
+            "Gopal Krishna Gokhale",
+            "Pherozeshah Mehta"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The original venue planned for the first INC session was Poona, but it was shifted to Bombay because of",
+        "answer": "Cholera outbreak in Poona",
+        "choices": [
+            "Cholera outbreak in Poona",
+            "Political restrictions by British officials",
+            "Lack of accomodation",
+            "Rail strike"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which Viceroy of India is associated with the founding of INC",
+        "answer": "Dufferin",
+        "choices": [
+            "Dufferin",
+            "Ripon",
+            "Lytton",
+            "Curzon"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The early phase of the Indian National Congress (1885–1905) is known as",
+        "answer": "Moderate Phase",
+        "choices": [
+            "Moderate Phase",
+            "Revolutionary Phase",
+            "Extremist Phase",
+            "Swarajist Phase"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who among the following was not a founder of the Madras Mahajan Sabha?",
+        "answer": "Surendranath Banerjee",
+        "choices": [
+            "Surendranath Banerjee",
+            "G. Subramania Iyer",
+            "M. Veeraraghavachari",
+            "P. Ananda Charlu"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which newspaper was closely linked to the founders of the Madras Mahajan Sabha?",
+        "answer": "The Hindu",
+        "choices": [
+            "The Hindu",
+            "Amrita Bazar Patrika",
+            "Indian Mirror",
+            "The Leader"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "The Ilbert Bill was introduced during the viceroyalty of",
+        "answer": "Ripon",
+        "choices": [
+            "Ripon",
+            "Lytton",
+            "Curzon",
+            "Dufferin"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which Indian leader for the first time used the Safety-valve theory to attack the Moderates in the Congress?",
+        "answer": "Lala Lajpat Rai",
+        "choices": [
+            "Lala Lajpat Rai",
+            "Bipin Chandra Pal",
+            "Bal Gangadhar Tilak",
+            "Dadabhai Naoroji"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "At which Viceroy was a bomb thrown on the occasion of his state entry into Delhi?",
+        "answer": "Hardinge",
+        "choices": [
+            "Hardinge",
+            "Minto",
+            "Curzon",
+            "Wavell"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who got an opportunity to become Professor of Indian Philosophy in the University of California in 1911?",
+        "answer": "Har Dayal",
+        "choices": [
+            "Har Dayal",
+            "Virendranath Chattopadhyay",
+            "Sohan Singh Bhakna",
+            "Shyamji Krishna Varma"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Name the Principal of MAO College Aligarh who encouraged Muslim Communalism in the last decades of the 19th Century?",
+        "answer": "Theodore Beck",
+        "choices": [
+            "Theodore Beck",
+            "Minto",
+            "Dunlop Smith",
+            "William Morris"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Young India, a Nationalist paper, was started by",
+        "answer": "Mahatma Gandhi",
+        "choices": [
+            "Mahatma Gandhi",
+            "Annie Besant",
+            "Bal Gangadhar Tilak",
+            "Lala Lajpat Rai"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which Commission accentuated the discontent in all the political groups and parties for not associating any Indian member in it?",
+        "answer": "Simon Commission",
+        "choices": [
+            "Simon Commission",
+            "Cripps Mission",
+            "Welby Commission",
+            "Cabinet Commission"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who assumed the command of the Indian National Army and gave famous battle cry, Chalo Delhi?",
+        "answer": "Subhash Chandra Bose",
+        "choices": [
+            "Subhash Chandra Bose",
+            "Mohan Singh",
+            "Rash Behari Bose",
+            "Shah Nawaz Khan"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "We shall either free India or die in the attempt, who said it",
+        "answer": "Mahatma Gandhi",
+        "choices": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Abul Kalam Azad",
+            "VD Savarkar"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Who raised the cry Divide and Quit?",
+        "answer": "M A Jinnah",
+        "choices": [
+            "M A Jinnah",
+            "M A Ansari",
+            "Jawaharlal Nehru",
+            "Muhammad Iqbal"
+        ]
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which Act provided for the partition of India in two new dominions - India and Pakistan",
+        "answer": "Indian Independence Act, 1947",
+        "choices": [
+            "Indian Independence Act, 1947",
+            "Government of India Act 1919",
+            "Government of India Act 1935",
+            "None of these"
+        ]
+    },
+    {
         "sheet": "HistoryAncient",
         "question": "Which one of the following periods is also known as Chalcolithic Age?",
         "answer": "Copper Age",
@@ -10945,6 +11319,50 @@
         ]
     },
     {
+        "sheet": "HistoryAncient",
+        "question": "Which one of the following is not related to the Rigvedic period?",
+        "answer": "Gargi",
+        "choices": [
+            "Gargi",
+            "Ghosha",
+            "Apala",
+            "Vishvavara"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which one of the following is not written by Tulsidas?",
+        "answer": "Sahitya Lahari",
+        "choices": [
+            "Sahitya Lahari",
+            "Vinay Patrika",
+            "Geetavali",
+            "Kavitavali"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Which Buddisht council was not held in Bihar?",
+        "answer": "Fourth",
+        "choices": [
+            "Fourth",
+            "Third",
+            "First",
+            "Second"
+        ]
+    },
+    {
+        "sheet": "HistoryAncient",
+        "question": "Who among the following was not an Acharya in the Nalanda Vishvavidyalaya?",
+        "answer": "Kautilya",
+        "choices": [
+            "Kautilya",
+            "Nagarjun",
+            "Sheelbhadra",
+            "Shantirakshit"
+        ]
+    },
+    {
         "sheet": "HistoryMedieval",
         "question": "Muhammad Ghori granted first Iqta in India to",
         "answer": "Qutbuddin Aibak",
@@ -12188,6 +12606,17 @@
         ]
     },
     {
+        "sheet": "HistoryMedieval",
+        "question": "Who among the following rulers, ruled for the maximum period?",
+        "answer": "Bahlul Khan Lodi",
+        "choices": [
+            "Bahlul Khan Lodi",
+            "Muhammad Bin Tughlaq",
+            "Balban",
+            "Alauddin Khalji"
+        ]
+    },
+    {
         "sheet": "Geography",
         "question": "India's territorial limit extends towards the sea up to how many nautical miles from the coast?",
         "answer": "12 nautical miles",
@@ -12757,6 +13186,149 @@
             "Ravi",
             "Chenab",
             "Beas"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Maginot Line exists between which countries?",
+        "answer": "France & Germany",
+        "choices": [
+            "France & Germany",
+            "USA & Canada",
+            "Namibia & Angola",
+            "South Korea & North Korea"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Strait of Hormuz connects",
+        "answer": "The Persian Gulf & Gulf of Oman",
+        "choices": [
+            "The Persian Gulf & Gulf of Oman",
+            "Red Sea to Gulf of Aden",
+            "Red Sea to Indian Sea",
+            "Mediterranean Sea to Red Sea"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Where is - Ground Zero",
+        "answer": "New York",
+        "choices": [
+            "New York",
+            "Greenwich",
+            "Indira Point",
+            "Sriharikota"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following Isthmuses has been known as the Devil's Neck?",
+        "answer": "Kra Isthmuses",
+        "choices": [
+            "Kra Isthmuses",
+            "Isthmuses of Panama",
+            "Karelian Isthmuses",
+            "Isthmuses of Corinth"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Ladang refers to",
+        "answer": "Shifting Agriculture",
+        "choices": [
+            "Shifting Agriculture",
+            "Plantation Agriculture",
+            "Subsistence type of Agriculture",
+            "Dry Forming"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which is the largest river Island in the world?",
+        "answer": "Majuli Island",
+        "choices": [
+            "Majuli Island",
+            "Srirangam Island",
+            "Bhavani Island",
+            "Agatti Island"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The second largest river basin of india is",
+        "answer": "Godavari",
+        "choices": [
+            "Godavari",
+            "Narmada",
+            "Mahanadi",
+            "Kaveri"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following is the place of confluence of the Alaknanda and Bhagirathi",
+        "answer": "Devprayag",
+        "choices": [
+            "Devprayag",
+            "Karnprayag",
+            "Vishnuprayag",
+            "Rudraprayag"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The two volcanic Islands in the Indian Territory are",
+        "answer": "Narcondam and Barren",
+        "choices": [
+            "Narcondam and Barren",
+            "Bitra and Kavaratti",
+            "Kavaratti and New Moore",
+            "Pamban and Barren"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "In India the Temperate Forest Research center is in which city?",
+        "answer": "Shimla",
+        "choices": [
+            "Shimla",
+            "Ranchi",
+            "Srinagar",
+            "Dehradun"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Kanha National Park is established in",
+        "answer": "Madhya Pradesh",
+        "choices": [
+            "Madhya Pradesh",
+            "Assam",
+            "Maharashtra",
+            "Uttarakhand"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Loktak is a",
+        "answer": "Lake",
+        "choices": [
+            "Lake",
+            "Valley",
+            "River",
+            "Mountain Series"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Afrikaners indicate the people",
+        "answer": "the white minority group in South Africa",
+        "choices": [
+            "the white minority group in South Africa",
+            "of Indo-African descent in the USA",
+            "Indigenous tribal communities in Africa",
+            "None of these"
         ]
     },
     {
@@ -15048,6 +15620,83 @@
         ]
     },
     {
+        "sheet": "Polity",
+        "question": "The power to recruit the Secretarial staff of the House of the People is vested in",
+        "answer": "President after consultation with the speaker of the House of the people",
+        "choices": [
+            "President after consultation with the speaker of the House of the people",
+            "Union Public Service Commission",
+            "Prime Minister's Office",
+            "Staff Selection Commission"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Attorney General of India:",
+        "answer": "He gives advice to the President on legal matters",
+        "choices": [
+            "He gives advice to the President on legal matters",
+            "is not entitled of audience except the Supreme Court",
+            "cannot participate in the proceedings in the House of Parliament",
+            "is a whole time counsel for the government"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is true about the proceedings of the State Legislature?",
+        "answer": "Business in the legislature shall be transacted only in official language of the state or in Hindi or in English",
+        "choices": [
+            "Business in the legislature shall be transacted only in official language of the state or in Hindi or in English",
+            "Advocate General has right to vote",
+            "It can discuss the conduct of any judge of the High Court also",
+            "Validity of proceedings shall be called in question on the ground of any alleged irregularity"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who among the following determines the qualification which shall be requisite for appointment as member of the finance commission?",
+        "answer": "Parliament by act",
+        "choices": [
+            "Parliament by act",
+            "Council of Ministers",
+            "President of India",
+            "Union Cabinet"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Who is empowered to review financial position of the Panchayats?",
+        "answer": "Finance Commission constituted by the Governor",
+        "choices": [
+            "Finance Commission constituted by the Governor",
+            "Chairman of Block Committee",
+            "Chief Minister",
+            "Chairman of District Council"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "What is the main purpose of Panchayati Raj?",
+        "answer": "To enable people to participate in development administration",
+        "choices": [
+            "To enable people to participate in development administration",
+            "to increase employment",
+            "to increase agriculture production",
+            "to increase people's political awareness"
+        ]
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which one of the following subjects fall within the jurisdiction of both High Court and Supreme Court?",
+        "answer": "Protection of Fundamental Rights",
+        "choices": [
+            "Protection of Fundamental Rights",
+            "Dispute among States",
+            "Dispute between Centre and State",
+            "Protection from the violation of the constitution"
+        ]
+    },
+    {
         "sheet": "Science",
         "question": "Physics involves the study of",
         "answer": "Nature & Natural Phenomena",
@@ -16412,6 +17061,336 @@
         ]
     },
     {
+        "sheet": "Science",
+        "question": "Energy consumed in a home is 250 units then the total energy in Joule will be",
+        "answer": "9x10^8 J",
+        "choices": [
+            "9x10^8 J",
+            "8x10^6 J",
+            "9x10^5 J",
+            "10^5 J"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "In which medium, the speed of sound is maximum?",
+        "answer": "Steel",
+        "choices": [
+            "Steel",
+            "Water",
+            "Air",
+            "Hydrogen"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A truck starts from rest down a hill with a constant acceleration. It achieves 400 meters in 20 seconds. If the mass of the truck is 7 tons then what will be the force acting on it?",
+        "answer": "14000 N",
+        "choices": [
+            "14000 N",
+            "13000 N",
+            "11000 N",
+            "12000 N"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "We apply a force of 200 Newton on a wooden Box and push it on the floor at constant velocity. The marginal friction force will be",
+        "answer": "200 N",
+        "choices": [
+            "200 N",
+            "100 N",
+            "300 N",
+            "400 N"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The potential energy of a freely falling body continuously decreases",
+        "answer": "The principle of conservation of energy is not violated",
+        "choices": [
+            "The principle of conservation of energy is not violated",
+            "The principle of conservation of energy is violated",
+            "Gravitational force is violated",
+            "Gravitational force is not violated"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "A pair of Oxen exerts a force of 140 N while ploughing the field. The field ploughed is 15m long. The work done in ploughing the length of the field is",
+        "answer": "2100 Joule",
+        "choices": [
+            "2100 Joule",
+            "1900 Joule",
+            "2200 Joule",
+            "2000 Joule"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The focal length of a plane mirror is",
+        "answer": "infinity",
+        "choices": [
+            "infinity",
+            "minus 1cm",
+            "plus 1cm",
+            "2cm"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which term in the following does not denote the electric power in electric circuit?",
+        "answer": "IR^2",
+        "choices": [
+            "IR^2",
+            "I^2R",
+            "VI",
+            "V^2/R"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the device to protect equipments from the electric shock?",
+        "answer": "Fuse",
+        "choices": [
+            "Fuse",
+            "Generator",
+            "Motor",
+            "Current Controller"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "pH value of 0.1 N HCL solution is approximately",
+        "answer": 1,
+        "choices": [
+            1,
+            11,
+            10,
+            2
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which compound is known as night glowing pigment from below?",
+        "answer": "Europium dopped strontium aluminate",
+        "choices": [
+            "Europium dopped strontium aluminate",
+            "Copper Sulphide dopped zinc oxide",
+            "Barium sulphate dopped copper carbonate",
+            "Boron oxide dopped copper sulphate"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which material is used for smart film?",
+        "answer": "Indium Tin Oxide",
+        "choices": [
+            "Indium Tin Oxide",
+            "Calcium Carbonate",
+            "Zinc Chloride",
+            "Silica"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which metal compound is used for treatment of carcinoma?",
+        "answer": "Platinum",
+        "choices": [
+            "Platinum",
+            "Chromium",
+            "Iron",
+            "Chlorine"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which compound is used in contraceptive pills?",
+        "answer": "Levonorgestrel",
+        "choices": [
+            "Levonorgestrel",
+            "Cholecalciferol",
+            "Vanlaflexine",
+            "Cetrizine"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Why oil is not stored in a galvanised iron pot?",
+        "answer": "All of these",
+        "choices": [
+            "All of these",
+            "It produce toxic compound",
+            "it reduces quality of oil",
+            "it cause corrosion"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which compound is used to increase octane rating?",
+        "answer": "Tetraethyllead (TEL)",
+        "choices": [
+            "Tetraethyllead (TEL)",
+            "Tetramethyl Oxide",
+            "Trimethyl Hexane",
+            "Triethyl Toluene"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Full form of PHBV biodegradable polymer",
+        "answer": "Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)",
+        "choices": [
+            "Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)",
+            "Poly hydroxy butane veratric acid",
+            "Polyhydroxy butyl vaniline",
+            "Poly hydroxy butyric acid veratric acid"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Hormones are secreted by",
+        "answer": "Endocrine glands",
+        "choices": [
+            "Endocrine glands",
+            "Exocrine glands",
+            "Sebaceous glands",
+            "Reproductive glands"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which one of the following term characterises the interaction between herpes simplex virus and a human?",
+        "answer": "Endoparasitims",
+        "choices": [
+            "Endoparasitims",
+            "Symbiosis",
+            "Parasitism",
+            "Endosymbiosis"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which class of immunoglobulin is the first to be produced in response to an infection?",
+        "answer": "IgM",
+        "choices": [
+            "IgM",
+            "IgA",
+            "IgE",
+            "IgG"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The biological membranes are composed of",
+        "answer": "Lipids and proteins in varying combinations which are specific to each species, cell type and organelle",
+        "choices": [
+            "Lipids and proteins in varying combinations which are specific to each species, cell type and organelle",
+            "Lipids only",
+            "Protein only",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is a non-sense codon?",
+        "answer": "UAA",
+        "choices": [
+            "UAA",
+            "AUG",
+            "UUU",
+            "UGC"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The species which are in danger of exitinction are known as?",
+        "answer": "Endangered",
+        "choices": [
+            "Endangered",
+            "Rare",
+            "Vulnerable",
+            "Extinct"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is a Kharif crop?",
+        "answer": "Sugarcane",
+        "choices": [
+            "Sugarcane",
+            "Barley",
+            "Gram",
+            "Wheat"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Xylem in plants is responsible for following function",
+        "answer": "Transport of water and dissolved minerals",
+        "choices": [
+            "Transport of water and dissolved minerals",
+            "Transport of foods",
+            "Transport of oxygen and other gases",
+            "Transport of essential amino acids"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Who was the first to use the characteristics of vascular tissues in the classification of plants?",
+        "answer": "A P de Candolle",
+        "choices": [
+            "A P de Candolle",
+            "Engler and Prantl",
+            "Bentham and Hooker",
+            "More than one are correct"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "The part which we eat in Mango is",
+        "answer": "Mesocarp",
+        "choices": [
+            "Mesocarp",
+            "Epicarp",
+            "Endocarp",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "Ozone day is celebrated on",
+        "answer": "16th September",
+        "choices": [
+            "16th September",
+            "5th June",
+            "21st April",
+            "5th December"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "In mycorrhizal association, the advantage of plant is",
+        "answer": "Increased mineral absorption and diseases protection",
+        "choices": [
+            "Increased mineral absorption and diseases protection",
+            "Protection",
+            "Food",
+            "Water"
+        ]
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the primary objective of the LunarTrailblazer mission?",
+        "answer": "To detect and map water on the Moon's surface",
+        "choices": [
+            "To detect and map water on the Moon's surface",
+            "To create a 3D model of the entire Moon",
+            "To test new lunar rovers",
+            "to orbit around Moon"
+        ]
+    },
+    {
         "sheet": "GeneralKnowledge",
         "question": "World Biofuel Day is observed every year on which date?",
         "answer": "10th August",
@@ -16673,6 +17652,50 @@
             "Durgeshnandini",
             "Krishnakanter Will",
             "Kapalkundala"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Bhutan adopted its first written Constitution in the year",
+        "answer": 2008,
+        "choices": [
+            2008,
+            2005,
+            2006,
+            2010
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "The Head of State of Bhutan is known as",
+        "answer": "Druk Gyalpo",
+        "choices": [
+            "Druk Gyalpo",
+            "Druk Desi",
+            "Gyalpo Khesar",
+            "Gups"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Who was the first King (Druk Gyalpo) of Bhutan?",
+        "answer": "Ugyen Wangchuck",
+        "choices": [
+            "Ugyen Wangchuck",
+            "Jigme Singye Wangchuck",
+            "Jigme Dorji Wangchuck",
+            "Jigme Khesar Namgyel Wangchuck"
+        ]
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "How many Indian Languages are accorded the satus of Classical Language?",
+        "answer": "Eleven",
+        "choices": [
+            "Eleven",
+            "Six",
+            "Ten",
+            "Nine"
         ]
     },
     {
@@ -20611,6 +21634,127 @@
             "UNDP",
             "UNICEF",
             "IMF"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which of the following parks/sanctuaries come under the project tiger in Bihar?",
+        "answer": "Valmiki National Park",
+        "choices": [
+            "Valmiki National Park",
+            "Udaypur Wildlife Sanctuary",
+            "Bhimbandh Wildlife Sanctuary",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which of the following is the state animal of Bihar?",
+        "answer": "Bull (Gaur)",
+        "choices": [
+            "Bull (Gaur)",
+            "Cow",
+            "Buffalo",
+            "Horse"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "In which year, the Nalanda University was re-established in Bihar?",
+        "answer": 2014,
+        "choices": [
+            2014,
+            2008,
+            2007,
+            2005
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Karmanasa river originates in",
+        "answer": "Kaimur",
+        "choices": [
+            "Kaimur",
+            "Vaishali",
+            "Patna",
+            "Bikram"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Most of the Bihar comes under which of the following climate type?",
+        "answer": "Subtropical Monsoon",
+        "choices": [
+            "Subtropical Monsoon",
+            "Tropical Savannah",
+            "Hot and Dry",
+            "Hot and Semi Arid"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which Congress leader visited Bihar in 1918 in order to strengthen the activities of Home Rule League?",
+        "answer": "Annie Besant",
+        "choices": [
+            "Annie Besant",
+            "Bal Gangadhar Tilak",
+            "Mahatma Gandhi",
+            "M A Ansari"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Champaran Agrarian Committee was appointed in agreement between",
+        "answer": "Indian Government and Gandhiji",
+        "choices": [
+            "Indian Government and Gandhiji",
+            "Indian Government and Raj Kumar Shukla",
+            "Indian Government and Rajendra Prasad",
+            "Indian Government and Anugraha Narayan Singh"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Who was the prominent leader of Kisan Sabha movement in Bihar?",
+        "answer": "Sahajanand Saraswati",
+        "choices": [
+            "Sahajanand Saraswati",
+            "Raj Kumar Shukla",
+            "Acharya Narendra Dev",
+            "Baba Ram Chandra"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Who was murdered while hoisting the national flag under the area of Bikram Police Station?",
+        "answer": "Raghunath Sharma",
+        "choices": [
+            "Raghunath Sharma",
+            "Raghunath Singh of Gorakhari",
+            "Ram Narain of Bikrampur",
+            "Satyendra of Gorakhari"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which districts in Bihar will benefit from the Kosi Mechi Link Project?",
+        "answer": "Araria, Purnea, Kishanganj, Katihar",
+        "choices": [
+            "Araria, Purnea, Kishanganj, Katihar",
+            "Patna, Nalanda, Gaya, Siwan",
+            "Darbhanga, Muzaffarpur, Sitamarhi, Begusarai",
+            "Rohtas, Jamui, Nawada, Jehanabad"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which organisation recognised the Nagi Bird Sanctuary site as an Important Bird and Biodiversity Area (IBA)?",
+        "answer": "Bird Life International",
+        "choices": [
+            "Bird Life International",
+            "UNESCO",
+            "World Wildlife Fund",
+            "WHO"
         ]
     },
     {

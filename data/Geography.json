@@ -570,5 +570,148 @@
             "Chenab",
             "Beas"
         ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Maginot Line exists between which countries?",
+        "answer": "France & Germany",
+        "choices": [
+            "France & Germany",
+            "USA & Canada",
+            "Namibia & Angola",
+            "South Korea & North Korea"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Strait of Hormuz connects",
+        "answer": "The Persian Gulf & Gulf of Oman",
+        "choices": [
+            "The Persian Gulf & Gulf of Oman",
+            "Red Sea to Gulf of Aden",
+            "Red Sea to Indian Sea",
+            "Mediterranean Sea to Red Sea"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Where is - Ground Zero",
+        "answer": "New York",
+        "choices": [
+            "New York",
+            "Greenwich",
+            "Indira Point",
+            "Sriharikota"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following Isthmuses has been known as the Devil's Neck?",
+        "answer": "Kra Isthmuses",
+        "choices": [
+            "Kra Isthmuses",
+            "Isthmuses of Panama",
+            "Karelian Isthmuses",
+            "Isthmuses of Corinth"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Ladang refers to",
+        "answer": "Shifting Agriculture",
+        "choices": [
+            "Shifting Agriculture",
+            "Plantation Agriculture",
+            "Subsistence type of Agriculture",
+            "Dry Forming"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which is the largest river Island in the world?",
+        "answer": "Majuli Island",
+        "choices": [
+            "Majuli Island",
+            "Srirangam Island",
+            "Bhavani Island",
+            "Agatti Island"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The second largest river basin of india is",
+        "answer": "Godavari",
+        "choices": [
+            "Godavari",
+            "Narmada",
+            "Mahanadi",
+            "Kaveri"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which of the following is the place of confluence of the Alaknanda and Bhagirathi",
+        "answer": "Devprayag",
+        "choices": [
+            "Devprayag",
+            "Karnprayag",
+            "Vishnuprayag",
+            "Rudraprayag"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "The two volcanic Islands in the Indian Territory are",
+        "answer": "Narcondam and Barren",
+        "choices": [
+            "Narcondam and Barren",
+            "Bitra and Kavaratti",
+            "Kavaratti and New Moore",
+            "Pamban and Barren"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "In India the Temperate Forest Research center is in which city?",
+        "answer": "Shimla",
+        "choices": [
+            "Shimla",
+            "Ranchi",
+            "Srinagar",
+            "Dehradun"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Kanha National Park is established in",
+        "answer": "Madhya Pradesh",
+        "choices": [
+            "Madhya Pradesh",
+            "Assam",
+            "Maharashtra",
+            "Uttarakhand"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Loktak is a",
+        "answer": "Lake",
+        "choices": [
+            "Lake",
+            "Valley",
+            "River",
+            "Mountain Series"
+        ]
+    },
+    {
+        "sheet": "Geography",
+        "question": "Afrikaners indicate the people",
+        "answer": "the white minority group in South Africa",
+        "choices": [
+            "the white minority group in South Africa",
+            "of Indo-African descent in the USA",
+            "Indigenous tribal communities in Africa",
+            "None of these"
+        ]
     }
 ]

@@ -3001,5 +3001,126 @@
             "UNICEF",
             "IMF"
         ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which of the following parks/sanctuaries come under the project tiger in Bihar?",
+        "answer": "Valmiki National Park",
+        "choices": [
+            "Valmiki National Park",
+            "Udaypur Wildlife Sanctuary",
+            "Bhimbandh Wildlife Sanctuary",
+            "None of these"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which of the following is the state animal of Bihar?",
+        "answer": "Bull (Gaur)",
+        "choices": [
+            "Bull (Gaur)",
+            "Cow",
+            "Buffalo",
+            "Horse"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "In which year, the Nalanda University was re-established in Bihar?",
+        "answer": 2014,
+        "choices": [
+            2014,
+            2008,
+            2007,
+            2005
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Karmanasa river originates in",
+        "answer": "Kaimur",
+        "choices": [
+            "Kaimur",
+            "Vaishali",
+            "Patna",
+            "Bikram"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Most of the Bihar comes under which of the following climate type?",
+        "answer": "Subtropical Monsoon",
+        "choices": [
+            "Subtropical Monsoon",
+            "Tropical Savannah",
+            "Hot and Dry",
+            "Hot and Semi Arid"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which Congress leader visited Bihar in 1918 in order to strengthen the activities of Home Rule League?",
+        "answer": "Annie Besant",
+        "choices": [
+            "Annie Besant",
+            "Bal Gangadhar Tilak",
+            "Mahatma Gandhi",
+            "M A Ansari"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Champaran Agrarian Committee was appointed in agreement between",
+        "answer": "Indian Government and Gandhiji",
+        "choices": [
+            "Indian Government and Gandhiji",
+            "Indian Government and Raj Kumar Shukla",
+            "Indian Government and Rajendra Prasad",
+            "Indian Government and Anugraha Narayan Singh"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Who was the prominent leader of Kisan Sabha movement in Bihar?",
+        "answer": "Sahajanand Saraswati",
+        "choices": [
+            "Sahajanand Saraswati",
+            "Raj Kumar Shukla",
+            "Acharya Narendra Dev",
+            "Baba Ram Chandra"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Who was murdered while hoisting the national flag under the area of Bikram Police Station?",
+        "answer": "Raghunath Sharma",
+        "choices": [
+            "Raghunath Sharma",
+            "Raghunath Singh of Gorakhari",
+            "Ram Narain of Bikrampur",
+            "Satyendra of Gorakhari"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which districts in Bihar will benefit from the Kosi Mechi Link Project?",
+        "answer": "Araria, Purnea, Kishanganj, Katihar",
+        "choices": [
+            "Araria, Purnea, Kishanganj, Katihar",
+            "Patna, Nalanda, Gaya, Siwan",
+            "Darbhanga, Muzaffarpur, Sitamarhi, Begusarai",
+            "Rohtas, Jamui, Nawada, Jehanabad"
+        ]
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "Which organisation recognised the Nagi Bird Sanctuary site as an Important Bird and Biodiversity Area (IBA)?",
+        "answer": "Bird Life International",
+        "choices": [
+            "Bird Life International",
+            "UNESCO",
+            "World Wildlife Fund",
+            "WHO"
+        ]
     }
 ]
