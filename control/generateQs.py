@@ -34,10 +34,14 @@ def sanitize_filename(name):
 def process_sheet(sheet_name):
     df = pd.read_excel(input_file, sheet_name=sheet_name)
     expected_columns = {"Question", "Answer", "Choice1", "Choice2", "Choice3", "Choice4"}
+    # 'Information' column is optional, treat it case-insensitively and allow missing/NaN to pass
     if not expected_columns.issubset(df.columns):
         print(f"Sheet '{sheet_name}' is missing required columns. Skipping.")
         return
     sheet_data = []
+    # detect an optional Information field in a case-insensitive way
+    info_col = next((c for c in df.columns if str(c).strip().lower() == "information"), None)
+
     for _, row in tqdm(df.iterrows(), total=len(df), desc=f"Processing {sheet_name}"):
         # Skip rows with any NaN in required fields
         if (
@@ -49,11 +53,17 @@ def process_sheet(sheet_name):
             pd.isna(row["Choice4"])
         ):
             continue
+        # Safely read the optional information field; keep empty string when missing or NaN
+        information_value = ""
+        if info_col is not None and not pd.isna(row.get(info_col, None)):
+            information_value = str(row[info_col])
+
         question_data = {
             "sheet": sheet_name,
             "question": row["Question"],
             "answer": row["Answer"],
             "choices": [row["Choice1"], row["Choice2"], row["Choice3"], row["Choice4"]]
+            , "information": information_value
         }
         sheet_data.append(question_data)
         if choice.lower() == "all":

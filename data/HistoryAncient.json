@@ -8,7 +8,8 @@
             "Old Stone Age",
             "New Stone Age",
             "Iron Age"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -19,7 +20,8 @@
             "Pre-Historic age",
             "Historic age",
             "Post-Historic age"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -30,7 +32,8 @@
             "Harappa",
             "Lothal",
             "Diamabad"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -41,7 +44,8 @@
             "Mehrgarh",
             "Lothal",
             "Diamabad"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -52,7 +56,8 @@
             "Yellow",
             "Green",
             "Blue-Grey"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -63,7 +68,8 @@
             "Dholavira",
             "Mohenjodaro",
             "Lothal"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -74,7 +80,8 @@
             "Dholavira",
             "Kalibangan",
             "Lothal"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -85,7 +92,8 @@
             "Fine true arches",
             "Buildings of worship",
             "Art & Architecture"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -96,7 +104,8 @@
             "Humped Bull (Zebu)",
             "Deer",
             "Elephant"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -107,7 +116,8 @@
             "Diamabad",
             "Nagapattinam",
             "Mahasthangarh"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -118,7 +128,8 @@
             "Mohenjodaro",
             "Lothal",
             "Kalibangan"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -129,7 +140,8 @@
             "Rakhigarhi",
             "Lothal",
             "Kalibangan"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -140,7 +152,8 @@
             "Shortugai",
             "Alamgirpur",
             "Diamabad"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -151,7 +164,8 @@
             "Shortugai",
             "Suktagendor",
             "Diamabad"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -162,7 +176,8 @@
             "Alamgirpur",
             "Suktagendor",
             "Diamabad"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -173,7 +188,8 @@
             "Alamgirpur",
             "Suktagendor",
             "Shortugai"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -184,7 +200,8 @@
             "Sutkagendor",
             "Surkotada",
             "Manda"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -195,7 +212,8 @@
             "Dabarkot",
             "Kalibangan",
             "Rakhigarhi"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -206,7 +224,8 @@
             "R D Banerjee",
             "K N Dikshit",
             "M S Vats"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -217,7 +236,8 @@
             "600 years",
             "700 years",
             "800 years"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -228,7 +248,8 @@
             "Around 6000 years ago",
             "Around 9000 years ago",
             "Around 10000 years ago"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -239,7 +260,8 @@
             "Seventh Mandala",
             "Eighth Mandala",
             "Tenth Mandala"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -250,7 +272,8 @@
             "Babylon",
             "Gonur Tepe",
             "Ur"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -261,7 +284,8 @@
             "Ganga",
             "Brahmputra",
             "Kaveri"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -272,7 +296,8 @@
             "Eighth Mandala",
             "Tenth Mandala",
             "Ninth Mandala"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -283,7 +308,8 @@
             "Eighth Mandala",
             "Seventh Mandala",
             "Ninth Mandala"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -294,7 +320,8 @@
             "Upanishad",
             "Bhagwatgita",
             "Ramayana"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -305,7 +332,8 @@
             "Parvati",
             "Shiva",
             "Indra"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -316,7 +344,8 @@
             "Rigvedic Phase",
             "Later Vedic Phase",
             "Later Gupta Phase"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -327,7 +356,8 @@
             "Rigveda",
             "Yajurveda",
             "Samveda"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -338,7 +368,8 @@
             "Lumbini",
             "Kapilvastu",
             "Bodhgaya"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -349,7 +380,8 @@
             "Dharanindra",
             "Sangramadhanjaya",
             "Chudamanivarmana"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -360,7 +392,8 @@
             "Lumbini",
             "Khushi Nagar",
             "Kapilvastu"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -371,7 +404,8 @@
             "Mahavir Jain",
             "Smandhar Swami",
             "Parshvanath Swami"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -382,7 +416,8 @@
             "Vaishali",
             "Kaushambi",
             "Pavapuri"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -393,7 +428,8 @@
             "Ashoka",
             "Ajatshatru",
             "kalashoka"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -404,7 +440,8 @@
             "Magadha",
             "Pataliputra",
             "Rajgriha"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -415,7 +452,8 @@
             "Sarnath",
             "Taxila",
             "Bodh Gaya"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -426,7 +464,8 @@
             "Mahakassapa",
             "Vasumitra",
             "Ashvaghosha"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -437,7 +476,8 @@
             "Jainism",
             "Vaishanva sect",
             "Shaiva sect"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -448,7 +488,8 @@
             "Gautam Buddha was born",
             "Gautam Buddha gave his first sermon",
             "Gautam Buddha passed away"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -459,7 +500,8 @@
             "Fourth",
             "Third",
             "Sixth"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -470,7 +512,8 @@
             "Pataliputra (Patna)",
             "Kundalvana (Kashmir)",
             "Vaishali"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -481,7 +524,8 @@
             "Jains",
             "Hindus",
             "Parsis"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -492,7 +536,8 @@
             "Sutta Pitaka",
             "Vinay Pitaka",
             "Abhidhamma Pitaka"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -503,7 +548,8 @@
             "Vaishali",
             "Patna",
             "Nalanda"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -514,7 +560,8 @@
             "Indo-Tibetan Art",
             "Indo-Cambodian Art",
             "Indo-Champan Art"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -525,7 +572,8 @@
             "Ashoka",
             "Chandragupta Vikramaditya",
             "Harsha"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -536,7 +584,8 @@
             "Bhagalpur",
             "Nalanda",
             "Bengal"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -547,7 +596,8 @@
             "Kumargupta",
             "Dharampala",
             "Ajatshatru"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -558,7 +608,8 @@
             "Kushan",
             "Maurya",
             "Pala"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -569,7 +620,8 @@
             "Medical Science",
             "Philosophy",
             "Chemical Science"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -580,7 +632,8 @@
             "Chandragupta Vikramaditya",
             "Dharampala",
             "Pushyagupta"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -591,7 +644,8 @@
             "Museum",
             "Hsuan-Tsang Memorial",
             "Birth place of Mahavir"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -602,7 +656,8 @@
             "Ahimsa",
             "Indifference to Vedas",
             "Rejection of Rituals"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -613,7 +668,8 @@
             "Ellora",
             "Rajgir",
             "Barabar Hills"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -624,7 +680,8 @@
             "Pataliputra (Patna)",
             "Rajgriha (Rajgir)",
             "Lumbini"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -635,7 +692,8 @@
             "Kundgram (Vaishali)",
             "Rajgriha (Rajgir)",
             "Kapilvastu"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -646,7 +704,8 @@
             "Kundgram (Vaishali)",
             "Rajgriha (Rajgir)",
             "Bodh Gaya"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -657,7 +716,8 @@
             "Buddhism",
             "Hinduism",
             "Christianity"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -668,7 +728,8 @@
             "Fourteen Uppurva",
             "Twelve angas",
             "Twelve Upangas"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -679,7 +740,8 @@
             "Yashoda",
             "Bipin",
             "Prabhash"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -690,7 +752,8 @@
             "Anand",
             "Rahulabhadra ",
             "Upali"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -701,7 +764,8 @@
             "Jains",
             "Tantrikas",
             "Buddhists"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -712,7 +776,8 @@
             "Dasaratha",
             "Brihadrath",
             "Huvishk"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -723,7 +788,8 @@
             "Rajaraja Chola",
             "Menander",
             "Pushyamitra Sunga"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -734,7 +800,8 @@
             "Southern India",
             "Eastern India",
             "Western India"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -745,7 +812,8 @@
             "Persian",
             "Indo-Greek people",
             "Kushan"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -756,7 +824,8 @@
             "Chola",
             "Anarta",
             "Takshashila"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -767,7 +836,8 @@
             "Pataliputra (Patna)",
             "Vaishali",
             "Anga"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -778,7 +848,8 @@
             "Bimbisara",
             "Bindusara",
             "Udayin"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -789,7 +860,8 @@
             "Ajatashatru",
             "Kalashoka",
             "Kanishka"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -800,7 +872,8 @@
             "18 years",
             "20 years",
             "12 years"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -811,7 +884,8 @@
             "4th centurey BCE",
             "7th centurey BCE",
             "5th centurey BCE"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -822,7 +896,8 @@
             "Upper Ganga Valley",
             "Lower Ganga Valley",
             "Lower Brahmputra Valley"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -833,7 +908,8 @@
             "Athens",
             "Pataliputra",
             "Spata"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -844,7 +920,8 @@
             "Mahabharata",
             "Chandogya Upanishad",
             "Samyukta Nikaya"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -855,7 +932,8 @@
             "Maurya",
             "Gupta",
             "Nanda"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -866,7 +944,8 @@
             "Shilabhadra",
             "Vijayaena",
             "Manu"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -877,7 +956,8 @@
             "Shunga",
             "Gupta",
             "Kushan"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -888,7 +968,8 @@
             "Ramsimhadev",
             "Nanyadeva",
             "Narsimhadeva"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -899,7 +980,8 @@
             "Mahapadmananda",
             "Sukalpa",
             "Chandragupta Maurya"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -910,7 +992,8 @@
             "Ashoka",
             "Kanishka",
             "Chandragupta II - Vikramaditya"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -921,7 +1004,8 @@
             "Bhasa",
             "Surdraka",
             "Ashvaghosha"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -932,7 +1016,8 @@
             "V. Smith",
             "R. K. Mukharjee",
             "D. R. Bhandarkar"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -943,7 +1028,8 @@
             "Bricks",
             "Stones",
             "Clay"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -954,7 +1040,8 @@
             "Ashoka",
             "Bindusara",
             "Kunala"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -965,7 +1052,8 @@
             "Rajatarangini",
             "Arthashastra",
             "Indica"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -976,7 +1064,8 @@
             "Kalinga Rock Inscriptions",
             "Girnar Rock Inscription of Ashoka",
             "Sopara Rock Inscription of Ashoka"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -987,7 +1076,8 @@
             "Afghanistan",
             "Bihar",
             "Kalinga"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -998,7 +1088,8 @@
             "Vaishali",
             "Rajgir",
             "Kanauj"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1009,7 +1100,8 @@
             "Sanskrit",
             "Pali",
             "Hindi"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1020,7 +1112,8 @@
             "Brahmi",
             "Devanagri",
             "Kaithi"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1031,7 +1124,8 @@
             "A Cunningham",
             "A. H. Dani",
             "Buhler"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1042,7 +1136,8 @@
             "Chakravarti",
             "Dharamadeva",
             "Dharmakirti"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1053,7 +1148,8 @@
             "Minor Pillar of Maski",
             "Rummindei Pillar",
             "Queen Pillar"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1064,7 +1160,8 @@
             "Alexander",
             "Darius",
             "Napolean"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1075,7 +1172,8 @@
             "Six",
             "Five",
             "Four"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1086,7 +1184,8 @@
             "Kautilya's Arthashastra",
             "Ashokan Rock Edicts",
             "The Puranas"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1097,7 +1196,8 @@
             "Kautilya's Arthashastra",
             "Ashokan Rock Edicts",
             "Divyanadan"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1108,7 +1208,8 @@
             "Rig Veda",
             "Purana",
             "Economics"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1119,7 +1220,8 @@
             "Deimachus",
             "Vishnugupta",
             "Pliny"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1130,7 +1232,8 @@
             "Jaloka",
             "Avanti Verma",
             "Nandi Vardhana"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1141,7 +1244,8 @@
             "V. A. Smith",
             "D. N. Jha",
             "H. C. Raychaudhari"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1152,7 +1256,8 @@
             "Kasi",
             "Koshala",
             "Magadha"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1163,7 +1268,8 @@
             "Bhitari",
             "Nasik",
             "Sanchi"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1174,7 +1280,8 @@
             "Harsha",
             "Kanishka",
             "Ashoka"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1185,7 +1292,8 @@
             "Pushyamitra Shunga",
             "Menander",
             "Gautamiputra Satkarni"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1196,7 +1304,8 @@
             "Satvahana",
             "Gupta",
             "Kushan"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1207,7 +1316,8 @@
             "Guptas",
             "Mauryas",
             "Kanvas"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1218,7 +1328,8 @@
             "Piller inscription of Girnar",
             "Pillar inscription of Junagarh",
             "Sarnath Inscription"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1229,7 +1340,8 @@
             "Satvahana Dynasty",
             "Rath-Bhojak Dynasty",
             "Maurya Dynasty"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1240,7 +1352,8 @@
             "Shri Gupta",
             "Samudragupta",
             "Skandagupta"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1251,7 +1364,8 @@
             "Shri Gupta",
             "Chandragupta Maurya",
             "Pushyamitra Sunga"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1262,7 +1376,8 @@
             "Chandragupta I",
             "Chandragupta II - Vikramaditya",
             "Shir Gupta"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1273,7 +1388,8 @@
             "Chandragupta I",
             "Samudragupta",
             "Chandragupta II - Vikramaditya"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1284,7 +1400,8 @@
             "Chandragupta I",
             "Chandragupta II - Vikramaditya",
             "Skandagupta"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1295,7 +1412,8 @@
             "Shakas",
             "Kushans",
             "Mauryas"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1306,7 +1424,8 @@
             "Pratihara era",
             "Rashtrakut era",
             "Satavahana era"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1317,7 +1436,8 @@
             "Pala Dynasty",
             "Rashtrakuta",
             "Pratihara"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1328,7 +1448,8 @@
             "tenth part of the production",
             "half part of the production",
             "third part of the production"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1339,7 +1460,8 @@
             "One-eighth",
             "One-third",
             "One-fourth"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1350,7 +1472,8 @@
             "Irrigated land",
             "Dense Forest Land",
             "Cultivated Land"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1361,7 +1484,8 @@
             "525 to 5529 CE",
             "545 to 552 CE",
             "592 to 597 CE"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1372,7 +1496,8 @@
             "Tarikh-i-Rashidi",
             "Subh-u'l-Asha",
             "Riyaz-us-salatin"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1383,7 +1508,8 @@
             "Nyaya",
             "Sankhya",
             "Yoga"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1394,7 +1520,8 @@
             "Aryabhatta",
             "Vishnugupta",
             "Parimalgupta"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1405,7 +1532,8 @@
             "Rajyavardhana",
             "Harshavardhana",
             "Prabhakarvardhana"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1416,7 +1544,8 @@
             "Fa-Hien",
             "I-Tsing",
             "Taranath"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1427,7 +1556,8 @@
             "Harshavardhana",
             "Ramagupta",
             "Chandragupta I"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1438,7 +1568,8 @@
             "Varanasi",
             "Pataliputra",
             "Kanchi"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1449,7 +1580,8 @@
             "Taxilla",
             "Vikramshila",
             "Uddandapura"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1460,7 +1592,8 @@
             "405 CE",
             "635 CE",
             "637 CE"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1471,7 +1604,8 @@
             "Qutubuddin Aibak",
             "Muhammad Bin Tughlaq",
             "Alauddin Khalji"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1482,7 +1616,8 @@
             "Malik Husarnuddin",
             "Ibrahim",
             "Dariya Khan Noohani"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1493,7 +1628,8 @@
             "Eight",
             "Seven",
             "Six"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1504,7 +1640,8 @@
             "R. S. Tripathi",
             "Radha Kumud Mookerjee",
             "D. C. Sircar"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1515,7 +1652,8 @@
             "Ashoka",
             "Chandragupta Maurya",
             "Vikramaditya"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1526,7 +1664,8 @@
             "Chahamana",
             "Gurjara-Pratihara",
             "Paramara"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1537,7 +1676,8 @@
             "Shikhara",
             "Devalaya",
             "Mandapam"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1548,7 +1688,8 @@
             "Kushanas",
             "Western Shakas",
             "Vakatakas"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1559,7 +1700,8 @@
             "Trade with Ceylon",
             "Advancement in Tamil Culture",
             "War with the Rashtrakutas"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1570,7 +1712,8 @@
             "Karikal",
             "Aditya I",
             "Rajaraja I"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1581,7 +1724,8 @@
             "Chola",
             "Chera",
             "Pandya"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1592,7 +1736,8 @@
             "Important trade centre of spices",
             "Important trade centre of domestic trade",
             "Important trade centre of foreign trade"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1603,7 +1748,8 @@
             "Aswaghosha",
             "Kalidasa",
             "Bhasa"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1614,7 +1760,8 @@
             "Banabhatta",
             "Harishena",
             "Chanda Bardai"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1625,7 +1772,8 @@
             "Arthashastra",
             "Indica",
             "Purana"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1636,7 +1784,8 @@
             "Kalidasa",
             "Bhavabhutti",
             "Rajashekhara"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1647,7 +1796,8 @@
             "Bhatti",
             "Shudrak",
             "Kalidasa"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1658,7 +1808,8 @@
             "Thailand",
             "Burma",
             "Cambodia"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1669,7 +1820,8 @@
             "Gopala",
             "Devpala",
             "Mahipala"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1680,7 +1832,8 @@
             "Kalidasa",
             "Ravikirti",
             "Shudraka"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1691,7 +1844,8 @@
             "Banabhatta",
             "Charaka",
             "Dhanvantari"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1702,7 +1856,8 @@
             "Ghosha",
             "Apala",
             "Vishvavara"
-        ]
+        ],
+        "information": "Ghosha – Rigvedic woman seer (composer of hymns). Apala – Rigvedic woman seer (mentioned in Rigveda). Vishvavara – Rigvedic female rishi who composed hymns. Gargi – NOT Rigvedic; she belongs to the Later Vedic / Upanishadic period (Brihadaranyaka Upanishad)."
     },
     {
         "sheet": "HistoryAncient",
@@ -1713,7 +1868,8 @@
             "Vinay Patrika",
             "Geetavali",
             "Kavitavali"
-        ]
+        ],
+        "information": "Literary works of Tulsidas includes - Ramcharitmanas, Vinay Patrika, Dohavali, Kavitavali, Gitavali, Janaki Mangal, Ramalala Nahachhu, Parvati Mangal, Barvai Ramayana"
     },
     {
         "sheet": "HistoryAncient",
@@ -1724,7 +1880,8 @@
             "Third",
             "First",
             "Second"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "HistoryAncient",
@@ -1735,6 +1892,7 @@
             "Nagarjun",
             "Sheelbhadra",
             "Shantirakshit"
-        ]
+        ],
+        "information": "There were several Acharyas Nagarjuna, sheelbhadra and Shantirakshit at the Nalanda Mahabihar. Kautilya was not an Acharya in Nalanda Vishwavidyalaya."
     }
 ]

@@ -8,7 +8,8 @@
             "200 nautical miles",
             "24 nautical miles",
             "100 nautical miles"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -19,7 +20,8 @@
             "12 nautical miles",
             "24 nautical miles",
             "100 nautical miles"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -30,7 +32,8 @@
             180,
             360,
             179
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -41,7 +44,8 @@
             "minus 5 hour 30 minutes",
             "minus 4 hour 30 minutes",
             "plus 4 hour 30 minutes"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -52,7 +56,8 @@
             "Bundelkhand",
             "Kaimur",
             "Chhota-Nagpur"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -63,7 +68,8 @@
             "85deg 30min W",
             "88deg 30min E",
             "80deg 30min W"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -74,7 +80,8 @@
             "6 minutes",
             "60 minutes",
             "30 minutes"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -85,7 +92,8 @@
             "4:00 pm",
             "5:00 pm",
             "6:00 am"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -96,7 +104,8 @@
             "Great Himalayas",
             "Trans-Himalayas",
             "Lesser Himalayas"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -107,7 +116,8 @@
             "Western Ghats",
             "Himalayan Region",
             "North-Eastern Region"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -118,7 +128,8 @@
             "Mahendragiri",
             "Anai Mudi",
             "Kanchenjunga"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -129,7 +140,8 @@
             "Mahendragiri",
             "Arma Konda (Jhindhagada)",
             "Kanchenjunga"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -140,7 +152,8 @@
             "Everest",
             "Nanda Devi",
             "Kanchenjunga"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -151,7 +164,8 @@
             "Great Himalayas",
             "Shiwalik",
             "Lesser Himalayas"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -162,7 +176,8 @@
             "Trans-Himalaya",
             "Shiwalik",
             "Lesser Himalayas"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -173,7 +188,8 @@
             "Kanchenjunga",
             "Trishul",
             "Kamet"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -184,7 +200,8 @@
             "Proterozoic",
             "Mesozoic",
             "Palaeozoic"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -195,7 +212,8 @@
             "Satpura",
             "Vindhayan",
             "Eastern Ghats"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -206,7 +224,8 @@
             "Western Pir Panjal",
             "Zanskar",
             "Ladakh"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -217,7 +236,8 @@
             "Palni Hills",
             "Anaimudi Hills",
             "Shevaroy Hills"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -228,7 +248,8 @@
             "Nilgiri",
             "Shiwalik",
             "Nandi"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -239,7 +260,8 @@
             "Nilgiri Hills",
             "Anaialai Hills",
             "Shevaroy Hills"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -250,7 +272,8 @@
             "Garo Hills",
             "Khasi Hills",
             "Jaintia Hills"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -261,7 +284,8 @@
             "Palaeozoic Era",
             "Aozoic Era",
             "Mesozoic Era"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -272,7 +296,8 @@
             "pitfall",
             "foothill",
             "plain subland"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -283,7 +308,8 @@
             "Jamui",
             "Munger",
             "Nawada"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -294,7 +320,8 @@
             "Eight",
             "Thirteen",
             "Eleven"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -305,7 +332,8 @@
             "Accumulation of Volcanic substances",
             "Sedimentated Soil",
             "None of these"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -316,7 +344,8 @@
             16,
             17,
             26
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -327,7 +356,8 @@
             "Drylands",
             "Forests",
             "Hills"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -338,7 +368,8 @@
             "Methane",
             "Nitrous Oxide",
             "Carbon Dioxide"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -349,7 +380,8 @@
             "Carbon Monoxide",
             "Carbon Dioxide",
             "Nitrous Oxide"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -360,7 +392,8 @@
             "21.76 percent",
             "3.41 percent",
             "91.33 percent"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -371,7 +404,8 @@
             "25.17 percent",
             "3.41 percent",
             "91.33 percent"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -382,7 +416,8 @@
             "Mizoram",
             "Andman & Nicobar",
             "Madhya Pradesh"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -393,7 +428,8 @@
             "Arunanchal Pradesh",
             "Chhattisgarh",
             "Sikkim"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -404,7 +440,8 @@
             "Only Fauna",
             "Only Flora",
             "Only Birds"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -415,7 +452,8 @@
             "Western Ghats",
             "Andaman Islands",
             "North-Eastern Region"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -426,7 +464,8 @@
             "Bush Forest",
             "Oak Forest",
             "Maple Forest"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -437,7 +476,8 @@
             "Kolkata",
             "Odisha",
             "Delhi"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -448,7 +488,8 @@
             "Karnataka",
             "Madhya Pradesh",
             "Tamil Nadu"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -459,7 +500,8 @@
             "Sunderbans Project",
             "Project Big Cat",
             "Project Elephant"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -470,7 +512,8 @@
             "National Parks",
             "Wildlife Sanctuaries",
             "Biosphere Reserves"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -481,7 +524,8 @@
             90,
             19,
             45
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -492,7 +536,8 @@
             "India-Bangladesh",
             "India-Afghanistan",
             "India-China"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -503,7 +548,8 @@
             "Bangladesh",
             "Pakistan",
             "Myanmar"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -514,7 +560,8 @@
             "China",
             "Nepal",
             "Bhutan"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -525,7 +572,8 @@
             "Bhutan",
             "Myanmar",
             "Sri Lanka"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -536,7 +584,8 @@
             "Nepal",
             "Myanmar",
             "Sri Lanka"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -547,7 +596,8 @@
             "Kailash Range, Tibet",
             "Gangotri Glacier, Uttrakhand",
             "Karakoram Range, Ladakh"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -558,7 +608,8 @@
             "Jhelum and Ravi",
             "Beas and Sutlej",
             "Indus and Shyok"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -569,7 +620,8 @@
             "Ravi",
             "Chenab",
             "Beas"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -580,7 +632,8 @@
             "USA & Canada",
             "Namibia & Angola",
             "South Korea & North Korea"
-        ]
+        ],
+        "information": "The Maginot Line was a massive line of defensive fortifications built by France along its eastern border (mainly with Germany) between 1929 and 1938, named after French Minister of War André Maginot.\nIts purpose was to prevent a German invasion after the devastation of World War I."
     },
     {
         "sheet": "Geography",
@@ -591,7 +644,8 @@
             "Red Sea to Gulf of Aden",
             "Red Sea to Indian Sea",
             "Mediterranean Sea to Red Sea"
-        ]
+        ],
+        "information": "A strait is a narrow, naturally formed waterway that connects two larger bodies of water.\nStrait of Hormuz connects Persian Gulf to Gulf of Oman and it lies between Iran and Oman"
     },
     {
         "sheet": "Geography",
@@ -602,7 +656,8 @@
             "Greenwich",
             "Indira Point",
             "Sriharikota"
-        ]
+        ],
+        "information": "Ground Zero refers to the World Trade Center site in New York after the 9/11 terror attacks (2001)"
     },
     {
         "sheet": "Geography",
@@ -613,7 +668,8 @@
             "Isthmuses of Panama",
             "Karelian Isthmuses",
             "Isthmuses of Corinth"
-        ]
+        ],
+        "information": "Devil’s Neck is a descriptive name used in geography and geomorphology for a narrow, steep, and dangerous passage or landform"
     },
     {
         "sheet": "Geography",
@@ -624,7 +680,8 @@
             "Plantation Agriculture",
             "Subsistence type of Agriculture",
             "Dry Forming"
-        ]
+        ],
+        "information": "Ladang is a term used in Malaysia, Indonesia, and parts of Southeast Asia to refer to shifting cultivation, similar to jhum cultivation in Northeast India."
     },
     {
         "sheet": "Geography",
@@ -635,7 +692,8 @@
             "Srirangam Island",
             "Bhavani Island",
             "Agatti Island"
-        ]
+        ],
+        "information": "The largest river island in the world is Majuli in Assam, India, located in the Brahmaputra River.\nGuinness World Records lists its area as about 880 km²"
     },
     {
         "sheet": "Geography",
@@ -646,7 +704,8 @@
             "Narmada",
             "Mahanadi",
             "Kaveri"
-        ]
+        ],
+        "information": "The Godavari Basin is considered the second largest river basin of India due to its area entirely within the country's boundaries."
     },
     {
         "sheet": "Geography",
@@ -657,7 +716,8 @@
             "Karnprayag",
             "Vishnuprayag",
             "Rudraprayag"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -668,7 +728,8 @@
             "Bitra and Kavaratti",
             "Kavaratti and New Moore",
             "Pamban and Barren"
-        ]
+        ],
+        "information": "India has only two active volcanic regions, both located in the Andaman & Nicobar Islands, they are Narcondam and Barren"
     },
     {
         "sheet": "Geography",
@@ -679,7 +740,8 @@
             "Ranchi",
             "Srinagar",
             "Dehradun"
-        ]
+        ],
+        "information": "The Temperate Forest Research Centre in India is located in Shimla, Himachal Pradesh."
     },
     {
         "sheet": "Geography",
@@ -690,7 +752,8 @@
             "Assam",
             "Maharashtra",
             "Uttarakhand"
-        ]
+        ],
+        "information": ""
     },
     {
         "sheet": "Geography",
@@ -701,7 +764,8 @@
             "Valley",
             "River",
             "Mountain Series"
-        ]
+        ],
+        "information": "Loktak is one of the most unique and ecologically significant freshwater lakes in the world, located in the state of Manipur in Northeast India."
     },
     {
         "sheet": "Geography",
@@ -712,6 +776,7 @@
             "of Indo-African descent in the USA",
             "Indigenous tribal communities in Africa",
             "None of these"
-        ]
+        ],
+        "information": "Afrikaners are a white South African ethnic group primarily descended from Dutch, German, and French Huguenot settlers who arrived in South Africa during the 17th and 18th centuries. They developed a distinct language (Afrikaans), culture, and identity."
     }
 ]

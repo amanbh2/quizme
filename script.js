@@ -6,6 +6,7 @@ let questionStats = JSON.parse(localStorage.getItem('questionStats')) || {};
 let lastVisitDate = localStorage.getItem('lastVisitDate');
 
 let availableSheets = [];
+// When an incorrect answer is clicked, show information but keep Restart as a restart control
 
 document.addEventListener("DOMContentLoaded", function () {
     // Initialize settings panel
@@ -154,6 +155,12 @@ function showQuestion() {
         <p class="question"></p>
         <div class="choices"></div>
     `;
+    // Add an information container (hidden by default) that will be shown when an incorrect option is clicked
+    const infoParagraph = document.createElement('p');
+    infoParagraph.className = 'information';
+    infoParagraph.style.display = 'none';
+    questionDiv.appendChild(infoParagraph);
+
     questionDiv.querySelector('.question').textContent = questionData.question;
 
     const choicesDiv = questionDiv.querySelector('.choices');
@@ -167,6 +174,11 @@ function showQuestion() {
     });
 
     quizContainer.appendChild(questionDiv);
+
+    // Reset the information visibility when loading a new question
+    if (restartBtn) {
+        restartBtn.textContent = 'Restart';
+    }
 
     // Add keyboard support
     document.onkeydown = function(e) {
@@ -207,6 +219,8 @@ function updateLastVisitedDate() {
 window.onload = updateLastVisitedDate;
 
 function checkAnswer(button, selectedChoice, correctAnswer) {
+    // determine the current question data from global questions array
+    const questionData = questions[currentQuestionIndex] || {};
     const buttons = document.querySelectorAll(".choices button");
     const isCorrect = selectedChoice === correctAnswer.toString();
 
@@ -238,10 +252,23 @@ function checkAnswer(button, selectedChoice, correctAnswer) {
             showQuestion();
         }, 1000);
     }
+    else {
+        // Show the information text (if any) when the choice is wrong
+        const infoEl = document.querySelector('.information');
+        if (infoEl && questionData.information && questionData.information.toString().trim() !== '') {
+            infoEl.textContent = questionData.information;
+            infoEl.style.display = 'block';
+        }
+
+        // Show the information text but keep the Restart button as a restart (do not auto-advance)
+        // The user can press Restart to start a fresh quiz when they're done reading the info.
+    }
 }
 
 // Safely add event listener if element exists
 const restartBtn = document.getElementById("restart-btn");
 if (restartBtn) {
-    restartBtn.addEventListener("click", startQuiz);
+    restartBtn.addEventListener("click", () => {
+        startQuiz();
+    });
 }

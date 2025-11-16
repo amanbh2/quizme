@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
+
 /* Define color variables for easy customization */
 :root {
     --bg-color: #13111C;
@@ -43,7 +45,7 @@
 body {
     font-size: 16px;
     color: var(--text-color);
-    font-family: "Outfit", serif;
+    font-family: "Raleway", sans-serif;
     background-color: var(--bg-color);
     position: relative;
     min-height: 100vh;
@@ -87,7 +89,7 @@ a {
     place-items: center;
     grid-template-columns: 50px auto 50px;
     box-shadow: 0 4px 32px 0 rgba(124, 58, 237, 0.1);
-    font-family: "Outfit", serif;
+    font-family: "Raleway", sans-serif;
     backdrop-filter: blur(10px);
     border-bottom: 1px solid rgba(124, 58, 237, 0.2);
 }
@@ -150,6 +152,35 @@ a {
     text-shadow: 0 0 20px rgba(124, 58, 237, 0.3);
 }
 
+/* Information text shown when an incorrect answer is chosen */
+.information {
+    margin-top: 20px;
+    padding: 12px 16px;
+    background: rgba(255, 255, 255, 0.03);
+    border-left: 4px solid var(--accent-color);
+    border-radius: 8px;
+    color: var(--text-color);
+    font-size: 14px;
+    line-height: 1.4;
+    display: none; /* Hidden by default */
+}
+
+.continue-btn {
+    margin-top: 16px;
+    display: none;
+    padding: 8px 16px;
+    background: linear-gradient(90deg, #7C3AED, #6D28D9);
+    border: none;
+    color: white;
+    border-radius: 14px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.continue-btn:hover {
+    filter: brightness(0.95);
+}
+
 .choices button {
     display: block;
     width: 100%;
@@ -203,24 +234,40 @@ a {
     box-shadow: 0 0 15px rgba(251, 113, 133, 0.2);
 }
 
+
 #restart-btn {
-    margin: 0 auto;
-    height: 50px;
-    width: 50px;
-    background: transparent;
+    margin: 50px auto 0;
+    display: block;
+    width: fit-content;
+    height: auto;
+    padding: 8px 20px;
+    background: rgba(26, 22, 37, 0.3);
+    border: 2px solid rgba(124, 58, 237, 0.2);
     color: var(--text-color);
-    border: none;
-    font-size: 32px;
-    border-radius: 5px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    border-radius: 25px;
     cursor: pointer;
-    display: grid;
-    place-items: center;
-    transition: all 0.5s ease;
+    text-align: center;
+    transition: all 0.3s ease;
     outline: none;
+    backdrop-filter: blur(5px);
 }
 
 #restart-btn:hover {
-    transform: rotate(-180deg);
+    color: white;
+    border: 2px solid var(--accent-color);
+    background: rgba(124, 58, 237, 0.1);
+    transform: scale(1.02);
+    box-shadow: 0 0 15px rgba(124, 58, 237, 0.2);
+}
+
+#restart-btn:active {
+    transform: scale(0.98);
+}
+
+#restart-btn:active {
+    opacity: 0.9;
 }
 
 #streakBoard {
@@ -261,7 +308,7 @@ a {
 
 #github {
     bottom: 35px;
-    margin-top: 20px;
+    margin-top: 60px;
     margin-bottom: 10px;
 }
 
