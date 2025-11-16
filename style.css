@@ -72,6 +72,16 @@ body::before {
     z-index: 1;
 }
 
+.material-symbols-outlined {
+  font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24;
+  color: inherit;
+  font-size: 24px;
+  display: inline-block;
+}
 
 
 a {
@@ -484,4 +494,38 @@ a {
 
 #settings-btn:hover {
     color: var(--primary-color);
+}
+
+/* Navbar icon button (screenshot) */
+.icon-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-color);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    padding: 4px;
+    margin: 6px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.18s ease, transform 0.12s ease, color 0.18s ease;
+    outline: none;
+}
+
+.icon-btn:hover {
+    background: rgba(124, 58, 237, 0.08);
+    color: #fff;
+    transform: translateY(-1px);
+}
+
+.icon-btn:active {
+    transform: translateY(0);
+}
+
+.icon-btn .material-symbols-outlined {
+    font-variation-settings: 'wght' 400;
+    font-size: 20px;
+    line-height: 1;
 }

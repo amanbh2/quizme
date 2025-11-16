@@ -58,6 +58,32 @@ document.addEventListener("DOMContentLoaded", function () {
         progressBarContainer.appendChild(progressBar);
         container.prepend(progressBarContainer);
     }
+    // Add Screenshot button to top navbar (webpage-only capture using html2canvas)
+    if (!document.getElementById('screenshot-btn')) {
+        const headerRight = document.querySelector('#header > div:last-child');
+        const parent = headerRight || document.body;
+        const screenshotBtn = document.createElement('button');
+        screenshotBtn.id = 'screenshot-btn';
+        screenshotBtn.title = 'Capture webpage and download PNG';
+        screenshotBtn.setAttribute('aria-label', 'Take Screenshot');
+        // Use Google Material Symbols minimal icon
+        screenshotBtn.innerHTML = '<span class="material-symbols-outlined">download</span>';
+        screenshotBtn.title = 'Download page screenshot';
+        screenshotBtn.setAttribute('aria-label', 'Download Screenshot');
+        // Basic class for styling (optional)
+        screenshotBtn.className = 'icon-btn';
+
+        parent.appendChild(screenshotBtn);
+
+        screenshotBtn.addEventListener('click', async () => {
+            try {
+                await takeScreenshot();
+            } catch (err) {
+                console.error('Screenshot failed', err);
+                alert('Screenshot failed: ' + (err && err.message ? err.message : err));
+            }
+        });
+    }
 });
 
 function createSubjectDropdown() {
@@ -177,8 +203,12 @@ function showQuestion() {
 
     // Reset the information visibility when loading a new question
     if (restartBtn) {
-        restartBtn.textContent = 'Restart';
+            restartBtn.addEventListener("click", () => {
+                startQuiz();
+            });
     }
+
+    // (screenshot helpers moved to global scope)
 
     // Add keyboard support
     document.onkeydown = function(e) {
@@ -271,4 +301,58 @@ if (restartBtn) {
     restartBtn.addEventListener("click", () => {
         startQuiz();
     });
+}
+
+// Screenshot helper (html2canvas-only): dynamically loads html2canvas if needed
+async function takeScreenshot() {
+    // Ensure html2canvas is loaded
+    if (typeof html2canvas === 'undefined') {
+        await new Promise((resolve, reject) => {
+            const s = document.createElement('script');
+            s.src = 'https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js';
+            s.onload = resolve;
+            s.onerror = () => reject(new Error('Failed to load html2canvas'));
+            document.head.appendChild(s);
+        });
+    }
+
+    // Wait briefly for fonts / resources to settle for better fidelity
+    try {
+        if (document.fonts && document.fonts.ready) {
+            await document.fonts.ready;
+            await Promise.race([
+                document.fonts.load('20px "Material Symbols Outlined"'),
+                new Promise(res => setTimeout(res, 200))
+            ]);
+        }
+    } catch (e) {
+        console.warn('Font load warning', e);
+    }
+
+    // Capture the full document (page content only) with higher fidelity options
+    const canvas = await html2canvas(document.documentElement, {
+        scale: 3,                 // MUCH sharper (retina quality)
+        logging: false,
+        useCORS: true,            // helps include cross-origin images if CORS is enabled
+        allowTaint: true,
+        foreignObjectRendering: true, // generally better CSS fidelity
+        scrollX: -window.scrollX,
+        scrollY: -window.scrollY,
+        windowWidth: document.documentElement.scrollWidth,
+        windowHeight: document.documentElement.scrollHeight,
+    });
+
+    const blob = await new Promise(res => canvas.toBlob(res, 'image/png'));
+    downloadBlob(blob, `quizme-page-${new Date().toISOString().replace(/[:.]/g, '-')}.png`);
+}
+
+function downloadBlob(blob, filename) {
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    URL.revokeObjectURL(url);
 }
