@@ -9,7 +9,7 @@
             "24 nautical miles",
             "100 nautical miles"
         ],
-        "information": ""
+        "information": "United Nations Conference on the Law of Sea [UNCLOS-III (1982) ] established the 12-mile Territorial Sea limit 200-mile Exclusive Economic Zone limit for all countries"
     },
     {
         "sheet": "Geography",
@@ -21,7 +21,7 @@
             "24 nautical miles",
             "100 nautical miles"
         ],
-        "information": ""
+        "information": "United Nations Conference on the Law of Sea [UNCLOS-III (1982) ] established the 12-mile Territorial Sea limit 200-mile Exclusive Economic Zone limit for all countries"
     },
     {
         "sheet": "Geography",
@@ -33,7 +33,7 @@
             360,
             179
         ],
-        "information": ""
+        "information": "Latitude starts at 0° (Equator) and goes to 90° North and South; 90 (N) + 90 (S) + 1 (Equator)"
     },
     {
         "sheet": "Geography",
@@ -45,7 +45,7 @@
             "minus 4 hour 30 minutes",
             "plus 4 hour 30 minutes"
         ],
-        "information": ""
+        "information": "Indian Standard Time is ahead of Greenwich Mean Time by 5 hours and 30 minutes."
     },
     {
         "sheet": "Geography",
@@ -57,11 +57,11 @@
             "Kaimur",
             "Chhota-Nagpur"
         ],
-        "information": ""
+        "information": "Indian Standard Time (IST) [82 deg 30 min E] and Tropic of Cancer [22 deg 30 min N] intersect at Baghelkhand plateau region in Chhattisgarh"
     },
     {
         "sheet": "Geography",
-        "question": "On which longitude does Indian Standard Time coicide?",
+        "question": "Which one of the following longitudes is the standard meridian for India?",
         "answer": "82deg 30min E",
         "choices": [
             "82deg 30min E",
@@ -69,7 +69,7 @@
             "88deg 30min E",
             "80deg 30min W"
         ],
-        "information": ""
+        "information": "Indian Standard Time (IST) [82 deg 30 min E]"
     },
     {
         "sheet": "Geography",
@@ -81,7 +81,7 @@
             "60 minutes",
             "30 minutes"
         ],
-        "information": ""
+        "information": "Earth rotates 360° in 24 hours"
     },
     {
         "sheet": "Geography",
@@ -93,7 +93,7 @@
             "5:00 pm",
             "6:00 am"
         ],
-        "information": ""
+        "information": "1° change in longitude corresponds to 4 minute"
     },
     {
         "sheet": "Geography",
@@ -530,14 +530,14 @@
     {
         "sheet": "Geography",
         "question": "The Radcliffe Line demarcates the boundary between",
-        "answer": "India-Pakistan",
+        "answer": "India-Pakistan and India-Bangladesh",
         "choices": [
-            "India-Pakistan",
-            "India-Bangladesh",
+            "India-Pakistan and India-Bangladesh",
+            "India-Bhutan",
             "India-Afghanistan",
             "India-China"
         ],
-        "information": ""
+        "information": "The Radcliffe Line is the boundary demarcation line between India and Pakistan, drawn at the time of Partition in 1947. It divided: Punjab → India & West Pakistan and Bengal → India & East Pakistan (now Bangladesh)"
     },
     {
         "sheet": "Geography",
@@ -778,5 +778,257 @@
             "None of these"
         ],
         "information": "Afrikaners are a white South African ethnic group primarily descended from Dutch, German, and French Huguenot settlers who arrived in South Africa during the 17th and 18th centuries. They developed a distinct language (Afrikaans), culture, and identity."
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following latitudinal extent is relevant for the extent of India’s area?",
+        "answer": "8°4'N - 37°6'N",
+        "choices": [
+            "8°4'N - 37°6'N",
+            "8°41'N - 35°7'N",
+            "8°4'N - 35°6'N",
+            "6°45'N - 37°6'N"
+        ],
+        "information": "Latitudinal extent of India is from Kanyakumari ( 8° 4' N) to Ladakh (37° 6' N)"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following countries shares the longest land frontier with India?",
+        "answer": "Bangladesh",
+        "choices": [
+            "Bangladesh",
+            "China",
+            "Pakistan",
+            "Nepal"
+        ],
+        "information": "India shares largest border on land with Bangladesh - 4,097 km"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Northern-most latitude of India",
+        "answer": "37° 6' N",
+        "choices": [
+            "37° 6' N",
+            "8° 4' N",
+            "68° 7' N",
+            "97° 25' N"
+        ],
+        "information": "Latitudinal extent of India is from Kanyakumari ( 8° 4' N) to Ladakh (37° 6' N)"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Sorthern-most latitude of India",
+        "answer": "8° 4' N",
+        "choices": [
+            "8° 4' N",
+            "37° 6' N",
+            "68° 7' N",
+            "97° 25' N"
+        ],
+        "information": "Latitudinal extent of India is from Kanyakumari ( 8° 4' N) to Ladakh (37° 6' N)"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Eastern-most longitude of India",
+        "answer": "97° 25' E",
+        "choices": [
+            "97° 25' E",
+            "37° 6' E",
+            "68° 7' E",
+            "8° 4' E"
+        ],
+        "information": "Longitudinal extent of India is from Gujarat ( 68° 7' E) to Arunachal Pardesh (97° 25' E)"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Western-most longitude of India",
+        "answer": "68° 7' E",
+        "choices": [
+            "68° 7' E",
+            "37° 6' E",
+            "97° 25' E",
+            "8° 4' E"
+        ],
+        "information": "Longitudinal extent of India is from Gujarat ( 68° 7' E) to Arunachal Pardesh (97° 25' E)"
+    },
+    {
+        "sheet": "Geography",
+        "question": "How much is the time difference between easternmost and westernmost boundary regions of India?",
+        "answer": "Approximately 2 hours",
+        "choices": [
+            "Approximately 2 hours",
+            "Approximately 1 hours",
+            "Approximately 3 hours",
+            "Approximately 4 hours"
+        ],
+        "information": "Longitudinal extent of India is from Gujarat ( 68° 7' E) to Arunachal Pardesh (97° 25' E), which is around 30° corresponding to around 2 hours."
+    },
+    {
+        "sheet": "Geography",
+        "question": "Countries of the world select the standard meridian in multiples of",
+        "answer": "7° 30' ",
+        "choices": [
+            "7° 30' ",
+            "5° 30' ",
+            "2° 30' ",
+            "9° 30' "
+        ],
+        "information": "There is a general understanding among the countries of the world to select the standard meridian in multiples of 7°30' of longitude."
+    },
+    {
+        "sheet": "Geography",
+        "question": "The country with the highest number of time zones in the world is",
+        "answer": "France",
+        "choices": [
+            "France",
+            "USA",
+            "Russia",
+            "Australia"
+        ],
+        "information": "France has a total of 12 official time zones when accounting for its metropolitan area and all of its overseas departments and territories."
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the total area of India",
+        "answer": "32,87,263 square km",
+        "choices": [
+            "32,87,263 square km",
+            "17,87,263 square km",
+            "8,87,263 square km",
+            "62,87,263 square km"
+        ],
+        "information": "India’s total area is about 3,287,263 km²"
+    },
+    {
+        "sheet": "Geography",
+        "question": "India's share of the total land area of the world is approximately:",
+        "answer": "2.4 percent",
+        "choices": [
+            "2.4 percent",
+            "4.8 percent",
+            "7.0 percent",
+            "1.2 percent"
+        ],
+        "information": "India accounts for around 2.4% of the world’s land surface."
+    },
+    {
+        "sheet": "Geography",
+        "question": "By area, India ranks as the __ largest country in the world.",
+        "answer": "7th",
+        "choices": [
+            "7th",
+            "6th",
+            "4th",
+            "3rd"
+        ],
+        "information": "In terms of land area, India is the 7th-largest country."
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the approximate North–South extent of India?",
+        "answer": "3,214 km",
+        "choices": [
+            "3,214 km",
+            "2,933 km",
+            "2,500 km",
+            "3,500 km"
+        ],
+        "information": "India stretches 3,214 km from Kashmir (north) to Kanyakumari (south)."
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the approximate East–West extent of India?",
+        "answer": "2,933 km",
+        "choices": [
+            "2,933 km",
+            "3,214 km",
+            "2,500 km",
+            "3,500 km"
+        ],
+        "information": "India’s longitudinal spread from Gujarat (west) to Arunachal Pradesh (east) is 2,933 km."
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which country is the world has largest area",
+        "answer": "Russia",
+        "choices": [
+            "Russia",
+            "Australia",
+            "USA",
+            "China"
+        ],
+        "information": "Russia is the world's largest country with 17.1 million square km"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which strait separates India and Sri Lanka?",
+        "answer": "Palk Strait",
+        "choices": [
+            "Palk Strait",
+            "Sunda Strait",
+            "Malacca Strait",
+            "Ten Degree Channel"
+        ],
+        "information": "The Palk Strait lies between Tamil Nadu (India) and northern Sri Lanka, connecting the Bay of Bengal with the Gulf of Mannar"
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Palk Strait primarily connects which two water bodies?",
+        "answer": "Bay of Bengal and Gulf of Mannar",
+        "choices": [
+            "Bay of Bengal and Gulf of Mannar",
+            "Arabian Sea and Laccadive Sea",
+            "Andaman Sea and Bay of Bengal",
+            "Laccadive Sea and Indian Ocean"
+        ],
+        "information": "The Palk Strait links the northeastern Bay of Bengal (via Palk Bay) to the southwestern Gulf of Mannar"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which channel separates India (Minicoy, Lakshadweep) and the Maldives?",
+        "answer": "Eight Degree Channel",
+        "choices": [
+            "Eight Degree Channel",
+            "Nine Degree Channel",
+            "Ten Degree Channel",
+            "Twelve Degree Channel"
+        ],
+        "information": "The international maritime boundary between India and the Maldives runs through the Eight Degree channel."
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Ten Degree Channel separates which of the following?",
+        "answer": "Andaman Islands and Nicobar Islands",
+        "choices": [
+            "Andaman Islands and Nicobar Islands",
+            "Little Andaman and Great Nicobar",
+            "Minicoy and Maldives",
+            "Lakshadweep and Maldives"
+        ],
+        "information": "The Ten Degree Channel lies near 10°N and forms the deep-water separation between the Andaman and Nicobar island groups in the Bay of Bengal."
+    },
+    {
+        "sheet": "Geography",
+        "question": "What does the Nine Degree Channel separate?",
+        "answer": "Minicoy Island and the main Lakshadweep archipelago",
+        "choices": [
+            "Minicoy Island and the main Lakshadweep archipelago",
+            "India and Sri Lanka",
+            "Andaman and Nicobar Islands",
+            "Lakshadweep and Maldives"
+        ],
+        "information": "The Nine Degree Channel lies on the 9°N latitude and separates Minicoy (Maliku Atoll) from the rest of the Lakshadweep group (e.g., Kalpeni, Suheli Par). It is a major shipping route."
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Tropic of Cancer passes through how many states in India?",
+        "answer": "Eight",
+        "choices": [
+            "Eight",
+            "Six",
+            "Seven",
+            "Eleven"
+        ],
+        "information": "The Tropic of Cancer (23°30'N) passes through 8 states — Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram."
     }
 ]

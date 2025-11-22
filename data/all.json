@@ -1461,7 +1461,7 @@
             "Egypt",
             "Iran"
         ],
-        "information": ""
+        "information": "Indonesia became a full BRICS member in 2025"
     },
     {
         "sheet": "Recent2025",
@@ -3565,42 +3565,6 @@
     },
     {
         "sheet": "Recent2025",
-        "question": "Where was the 2024 G20 Summit held?",
-        "answer": "Rio de Janeiro",
-        "choices": [
-            "Rio de Janeiro",
-            "Salvador",
-            "Sao paulo",
-            "Brasilia"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Recent2025",
-        "question": "Who was the host president of Brazil during the 2024 G20 Summit?",
-        "answer": "Luiz Inácio Lula da Silva",
-        "choices": [
-            "Luiz Inácio Lula da Silva",
-            "Jair Bolsonaro",
-            "Michel Temer",
-            "Fernando Henrique Cardoso"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Recent2025",
-        "question": "What was the theme of the 2024 G20 Summit in Brazil?",
-        "answer": "Building a Just World and a Sustainable Planet",
-        "choices": [
-            "Building a Just World and a Sustainable Planet",
-            "Global Economic Recovery",
-            "Climate Action for All",
-            "Digital Transformation and Inclusion"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Recent2025",
         "question": "Who was honored with the 34th Vyas Samman in 2024?",
         "answer": "Suryabala",
         "choices": [
@@ -4222,6 +4186,222 @@
             "15th November 2025"
         ],
         "information": ""
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "CRISPR-edited crops like Birsa-101 are NOT considered GMOs in many countries because",
+        "answer": "No foreign DNA may remain after editing",
+        "choices": [
+            "No foreign DNA may remain after editing",
+            "They are always produced using organic methods",
+            "They use radiation-based mutation",
+            "They do not require laboratory conditions"
+        ],
+        "information": "Gene editing modifies existing genes without inserting foreign DNA (transgenes). Hence many countries classify such crops as non-GMO or “less regulated” GMOs."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Where was the 17th BRICS Leaders’ Summit held in 2025?",
+        "answer": "Rio de Janeiro, Brazil",
+        "choices": [
+            "Rio de Janeiro, Brazil",
+            "New Delhi, India",
+            "Moscow, Russia",
+            "Johannesbug, South Africa"
+        ],
+        "information": "The 17th BRICS Leaders’ Summit took place in Rio de Janeiro, Brazil."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What was the theme of the 2025 BRICS Summit?",
+        "answer": "Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance",
+        "choices": [
+            "Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance",
+            "Global Peace and Security",
+            "Digital Economy and Innovation",
+            "BRICS for Climate Action"
+        ],
+        "information": "The Rio Declaration of the summit was under the theme: “Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance.”"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which country is set to host the BRICS Summit in 2026?",
+        "answer": "India",
+        "choices": [
+            "India",
+            "Russia",
+            "China",
+            "South Africa"
+        ],
+        "information": "At the conclusion of the 2025 BRICS Summit in Brazil, leaders confirmed India will take the BRICS Chairship in 2026 and host the 18th BRICS Summit."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Where was the G20 Leaders’ Summit in 2025 held?",
+        "answer": "Johannesburg, South Africa",
+        "choices": [
+            "Johannesburg, South Africa",
+            "Cape Town, South Africa",
+            "Pretoria, South Africa",
+            "Durban, South Africa"
+        ],
+        "information": "The 2025 G20 Summit will be held in Johannesburg."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the theme of the 2025 G20 Summit?",
+        "answer": "Solidarity, Equality, Sustainability",
+        "choices": [
+            "Solidarity, Equality, Sustainability",
+            "Sustainable Development, Equality, and Solidarity",
+            "One Earth, One Future",
+            "Global Cooperation for Prosperity"
+        ],
+        "information": "The theme adopted by South Africa for its G20 presidency in 2025 is “Solidarity, Equality, Sustainability.”"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who is the Chairperson of the G20 for the year 2025?",
+        "answer": "Cyril Ramaphosa",
+        "choices": [
+            "Cyril Ramaphosa",
+            "Luiz Inácio Lula da Silva",
+            "Narendra Modi",
+            "Julius Malema"
+        ],
+        "information": "South Africa holds the G20 Presidency in 2025, making President Cyril Ramaphosa the Chair of the G20 Leaders’ Summit."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which of the following countries are part of the G20 Troika for 2025?",
+        "answer": "Brazil, South Africa, United States",
+        "choices": [
+            "Brazil, South Africa, United States",
+            "India, Brazil, South Africa",
+            "South Africa, China, Italy",
+            "Brazil, India, Indonesia"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the official theme (or tagline) for IFFI Goa 2025 according to its organizers?",
+        "answer": "Convergence of Creativity & Technology",
+        "choices": [
+            "Convergence of Creativity & Technology",
+            "Cinema for Peace",
+            "World Cinema, One India",
+            "Digital Dreams"
+        ],
+        "information": "IFFI 2025 is being celebrated under the theme “Convergence of Creativity & Technology.”"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who among the following is being honoured at the closing ceremony of IFFI 2025?",
+        "answer": "Rajinikanth",
+        "choices": [
+            "Rajinikanth",
+            "Amitabh Bachchan",
+            "Shah Rukh Khan",
+            "Aamir Khan"
+        ],
+        "information": "Rajinikanth is being felicitated at the closing ceremony in recognition of his 50 years in cinema."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "When did the Government of India notify the implementation of all four Labour Codes?",
+        "answer": "21st November 2025",
+        "choices": [
+            "21st November 2025",
+            "1st January 2026",
+            "15th August 2025",
+            "26th January 2026"
+        ],
+        "information": "The Central Government notified 21 November 2025 as the date of enforcement for all four codes."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which of the following is not one of the four Labour Codes implemented by the Government?",
+        "answer": "Minimum Working Hours Code, 2020",
+        "choices": [
+            "Minimum Working Hours Code, 2020",
+            "Occupational Safety, Health and Working Conditions Code, 2020",
+            "Code on Wages, 2019",
+            "Industrial Relations Code, 2020"
+        ],
+        "information": "The four codes are: Code on Wages, 2019; Industrial Relations Code, 2020; Social Security Code, 2020 and Occupational Safety, Health and Working Condition Code, 2020"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Under the OSHWC Code, the maximum weekly working hour limit is:",
+        "answer": "48 hours",
+        "choices": [
+            "48 hours",
+            "45 hours",
+            "42 hours",
+            "40 hours"
+        ],
+        "information": "The OSHWC Code fixes 48 hours per week irrespective of daily flexibility (8–12 hours)"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Under the Social Security Code, 2020, fixed-term employees become eligible for gratuity after:",
+        "answer": "1 year",
+        "choices": [
+            "1 year",
+            "5 years",
+            "3 years",
+            "2 years"
+        ],
+        "information": "For the first time, fixed-term workers are eligible for gratuity after one year of service"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Under the new wage definition, Basic Pay + DA must constitute at least what percentage of total wages?",
+        "answer": "50 percent",
+        "choices": [
+            "50 percent",
+            "40 percent",
+            "30 percent",
+            "60 percent"
+        ],
+        "information": "The Code on Wages standardises wages: Basic + DA must be ≥50% of total wages, affecting PF and gratuity calculations."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The Social Security Code, 2020 is the first labour law in India to formally recognise which category of workers?",
+        "answer": "Gig and platform workers",
+        "choices": [
+            "Gig and platform workers",
+            "Contract workers",
+            "Industrial apprentices",
+            "Seasonal workers"
+        ],
+        "information": "For the first time, gig and platform workers (e.g., Swiggy, Ola, freelancers) are legally covered under social security schemes."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which of the following is the first labour code passed by Parliament among the four?",
+        "answer": "Code on Wages",
+        "choices": [
+            "Code on Wages",
+            "Industrial Relations Code",
+            "Social Security Code",
+            "Occupational Safety, Health and Working Condition Code"
+        ],
+        "information": "The Code on Wages, 2019 was enacted one year before the other three codes (passed in 2020)"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The four Labour Codes implemented in November 2025 consolidate how many earlier Central labour laws?",
+        "answer": 29,
+        "choices": [
+            29,
+            24,
+            17,
+            12
+        ],
+        "information": "The four codes consolidate 29 existing Central labour laws to simplify India’s labour regulation system."
     },
     {
         "sheet": "HistoryModern",
@@ -13845,7 +14025,7 @@
             "24 nautical miles",
             "100 nautical miles"
         ],
-        "information": ""
+        "information": "United Nations Conference on the Law of Sea [UNCLOS-III (1982) ] established the 12-mile Territorial Sea limit 200-mile Exclusive Economic Zone limit for all countries"
     },
     {
         "sheet": "Geography",
@@ -13857,7 +14037,7 @@
             "24 nautical miles",
             "100 nautical miles"
         ],
-        "information": ""
+        "information": "United Nations Conference on the Law of Sea [UNCLOS-III (1982) ] established the 12-mile Territorial Sea limit 200-mile Exclusive Economic Zone limit for all countries"
     },
     {
         "sheet": "Geography",
@@ -13869,7 +14049,7 @@
             360,
             179
         ],
-        "information": ""
+        "information": "Latitude starts at 0° (Equator) and goes to 90° North and South; 90 (N) + 90 (S) + 1 (Equator)"
     },
     {
         "sheet": "Geography",
@@ -13881,7 +14061,7 @@
             "minus 4 hour 30 minutes",
             "plus 4 hour 30 minutes"
         ],
-        "information": ""
+        "information": "Indian Standard Time is ahead of Greenwich Mean Time by 5 hours and 30 minutes."
     },
     {
         "sheet": "Geography",
@@ -13893,11 +14073,11 @@
             "Kaimur",
             "Chhota-Nagpur"
         ],
-        "information": ""
+        "information": "Indian Standard Time (IST) [82 deg 30 min E] and Tropic of Cancer [22 deg 30 min N] intersect at Baghelkhand plateau region in Chhattisgarh"
     },
     {
         "sheet": "Geography",
-        "question": "On which longitude does Indian Standard Time coicide?",
+        "question": "Which one of the following longitudes is the standard meridian for India?",
         "answer": "82deg 30min E",
         "choices": [
             "82deg 30min E",
@@ -13905,7 +14085,7 @@
             "88deg 30min E",
             "80deg 30min W"
         ],
-        "information": ""
+        "information": "Indian Standard Time (IST) [82 deg 30 min E]"
     },
     {
         "sheet": "Geography",
@@ -13917,7 +14097,7 @@
             "60 minutes",
             "30 minutes"
         ],
-        "information": ""
+        "information": "Earth rotates 360° in 24 hours"
     },
     {
         "sheet": "Geography",
@@ -13929,7 +14109,7 @@
             "5:00 pm",
             "6:00 am"
         ],
-        "information": ""
+        "information": "1° change in longitude corresponds to 4 minute"
     },
     {
         "sheet": "Geography",
@@ -14366,14 +14546,14 @@
     {
         "sheet": "Geography",
         "question": "The Radcliffe Line demarcates the boundary between",
-        "answer": "India-Pakistan",
+        "answer": "India-Pakistan and India-Bangladesh",
         "choices": [
-            "India-Pakistan",
-            "India-Bangladesh",
+            "India-Pakistan and India-Bangladesh",
+            "India-Bhutan",
             "India-Afghanistan",
             "India-China"
         ],
-        "information": ""
+        "information": "The Radcliffe Line is the boundary demarcation line between India and Pakistan, drawn at the time of Partition in 1947. It divided: Punjab → India & West Pakistan and Bengal → India & East Pakistan (now Bangladesh)"
     },
     {
         "sheet": "Geography",
@@ -14614,6 +14794,258 @@
             "None of these"
         ],
         "information": "Afrikaners are a white South African ethnic group primarily descended from Dutch, German, and French Huguenot settlers who arrived in South Africa during the 17th and 18th centuries. They developed a distinct language (Afrikaans), culture, and identity."
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following latitudinal extent is relevant for the extent of India’s area?",
+        "answer": "8°4'N - 37°6'N",
+        "choices": [
+            "8°4'N - 37°6'N",
+            "8°41'N - 35°7'N",
+            "8°4'N - 35°6'N",
+            "6°45'N - 37°6'N"
+        ],
+        "information": "Latitudinal extent of India is from Kanyakumari ( 8° 4' N) to Ladakh (37° 6' N)"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following countries shares the longest land frontier with India?",
+        "answer": "Bangladesh",
+        "choices": [
+            "Bangladesh",
+            "China",
+            "Pakistan",
+            "Nepal"
+        ],
+        "information": "India shares largest border on land with Bangladesh - 4,097 km"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Northern-most latitude of India",
+        "answer": "37° 6' N",
+        "choices": [
+            "37° 6' N",
+            "8° 4' N",
+            "68° 7' N",
+            "97° 25' N"
+        ],
+        "information": "Latitudinal extent of India is from Kanyakumari ( 8° 4' N) to Ladakh (37° 6' N)"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Sorthern-most latitude of India",
+        "answer": "8° 4' N",
+        "choices": [
+            "8° 4' N",
+            "37° 6' N",
+            "68° 7' N",
+            "97° 25' N"
+        ],
+        "information": "Latitudinal extent of India is from Kanyakumari ( 8° 4' N) to Ladakh (37° 6' N)"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Eastern-most longitude of India",
+        "answer": "97° 25' E",
+        "choices": [
+            "97° 25' E",
+            "37° 6' E",
+            "68° 7' E",
+            "8° 4' E"
+        ],
+        "information": "Longitudinal extent of India is from Gujarat ( 68° 7' E) to Arunachal Pardesh (97° 25' E)"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Western-most longitude of India",
+        "answer": "68° 7' E",
+        "choices": [
+            "68° 7' E",
+            "37° 6' E",
+            "97° 25' E",
+            "8° 4' E"
+        ],
+        "information": "Longitudinal extent of India is from Gujarat ( 68° 7' E) to Arunachal Pardesh (97° 25' E)"
+    },
+    {
+        "sheet": "Geography",
+        "question": "How much is the time difference between easternmost and westernmost boundary regions of India?",
+        "answer": "Approximately 2 hours",
+        "choices": [
+            "Approximately 2 hours",
+            "Approximately 1 hours",
+            "Approximately 3 hours",
+            "Approximately 4 hours"
+        ],
+        "information": "Longitudinal extent of India is from Gujarat ( 68° 7' E) to Arunachal Pardesh (97° 25' E), which is around 30° corresponding to around 2 hours."
+    },
+    {
+        "sheet": "Geography",
+        "question": "Countries of the world select the standard meridian in multiples of",
+        "answer": "7° 30' ",
+        "choices": [
+            "7° 30' ",
+            "5° 30' ",
+            "2° 30' ",
+            "9° 30' "
+        ],
+        "information": "There is a general understanding among the countries of the world to select the standard meridian in multiples of 7°30' of longitude."
+    },
+    {
+        "sheet": "Geography",
+        "question": "The country with the highest number of time zones in the world is",
+        "answer": "France",
+        "choices": [
+            "France",
+            "USA",
+            "Russia",
+            "Australia"
+        ],
+        "information": "France has a total of 12 official time zones when accounting for its metropolitan area and all of its overseas departments and territories."
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the total area of India",
+        "answer": "32,87,263 square km",
+        "choices": [
+            "32,87,263 square km",
+            "17,87,263 square km",
+            "8,87,263 square km",
+            "62,87,263 square km"
+        ],
+        "information": "India’s total area is about 3,287,263 km²"
+    },
+    {
+        "sheet": "Geography",
+        "question": "India's share of the total land area of the world is approximately:",
+        "answer": "2.4 percent",
+        "choices": [
+            "2.4 percent",
+            "4.8 percent",
+            "7.0 percent",
+            "1.2 percent"
+        ],
+        "information": "India accounts for around 2.4% of the world’s land surface."
+    },
+    {
+        "sheet": "Geography",
+        "question": "By area, India ranks as the __ largest country in the world.",
+        "answer": "7th",
+        "choices": [
+            "7th",
+            "6th",
+            "4th",
+            "3rd"
+        ],
+        "information": "In terms of land area, India is the 7th-largest country."
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the approximate North–South extent of India?",
+        "answer": "3,214 km",
+        "choices": [
+            "3,214 km",
+            "2,933 km",
+            "2,500 km",
+            "3,500 km"
+        ],
+        "information": "India stretches 3,214 km from Kashmir (north) to Kanyakumari (south)."
+    },
+    {
+        "sheet": "Geography",
+        "question": "What is the approximate East–West extent of India?",
+        "answer": "2,933 km",
+        "choices": [
+            "2,933 km",
+            "3,214 km",
+            "2,500 km",
+            "3,500 km"
+        ],
+        "information": "India’s longitudinal spread from Gujarat (west) to Arunachal Pradesh (east) is 2,933 km."
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which country is the world has largest area",
+        "answer": "Russia",
+        "choices": [
+            "Russia",
+            "Australia",
+            "USA",
+            "China"
+        ],
+        "information": "Russia is the world's largest country with 17.1 million square km"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which strait separates India and Sri Lanka?",
+        "answer": "Palk Strait",
+        "choices": [
+            "Palk Strait",
+            "Sunda Strait",
+            "Malacca Strait",
+            "Ten Degree Channel"
+        ],
+        "information": "The Palk Strait lies between Tamil Nadu (India) and northern Sri Lanka, connecting the Bay of Bengal with the Gulf of Mannar"
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Palk Strait primarily connects which two water bodies?",
+        "answer": "Bay of Bengal and Gulf of Mannar",
+        "choices": [
+            "Bay of Bengal and Gulf of Mannar",
+            "Arabian Sea and Laccadive Sea",
+            "Andaman Sea and Bay of Bengal",
+            "Laccadive Sea and Indian Ocean"
+        ],
+        "information": "The Palk Strait links the northeastern Bay of Bengal (via Palk Bay) to the southwestern Gulf of Mannar"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which channel separates India (Minicoy, Lakshadweep) and the Maldives?",
+        "answer": "Eight Degree Channel",
+        "choices": [
+            "Eight Degree Channel",
+            "Nine Degree Channel",
+            "Ten Degree Channel",
+            "Twelve Degree Channel"
+        ],
+        "information": "The international maritime boundary between India and the Maldives runs through the Eight Degree channel."
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Ten Degree Channel separates which of the following?",
+        "answer": "Andaman Islands and Nicobar Islands",
+        "choices": [
+            "Andaman Islands and Nicobar Islands",
+            "Little Andaman and Great Nicobar",
+            "Minicoy and Maldives",
+            "Lakshadweep and Maldives"
+        ],
+        "information": "The Ten Degree Channel lies near 10°N and forms the deep-water separation between the Andaman and Nicobar island groups in the Bay of Bengal."
+    },
+    {
+        "sheet": "Geography",
+        "question": "What does the Nine Degree Channel separate?",
+        "answer": "Minicoy Island and the main Lakshadweep archipelago",
+        "choices": [
+            "Minicoy Island and the main Lakshadweep archipelago",
+            "India and Sri Lanka",
+            "Andaman and Nicobar Islands",
+            "Lakshadweep and Maldives"
+        ],
+        "information": "The Nine Degree Channel lies on the 9°N latitude and separates Minicoy (Maliku Atoll) from the rest of the Lakshadweep group (e.g., Kalpeni, Suheli Par). It is a major shipping route."
+    },
+    {
+        "sheet": "Geography",
+        "question": "The Tropic of Cancer passes through how many states in India?",
+        "answer": "Eight",
+        "choices": [
+            "Eight",
+            "Six",
+            "Seven",
+            "Eleven"
+        ],
+        "information": "The Tropic of Cancer (23°30'N) passes through 8 states — Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram."
     },
     {
         "sheet": "Polity",
@@ -19040,6 +19472,42 @@
             "To create a 3D model of the entire Moon",
             "To test new lunar rovers",
             "to orbit around Moon"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Science",
+        "question": "CRISPR-Cas9 technology is originally derived from which biological system?",
+        "answer": "Bacterial adaptive immune system",
+        "choices": [
+            "Bacterial adaptive immune system",
+            "Plant immune system",
+            "Fungal metabolic pathway",
+            "Animal cell signalling pathway"
+        ],
+        "information": "CRISPR is a natural defense mechanism in bacteria that uses “Cas” enzymes to cut viral DNA. Scientists repurposed this mechanism for programmable genome editing."
+    },
+    {
+        "sheet": "Science",
+        "question": "CRISPR in gene editing stands for",
+        "answer": "Clustered Regularly Interspaced Short Palindromic Repeats",
+        "choices": [
+            "Clustered Regularly Interspaced Short Palindromic Repeats",
+            "Circular RNA Sequence for Protein Regulation",
+            "Controlled Response System for Precision Repair",
+            "Combined Replication System for Plant Research"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Science",
+        "question": "Base-editing systems (like BIRSA-101) enable which type of modification?",
+        "answer": "Conversion of one DNA base to another without cutting the DNA",
+        "choices": [
+            "Conversion of one DNA base to another without cutting the DNA",
+            "Changing entire chromosomes",
+            "Editing proteins directly",
+            "Editing only RNA sequences"
         ],
         "information": ""
     },

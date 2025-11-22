@@ -1461,7 +1461,7 @@
             "Egypt",
             "Iran"
         ],
-        "information": ""
+        "information": "Indonesia became a full BRICS member in 2025"
     },
     {
         "sheet": "Recent2025",
@@ -3565,42 +3565,6 @@
     },
     {
         "sheet": "Recent2025",
-        "question": "Where was the 2024 G20 Summit held?",
-        "answer": "Rio de Janeiro",
-        "choices": [
-            "Rio de Janeiro",
-            "Salvador",
-            "Sao paulo",
-            "Brasilia"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Recent2025",
-        "question": "Who was the host president of Brazil during the 2024 G20 Summit?",
-        "answer": "Luiz Inácio Lula da Silva",
-        "choices": [
-            "Luiz Inácio Lula da Silva",
-            "Jair Bolsonaro",
-            "Michel Temer",
-            "Fernando Henrique Cardoso"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Recent2025",
-        "question": "What was the theme of the 2024 G20 Summit in Brazil?",
-        "answer": "Building a Just World and a Sustainable Planet",
-        "choices": [
-            "Building a Just World and a Sustainable Planet",
-            "Global Economic Recovery",
-            "Climate Action for All",
-            "Digital Transformation and Inclusion"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Recent2025",
         "question": "Who was honored with the 34th Vyas Samman in 2024?",
         "answer": "Suryabala",
         "choices": [
@@ -4222,5 +4186,221 @@
             "15th November 2025"
         ],
         "information": ""
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "CRISPR-edited crops like Birsa-101 are NOT considered GMOs in many countries because",
+        "answer": "No foreign DNA may remain after editing",
+        "choices": [
+            "No foreign DNA may remain after editing",
+            "They are always produced using organic methods",
+            "They use radiation-based mutation",
+            "They do not require laboratory conditions"
+        ],
+        "information": "Gene editing modifies existing genes without inserting foreign DNA (transgenes). Hence many countries classify such crops as non-GMO or “less regulated” GMOs."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Where was the 17th BRICS Leaders’ Summit held in 2025?",
+        "answer": "Rio de Janeiro, Brazil",
+        "choices": [
+            "Rio de Janeiro, Brazil",
+            "New Delhi, India",
+            "Moscow, Russia",
+            "Johannesbug, South Africa"
+        ],
+        "information": "The 17th BRICS Leaders’ Summit took place in Rio de Janeiro, Brazil."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What was the theme of the 2025 BRICS Summit?",
+        "answer": "Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance",
+        "choices": [
+            "Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance",
+            "Global Peace and Security",
+            "Digital Economy and Innovation",
+            "BRICS for Climate Action"
+        ],
+        "information": "The Rio Declaration of the summit was under the theme: “Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance.”"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which country is set to host the BRICS Summit in 2026?",
+        "answer": "India",
+        "choices": [
+            "India",
+            "Russia",
+            "China",
+            "South Africa"
+        ],
+        "information": "At the conclusion of the 2025 BRICS Summit in Brazil, leaders confirmed India will take the BRICS Chairship in 2026 and host the 18th BRICS Summit."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Where was the G20 Leaders’ Summit in 2025 held?",
+        "answer": "Johannesburg, South Africa",
+        "choices": [
+            "Johannesburg, South Africa",
+            "Cape Town, South Africa",
+            "Pretoria, South Africa",
+            "Durban, South Africa"
+        ],
+        "information": "The 2025 G20 Summit will be held in Johannesburg."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the theme of the 2025 G20 Summit?",
+        "answer": "Solidarity, Equality, Sustainability",
+        "choices": [
+            "Solidarity, Equality, Sustainability",
+            "Sustainable Development, Equality, and Solidarity",
+            "One Earth, One Future",
+            "Global Cooperation for Prosperity"
+        ],
+        "information": "The theme adopted by South Africa for its G20 presidency in 2025 is “Solidarity, Equality, Sustainability.”"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who is the Chairperson of the G20 for the year 2025?",
+        "answer": "Cyril Ramaphosa",
+        "choices": [
+            "Cyril Ramaphosa",
+            "Luiz Inácio Lula da Silva",
+            "Narendra Modi",
+            "Julius Malema"
+        ],
+        "information": "South Africa holds the G20 Presidency in 2025, making President Cyril Ramaphosa the Chair of the G20 Leaders’ Summit."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which of the following countries are part of the G20 Troika for 2025?",
+        "answer": "Brazil, South Africa, United States",
+        "choices": [
+            "Brazil, South Africa, United States",
+            "India, Brazil, South Africa",
+            "South Africa, China, Italy",
+            "Brazil, India, Indonesia"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "What is the official theme (or tagline) for IFFI Goa 2025 according to its organizers?",
+        "answer": "Convergence of Creativity & Technology",
+        "choices": [
+            "Convergence of Creativity & Technology",
+            "Cinema for Peace",
+            "World Cinema, One India",
+            "Digital Dreams"
+        ],
+        "information": "IFFI 2025 is being celebrated under the theme “Convergence of Creativity & Technology.”"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Who among the following is being honoured at the closing ceremony of IFFI 2025?",
+        "answer": "Rajinikanth",
+        "choices": [
+            "Rajinikanth",
+            "Amitabh Bachchan",
+            "Shah Rukh Khan",
+            "Aamir Khan"
+        ],
+        "information": "Rajinikanth is being felicitated at the closing ceremony in recognition of his 50 years in cinema."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "When did the Government of India notify the implementation of all four Labour Codes?",
+        "answer": "21st November 2025",
+        "choices": [
+            "21st November 2025",
+            "1st January 2026",
+            "15th August 2025",
+            "26th January 2026"
+        ],
+        "information": "The Central Government notified 21 November 2025 as the date of enforcement for all four codes."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which of the following is not one of the four Labour Codes implemented by the Government?",
+        "answer": "Minimum Working Hours Code, 2020",
+        "choices": [
+            "Minimum Working Hours Code, 2020",
+            "Occupational Safety, Health and Working Conditions Code, 2020",
+            "Code on Wages, 2019",
+            "Industrial Relations Code, 2020"
+        ],
+        "information": "The four codes are: Code on Wages, 2019; Industrial Relations Code, 2020; Social Security Code, 2020 and Occupational Safety, Health and Working Condition Code, 2020"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Under the OSHWC Code, the maximum weekly working hour limit is:",
+        "answer": "48 hours",
+        "choices": [
+            "48 hours",
+            "45 hours",
+            "42 hours",
+            "40 hours"
+        ],
+        "information": "The OSHWC Code fixes 48 hours per week irrespective of daily flexibility (8–12 hours)"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Under the Social Security Code, 2020, fixed-term employees become eligible for gratuity after:",
+        "answer": "1 year",
+        "choices": [
+            "1 year",
+            "5 years",
+            "3 years",
+            "2 years"
+        ],
+        "information": "For the first time, fixed-term workers are eligible for gratuity after one year of service"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Under the new wage definition, Basic Pay + DA must constitute at least what percentage of total wages?",
+        "answer": "50 percent",
+        "choices": [
+            "50 percent",
+            "40 percent",
+            "30 percent",
+            "60 percent"
+        ],
+        "information": "The Code on Wages standardises wages: Basic + DA must be ≥50% of total wages, affecting PF and gratuity calculations."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The Social Security Code, 2020 is the first labour law in India to formally recognise which category of workers?",
+        "answer": "Gig and platform workers",
+        "choices": [
+            "Gig and platform workers",
+            "Contract workers",
+            "Industrial apprentices",
+            "Seasonal workers"
+        ],
+        "information": "For the first time, gig and platform workers (e.g., Swiggy, Ola, freelancers) are legally covered under social security schemes."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which of the following is the first labour code passed by Parliament among the four?",
+        "answer": "Code on Wages",
+        "choices": [
+            "Code on Wages",
+            "Industrial Relations Code",
+            "Social Security Code",
+            "Occupational Safety, Health and Working Condition Code"
+        ],
+        "information": "The Code on Wages, 2019 was enacted one year before the other three codes (passed in 2020)"
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The four Labour Codes implemented in November 2025 consolidate how many earlier Central labour laws?",
+        "answer": 29,
+        "choices": [
+            29,
+            24,
+            17,
+            12
+        ],
+        "information": "The four codes consolidate 29 existing Central labour laws to simplify India’s labour regulation system."
     }
 ]

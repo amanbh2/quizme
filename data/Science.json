@@ -1846,5 +1846,41 @@
             "to orbit around Moon"
         ],
         "information": ""
+    },
+    {
+        "sheet": "Science",
+        "question": "CRISPR-Cas9 technology is originally derived from which biological system?",
+        "answer": "Bacterial adaptive immune system",
+        "choices": [
+            "Bacterial adaptive immune system",
+            "Plant immune system",
+            "Fungal metabolic pathway",
+            "Animal cell signalling pathway"
+        ],
+        "information": "CRISPR is a natural defense mechanism in bacteria that uses “Cas” enzymes to cut viral DNA. Scientists repurposed this mechanism for programmable genome editing."
+    },
+    {
+        "sheet": "Science",
+        "question": "CRISPR in gene editing stands for",
+        "answer": "Clustered Regularly Interspaced Short Palindromic Repeats",
+        "choices": [
+            "Clustered Regularly Interspaced Short Palindromic Repeats",
+            "Circular RNA Sequence for Protein Regulation",
+            "Controlled Response System for Precision Repair",
+            "Combined Replication System for Plant Research"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Science",
+        "question": "Base-editing systems (like BIRSA-101) enable which type of modification?",
+        "answer": "Conversion of one DNA base to another without cutting the DNA",
+        "choices": [
+            "Conversion of one DNA base to another without cutting the DNA",
+            "Changing entire chromosomes",
+            "Editing proteins directly",
+            "Editing only RNA sequences"
+        ],
+        "information": ""
     }
 ]
