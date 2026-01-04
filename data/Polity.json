@@ -21,7 +21,7 @@
             "26th January 1950",
             "15th August 1949"
         ],
-        "information": ""
+        "information": "This is the exact date of adoption. It became effective (came into force) on 26 January 1950 to align with the anniversary of the 1930 Purna Swaraj Declaration."
     },
     {
         "sheet": "Polity",
@@ -2578,5 +2578,41 @@
             "Protection from the violation of the constitution"
         ],
         "information": ""
+    },
+    {
+        "sheet": "Polity",
+        "question": "Which landmark case described the Preamble as an integral part of the Constitution?",
+        "answer": "Kesavananda Bharati Case",
+        "choices": [
+            "Kesavananda Bharati Case",
+            "Golaknath Case",
+            "Minerva Mills Case",
+            "S.R. Bommai Case"
+        ],
+        "information": "In 1973, the Supreme Court held that the Preamble is part of the Constitution and plays a role in interpreting it, also laying down the Basic Structure Doctrine."
+    },
+    {
+        "sheet": "Polity",
+        "question": "The Preamble of the Indian Constitution declares India a:",
+        "answer": "Sovereign, Socialist, Secular, Democratic Republic",
+        "choices": [
+            "Sovereign, Socialist, Secular, Democratic Republic",
+            "Sovereign, Democratic, Socialist Republic",
+            "Socialist, Secular, Republic",
+            "Sovereign, Federal, Republic"
+        ],
+        "information": "The 42nd Amendment (1976) added the words Socialist and Secular. The Preamble outlines the identity and values of the Indian Republic."
+    },
+    {
+        "sheet": "Polity",
+        "question": "What was the total number of members in the Constituent Assembly after the partition?",
+        "answer": 299,
+        "choices": [
+            299,
+            389,
+            385,
+            250
+        ],
+        "information": "Originally 389, but reduced to 299 after partition as seats belonging to Pakistan were removed."
     }
 ]

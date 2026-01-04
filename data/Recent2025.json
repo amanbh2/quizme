@@ -4402,5 +4402,89 @@
             12
         ],
         "information": "The four codes consolidate 29 existing Central labour laws to simplify India’s labour regulation system."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The “dharm-dhwaj” hoisted atop Ram Mandir in November 2025 bears which of the following symbols?",
+        "answer": "Sun, Om and Kovidara tree",
+        "choices": [
+            "Sun, Om and Kovidara tree",
+            "Lotus and Trident",
+            "Peepal tree and Crescent",
+            "Conch and Chakra"
+        ],
+        "information": "The saffron flag (dharm-dhwaj) installed at the top of Ram Mandir includes depictions of the Sun, the sacred symbol “Om”, and the traditional Kovidara tree — symbols chosen to revive the heritage of the ancient Ayodhya kingdom."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The 2030 Commonwealth Games is seen as a stepping stone for India’s ambition to host which future global sporting event?",
+        "answer": "Olympic Games 2036",
+        "choices": [
+            "Olympic Games 2036",
+            "Asian Games 2032",
+            "Youth Olympics 2034",
+            "FIFA World Cup 2034"
+        ],
+        "information": "Indian officials view the 2030 CWG as a foundation for India’s broader goal of hosting the Olympic Games in 2036, leveraging enhanced infrastructure and international exposure."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The 2030 Commonwealth Games will mark which milestone edition of the Games?",
+        "answer": "Centenary (100-year) edition",
+        "choices": [
+            "Centenary (100-year) edition",
+            "20th Edition",
+            "30th Edition",
+            "25th Edition"
+        ],
+        "information": "The 1930 Games were the first; 2030 will mark 100 years since the inaugural event — hence it is referred to as the centenary edition."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which city has been selected to host the 2030 Commonwealth Games?",
+        "answer": "Ahmedabad",
+        "choices": [
+            "Ahmedabad",
+            "New Delhi",
+            "Bengaluru",
+            "Mumbai"
+        ],
+        "information": "In November 2025, the General Assembly of Commonwealth Sport ratified the bid of Ahmedabad (Amdavad), Gujarat, as the host city for the 2030 Commonwealth Games."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The Hayli Gubbi volcano that erupted in November 2025 is located in which region of Ethiopia?",
+        "answer": "Afar Region",
+        "choices": [
+            "Afar Region",
+            "Somali Region",
+            "Oromia Region",
+            "Trigray Region"
+        ],
+        "information": "The Hayli Gubbi volcano lies in the Afar region of northern/ northeastern Ethiopia, part of the tectonically active East African Rift system."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "The 2025 eruption of Hayli Gubbi was significant because it was the first known eruption in how many years (approximately)?",
+        "answer": "10,000–12,000 years",
+        "choices": [
+            "10,000–12,000 years",
+            "1,000 years",
+            "5,000 years",
+            "500 years"
+        ],
+        "information": "Geological/volcanological sources indicate that Hayli Gubbi had no recorded eruptions during the Holocene epoch — the 2025 event is the first documented activity after about 10,000–12,000 years of dormancy."
+    },
+    {
+        "sheet": "Recent2025",
+        "question": "Which geological feature/tectonic structure is responsible for the presence of volcanoes like Hayli Gubbi in Ethiopia?",
+        "answer": "East African Rift System",
+        "choices": [
+            "East African Rift System",
+            "Himalayan Orogenic Belt",
+            "Mid-Atlantic Ridge",
+            "Pacific Ring of Fire"
+        ],
+        "information": "Hayli Gubbi lies within the Rift Valley — part of the East African Rift System. This rift zone arises due to tectonic plates diverging, making it geologically active and home to many volcanoes."
     }
 ]

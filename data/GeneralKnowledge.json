@@ -1,18 +1,6 @@
 [
     {
         "sheet": "GeneralKnowledge",
-        "question": "World Biofuel Day is observed every year on which date?",
-        "answer": "10th August",
-        "choices": [
-            "10th August",
-            "8th June",
-            "14th Novemeber",
-            "16th September"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
         "question": "When is World Earth Day celebrated",
         "answer": "22nd April",
         "choices": [
@@ -32,18 +20,6 @@
             "22nd April",
             "9th August",
             "2nd October"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "When is World Sparrow Day celebrated?",
-        "answer": "20th March",
-        "choices": [
-            "20th March",
-            "20th May",
-            "20th April",
-            "20th June"
         ],
         "information": ""
     },
@@ -217,18 +193,6 @@
     },
     {
         "sheet": "GeneralKnowledge",
-        "question": "Government Report of which of the following countries is known as Yellow Book?",
-        "answer": "France",
-        "choices": [
-            "France",
-            "Britain",
-            "Italy",
-            "Germany"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
         "question": "Border Security Force came into existence in",
         "answer": 1965,
         "choices": [
@@ -289,42 +253,6 @@
     },
     {
         "sheet": "GeneralKnowledge",
-        "question": "Bhutan adopted its first written Constitution in the year",
-        "answer": 2008,
-        "choices": [
-            2008,
-            2005,
-            2006,
-            2010
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "The Head of State of Bhutan is known as",
-        "answer": "Druk Gyalpo",
-        "choices": [
-            "Druk Gyalpo",
-            "Druk Desi",
-            "Gyalpo Khesar",
-            "Gups"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Who was the first King (Druk Gyalpo) of Bhutan?",
-        "answer": "Ugyen Wangchuck",
-        "choices": [
-            "Ugyen Wangchuck",
-            "Jigme Singye Wangchuck",
-            "Jigme Dorji Wangchuck",
-            "Jigme Khesar Namgyel Wangchuck"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
         "question": "How many Indian Languages are accorded the satus of Classical Language?",
         "answer": "Eleven",
         "choices": [
@@ -334,5 +262,101 @@
             "Nine"
         ],
         "information": "There are eleven languages in India that have been accorded the status of a classical language: Tamil, Sanskrit, Telugu, Kannada, Malayalam, Odia, Marathi, Pali, Prakrit, Assamese, and Bengali"
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which of the following was not established on 1st January?",
+        "answer": "World Health Organisation (WHO)",
+        "choices": [
+            "World Health Organisation (WHO)",
+            "World Trade Organisation (WTO)",
+            "International Monetary Fund (IMF)",
+            "Geological Survey of India"
+        ],
+        "information": "Establishment Dates: WHO (7th April 1948), WTO (1st January 1995), IMF (1st January 1945), GSI (1st January 1851)"
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which Indian organisation, established on 1 January 1851, is one of the oldest scientific institutions in the world?",
+        "answer": "Geological Survey of India",
+        "choices": [
+            "Geological Survey of India",
+            "Indian Space and Research Organisation (ISRO)",
+            "India Meterological Department",
+            "Council of Scientific and Industrial Research"
+        ],
+        "information": "The Geological Survey of India (GSI) was established on 1st Jan 1851, founded by Sir Thomas Oldham, initially to survey India's coal and mineral resources for railway development"
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which is the first country in the world to celebrate New Year?",
+        "answer": "Kiribati",
+        "choices": [
+            "Kiribati",
+            "New Zealand",
+            "Australia",
+            "Japan"
+        ],
+        "information": "The Pacific island nation of Kiribati is the first country in the world to celebrate New Year's. Specifically, its Line Islands, which include Kiritimati (Christmas Island), are in the earliest time zone on Earth, UTC+14."
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which time zone is the first to enter the New Year?",
+        "answer": "UTC +14",
+        "choices": [
+            "UTC +14",
+            "UTC +12",
+            "UTC +13",
+            "UTC -12"
+        ],
+        "information": "The Pacific island nation of Kiribati is the first country in the world to celebrate New Year's. Specifically, its Line Islands, which include Kiritimati (Christmas Island), are in the earliest time zone on Earth, UTC+14."
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which place celebrates New Year last?",
+        "answer": "Howland and Baker Islands",
+        "choices": [
+            "Howland and Baker Islands",
+            "Samoa",
+            "Tonga",
+            "Fiji"
+        ],
+        "information": "The last places on Earth to celebrate New Year are the uninhabited U.S. territories of Baker Island and Howland Island (UTC -12)"
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "The Gregorian Calendar was introduced by",
+        "answer": "Pope Gregory XIII",
+        "choices": [
+            "Pope Gregory XIII",
+            "Julius Caesar",
+            "Augustus Caesar",
+            "Constantine"
+        ],
+        "information": "The Gregorian calendar was introduced by Pope Gregory XIII in February 1582. It was designed as a reform of the older Julian calendar, which had been in use since 45 BCE but contained a slight inaccuracy that caused it to drift out of sync with the solar year."
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "The Gregorian Calendar was introduced in the year",
+        "answer": "1582 CE",
+        "choices": [
+            "1582 CE",
+            "45 BCE",
+            "325 CE",
+            "1752 CE"
+        ],
+        "information": "The Gregorian calendar was introduced by Pope Gregory XIII in February 1582. It was designed as a reform of the older Julian calendar, which had been in use since 45 BCE but contained a slight inaccuracy that caused it to drift out of sync with the solar year."
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "The headquarters of the European Central Bank, which manages monetary policy for the Eurozone, is located in which city?",
+        "answer": "Frankfurt am Main",
+        "choices": [
+            "Frankfurt am Main",
+            "Luxembourg",
+            "Paris",
+            "Brussels"
+        ],
+        "information": "The European Central Bank is headquartered in Frankfurt am Main, Germany, from where it sets interest rates and controls euro monetary policy"
     }
 ]

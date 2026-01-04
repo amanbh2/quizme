@@ -1366,5 +1366,41 @@
             "Alauddin Khalji"
         ],
         "information": "Bahlul Khan Lodi reigned the longest during Delhi Sultanate - 38 years from 19 April 1451 to 12 July 1489"
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Guru Tegh Bahadur, the ninth Sikh Guru, was executed (martyrdom) in which year?",
+        "answer": 1675,
+        "choices": [
+            1675,
+            1661,
+            1699,
+            1708
+        ],
+        "information": "Guru Tegh Bahadur was executed in 1675 on the orders of Mughal Emperor Aurangzeb."
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "The title often used in popular memory for Guru Tegh Bahadur, referring to his defense of others, is",
+        "answer": "Hind Di Chadar (Shield of India)",
+        "choices": [
+            "Hind Di Chadar (Shield of India)",
+            "Banda Bahadur",
+            "Panth Ke Prakash",
+            "Sant Sipahi"
+        ],
+        "information": "Guru Tegh Bahadur is popularly called “Hind Di Chadar” for his sacrificial defense of the right of non-Muslim subjects (notably Kashmiri Pandits) to practice their religion — an epithet signifying protection of India’s pluralism."
+    },
+    {
+        "sheet": "HistoryMedieval",
+        "question": "Guru Ka Taal Gurdwara, associated with Guru Tegh Bahadur Ji, is located in which Indian city?",
+        "answer": "Agra",
+        "choices": [
+            "Agra",
+            "Amritsar",
+            "Patna",
+            "Chandigarh"
+        ],
+        "information": "Guru Ka Taal is a prominent Sikh pilgrimage site located in Agra, Uttar Pradesh, near Akbar’s Tomb at Sikandra. It marks the place where Guru Tegh Bahadur Ji surrendered to Mughal forces, an event preceding his martyrdom in 1675."
     }
 ]

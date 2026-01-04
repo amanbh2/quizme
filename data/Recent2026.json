@@ -1,0 +1,86 @@
+[
+    {
+        "sheet": "Recent2026",
+        "question": "The Ganga Water Treaty between India and Bangladesh was signed in",
+        "answer": 1996,
+        "choices": [
+            1996,
+            1986,
+            2006,
+            1976
+        ],
+        "information": "The treaty was signed on 12 December 1996 after decades of water disputes for next 30 years. It formalized water sharing from the Farakka Barrage, especially during the dry season."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "At which point is water flow measured under the Ganga Water Sharing Treaty between India and Bangladesh?",
+        "answer": "Farakka Barrage",
+        "choices": [
+            "Farakka Barrage",
+            "Hardinge Bridge",
+            "Sundarbans Delta",
+            "Bhagirathi River"
+        ],
+        "information": "The Farakka Barrage is the key location where water is measured before it enters Bangladesh. India manages the barrage, but the Ganga Water Treaty schedules guarantee minimum flow to Bangladesh."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which country adopted the euro as its official currency on 1 January 2026 and became the 21st member of the Eurozone?",
+        "answer": "Bulgaria",
+        "choices": [
+            "Bulgaria",
+            "Croatia",
+            "Romania",
+            "Sweden"
+        ],
+        "information": "Bulgaria adopted the euro on 1 January 2026, replacing the Bulgarian lev and becoming the 21st Eurozone member."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Before adopting the euro, a country must satisfy which set of economic conditions known as eligibility rules?",
+        "answer": "Maastricht Convergence Criteria",
+        "choices": [
+            "Maastricht Convergence Criteria",
+            "Bretton Woods Conditions",
+            "Lisbon Strategy",
+            "Copenhagen Criteria"
+        ],
+        "information": "The Maastricht Convergence Criteria define the economic requirements that an EU country must meet to adopt the euro."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which earlier tax system on “sin goods” is being replaced by the new HSNS Cess regime?",
+        "answer": "GST Compensation Cess",
+        "choices": [
+            "GST Compensation Cess",
+            "Luxury Tax",
+            "Value Added Tax",
+            "Excise Duty"
+        ],
+        "information": "The HSNS Cess regime replaces the GST compensation cess on goods like tobacco and pan masala once it is completely phased out"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The Health Security and National Security Cess Act, 2025 primarily aims to",
+        "answer": "Levy a special cess on harmful goods to fund health and security",
+        "choices": [
+            "Levy a special cess on harmful goods to fund health and security",
+            "Reduce GST rates on essential",
+            "Introduce income tax reforms",
+            "Replace customs duty"
+        ],
+        "information": "The HSNS Cess is a special tax on sin goods to raise funds for public health and national security after phasing out the GST compensation cess."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Piprahwa is considered important in Buddhism primarily because it is associated with",
+        "answer": "Distribution of Buddha’s relics after Mahaparinirvana",
+        "choices": [
+            "Distribution of Buddha’s relics after Mahaparinirvana",
+            "Buddha’s enlightenment",
+            "Buddha’s first sermon",
+            "Buddha’s meditation retreats"
+        ],
+        "information": "After the Mahaparinirvana of Gautama Buddha, his bodily relics were divided among several claimants. Piprahwa is linked with the relic share of the Shakyas, Buddha’s own clan."
+    }
+]
