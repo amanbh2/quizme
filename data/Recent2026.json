@@ -82,5 +82,161 @@
             "Buddha’s meditation retreats"
         ],
         "information": "After the Mahaparinirvana of Gautama Buddha, his bodily relics were divided among several claimants. Piprahwa is linked with the relic share of the Shakyas, Buddha’s own clan."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "According to agricultural data for the 2024-25 crop year, which country has emerged as the world's largest producer of rice, surpassing China?",
+        "answer": "India",
+        "choices": [
+            "India",
+            "Vietnam",
+            "Bangladesh",
+            "Thailand"
+        ],
+        "information": "India reached a record production of 150.18 million tonnes in 2024-25, officially overtaking China for the top spot in production."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What is the official theme for the World Economic Forum Annual Meeting 2026 held in Davos?",
+        "answer": "A Spirit of Dialogue",
+        "choices": [
+            "A Spirit of Dialogue",
+            "Stakeholders for a Cohesive and Sustainable World",
+            "Cooperation in a Fragmented World",
+            "History at a Turning Point"
+        ],
+        "information": "The World Economic Forum (WEF) Annual Meeting 2026 is took place in Davos, Switzerland (January 19–23, 2026). The theme for 2026 was - A Spirit of Dialogue"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The World Economic Forum Annual Meeting 2026 was held in which of the following locations?",
+        "answer": "Davos, Switzerland",
+        "choices": [
+            "Davos, Switzerland",
+            "New Delhi, India",
+            "Geneva, Switzerland",
+            "Zurich, Switzerland"
+        ],
+        "information": "Davos is the iconic and permanent venue for the WEF Annual Meetings, often referred to simply as the 'Davos Summit'."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 86th All India Presiding Officers’ Conference (AIPOC) was organized in January 2026 in which city?",
+        "answer": "Lucknow",
+        "choices": [
+            "Lucknow",
+            "Patna",
+            "Gandhinagar",
+            "Mumbai"
+        ],
+        "information": "Lucknow, Uttar Pradesh, hosted the 86th session of the AIPOC from January 19–21, 2026."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What was the official theme for the 86th All India Presiding Officers’ Conference held in 2026?",
+        "answer": "Strong Legislature - Prosperous Nation",
+        "choices": [
+            "Strong Legislature - Prosperous Nation",
+            "Digitisation of Democracy",
+            "One Nation, One Legislative Platform",
+            "Sabka Saath, Sabka Vikas"
+        ],
+        "information": "86th All India Presiding Officers’ Conference (AIPOC) in 2026 was hosted in Lucknow with theme: Strong Legislature - Prosperous Nation."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 28th Commonwealth Speakers’ Conference (CSPOC), inaugurated by PM Modi in January 2026, took place at which venue?",
+        "answer": "New Delhi",
+        "choices": [
+            "New Delhi",
+            "Gandhinagar",
+            "Patna",
+            "Mumbai"
+        ],
+        "information": "The international conference of Commonwealth speakers was held in the historic Samvidhan Sadan (old Parliament building) in New Delhi."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "ECOFIX technology promotes a 'Circular Economy' primarily by using which industrial by-product as a raw material?",
+        "answer": "Iron and Steel Slag",
+        "choices": [
+            "Iron and Steel Slag",
+            "Fly Ash from Thermal Power Plants",
+            "E-waste components",
+            "Plastic Waste"
+        ],
+        "information": "ECOFIX uses processed iron and steel slag, converting industrial waste into a durable construction input."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which premier Indian research institute developed the 'ECOFIX' pothole repair technology?",
+        "answer": "CSIR-Central Road Research Institute (CRRI)",
+        "choices": [
+            "CSIR-Central Road Research Institute (CRRI)",
+            "IIT Madras",
+            "National Highways Authority of India (NHAI)",
+            "Indian Institute of Science (IISc)"
+        ],
+        "information": "ECOFIX is an indigenous innovation developed by CSIR-CRRI to address the persistent problem of potholes in India."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "In September 2025, Prime Minister Narendra Modi inaugurated India’s first indigenous sex-sorted semen facility in which district of Bihar?",
+        "answer": "Purnea",
+        "choices": [
+            "Purnea",
+            "Muzaffarpur",
+            "Begusarai",
+            "Patna"
+        ],
+        "information": "The facility is located at the Maranga Semen Station in Purnea."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What is the name of the indigenous technology used in the Purnea sex-sorted semen facility to ensure the birth of female calves?",
+        "answer": "Gausort",
+        "choices": [
+            "Gausort",
+            "Kamdhenu-Sort",
+            "Pashu-Siddhi",
+            "Bihar-Gokul"
+        ],
+        "information": "\"Gausort\" was developed through a collaboration between the National Dairy Development Board (NDDB), IISc Bengaluru, and IIT Madras."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "With the use of 'Gausort' technology at the Purnea facility, what is the estimated accuracy/probability of producing female calves?",
+        "answer": "85% to 90%",
+        "choices": [
+            "85% to 90%",
+            "50% to 60%",
+            "70% to 75%",
+            "95% to 100%"
+        ],
+        "information": "Conventional semen has a 50:50 ratio, but this technology significantly increases the birth of female calves, reducing the economic burden of maintaining unproductive male cattle."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Shailesh Kumar, who recently made history by winning gold at the World Para Athletics Championships 2025, hails from which district of Bihar?",
+        "answer": "Jamui",
+        "choices": [
+            "Jamui",
+            "Munger",
+            "Banka",
+            "Lakhisarai"
+        ],
+        "information": "Shailesh Kumar, hailing from Islam Nagar village in Jamui district, Bihar, clinched gold in the men’s high jump T63 event at the World Para Athletics Championships 2025"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "In September 2025, Shailesh Kumar won India’s first-ever gold medal at the World Para Athletics Championships held in New Delhi. Which event did he compete in?",
+        "answer": "Men's High Jump T63",
+        "choices": [
+            "Men's High Jump T63",
+            "Men's Javelin Throw F64",
+            "Men's Long Jump T42",
+            "Men's Shot Put F37"
+        ],
+        "information": "Shailesh Kumar, hailing from Islam Nagar village in Jamui district, Bihar, clinched gold in the men’s high jump T63 event at the World Para Athletics Championships 2025"
     }
 ]

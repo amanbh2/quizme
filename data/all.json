@@ -1945,18 +1945,6 @@
     },
     {
         "sheet": "Recent2025",
-        "question": "How many Indian cities have been recently accredited as Wetland Cities according to Ramsar Convention",
-        "answer": "Two - Inodre & Udaipur",
-        "choices": [
-            "Two - Inodre & Udaipur",
-            "Two - Darbhanga & Jaipur",
-            "One - Darbhanga",
-            "One - Udaipur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Recent2025",
         "question": "Which country won ICC World Test Championship 2025",
         "answer": "South Africa",
         "choices": [
@@ -4570,6 +4558,162 @@
             "Buddha’s meditation retreats"
         ],
         "information": "After the Mahaparinirvana of Gautama Buddha, his bodily relics were divided among several claimants. Piprahwa is linked with the relic share of the Shakyas, Buddha’s own clan."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "According to agricultural data for the 2024-25 crop year, which country has emerged as the world's largest producer of rice, surpassing China?",
+        "answer": "India",
+        "choices": [
+            "India",
+            "Vietnam",
+            "Bangladesh",
+            "Thailand"
+        ],
+        "information": "India reached a record production of 150.18 million tonnes in 2024-25, officially overtaking China for the top spot in production."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What is the official theme for the World Economic Forum Annual Meeting 2026 held in Davos?",
+        "answer": "A Spirit of Dialogue",
+        "choices": [
+            "A Spirit of Dialogue",
+            "Stakeholders for a Cohesive and Sustainable World",
+            "Cooperation in a Fragmented World",
+            "History at a Turning Point"
+        ],
+        "information": "The World Economic Forum (WEF) Annual Meeting 2026 is took place in Davos, Switzerland (January 19–23, 2026). The theme for 2026 was - A Spirit of Dialogue"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The World Economic Forum Annual Meeting 2026 was held in which of the following locations?",
+        "answer": "Davos, Switzerland",
+        "choices": [
+            "Davos, Switzerland",
+            "New Delhi, India",
+            "Geneva, Switzerland",
+            "Zurich, Switzerland"
+        ],
+        "information": "Davos is the iconic and permanent venue for the WEF Annual Meetings, often referred to simply as the 'Davos Summit'."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 86th All India Presiding Officers’ Conference (AIPOC) was organized in January 2026 in which city?",
+        "answer": "Lucknow",
+        "choices": [
+            "Lucknow",
+            "Patna",
+            "Gandhinagar",
+            "Mumbai"
+        ],
+        "information": "Lucknow, Uttar Pradesh, hosted the 86th session of the AIPOC from January 19–21, 2026."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What was the official theme for the 86th All India Presiding Officers’ Conference held in 2026?",
+        "answer": "Strong Legislature - Prosperous Nation",
+        "choices": [
+            "Strong Legislature - Prosperous Nation",
+            "Digitisation of Democracy",
+            "One Nation, One Legislative Platform",
+            "Sabka Saath, Sabka Vikas"
+        ],
+        "information": "86th All India Presiding Officers’ Conference (AIPOC) in 2026 was hosted in Lucknow with theme: Strong Legislature - Prosperous Nation."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 28th Commonwealth Speakers’ Conference (CSPOC), inaugurated by PM Modi in January 2026, took place at which venue?",
+        "answer": "New Delhi",
+        "choices": [
+            "New Delhi",
+            "Gandhinagar",
+            "Patna",
+            "Mumbai"
+        ],
+        "information": "The international conference of Commonwealth speakers was held in the historic Samvidhan Sadan (old Parliament building) in New Delhi."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "ECOFIX technology promotes a 'Circular Economy' primarily by using which industrial by-product as a raw material?",
+        "answer": "Iron and Steel Slag",
+        "choices": [
+            "Iron and Steel Slag",
+            "Fly Ash from Thermal Power Plants",
+            "E-waste components",
+            "Plastic Waste"
+        ],
+        "information": "ECOFIX uses processed iron and steel slag, converting industrial waste into a durable construction input."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which premier Indian research institute developed the 'ECOFIX' pothole repair technology?",
+        "answer": "CSIR-Central Road Research Institute (CRRI)",
+        "choices": [
+            "CSIR-Central Road Research Institute (CRRI)",
+            "IIT Madras",
+            "National Highways Authority of India (NHAI)",
+            "Indian Institute of Science (IISc)"
+        ],
+        "information": "ECOFIX is an indigenous innovation developed by CSIR-CRRI to address the persistent problem of potholes in India."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "In September 2025, Prime Minister Narendra Modi inaugurated India’s first indigenous sex-sorted semen facility in which district of Bihar?",
+        "answer": "Purnea",
+        "choices": [
+            "Purnea",
+            "Muzaffarpur",
+            "Begusarai",
+            "Patna"
+        ],
+        "information": "The facility is located at the Maranga Semen Station in Purnea."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What is the name of the indigenous technology used in the Purnea sex-sorted semen facility to ensure the birth of female calves?",
+        "answer": "Gausort",
+        "choices": [
+            "Gausort",
+            "Kamdhenu-Sort",
+            "Pashu-Siddhi",
+            "Bihar-Gokul"
+        ],
+        "information": "\"Gausort\" was developed through a collaboration between the National Dairy Development Board (NDDB), IISc Bengaluru, and IIT Madras."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "With the use of 'Gausort' technology at the Purnea facility, what is the estimated accuracy/probability of producing female calves?",
+        "answer": "85% to 90%",
+        "choices": [
+            "85% to 90%",
+            "50% to 60%",
+            "70% to 75%",
+            "95% to 100%"
+        ],
+        "information": "Conventional semen has a 50:50 ratio, but this technology significantly increases the birth of female calves, reducing the economic burden of maintaining unproductive male cattle."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Shailesh Kumar, who recently made history by winning gold at the World Para Athletics Championships 2025, hails from which district of Bihar?",
+        "answer": "Jamui",
+        "choices": [
+            "Jamui",
+            "Munger",
+            "Banka",
+            "Lakhisarai"
+        ],
+        "information": "Shailesh Kumar, hailing from Islam Nagar village in Jamui district, Bihar, clinched gold in the men’s high jump T63 event at the World Para Athletics Championships 2025"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "In September 2025, Shailesh Kumar won India’s first-ever gold medal at the World Para Athletics Championships held in New Delhi. Which event did he compete in?",
+        "answer": "Men's High Jump T63",
+        "choices": [
+            "Men's High Jump T63",
+            "Men's Javelin Throw F64",
+            "Men's Long Jump T42",
+            "Men's Shot Put F37"
+        ],
+        "information": "Shailesh Kumar, hailing from Islam Nagar village in Jamui district, Bihar, clinched gold in the men’s high jump T63 event at the World Para Athletics Championships 2025"
     },
     {
         "sheet": "HistoryModern",
@@ -14738,9 +14882,9 @@
     {
         "sheet": "Geography",
         "question": "Total Ramsar sites in India?",
-        "answer": 91,
+        "answer": 96,
         "choices": [
-            91,
+            96,
             90,
             19,
             45
@@ -15250,6 +15394,30 @@
             "Eleven"
         ],
         "information": "The Tropic of Cancer (23°30'N) passes through 8 states — Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram."
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following scholars coined the term ‘Geography’?",
+        "answer": "Erathosthenese",
+        "choices": [
+            "Erathosthenese",
+            "Herodotus",
+            "Galileo",
+            "Aristotle"
+        ],
+        "information": "The term ‘Geography’ was coined by Eratosthenes in the 3rd century BCE. He used the Greek words Geo (Earth) and Graphia (to write or describe), meaning “description of the Earth.” Eratosthenes is also known for calculating the Earth’s circumference with remarkable accuracy, earning him the title “Father of Geography.”"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which scholar first used the Hindi term Bhugol for Geography?",
+        "answer": "Aryabhatta",
+        "choices": [
+            "Aryabhatta",
+            "Varahmihira",
+            "Ptolemy",
+            "Kautilya"
+        ],
+        "information": "The Hindi term ‘Bhūgol’ is derived from Sanskrit — Bhū (Earth) and Gol (sphere). The use of this concept is traditionally attributed to Āryabhaṭṭa"
     },
     {
         "sheet": "Polity",
@@ -19752,6 +19920,30 @@
         "information": ""
     },
     {
+        "sheet": "Science",
+        "question": "Which nutrient is Makhana particularly rich in, making it a popular 'superfood'?",
+        "answer": "Protein and Magnesium",
+        "choices": [
+            "Protein and Magnesium",
+            "Vitamin B12",
+            "Vitamin C",
+            "Iron"
+        ],
+        "information": "Makhana is highly valued for being a low-fat, high-protein snack rich in magnesium and potassium."
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the botanical name of the Makhana plant?",
+        "answer": "Euryale Ferox",
+        "choices": [
+            "Euryale Ferox",
+            "Nelumbo Nucifera",
+            "Litchi Chinensis",
+            "Oryza Sativa"
+        ],
+        "information": "Euryale ferox is the scientific name for the prickly water lily that produces makhana."
+    },
+    {
         "sheet": "GeneralKnowledge",
         "question": "When is World Earth Day celebrated",
         "answer": "22nd April",
@@ -20110,6 +20302,30 @@
             "Brussels"
         ],
         "information": "The European Central Bank is headquartered in Frankfurt am Main, Germany, from where it sets interest rates and controls euro monetary policy"
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which specific region is historically and geographically referred to as the 'Rice Bowl of India'?",
+        "answer": "Krishna-Godavari Delta",
+        "choices": [
+            "Krishna-Godavari Delta",
+            "Malabar Coast",
+            "Indo-Gangetic Plain",
+            "Brahmaputra Valley"
+        ],
+        "information": "The fertile silt and irrigation in this delta region of Andhra Pradesh have historically earned it this title."
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which Indian state is often called the 'Bowl of Rice' (Dhan ka Katora) due to its vast diversity of traditional rice varieties (over 20,000)?",
+        "answer": "Chhattisgarh",
+        "choices": [
+            "Chhattisgarh",
+            "Odisha",
+            "Bengal",
+            "Punjab"
+        ],
+        "information": "Chhattisgarh is famous for its massive biodiversity in rice, earning it this specific nickname in central India."
     },
     {
         "sheet": "UnionEconomy",
@@ -22645,10 +22861,10 @@
     },
     {
         "sheet": "BiharSpecific",
-        "question": "How may Ramsar sites are there in Bihar as of 2025",
-        "answer": "Three",
+        "question": "How may Ramsar sites are there in Bihar as of 2026",
+        "answer": "Six",
         "choices": [
-            "Three",
+            "Six",
             "Four",
             "Two",
             "Five"
@@ -24538,6 +24754,30 @@
             "WHO"
         ],
         "information": "The organization that recognized the Nagi Bird Sanctuary located in Jamui, Bihar as an Important Bird and Biodiversity Area is BirdLife International"
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "With reference to Bihar's agriculture, which aromatic rice variety from the West Champaran district was awarded the GI (Geographical Indication) tag recently?",
+        "answer": "Marcha Rice",
+        "choices": [
+            "Marcha Rice",
+            "Basmati Rice",
+            "Gobindobhog Rice",
+            "Kalanamak Rice"
+        ],
+        "information": "Marcha (or Mircha) rice is famous for its black pepper-like appearance and unique aroma, receiving the GI tag for Bihar."
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "In which district is Bihar's largest battery-based solar power plant located?",
+        "answer": "Lakhisarai",
+        "choices": [
+            "Lakhisarai",
+            "Bhagalpur",
+            "Banka",
+            "Jamui"
+        ],
+        "information": "Kajra Solar Power Plant is situated at Kajra in the Lakhisarai district. It features a 495 MWh battery system, making it one of India's largest storage-backed solar projects."
     },
     {
         "sheet": "BiharEconomy",

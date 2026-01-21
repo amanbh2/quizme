@@ -518,9 +518,9 @@
     {
         "sheet": "Geography",
         "question": "Total Ramsar sites in India?",
-        "answer": 91,
+        "answer": 96,
         "choices": [
-            91,
+            96,
             90,
             19,
             45
@@ -1030,5 +1030,29 @@
             "Eleven"
         ],
         "information": "The Tropic of Cancer (23°30'N) passes through 8 states — Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram."
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which one of the following scholars coined the term ‘Geography’?",
+        "answer": "Erathosthenese",
+        "choices": [
+            "Erathosthenese",
+            "Herodotus",
+            "Galileo",
+            "Aristotle"
+        ],
+        "information": "The term ‘Geography’ was coined by Eratosthenes in the 3rd century BCE. He used the Greek words Geo (Earth) and Graphia (to write or describe), meaning “description of the Earth.” Eratosthenes is also known for calculating the Earth’s circumference with remarkable accuracy, earning him the title “Father of Geography.”"
+    },
+    {
+        "sheet": "Geography",
+        "question": "Which scholar first used the Hindi term Bhugol for Geography?",
+        "answer": "Aryabhatta",
+        "choices": [
+            "Aryabhatta",
+            "Varahmihira",
+            "Ptolemy",
+            "Kautilya"
+        ],
+        "information": "The Hindi term ‘Bhūgol’ is derived from Sanskrit — Bhū (Earth) and Gol (sphere). The use of this concept is traditionally attributed to Āryabhaṭṭa"
     }
 ]

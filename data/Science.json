@@ -1882,5 +1882,29 @@
             "Editing only RNA sequences"
         ],
         "information": ""
+    },
+    {
+        "sheet": "Science",
+        "question": "Which nutrient is Makhana particularly rich in, making it a popular 'superfood'?",
+        "answer": "Protein and Magnesium",
+        "choices": [
+            "Protein and Magnesium",
+            "Vitamin B12",
+            "Vitamin C",
+            "Iron"
+        ],
+        "information": "Makhana is highly valued for being a low-fat, high-protein snack rich in magnesium and potassium."
+    },
+    {
+        "sheet": "Science",
+        "question": "What is the botanical name of the Makhana plant?",
+        "answer": "Euryale Ferox",
+        "choices": [
+            "Euryale Ferox",
+            "Nelumbo Nucifera",
+            "Litchi Chinensis",
+            "Oryza Sativa"
+        ],
+        "information": "Euryale ferox is the scientific name for the prickly water lily that produces makhana."
     }
 ]

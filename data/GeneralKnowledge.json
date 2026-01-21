@@ -358,5 +358,29 @@
             "Brussels"
         ],
         "information": "The European Central Bank is headquartered in Frankfurt am Main, Germany, from where it sets interest rates and controls euro monetary policy"
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which specific region is historically and geographically referred to as the 'Rice Bowl of India'?",
+        "answer": "Krishna-Godavari Delta",
+        "choices": [
+            "Krishna-Godavari Delta",
+            "Malabar Coast",
+            "Indo-Gangetic Plain",
+            "Brahmaputra Valley"
+        ],
+        "information": "The fertile silt and irrigation in this delta region of Andhra Pradesh have historically earned it this title."
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which Indian state is often called the 'Bowl of Rice' (Dhan ka Katora) due to its vast diversity of traditional rice varieties (over 20,000)?",
+        "answer": "Chhattisgarh",
+        "choices": [
+            "Chhattisgarh",
+            "Odisha",
+            "Bengal",
+            "Punjab"
+        ],
+        "information": "Chhattisgarh is famous for its massive biodiversity in rice, earning it this specific nickname in central India."
     }
 ]

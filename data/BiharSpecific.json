@@ -1513,10 +1513,10 @@
     },
     {
         "sheet": "BiharSpecific",
-        "question": "How may Ramsar sites are there in Bihar as of 2025",
-        "answer": "Three",
+        "question": "How may Ramsar sites are there in Bihar as of 2026",
+        "answer": "Six",
         "choices": [
-            "Three",
+            "Six",
             "Four",
             "Two",
             "Five"
@@ -3406,5 +3406,29 @@
             "WHO"
         ],
         "information": "The organization that recognized the Nagi Bird Sanctuary located in Jamui, Bihar as an Important Bird and Biodiversity Area is BirdLife International"
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "With reference to Bihar's agriculture, which aromatic rice variety from the West Champaran district was awarded the GI (Geographical Indication) tag recently?",
+        "answer": "Marcha Rice",
+        "choices": [
+            "Marcha Rice",
+            "Basmati Rice",
+            "Gobindobhog Rice",
+            "Kalanamak Rice"
+        ],
+        "information": "Marcha (or Mircha) rice is famous for its black pepper-like appearance and unique aroma, receiving the GI tag for Bihar."
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "In which district is Bihar's largest battery-based solar power plant located?",
+        "answer": "Lakhisarai",
+        "choices": [
+            "Lakhisarai",
+            "Bhagalpur",
+            "Banka",
+            "Jamui"
+        ],
+        "information": "Kajra Solar Power Plant is situated at Kajra in the Lakhisarai district. It features a 495 MWh battery system, making it one of India's largest storage-backed solar projects."
     }
 ]

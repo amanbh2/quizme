@@ -1945,18 +1945,6 @@
     },
     {
         "sheet": "Recent2025",
-        "question": "How many Indian cities have been recently accredited as Wetland Cities according to Ramsar Convention",
-        "answer": "Two - Inodre & Udaipur",
-        "choices": [
-            "Two - Inodre & Udaipur",
-            "Two - Darbhanga & Jaipur",
-            "One - Darbhanga",
-            "One - Udaipur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Recent2025",
         "question": "Which country won ICC World Test Championship 2025",
         "answer": "South Africa",
         "choices": [
