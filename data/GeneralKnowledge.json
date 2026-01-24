@@ -217,7 +217,7 @@
     },
     {
         "sheet": "GeneralKnowledge",
-        "question": "Who wrote our national song Vade Mataram?",
+        "question": "Who wrote our national song Vande Mataram?",
         "answer": "Bankim Chandra Chattopadhyay",
         "choices": [
             "Bankim Chandra Chattopadhyay",
@@ -225,7 +225,7 @@
             "Rabindranath Thakur",
             "Satyendranath Thakur"
         ],
-        "information": ""
+        "information": "Vande Mataram was composed in 1875 by Bankim Chandra Chattopadhyay and published in Bangdarshan journal in Bengali language originally."
     },
     {
         "sheet": "GeneralKnowledge",
@@ -249,7 +249,7 @@
             "Krishnakanter Will",
             "Kapalkundala"
         ],
-        "information": ""
+        "information": "The song was included in the novel Anandamath (1882), set against the backdrop of the Sanyasi Rebellion."
     },
     {
         "sheet": "GeneralKnowledge",
@@ -382,5 +382,29 @@
             "Punjab"
         ],
         "information": "Chhattisgarh is famous for its massive biodiversity in rice, earning it this specific nickname in central India."
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "Which Indian city is the permanent host of the 'WHO Global Centre for Traditional Medicine' (GCTM)?",
+        "answer": "Jamnagar",
+        "choices": [
+            "Jamnagar",
+            "Varanasi",
+            "Pune",
+            "Rishikesh"
+        ],
+        "information": "Jamnagar, Gujarat, hosts this unique global hub which is the first and only outposted center of WHO for traditional medicine."
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "The Kimberley Process Certification Scheme (KPCS) primarily aims to",
+        "answer": "Prevent trade in conflict diamonds that finance armed conflicts",
+        "choices": [
+            "Prevent trade in conflict diamonds that finance armed conflicts",
+            "Regulate prices of diamonds",
+            "Promote synthetic diamonds",
+            "Ban all cross‑border diamond trade"
+        ],
+        "information": "The KP’s core objective is to prevent “conflict diamonds”—rough diamonds used to finance rebel movements—from entering the global market."
     }
 ]

@@ -238,5 +238,593 @@
             "Men's Shot Put F37"
         ],
         "information": "Shailesh Kumar, hailing from Islam Nagar village in Jamui district, Bihar, clinched gold in the men’s high jump T63 event at the World Para Athletics Championships 2025"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following is the heaviest payload ever launched from Indian soil?",
+        "answer": "BlueBird Block-2",
+        "choices": [
+            "BlueBird Block-2",
+            "GSAT-11",
+            "GSAT-29",
+            "CMS-03 (GSAT-7R)"
+        ],
+        "information": "BlueBird Block-2 (~6,100 kg) launched by LVM3 is the heaviest payload launched from Indian soil, it was built by USA."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following commands acted as the lead service during Exercise Trishul 2025?",
+        "answer": "Indian Navy",
+        "choices": [
+            "Indian Navy",
+            "Indian Air Force",
+            "Indian Army",
+            "Integrated Defence Staff"
+        ],
+        "information": "The Indian Navy (Western Naval Command) acted as the lead service, with the Army (Southern Command) and Air Force (South Western Air Command) as principal participants."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "One of the key objectives of Exercise Trishul 2025 was to:",
+        "answer": "Enhance inter-service coordination and joint operational readiness",
+        "choices": [
+            "Enhance inter-service coordination and joint operational readiness",
+            "Test nuclear deterrence capability",
+            "Validate joint command theatre structure",
+            "Conduct peace-keeping training under UN mandate"
+        ],
+        "information": "Tri-Services Exercise (TSE-2025) “Trishul” is a major joint military drill conducted by the Indian Armed Forces involving the Indian Army, Navy, and Air Force. It is part of India’s series of large-scale tri-service exercises designed to enhance inter-service coordination, joint operational readiness, and multi-domain combat capability across land, sea, and air."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 2025 ICC Women’s Cricket World Cup was co-hosted by which two countries?",
+        "answer": "India & Sri Lanka",
+        "choices": [
+            "India & Sri Lanka",
+            "India & Bangladesh",
+            "India & Pakistan",
+            "Sri Lanka & Bangladesh"
+        ],
+        "information": "The 2025 ICC Women’s Cricket World Cup was hosted primarily in India, with neutral venue matches for Pakistan held in Sri Lanka."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The final of the 2025 Women's Cricket World Cup was held at which stadium?",
+        "answer": "DY Patil Stadium, Navi Mumbai",
+        "choices": [
+            "DY Patil Stadium, Navi Mumbai",
+            "M. Chinnaswamy Stadium, Bengaluru",
+            "R. Premadasa Stadium, Colombo",
+            "Narendra Modi Stadium, Ahmedabad"
+        ],
+        "information": "The DY Patil Stadium hosted the historic final on November 2, 2025."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "India won the 2025 ICC Women’s Cricket World Cup by defeating which team in the final?",
+        "answer": "South Africa",
+        "choices": [
+            "South Africa",
+            "Australia",
+            "England",
+            "New Zealand"
+        ],
+        "information": "India defeated South Africa by 52 runs in the final to claim their first-ever title."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who was the captain of the Indian Women Cricket team during the 2025 ICC Women World Cup triumph?",
+        "answer": "Harmanpreet Kaur",
+        "choices": [
+            "Harmanpreet Kaur",
+            "Smriti Mandhana",
+            "Deepti Sharma",
+            "Shafali Verma"
+        ],
+        "information": "Harmanpreet Kaur led the side to their maiden World Cup victory in 2025."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who was named the 'Player of the Tournament' (Player of the Series) for the 2025 Women's World Cup?",
+        "answer": "Deepti Sharma",
+        "choices": [
+            "Deepti Sharma",
+            "Smriti Mandhana",
+            "Harmanpreet Kaur",
+            "Shafali Verma"
+        ],
+        "information": "Deepti Sharma was awarded Player of the Series for her all-round brilliance, including 22 wickets and crucial runs."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The LVM3 launch vehicle used for CMS-03 is nicknamed",
+        "answer": "Bahubali",
+        "choices": [
+            "Bahubali",
+            "Agni Putra",
+            "Aryabhata",
+            "Vikram-Lift"
+        ],
+        "information": "LVM3 (India's Bahubali): Its maximum capacity to a Geosynchronous Transfer Orbit (GTO) is around 4 tons."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "According to the \"World Cooperative Monitor 2025\" report published by the International Cooperative Alliance (ICA), which Indian cooperative has been ranked 1st in the world based on the ratio of turnover to GDP per capita?",
+        "answer": "Amul (GCMMF)",
+        "choices": [
+            "Amul (GCMMF)",
+            "IFFCO",
+            "KRIBHCO",
+            "Mother Dairy"
+        ],
+        "information": "While Amul (Gujarat Cooperative Milk Marketing Federation) ranked 1st, another Indian giant, IFFCO (Indian Farmers Fertiliser Cooperative), secured the 2nd position in the same category (Turnover over GDP per capita)."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The year 2025 marks 150 years of the National Song ‘Vande Mataram’ because it was first written in:",
+        "answer": 1875,
+        "choices": [
+            1875,
+            1857,
+            1882,
+            1905
+        ],
+        "information": "Vande Mataram was composed and published in Bengali journal Bangadarshan on November 7, 1875 by Bankim Chandra Chattopadhyay, making 2025 its 150th anniversary."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Project Suncatcher, announced by Google, primarily aims to:",
+        "answer": "Establish solar-powered AI compute satellites in space",
+        "choices": [
+            "Establish solar-powered AI compute satellites in space",
+            "Build quantum computers on the Moon",
+            "Develop AI data centers powered by nuclear energy",
+            "Launch solar panels to send energy back to Earth"
+        ],
+        "information": "The project envisions a constellation of solar-powered satellites with AI chips processing compute workloads in space."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 30th Conference of Parties (COP30) to the UNFCCC was held in",
+        "answer": "Belem, Brazil",
+        "choices": [
+            "Belem, Brazil",
+            "New York, USA",
+            "Paris, France",
+            "Nairobi, Kenya"
+        ],
+        "information": "COP30 took place in Belém, Brazil from 10 to 21 November 2025."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "India's first MWh-scale Vanadium Redox Flow Battery (VRFB) was recently inaugurated at which NTPC facility?",
+        "answer": "NTPC NETRA (Greater Noida)",
+        "choices": [
+            "NTPC NETRA (Greater Noida)",
+            "NTPC Barh (Bihar)",
+            "NTPC Ramagundam",
+            "NTPC Kawas"
+        ],
+        "information": "NTPC NETRA serves as the R&D wing where this first utility-scale flow battery project was deployed in 2025"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who is the winner of the 2025 Booker Prize for Fiction?",
+        "answer": "David Szalay",
+        "choices": [
+            "David Szalay",
+            "Samantha Harvey",
+            "Kiran Desai",
+            "Paul Lynch"
+        ],
+        "information": "David Szalay Explanation: Hungarian-British author David Szalay won the 2025 Booker Prize for his sixth novel, \"Flesh\". He became the first author of Hungarian heritage to win the award."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who scripted history by winning the International Booker Prize 2025 for the book \"Heart Lamp\"?",
+        "answer": "Banu Mushtaq and Deepa Bhasthi",
+        "choices": [
+            "Banu Mushtaq and Deepa Bhasthi",
+            "Perumal Murugan and Aniruddhan Vasudevan",
+            "Geetanjali Shree and Daisy Rockwell",
+            "Kiran Desai and Arundhati Roy"
+        ],
+        "information": "The International Booker Prize is shared between the author and the translator. Banu Mushtaq (Author) and Deepa Bhasthi (Translator) won for Heart Lamp, a collection of short stories originally written in Kannada."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Birsa-101, recently in news, is related to the treatment of which disease?",
+        "answer": "Sickle Cell Disease",
+        "choices": [
+            "Sickle Cell Disease",
+            "Thalassemia",
+            "Hemophilia",
+            "Tuberculosis"
+        ],
+        "information": "Birsa-101 is India’s first indigenous gene therapy developed for Sickle Cell Disease (SCD)."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following Indian initiatives aligns with the objective of Birsa-101?",
+        "answer": "National Sickle Cell Anemia Elimination Mission",
+        "choices": [
+            "National Sickle Cell Anemia Elimination Mission",
+            "National Tuberculosis Elimination Programme",
+            "Ayushman Bharat Digital Mission",
+            "POSHAN Abhiyaan"
+        ],
+        "information": "Sickel Cell Disese is a hereditary genetic disorder caused by mutation in the beta-globin gene. India aims to eliminate Sickle Cell Anemia by 2047, and Birsa-101 supports this goal. SCD is endemic among tribal communities in central and eastern India. India aims to eliminate Sickle Cell Anemia by 2047, and Birsa-101 supports this goal."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Where was the 17th BRICS Leaders’ Summit held in 2025?",
+        "answer": "Rio de Janeiro, Brazil",
+        "choices": [
+            "Rio de Janeiro, Brazil",
+            "New Delhi, India",
+            "Moscow, Russia",
+            "Johannesbug, South Africa"
+        ],
+        "information": "The 17th BRICS Leaders’ Summit took place in Rio de Janeiro, Brazil."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What was the theme of the 2025 BRICS Summit?",
+        "answer": "Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance",
+        "choices": [
+            "Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance",
+            "Global Peace and Security",
+            "Digital Economy and Innovation",
+            "BRICS for Climate Action"
+        ],
+        "information": "The Rio Declaration of the summit was under the theme: “Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance.”"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which country is set to host the BRICS Summit in 2026?",
+        "answer": "India",
+        "choices": [
+            "India",
+            "Russia",
+            "China",
+            "South Africa"
+        ],
+        "information": "At the conclusion of the 2025 BRICS Summit in Brazil, leaders confirmed India will take the BRICS Chairship in 2026 and host the 18th BRICS Summit."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Where was the G20 Leaders’ Summit in 2025 held?",
+        "answer": "Johannesburg, South Africa",
+        "choices": [
+            "Johannesburg, South Africa",
+            "Cape Town, South Africa",
+            "Pretoria, South Africa",
+            "Durban, South Africa"
+        ],
+        "information": "The 2025 G20 Summit will be held in Johannesburg."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What is the theme of the 2025 G20 Summit?",
+        "answer": "Solidarity, Equality, Sustainability",
+        "choices": [
+            "Solidarity, Equality, Sustainability",
+            "Sustainable Development, Equality, and Solidarity",
+            "One Earth, One Future",
+            "Global Cooperation for Prosperity"
+        ],
+        "information": "The theme adopted by South Africa for its G20 presidency in 2025 is “Solidarity, Equality, Sustainability.”"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who is the Chairperson of the G20 for the year 2025?",
+        "answer": "Cyril Ramaphosa",
+        "choices": [
+            "Cyril Ramaphosa",
+            "Luiz Inácio Lula da Silva",
+            "Narendra Modi",
+            "Julius Malema"
+        ],
+        "information": "South Africa holds the G20 Presidency in 2025, making President Cyril Ramaphosa the Chair of the G20 Leaders’ Summit."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following countries are part of the G20 Troika for 2025?",
+        "answer": "Brazil, South Africa, United States",
+        "choices": [
+            "Brazil, South Africa, United States",
+            "India, Brazil, South Africa",
+            "South Africa, China, Italy",
+            "Brazil, India, Indonesia"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What is the official theme (or tagline) for IFFI Goa 2025 according to its organizers?",
+        "answer": "Convergence of Creativity & Technology",
+        "choices": [
+            "Convergence of Creativity & Technology",
+            "Cinema for Peace",
+            "World Cinema, One India",
+            "Digital Dreams"
+        ],
+        "information": "IFFI 2025 is being celebrated under the theme “Convergence of Creativity & Technology.”"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who among the following is being honoured at the closing ceremony of IFFI 2025?",
+        "answer": "Rajinikanth",
+        "choices": [
+            "Rajinikanth",
+            "Amitabh Bachchan",
+            "Shah Rukh Khan",
+            "Aamir Khan"
+        ],
+        "information": "Rajinikanth is being felicitated at the closing ceremony in recognition of his 50 years in cinema."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "When did the Government of India notify the implementation of all four Labour Codes?",
+        "answer": "21st November 2025",
+        "choices": [
+            "21st November 2025",
+            "1st January 2026",
+            "15th August 2025",
+            "26th January 2026"
+        ],
+        "information": "The Central Government notified 21 November 2025 as the date of enforcement for all four codes."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following is not one of the four Labour Codes implemented by the Government?",
+        "answer": "Minimum Working Hours Code, 2020",
+        "choices": [
+            "Minimum Working Hours Code, 2020",
+            "Occupational Safety, Health and Working Conditions Code, 2020",
+            "Code on Wages, 2019",
+            "Industrial Relations Code, 2020"
+        ],
+        "information": "The four codes are: Code on Wages, 2019; Industrial Relations Code, 2020; Social Security Code, 2020 and Occupational Safety, Health and Working Condition Code, 2020"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Under the OSHWC Code, the maximum weekly working hour limit is:",
+        "answer": "48 hours",
+        "choices": [
+            "48 hours",
+            "45 hours",
+            "42 hours",
+            "40 hours"
+        ],
+        "information": "The OSHWC Code fixes 48 hours per week irrespective of daily flexibility (8–12 hours)"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Under the Social Security Code, 2020, fixed-term employees become eligible for gratuity after:",
+        "answer": "1 year",
+        "choices": [
+            "1 year",
+            "5 years",
+            "3 years",
+            "2 years"
+        ],
+        "information": "For the first time, fixed-term workers are eligible for gratuity after one year of service"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Under the new wage definition, Basic Pay + DA must constitute at least what percentage of total wages?",
+        "answer": "50 percent",
+        "choices": [
+            "50 percent",
+            "40 percent",
+            "30 percent",
+            "60 percent"
+        ],
+        "information": "The Code on Wages standardises wages: Basic + DA must be ≥50% of total wages, affecting PF and gratuity calculations."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The Social Security Code, 2020 is the first labour law in India to formally recognise which category of workers?",
+        "answer": "Gig and platform workers",
+        "choices": [
+            "Gig and platform workers",
+            "Contract workers",
+            "Industrial apprentices",
+            "Seasonal workers"
+        ],
+        "information": "For the first time, gig and platform workers (e.g., Swiggy, Ola, freelancers) are legally covered under social security schemes."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following is the first labour code passed by Parliament among the four?",
+        "answer": "Code on Wages",
+        "choices": [
+            "Code on Wages",
+            "Industrial Relations Code",
+            "Social Security Code",
+            "Occupational Safety, Health and Working Condition Code"
+        ],
+        "information": "The Code on Wages, 2019 was enacted one year before the other three codes (passed in 2020)"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The four Labour Codes implemented in November 2025 consolidate how many earlier Central labour laws?",
+        "answer": 29,
+        "choices": [
+            29,
+            24,
+            17,
+            12
+        ],
+        "information": "The four codes consolidate 29 existing Central labour laws to simplify India’s labour regulation system."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The “dharm-dhwaj” hoisted atop Ram Mandir in November 2025 bears which of the following symbols?",
+        "answer": "Sun, Om and Kovidara tree",
+        "choices": [
+            "Sun, Om and Kovidara tree",
+            "Lotus and Trident",
+            "Peepal tree and Crescent",
+            "Conch and Chakra"
+        ],
+        "information": "The saffron flag (dharm-dhwaj) installed at the top of Ram Mandir includes depictions of the Sun, the sacred symbol “Om”, and the traditional Kovidara tree — symbols chosen to revive the heritage of the ancient Ayodhya kingdom."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which city has been selected to host the 2030 Commonwealth Games?",
+        "answer": "Ahmedabad",
+        "choices": [
+            "Ahmedabad",
+            "New Delhi",
+            "Bengaluru",
+            "Mumbai"
+        ],
+        "information": "In November 2025, the General Assembly of Commonwealth Sport ratified the bid of Ahmedabad (Amdavad), Gujarat, as the host city for the 2030 Commonwealth Games."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The Hayli Gubbi volcano that erupted in November 2025 is located in which region of Ethiopia?",
+        "answer": "Afar Region",
+        "choices": [
+            "Afar Region",
+            "Somali Region",
+            "Oromia Region",
+            "Trigray Region"
+        ],
+        "information": "Hayli Gubbi is situated in the Afar Region of Ethiopia. This area is a \"Triple Junction\" where the Arabian, Nubian, and Somali plates are diverging (pulling apart)."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 2025 eruption of Hayli Gubbi was significant because it was the first known eruption in how many years (approximately)?",
+        "answer": "10,000–12,000 years",
+        "choices": [
+            "10,000–12,000 years",
+            "1,000 years",
+            "5,000 years",
+            "500 years"
+        ],
+        "information": "Geological/volcanological sources indicate that Hayli Gubbi had no recorded eruptions during the Holocene epoch — the 2025 event is the first documented activity after about 10,000–12,000 years of dormancy."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The Hayli Gubbi volcano, which recently erupted after nearly 12,000 years, is located in which tectonic region?",
+        "answer": "The East African Rift System (EARS)",
+        "choices": [
+            "The East African Rift System (EARS)",
+            "Himalayan Orogenic Belt",
+            "Mid-Atlantic Ridge",
+            "Pacific Ring of Fire"
+        ],
+        "information": "Hayli Gubbi lies within the Rift Valley — part of the East African Rift System. This rift zone arises due to tectonic plates diverging, making it geologically active and home to many volcanoes."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 2026 Commonwealth Games are scheduled to be hosted in which of the following cities/countries?",
+        "answer": "Glasgow, Scotland",
+        "choices": [
+            "Glasgow, Scotland",
+            "Victoria, Australia",
+            "Ahmedabad, India",
+            "Abuja, Nigeria"
+        ],
+        "information": "The 2026 Commonwealth Games (XXIII Games) will be held in Glasgow, Scotland from 23 July to 2 August 2026."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Where will the 2030 Commonwealth (100th edition) Games be held?",
+        "answer": "Ahmedabad (Amdavad), India",
+        "choices": [
+            "Ahmedabad (Amdavad), India",
+            "Delhi, India",
+            "Victoria, Australia",
+            "Glasgow, Scotland"
+        ],
+        "information": "The 2030 Commonwealth Games — the centenary edition — will be hosted by Ahmedabad (Amdavad), India."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 2nd WHO Global Summit on Traditional Medicine was held in December 2025 at which of the following venues?",
+        "answer": "Bharat Mandapam, New Delhi",
+        "choices": [
+            "Bharat Mandapam, New Delhi",
+            "Sardar Patel Complex, Jamnagar",
+            "WHO Headquarters, Geneva",
+            "Mahatma Mandir, Gandhinagar"
+        ],
+        "information": "India hosted the second edition of this high-level global summit in its capital city at the iconic Bharat Mandapam."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What was the official theme of the 2nd WHO Global Summit on Traditional Medicine held in 2025?",
+        "answer": "Restoring Balance: The Science and Practice of Health and Well-being",
+        "choices": [
+            "Restoring Balance: The Science and Practice of Health and Well-being",
+            "Ayurveda for Global Wellness",
+            "One Earth, One Health",
+            "Towards Health and Well-being for All"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The Nuclear Energy Transformation Bill seeks to amend which of the following principal Acts to allow private sector participation in the nuclear power sector?",
+        "answer": "Atomic Energy Act, 1962",
+        "choices": [
+            "Atomic Energy Act, 1962",
+            "Electricity Act, 2003",
+            "Environment Protection Act, 1986",
+            "Energy Conservation Act, 2001"
+        ],
+        "information": "The 1962 Act currently restricts nuclear energy production largely to the government. This amendment is the primary focus of the new Bill."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What is the strategic objective of the Nuclear Energy Transformation Bill in alignment with India's 'Net Zero' target?",
+        "answer": "Achieving 100 GW of nuclear power capacity by 2047",
+        "choices": [
+            "Achieving 100 GW of nuclear power capacity by 2047",
+            "Replacing all Solar and Wind energy with Nuclear by 2030",
+            "Importing 100% of energy needs from Russia and France",
+            "Closing all existing nuclear plants for modernization"
+        ],
+        "information": "The Bill provides the legal framework to scale up from the current ~7 GW to much higher targets required for 2047."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which country is serving as the Chair of the Kimberley Process (KP) for the year 2026?",
+        "answer": "India",
+        "choices": [
+            "India",
+            "United Arab Emirates (UAE)",
+            "South Africa",
+            "Botswana"
+        ],
+        "information": "India assumed the role on January 1, 2026. This is the third time India has chaired the KP (previously in 2008 and 2019). The UAE served as the \"Custodian Chair\" in 2025."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who has been appointed as the Vice-Chair of the Kimberley Process for 2026, set to succeed as Chair in 2027?",
+        "answer": "Ghana",
+        "choices": [
+            "Ghana",
+            "Russia",
+            "Thailand",
+            "Zimbabwe"
+        ],
+        "information": "In the Kimberley Process, the Vice-Chair of the current year typically becomes the Chair the following year. Ghana’s appointment ensures an African producing nation takes the lead in 2027."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 'Bharat Taxi' app, officially launched in January 2026, is an initiative of which Union Ministry?",
+        "answer": "Ministry of Cooperation",
+        "choices": [
+            "Ministry of Cooperation",
+            "Ministry of Road Transport and Highways",
+            "Ministry of Electronics and Information Technology (MeitY)",
+            "Ministry of Housing and Urban Affairs"
+        ],
+        "information": "Developed in collaboration with the National e-Governance Division (NeGD), it is aimed at freeing drivers from high commissions charged by private firms."
     }
 ]

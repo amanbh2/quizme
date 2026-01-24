@@ -6346,5 +6346,17 @@
             "None of these"
         ],
         "information": ""
+    },
+    {
+        "sheet": "HistoryModern",
+        "question": "Which of the following sessions of the Indian National Congress first adopted ‘Vande Mataram’ as a national song?",
+        "answer": "Calcutta Session, 1906",
+        "choices": [
+            "Calcutta Session, 1906",
+            "Surat Session, 1907",
+            "Lahore Session, 1929",
+            "Karachi Session, 1931"
+        ],
+        "information": "The 1906 Calcutta Session of INC formally adopted Vande Mataram, coinciding with the Swadeshi Movement."
     }
 ]
