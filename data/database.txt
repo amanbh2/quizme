@@ -1,6 +1,6 @@
 Question counts:
 Recent2025: 373
-Recent2026: 69
+Recent2026: 74
 HistoryModern: 530
 HistoryAncient: 158
 HistoryMedieval: 117
@@ -12,4 +12,4 @@ UnionEconomy: 47
 Census: 38
 BiharSpecific: 286
 BiharEconomy: 45
-Total Questions: 2162
+Total Questions: 2167

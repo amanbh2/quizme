@@ -4977,11 +4977,11 @@
             "Pretoria, South Africa",
             "Durban, South Africa"
         ],
-        "information": "The 2025 G20 Summit will be held in Johannesburg."
+        "information": "The 2025 G20 Summit was held in Johannesburg, South Africa"
     },
     {
         "sheet": "Recent2026",
-        "question": "What is the theme of the 2025 G20 Summit?",
+        "question": "What was the theme of the 2025 G20 Summit?",
         "answer": "Solidarity, Equality, Sustainability",
         "choices": [
             "Solidarity, Equality, Sustainability",
@@ -4993,19 +4993,7 @@
     },
     {
         "sheet": "Recent2026",
-        "question": "Who is the Chairperson of the G20 for the year 2025?",
-        "answer": "Cyril Ramaphosa",
-        "choices": [
-            "Cyril Ramaphosa",
-            "Luiz Inácio Lula da Silva",
-            "Narendra Modi",
-            "Julius Malema"
-        ],
-        "information": "South Africa holds the G20 Presidency in 2025, making President Cyril Ramaphosa the Chair of the G20 Leaders’ Summit."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following countries are part of the G20 Troika for 2025?",
+        "question": "Which of the following countries are part of the G20 Troika for 2025-2026?",
         "answer": "Brazil, South Africa, United States",
         "choices": [
             "Brazil, South Africa, United States",
@@ -5038,18 +5026,6 @@
             "Aamir Khan"
         ],
         "information": "Rajinikanth is being felicitated at the closing ceremony in recognition of his 50 years in cinema."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "When did the Government of India notify the implementation of all four Labour Codes?",
-        "answer": "21st November 2025",
-        "choices": [
-            "21st November 2025",
-            "1st January 2026",
-            "15th August 2025",
-            "26th January 2026"
-        ],
-        "information": "The Central Government notified 21 November 2025 as the date of enforcement for all four codes."
     },
     {
         "sheet": "Recent2026",
@@ -5134,18 +5110,6 @@
             12
         ],
         "information": "The four codes consolidate 29 existing Central labour laws to simplify India’s labour regulation system."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The “dharm-dhwaj” hoisted atop Ram Mandir in November 2025 bears which of the following symbols?",
-        "answer": "Sun, Om and Kovidara tree",
-        "choices": [
-            "Sun, Om and Kovidara tree",
-            "Lotus and Trident",
-            "Peepal tree and Crescent",
-            "Conch and Chakra"
-        ],
-        "information": "The saffron flag (dharm-dhwaj) installed at the top of Ram Mandir includes depictions of the Sun, the sacred symbol “Om”, and the traditional Kovidara tree — symbols chosen to revive the heritage of the ancient Ayodhya kingdom."
     },
     {
         "sheet": "Recent2026",
@@ -5302,6 +5266,102 @@
             "Ministry of Housing and Urban Affairs"
         ],
         "information": "Developed in collaboration with the National e-Governance Division (NeGD), it is aimed at freeing drivers from high commissions charged by private firms."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who were the Chief Guests at India's 77th Republic Day celebrations in 2026?",
+        "answer": "Antonio Costa (President of European Council) & Ursula von der Leyen (President of European Commission)",
+        "choices": [
+            "Antonio Costa (President of European Council) & Ursula von der Leyen (President of European Commission)",
+            "Emmanuel Macron (France)",
+            "Prabowo Subianto (Indonesia)",
+            "Abdel Fattah el-Sisi (Egypt)"
+        ],
+        "information": "77th Republic Day in year 2026 featured a rare \"dual guest\" presence from the European Union, highlighting the India-EU strategic partnership."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What was the central theme for the 2026 Republic Day Parade at Kartavya Path?",
+        "answer": "150 Years of Vande Mataram",
+        "choices": [
+            "150 Years of Vande Mataram",
+            "Nari Shakti",
+            "Viksit Bharat & Bharat: Loktantra ki Matruka",
+            "Atmanirbhar Bharat"
+        ],
+        "information": "This year 77th Republic Day them  commemorates 150 years since Bankim Chandra Chattopadhyay penned the national song in 1875."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "How many personalities from Bihar have been conferred with the Padma Shri Award 2026?",
+        "answer": "Three",
+        "choices": [
+            "Three",
+            "Four",
+            "Two",
+            "One"
+        ],
+        "information": "There are total three Padma Shri awardee from Bihar - Bishwa Bandhu, Bharat Singh Bharati, Gopal Ji Trivedi"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which indigenous weapon system made its debut at the 77th Republic Day Parade?",
+        "answer": "Suryastra (Universal Rocket Launcher System)",
+        "choices": [
+            "Suryastra (Universal Rocket Launcher System)",
+            "BrahMos Missile",
+            "Arjun Tank",
+            "Prithvi-II"
+        ],
+        "information": "Suryastra Rocket Launcher System is India’s first Universal Multi-Calibre rocket launcher. It can fire different calibres (122mm, 160mm, and 306mm) and even loitering munitions (suicide drones) from the same vehicle."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which newly raised unit participated for the first time in the Republic Day parade?",
+        "answer": "Bhairav Light Commando Battalion",
+        "choices": [
+            "Bhairav Light Commando Battalion",
+            "Garud Commandos",
+            "Cobra Battalion",
+            "PARA SF"
+        ],
+        "information": "Bhairav Light Commando Battalion is a \"bridge\" in the Indian Army's structure. To fill the operational gap between conventional infantry and the Para Special Forces."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Bihar’s Bishwa Bandhu, who was posthumously awarded the Padma Shri 2026, was a legendary exponent of which folk form?",
+        "answer": "Domkach Folk Dance",
+        "choices": [
+            "Domkach Folk Dance",
+            "Madhubani Painting",
+            "Bidesiya Theater",
+            "Jat-Jatin Folk Dance"
+        ],
+        "information": "Bishwa Bandhu, born in Shahpur, Danapur is credited with bringing the Domkach dance (traditionally a wedding ritual performed by women in Magadh and Mithila) from village courtyards to national and international stages."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Antimicrobial Resistance (AMR) refers to",
+        "answer": "Ability of microorganisms to survive exposure to antimicrobials",
+        "choices": [
+            "Ability of microorganisms to survive exposure to antimicrobials",
+            "Increased immunity of humans against microbes",
+            "Overproduction of antibiotics by bacteria",
+            "Allergic reaction to antibiotics"
+        ],
+        "information": "AMR occurs when bacteria, viruses, fungi, or parasites evolve mechanisms to resist antimicrobial drugs, making treatments ineffective."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following is the primary cause of Antimicrobial Resistance?",
+        "answer": "Excessive and irrational use of antimicrobials",
+        "choices": [
+            "Excessive and irrational use of antimicrobials",
+            "Mutation in human genes",
+            "Climate change",
+            "Poor nutrition"
+        ],
+        "information": "Overuse and misuse of antibiotics in humans, animals, and agriculture accelerates the development of drug-resistant microbes."
     },
     {
         "sheet": "HistoryModern",
