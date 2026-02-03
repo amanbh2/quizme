@@ -5364,6 +5364,138 @@
         "information": "Overuse and misuse of antibiotics in humans, animals, and agriculture accelerates the development of drug-resistant microbes."
     },
     {
+        "sheet": "Recent2026",
+        "question": "In January 2026, which Indian state became the first in the country to introduce a system allowing the registration of First Information Reports (FIRs) at the victim’s residence or a place of their choice for specific sensitive crimes?",
+        "answer": "Telangana",
+        "choices": [
+            "Telangana",
+            "Maharashtra",
+            "Bihar",
+            "Uttar Pradesh"
+        ],
+        "information": "Telangana became the first state in India to officially allow the registration of FIRs at a victim's home or a place of their choice for specific sensitive crime categories."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Wings India 2026 was held at which location?",
+        "answer": "Begumpet Airport, Hyderabad",
+        "choices": [
+            "Begumpet Airport, Hyderabad",
+            "Jaipur International Airport",
+            "Chandigarh Airport",
+            "Netaji Subhas Chandra Bose Airport, Kolkata"
+        ],
+        "information": "Wings India 2026 — Asia’s largest civil aviation exhibition — took place from 28–31 January 2026 at Begumpet Airport, Hyderabad. It brings together global aviation stakeholders."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which Indian aerospace company showcased the SJ-100 regional jet at Wings India 2026?",
+        "answer": "Hindustan Aeronautics Limited (HAL)",
+        "choices": [
+            "Hindustan Aeronautics Limited (HAL)",
+            "Tata Advanced Systems",
+            "Reliance Aerospace",
+            "Bharat Dynamics Limited"
+        ],
+        "information": "HAL debuted its civil aircraft portfolio, including the SJ-100 and H-228, highlighting a push into the civil aviation manufacturing sector."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "At Wings India 2026, which state was honoured as the Best State for Promotion of Aviation Ecosystem?",
+        "answer": "Uttrakhand",
+        "choices": [
+            "Uttrakhand",
+            "Maharashtra",
+            "Karnataka",
+            "Goa"
+        ],
+        "information": "Uttarakhand was recognised for its effective aviation policy and efforts to strengthen connectivity and infrastructure."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following best explains why Nipah virus is classified by WHO as a priority pathogen?",
+        "answer": "It has high fatality rate and no licensed vaccine",
+        "choices": [
+            "It has high fatality rate and no licensed vaccine",
+            "It has a long incubation period",
+            "It spreads through air easily",
+            "It affects only tropical countries"
+        ],
+        "information": "Nipah virus is a zoonotic virus (animal to human transmission) that causes severe respiratory illness and fatal encephalitis in humans. It is listed by WHO as a priority pathogen due to its high fatality rate and epidemic potential."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who won the men’s singles title at the 2026 Australian Open?",
+        "answer": "Carlos Alcaraz",
+        "choices": [
+            "Carlos Alcaraz",
+            "Daniil Medvedev",
+            "Jannik Sinner",
+            "Novak Djokovic"
+        ],
+        "information": "Alcaraz defeated Djokovic in the final to win his first Australian Open title and complete the Career Grand Slam."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which record did Carlos Alcaraz achieve by winning the 2026 Australian Open?",
+        "answer": "Youngest man in history to complete Career Grand Slam",
+        "choices": [
+            "Youngest man in history to complete Career Grand Slam",
+            "Most Grand Slam titles overall",
+            "First Spanish Australian Open Champion ever",
+            "Only player to beat Djokovic in a final"
+        ],
+        "information": "At 22, he became the youngest man to complete the four majors in tennis history."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who won the women’s singles title at the 2026 Australian Open?",
+        "answer": "Elena Rybakina",
+        "choices": [
+            "Elena Rybakina",
+            "Aryna Sabalenka",
+            "Iga Świątek",
+            "Coco Gauff"
+        ],
+        "information": "Rybakina defeated Sabalenka in a three-set final."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which spiritual leader won his first Grammy in 2026?",
+        "answer": "Dalai Lama",
+        "choices": [
+            "Dalai Lama",
+            "Pope Francis",
+            "Desmond Tutu",
+            "Trevor Noah"
+        ],
+        "information": "The Dalai Lama received his first Grammy in the Spoken Word category for Meditations: The Reflections of His Holiness the Dalai Lama."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who won Album of the Year at the 2026 Grammy Awards?",
+        "answer": "Bad Bunny",
+        "choices": [
+            "Bad Bunny",
+            "Olivia Dean",
+            "Lady Gaga",
+            "Billie Eilish"
+        ],
+        "information": "Bad Bunny won Album of the Year for Debí Tirar Más Fotos, making history as the first fully Spanish-language album to win the top Grammy."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which artist won Song of the Year at the 2026 Grammys?",
+        "answer": "Billie Eilish",
+        "choices": [
+            "Billie Eilish",
+            "Sabrina Carpenter",
+            "Doechii",
+            "Justin Bieber"
+        ],
+        "information": "Billie Eilish won for “Wildflower.”"
+    },
+    {
         "sheet": "HistoryModern",
         "question": "Which year marks fall of Constantinople",
         "answer": 1453,
@@ -20604,6 +20736,18 @@
         "information": "Euryale ferox is the scientific name for the prickly water lily that produces makhana."
     },
     {
+        "sheet": "Science",
+        "question": "Which of the following is the natural reservoir of Nipah virus?",
+        "answer": "Fruit bats (Pteropus species)",
+        "choices": [
+            "Fruit bats (Pteropus species)",
+            "Pigs",
+            "Birds",
+            "Rodents"
+        ],
+        "information": "Fruit bats of the Pteropus genus are the natural hosts and remain asymptomatic carriers."
+    },
+    {
         "sheet": "GeneralKnowledge",
         "question": "When is World Earth Day celebrated",
         "answer": "22nd April",
@@ -21010,1026 +21154,6 @@
             "Ban all cross‑border diamond trade"
         ],
         "information": "The KP’s core objective is to prevent “conflict diamonds”—rough diamonds used to finance rebel movements—from entering the global market."
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Which type of economy does India have?",
-        "answer": "Mixed",
-        "choices": [
-            "Mixed",
-            "Socialist",
-            "Gandhian",
-            "Free"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "The main source of national income of India is",
-        "answer": "Service",
-        "choices": [
-            "Service",
-            "Manufacturing",
-            "Agriculture",
-            "Foreign Remittances"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "As the economy develops, the national income share of tertiary sector",
-        "answer": "goes on increasing",
-        "choices": [
-            "goes on increasing",
-            "first decreases, then increase",
-            "first increase, then decrease",
-            "goes on decreasing"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "One of the problems in calculating National Income in India is",
-        "answer": "non-organised sector",
-        "choices": [
-            "non-organised sector",
-            "under-employment",
-            "inflation",
-            "low level of savings"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Which of the following is not a method to calculate the Gross Domestic Product (GDP)?",
-        "answer": "Diminishing Cost Method",
-        "choices": [
-            "Diminishing Cost Method",
-            "Product Method",
-            "Income Method",
-            "Expenditure Method"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Which one does not come under economic infrastructure?",
-        "answer": "Education or Health",
-        "choices": [
-            "Education or Health",
-            "Energy",
-            "Roads",
-            "Railway"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Hindu growth is related to",
-        "answer": "GDP",
-        "choices": [
-            "GDP",
-            "Money",
-            "Population",
-            "GNP"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "What is money?",
-        "answer": "Commodity",
-        "choices": [
-            "Commodity",
-            "Income",
-            "Wealth",
-            "Savings"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "The economist who for the first time scientifically determined National Income in India?",
-        "answer": "V K R V Rao",
-        "choices": [
-            "V K R V Rao",
-            "D R Gadgil",
-            "Manmohan Singh",
-            "Y V Alagh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Who was the remarkable person who took the action for calculating the national income of India before Independence?",
-        "answer": "Dadabhai Naoroji",
-        "choices": [
-            "Dadabhai Naoroji",
-            "Jawaharlal Nehru",
-            "Mahatma Gandhi",
-            "Surendranath Banerjee"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Which of the following offices or institutes releases data of the National Income in India?",
-        "answer": "National Statistical Office (NSO)",
-        "choices": [
-            "National Statistical Office (NSO)",
-            "National Sample Survey Office (NSSO)",
-            "Central Statistical Office (CSO) ",
-            "NITI Ayog"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Which organisation carries out the survey for determining the poverty line?",
-        "answer": "National Statistical Office (NSO)",
-        "choices": [
-            "National Statistical Office (NSO)",
-            "National Sample Survey Office (NSSO)",
-            "Reserve Bank of India (RBI)",
-            "NITI Ayog"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Which ministry is responsible for calculating GDP of India?",
-        "answer": "Ministry of Central Statistical and Program Implementation",
-        "choices": [
-            "Ministry of Central Statistical and Program Implementation",
-            "Ministry of Commerce and Industry",
-            "Ministry of Finance",
-            "Ministry of Consumer Affairs"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "The best index of economic income can be provided by",
-        "answer": "increase in per capita real income per year",
-        "choices": [
-            "increase in per capita real income per year",
-            "increase in national income at current price",
-            "increase in savings ration",
-            "improvement in balance of payment position"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Per Capita income of a country is obtained from",
-        "answer": "both National Income and Population",
-        "choices": [
-            "both National Income and Population",
-            "Population",
-            "National Income",
-            "GDP"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "The latest per capita income at constant prices is lowest for which state of India?",
-        "answer": "Bihar",
-        "choices": [
-            "Bihar",
-            "Uttar Pradesh",
-            "Jharkhand",
-            "Manipur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "The latest per capita income at constant prices is highest for which state of India?",
-        "answer": "Sikkim",
-        "choices": [
-            "Sikkim",
-            "Goa",
-            "Telangana",
-            "Karnataka"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Which state of India has highest Gross State Domestic Product (GSDP)?",
-        "answer": "Maharashtra",
-        "choices": [
-            "Maharashtra",
-            "Karnataka",
-            "Uttar Pradesh",
-            "Tamil Nadu"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Which sector of Indian economy contributes the most to the Gross National Product (GNP)?",
-        "answer": "Tertiary Sector",
-        "choices": [
-            "Tertiary Sector",
-            "Secondary Sector",
-            "Primary Sector",
-            "Public Sector"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Which organization publishes the global Sustainable Development Report (SDR)?",
-        "answer": "UN Sustainable Development Solutions Network",
-        "choices": [
-            "UN Sustainable Development Solutions Network",
-            "NITI Aayog",
-            "United Nations Development Programme (UNDP)",
-            "World Bank"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "As per the Sustainable Development Report (SDR) 2025, what is India's rank in the SDG Index out of 167 countries?",
-        "answer": "99th",
-        "choices": [
-            "99th",
-            "109th ",
-            "112th",
-            "121st"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Which Indian organization is responsible for monitoring the progress of SDGs at the sub-national level (States and UTs)?",
-        "answer": "NITI Aayog",
-        "choices": [
-            "NITI Aayog",
-            "Ministry of Finance",
-            "Reserve Bank of India (RBI)",
-            "Ministry of Statistics and Programme Implementation (MoSPI)"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "The SDG Index measures a country's progress towards which set of goals?",
-        "answer": "17 goals",
-        "choices": [
-            "17 goals",
-            "10 goals",
-            "15 goals",
-            "20 goals"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "The Human Capital Index (HCI) is published by which of the following international organizations?",
-        "answer": "World Bank",
-        "choices": [
-            "World Bank",
-            "United Nations Development Programme (UNDP)",
-            "World Health Organisation (WHO)",
-            "International Monetary Fund (IMF)"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "In India, the agricultural crop year period is",
-        "answer": "1st July to 30th June",
-        "choices": [
-            "1st July to 30th June",
-            "1st June to 31st May",
-            "1st April to 31st March",
-            "1st January to 31st December"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "What is the theme of the Union Budget 2025-26?",
-        "answer": "Sabka Vikas",
-        "choices": [
-            "Sabka Vikas",
-            "Sabka Vikas Sabka Prayas",
-            "Sabka Sath",
-            "Viksit Bharat"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024-25, what is the expected Real GDP growth for FY2025?",
-        "answer": "6.4 percent",
-        "choices": [
-            "6.4 percent",
-            "4.6 percent",
-            "5.4 percent",
-            "4.5 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024-25, what is the expected Real GVA growth for FY2025?",
-        "answer": "6.4 percent",
-        "choices": [
-            "6.4 percent",
-            "4.6 percent",
-            "5.4 percent",
-            "4.5 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "In the Union Budget 2025-26 what are the four engines of Economic Growth?",
-        "answer": "Agriculture, MSME, Investment and Exports",
-        "choices": [
-            "Agriculture, MSME, Investment and Exports",
-            "Agriculture, Defence, Tourism, Banking",
-            "Defence, Tourism, Exports, Banking",
-            "Tourism, Banking, MSME, Sports"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "In the Union Budget 2025-26 what are the four focus point?",
-        "answer": "Poor, Youth, Farmers, Women",
-        "choices": [
-            "Poor, Youth, Farmers, Women",
-            "Poor, Science, Tourism, Health",
-            "Youth, Health, Sports, AI",
-            "AI, Crypto, Energy, Infrastructure"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "The quote - A country is not just its soil; a country is its people, mentioned in the Union Budget 2025–26 speech, is attributed to which Indian personality?",
-        "answer": "Gurajada Appa Rao",
-        "choices": [
-            "Gurajada Appa Rao",
-            "Rabindranath Tagore",
-            "Mahatma Gandhi",
-            "Sarvepalli Radhakrishnan"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Under the broad principles of Viksit Bharat announced in the Union Budget 2025-26, what percentage of women should be engaged in economic activities?",
-        "answer": "70% by 2047",
-        "choices": [
-            "70% by 2047",
-            "60% by 2040",
-            "80% by 2050",
-            "50% by 2030"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "In the Union Budget 2025-26 which among the following is considered as the fuel for economic growth?",
-        "answer": "Reforms",
-        "choices": [
-            "Reforms",
-            "Inclusivity",
-            "Devlopment",
-            "Technology"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "In the Union Budget 2025-26 which among the following is considered as the guiding spirit for economic growth?",
-        "answer": "Inclusivity",
-        "choices": [
-            "Inclusivity",
-            "Reforms",
-            "Devlopment",
-            "Technology"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "In the Union Budget 2025-26 which among the following is considered as the destination of economic growth?",
-        "answer": "Viksit Bharat",
-        "choices": [
-            "Viksit Bharat",
-            "Inclusivity",
-            "Devlopment",
-            "Reforms"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024–25, India’s rank in global services exports is:",
-        "answer": "Seventh",
-        "choices": [
-            "Seventh",
-            "Third",
-            "Fifth",
-            "Tenth"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024–25, what was the approximate size of India’s forex reserves by the end of December 2024?",
-        "answer": "USD 640.3 billion",
-        "choices": [
-            "USD 640.3 billion",
-            "USD 640.3 million",
-            "USD 634.6 billion",
-            "USD 652.9 million"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Budget 2025-26, how many Atal Tinkering Labs will be open in government schools?",
-        "answer": 50000,
-        "choices": [
-            50000,
-            30000,
-            20000,
-            10000
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024-25, what is the Labour Force Participation ratio (LFPR) of India?",
-        "answer": "60.1 percent",
-        "choices": [
-            "60.1 percent",
-            "58.2 percent",
-            "57.9 percent",
-            "56.0 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024-25, what is the Worker Population Ratio (WPR) of India?",
-        "answer": "58.2 percent",
-        "choices": [
-            "58.2 percent",
-            "60.1 percent",
-            "57.9 percent",
-            "56.0 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024-25, what is the Unemployment rate in India?",
-        "answer": "3.2 percent",
-        "choices": [
-            "3.2 percent",
-            "2.8 percent",
-            "3.0 percent",
-            "2.5 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Under the six-year Mission for Aatmanirbharta in Pulses, which of the following pulses is not explicitly given special focus?",
-        "answer": "Moong",
-        "choices": [
-            "Moong",
-            "Tur",
-            "Masoor",
-            "Urad"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024–25, which category represents the largest share of the total workforce in India?",
-        "answer": "Self-employed",
-        "choices": [
-            "Self-employed",
-            "Casual Labour",
-            "Regular Wage / Salaried",
-            "Unpaid Workers"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Micro MSME?",
-        "answer": "Investement up to 2.5 crore and turnover upto 10 crore",
-        "choices": [
-            "Investement up to 2.5 crore and turnover upto 10 crore",
-            "Investement up to 1 crore and turnover upto 5 crore",
-            "Investement up to 25 crore and turnover upto 100 crore",
-            "Investement up to 125 crore and turnover upto 500 crore"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Small MSME?",
-        "answer": "Investement up to 25 crore and turnover upto 100 crore",
-        "choices": [
-            "Investement up to 25 crore and turnover upto 100 crore",
-            "Investement up to 10 crore and turnover upto 50 crore",
-            "Investement up to 5 crore and turnover upto 10 crore",
-            "Investement up to 125 crore and turnover upto 500 crore"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Medium MSME?",
-        "answer": "Investement up to 125 crore and turnover upto 500 crore",
-        "choices": [
-            "Investement up to 125 crore and turnover upto 500 crore",
-            "Investement up to 50 crore and turnover upto 250 crore",
-            "Investement up to 25 crore and turnover upto 100 crore",
-            "Investement up to 2.5 crore and turnover upto 10 crore"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "In the Union Budget 2024–25, which ministry received the highest budget allocation?",
-        "answer": "Ministry of Defense",
-        "choices": [
-            "Ministry of Defense",
-            "Ministry of Agriuculture & Farmers Welfare",
-            "Ministry of Railways",
-            "Ministry of Education"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, what was the literacy rate of Bihar?",
-        "answer": "61.8 percent",
-        "choices": [
-            "61.8 percent",
-            "58.5 percent",
-            "65.3 percent",
-            "70.2 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "What was the literacy rate of India as per the Census 2011?",
-        "answer": "74.0 percent",
-        "choices": [
-            "74.0 percent",
-            "61.8 percent",
-            "65.4 percent",
-            "68.7 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, which district has highest literacy rate in Bihar?",
-        "answer": "Rohtas",
-        "choices": [
-            "Rohtas",
-            "Patna",
-            "Purnea",
-            "Gopalganj"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, which district has lowest literacy rate in Bihar?",
-        "answer": "Purnea",
-        "choices": [
-            "Purnea",
-            "Munger",
-            "Rohtas",
-            "Gopalganj"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, what was the male literacy rate in Bihar?",
-        "answer": "71.2 percent",
-        "choices": [
-            "71.2 percent",
-            "61.8 percent",
-            "74.0 percent",
-            "51.5 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, what was the female literacy rate in Bihar?",
-        "answer": "51.5 percent",
-        "choices": [
-            "51.5 percent",
-            "61.8 percent",
-            "74.0 percent",
-            "71.2 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "Which state had the highest literacy rate according to Census 2011?",
-        "answer": "Kerala",
-        "choices": [
-            "Kerala",
-            "Bihar",
-            "Tamil Nadu",
-            "Maharashtra"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "Which state had the lowest literacy rate according to Census 2011?",
-        "answer": "Bihar",
-        "choices": [
-            "Bihar",
-            "Jharkhand",
-            "West Bengal",
-            "Assam"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, what is the sex-ratio of Bihar?",
-        "answer": 918,
-        "choices": [
-            918,
-            943,
-            950,
-            981
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, what is the sex-ratio of India?",
-        "answer": 943,
-        "choices": [
-            943,
-            918,
-            948,
-            952
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, which district has the highest sex-ratio in Bihar?",
-        "answer": "Gopalganj",
-        "choices": [
-            "Gopalganj",
-            "Munger",
-            "Purnea",
-            "Patna"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, which district has the lowest sex-ratio in Bihar?",
-        "answer": "Munger",
-        "choices": [
-            "Munger",
-            "Gopalganj",
-            "Sheohar",
-            "Kaimur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, what is the population density of Bihar?",
-        "answer": "1106 sq km",
-        "choices": [
-            "1106 sq km",
-            "382 sq km",
-            "812 sq km",
-            "1206 sq km"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, what is the population density of India?",
-        "answer": "382 sq km",
-        "choices": [
-            "382 sq km",
-            "1106 sq km",
-            "812 sq km",
-            "1206 sq km"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, which district has the highest population density in Bihar?",
-        "answer": "Sheohar",
-        "choices": [
-            "Sheohar",
-            "Sheikhpura",
-            "Kaimur",
-            "Rohtas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, which district has the lowest population density in Bihar?",
-        "answer": "Kaimur",
-        "choices": [
-            "Kaimur",
-            "Sheikhpura",
-            "Sheohar",
-            "Rohtas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, which district has the lowest population in Bihar?",
-        "answer": "Sheikhpura",
-        "choices": [
-            "Sheikhpura",
-            "Sheohar",
-            "Kaimur",
-            "Patna"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, which district has the highest population in Bihar?",
-        "answer": "Patna",
-        "choices": [
-            "Patna",
-            "Sheohar",
-            "Kaimur",
-            "Sheikhpura"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "Which State has the highest population according to Census 2011?",
-        "answer": "Uttar Pradesh",
-        "choices": [
-            "Uttar Pradesh",
-            "Bihar",
-            "Maharashtra",
-            "West Bengal"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "Which State has the lowest population according to Census 2011?",
-        "answer": "Sikkim",
-        "choices": [
-            "Sikkim",
-            "Manipur",
-            "Tripura",
-            "Goa"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "Which Union Territory has the lowest population according to Census 2011?",
-        "answer": "Lakshadweep",
-        "choices": [
-            "Lakshadweep",
-            "Andmand & Nicobar Islands",
-            "Puducherry",
-            "Ladakh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "Which Union Territory has the highest population according to Census 2011?",
-        "answer": "Delhi",
-        "choices": [
-            "Delhi",
-            "Ladakh",
-            "Jammu & Kashmir",
-            "Chandigarh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, which district has the lowest population in India?",
-        "answer": "Dibang Valley, Arunachal Pradesh",
-        "choices": [
-            "Dibang Valley, Arunachal Pradesh",
-            "Leh, Ladakh",
-            "Mahe, Puducherry",
-            "Diu, Daman & Diu"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, which district has the highest population in India?",
-        "answer": "Thane, Maharashtra",
-        "choices": [
-            "Thane, Maharashtra",
-            "Sheohar, Bihar",
-            "Varanasi, Uttar Pradesh",
-            "Bhopal, Madhya Pradesh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "Which State has the highest population density according to Census 2011?",
-        "answer": "Bihar",
-        "choices": [
-            "Bihar",
-            "Uttar Pradesh",
-            "Mahrashtra",
-            "Sikkim"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "Which State has the lowest population density according to Census 2011?",
-        "answer": "Arunachal Pradesh",
-        "choices": [
-            "Arunachal Pradesh",
-            "Assam",
-            "Sikkim",
-            "Goa"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "Which Union Territory has the highest population density according to Census 2011?",
-        "answer": "Delhi",
-        "choices": [
-            "Delhi",
-            "Lakshadweep",
-            "Andman & Nicobar Islands",
-            "Ladakh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "Which Union Territory has the lowest population density according to Census 2011?",
-        "answer": "Andman & Nicobar Islands",
-        "choices": [
-            "Andman & Nicobar Islands",
-            "Lakshadweep",
-            "Daman & Diue",
-            "Ladakh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, what was the total population of India?",
-        "answer": "121 crore",
-        "choices": [
-            "121 crore",
-            "11 crore",
-            "110 crore",
-            "112 crore"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, what was the total population of Bihar?",
-        "answer": "10.4 crore",
-        "choices": [
-            "10.4 crore",
-            "14 crore",
-            "104 crore",
-            "41 crore"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, Bihar’s population is approximately what percent of India’s total population?",
-        "answer": "8.6 percent",
-        "choices": [
-            "8.6 percent",
-            "7.2 percent",
-            "9.4 percent",
-            "10.2 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "In terms of population, what is the rank of Bihar?",
-        "answer": "Third",
-        "choices": [
-            "Third",
-            "Second",
-            "First ",
-            "Fourth"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, the percentage of urban and rural population of Bihar is respectively",
-        "answer": "11.3% and 88.7%",
-        "choices": [
-            "11.3% and 88.7%",
-            "13.4% and 86.6%",
-            "17.3% and 82.7%",
-            "10.2% and 89.8%"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "In terms of urban population, Bihar ranks among the states/union territories of the country?",
-        "answer": "12th",
-        "choices": [
-            "12th",
-            "11th",
-            "13th",
-            "14th"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, which is the most populous Scheduled Tribe in Bihar?",
-        "answer": "Santhal",
-        "choices": [
-            "Santhal",
-            "Bhil",
-            "Gond",
-            "Munda"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, which is the most populous Scheduled Tribe in India?",
-        "answer": "Bhil",
-        "choices": [
-            "Bhil",
-            "Santhal",
-            "Gond",
-            "Munda"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, what percentage of tribal population lives in India?",
-        "answer": "8.6 percent",
-        "choices": [
-            "8.6 percent",
-            "1.3 percent",
-            "9.4 percent",
-            "7.2 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Census",
-        "question": "According to Census 2011, what percentage of tribal population lives in Bihar?",
-        "answer": "1.3 percent",
-        "choices": [
-            "1.3 percent",
-            "8.6 percent",
-            "9.4 percent",
-            "7.2 percent"
-        ],
-        "information": ""
     },
     {
         "sheet": "BiharSpecific",
@@ -25464,6 +24588,738 @@
         "information": "Kajra Solar Power Plant is situated at Kajra in the Lakhisarai district. It features a 495 MWh battery system, making it one of India's largest storage-backed solar projects."
     },
     {
+        "sheet": "UnionEconomy",
+        "question": "Which type of economy does India have?",
+        "answer": "Mixed",
+        "choices": [
+            "Mixed",
+            "Socialist",
+            "Gandhian",
+            "Free"
+        ],
+        "information": "India has mixed economic model, defined by the coexistence of both the private sector (market-driven) and the public sector (state-driven). This ensures a balance between economic efficiency and social justice."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The main source of national income of India is",
+        "answer": "Service",
+        "choices": [
+            "Service",
+            "Manufacturing",
+            "Agriculture",
+            "Foreign Remittances"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "As the economy develops, the national income share of tertiary sector",
+        "answer": "goes on increasing",
+        "choices": [
+            "goes on increasing",
+            "first decreases, then increase",
+            "first increase, then decrease",
+            "goes on decreasing"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "One of the problems in calculating National Income in India is",
+        "answer": "non-organised sector",
+        "choices": [
+            "non-organised sector",
+            "under-employment",
+            "inflation",
+            "low level of savings"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which of the following is not a method to calculate the Gross Domestic Product (GDP)?",
+        "answer": "Diminishing Cost Method",
+        "choices": [
+            "Diminishing Cost Method",
+            "Product Method",
+            "Income Method",
+            "Expenditure Method"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which one does not come under economic infrastructure?",
+        "answer": "Education or Health",
+        "choices": [
+            "Education or Health",
+            "Energy",
+            "Roads",
+            "Railway"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Hindu growth is related to",
+        "answer": "GDP",
+        "choices": [
+            "GDP",
+            "Money",
+            "Population",
+            "GNP"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "What is money?",
+        "answer": "Commodity",
+        "choices": [
+            "Commodity",
+            "Income",
+            "Wealth",
+            "Savings"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The economist who for the first time scientifically determined National Income in India?",
+        "answer": "V K R V Rao",
+        "choices": [
+            "V K R V Rao",
+            "D R Gadgil",
+            "Manmohan Singh",
+            "Y V Alagh"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Who was the remarkable person who took the action for calculating the national income of India before Independence?",
+        "answer": "Dadabhai Naoroji",
+        "choices": [
+            "Dadabhai Naoroji",
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Surendranath Banerjee"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which of the following offices or institutes releases data of the National Income in India?",
+        "answer": "National Statistical Office (NSO)",
+        "choices": [
+            "National Statistical Office (NSO)",
+            "National Sample Survey Office (NSSO)",
+            "Central Statistical Office (CSO) ",
+            "NITI Ayog"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which organisation carries out the survey for determining the poverty line?",
+        "answer": "National Statistical Office (NSO)",
+        "choices": [
+            "National Statistical Office (NSO)",
+            "National Sample Survey Office (NSSO)",
+            "Reserve Bank of India (RBI)",
+            "NITI Ayog"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which ministry is responsible for calculating GDP of India?",
+        "answer": "Ministry of Central Statistical and Program Implementation",
+        "choices": [
+            "Ministry of Central Statistical and Program Implementation",
+            "Ministry of Commerce and Industry",
+            "Ministry of Finance",
+            "Ministry of Consumer Affairs"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The best index of economic income can be provided by",
+        "answer": "increase in per capita real income per year",
+        "choices": [
+            "increase in per capita real income per year",
+            "increase in national income at current price",
+            "increase in savings ration",
+            "improvement in balance of payment position"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Per Capita income of a country is obtained from",
+        "answer": "both National Income and Population",
+        "choices": [
+            "both National Income and Population",
+            "Population",
+            "National Income",
+            "GDP"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which sector of Indian economy contributes the most to the Gross National Product (GNP)?",
+        "answer": "Tertiary Sector",
+        "choices": [
+            "Tertiary Sector",
+            "Secondary Sector",
+            "Primary Sector",
+            "Public Sector"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which organization publishes the global Sustainable Development Report (SDR)?",
+        "answer": "UN Sustainable Development Solutions Network",
+        "choices": [
+            "UN Sustainable Development Solutions Network",
+            "NITI Aayog",
+            "United Nations Development Programme (UNDP)",
+            "World Bank"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which Indian organization is responsible for monitoring the progress of SDGs at the sub-national level (States and UTs)?",
+        "answer": "NITI Aayog",
+        "choices": [
+            "NITI Aayog",
+            "Ministry of Finance",
+            "Reserve Bank of India (RBI)",
+            "Ministry of Statistics and Programme Implementation (MoSPI)"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The SDG Index measures a country's progress towards which set of goals?",
+        "answer": "17 goals",
+        "choices": [
+            "17 goals",
+            "10 goals",
+            "15 goals",
+            "20 goals"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The Human Capital Index (HCI) is published by which of the following international organizations?",
+        "answer": "World Bank",
+        "choices": [
+            "World Bank",
+            "United Nations Development Programme (UNDP)",
+            "World Health Organisation (WHO)",
+            "International Monetary Fund (IMF)"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In India, the agricultural crop year period is",
+        "answer": "1st July to 30th June",
+        "choices": [
+            "1st July to 30th June",
+            "1st June to 31st May",
+            "1st April to 31st March",
+            "1st January to 31st December"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the expected Real GDP growth for FY2025?",
+        "answer": "6.4 percent",
+        "choices": [
+            "6.4 percent",
+            "4.6 percent",
+            "5.4 percent",
+            "4.5 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the expected Real GVA growth for FY2025?",
+        "answer": "6.4 percent",
+        "choices": [
+            "6.4 percent",
+            "4.6 percent",
+            "5.4 percent",
+            "4.5 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024–25, what was the approximate size of India’s forex reserves by the end of December 2024?",
+        "answer": "USD 640.3 billion",
+        "choices": [
+            "USD 640.3 billion",
+            "USD 640.3 million",
+            "USD 634.6 billion",
+            "USD 652.9 million"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the Labour Force Participation ratio (LFPR) of India?",
+        "answer": "60.1 percent",
+        "choices": [
+            "60.1 percent",
+            "58.2 percent",
+            "57.9 percent",
+            "56.0 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the Worker Population Ratio (WPR) of India?",
+        "answer": "58.2 percent",
+        "choices": [
+            "58.2 percent",
+            "60.1 percent",
+            "57.9 percent",
+            "56.0 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024-25, what is the Unemployment rate in India?",
+        "answer": "3.2 percent",
+        "choices": [
+            "3.2 percent",
+            "2.8 percent",
+            "3.0 percent",
+            "2.5 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Economic Survey 2024–25, which category represents the largest share of the total workforce in India?",
+        "answer": "Self-employed",
+        "choices": [
+            "Self-employed",
+            "Casual Labour",
+            "Regular Wage / Salaried",
+            "Unpaid Workers"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Micro MSME?",
+        "answer": "Investement up to 2.5 crore and turnover upto 10 crore",
+        "choices": [
+            "Investement up to 2.5 crore and turnover upto 10 crore",
+            "Investement up to 1 crore and turnover upto 5 crore",
+            "Investement up to 25 crore and turnover upto 100 crore",
+            "Investement up to 125 crore and turnover upto 500 crore"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Small MSME?",
+        "answer": "Investement up to 25 crore and turnover upto 100 crore",
+        "choices": [
+            "Investement up to 25 crore and turnover upto 100 crore",
+            "Investement up to 10 crore and turnover upto 50 crore",
+            "Investement up to 5 crore and turnover upto 10 crore",
+            "Investement up to 125 crore and turnover upto 500 crore"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Medium MSME?",
+        "answer": "Investement up to 125 crore and turnover upto 500 crore",
+        "choices": [
+            "Investement up to 125 crore and turnover upto 500 crore",
+            "Investement up to 50 crore and turnover upto 250 crore",
+            "Investement up to 25 crore and turnover upto 100 crore",
+            "Investement up to 2.5 crore and turnover upto 10 crore"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "What is the fiscal deficit target for the FY 2026–27 as per the latest Union Budget?",
+        "answer": "4.5% of GDP",
+        "choices": [
+            "4.5% of GDP",
+            "3.0% of GDP",
+            "3.8% of GDP",
+            "4.3% of GDP"
+        ],
+        "information": "Fiscal deficit represents the gap between total expenditure and total non-debt receipts.\nBudget 2026–27 pegs it at 4.3% of GDP, continuing the medium-term fiscal consolidation path aimed at reaching ~4.5% or below without compromising growth."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Public capital expenditure in Union Budget 2026–27 was increased to approximately",
+        "answer": "₹12.2 lakh crore",
+        "choices": [
+            "₹12.2 lakh crore",
+            "₹8 lakh crore",
+            "₹10.2 lakh crore",
+            "₹11.2 lakh crore"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "What is a “Vote on Account”?",
+        "answer": "Temporary approval of expenditures until full Budget is passed",
+        "choices": [
+            "Temporary approval of expenditures until full Budget is passed",
+            "Approval for non-budget expenditures",
+            "Legal permission for tax changes",
+            "Emergency budget announcement"
+        ],
+        "information": "A Vote on Account is a temporary measure that allows the government to withdraw funds from the Consolidated Fund of India to meet essential expenditures when the full Budget has not yet been passed."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which ministry continues to receive the highest allocation in Union Budget 2026–27?",
+        "answer": "Ministry of Defence",
+        "choices": [
+            "Ministry of Defence",
+            "Ministry of Railways",
+            "Ministry of Tourism",
+            "Ministry of Education"
+        ],
+        "information": "Defence continued to be among the top recipients with a major allocation of approximately ₹5.94 lakh crore, reflecting priority on national security and modernization."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "What is the total estimated expenditure in the Union Budget 2026–27?",
+        "answer": "₹53.5 lakh crore",
+        "choices": [
+            "₹53.5 lakh crore",
+            "₹43.5 lakh crore",
+            "₹50.5 lakh crore",
+            "₹35.5 lakh crore"
+        ],
+        "information": "Total expenditure includes revenue + capital expenditure. In Union Budget 2026–27 it was estimated at ₹53.5 lakh crore"
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which department prepares the Union Budget under the guidance of the Finance Minister?",
+        "answer": "Department of Economic Affairs (DEA)",
+        "choices": [
+            "Department of Economic Affairs (DEA)",
+            "Reserve Bank of India",
+            "Department of Revenue",
+            "Home Department"
+        ],
+        "information": "The Department of Economic Affairs (DEA) under the Finance Ministry is the central coordinating body for budget preparation, integrating inputs from all ministries and finalising the budget documents for tabling in Parliament."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which constitutional provision mandates the presentation of the Union Budget (Annual Financial Statement)?",
+        "answer": "Article 112",
+        "choices": [
+            "Article 112",
+            "Article 110",
+            "Article 290",
+            "Article 266"
+        ],
+        "information": "Article 112 of the Indian Constitution requires the President to lay before Parliament the Annual Financial Statement, commonly known as the Union Budget, detailing the estimates of revenue and expenditure for the coming fiscal year."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "When is the Union Budget of India typically presented?",
+        "answer": "1st February",
+        "choices": [
+            "1st February",
+            "28th February",
+            "15th January",
+            "31st December"
+        ],
+        "information": "Since 2017, the Union Budget of India has been presented on 1st February each year (or around that date) to allow sufficient time for Parliamentary scrutiny before the new financial year begins on 1st April. This replaced the earlier tradition of presenting it on 28th February."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "What is the “Blue Sheet” in the context of Union Budget preparation?",
+        "answer": "Confidential internal document containing key financial figures and estimates",
+        "choices": [
+            "Confidential internal document containing key financial figures and estimates",
+            "Budget announcement document",
+            "Finance Bill summary",
+            "State government budget format"
+        ],
+        "information": "The Blue Sheet is a highly confidential worksheet used within the Finance Ministry. It contains the core numerical estimates and projections that underpin the entire Budget and is restricted to a select group of officials until the budget is presented."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Who is primarily responsible for preparing the Economic Survey of India?",
+        "answer": "Chief Economic Adviser, Ministry of Finance",
+        "choices": [
+            "Chief Economic Adviser, Ministry of Finance",
+            "NITI Aayog",
+            "Reserve Bank of India",
+            "Prime Minister’s Office"
+        ],
+        "information": "The Survey is prepared under the leadership of the Chief Economic Adviser (CEA) in the Department of Economic Affairs."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "As per the Economic Survey 2025–26, India’s real GDP growth in FY26 is estimated at approximately:",
+        "answer": "7.4 percent",
+        "choices": [
+            "7.4 percent",
+            "6.1 percent",
+            "6.4 percent",
+            "7.8 percent"
+        ],
+        "information": "The Survey estimates ~7.4% real GDP growth, keeping India the fastest-growing major economy globally."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which sector contributes the largest share to India’s Gross Value Added (GVA)?",
+        "answer": "Services",
+        "choices": [
+            "Services",
+            "Manufacturing",
+            "Agriculture",
+            "Tourism"
+        ],
+        "information": "The services sector contributes over 50% of GVA, making it the backbone of India’s economy."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Current Account Deficit (CAD) in H1 FY26 was close to:",
+        "answer": "0.8% of GDP",
+        "choices": [
+            "0.8% of GDP",
+            "2.8% of GDP",
+            "1.8% of GDP",
+            "8.0% of GDP"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Average retail inflation (CPI) during April–December FY26 was approximately:",
+        "answer": "1.7 percent",
+        "choices": [
+            "1.7 percent",
+            "7.1 percent",
+            "2.7 percent",
+            "3.1 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Private Final Consumption Expenditure (PFCE) as a share of GDP stood at around:",
+        "answer": "61.5 percent",
+        "choices": [
+            "61.5 percent",
+            "67 percent",
+            "56.1 percent",
+            "62.5 percent"
+        ],
+        "information": "PFCE at 61.5% of GDP reflects strong domestic demand recovery."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The projected GDP growth range for FY27, as per Economic Survey, is:",
+        "answer": "6.8 to 7.2 %",
+        "choices": [
+            "6.8 to 7.2 %",
+            "5.8 to 6.2 %",
+            "6.0 to 6.5 %",
+            "7.8 to 8.2 %"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Economic Survey 2025-26, which sector recorded the highest estimated growth rate for the current fiscal year?",
+        "answer": "Service Sector",
+        "choices": [
+            "Service Sector",
+            "Agriculture and Allied Sectors",
+            "Mining and Quarrying",
+            "Industrial Sector"
+        ],
+        "information": "The tertiary sector continues to be the fastest-growing segment, estimated at over 9% for FY26."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which component of the Gross Domestic Product (GDP) accounts for the highest share in the Indian economy as per the latest survey?",
+        "answer": "Private Final Consumption Expenditure (PFCE)",
+        "choices": [
+            "Private Final Consumption Expenditure (PFCE)",
+            "Government Final Consumption Expenditure",
+            "Gross Fixed Capital Formation",
+            "Net Exports"
+        ],
+        "information": "PFCE accounts for nearly 60% of the GDP, making it the largest driver of economic activity."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which Indian state has the lowest Per Capita Income at constant prices according to the comparative data in the Survey?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Uttar Pradesh",
+            "Jharkhand",
+            "Odisha"
+        ],
+        "information": "Despite high growth rates, Bihar consistently records the lowest per capita income among Indian states."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Regarding India's external trade, which country remains India's largest trading partner as per the 2025-26 data?",
+        "answer": "USA",
+        "choices": [
+            "USA",
+            "United Arab Emirates (UAE)",
+            "Saudi Arabia",
+            "Russia"
+        ],
+        "information": "The United States remains India's top trading partner, reflecting strong bilateral trade and investment ties."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which sector received the highest amount of Foreign Direct Investment (FDI) inflows in the first half of the current fiscal year?",
+        "answer": "Computer Software and Hardware",
+        "choices": [
+            "Computer Software and Hardware",
+            "Construction (Infrastructure) Activities",
+            "Automobile Industry",
+            "Pharmaceuticals"
+        ],
+        "information": "This sector traditionally attracts the highest FDI due to India's global IT dominance."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which item accounts for the highest share in India's import basket in terms of value?",
+        "answer": "Petroleum, Oil, and Lubricants (POL)",
+        "choices": [
+            "Petroleum, Oil, and Lubricants (POL)",
+            "Electronic Goods",
+            "Machinery",
+            "Gold"
+        ],
+        "information": "Energy imports remain the single largest drain on India's foreign exchange reserves."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which of the following has the lowest weightage in the Consumer Price Index (Combined) used for inflation targeting?",
+        "answer": "Pan, Tobacco, and Intoxicants",
+        "choices": [
+            "Pan, Tobacco, and Intoxicants",
+            "Food and Beverages",
+            "Housing",
+            "Miscellaneous"
+        ],
+        "information": "Pan, Tobacco, and Intoxicants has the lowest weightage (approx 2.73%) in the overall CPI(C) basket."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the context of the Primary Sector, which Indian state is currently the largest producer of Foodgrains?",
+        "answer": "Uttar Pradesh",
+        "choices": [
+            "Uttar Pradesh",
+            "West Bengal",
+            "Madhya Pradesh",
+            "Punjab"
+        ],
+        "information": "Due to its vast geographical area and fertile plains, UP is the largest producer of foodgrains in India."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which tax currently provides the highest revenue share to the Union Government as per the latest budget and survey estimations?",
+        "answer": "Goods and Services Tax (GST)",
+        "choices": [
+            "Goods and Services Tax (GST)",
+            "Corporate Tax",
+            "Union Excise Duties",
+            "Customs Duty"
+        ],
+        "information": "GST is the single largest source of indirect tax revenue for the government."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which of the following states recorded the lowest Unemployment Rate (UR) as per the Periodic Labour Force Survey (PLFS) data cited in the Survey?",
+        "answer": "Chhattisgarh",
+        "choices": [
+            "Chhattisgarh",
+            "Kerala",
+            "Bihar",
+            "Haryana"
+        ],
+        "information": "Chhattisgarh has consistently reported very low unemployment rates in recent labor surveys."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the latest survey data, which state is the leader in 'Start-up' registrations under the 'Startup India' initiative?",
+        "answer": "Maharashtra",
+        "choices": [
+            "Maharashtra",
+            "Karnataka",
+            "Tamil Nadu",
+            "Delhi"
+        ],
+        "information": "Maharashtra continues to lead the country in the absolute number of recognized startups."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The Union Budget 2026-27 announced a significant push for 'Urban Rejuvenation'. Which scheme is the primary vehicle for this goal?",
+        "answer": "AMRUT 2.0",
+        "choices": [
+            "AMRUT 2.0",
+            "MGNREGA",
+            "PM-Kisan",
+            "PM-Awas Yojana (Gramin)"
+        ],
+        "information": "AMRUT (Atal Mission for Rejuvenation and Urban Transformation) is the flagship scheme for urban infrastructure and water security."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the 'Rupee Comes From' chart of the Budget 2026-27, which of the following is the largest source of receipts?",
+        "answer": "Borrowings and Other Liabilities",
+        "choices": [
+            "Borrowings and Other Liabilities",
+            "Non-Tax Receipts",
+            "Income Tax",
+            "Corporation Tax"
+        ],
+        "information": "Borrowings traditionally represent the largest 'source' of funds (often 27-30%) to bridge the fiscal deficit."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The Economic Survey 2025-26 notes a record low in the 'Non-Performing Assets' (NPA) ratio of Scheduled Commercial Banks. Which ratio was achieved?",
+        "answer": "Gross NPA of 2.8%",
+        "choices": [
+            "Gross NPA of 2.8%",
+            "Gross NPA of 5.5%",
+            "Gross NPA of 10.1%",
+            "Gross NPA of 8.2%"
+        ],
+        "information": "Reflecting a clean-up of bank balance sheets, the GNPA ratio has dropped to a multi-year low of around 2.8% to 3%."
+    },
+    {
         "sheet": "BiharEconomy",
         "question": "What is the size of Bihar's economy at current price in 2023-24",
         "answer": "8.54 lakh crore",
@@ -26000,6 +25856,462 @@
             "AMUL model",
             "Mother Dairy model",
             "Farmer Producer Company model"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the literacy rate of Bihar?",
+        "answer": "61.8 percent",
+        "choices": [
+            "61.8 percent",
+            "58.5 percent",
+            "65.3 percent",
+            "70.2 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "What was the literacy rate of India as per the Census 2011?",
+        "answer": "74.0 percent",
+        "choices": [
+            "74.0 percent",
+            "61.8 percent",
+            "65.4 percent",
+            "68.7 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has highest literacy rate in Bihar?",
+        "answer": "Rohtas",
+        "choices": [
+            "Rohtas",
+            "Patna",
+            "Purnea",
+            "Gopalganj"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has lowest literacy rate in Bihar?",
+        "answer": "Purnea",
+        "choices": [
+            "Purnea",
+            "Munger",
+            "Rohtas",
+            "Gopalganj"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the male literacy rate in Bihar?",
+        "answer": "71.2 percent",
+        "choices": [
+            "71.2 percent",
+            "61.8 percent",
+            "74.0 percent",
+            "51.5 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the female literacy rate in Bihar?",
+        "answer": "51.5 percent",
+        "choices": [
+            "51.5 percent",
+            "61.8 percent",
+            "74.0 percent",
+            "71.2 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "Which state had the highest literacy rate according to Census 2011?",
+        "answer": "Kerala",
+        "choices": [
+            "Kerala",
+            "Bihar",
+            "Tamil Nadu",
+            "Maharashtra"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "Which state had the lowest literacy rate according to Census 2011?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Jharkhand",
+            "West Bengal",
+            "Assam"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what is the sex-ratio of Bihar?",
+        "answer": 918,
+        "choices": [
+            918,
+            943,
+            950,
+            981
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what is the sex-ratio of India?",
+        "answer": 943,
+        "choices": [
+            943,
+            918,
+            948,
+            952
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the highest sex-ratio in Bihar?",
+        "answer": "Gopalganj",
+        "choices": [
+            "Gopalganj",
+            "Munger",
+            "Purnea",
+            "Patna"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the lowest sex-ratio in Bihar?",
+        "answer": "Munger",
+        "choices": [
+            "Munger",
+            "Gopalganj",
+            "Sheohar",
+            "Kaimur"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what is the population density of Bihar?",
+        "answer": "1106 sq km",
+        "choices": [
+            "1106 sq km",
+            "382 sq km",
+            "812 sq km",
+            "1206 sq km"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what is the population density of India?",
+        "answer": "382 sq km",
+        "choices": [
+            "382 sq km",
+            "1106 sq km",
+            "812 sq km",
+            "1206 sq km"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the highest population density in Bihar?",
+        "answer": "Sheohar",
+        "choices": [
+            "Sheohar",
+            "Sheikhpura",
+            "Kaimur",
+            "Rohtas"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the lowest population density in Bihar?",
+        "answer": "Kaimur",
+        "choices": [
+            "Kaimur",
+            "Sheikhpura",
+            "Sheohar",
+            "Rohtas"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the lowest population in Bihar?",
+        "answer": "Sheikhpura",
+        "choices": [
+            "Sheikhpura",
+            "Sheohar",
+            "Kaimur",
+            "Patna"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the highest population in Bihar?",
+        "answer": "Patna",
+        "choices": [
+            "Patna",
+            "Sheohar",
+            "Kaimur",
+            "Sheikhpura"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "Which State has the highest population according to Census 2011?",
+        "answer": "Uttar Pradesh",
+        "choices": [
+            "Uttar Pradesh",
+            "Bihar",
+            "Maharashtra",
+            "West Bengal"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "Which State has the lowest population according to Census 2011?",
+        "answer": "Sikkim",
+        "choices": [
+            "Sikkim",
+            "Manipur",
+            "Tripura",
+            "Goa"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "Which Union Territory has the lowest population according to Census 2011?",
+        "answer": "Lakshadweep",
+        "choices": [
+            "Lakshadweep",
+            "Andmand & Nicobar Islands",
+            "Puducherry",
+            "Ladakh"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "Which Union Territory has the highest population according to Census 2011?",
+        "answer": "Delhi",
+        "choices": [
+            "Delhi",
+            "Ladakh",
+            "Jammu & Kashmir",
+            "Chandigarh"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the lowest population in India?",
+        "answer": "Dibang Valley, Arunachal Pradesh",
+        "choices": [
+            "Dibang Valley, Arunachal Pradesh",
+            "Leh, Ladakh",
+            "Mahe, Puducherry",
+            "Diu, Daman & Diu"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which district has the highest population in India?",
+        "answer": "Thane, Maharashtra",
+        "choices": [
+            "Thane, Maharashtra",
+            "Sheohar, Bihar",
+            "Varanasi, Uttar Pradesh",
+            "Bhopal, Madhya Pradesh"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "Which State has the highest population density according to Census 2011?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Uttar Pradesh",
+            "Mahrashtra",
+            "Sikkim"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "Which State has the lowest population density according to Census 2011?",
+        "answer": "Arunachal Pradesh",
+        "choices": [
+            "Arunachal Pradesh",
+            "Assam",
+            "Sikkim",
+            "Goa"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "Which Union Territory has the highest population density according to Census 2011?",
+        "answer": "Delhi",
+        "choices": [
+            "Delhi",
+            "Lakshadweep",
+            "Andman & Nicobar Islands",
+            "Ladakh"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "Which Union Territory has the lowest population density according to Census 2011?",
+        "answer": "Andman & Nicobar Islands",
+        "choices": [
+            "Andman & Nicobar Islands",
+            "Lakshadweep",
+            "Daman & Diue",
+            "Ladakh"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the total population of India?",
+        "answer": "121 crore",
+        "choices": [
+            "121 crore",
+            "11 crore",
+            "110 crore",
+            "112 crore"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what was the total population of Bihar?",
+        "answer": "10.4 crore",
+        "choices": [
+            "10.4 crore",
+            "14 crore",
+            "104 crore",
+            "41 crore"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, Bihar’s population is approximately what percent of India’s total population?",
+        "answer": "8.6 percent",
+        "choices": [
+            "8.6 percent",
+            "7.2 percent",
+            "9.4 percent",
+            "10.2 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "In terms of population, what is the rank of Bihar?",
+        "answer": "Third",
+        "choices": [
+            "Third",
+            "Second",
+            "First ",
+            "Fourth"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, the percentage of urban and rural population of Bihar is respectively",
+        "answer": "11.3% and 88.7%",
+        "choices": [
+            "11.3% and 88.7%",
+            "13.4% and 86.6%",
+            "17.3% and 82.7%",
+            "10.2% and 89.8%"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "In terms of urban population, Bihar ranks among the states/union territories of the country?",
+        "answer": "12th",
+        "choices": [
+            "12th",
+            "11th",
+            "13th",
+            "14th"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which is the most populous Scheduled Tribe in Bihar?",
+        "answer": "Santhal",
+        "choices": [
+            "Santhal",
+            "Bhil",
+            "Gond",
+            "Munda"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, which is the most populous Scheduled Tribe in India?",
+        "answer": "Bhil",
+        "choices": [
+            "Bhil",
+            "Santhal",
+            "Gond",
+            "Munda"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what percentage of tribal population lives in India?",
+        "answer": "8.6 percent",
+        "choices": [
+            "8.6 percent",
+            "1.3 percent",
+            "9.4 percent",
+            "7.2 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Census",
+        "question": "According to Census 2011, what percentage of tribal population lives in Bihar?",
+        "answer": "1.3 percent",
+        "choices": [
+            "1.3 percent",
+            "8.6 percent",
+            "9.4 percent",
+            "7.2 percent"
         ],
         "information": ""
     }

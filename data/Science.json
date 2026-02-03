@@ -1906,5 +1906,17 @@
             "Oryza Sativa"
         ],
         "information": "Euryale ferox is the scientific name for the prickly water lily that produces makhana."
+    },
+    {
+        "sheet": "Science",
+        "question": "Which of the following is the natural reservoir of Nipah virus?",
+        "answer": "Fruit bats (Pteropus species)",
+        "choices": [
+            "Fruit bats (Pteropus species)",
+            "Pigs",
+            "Birds",
+            "Rodents"
+        ],
+        "information": "Fruit bats of the Pteropus genus are the natural hosts and remain asymptomatic carriers."
     }
 ]

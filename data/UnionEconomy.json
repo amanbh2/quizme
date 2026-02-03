@@ -9,7 +9,7 @@
             "Gandhian",
             "Free"
         ],
-        "information": ""
+        "information": "India has mixed economic model, defined by the coexistence of both the private sector (market-driven) and the public sector (state-driven). This ensures a balance between economic efficiency and social justice."
     },
     {
         "sheet": "UnionEconomy",
@@ -181,42 +181,6 @@
     },
     {
         "sheet": "UnionEconomy",
-        "question": "The latest per capita income at constant prices is lowest for which state of India?",
-        "answer": "Bihar",
-        "choices": [
-            "Bihar",
-            "Uttar Pradesh",
-            "Jharkhand",
-            "Manipur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "The latest per capita income at constant prices is highest for which state of India?",
-        "answer": "Sikkim",
-        "choices": [
-            "Sikkim",
-            "Goa",
-            "Telangana",
-            "Karnataka"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Which state of India has highest Gross State Domestic Product (GSDP)?",
-        "answer": "Maharashtra",
-        "choices": [
-            "Maharashtra",
-            "Karnataka",
-            "Uttar Pradesh",
-            "Tamil Nadu"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
         "question": "Which sector of Indian economy contributes the most to the Gross National Product (GNP)?",
         "answer": "Tertiary Sector",
         "choices": [
@@ -236,18 +200,6 @@
             "NITI Aayog",
             "United Nations Development Programme (UNDP)",
             "World Bank"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "As per the Sustainable Development Report (SDR) 2025, what is India's rank in the SDG Index out of 167 countries?",
-        "answer": "99th",
-        "choices": [
-            "99th",
-            "109th ",
-            "112th",
-            "121st"
         ],
         "information": ""
     },
@@ -301,18 +253,6 @@
     },
     {
         "sheet": "UnionEconomy",
-        "question": "What is the theme of the Union Budget 2025-26?",
-        "answer": "Sabka Vikas",
-        "choices": [
-            "Sabka Vikas",
-            "Sabka Vikas Sabka Prayas",
-            "Sabka Sath",
-            "Viksit Bharat"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
         "question": "According to the Union Economic Survey 2024-25, what is the expected Real GDP growth for FY2025?",
         "answer": "6.4 percent",
         "choices": [
@@ -337,102 +277,6 @@
     },
     {
         "sheet": "UnionEconomy",
-        "question": "In the Union Budget 2025-26 what are the four engines of Economic Growth?",
-        "answer": "Agriculture, MSME, Investment and Exports",
-        "choices": [
-            "Agriculture, MSME, Investment and Exports",
-            "Agriculture, Defence, Tourism, Banking",
-            "Defence, Tourism, Exports, Banking",
-            "Tourism, Banking, MSME, Sports"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "In the Union Budget 2025-26 what are the four focus point?",
-        "answer": "Poor, Youth, Farmers, Women",
-        "choices": [
-            "Poor, Youth, Farmers, Women",
-            "Poor, Science, Tourism, Health",
-            "Youth, Health, Sports, AI",
-            "AI, Crypto, Energy, Infrastructure"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "The quote - A country is not just its soil; a country is its people, mentioned in the Union Budget 2025–26 speech, is attributed to which Indian personality?",
-        "answer": "Gurajada Appa Rao",
-        "choices": [
-            "Gurajada Appa Rao",
-            "Rabindranath Tagore",
-            "Mahatma Gandhi",
-            "Sarvepalli Radhakrishnan"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Under the broad principles of Viksit Bharat announced in the Union Budget 2025-26, what percentage of women should be engaged in economic activities?",
-        "answer": "70% by 2047",
-        "choices": [
-            "70% by 2047",
-            "60% by 2040",
-            "80% by 2050",
-            "50% by 2030"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "In the Union Budget 2025-26 which among the following is considered as the fuel for economic growth?",
-        "answer": "Reforms",
-        "choices": [
-            "Reforms",
-            "Inclusivity",
-            "Devlopment",
-            "Technology"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "In the Union Budget 2025-26 which among the following is considered as the guiding spirit for economic growth?",
-        "answer": "Inclusivity",
-        "choices": [
-            "Inclusivity",
-            "Reforms",
-            "Devlopment",
-            "Technology"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "In the Union Budget 2025-26 which among the following is considered as the destination of economic growth?",
-        "answer": "Viksit Bharat",
-        "choices": [
-            "Viksit Bharat",
-            "Inclusivity",
-            "Devlopment",
-            "Reforms"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024–25, India’s rank in global services exports is:",
-        "answer": "Seventh",
-        "choices": [
-            "Seventh",
-            "Third",
-            "Fifth",
-            "Tenth"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
         "question": "According to the Union Economic Survey 2024–25, what was the approximate size of India’s forex reserves by the end of December 2024?",
         "answer": "USD 640.3 billion",
         "choices": [
@@ -440,18 +284,6 @@
             "USD 640.3 million",
             "USD 634.6 billion",
             "USD 652.9 million"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Budget 2025-26, how many Atal Tinkering Labs will be open in government schools?",
-        "answer": 50000,
-        "choices": [
-            50000,
-            30000,
-            20000,
-            10000
         ],
         "information": ""
     },
@@ -488,18 +320,6 @@
             "2.8 percent",
             "3.0 percent",
             "2.5 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "Under the six-year Mission for Aatmanirbharta in Pulses, which of the following pulses is not explicitly given special focus?",
-        "answer": "Moong",
-        "choices": [
-            "Moong",
-            "Tur",
-            "Masoor",
-            "Urad"
         ],
         "information": ""
     },
@@ -553,14 +373,362 @@
     },
     {
         "sheet": "UnionEconomy",
-        "question": "In the Union Budget 2024–25, which ministry received the highest budget allocation?",
-        "answer": "Ministry of Defense",
+        "question": "What is the fiscal deficit target for the FY 2026–27 as per the latest Union Budget?",
+        "answer": "4.5% of GDP",
         "choices": [
-            "Ministry of Defense",
-            "Ministry of Agriuculture & Farmers Welfare",
-            "Ministry of Railways",
-            "Ministry of Education"
+            "4.5% of GDP",
+            "3.0% of GDP",
+            "3.8% of GDP",
+            "4.3% of GDP"
+        ],
+        "information": "Fiscal deficit represents the gap between total expenditure and total non-debt receipts.\nBudget 2026–27 pegs it at 4.3% of GDP, continuing the medium-term fiscal consolidation path aimed at reaching ~4.5% or below without compromising growth."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Public capital expenditure in Union Budget 2026–27 was increased to approximately",
+        "answer": "₹12.2 lakh crore",
+        "choices": [
+            "₹12.2 lakh crore",
+            "₹8 lakh crore",
+            "₹10.2 lakh crore",
+            "₹11.2 lakh crore"
         ],
         "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "What is a “Vote on Account”?",
+        "answer": "Temporary approval of expenditures until full Budget is passed",
+        "choices": [
+            "Temporary approval of expenditures until full Budget is passed",
+            "Approval for non-budget expenditures",
+            "Legal permission for tax changes",
+            "Emergency budget announcement"
+        ],
+        "information": "A Vote on Account is a temporary measure that allows the government to withdraw funds from the Consolidated Fund of India to meet essential expenditures when the full Budget has not yet been passed."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which ministry continues to receive the highest allocation in Union Budget 2026–27?",
+        "answer": "Ministry of Defence",
+        "choices": [
+            "Ministry of Defence",
+            "Ministry of Railways",
+            "Ministry of Tourism",
+            "Ministry of Education"
+        ],
+        "information": "Defence continued to be among the top recipients with a major allocation of approximately ₹5.94 lakh crore, reflecting priority on national security and modernization."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "What is the total estimated expenditure in the Union Budget 2026–27?",
+        "answer": "₹53.5 lakh crore",
+        "choices": [
+            "₹53.5 lakh crore",
+            "₹43.5 lakh crore",
+            "₹50.5 lakh crore",
+            "₹35.5 lakh crore"
+        ],
+        "information": "Total expenditure includes revenue + capital expenditure. In Union Budget 2026–27 it was estimated at ₹53.5 lakh crore"
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which department prepares the Union Budget under the guidance of the Finance Minister?",
+        "answer": "Department of Economic Affairs (DEA)",
+        "choices": [
+            "Department of Economic Affairs (DEA)",
+            "Reserve Bank of India",
+            "Department of Revenue",
+            "Home Department"
+        ],
+        "information": "The Department of Economic Affairs (DEA) under the Finance Ministry is the central coordinating body for budget preparation, integrating inputs from all ministries and finalising the budget documents for tabling in Parliament."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which constitutional provision mandates the presentation of the Union Budget (Annual Financial Statement)?",
+        "answer": "Article 112",
+        "choices": [
+            "Article 112",
+            "Article 110",
+            "Article 290",
+            "Article 266"
+        ],
+        "information": "Article 112 of the Indian Constitution requires the President to lay before Parliament the Annual Financial Statement, commonly known as the Union Budget, detailing the estimates of revenue and expenditure for the coming fiscal year."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "When is the Union Budget of India typically presented?",
+        "answer": "1st February",
+        "choices": [
+            "1st February",
+            "28th February",
+            "15th January",
+            "31st December"
+        ],
+        "information": "Since 2017, the Union Budget of India has been presented on 1st February each year (or around that date) to allow sufficient time for Parliamentary scrutiny before the new financial year begins on 1st April. This replaced the earlier tradition of presenting it on 28th February."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "What is the “Blue Sheet” in the context of Union Budget preparation?",
+        "answer": "Confidential internal document containing key financial figures and estimates",
+        "choices": [
+            "Confidential internal document containing key financial figures and estimates",
+            "Budget announcement document",
+            "Finance Bill summary",
+            "State government budget format"
+        ],
+        "information": "The Blue Sheet is a highly confidential worksheet used within the Finance Ministry. It contains the core numerical estimates and projections that underpin the entire Budget and is restricted to a select group of officials until the budget is presented."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Who is primarily responsible for preparing the Economic Survey of India?",
+        "answer": "Chief Economic Adviser, Ministry of Finance",
+        "choices": [
+            "Chief Economic Adviser, Ministry of Finance",
+            "NITI Aayog",
+            "Reserve Bank of India",
+            "Prime Minister’s Office"
+        ],
+        "information": "The Survey is prepared under the leadership of the Chief Economic Adviser (CEA) in the Department of Economic Affairs."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "As per the Economic Survey 2025–26, India’s real GDP growth in FY26 is estimated at approximately:",
+        "answer": "7.4 percent",
+        "choices": [
+            "7.4 percent",
+            "6.1 percent",
+            "6.4 percent",
+            "7.8 percent"
+        ],
+        "information": "The Survey estimates ~7.4% real GDP growth, keeping India the fastest-growing major economy globally."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which sector contributes the largest share to India’s Gross Value Added (GVA)?",
+        "answer": "Services",
+        "choices": [
+            "Services",
+            "Manufacturing",
+            "Agriculture",
+            "Tourism"
+        ],
+        "information": "The services sector contributes over 50% of GVA, making it the backbone of India’s economy."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Current Account Deficit (CAD) in H1 FY26 was close to:",
+        "answer": "0.8% of GDP",
+        "choices": [
+            "0.8% of GDP",
+            "2.8% of GDP",
+            "1.8% of GDP",
+            "8.0% of GDP"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Average retail inflation (CPI) during April–December FY26 was approximately:",
+        "answer": "1.7 percent",
+        "choices": [
+            "1.7 percent",
+            "7.1 percent",
+            "2.7 percent",
+            "3.1 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Private Final Consumption Expenditure (PFCE) as a share of GDP stood at around:",
+        "answer": "61.5 percent",
+        "choices": [
+            "61.5 percent",
+            "67 percent",
+            "56.1 percent",
+            "62.5 percent"
+        ],
+        "information": "PFCE at 61.5% of GDP reflects strong domestic demand recovery."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The projected GDP growth range for FY27, as per Economic Survey, is:",
+        "answer": "6.8 to 7.2 %",
+        "choices": [
+            "6.8 to 7.2 %",
+            "5.8 to 6.2 %",
+            "6.0 to 6.5 %",
+            "7.8 to 8.2 %"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the Economic Survey 2025-26, which sector recorded the highest estimated growth rate for the current fiscal year?",
+        "answer": "Service Sector",
+        "choices": [
+            "Service Sector",
+            "Agriculture and Allied Sectors",
+            "Mining and Quarrying",
+            "Industrial Sector"
+        ],
+        "information": "The tertiary sector continues to be the fastest-growing segment, estimated at over 9% for FY26."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which component of the Gross Domestic Product (GDP) accounts for the highest share in the Indian economy as per the latest survey?",
+        "answer": "Private Final Consumption Expenditure (PFCE)",
+        "choices": [
+            "Private Final Consumption Expenditure (PFCE)",
+            "Government Final Consumption Expenditure",
+            "Gross Fixed Capital Formation",
+            "Net Exports"
+        ],
+        "information": "PFCE accounts for nearly 60% of the GDP, making it the largest driver of economic activity."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which Indian state has the lowest Per Capita Income at constant prices according to the comparative data in the Survey?",
+        "answer": "Bihar",
+        "choices": [
+            "Bihar",
+            "Uttar Pradesh",
+            "Jharkhand",
+            "Odisha"
+        ],
+        "information": "Despite high growth rates, Bihar consistently records the lowest per capita income among Indian states."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Regarding India's external trade, which country remains India's largest trading partner as per the 2025-26 data?",
+        "answer": "USA",
+        "choices": [
+            "USA",
+            "United Arab Emirates (UAE)",
+            "Saudi Arabia",
+            "Russia"
+        ],
+        "information": "The United States remains India's top trading partner, reflecting strong bilateral trade and investment ties."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which sector received the highest amount of Foreign Direct Investment (FDI) inflows in the first half of the current fiscal year?",
+        "answer": "Computer Software and Hardware",
+        "choices": [
+            "Computer Software and Hardware",
+            "Construction (Infrastructure) Activities",
+            "Automobile Industry",
+            "Pharmaceuticals"
+        ],
+        "information": "This sector traditionally attracts the highest FDI due to India's global IT dominance."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which item accounts for the highest share in India's import basket in terms of value?",
+        "answer": "Petroleum, Oil, and Lubricants (POL)",
+        "choices": [
+            "Petroleum, Oil, and Lubricants (POL)",
+            "Electronic Goods",
+            "Machinery",
+            "Gold"
+        ],
+        "information": "Energy imports remain the single largest drain on India's foreign exchange reserves."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which of the following has the lowest weightage in the Consumer Price Index (Combined) used for inflation targeting?",
+        "answer": "Pan, Tobacco, and Intoxicants",
+        "choices": [
+            "Pan, Tobacco, and Intoxicants",
+            "Food and Beverages",
+            "Housing",
+            "Miscellaneous"
+        ],
+        "information": "Pan, Tobacco, and Intoxicants has the lowest weightage (approx 2.73%) in the overall CPI(C) basket."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the context of the Primary Sector, which Indian state is currently the largest producer of Foodgrains?",
+        "answer": "Uttar Pradesh",
+        "choices": [
+            "Uttar Pradesh",
+            "West Bengal",
+            "Madhya Pradesh",
+            "Punjab"
+        ],
+        "information": "Due to its vast geographical area and fertile plains, UP is the largest producer of foodgrains in India."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which tax currently provides the highest revenue share to the Union Government as per the latest budget and survey estimations?",
+        "answer": "Goods and Services Tax (GST)",
+        "choices": [
+            "Goods and Services Tax (GST)",
+            "Corporate Tax",
+            "Union Excise Duties",
+            "Customs Duty"
+        ],
+        "information": "GST is the single largest source of indirect tax revenue for the government."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "Which of the following states recorded the lowest Unemployment Rate (UR) as per the Periodic Labour Force Survey (PLFS) data cited in the Survey?",
+        "answer": "Chhattisgarh",
+        "choices": [
+            "Chhattisgarh",
+            "Kerala",
+            "Bihar",
+            "Haryana"
+        ],
+        "information": "Chhattisgarh has consistently reported very low unemployment rates in recent labor surveys."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "According to the latest survey data, which state is the leader in 'Start-up' registrations under the 'Startup India' initiative?",
+        "answer": "Maharashtra",
+        "choices": [
+            "Maharashtra",
+            "Karnataka",
+            "Tamil Nadu",
+            "Delhi"
+        ],
+        "information": "Maharashtra continues to lead the country in the absolute number of recognized startups."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The Union Budget 2026-27 announced a significant push for 'Urban Rejuvenation'. Which scheme is the primary vehicle for this goal?",
+        "answer": "AMRUT 2.0",
+        "choices": [
+            "AMRUT 2.0",
+            "MGNREGA",
+            "PM-Kisan",
+            "PM-Awas Yojana (Gramin)"
+        ],
+        "information": "AMRUT (Atal Mission for Rejuvenation and Urban Transformation) is the flagship scheme for urban infrastructure and water security."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "In the 'Rupee Comes From' chart of the Budget 2026-27, which of the following is the largest source of receipts?",
+        "answer": "Borrowings and Other Liabilities",
+        "choices": [
+            "Borrowings and Other Liabilities",
+            "Non-Tax Receipts",
+            "Income Tax",
+            "Corporation Tax"
+        ],
+        "information": "Borrowings traditionally represent the largest 'source' of funds (often 27-30%) to bridge the fiscal deficit."
+    },
+    {
+        "sheet": "UnionEconomy",
+        "question": "The Economic Survey 2025-26 notes a record low in the 'Non-Performing Assets' (NPA) ratio of Scheduled Commercial Banks. Which ratio was achieved?",
+        "answer": "Gross NPA of 2.8%",
+        "choices": [
+            "Gross NPA of 2.8%",
+            "Gross NPA of 5.5%",
+            "Gross NPA of 10.1%",
+            "Gross NPA of 8.2%"
+        ],
+        "information": "Reflecting a clean-up of bank balance sheets, the GNPA ratio has dropped to a multi-year low of around 2.8% to 3%."
     }
 ]

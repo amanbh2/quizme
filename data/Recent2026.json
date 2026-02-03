@@ -886,5 +886,137 @@
             "Poor nutrition"
         ],
         "information": "Overuse and misuse of antibiotics in humans, animals, and agriculture accelerates the development of drug-resistant microbes."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "In January 2026, which Indian state became the first in the country to introduce a system allowing the registration of First Information Reports (FIRs) at the victim’s residence or a place of their choice for specific sensitive crimes?",
+        "answer": "Telangana",
+        "choices": [
+            "Telangana",
+            "Maharashtra",
+            "Bihar",
+            "Uttar Pradesh"
+        ],
+        "information": "Telangana became the first state in India to officially allow the registration of FIRs at a victim's home or a place of their choice for specific sensitive crime categories."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Wings India 2026 was held at which location?",
+        "answer": "Begumpet Airport, Hyderabad",
+        "choices": [
+            "Begumpet Airport, Hyderabad",
+            "Jaipur International Airport",
+            "Chandigarh Airport",
+            "Netaji Subhas Chandra Bose Airport, Kolkata"
+        ],
+        "information": "Wings India 2026 — Asia’s largest civil aviation exhibition — took place from 28–31 January 2026 at Begumpet Airport, Hyderabad. It brings together global aviation stakeholders."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which Indian aerospace company showcased the SJ-100 regional jet at Wings India 2026?",
+        "answer": "Hindustan Aeronautics Limited (HAL)",
+        "choices": [
+            "Hindustan Aeronautics Limited (HAL)",
+            "Tata Advanced Systems",
+            "Reliance Aerospace",
+            "Bharat Dynamics Limited"
+        ],
+        "information": "HAL debuted its civil aircraft portfolio, including the SJ-100 and H-228, highlighting a push into the civil aviation manufacturing sector."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "At Wings India 2026, which state was honoured as the Best State for Promotion of Aviation Ecosystem?",
+        "answer": "Uttrakhand",
+        "choices": [
+            "Uttrakhand",
+            "Maharashtra",
+            "Karnataka",
+            "Goa"
+        ],
+        "information": "Uttarakhand was recognised for its effective aviation policy and efforts to strengthen connectivity and infrastructure."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following best explains why Nipah virus is classified by WHO as a priority pathogen?",
+        "answer": "It has high fatality rate and no licensed vaccine",
+        "choices": [
+            "It has high fatality rate and no licensed vaccine",
+            "It has a long incubation period",
+            "It spreads through air easily",
+            "It affects only tropical countries"
+        ],
+        "information": "Nipah virus is a zoonotic virus (animal to human transmission) that causes severe respiratory illness and fatal encephalitis in humans. It is listed by WHO as a priority pathogen due to its high fatality rate and epidemic potential."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who won the men’s singles title at the 2026 Australian Open?",
+        "answer": "Carlos Alcaraz",
+        "choices": [
+            "Carlos Alcaraz",
+            "Daniil Medvedev",
+            "Jannik Sinner",
+            "Novak Djokovic"
+        ],
+        "information": "Alcaraz defeated Djokovic in the final to win his first Australian Open title and complete the Career Grand Slam."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which record did Carlos Alcaraz achieve by winning the 2026 Australian Open?",
+        "answer": "Youngest man in history to complete Career Grand Slam",
+        "choices": [
+            "Youngest man in history to complete Career Grand Slam",
+            "Most Grand Slam titles overall",
+            "First Spanish Australian Open Champion ever",
+            "Only player to beat Djokovic in a final"
+        ],
+        "information": "At 22, he became the youngest man to complete the four majors in tennis history."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who won the women’s singles title at the 2026 Australian Open?",
+        "answer": "Elena Rybakina",
+        "choices": [
+            "Elena Rybakina",
+            "Aryna Sabalenka",
+            "Iga Świątek",
+            "Coco Gauff"
+        ],
+        "information": "Rybakina defeated Sabalenka in a three-set final."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which spiritual leader won his first Grammy in 2026?",
+        "answer": "Dalai Lama",
+        "choices": [
+            "Dalai Lama",
+            "Pope Francis",
+            "Desmond Tutu",
+            "Trevor Noah"
+        ],
+        "information": "The Dalai Lama received his first Grammy in the Spoken Word category for Meditations: The Reflections of His Holiness the Dalai Lama."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who won Album of the Year at the 2026 Grammy Awards?",
+        "answer": "Bad Bunny",
+        "choices": [
+            "Bad Bunny",
+            "Olivia Dean",
+            "Lady Gaga",
+            "Billie Eilish"
+        ],
+        "information": "Bad Bunny won Album of the Year for Debí Tirar Más Fotos, making history as the first fully Spanish-language album to win the top Grammy."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which artist won Song of the Year at the 2026 Grammys?",
+        "answer": "Billie Eilish",
+        "choices": [
+            "Billie Eilish",
+            "Sabrina Carpenter",
+            "Doechii",
+            "Justin Bieber"
+        ],
+        "information": "Billie Eilish won for “Wildflower.”"
     }
 ]
