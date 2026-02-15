@@ -3430,5 +3430,17 @@
             "Jamui"
         ],
         "information": "Kajra Solar Power Plant is situated at Kajra in the Lakhisarai district. It features a 495 MWh battery system, making it one of India's largest storage-backed solar projects."
+    },
+    {
+        "sheet": "BiharSpecific",
+        "question": "On which date is the Bihar Legislative Assembly Foundation Day celebrated every year?",
+        "answer": "7th February",
+        "choices": [
+            "7th February",
+            "1st April",
+            "22nd March",
+            "12th December"
+        ],
+        "information": "Bihar celebrates its Legislative Assembly Foundation Day on February 7th to commemorate the first session of the joint Bihar-Orissa Legislative Council in 1921."
     }
 ]

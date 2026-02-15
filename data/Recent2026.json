@@ -1018,5 +1018,125 @@
             "Justin Bieber"
         ],
         "information": "Billie Eilish won for “Wildflower.”"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which team won the Women’s Premier League (WPL) 2026 title?",
+        "answer": "Royal Challengers Bengaluru",
+        "choices": [
+            "Royal Challengers Bengaluru",
+            "Delhi Capitals",
+            "Gujarat Giants",
+            "Mumbai Indians"
+        ],
+        "information": "RCB Women clinched their second WPL title in the 2026 final by beating Delhi Capitals Women."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who was the top run-scorer (Orange Cap winner) in WPL 2026?",
+        "answer": "Smriti Mandhana",
+        "choices": [
+            "Smriti Mandhana",
+            "Harmanpreet Kaur",
+            "Laura Wolvaardt",
+            "Jemiah Rodrigues"
+        ],
+        "information": "Smriti Mandhana of RCB scored 377 runs in the season and claimed the Orange Cap."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which player took the Purple Cap (most wickets) in WPL 2026?",
+        "answer": "Sophie Devine",
+        "choices": [
+            "Sophie Devine",
+            "Nandani Sharma",
+            "Radha Yadav",
+            "Sophie Ecclestone"
+        ],
+        "information": "Sophie Devine of Gujarat Giants finished the season as the leading wicket-taker."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Against which team did India U19 win the ICC Under-19 Cricket World Cup 2026 final?",
+        "answer": "England",
+        "choices": [
+            "England",
+            "Pakistan",
+            "South Africa",
+            "Australia"
+        ],
+        "information": "India defeated England by 100 runs in the ICC U19 World Cup 2026 final to clinch the title."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 2026 ICC Under-19 Men’s Cricket World Cup was hosted by",
+        "answer": "Zimbabwe and Namibia",
+        "choices": [
+            "Zimbabwe and Namibia",
+            "India",
+            "Australia",
+            "South Africa"
+        ],
+        "information": "The 16th edition of the U-19 World Cup was held in Zimbabwe and Namibia from 15 Jan to 6 Feb 2026."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which player was named Player of the Series in the 2026 U-19 World Cup?",
+        "answer": "Vaibhav Sooryavanshi",
+        "choices": [
+            "Vaibhav Sooryavanshi",
+            "Ben Mayes",
+            "Manny Lumsden",
+            "Ayush Mhatre"
+        ],
+        "information": "Vaibhav Sooryavanshi was declared Player of the Series for his outstanding tournament performance."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The New START Treaty, signed between the United States and Russia, is primarily related to the control of which of the following?",
+        "answer": "Strategic nuclear weapons including ICBMs, SLBMs and heavy bombers",
+        "choices": [
+            "Strategic nuclear weapons including ICBMs, SLBMs and heavy bombers",
+            "Chemical and biological weapons",
+            "Tactical nuclear weapons deployed on the battlefield",
+            "Nuclear weapons of all categories including non-strategic weapons"
+        ],
+        "information": "New START places limits on strategic nuclear weapons such as Inter-Continental Ballistic Missiles (ICBMs), Submarine-Launched Ballistic Missiles (SLBMs) and heavy bombers."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The New START Treaty, which aims at limiting strategic nuclear arsenals, was signed in which year by the United States and Russia?",
+        "answer": 2010,
+        "choices": [
+            2010,
+            2009,
+            2005,
+            2011
+        ],
+        "information": "The New START Treaty was signed in 2010 by US President Barack Obama and Russian President Dmitry Medvedev; it entered into force in 2011."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following is NOT identified as a primary scientific identifier in the new DVI guidelines?",
+        "answer": "Tattoos",
+        "choices": [
+            "Tattoos",
+            "Fingerprints",
+            "Dental Records",
+            "DNA Profiling"
+        ],
+        "information": "Tattoos are considered secondary identifiers, while fingerprints, dental records, and DNA are primary."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Seva Teerth replaced which historic administrative location of PMO?",
+        "answer": "South Block",
+        "choices": [
+            "South Block",
+            "North Block",
+            "Rashtrapati Bhavan",
+            "Parliament House"
+        ],
+        "information": "PMO shifted from South Block (colonial-era building) to Seva Teerth after decades."
     }
 ]

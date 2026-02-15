@@ -406,5 +406,17 @@
             "Ban all cross‑border diamond trade"
         ],
         "information": "The KP’s core objective is to prevent “conflict diamonds”—rough diamonds used to finance rebel movements—from entering the global market."
+    },
+    {
+        "sheet": "GeneralKnowledge",
+        "question": "How many Under-19 World Cup titles has India won with their 2026 victory?",
+        "answer": "Six",
+        "choices": [
+            "Six",
+            "Four",
+            "Five",
+            "Seven"
+        ],
+        "information": "India’s 2026 win extended their record to six U19 World Cup titles."
     }
 ]

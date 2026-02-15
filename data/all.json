@@ -5496,6 +5496,126 @@
         "information": "Billie Eilish won for “Wildflower.”"
     },
     {
+        "sheet": "Recent2026",
+        "question": "Which team won the Women’s Premier League (WPL) 2026 title?",
+        "answer": "Royal Challengers Bengaluru",
+        "choices": [
+            "Royal Challengers Bengaluru",
+            "Delhi Capitals",
+            "Gujarat Giants",
+            "Mumbai Indians"
+        ],
+        "information": "RCB Women clinched their second WPL title in the 2026 final by beating Delhi Capitals Women."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who was the top run-scorer (Orange Cap winner) in WPL 2026?",
+        "answer": "Smriti Mandhana",
+        "choices": [
+            "Smriti Mandhana",
+            "Harmanpreet Kaur",
+            "Laura Wolvaardt",
+            "Jemiah Rodrigues"
+        ],
+        "information": "Smriti Mandhana of RCB scored 377 runs in the season and claimed the Orange Cap."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which player took the Purple Cap (most wickets) in WPL 2026?",
+        "answer": "Sophie Devine",
+        "choices": [
+            "Sophie Devine",
+            "Nandani Sharma",
+            "Radha Yadav",
+            "Sophie Ecclestone"
+        ],
+        "information": "Sophie Devine of Gujarat Giants finished the season as the leading wicket-taker."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Against which team did India U19 win the ICC Under-19 Cricket World Cup 2026 final?",
+        "answer": "England",
+        "choices": [
+            "England",
+            "Pakistan",
+            "South Africa",
+            "Australia"
+        ],
+        "information": "India defeated England by 100 runs in the ICC U19 World Cup 2026 final to clinch the title."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 2026 ICC Under-19 Men’s Cricket World Cup was hosted by",
+        "answer": "Zimbabwe and Namibia",
+        "choices": [
+            "Zimbabwe and Namibia",
+            "India",
+            "Australia",
+            "South Africa"
+        ],
+        "information": "The 16th edition of the U-19 World Cup was held in Zimbabwe and Namibia from 15 Jan to 6 Feb 2026."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which player was named Player of the Series in the 2026 U-19 World Cup?",
+        "answer": "Vaibhav Sooryavanshi",
+        "choices": [
+            "Vaibhav Sooryavanshi",
+            "Ben Mayes",
+            "Manny Lumsden",
+            "Ayush Mhatre"
+        ],
+        "information": "Vaibhav Sooryavanshi was declared Player of the Series for his outstanding tournament performance."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The New START Treaty, signed between the United States and Russia, is primarily related to the control of which of the following?",
+        "answer": "Strategic nuclear weapons including ICBMs, SLBMs and heavy bombers",
+        "choices": [
+            "Strategic nuclear weapons including ICBMs, SLBMs and heavy bombers",
+            "Chemical and biological weapons",
+            "Tactical nuclear weapons deployed on the battlefield",
+            "Nuclear weapons of all categories including non-strategic weapons"
+        ],
+        "information": "New START places limits on strategic nuclear weapons such as Inter-Continental Ballistic Missiles (ICBMs), Submarine-Launched Ballistic Missiles (SLBMs) and heavy bombers."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The New START Treaty, which aims at limiting strategic nuclear arsenals, was signed in which year by the United States and Russia?",
+        "answer": 2010,
+        "choices": [
+            2010,
+            2009,
+            2005,
+            2011
+        ],
+        "information": "The New START Treaty was signed in 2010 by US President Barack Obama and Russian President Dmitry Medvedev; it entered into force in 2011."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following is NOT identified as a primary scientific identifier in the new DVI guidelines?",
+        "answer": "Tattoos",
+        "choices": [
+            "Tattoos",
+            "Fingerprints",
+            "Dental Records",
+            "DNA Profiling"
+        ],
+        "information": "Tattoos are considered secondary identifiers, while fingerprints, dental records, and DNA are primary."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Seva Teerth replaced which historic administrative location of PMO?",
+        "answer": "South Block",
+        "choices": [
+            "South Block",
+            "North Block",
+            "Rashtrapati Bhavan",
+            "Parliament House"
+        ],
+        "information": "PMO shifted from South Block (colonial-era building) to Seva Teerth after decades."
+    },
+    {
         "sheet": "HistoryModern",
         "question": "Which year marks fall of Constantinople",
         "answer": 1453,
@@ -21156,6 +21276,18 @@
         "information": "The KP’s core objective is to prevent “conflict diamonds”—rough diamonds used to finance rebel movements—from entering the global market."
     },
     {
+        "sheet": "GeneralKnowledge",
+        "question": "How many Under-19 World Cup titles has India won with their 2026 victory?",
+        "answer": "Six",
+        "choices": [
+            "Six",
+            "Four",
+            "Five",
+            "Seven"
+        ],
+        "information": "India’s 2026 win extended their record to six U19 World Cup titles."
+    },
+    {
         "sheet": "BiharSpecific",
         "question": "Bihar State Formation Day",
         "answer": "22nd March 1912",
@@ -24588,6 +24720,54 @@
         "information": "Kajra Solar Power Plant is situated at Kajra in the Lakhisarai district. It features a 495 MWh battery system, making it one of India's largest storage-backed solar projects."
     },
     {
+        "sheet": "BiharSpecific",
+        "question": "On which date is the Bihar Legislative Assembly Foundation Day celebrated every year?",
+        "answer": "7th February",
+        "choices": [
+            "7th February",
+            "1st April",
+            "22nd March",
+            "12th December"
+        ],
+        "information": "Bihar celebrates its Legislative Assembly Foundation Day on February 7th to commemorate the first session of the joint Bihar-Orissa Legislative Council in 1921."
+    },
+    {
+        "sheet": "EconomyTheory",
+        "question": "Which of the following is included in GNP but not in GDP?**",
+        "answer": "Incomes earned by Indians abroad",
+        "choices": [
+            "Incomes earned by Indians abroad",
+            "Foreign investment in India",
+            "Export of Indian Goods",
+            "Government Expenditure"
+        ],
+        "information": "GNP = GDP + (Income from abroad – Income to foreign nationals)"
+    },
+    {
+        "sheet": "EconomyTheory",
+        "question": "If income earned by foreigners in India increases, then",
+        "answer": "GDP increases, GNP decreases",
+        "choices": [
+            "GDP increases, GNP decreases",
+            "GNP increases, GDP decreases",
+            "Both Increase",
+            "Both Decrease"
+        ],
+        "information": "GNP = GDP + (Income from abroad – Income to foreign nationals)"
+    },
+    {
+        "sheet": "EconomyTheory",
+        "question": "Which of the following currently contributes the highest share to India’s electricity generation?",
+        "answer": "Coal",
+        "choices": [
+            "Coal",
+            "Solar",
+            "Wind",
+            "Nuclear"
+        ],
+        "information": "Coal contributes ~74% of electricity generation."
+    },
+    {
         "sheet": "UnionEconomy",
         "question": "Which type of economy does India have?",
         "answer": "Mixed",
@@ -24836,126 +25016,6 @@
             "1st June to 31st May",
             "1st April to 31st March",
             "1st January to 31st December"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024-25, what is the expected Real GDP growth for FY2025?",
-        "answer": "6.4 percent",
-        "choices": [
-            "6.4 percent",
-            "4.6 percent",
-            "5.4 percent",
-            "4.5 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024-25, what is the expected Real GVA growth for FY2025?",
-        "answer": "6.4 percent",
-        "choices": [
-            "6.4 percent",
-            "4.6 percent",
-            "5.4 percent",
-            "4.5 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024–25, what was the approximate size of India’s forex reserves by the end of December 2024?",
-        "answer": "USD 640.3 billion",
-        "choices": [
-            "USD 640.3 billion",
-            "USD 640.3 million",
-            "USD 634.6 billion",
-            "USD 652.9 million"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024-25, what is the Labour Force Participation ratio (LFPR) of India?",
-        "answer": "60.1 percent",
-        "choices": [
-            "60.1 percent",
-            "58.2 percent",
-            "57.9 percent",
-            "56.0 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024-25, what is the Worker Population Ratio (WPR) of India?",
-        "answer": "58.2 percent",
-        "choices": [
-            "58.2 percent",
-            "60.1 percent",
-            "57.9 percent",
-            "56.0 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024-25, what is the Unemployment rate in India?",
-        "answer": "3.2 percent",
-        "choices": [
-            "3.2 percent",
-            "2.8 percent",
-            "3.0 percent",
-            "2.5 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Economic Survey 2024–25, which category represents the largest share of the total workforce in India?",
-        "answer": "Self-employed",
-        "choices": [
-            "Self-employed",
-            "Casual Labour",
-            "Regular Wage / Salaried",
-            "Unpaid Workers"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Micro MSME?",
-        "answer": "Investement up to 2.5 crore and turnover upto 10 crore",
-        "choices": [
-            "Investement up to 2.5 crore and turnover upto 10 crore",
-            "Investement up to 1 crore and turnover upto 5 crore",
-            "Investement up to 25 crore and turnover upto 100 crore",
-            "Investement up to 125 crore and turnover upto 500 crore"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Small MSME?",
-        "answer": "Investement up to 25 crore and turnover upto 100 crore",
-        "choices": [
-            "Investement up to 25 crore and turnover upto 100 crore",
-            "Investement up to 10 crore and turnover upto 50 crore",
-            "Investement up to 5 crore and turnover upto 10 crore",
-            "Investement up to 125 crore and turnover upto 500 crore"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "UnionEconomy",
-        "question": "According to the Union Budget 2025–26, what is the revised investment and turnover limit for an enterprise to be classified as a Medium MSME?",
-        "answer": "Investement up to 125 crore and turnover upto 500 crore",
-        "choices": [
-            "Investement up to 125 crore and turnover upto 500 crore",
-            "Investement up to 50 crore and turnover upto 250 crore",
-            "Investement up to 25 crore and turnover upto 100 crore",
-            "Investement up to 2.5 crore and turnover upto 10 crore"
         ],
         "information": ""
     },
@@ -25321,43 +25381,31 @@
     },
     {
         "sheet": "BiharEconomy",
-        "question": "What is the size of Bihar's economy at current price in 2023-24",
-        "answer": "8.54 lakh crore",
+        "question": "What is the GSDP growth rate at current prices?",
+        "answer": "13.1 percent",
         "choices": [
-            "8.54 lakh crore",
-            "4.64 lakh crore",
-            "6.82 lakh crore",
-            "9.32 lakh crore"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "Nominal Growth rate in Bihar's GSDP at current price for year 2023-24",
-        "answer": "14.5 percent",
-        "choices": [
-            "14.5 percent",
-            "9.2 percent",
-            "10 percent",
-            "11 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "Real Growth in Bihar's GSDP at constant (2011-12) price for year 2023-24",
-        "answer": "9.2 percent",
-        "choices": [
+            "13.1 percent",
             "9.2 percent",
             "14.5 percent",
-            "10 percent",
-            "11 percent"
+            "8.6 percent"
         ],
-        "information": ""
+        "information": "At current prices, nominal growth is 13.1%, which includes inflation effects, hence higher than constant price growth."
     },
     {
         "sheet": "BiharEconomy",
-        "question": "Which economic sector is the hightest contributor in Bihar state GVA for year 2023-24",
+        "question": "What is the GSDP growth rate of Bihar at constant prices?",
+        "answer": "8.6 percent",
+        "choices": [
+            "8.6 percent",
+            "14.5 percent",
+            "7.2 percent",
+            "6.5 percent"
+        ],
+        "information": "At constant prices, Bihar’s GSDP growth is 8.6%, indicating real economic growth."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Which economic sector is the hightest contributor in Bihar state GSVA for year 2025-26?",
         "answer": "Tertiary",
         "choices": [
             "Tertiary",
@@ -25365,31 +25413,31 @@
             "Secondary",
             "Tourism"
         ],
-        "information": ""
+        "information": "The tertiary sector (54.8%) dominates Bihar’s economy, reflecting growth in services."
     },
     {
         "sheet": "BiharEconomy",
         "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
-        "answer": "58.6 percent",
+        "answer": "54.8 percent",
         "choices": [
+            "54.8 percent",
             "58.6 percent",
-            "21.5 percent",
             "19.9 percent",
             "11 percent"
         ],
-        "information": ""
+        "information": "The tertiary sector (54.8%) dominates Bihar’s economy, reflecting growth in services."
     },
     {
         "sheet": "BiharEconomy",
-        "question": "Industry contributing the most in Bihar state GVA for year 2023-24",
-        "answer": "Non-Metallic Mineral Production",
+        "question": "According to the Economic Survey of Bihar 2025-26, Which sector has shown an increase in its share in GSVA?",
+        "answer": "Secondary",
         "choices": [
-            "Non-Metallic Mineral Production",
-            "Food Processing",
-            "Cement",
-            "Textile"
+            "Secondary",
+            "Primary",
+            "Tertiary",
+            "Tourism"
         ],
-        "information": ""
+        "information": "Primary & Tertiary sector's share in Bihar GSVA has decreased whereas Secondary sector share has increased."
     },
     {
         "sheet": "BiharEconomy",
@@ -25405,27 +25453,15 @@
     },
     {
         "sheet": "BiharEconomy",
-        "question": "What is rank of bihar among states in economic growth in India?",
-        "answer": "Second",
-        "choices": [
-            "Second",
-            "Third",
-            "First",
-            "Fourth"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25, what is the contribution of Primary, Secondary and Tertiary Sectors in GSVA respectively?",
-        "answer": "20%, 21%, 60%",
+        "answer": "18.3%, 26.8%, 54.8%",
         "choices": [
-            "20%, 21%, 60%",
+            "18.3%, 26.8%, 54.8%",
             "21%, 60%, 20%",
-            "60%, 21%, 20%",
+            "19.9%, 21.1%, 60%",
             "21%, 60%, 20%"
         ],
-        "information": ""
+        "information": "Sectoral share in Bihar GSVA are - Primary (18.3%), Secondary (26.8%) and Tertiary (54.8%)"
     },
     {
         "sheet": "BiharEconomy",
@@ -25465,51 +25501,51 @@
     },
     {
         "sheet": "BiharEconomy",
-        "question": "Which district of Bihar has the lowest per capita income?",
+        "question": "Which of the following districts has the lowest per capita GDDP?",
         "answer": "Sheohar",
         "choices": [
             "Sheohar",
             "Sitamarhi",
-            "Sheikhpura",
-            "Saran"
+            "Araria",
+            "Kishanganj"
         ],
-        "information": ""
+        "information": "Sheohar is the lowest, followed by Araria and Sitamarhi, indicating regional imbalance."
     },
     {
         "sheet": "BiharEconomy",
-        "question": "Which district of Bihar has the highest per capita income?",
+        "question": "Which district has the highest per capita GDDP in Bihar?",
         "answer": "Patna",
         "choices": [
             "Patna",
-            "Sheohar",
-            "Nalanda",
+            "Munger",
+            "Gaya",
             "Begusarai"
         ],
-        "information": ""
+        "information": "Patna ranks highest, followed by Begusarai and Munger. Capital regions generally show higher economic activity."
     },
     {
         "sheet": "BiharEconomy",
         "question": "How much is the Crop Intensity of Bihar?",
-        "answer": "144 percent",
+        "answer": "152 percent",
         "choices": [
-            "144 percent",
+            "152 percent",
             "184 percent",
-            "194 percent",
+            "144 percent",
             "164 percent"
         ],
-        "information": ""
+        "information": "Bihar's Crop Intestity of 1.52 means that for every 100 hectares of land, 152 hectares of crops are harvested annually."
     },
     {
         "sheet": "BiharEconomy",
-        "question": "Which of the following cereal has the highest productivity in Bihar?",
-        "answer": "Maize",
+        "question": "Which cereal has the highest share in Bihar’s production?",
+        "answer": "Rice",
         "choices": [
-            "Maize",
-            "Wheat",
             "Rice",
+            "Wheat",
+            "Maize",
             "Gram"
         ],
-        "information": ""
+        "information": "Rice (40.7%) is the most produced cereal, followed by wheat and maize."
     },
     {
         "sheet": "BiharEconomy",
@@ -25549,12 +25585,12 @@
     },
     {
         "sheet": "BiharEconomy",
-        "question": "According to the Economic Survey of Bihar 2024-25 what is the per capita income of Bihar at constant price 2023-24?",
-        "answer": "36,333 rupees",
+        "question": "According to the Economic Survey of Bihar 2025-26 what is the per capita income of Bihar at constant price 2023-24?",
+        "answer": "40,973 rupees",
         "choices": [
-            "36,333 rupees",
+            "40,973 rupees",
             "66,828 rupees",
-            "55,424 rupees",
+            "36,333 rupees",
             "38,555 rupees"
         ],
         "information": ""
@@ -25562,24 +25598,12 @@
     {
         "sheet": "BiharEconomy",
         "question": "According to the Economic Survey of Bihar 2024-25 what is the per capita income of Bihar at current price 2023-24?",
-        "answer": "66,828 rupees",
+        "answer": "76,490 rupees",
         "choices": [
-            "66,828 rupees",
+            "76,490 rupees",
             "36,333 rupees",
-            "55,424 rupees",
+            "66,828 rupees",
             "38,555 rupees"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "Under the Satat Jeevikaoparjan Yojana a livelihood investment fund upto what amount is allocated to a household?",
-        "answer": "2 lakh",
-        "choices": [
-            "2 lakh",
-            "1 lakh",
-            "5 lakh",
-            "4 lakh"
         ],
         "information": ""
     },
@@ -25597,18 +25621,6 @@
     },
     {
         "sheet": "BiharEconomy",
-        "question": "What is the Gross Fixed Capital formation at current prices for Bihar in 2023-24?",
-        "answer": "4.6 percent",
-        "choices": [
-            "4.6 percent",
-            "10 percent",
-            "11.4 percent",
-            "5.9 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
         "question": "What is the unemployment rate in Bihar in 2023-24?",
         "answer": "3 percent",
         "choices": [
@@ -25616,186 +25628,6 @@
             "4.3 percent",
             "4.5 percent",
             "5.4 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "According to Bihar Economic Survey 2024-25, what is the per capita energy consumption in Bihar in 2023-24?",
-        "answer": "363 kWh",
-        "choices": [
-            "363 kWh",
-            "229 kWh",
-            "350 kWh",
-            "134 kWh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "Which of the following banks has the largest number of branches in Bihar?",
-        "answer": "Public Sector Banks",
-        "choices": [
-            "Public Sector Banks",
-            "Regional Rural Banks",
-            "Cooperative Banks",
-            "Private Sector Banks"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "Department with highest Bihar's budget allocation for year 2025-26",
-        "answer": "Education",
-        "choices": [
-            "Education",
-            "Health",
-            "Rural Development",
-            "Agriculture"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "What is the size of budget as mentioned in Bihar's Budget for year 2025-26",
-        "answer": "3.17 lakh crore",
-        "choices": [
-            "3.17 lakh crore",
-            "1.37 lakh crore",
-            "7.31 lakh crore",
-            "1.73 lakh crore"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "Center of excellence for jaggery is proposed in which district of Bihar",
-        "answer": "Samastipur",
-        "choices": [
-            "Samastipur",
-            "Darbhanga",
-            "Muzaffarpur",
-            "Patna"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "Center of excellence for Paan is proposed in which district of Bihar",
-        "answer": "Vaishali (Bindupur)",
-        "choices": [
-            "Vaishali (Bindupur)",
-            "Gaya (Tanukumpa)",
-            "Samastipur",
-            "Muzaffarpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "Center of excellence for Nutritious Cereals is proposed in which district of Bihar",
-        "answer": "Gaya (Tanukumpa)",
-        "choices": [
-            "Gaya (Tanukumpa)",
-            "Vaishali (Bindupur)",
-            "Samastipur",
-            "Muzaffarpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "According to the Bihar Budget 2025-26, what is the projected Gross State Domestic Product (GSDP) at current prices?",
-        "answer": "10.97 lakh crore",
-        "choices": [
-            "10.97 lakh crore",
-            "9.50 lakh crore",
-            "10.00 lakh crore",
-            "11.55 lakh crore"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "Which among the following deficit is not presented by the state according to Bihar FRBM Act, 2022?",
-        "answer": "Effective Revenue Deficit",
-        "choices": [
-            "Effective Revenue Deficit",
-            "Revenue Deficit",
-            "Fiscal Deficit",
-            "Primary Deficit"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "According to the Bihar Budget 2025-26, how much is the expected Fiscal Deficit?",
-        "answer": "2.98% of GSDP",
-        "choices": [
-            "2.98% of GSDP",
-            "0.8% of GSDP",
-            "8.29% of GSDP",
-            "9.28% of GSDP"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "According to the Bihar Budget 2025-26, how much is the expected state Revenue Surplus?",
-        "answer": "0.8% of GSDP",
-        "choices": [
-            "0.8% of GSDP",
-            "1.8% of GSDP",
-            "2.98% of GSDP",
-            "9.8% of GSDP"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "According to the Bihar Budget 2025-26, how much was the interest payment in 2023-24?",
-        "answer": "9.11% of total revenue receipt",
-        "choices": [
-            "9.11% of total revenue receipt",
-            "11.9% of total revenue receipt",
-            "10.9% of total revenue receipt",
-            "1.9% of total revenue receipt"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "How much is the initial seed fund proposed for the Bihar Green Development Fund in Bihar Budget 2025-26?",
-        "answer": "25 crore",
-        "choices": [
-            "25 crore",
-            "20 crore",
-            "30 crore",
-            "15 crore"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "What is the share of Green budget in the General Budget of Bihar 2025-26?",
-        "answer": "4.92 percent",
-        "choices": [
-            "4.92 percent",
-            "3.50 percent",
-            "1.42 percent",
-            "2.41 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharEconomy",
-        "question": "What is the theme for the Bihar Green Development Fund?",
-        "answer": "Harit Bihar, Samriddh Bihar",
-        "choices": [
-            "Harit Bihar, Samriddh Bihar",
-            "Hamara Bihar, Harit Bihar",
-            "Harit Vikas, Nishchit Vikas",
-            "Apna Bihar, Harit Bihar"
         ],
         "information": ""
     },
@@ -25858,6 +25690,210 @@
             "Farmer Producer Company model"
         ],
         "information": ""
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Who presented the Bihar Budget 2026-27 in the Bihar Legislative Assembly?",
+        "answer": "Bijendra Prasad Yadav",
+        "choices": [
+            "Bijendra Prasad Yadav",
+            "Vijay Kumar Chaudhary",
+            "Nirmala Sitharaman",
+            "Nitish Kumar"
+        ],
+        "information": "Bihar Budget 2026-27 was presented by Bijendra Prasad Yadav, the Finance Minister of Bihar."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "What is the total expenditure (budget size) estimated for the Bihar Budget 2026-27?",
+        "answer": "₹3.47 lakh crore",
+        "choices": [
+            "₹3.47 lakh crore",
+            "₹2.85 lakh crore",
+            "₹3.16 lakh crore",
+            "₹3.95 lakh crore"
+        ],
+        "information": "The total expenditure (budget size) is ₹3,47,589.76 crore, which includes both revenue and capital expenditure."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Which department received the highest scheme outlay in Bihar Budget 2026-27?",
+        "answer": "Rural Development",
+        "choices": [
+            "Rural Development",
+            "Education",
+            "Health",
+            "Urban Development and Housing"
+        ],
+        "information": "Rural Development Department received the highest allocation (₹22,392.47 crore), reflecting focus on rural economy."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "The Bihar government has estimated Fiscal Deficit for 2026-27 at what percentage of GSDP?",
+        "answer": "2.99 percent",
+        "choices": [
+            "2.99 percent",
+            "3.50 percent",
+            "4.20 percent",
+            "2.15 percent"
+        ],
+        "information": "According to Bihar Budget 2026-27, Fiscal deficit is ₹39,111.80 crore (2.99% of GSDP), which is within the FRBM limit."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "As per the budget, what is the projected growth rate of Bihar's GSDP for the year 2026-27?",
+        "answer": "14.9 percent",
+        "choices": [
+            "14.9 percent",
+            "18.1 percent",
+            "10.5 percent",
+            "8.2 percent"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "What is the estimated Revenue Surplus for the Bihar government in the financial year 2026-27?",
+        "answer": "₹ 1,143.19 crore",
+        "choices": [
+            "₹ 1,143.19 crore",
+            "₹ 5,400 crore",
+            "₹ 1,043.20 crore",
+            "₹ 1,943.25 crore"
+        ],
+        "information": "According to Bihar Budget 2026-27, the revenue surplus is ₹1,143.19 crore (0.09% of GSDP)"
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "What is the estimated GSDP of Bihar for 2026–27?",
+        "answer": "₹13,09,155 crore",
+        "choices": [
+            "₹13,09,155 crore",
+            "₹10,09,155 crore",
+            "₹15,09,155 crore",
+            "₹11,09,155 crore"
+        ],
+        "information": "The GSDP is estimated at ₹13,09,155 crore, indicating Bihar’s growing economic size."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "What is the FRBM fiscal deficit limit for Bihar as per Bihar FRBM Rules, 2022?",
+        "answer": "3% of GSDP",
+        "choices": [
+            "3% of GSDP",
+            "2% of GSDP",
+            "2.5% of GSDP",
+            "5% of GSDP"
+        ],
+        "information": "The Bihar FRBM Rules cap fiscal deficit at 3% of GSDP, and Bihar is maintaining it at 2.99%, showing fiscal discipline."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "What is the Outstanding Public Debt of Bihar in 2026–27?",
+        "answer": "₹3,88,554.47 crore",
+        "choices": [
+            "₹3,88,554.47 crore",
+            "₹2,88,554.47 crore",
+            "₹13,88,554.47 crore",
+            "₹5,88,554.47 crore"
+        ],
+        "information": "According to Bihar Budget 2026-27, Outstanding public debt is ₹3,88,554.47 crore (29.68% of GSDP)"
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "What is the Capital Outlay for Bihar in 2026–27?",
+        "answer": "₹39,377.06 crore",
+        "choices": [
+            "₹39,377.06 crore",
+            "₹25,000 crore",
+            "₹63,455 crore",
+            "₹1,22,155 crore"
+        ],
+        "information": "According to Bihar Budget 2026-27, Capital outlay is ₹39,377.06 crore, representing investment in infrastructure and asset creation."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Interest payment constitutes what percentage of total Revenue Receipts?",
+        "answer": "8.89 percent",
+        "choices": [
+            "8.89 percent",
+            "9.89 percent",
+            "5.89 percent",
+            "7.89 percent"
+        ],
+        "information": "According to Bihar Budget 2026-27, Interest payments are 8.89% of revenue receipts."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Which department has the highest total expenditure share in Bihar Budget 2026-27?",
+        "answer": "Education",
+        "choices": [
+            "Education",
+            "Health",
+            "Rural Development",
+            "Urban Development and Housing"
+        ],
+        "information": "Education accounts for ₹60,204.61 crore (17.32%), the largest share, showing priority on human capital."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Bihar is the first state to introduce which of the following?",
+        "answer": "Home delivery of seeds",
+        "choices": [
+            "Home delivery of seeds",
+            "Online Mandi system",
+            "AI-based farming",
+            "Drone Irrigation"
+        ],
+        "information": "Bihar became the first state to provide home delivery of seeds via Bihar Rajya Beej Nigam Ltd."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "What is the per capita energy consumption in Bihar?",
+        "answer": "374 kWh",
+        "choices": [
+            "374 kWh",
+            "574 kWh",
+            "674 kWh",
+            "274 kWh"
+        ],
+        "information": "Per capita consumption is 374 kWh, which is relatively low compared to national average."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Which sector has the highest share in power demand?",
+        "answer": "Domestic",
+        "choices": [
+            "Domestic",
+            "Commercial",
+            "Agricultural",
+            "Industrial"
+        ],
+        "information": "Domestic demand (47.78%) is highest, reflecting consumption-driven demand."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "Which source contributes the most to Bihar’s power capacity?",
+        "answer": "Thermal",
+        "choices": [
+            "Thermal",
+            "Solar",
+            "Wind",
+            "Hydro"
+        ],
+        "information": "Thermal power (7,743 MW) is the backbone of Bihar’s energy sector."
+    },
+    {
+        "sheet": "BiharEconomy",
+        "question": "What is the Credit-Deposit (CD) ratio of Bihar?",
+        "answer": "53.50 percent",
+        "choices": [
+            "53.50 percent",
+            "63.50 percent",
+            "50 percent",
+            "30.50 percent"
+        ],
+        "information": "The CD ratio is 53.5%, indicating moderate credit utilisation compared to deposits."
     },
     {
         "sheet": "Census",

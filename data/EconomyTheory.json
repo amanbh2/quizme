@@ -1,0 +1,38 @@
+[
+    {
+        "sheet": "EconomyTheory",
+        "question": "Which of the following is included in GNP but not in GDP?**",
+        "answer": "Incomes earned by Indians abroad",
+        "choices": [
+            "Incomes earned by Indians abroad",
+            "Foreign investment in India",
+            "Export of Indian Goods",
+            "Government Expenditure"
+        ],
+        "information": "GNP = GDP + (Income from abroad – Income to foreign nationals)"
+    },
+    {
+        "sheet": "EconomyTheory",
+        "question": "If income earned by foreigners in India increases, then",
+        "answer": "GDP increases, GNP decreases",
+        "choices": [
+            "GDP increases, GNP decreases",
+            "GNP increases, GDP decreases",
+            "Both Increase",
+            "Both Decrease"
+        ],
+        "information": "GNP = GDP + (Income from abroad – Income to foreign nationals)"
+    },
+    {
+        "sheet": "EconomyTheory",
+        "question": "Which of the following currently contributes the highest share to India’s electricity generation?",
+        "answer": "Coal",
+        "choices": [
+            "Coal",
+            "Solar",
+            "Wind",
+            "Nuclear"
+        ],
+        "information": "Coal contributes ~74% of electricity generation."
+    }
+]
