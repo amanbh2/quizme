@@ -5616,6 +5616,306 @@
         "information": "PMO shifted from South Block (colonial-era building) to Seva Teerth after decades."
     },
     {
+        "sheet": "Recent2026",
+        "question": "Who served as the Chief Adviser of the interim government that oversaw the transition to the 2026 elections in Bangladesh?",
+        "answer": "Mohammad Yunus",
+        "choices": [
+            "Mohammad Yunus",
+            "Tarique Rahman",
+            "Sheikh Hasina",
+            "Khaleda Zia"
+        ],
+        "information": "Nobel laureate Professor Muhammad Yunus served as the Chief Adviser of the interim government in Bangladesh from August 8, 2024, until his resignation on February 16, 2026."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Who became the Prime Minister of Bangladesh after the 2026 elections?",
+        "answer": "Tarique Rahman",
+        "choices": [
+            "Tarique Rahman",
+            "Mohammad Yunus",
+            "Sheikh Hasina",
+            "Khaleda Zia"
+        ],
+        "information": "BNP leader Tarique Rahman became Prime Minister after the election victory and returned from long exile to lead the government."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which party won the 2026 Bangladesh general elections?",
+        "answer": "Bangladesh Nationalist Party (BNP)",
+        "choices": [
+            "Bangladesh Nationalist Party (BNP)",
+            "Awami League",
+            "National Citizen Party",
+            "Jamaat-e-Islami"
+        ],
+        "information": "The BNP achieved a landslide victory, securing a two-thirds majority and returning to power after about 20 years."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following was the official theme of the India-AI Impact Summit 2026 held in New Delhi?",
+        "answer": "Sarvajana Hitaya, Sarvajana Sukhaye",
+        "choices": [
+            "Sarvajana Hitaya, Sarvajana Sukhaye",
+            "Digital Transformation 2.0",
+            "AI for Global Good",
+            "Atmanirbhar Bharat in AI"
+        ],
+        "information": "The official theme of the India-AI Impact Summit 2026 was Sarvajana Hitaya, Sarvajana Sukhaya (which translates to \"Welfare for All, Happiness of All\")."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "In the context of the India-AI Impact Summit, what does the acronym 'MANAV' stand for in the PM's vision for AI governance?",
+        "answer": "Moral, Accountable, National, Accessible, Valid",
+        "choices": [
+            "Moral, Accountable, National, Accessible, Valid",
+            "Modern, Advanced, National, Automated, Valid",
+            "Moral, Automated, Natural, Accessible, Virtual",
+            "Managed, Analytical, Networked, Agile, Versatile"
+        ],
+        "information": "In the context of the India-AI Impact Summit, the acronym MANAV in Prime Minister Narendra Modi's vision for AI governance stands for a human-centric framework: Moral and Ethical Systems, Accountable Governance, National Sovereignty, Accessible and Inclusive, and Valid and Legitimate."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What is the primary objective of India joining the 'Pax Silica' coalition as announced at the summit?",
+        "answer": "To secure and strengthen the semiconductor supply chain with the US and allies.",
+        "choices": [
+            "To secure and strengthen the semiconductor supply chain with the US and allies.",
+            "To promote the use of solar panels in Bihar",
+            "To build an underwater fiber optic cable to France",
+            "To regulate the price of silicon in the global market"
+        ],
+        "information": "A central goal is to reduce over-reliance on concentrated supply chains and prevent \"economic coercion\" by building a secure and resilient alternative to existing dominated markets, particularly those controlled by China."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Under the IndiaAI Mission, the 'GPU-on-Demand' service provides computing power to startups at which of the following subsidized rates?",
+        "answer": "₹65 per hour",
+        "choices": [
+            "₹65 per hour",
+            "₹650 per hour",
+            "₹10 per hour",
+            "Free of cost for all"
+        ],
+        "information": ""
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following describes the 'IndiaAI Safety Institute' announced at the summit?",
+        "answer": "A regulatory body to test AI models for bias, security, and ethical risks.",
+        "choices": [
+            "A regulatory body to test AI models for bias, security, and ethical risks.",
+            "A manufacturing hub for indigenous AI chips.",
+            "A court for settling AI-related intellectual property disputes.",
+            "A military wing to defend against cyber attacks."
+        ],
+        "information": "The IndiaAI Safety Institute (AISI) is a national-level body established under the IndiaAI Mission to ensure the ethical, safe, and responsible deployment of artificial intelligence"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 'BharatGen' initiative, discussed as a major outcome, aims to:",
+        "answer": "Create foundational Generative AI models tailored for Indian languages and culture",
+        "choices": [
+            "Create foundational Generative AI models tailored for Indian languages and culture",
+            "Provide free high-speed internet to every Gram Panchayat",
+            "Generate 1 million jobs in the AI sector by 2027",
+            "Develop 5G infrastructure in rural Bihar"
+        ],
+        "information": "The BharatGen initiative, a centerpiece of the IndiaAI Impact Summit 2026, is the world’s first government-funded, national-scale project dedicated to developing sovereign, multimodal foundational AI models specifically tailored for India."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The 'India AI Impact Summit 2026' was organized at which of the following venues?",
+        "answer": "Bharat Mandapam, New Delhi",
+        "choices": [
+            "Bharat Mandapam, New Delhi",
+            "Yashobhoomi, New Delhi",
+            "Gyan Bhawan, Patna",
+            "Science City, Ahmedabad"
+        ],
+        "information": "India AI Impact Summit was held in Bharat Mandapam, New Delhi"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "How many nations endorsed the 'New Delhi Declaration on AI Impact' on February 19, 2026?",
+        "answer": "88 Nations",
+        "choices": [
+            "88 Nations",
+            "48 Nations",
+            "78 Nations",
+            "68 Nations"
+        ],
+        "information": "On February 19, 2026, the New Delhi Declaration on AI Impact, adopted at the conclusion of the India AI Impact Summit 2026, was initially endorsed by 88 countries and international organisations"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "India joined which US-led initiative during the summit to secure semiconductor supply chains?",
+        "answer": "Pax Silica",
+        "choices": [
+            "Pax Silica",
+            "Silicon Shield",
+            "Indo-Pacific Chip Pact",
+            "Chip 4 Alliance"
+        ],
+        "information": "India formally joined the U.S. led Pax Silica initiative during the India AI Impact Summit on February 20, 2026, to secure semiconductor, artificial intelligence (AI), and critical mineral supply chains."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "What was the total estimated investment commitment secured for AI infrastructure in India during the summit?",
+        "answer": "250 Billion Dollars",
+        "choices": [
+            "250 Billion Dollars",
+            "1 Trillion Dollars",
+            "500 Billion Dollars",
+            "100 Billion Dollars"
+        ],
+        "information": "The India AI Impact Summit 2026 secured over $250 billion in investment commitments for AI infrastructure, including data centers, computing capacity, and power systems."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "NMP 2.0 aims to generate approximately how much revenue through asset monetisation?",
+        "answer": "₹16.7 lakh crore",
+        "choices": [
+            "₹16.7 lakh crore",
+            "₹10 lakh crore",
+            "₹6 lakh crore",
+            "₹25 lakh crore"
+        ],
+        "information": "NMP 2.0 targets about ₹16.7 lakh crore, which is 2.6 times the previous phase."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which institution developed the National Monetisation Pipeline 2.0?",
+        "answer": "NITI Aayog",
+        "choices": [
+            "NITI Aayog",
+            "RBI",
+            "Finance Commission",
+            "SEBI"
+        ],
+        "information": "NITI Aayog prepared the roadmap for NMP 2.0 in consultation with ministries."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following sectors is expected to contribute the highest share under NMP 2.0?",
+        "answer": "Highways",
+        "choices": [
+            "Highways",
+            "Telecom",
+            "Railways",
+            "Aviation"
+        ],
+        "information": "Highways have the largest monetisation share (~₹4.42 lakh crore) planned in NMP 2.0"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which body monitors the implementation of NMP 2.0?",
+        "answer": "CGAM",
+        "choices": [
+            "CGAM",
+            "GST Council",
+            "SEBI",
+            "RBI"
+        ],
+        "information": "Core Group of Secretaries on Asset Monetisation (CGAM) monitors progress of NMP 2.0"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which of the following best describes the concept of “Asset Recycling” under NMP 2.0?",
+        "answer": "Leasing assets to private sector while retaining ownership",
+        "choices": [
+            "Leasing assets to private sector while retaining ownership",
+            "Selling public assets permanently",
+            "Nationalisation of private assets",
+            "Foreign investment in greenfield projects"
+        ],
+        "information": "Asset recycling means transferring operational rights to private players while ownership remains with the government."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "PRAHAAR policy, recently seen in news, is related to:",
+        "answer": "Counter-terrorism strategy",
+        "choices": [
+            "Counter-terrorism strategy",
+            "Disaster management",
+            "Cyber Security",
+            "Border Infrastructure"
+        ],
+        "information": "PRAHAAR is India’s first comprehensive national counter-terrorism policy, integrating intelligence, policing, and international cooperation into a unified framework. It goes beyond just cyber security and covers all dimensions of terrorism including radicalisation, financing, and response mechanisms."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "El Mencho was the leader of which organization?",
+        "answer": "Jalisco New Generation Cartel (CJNG)",
+        "choices": [
+            "Jalisco New Generation Cartel (CJNG)",
+            "Sinaloa Cartel",
+            "Gulf Cartel",
+            "Los Zetas"
+        ],
+        "information": "El Mencho (Nemesio Oseguera Cervantes) was the head of the Jalisco New Generation Cartel (CJNG), one of the most powerful and violent cartels in Mexico"
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Cervavac is:",
+        "answer": "Indigenous HPV vaccine",
+        "choices": [
+            "Indigenous HPV vaccine",
+            "COVID-19 Vaccine",
+            "Polio Vaccine",
+            "Tuberculosis Vaccine"
+        ],
+        "information": "Cervavac is India’s indigenous HPV vaccine developed by Serum Institute of India."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "The most appropriate age group for HPV vaccination is:",
+        "answer": "9-14 years",
+        "choices": [
+            "9-14 years",
+            "0-2 years",
+            "5-8 years",
+            "20-25 years"
+        ],
+        "information": "Vaccination before exposure to HPV (before sexual activity) provides maximum protection."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Which team won Ranji Trophy 2025–26?",
+        "answer": "Jammu & Kashmir",
+        "choices": [
+            "Jammu & Kashmir",
+            "Karnataka",
+            "Mumbai",
+            "Bengal"
+        ],
+        "information": "J&K won their first-ever Ranji Trophy title, defeating Karnataka."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Player of the Series in Ranji Trophy 2025–26 was:",
+        "answer": "Auqib Nabi",
+        "choices": [
+            "Auqib Nabi",
+            "Sarfaraz Khan",
+            "Mayank Agarwal",
+            "Shubman Gill"
+        ],
+        "information": "Auqib Nabi took 60 wickets, highest in season."
+    },
+    {
+        "sheet": "Recent2026",
+        "question": "Ranji Trophy 2025–26 had how many teams?",
+        "answer": 38,
+        "choices": [
+            38,
+            28,
+            32,
+            40
+        ],
+        "information": "In the Ranji Trophy 2025–26 season, a total of 38 teams participated."
+    },
+    {
         "sheet": "HistoryModern",
         "question": "Which year marks fall of Constantinople",
         "answer": 1453,
@@ -20866,6 +21166,30 @@
             "Rodents"
         ],
         "information": "Fruit bats of the Pteropus genus are the natural hosts and remain asymptomatic carriers."
+    },
+    {
+        "sheet": "Science",
+        "question": "Persistent infection with which virus is the primary cause of cervical cancer?",
+        "answer": "HPV",
+        "choices": [
+            "HPV",
+            "HIV",
+            "HBV",
+            "Epstein-Barr Virus"
+        ],
+        "information": "Human Papillomavirus (especially types 16 & 18) is responsible for the majority of cervical cancer cases worldwide."
+    },
+    {
+        "sheet": "Science",
+        "question": "Which HPV types are considered high-risk for cervical cancer?",
+        "answer": "16 & 18",
+        "choices": [
+            "16 & 18",
+            "1 & 2",
+            "6 & 11",
+            "21 & 22"
+        ],
+        "information": "HPV 16 and 18 are high-risk oncogenic strains causing ~70–85% of cervical cancer cases."
     },
     {
         "sheet": "GeneralKnowledge",

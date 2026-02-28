@@ -1918,5 +1918,29 @@
             "Rodents"
         ],
         "information": "Fruit bats of the Pteropus genus are the natural hosts and remain asymptomatic carriers."
+    },
+    {
+        "sheet": "Science",
+        "question": "Persistent infection with which virus is the primary cause of cervical cancer?",
+        "answer": "HPV",
+        "choices": [
+            "HPV",
+            "HIV",
+            "HBV",
+            "Epstein-Barr Virus"
+        ],
+        "information": "Human Papillomavirus (especially types 16 & 18) is responsible for the majority of cervical cancer cases worldwide."
+    },
+    {
+        "sheet": "Science",
+        "question": "Which HPV types are considered high-risk for cervical cancer?",
+        "answer": "16 & 18",
+        "choices": [
+            "16 & 18",
+            "1 & 2",
+            "6 & 11",
+            "21 & 22"
+        ],
+        "information": "HPV 16 and 18 are high-risk oncogenic strains causing ~70–85% of cervical cancer cases."
     }
 ]
