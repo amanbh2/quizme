@@ -265,8 +265,12 @@ a:hover { color: var(--accent); }
     height: var(--bottom-nav-h);
     background: var(--sidebar-bg);
     border-top: 1px solid var(--border);
-    display: flex;
+    display: none;
     z-index: 200;
+}
+
+@media (max-width: 767px) {
+    #bottom-nav { display: flex; }
 }
 
 .bottom-nav-item {

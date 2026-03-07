@@ -1195,7 +1195,7 @@ function showQuestion() {
             <span class="q-acc-badge ${badgeCls}">${badgeTxt}</span>
             <button class="flag-btn${isFlagged?' flagged':''}" id="flag-btn-card" data-qid="${qid}"
                 title="${isFlagged?'Unflag':'Flag for review'}">
-                <i class="fa-${isFlagged?'solid':'regular'} fa-triangle-exclamation"></i>
+                <i class="fa-solid fa-triangle-exclamation" ${!isFlagged?'style="opacity: 0.6"':''}></i>
             </button>
         </div>
         <p class="question"></p>
@@ -1211,12 +1211,14 @@ function showQuestion() {
         if (flaggedQ[qidBtn]) {
             delete flaggedQ[qidBtn];
             this.classList.remove('flagged');
-            this.querySelector('i').className = 'fa-regular fa-triangle-exclamation';
+            this.querySelector('i').className = 'fa-solid fa-triangle-exclamation';
+            this.querySelector('i').style.opacity = '0.6';
             this.title = 'Flag for review';
         } else {
             flaggedQ[qidBtn] = { s: currentSubject, t: Math.floor(Date.now()/1000) };
             this.classList.add('flagged');
             this.querySelector('i').className = 'fa-solid fa-triangle-exclamation';
+            this.querySelector('i').style.opacity = '1';
             this.title = 'Unflag';
         }
         saveFlagged();
@@ -1256,8 +1258,9 @@ function updateFlagOnCard(qid) {
     if (!btn || btn.dataset.qid !== qid) return;
     const isFlagged = !!flaggedQ[qid];
     btn.classList.toggle('flagged', isFlagged);
-    btn.querySelector('i').className = isFlagged
-        ? 'fa-solid fa-triangle-exclamation' : 'fa-regular fa-triangle-exclamation';
+    const icon = btn.querySelector('i');
+    icon.className = 'fa-solid fa-triangle-exclamation';
+    icon.style.opacity = isFlagged ? '1' : '0.6';
 }
 
 function checkAnswer(button, selected, correct, qData) {
