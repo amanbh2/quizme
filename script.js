@@ -6,13 +6,44 @@ let questionStats = JSON.parse(localStorage.getItem('questionStats')) || {};
 let lastVisitDate = localStorage.getItem('lastVisitDate');
 
 let availableSheets = [];
-// When an incorrect answer is clicked, show information but keep Restart as a restart control
+
+// ── Theme toggle ──────────────────────────────────────────────
+(function initTheme() {
+    const saved = localStorage.getItem('quizme-theme') || 'light';
+    document.documentElement.setAttribute('data-theme', saved);
+})();
 
 document.addEventListener("DOMContentLoaded", function () {
-    // Initialize settings panel
-    const settingsBtn = document.getElementById('settings-btn');
+
+    // Theme toggle
+    const themeToggle = document.getElementById('theme-toggle');
+    const themeIcon   = document.getElementById('theme-icon');
+
+    function applyTheme(theme) {
+        document.documentElement.setAttribute('data-theme', theme);
+        localStorage.setItem('quizme-theme', theme);
+        if (themeIcon) {
+            themeIcon.className = theme === 'dark'
+                ? 'fa-solid fa-sun'
+                : 'fa-solid fa-moon';
+        }
+    }
+
+    // Set icon on load
+    const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
+    applyTheme(currentTheme);
+
+    if (themeToggle) {
+        themeToggle.addEventListener('click', () => {
+            const current = document.documentElement.getAttribute('data-theme');
+            applyTheme(current === 'dark' ? 'light' : 'dark');
+        });
+    }
+
+    // ── Settings panel ────────────────────────────────────────
+    const settingsBtn   = document.getElementById('settings-btn');
     const settingsPanel = document.getElementById('settings-panel');
-    const overlay = document.querySelector('.overlay');
+    const overlay       = document.querySelector('.overlay');
     const closeSettings = document.querySelector('.close-settings');
     const resetStatsBtn = document.getElementById('reset-stats');
 
@@ -34,12 +65,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
     resetStatsBtn.addEventListener('click', () => {
         if (confirm('Are you sure you want to reset all statistics? This cannot be undone.')) {
-            localStorage.clear();
+            localStorage.removeItem('questionStats');
             questionStats = {};
             updateStats();
         }
     });
 
+    // ── Load manifest & questions ─────────────────────────────
     fetch("control/manifest.json")
         .then(res => res.json())
         .then(sheets => {
@@ -47,25 +79,14 @@ document.addEventListener("DOMContentLoaded", function () {
             createSubjectDropdown();
             loadQuestions();
         });
-
-    // Add progress bar to container
-    const container = document.querySelector('.container');
-    if (container && !document.getElementById('progress-bar-container')) {
-        const progressBarContainer = document.createElement('div');
-        progressBarContainer.id = 'progress-bar-container';
-        const progressBar = document.createElement('div');
-        progressBar.id = 'progress-bar';
-        progressBarContainer.appendChild(progressBar);
-        container.prepend(progressBarContainer);
-    }
 });
 
 function createSubjectDropdown() {
     const subjectElem = document.getElementById("subject");
-    subjectElem.innerHTML = ""; // Clear any existing content
+    subjectElem.innerHTML = "";
 
     const select = document.createElement("select");
-    select.id = "subject-select"; // For CSS targeting
+    select.id = "subject-select";
 
     availableSheets.forEach(sheet => {
         const option = document.createElement("option");
@@ -100,21 +121,16 @@ function startQuiz() {
 }
 
 function getRandomIndex() {
-    if (usedIndexes.size === questions.length) {
-        return -1; // All questions have been used
-    }
-    
+    if (usedIndexes.size === questions.length) return -1;
     let randomIndex;
     do {
         randomIndex = Math.floor(Math.random() * questions.length);
     } while (usedIndexes.has(randomIndex));
-    
     usedIndexes.add(randomIndex);
     return randomIndex;
 }
 
 function shuffleArray(array) {
-    // Fisher-Yates shuffle
     let arr = array.slice();
     for (let i = arr.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -124,12 +140,14 @@ function shuffleArray(array) {
 }
 
 function updateProgressBar() {
-    const progressBar = document.getElementById('progress-bar');
+    const progressBar   = document.getElementById('progress-bar');
+    const progressLabel = document.getElementById('progress-label');
     if (!progressBar) return;
-    const total = questions.length || 1;
+    const total    = questions.length || 1;
     const answered = usedIndexes.size;
-    const percent = Math.round((answered / total) * 100);
+    const percent  = Math.round((answered / total) * 100);
     progressBar.style.width = percent + "%";
+    if (progressLabel) progressLabel.textContent = answered + '/' + total;
 }
 
 function showQuestion() {
@@ -138,24 +156,26 @@ function showQuestion() {
 
     const streak = document.getElementById("streak");
     streak.innerHTML = `${usedIndexes.size} <i class="fa-solid fa-fire"></i> ${questions.length}`;
-    
+
     updateProgressBar();
 
     currentQuestionIndex = getRandomIndex();
-    
+
     if (currentQuestionIndex === -1) {
         quizContainer.innerHTML = `<h2>Perfect Score! 🎯</h2>`;
         return;
     }
 
-    const questionData = questions[currentQuestionIndex];
+    const questionData    = questions[currentQuestionIndex];
     const shuffledChoices = shuffleArray(questionData.choices);
+    const keyLabels       = ['A', 'B', 'C', 'D'];
+
     const questionDiv = document.createElement('div');
     questionDiv.innerHTML = `
         <p class="question"></p>
         <div class="choices"></div>
     `;
-    // Add an information container (hidden by default) that will be shown when an incorrect option is clicked
+
     const infoParagraph = document.createElement('p');
     infoParagraph.className = 'information';
     infoParagraph.style.display = 'none';
@@ -164,9 +184,10 @@ function showQuestion() {
     questionDiv.querySelector('.question').textContent = questionData.question;
 
     const choicesDiv = questionDiv.querySelector('.choices');
-    shuffledChoices.forEach(choice => {
+    shuffledChoices.forEach((choice, idx) => {
         const btn = document.createElement('button');
-        btn.textContent = choice.toString(); // Ensure string
+        btn.textContent = choice.toString();
+        btn.setAttribute('data-key', keyLabels[idx] || String(idx + 1));
         btn.addEventListener('click', function () {
             checkAnswer(btn, choice.toString(), questionData.answer.toString());
         });
@@ -175,100 +196,72 @@ function showQuestion() {
 
     quizContainer.appendChild(questionDiv);
 
-    // Reset the information visibility when loading a new question
     if (restartBtn) {
-        restartBtn.textContent = 'Restart';
+        restartBtn.innerHTML = '<i class="fa-solid fa-rotate-right"></i> Restart';
     }
 
-    // Add keyboard support
-    document.onkeydown = function(e) {
+    // Keyboard shortcuts: A B C D keys, R to restart
+    document.onkeydown = function (e) {
         const keyMap = { 'a': 0, 'b': 1, 'c': 2, 'd': 3 };
         const pressed = e.key.toLowerCase();
         if (keyMap.hasOwnProperty(pressed)) {
             const buttons = document.querySelectorAll(".choices button");
             const idx = keyMap[pressed];
-            if (buttons[idx] && !buttons[idx].disabled) {
-                buttons[idx].click();
-            }
+            if (buttons[idx] && !buttons[idx].disabled) buttons[idx].click();
         }
-        // Restart quiz on 'r' key
-        if (pressed === 'r') {
-            startQuiz();
-        }
+        if (pressed === 'r') startQuiz();
     };
 }
 
 function updateStats() {
-    const totalAttempts = Object.values(questionStats).reduce((sum, stat) => sum + stat.attempts, 0);
-    const totalCorrect = Object.values(questionStats).reduce((sum, stat) => sum + stat.correct, 0);
-    const successRate = totalAttempts ? Math.round((totalCorrect / totalAttempts) * 100) : 0;
+    const totalAttempts = Object.values(questionStats).reduce((sum, s) => sum + s.attempts, 0);
+    const totalCorrect  = Object.values(questionStats).reduce((sum, s) => sum + s.correct, 0);
+    const successRate   = totalAttempts ? Math.round((totalCorrect / totalAttempts) * 100) : 0;
 
     document.getElementById('total-attempts').textContent = totalAttempts;
-    document.getElementById('total-correct').textContent = totalCorrect;
-    document.getElementById('success-rate').textContent = successRate + '%';
+    document.getElementById('total-correct').textContent  = totalCorrect;
+    document.getElementById('success-rate').textContent   = successRate + '%';
 }
 
-// Function to update last visited date
 function updateLastVisitedDate() {
-    const lastVisitedDateElement = document.getElementById('last-visited-date');
-    const currentDate = new Date().toLocaleDateString();
-    lastVisitedDateElement.textContent = currentDate;
+    const el = document.getElementById('last-visited-date');
+    if (el) el.textContent = new Date().toLocaleDateString();
 }
 
-// Call the function to set the last visited date on page load
 window.onload = updateLastVisitedDate;
 
 function checkAnswer(button, selectedChoice, correctAnswer) {
-    // determine the current question data from global questions array
     const questionData = questions[currentQuestionIndex] || {};
-    const buttons = document.querySelectorAll(".choices button");
-    const isCorrect = selectedChoice === correctAnswer.toString();
+    const buttons      = document.querySelectorAll(".choices button");
+    const isCorrect    = selectedChoice === correctAnswer.toString();
 
-    // Track statistics
     if (!questionStats[currentQuestionIndex]) {
         questionStats[currentQuestionIndex] = { attempts: 0, correct: 0 };
     }
     questionStats[currentQuestionIndex].attempts++;
-    if (isCorrect) {
-        questionStats[currentQuestionIndex].correct++;
-    }
-    
-    // Save to localStorage
+    if (isCorrect) questionStats[currentQuestionIndex].correct++;
+
     localStorage.setItem('questionStats', JSON.stringify(questionStats));
     localStorage.setItem('lastVisitDate', new Date().toDateString());
 
     buttons.forEach(btn => {
-        if (btn.innerText === correctAnswer.toString()) {
-            btn.classList.add("correct");
-        }
-        if (btn.innerText === selectedChoice && !isCorrect) {
-            btn.classList.add("wrong");
-        }
+        if (btn.innerText === correctAnswer.toString()) btn.classList.add("correct");
+        if (btn.innerText === selectedChoice && !isCorrect) btn.classList.add("wrong");
         btn.disabled = true;
     });
 
     if (isCorrect) {
-        setTimeout(() => {
-            showQuestion();
-        }, 1000);
-    }
-    else {
-        // Show the information text (if any) when the choice is wrong
+        setTimeout(showQuestion, 1000);
+    } else {
         const infoEl = document.querySelector('.information');
         if (infoEl && questionData.information && questionData.information.toString().trim() !== '') {
             infoEl.textContent = questionData.information;
             infoEl.style.display = 'block';
         }
-
-        // Show the information text but keep the Restart button as a restart (do not auto-advance)
-        // The user can press Restart to start a fresh quiz when they're done reading the info.
     }
 }
 
-// Safely add event listener if element exists
 const restartBtn = document.getElementById("restart-btn");
 if (restartBtn) {
-    restartBtn.addEventListener("click", () => {
-        startQuiz();
-    });
+    restartBtn.addEventListener("click", () => startQuiz());
 }
