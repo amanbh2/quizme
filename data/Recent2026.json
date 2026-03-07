@@ -1,1442 +1,1678 @@
 [
-    {
-        "sheet": "Recent2026",
-        "question": "The Ganga Water Treaty between India and Bangladesh was signed in",
-        "answer": 1996,
-        "choices": [
-            1996,
-            1986,
-            2006,
-            1976
-        ],
-        "information": "The treaty was signed on 12 December 1996 after decades of water disputes for next 30 years. It formalized water sharing from the Farakka Barrage, especially during the dry season."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "At which point is water flow measured under the Ganga Water Sharing Treaty between India and Bangladesh?",
-        "answer": "Farakka Barrage",
-        "choices": [
-            "Farakka Barrage",
-            "Hardinge Bridge",
-            "Sundarbans Delta",
-            "Bhagirathi River"
-        ],
-        "information": "The Farakka Barrage is the key location where water is measured before it enters Bangladesh. India manages the barrage, but the Ganga Water Treaty schedules guarantee minimum flow to Bangladesh."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which country adopted the euro as its official currency on 1 January 2026 and became the 21st member of the Eurozone?",
-        "answer": "Bulgaria",
-        "choices": [
-            "Bulgaria",
-            "Croatia",
-            "Romania",
-            "Sweden"
-        ],
-        "information": "Bulgaria adopted the euro on 1 January 2026, replacing the Bulgarian lev and becoming the 21st Eurozone member."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Before adopting the euro, a country must satisfy which set of economic conditions known as eligibility rules?",
-        "answer": "Maastricht Convergence Criteria",
-        "choices": [
-            "Maastricht Convergence Criteria",
-            "Bretton Woods Conditions",
-            "Lisbon Strategy",
-            "Copenhagen Criteria"
-        ],
-        "information": "The Maastricht Convergence Criteria define the economic requirements that an EU country must meet to adopt the euro."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which earlier tax system on “sin goods” is being replaced by the new HSNS Cess regime?",
-        "answer": "GST Compensation Cess",
-        "choices": [
-            "GST Compensation Cess",
-            "Luxury Tax",
-            "Value Added Tax",
-            "Excise Duty"
-        ],
-        "information": "The HSNS Cess regime replaces the GST compensation cess on goods like tobacco and pan masala once it is completely phased out"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The Health Security and National Security Cess Act, 2025 primarily aims to",
-        "answer": "Levy a special cess on harmful goods to fund health and security",
-        "choices": [
-            "Levy a special cess on harmful goods to fund health and security",
-            "Reduce GST rates on essential",
-            "Introduce income tax reforms",
-            "Replace customs duty"
-        ],
-        "information": "The HSNS Cess is a special tax on sin goods to raise funds for public health and national security after phasing out the GST compensation cess."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Piprahwa is considered important in Buddhism primarily because it is associated with",
-        "answer": "Distribution of Buddha’s relics after Mahaparinirvana",
-        "choices": [
-            "Distribution of Buddha’s relics after Mahaparinirvana",
-            "Buddha’s enlightenment",
-            "Buddha’s first sermon",
-            "Buddha’s meditation retreats"
-        ],
-        "information": "After the Mahaparinirvana of Gautama Buddha, his bodily relics were divided among several claimants. Piprahwa is linked with the relic share of the Shakyas, Buddha’s own clan."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "According to agricultural data for the 2024-25 crop year, which country has emerged as the world's largest producer of rice, surpassing China?",
-        "answer": "India",
-        "choices": [
-            "India",
-            "Vietnam",
-            "Bangladesh",
-            "Thailand"
-        ],
-        "information": "India reached a record production of 150.18 million tonnes in 2024-25, officially overtaking China for the top spot in production."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "What is the official theme for the World Economic Forum Annual Meeting 2026 held in Davos?",
-        "answer": "A Spirit of Dialogue",
-        "choices": [
-            "A Spirit of Dialogue",
-            "Stakeholders for a Cohesive and Sustainable World",
-            "Cooperation in a Fragmented World",
-            "History at a Turning Point"
-        ],
-        "information": "The World Economic Forum (WEF) Annual Meeting 2026 is took place in Davos, Switzerland (January 19–23, 2026). The theme for 2026 was - A Spirit of Dialogue"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The World Economic Forum Annual Meeting 2026 was held in which of the following locations?",
-        "answer": "Davos, Switzerland",
-        "choices": [
-            "Davos, Switzerland",
-            "New Delhi, India",
-            "Geneva, Switzerland",
-            "Zurich, Switzerland"
-        ],
-        "information": "Davos is the iconic and permanent venue for the WEF Annual Meetings, often referred to simply as the 'Davos Summit'."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The 86th All India Presiding Officers’ Conference (AIPOC) was organized in January 2026 in which city?",
-        "answer": "Lucknow",
-        "choices": [
-            "Lucknow",
-            "Patna",
-            "Gandhinagar",
-            "Mumbai"
-        ],
-        "information": "Lucknow, Uttar Pradesh, hosted the 86th session of the AIPOC from January 19–21, 2026."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "What was the official theme for the 86th All India Presiding Officers’ Conference held in 2026?",
-        "answer": "Strong Legislature - Prosperous Nation",
-        "choices": [
-            "Strong Legislature - Prosperous Nation",
-            "Digitisation of Democracy",
-            "One Nation, One Legislative Platform",
-            "Sabka Saath, Sabka Vikas"
-        ],
-        "information": "86th All India Presiding Officers’ Conference (AIPOC) in 2026 was hosted in Lucknow with theme: Strong Legislature - Prosperous Nation."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The 28th Commonwealth Speakers’ Conference (CSPOC), inaugurated by PM Modi in January 2026, took place at which venue?",
-        "answer": "New Delhi",
-        "choices": [
-            "New Delhi",
-            "Gandhinagar",
-            "Patna",
-            "Mumbai"
-        ],
-        "information": "The international conference of Commonwealth speakers was held in the historic Samvidhan Sadan (old Parliament building) in New Delhi."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "ECOFIX technology promotes a 'Circular Economy' primarily by using which industrial by-product as a raw material?",
-        "answer": "Iron and Steel Slag",
-        "choices": [
-            "Iron and Steel Slag",
-            "Fly Ash from Thermal Power Plants",
-            "E-waste components",
-            "Plastic Waste"
-        ],
-        "information": "ECOFIX uses processed iron and steel slag, converting industrial waste into a durable construction input."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which premier Indian research institute developed the 'ECOFIX' pothole repair technology?",
-        "answer": "CSIR-Central Road Research Institute (CRRI)",
-        "choices": [
-            "CSIR-Central Road Research Institute (CRRI)",
-            "IIT Madras",
-            "National Highways Authority of India (NHAI)",
-            "Indian Institute of Science (IISc)"
-        ],
-        "information": "ECOFIX is an indigenous innovation developed by CSIR-CRRI to address the persistent problem of potholes in India."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "In September 2025, Prime Minister Narendra Modi inaugurated India’s first indigenous sex-sorted semen facility in which district of Bihar?",
-        "answer": "Purnea",
-        "choices": [
-            "Purnea",
-            "Muzaffarpur",
-            "Begusarai",
-            "Patna"
-        ],
-        "information": "The facility is located at the Maranga Semen Station in Purnea."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "What is the name of the indigenous technology used in the Purnea sex-sorted semen facility to ensure the birth of female calves?",
-        "answer": "Gausort",
-        "choices": [
-            "Gausort",
-            "Kamdhenu-Sort",
-            "Pashu-Siddhi",
-            "Bihar-Gokul"
-        ],
-        "information": "\"Gausort\" was developed through a collaboration between the National Dairy Development Board (NDDB), IISc Bengaluru, and IIT Madras."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "With the use of 'Gausort' technology at the Purnea facility, what is the estimated accuracy/probability of producing female calves?",
-        "answer": "85% to 90%",
-        "choices": [
-            "85% to 90%",
-            "50% to 60%",
-            "70% to 75%",
-            "95% to 100%"
-        ],
-        "information": "Conventional semen has a 50:50 ratio, but this technology significantly increases the birth of female calves, reducing the economic burden of maintaining unproductive male cattle."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Shailesh Kumar, who recently made history by winning gold at the World Para Athletics Championships 2025, hails from which district of Bihar?",
-        "answer": "Jamui",
-        "choices": [
-            "Jamui",
-            "Munger",
-            "Banka",
-            "Lakhisarai"
-        ],
-        "information": "Shailesh Kumar, hailing from Islam Nagar village in Jamui district, Bihar, clinched gold in the men’s high jump T63 event at the World Para Athletics Championships 2025"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "In September 2025, Shailesh Kumar won India’s first-ever gold medal at the World Para Athletics Championships held in New Delhi. Which event did he compete in?",
-        "answer": "Men's High Jump T63",
-        "choices": [
-            "Men's High Jump T63",
-            "Men's Javelin Throw F64",
-            "Men's Long Jump T42",
-            "Men's Shot Put F37"
-        ],
-        "information": "Shailesh Kumar, hailing from Islam Nagar village in Jamui district, Bihar, clinched gold in the men’s high jump T63 event at the World Para Athletics Championships 2025"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following is the heaviest payload ever launched from Indian soil?",
-        "answer": "BlueBird Block-2",
-        "choices": [
-            "BlueBird Block-2",
-            "GSAT-11",
-            "GSAT-29",
-            "CMS-03 (GSAT-7R)"
-        ],
-        "information": "BlueBird Block-2 (~6,100 kg) launched by LVM3 is the heaviest payload launched from Indian soil, it was built by USA."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following commands acted as the lead service during Exercise Trishul 2025?",
-        "answer": "Indian Navy",
-        "choices": [
-            "Indian Navy",
-            "Indian Air Force",
-            "Indian Army",
-            "Integrated Defence Staff"
-        ],
-        "information": "The Indian Navy (Western Naval Command) acted as the lead service, with the Army (Southern Command) and Air Force (South Western Air Command) as principal participants."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "One of the key objectives of Exercise Trishul 2025 was to:",
-        "answer": "Enhance inter-service coordination and joint operational readiness",
-        "choices": [
-            "Enhance inter-service coordination and joint operational readiness",
-            "Test nuclear deterrence capability",
-            "Validate joint command theatre structure",
-            "Conduct peace-keeping training under UN mandate"
-        ],
-        "information": "Tri-Services Exercise (TSE-2025) “Trishul” is a major joint military drill conducted by the Indian Armed Forces involving the Indian Army, Navy, and Air Force. It is part of India’s series of large-scale tri-service exercises designed to enhance inter-service coordination, joint operational readiness, and multi-domain combat capability across land, sea, and air."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The 2025 ICC Women’s Cricket World Cup was co-hosted by which two countries?",
-        "answer": "India & Sri Lanka",
-        "choices": [
-            "India & Sri Lanka",
-            "India & Bangladesh",
-            "India & Pakistan",
-            "Sri Lanka & Bangladesh"
-        ],
-        "information": "The 2025 ICC Women’s Cricket World Cup was hosted primarily in India, with neutral venue matches for Pakistan held in Sri Lanka."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The final of the 2025 Women's Cricket World Cup was held at which stadium?",
-        "answer": "DY Patil Stadium, Navi Mumbai",
-        "choices": [
-            "DY Patil Stadium, Navi Mumbai",
-            "M. Chinnaswamy Stadium, Bengaluru",
-            "R. Premadasa Stadium, Colombo",
-            "Narendra Modi Stadium, Ahmedabad"
-        ],
-        "information": "The DY Patil Stadium hosted the historic final on November 2, 2025."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "India won the 2025 ICC Women’s Cricket World Cup by defeating which team in the final?",
-        "answer": "South Africa",
-        "choices": [
-            "South Africa",
-            "Australia",
-            "England",
-            "New Zealand"
-        ],
-        "information": "India defeated South Africa by 52 runs in the final to claim their first-ever title."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Who was the captain of the Indian Women Cricket team during the 2025 ICC Women World Cup triumph?",
-        "answer": "Harmanpreet Kaur",
-        "choices": [
-            "Harmanpreet Kaur",
-            "Smriti Mandhana",
-            "Deepti Sharma",
-            "Shafali Verma"
-        ],
-        "information": "Harmanpreet Kaur led the side to their maiden World Cup victory in 2025."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Who was named the 'Player of the Tournament' (Player of the Series) for the 2025 Women's World Cup?",
-        "answer": "Deepti Sharma",
-        "choices": [
-            "Deepti Sharma",
-            "Smriti Mandhana",
-            "Harmanpreet Kaur",
-            "Shafali Verma"
-        ],
-        "information": "Deepti Sharma was awarded Player of the Series for her all-round brilliance, including 22 wickets and crucial runs."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The LVM3 launch vehicle used for CMS-03 is nicknamed",
-        "answer": "Bahubali",
-        "choices": [
-            "Bahubali",
-            "Agni Putra",
-            "Aryabhata",
-            "Vikram-Lift"
-        ],
-        "information": "LVM3 (India's Bahubali): Its maximum capacity to a Geosynchronous Transfer Orbit (GTO) is around 4 tons."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "According to the \"World Cooperative Monitor 2025\" report published by the International Cooperative Alliance (ICA), which Indian cooperative has been ranked 1st in the world based on the ratio of turnover to GDP per capita?",
-        "answer": "Amul (GCMMF)",
-        "choices": [
-            "Amul (GCMMF)",
-            "IFFCO",
-            "KRIBHCO",
-            "Mother Dairy"
-        ],
-        "information": "While Amul (Gujarat Cooperative Milk Marketing Federation) ranked 1st, another Indian giant, IFFCO (Indian Farmers Fertiliser Cooperative), secured the 2nd position in the same category (Turnover over GDP per capita)."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The year 2025 marks 150 years of the National Song ‘Vande Mataram’ because it was first written in:",
-        "answer": 1875,
-        "choices": [
-            1875,
-            1857,
-            1882,
-            1905
-        ],
-        "information": "Vande Mataram was composed and published in Bengali journal Bangadarshan on November 7, 1875 by Bankim Chandra Chattopadhyay, making 2025 its 150th anniversary."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Project Suncatcher, announced by Google, primarily aims to:",
-        "answer": "Establish solar-powered AI compute satellites in space",
-        "choices": [
-            "Establish solar-powered AI compute satellites in space",
-            "Build quantum computers on the Moon",
-            "Develop AI data centers powered by nuclear energy",
-            "Launch solar panels to send energy back to Earth"
-        ],
-        "information": "The project envisions a constellation of solar-powered satellites with AI chips processing compute workloads in space."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The 30th Conference of Parties (COP30) to the UNFCCC was held in",
-        "answer": "Belem, Brazil",
-        "choices": [
-            "Belem, Brazil",
-            "New York, USA",
-            "Paris, France",
-            "Nairobi, Kenya"
-        ],
-        "information": "COP30 took place in Belém, Brazil from 10 to 21 November 2025."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "India's first MWh-scale Vanadium Redox Flow Battery (VRFB) was recently inaugurated at which NTPC facility?",
-        "answer": "NTPC NETRA (Greater Noida)",
-        "choices": [
-            "NTPC NETRA (Greater Noida)",
-            "NTPC Barh (Bihar)",
-            "NTPC Ramagundam",
-            "NTPC Kawas"
-        ],
-        "information": "NTPC NETRA serves as the R&D wing where this first utility-scale flow battery project was deployed in 2025"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Who is the winner of the 2025 Booker Prize for Fiction?",
-        "answer": "David Szalay",
-        "choices": [
-            "David Szalay",
-            "Samantha Harvey",
-            "Kiran Desai",
-            "Paul Lynch"
-        ],
-        "information": "David Szalay Explanation: Hungarian-British author David Szalay won the 2025 Booker Prize for his sixth novel, \"Flesh\". He became the first author of Hungarian heritage to win the award."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Who scripted history by winning the International Booker Prize 2025 for the book \"Heart Lamp\"?",
-        "answer": "Banu Mushtaq and Deepa Bhasthi",
-        "choices": [
-            "Banu Mushtaq and Deepa Bhasthi",
-            "Perumal Murugan and Aniruddhan Vasudevan",
-            "Geetanjali Shree and Daisy Rockwell",
-            "Kiran Desai and Arundhati Roy"
-        ],
-        "information": "The International Booker Prize is shared between the author and the translator. Banu Mushtaq (Author) and Deepa Bhasthi (Translator) won for Heart Lamp, a collection of short stories originally written in Kannada."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Birsa-101, recently in news, is related to the treatment of which disease?",
-        "answer": "Sickle Cell Disease",
-        "choices": [
-            "Sickle Cell Disease",
-            "Thalassemia",
-            "Hemophilia",
-            "Tuberculosis"
-        ],
-        "information": "Birsa-101 is India’s first indigenous gene therapy developed for Sickle Cell Disease (SCD)."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following Indian initiatives aligns with the objective of Birsa-101?",
-        "answer": "National Sickle Cell Anemia Elimination Mission",
-        "choices": [
-            "National Sickle Cell Anemia Elimination Mission",
-            "National Tuberculosis Elimination Programme",
-            "Ayushman Bharat Digital Mission",
-            "POSHAN Abhiyaan"
-        ],
-        "information": "Sickel Cell Disese is a hereditary genetic disorder caused by mutation in the beta-globin gene. India aims to eliminate Sickle Cell Anemia by 2047, and Birsa-101 supports this goal. SCD is endemic among tribal communities in central and eastern India. India aims to eliminate Sickle Cell Anemia by 2047, and Birsa-101 supports this goal."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Where was the 17th BRICS Leaders’ Summit held in 2025?",
-        "answer": "Rio de Janeiro, Brazil",
-        "choices": [
-            "Rio de Janeiro, Brazil",
-            "New Delhi, India",
-            "Moscow, Russia",
-            "Johannesbug, South Africa"
-        ],
-        "information": "The 17th BRICS Leaders’ Summit took place in Rio de Janeiro, Brazil."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "What was the theme of the 2025 BRICS Summit?",
-        "answer": "Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance",
-        "choices": [
-            "Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance",
-            "Global Peace and Security",
-            "Digital Economy and Innovation",
-            "BRICS for Climate Action"
-        ],
-        "information": "The Rio Declaration of the summit was under the theme: “Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance.”"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which country is set to host the BRICS Summit in 2026?",
-        "answer": "India",
-        "choices": [
-            "India",
-            "Russia",
-            "China",
-            "South Africa"
-        ],
-        "information": "At the conclusion of the 2025 BRICS Summit in Brazil, leaders confirmed India will take the BRICS Chairship in 2026 and host the 18th BRICS Summit."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Where was the G20 Leaders’ Summit in 2025 held?",
-        "answer": "Johannesburg, South Africa",
-        "choices": [
-            "Johannesburg, South Africa",
-            "Cape Town, South Africa",
-            "Pretoria, South Africa",
-            "Durban, South Africa"
-        ],
-        "information": "The 2025 G20 Summit was held in Johannesburg, South Africa"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "What was the theme of the 2025 G20 Summit?",
-        "answer": "Solidarity, Equality, Sustainability",
-        "choices": [
-            "Solidarity, Equality, Sustainability",
-            "Sustainable Development, Equality, and Solidarity",
-            "One Earth, One Future",
-            "Global Cooperation for Prosperity"
-        ],
-        "information": "The theme adopted by South Africa for its G20 presidency in 2025 is “Solidarity, Equality, Sustainability.”"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following countries are part of the G20 Troika for 2025-2026?",
-        "answer": "Brazil, South Africa, United States",
-        "choices": [
-            "Brazil, South Africa, United States",
-            "India, Brazil, South Africa",
-            "South Africa, China, Italy",
-            "Brazil, India, Indonesia"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "What is the official theme (or tagline) for IFFI Goa 2025 according to its organizers?",
-        "answer": "Convergence of Creativity & Technology",
-        "choices": [
-            "Convergence of Creativity & Technology",
-            "Cinema for Peace",
-            "World Cinema, One India",
-            "Digital Dreams"
-        ],
-        "information": "IFFI 2025 is being celebrated under the theme “Convergence of Creativity & Technology.”"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Who among the following is being honoured at the closing ceremony of IFFI 2025?",
-        "answer": "Rajinikanth",
-        "choices": [
-            "Rajinikanth",
-            "Amitabh Bachchan",
-            "Shah Rukh Khan",
-            "Aamir Khan"
-        ],
-        "information": "Rajinikanth is being felicitated at the closing ceremony in recognition of his 50 years in cinema."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following is not one of the four Labour Codes implemented by the Government?",
-        "answer": "Minimum Working Hours Code, 2020",
-        "choices": [
-            "Minimum Working Hours Code, 2020",
-            "Occupational Safety, Health and Working Conditions Code, 2020",
-            "Code on Wages, 2019",
-            "Industrial Relations Code, 2020"
-        ],
-        "information": "The four codes are: Code on Wages, 2019; Industrial Relations Code, 2020; Social Security Code, 2020 and Occupational Safety, Health and Working Condition Code, 2020"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Under the OSHWC Code, the maximum weekly working hour limit is:",
-        "answer": "48 hours",
-        "choices": [
-            "48 hours",
-            "45 hours",
-            "42 hours",
-            "40 hours"
-        ],
-        "information": "The OSHWC Code fixes 48 hours per week irrespective of daily flexibility (8–12 hours)"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Under the Social Security Code, 2020, fixed-term employees become eligible for gratuity after:",
-        "answer": "1 year",
-        "choices": [
-            "1 year",
-            "5 years",
-            "3 years",
-            "2 years"
-        ],
-        "information": "For the first time, fixed-term workers are eligible for gratuity after one year of service"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Under the new wage definition, Basic Pay + DA must constitute at least what percentage of total wages?",
-        "answer": "50 percent",
-        "choices": [
-            "50 percent",
-            "40 percent",
-            "30 percent",
-            "60 percent"
-        ],
-        "information": "The Code on Wages standardises wages: Basic + DA must be ≥50% of total wages, affecting PF and gratuity calculations."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The Social Security Code, 2020 is the first labour law in India to formally recognise which category of workers?",
-        "answer": "Gig and platform workers",
-        "choices": [
-            "Gig and platform workers",
-            "Contract workers",
-            "Industrial apprentices",
-            "Seasonal workers"
-        ],
-        "information": "For the first time, gig and platform workers (e.g., Swiggy, Ola, freelancers) are legally covered under social security schemes."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following is the first labour code passed by Parliament among the four?",
-        "answer": "Code on Wages",
-        "choices": [
-            "Code on Wages",
-            "Industrial Relations Code",
-            "Social Security Code",
-            "Occupational Safety, Health and Working Condition Code"
-        ],
-        "information": "The Code on Wages, 2019 was enacted one year before the other three codes (passed in 2020)"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The four Labour Codes implemented in November 2025 consolidate how many earlier Central labour laws?",
-        "answer": 29,
-        "choices": [
-            29,
-            24,
-            17,
-            12
-        ],
-        "information": "The four codes consolidate 29 existing Central labour laws to simplify India’s labour regulation system."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which city has been selected to host the 2030 Commonwealth Games?",
-        "answer": "Ahmedabad",
-        "choices": [
-            "Ahmedabad",
-            "New Delhi",
-            "Bengaluru",
-            "Mumbai"
-        ],
-        "information": "In November 2025, the General Assembly of Commonwealth Sport ratified the bid of Ahmedabad (Amdavad), Gujarat, as the host city for the 2030 Commonwealth Games."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The Hayli Gubbi volcano that erupted in November 2025 is located in which region of Ethiopia?",
-        "answer": "Afar Region",
-        "choices": [
-            "Afar Region",
-            "Somali Region",
-            "Oromia Region",
-            "Trigray Region"
-        ],
-        "information": "Hayli Gubbi is situated in the Afar Region of Ethiopia. This area is a \"Triple Junction\" where the Arabian, Nubian, and Somali plates are diverging (pulling apart)."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The 2025 eruption of Hayli Gubbi was significant because it was the first known eruption in how many years (approximately)?",
-        "answer": "10,000–12,000 years",
-        "choices": [
-            "10,000–12,000 years",
-            "1,000 years",
-            "5,000 years",
-            "500 years"
-        ],
-        "information": "Geological/volcanological sources indicate that Hayli Gubbi had no recorded eruptions during the Holocene epoch — the 2025 event is the first documented activity after about 10,000–12,000 years of dormancy."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The Hayli Gubbi volcano, which recently erupted after nearly 12,000 years, is located in which tectonic region?",
-        "answer": "The East African Rift System (EARS)",
-        "choices": [
-            "The East African Rift System (EARS)",
-            "Himalayan Orogenic Belt",
-            "Mid-Atlantic Ridge",
-            "Pacific Ring of Fire"
-        ],
-        "information": "Hayli Gubbi lies within the Rift Valley — part of the East African Rift System. This rift zone arises due to tectonic plates diverging, making it geologically active and home to many volcanoes."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The 2026 Commonwealth Games are scheduled to be hosted in which of the following cities/countries?",
-        "answer": "Glasgow, Scotland",
-        "choices": [
-            "Glasgow, Scotland",
-            "Victoria, Australia",
-            "Ahmedabad, India",
-            "Abuja, Nigeria"
-        ],
-        "information": "The 2026 Commonwealth Games (XXIII Games) will be held in Glasgow, Scotland from 23 July to 2 August 2026."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Where will the 2030 Commonwealth (100th edition) Games be held?",
-        "answer": "Ahmedabad (Amdavad), India",
-        "choices": [
-            "Ahmedabad (Amdavad), India",
-            "Delhi, India",
-            "Victoria, Australia",
-            "Glasgow, Scotland"
-        ],
-        "information": "The 2030 Commonwealth Games — the centenary edition — will be hosted by Ahmedabad (Amdavad), India."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The 2nd WHO Global Summit on Traditional Medicine was held in December 2025 at which of the following venues?",
-        "answer": "Bharat Mandapam, New Delhi",
-        "choices": [
-            "Bharat Mandapam, New Delhi",
-            "Sardar Patel Complex, Jamnagar",
-            "WHO Headquarters, Geneva",
-            "Mahatma Mandir, Gandhinagar"
-        ],
-        "information": "India hosted the second edition of this high-level global summit in its capital city at the iconic Bharat Mandapam."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "What was the official theme of the 2nd WHO Global Summit on Traditional Medicine held in 2025?",
-        "answer": "Restoring Balance: The Science and Practice of Health and Well-being",
-        "choices": [
-            "Restoring Balance: The Science and Practice of Health and Well-being",
-            "Ayurveda for Global Wellness",
-            "One Earth, One Health",
-            "Towards Health and Well-being for All"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The Nuclear Energy Transformation Bill seeks to amend which of the following principal Acts to allow private sector participation in the nuclear power sector?",
-        "answer": "Atomic Energy Act, 1962",
-        "choices": [
-            "Atomic Energy Act, 1962",
-            "Electricity Act, 2003",
-            "Environment Protection Act, 1986",
-            "Energy Conservation Act, 2001"
-        ],
-        "information": "The 1962 Act currently restricts nuclear energy production largely to the government. This amendment is the primary focus of the new Bill."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "What is the strategic objective of the Nuclear Energy Transformation Bill in alignment with India's 'Net Zero' target?",
-        "answer": "Achieving 100 GW of nuclear power capacity by 2047",
-        "choices": [
-            "Achieving 100 GW of nuclear power capacity by 2047",
-            "Replacing all Solar and Wind energy with Nuclear by 2030",
-            "Importing 100% of energy needs from Russia and France",
-            "Closing all existing nuclear plants for modernization"
-        ],
-        "information": "The Bill provides the legal framework to scale up from the current ~7 GW to much higher targets required for 2047."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which country is serving as the Chair of the Kimberley Process (KP) for the year 2026?",
-        "answer": "India",
-        "choices": [
-            "India",
-            "United Arab Emirates (UAE)",
-            "South Africa",
-            "Botswana"
-        ],
-        "information": "India assumed the role on January 1, 2026. This is the third time India has chaired the KP (previously in 2008 and 2019). The UAE served as the \"Custodian Chair\" in 2025."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Who has been appointed as the Vice-Chair of the Kimberley Process for 2026, set to succeed as Chair in 2027?",
-        "answer": "Ghana",
-        "choices": [
-            "Ghana",
-            "Russia",
-            "Thailand",
-            "Zimbabwe"
-        ],
-        "information": "In the Kimberley Process, the Vice-Chair of the current year typically becomes the Chair the following year. Ghana’s appointment ensures an African producing nation takes the lead in 2027."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The 'Bharat Taxi' app, officially launched in January 2026, is an initiative of which Union Ministry?",
-        "answer": "Ministry of Cooperation",
-        "choices": [
-            "Ministry of Cooperation",
-            "Ministry of Road Transport and Highways",
-            "Ministry of Electronics and Information Technology (MeitY)",
-            "Ministry of Housing and Urban Affairs"
-        ],
-        "information": "Developed in collaboration with the National e-Governance Division (NeGD), it is aimed at freeing drivers from high commissions charged by private firms."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Who were the Chief Guests at India's 77th Republic Day celebrations in 2026?",
-        "answer": "Antonio Costa (President of European Council) & Ursula von der Leyen (President of European Commission)",
-        "choices": [
-            "Antonio Costa (President of European Council) & Ursula von der Leyen (President of European Commission)",
-            "Emmanuel Macron (France)",
-            "Prabowo Subianto (Indonesia)",
-            "Abdel Fattah el-Sisi (Egypt)"
-        ],
-        "information": "77th Republic Day in year 2026 featured a rare \"dual guest\" presence from the European Union, highlighting the India-EU strategic partnership."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "What was the central theme for the 2026 Republic Day Parade at Kartavya Path?",
-        "answer": "150 Years of Vande Mataram",
-        "choices": [
-            "150 Years of Vande Mataram",
-            "Nari Shakti",
-            "Viksit Bharat & Bharat: Loktantra ki Matruka",
-            "Atmanirbhar Bharat"
-        ],
-        "information": "This year 77th Republic Day them  commemorates 150 years since Bankim Chandra Chattopadhyay penned the national song in 1875."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "How many personalities from Bihar have been conferred with the Padma Shri Award 2026?",
-        "answer": "Three",
-        "choices": [
-            "Three",
-            "Four",
-            "Two",
-            "One"
-        ],
-        "information": "There are total three Padma Shri awardee from Bihar - Bishwa Bandhu, Bharat Singh Bharati, Gopal Ji Trivedi"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which indigenous weapon system made its debut at the 77th Republic Day Parade?",
-        "answer": "Suryastra (Universal Rocket Launcher System)",
-        "choices": [
-            "Suryastra (Universal Rocket Launcher System)",
-            "BrahMos Missile",
-            "Arjun Tank",
-            "Prithvi-II"
-        ],
-        "information": "Suryastra Rocket Launcher System is India’s first Universal Multi-Calibre rocket launcher. It can fire different calibres (122mm, 160mm, and 306mm) and even loitering munitions (suicide drones) from the same vehicle."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which newly raised unit participated for the first time in the Republic Day parade?",
-        "answer": "Bhairav Light Commando Battalion",
-        "choices": [
-            "Bhairav Light Commando Battalion",
-            "Garud Commandos",
-            "Cobra Battalion",
-            "PARA SF"
-        ],
-        "information": "Bhairav Light Commando Battalion is a \"bridge\" in the Indian Army's structure. To fill the operational gap between conventional infantry and the Para Special Forces."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Bihar’s Bishwa Bandhu, who was posthumously awarded the Padma Shri 2026, was a legendary exponent of which folk form?",
-        "answer": "Domkach Folk Dance",
-        "choices": [
-            "Domkach Folk Dance",
-            "Madhubani Painting",
-            "Bidesiya Theater",
-            "Jat-Jatin Folk Dance"
-        ],
-        "information": "Bishwa Bandhu, born in Shahpur, Danapur is credited with bringing the Domkach dance (traditionally a wedding ritual performed by women in Magadh and Mithila) from village courtyards to national and international stages."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Antimicrobial Resistance (AMR) refers to",
-        "answer": "Ability of microorganisms to survive exposure to antimicrobials",
-        "choices": [
-            "Ability of microorganisms to survive exposure to antimicrobials",
-            "Increased immunity of humans against microbes",
-            "Overproduction of antibiotics by bacteria",
-            "Allergic reaction to antibiotics"
-        ],
-        "information": "AMR occurs when bacteria, viruses, fungi, or parasites evolve mechanisms to resist antimicrobial drugs, making treatments ineffective."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following is the primary cause of Antimicrobial Resistance?",
-        "answer": "Excessive and irrational use of antimicrobials",
-        "choices": [
-            "Excessive and irrational use of antimicrobials",
-            "Mutation in human genes",
-            "Climate change",
-            "Poor nutrition"
-        ],
-        "information": "Overuse and misuse of antibiotics in humans, animals, and agriculture accelerates the development of drug-resistant microbes."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "In January 2026, which Indian state became the first in the country to introduce a system allowing the registration of First Information Reports (FIRs) at the victim’s residence or a place of their choice for specific sensitive crimes?",
-        "answer": "Telangana",
-        "choices": [
-            "Telangana",
-            "Maharashtra",
-            "Bihar",
-            "Uttar Pradesh"
-        ],
-        "information": "Telangana became the first state in India to officially allow the registration of FIRs at a victim's home or a place of their choice for specific sensitive crime categories."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Wings India 2026 was held at which location?",
-        "answer": "Begumpet Airport, Hyderabad",
-        "choices": [
-            "Begumpet Airport, Hyderabad",
-            "Jaipur International Airport",
-            "Chandigarh Airport",
-            "Netaji Subhas Chandra Bose Airport, Kolkata"
-        ],
-        "information": "Wings India 2026 — Asia’s largest civil aviation exhibition — took place from 28–31 January 2026 at Begumpet Airport, Hyderabad. It brings together global aviation stakeholders."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which Indian aerospace company showcased the SJ-100 regional jet at Wings India 2026?",
-        "answer": "Hindustan Aeronautics Limited (HAL)",
-        "choices": [
-            "Hindustan Aeronautics Limited (HAL)",
-            "Tata Advanced Systems",
-            "Reliance Aerospace",
-            "Bharat Dynamics Limited"
-        ],
-        "information": "HAL debuted its civil aircraft portfolio, including the SJ-100 and H-228, highlighting a push into the civil aviation manufacturing sector."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "At Wings India 2026, which state was honoured as the Best State for Promotion of Aviation Ecosystem?",
-        "answer": "Uttrakhand",
-        "choices": [
-            "Uttrakhand",
-            "Maharashtra",
-            "Karnataka",
-            "Goa"
-        ],
-        "information": "Uttarakhand was recognised for its effective aviation policy and efforts to strengthen connectivity and infrastructure."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following best explains why Nipah virus is classified by WHO as a priority pathogen?",
-        "answer": "It has high fatality rate and no licensed vaccine",
-        "choices": [
-            "It has high fatality rate and no licensed vaccine",
-            "It has a long incubation period",
-            "It spreads through air easily",
-            "It affects only tropical countries"
-        ],
-        "information": "Nipah virus is a zoonotic virus (animal to human transmission) that causes severe respiratory illness and fatal encephalitis in humans. It is listed by WHO as a priority pathogen due to its high fatality rate and epidemic potential."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Who won the men’s singles title at the 2026 Australian Open?",
-        "answer": "Carlos Alcaraz",
-        "choices": [
-            "Carlos Alcaraz",
-            "Daniil Medvedev",
-            "Jannik Sinner",
-            "Novak Djokovic"
-        ],
-        "information": "Alcaraz defeated Djokovic in the final to win his first Australian Open title and complete the Career Grand Slam."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which record did Carlos Alcaraz achieve by winning the 2026 Australian Open?",
-        "answer": "Youngest man in history to complete Career Grand Slam",
-        "choices": [
-            "Youngest man in history to complete Career Grand Slam",
-            "Most Grand Slam titles overall",
-            "First Spanish Australian Open Champion ever",
-            "Only player to beat Djokovic in a final"
-        ],
-        "information": "At 22, he became the youngest man to complete the four majors in tennis history."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Who won the women’s singles title at the 2026 Australian Open?",
-        "answer": "Elena Rybakina",
-        "choices": [
-            "Elena Rybakina",
-            "Aryna Sabalenka",
-            "Iga Świątek",
-            "Coco Gauff"
-        ],
-        "information": "Rybakina defeated Sabalenka in a three-set final."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which spiritual leader won his first Grammy in 2026?",
-        "answer": "Dalai Lama",
-        "choices": [
-            "Dalai Lama",
-            "Pope Francis",
-            "Desmond Tutu",
-            "Trevor Noah"
-        ],
-        "information": "The Dalai Lama received his first Grammy in the Spoken Word category for Meditations: The Reflections of His Holiness the Dalai Lama."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Who won Album of the Year at the 2026 Grammy Awards?",
-        "answer": "Bad Bunny",
-        "choices": [
-            "Bad Bunny",
-            "Olivia Dean",
-            "Lady Gaga",
-            "Billie Eilish"
-        ],
-        "information": "Bad Bunny won Album of the Year for Debí Tirar Más Fotos, making history as the first fully Spanish-language album to win the top Grammy."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which artist won Song of the Year at the 2026 Grammys?",
-        "answer": "Billie Eilish",
-        "choices": [
-            "Billie Eilish",
-            "Sabrina Carpenter",
-            "Doechii",
-            "Justin Bieber"
-        ],
-        "information": "Billie Eilish won for “Wildflower.”"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which team won the Women’s Premier League (WPL) 2026 title?",
-        "answer": "Royal Challengers Bengaluru",
-        "choices": [
-            "Royal Challengers Bengaluru",
-            "Delhi Capitals",
-            "Gujarat Giants",
-            "Mumbai Indians"
-        ],
-        "information": "RCB Women clinched their second WPL title in the 2026 final by beating Delhi Capitals Women."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Who was the top run-scorer (Orange Cap winner) in WPL 2026?",
-        "answer": "Smriti Mandhana",
-        "choices": [
-            "Smriti Mandhana",
-            "Harmanpreet Kaur",
-            "Laura Wolvaardt",
-            "Jemiah Rodrigues"
-        ],
-        "information": "Smriti Mandhana of RCB scored 377 runs in the season and claimed the Orange Cap."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which player took the Purple Cap (most wickets) in WPL 2026?",
-        "answer": "Sophie Devine",
-        "choices": [
-            "Sophie Devine",
-            "Nandani Sharma",
-            "Radha Yadav",
-            "Sophie Ecclestone"
-        ],
-        "information": "Sophie Devine of Gujarat Giants finished the season as the leading wicket-taker."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Against which team did India U19 win the ICC Under-19 Cricket World Cup 2026 final?",
-        "answer": "England",
-        "choices": [
-            "England",
-            "Pakistan",
-            "South Africa",
-            "Australia"
-        ],
-        "information": "India defeated England by 100 runs in the ICC U19 World Cup 2026 final to clinch the title."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The 2026 ICC Under-19 Men’s Cricket World Cup was hosted by",
-        "answer": "Zimbabwe and Namibia",
-        "choices": [
-            "Zimbabwe and Namibia",
-            "India",
-            "Australia",
-            "South Africa"
-        ],
-        "information": "The 16th edition of the U-19 World Cup was held in Zimbabwe and Namibia from 15 Jan to 6 Feb 2026."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which player was named Player of the Series in the 2026 U-19 World Cup?",
-        "answer": "Vaibhav Sooryavanshi",
-        "choices": [
-            "Vaibhav Sooryavanshi",
-            "Ben Mayes",
-            "Manny Lumsden",
-            "Ayush Mhatre"
-        ],
-        "information": "Vaibhav Sooryavanshi was declared Player of the Series for his outstanding tournament performance."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The New START Treaty, signed between the United States and Russia, is primarily related to the control of which of the following?",
-        "answer": "Strategic nuclear weapons including ICBMs, SLBMs and heavy bombers",
-        "choices": [
-            "Strategic nuclear weapons including ICBMs, SLBMs and heavy bombers",
-            "Chemical and biological weapons",
-            "Tactical nuclear weapons deployed on the battlefield",
-            "Nuclear weapons of all categories including non-strategic weapons"
-        ],
-        "information": "New START places limits on strategic nuclear weapons such as Inter-Continental Ballistic Missiles (ICBMs), Submarine-Launched Ballistic Missiles (SLBMs) and heavy bombers."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The New START Treaty, which aims at limiting strategic nuclear arsenals, was signed in which year by the United States and Russia?",
-        "answer": 2010,
-        "choices": [
-            2010,
-            2009,
-            2005,
-            2011
-        ],
-        "information": "The New START Treaty was signed in 2010 by US President Barack Obama and Russian President Dmitry Medvedev; it entered into force in 2011."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following is NOT identified as a primary scientific identifier in the new DVI guidelines?",
-        "answer": "Tattoos",
-        "choices": [
-            "Tattoos",
-            "Fingerprints",
-            "Dental Records",
-            "DNA Profiling"
-        ],
-        "information": "Tattoos are considered secondary identifiers, while fingerprints, dental records, and DNA are primary."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Seva Teerth replaced which historic administrative location of PMO?",
-        "answer": "South Block",
-        "choices": [
-            "South Block",
-            "North Block",
-            "Rashtrapati Bhavan",
-            "Parliament House"
-        ],
-        "information": "PMO shifted from South Block (colonial-era building) to Seva Teerth after decades."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Who served as the Chief Adviser of the interim government that oversaw the transition to the 2026 elections in Bangladesh?",
-        "answer": "Mohammad Yunus",
-        "choices": [
-            "Mohammad Yunus",
-            "Tarique Rahman",
-            "Sheikh Hasina",
-            "Khaleda Zia"
-        ],
-        "information": "Nobel laureate Professor Muhammad Yunus served as the Chief Adviser of the interim government in Bangladesh from August 8, 2024, until his resignation on February 16, 2026."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Who became the Prime Minister of Bangladesh after the 2026 elections?",
-        "answer": "Tarique Rahman",
-        "choices": [
-            "Tarique Rahman",
-            "Mohammad Yunus",
-            "Sheikh Hasina",
-            "Khaleda Zia"
-        ],
-        "information": "BNP leader Tarique Rahman became Prime Minister after the election victory and returned from long exile to lead the government."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which party won the 2026 Bangladesh general elections?",
-        "answer": "Bangladesh Nationalist Party (BNP)",
-        "choices": [
-            "Bangladesh Nationalist Party (BNP)",
-            "Awami League",
-            "National Citizen Party",
-            "Jamaat-e-Islami"
-        ],
-        "information": "The BNP achieved a landslide victory, securing a two-thirds majority and returning to power after about 20 years."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following was the official theme of the India-AI Impact Summit 2026 held in New Delhi?",
-        "answer": "Sarvajana Hitaya, Sarvajana Sukhaye",
-        "choices": [
-            "Sarvajana Hitaya, Sarvajana Sukhaye",
-            "Digital Transformation 2.0",
-            "AI for Global Good",
-            "Atmanirbhar Bharat in AI"
-        ],
-        "information": "The official theme of the India-AI Impact Summit 2026 was Sarvajana Hitaya, Sarvajana Sukhaya (which translates to \"Welfare for All, Happiness of All\")."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "In the context of the India-AI Impact Summit, what does the acronym 'MANAV' stand for in the PM's vision for AI governance?",
-        "answer": "Moral, Accountable, National, Accessible, Valid",
-        "choices": [
-            "Moral, Accountable, National, Accessible, Valid",
-            "Modern, Advanced, National, Automated, Valid",
-            "Moral, Automated, Natural, Accessible, Virtual",
-            "Managed, Analytical, Networked, Agile, Versatile"
-        ],
-        "information": "In the context of the India-AI Impact Summit, the acronym MANAV in Prime Minister Narendra Modi's vision for AI governance stands for a human-centric framework: Moral and Ethical Systems, Accountable Governance, National Sovereignty, Accessible and Inclusive, and Valid and Legitimate."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "What is the primary objective of India joining the 'Pax Silica' coalition as announced at the summit?",
-        "answer": "To secure and strengthen the semiconductor supply chain with the US and allies.",
-        "choices": [
-            "To secure and strengthen the semiconductor supply chain with the US and allies.",
-            "To promote the use of solar panels in Bihar",
-            "To build an underwater fiber optic cable to France",
-            "To regulate the price of silicon in the global market"
-        ],
-        "information": "A central goal is to reduce over-reliance on concentrated supply chains and prevent \"economic coercion\" by building a secure and resilient alternative to existing dominated markets, particularly those controlled by China."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Under the IndiaAI Mission, the 'GPU-on-Demand' service provides computing power to startups at which of the following subsidized rates?",
-        "answer": "₹65 per hour",
-        "choices": [
-            "₹65 per hour",
-            "₹650 per hour",
-            "₹10 per hour",
-            "Free of cost for all"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following describes the 'IndiaAI Safety Institute' announced at the summit?",
-        "answer": "A regulatory body to test AI models for bias, security, and ethical risks.",
-        "choices": [
-            "A regulatory body to test AI models for bias, security, and ethical risks.",
-            "A manufacturing hub for indigenous AI chips.",
-            "A court for settling AI-related intellectual property disputes.",
-            "A military wing to defend against cyber attacks."
-        ],
-        "information": "The IndiaAI Safety Institute (AISI) is a national-level body established under the IndiaAI Mission to ensure the ethical, safe, and responsible deployment of artificial intelligence"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The 'BharatGen' initiative, discussed as a major outcome, aims to:",
-        "answer": "Create foundational Generative AI models tailored for Indian languages and culture",
-        "choices": [
-            "Create foundational Generative AI models tailored for Indian languages and culture",
-            "Provide free high-speed internet to every Gram Panchayat",
-            "Generate 1 million jobs in the AI sector by 2027",
-            "Develop 5G infrastructure in rural Bihar"
-        ],
-        "information": "The BharatGen initiative, a centerpiece of the IndiaAI Impact Summit 2026, is the world’s first government-funded, national-scale project dedicated to developing sovereign, multimodal foundational AI models specifically tailored for India."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The 'India AI Impact Summit 2026' was organized at which of the following venues?",
-        "answer": "Bharat Mandapam, New Delhi",
-        "choices": [
-            "Bharat Mandapam, New Delhi",
-            "Yashobhoomi, New Delhi",
-            "Gyan Bhawan, Patna",
-            "Science City, Ahmedabad"
-        ],
-        "information": "India AI Impact Summit was held in Bharat Mandapam, New Delhi"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "How many nations endorsed the 'New Delhi Declaration on AI Impact' on February 19, 2026?",
-        "answer": "88 Nations",
-        "choices": [
-            "88 Nations",
-            "48 Nations",
-            "78 Nations",
-            "68 Nations"
-        ],
-        "information": "On February 19, 2026, the New Delhi Declaration on AI Impact, adopted at the conclusion of the India AI Impact Summit 2026, was initially endorsed by 88 countries and international organisations"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "India joined which US-led initiative during the summit to secure semiconductor supply chains?",
-        "answer": "Pax Silica",
-        "choices": [
-            "Pax Silica",
-            "Silicon Shield",
-            "Indo-Pacific Chip Pact",
-            "Chip 4 Alliance"
-        ],
-        "information": "India formally joined the U.S. led Pax Silica initiative during the India AI Impact Summit on February 20, 2026, to secure semiconductor, artificial intelligence (AI), and critical mineral supply chains."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "What was the total estimated investment commitment secured for AI infrastructure in India during the summit?",
-        "answer": "250 Billion Dollars",
-        "choices": [
-            "250 Billion Dollars",
-            "1 Trillion Dollars",
-            "500 Billion Dollars",
-            "100 Billion Dollars"
-        ],
-        "information": "The India AI Impact Summit 2026 secured over $250 billion in investment commitments for AI infrastructure, including data centers, computing capacity, and power systems."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "NMP 2.0 aims to generate approximately how much revenue through asset monetisation?",
-        "answer": "₹16.7 lakh crore",
-        "choices": [
-            "₹16.7 lakh crore",
-            "₹10 lakh crore",
-            "₹6 lakh crore",
-            "₹25 lakh crore"
-        ],
-        "information": "NMP 2.0 targets about ₹16.7 lakh crore, which is 2.6 times the previous phase."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which institution developed the National Monetisation Pipeline 2.0?",
-        "answer": "NITI Aayog",
-        "choices": [
-            "NITI Aayog",
-            "RBI",
-            "Finance Commission",
-            "SEBI"
-        ],
-        "information": "NITI Aayog prepared the roadmap for NMP 2.0 in consultation with ministries."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following sectors is expected to contribute the highest share under NMP 2.0?",
-        "answer": "Highways",
-        "choices": [
-            "Highways",
-            "Telecom",
-            "Railways",
-            "Aviation"
-        ],
-        "information": "Highways have the largest monetisation share (~₹4.42 lakh crore) planned in NMP 2.0"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which body monitors the implementation of NMP 2.0?",
-        "answer": "CGAM",
-        "choices": [
-            "CGAM",
-            "GST Council",
-            "SEBI",
-            "RBI"
-        ],
-        "information": "Core Group of Secretaries on Asset Monetisation (CGAM) monitors progress of NMP 2.0"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which of the following best describes the concept of “Asset Recycling” under NMP 2.0?",
-        "answer": "Leasing assets to private sector while retaining ownership",
-        "choices": [
-            "Leasing assets to private sector while retaining ownership",
-            "Selling public assets permanently",
-            "Nationalisation of private assets",
-            "Foreign investment in greenfield projects"
-        ],
-        "information": "Asset recycling means transferring operational rights to private players while ownership remains with the government."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "PRAHAAR policy, recently seen in news, is related to:",
-        "answer": "Counter-terrorism strategy",
-        "choices": [
-            "Counter-terrorism strategy",
-            "Disaster management",
-            "Cyber Security",
-            "Border Infrastructure"
-        ],
-        "information": "PRAHAAR is India’s first comprehensive national counter-terrorism policy, integrating intelligence, policing, and international cooperation into a unified framework. It goes beyond just cyber security and covers all dimensions of terrorism including radicalisation, financing, and response mechanisms."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "El Mencho was the leader of which organization?",
-        "answer": "Jalisco New Generation Cartel (CJNG)",
-        "choices": [
-            "Jalisco New Generation Cartel (CJNG)",
-            "Sinaloa Cartel",
-            "Gulf Cartel",
-            "Los Zetas"
-        ],
-        "information": "El Mencho (Nemesio Oseguera Cervantes) was the head of the Jalisco New Generation Cartel (CJNG), one of the most powerful and violent cartels in Mexico"
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Cervavac is:",
-        "answer": "Indigenous HPV vaccine",
-        "choices": [
-            "Indigenous HPV vaccine",
-            "COVID-19 Vaccine",
-            "Polio Vaccine",
-            "Tuberculosis Vaccine"
-        ],
-        "information": "Cervavac is India’s indigenous HPV vaccine developed by Serum Institute of India."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "The most appropriate age group for HPV vaccination is:",
-        "answer": "9-14 years",
-        "choices": [
-            "9-14 years",
-            "0-2 years",
-            "5-8 years",
-            "20-25 years"
-        ],
-        "information": "Vaccination before exposure to HPV (before sexual activity) provides maximum protection."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Which team won Ranji Trophy 2025–26?",
-        "answer": "Jammu & Kashmir",
-        "choices": [
-            "Jammu & Kashmir",
-            "Karnataka",
-            "Mumbai",
-            "Bengal"
-        ],
-        "information": "J&K won their first-ever Ranji Trophy title, defeating Karnataka."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Player of the Series in Ranji Trophy 2025–26 was:",
-        "answer": "Auqib Nabi",
-        "choices": [
-            "Auqib Nabi",
-            "Sarfaraz Khan",
-            "Mayank Agarwal",
-            "Shubman Gill"
-        ],
-        "information": "Auqib Nabi took 60 wickets, highest in season."
-    },
-    {
-        "sheet": "Recent2026",
-        "question": "Ranji Trophy 2025–26 had how many teams?",
-        "answer": 38,
-        "choices": [
-            38,
-            28,
-            32,
-            40
-        ],
-        "information": "In the Ranji Trophy 2025–26 season, a total of 38 teams participated."
-    }
+  {
+    "qid": "Q00375",
+    "question": "The Ganga Water Treaty between India and Bangladesh was signed in",
+    "answer": "1996",
+    "choices": [
+      "1996",
+      "1986",
+      "2006",
+      "1976"
+    ],
+    "information": "The treaty was signed on 12 December 1996 after decades of water disputes for next 30 years. It formalized water sharing from the Farakka Barrage, especially during the dry season.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00376",
+    "question": "At which point is water flow measured under the Ganga Water Sharing Treaty between India and Bangladesh?",
+    "answer": "Farakka Barrage",
+    "choices": [
+      "Farakka Barrage",
+      "Hardinge Bridge",
+      "Sundarbans Delta",
+      "Bhagirathi River"
+    ],
+    "information": "The Farakka Barrage is the key location where water is measured before it enters Bangladesh. India manages the barrage, but the Ganga Water Treaty schedules guarantee minimum flow to Bangladesh.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00377",
+    "question": "Which country adopted the euro as its official currency on 1 January 2026 and became the 21st member of the Eurozone?",
+    "answer": "Bulgaria",
+    "choices": [
+      "Bulgaria",
+      "Croatia",
+      "Romania",
+      "Sweden"
+    ],
+    "information": "Bulgaria adopted the euro on 1 January 2026, replacing the Bulgarian lev and becoming the 21st Eurozone member.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00378",
+    "question": "Before adopting the euro, a country must satisfy which set of economic conditions known as eligibility rules?",
+    "answer": "Maastricht Convergence Criteria",
+    "choices": [
+      "Maastricht Convergence Criteria",
+      "Bretton Woods Conditions",
+      "Lisbon Strategy",
+      "Copenhagen Criteria"
+    ],
+    "information": "The Maastricht Convergence Criteria define the economic requirements that an EU country must meet to adopt the euro.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00379",
+    "question": "Which earlier tax system on “sin goods” is being replaced by the new HSNS Cess regime?",
+    "answer": "GST Compensation Cess",
+    "choices": [
+      "GST Compensation Cess",
+      "Luxury Tax",
+      "Value Added Tax",
+      "Excise Duty"
+    ],
+    "information": "The HSNS Cess regime replaces the GST compensation cess on goods like tobacco and pan masala once it is completely phased out",
+    "tags": ""
+  },
+  {
+    "qid": "Q00380",
+    "question": "The Health Security and National Security Cess Act, 2025 primarily aims to",
+    "answer": "Levy a special cess on harmful goods to fund health and security",
+    "choices": [
+      "Levy a special cess on harmful goods to fund health and security",
+      "Reduce GST rates on essential",
+      "Introduce income tax reforms",
+      "Replace customs duty"
+    ],
+    "information": "The HSNS Cess is a special tax on sin goods to raise funds for public health and national security after phasing out the GST compensation cess.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00381",
+    "question": "Piprahwa is considered important in Buddhism primarily because it is associated with",
+    "answer": "Distribution of Buddha’s relics after Mahaparinirvana",
+    "choices": [
+      "Distribution of Buddha’s relics after Mahaparinirvana",
+      "Buddha’s enlightenment",
+      "Buddha’s first sermon",
+      "Buddha’s meditation retreats"
+    ],
+    "information": "After the Mahaparinirvana of Gautama Buddha, his bodily relics were divided among several claimants. Piprahwa is linked with the relic share of the Shakyas, Buddha’s own clan.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00382",
+    "question": "According to agricultural data for the 2024-25 crop year, which country has emerged as the world's largest producer of rice, surpassing China?",
+    "answer": "India",
+    "choices": [
+      "India",
+      "Vietnam",
+      "Bangladesh",
+      "Thailand"
+    ],
+    "information": "India reached a record production of 150.18 million tonnes in 2024-25, officially overtaking China for the top spot in production.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00383",
+    "question": "What is the official theme for the World Economic Forum Annual Meeting 2026 held in Davos?",
+    "answer": "A Spirit of Dialogue",
+    "choices": [
+      "A Spirit of Dialogue",
+      "Stakeholders for a Cohesive and Sustainable World",
+      "Cooperation in a Fragmented World",
+      "History at a Turning Point"
+    ],
+    "information": "The World Economic Forum (WEF) Annual Meeting 2026 is took place in Davos, Switzerland (January 19–23, 2026). The theme for 2026 was - A Spirit of Dialogue",
+    "tags": ""
+  },
+  {
+    "qid": "Q00384",
+    "question": "The World Economic Forum Annual Meeting 2026 was held in which of the following locations?",
+    "answer": "Davos, Switzerland",
+    "choices": [
+      "Davos, Switzerland",
+      "New Delhi, India",
+      "Geneva, Switzerland",
+      "Zurich, Switzerland"
+    ],
+    "information": "Davos is the iconic and permanent venue for the WEF Annual Meetings, often referred to simply as the 'Davos Summit'.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00385",
+    "question": "The 86th All India Presiding Officers’ Conference (AIPOC) was organized in January 2026 in which city?",
+    "answer": "Lucknow",
+    "choices": [
+      "Lucknow",
+      "Patna",
+      "Gandhinagar",
+      "Mumbai"
+    ],
+    "information": "Lucknow, Uttar Pradesh, hosted the 86th session of the AIPOC from January 19–21, 2026.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00386",
+    "question": "What was the official theme for the 86th All India Presiding Officers’ Conference held in 2026?",
+    "answer": "Strong Legislature - Prosperous Nation",
+    "choices": [
+      "Strong Legislature - Prosperous Nation",
+      "Digitisation of Democracy",
+      "One Nation, One Legislative Platform",
+      "Sabka Saath, Sabka Vikas"
+    ],
+    "information": "86th All India Presiding Officers’ Conference (AIPOC) in 2026 was hosted in Lucknow with theme: Strong Legislature - Prosperous Nation.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00387",
+    "question": "The 28th Commonwealth Speakers’ Conference (CSPOC), inaugurated by PM Modi in January 2026, took place at which venue?",
+    "answer": "New Delhi",
+    "choices": [
+      "New Delhi",
+      "Gandhinagar",
+      "Patna",
+      "Mumbai"
+    ],
+    "information": "The international conference of Commonwealth speakers was held in the historic Samvidhan Sadan (old Parliament building) in New Delhi.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00388",
+    "question": "ECOFIX technology promotes a 'Circular Economy' primarily by using which industrial by-product as a raw material?",
+    "answer": "Iron and Steel Slag",
+    "choices": [
+      "Iron and Steel Slag",
+      "Fly Ash from Thermal Power Plants",
+      "E-waste components",
+      "Plastic Waste"
+    ],
+    "information": "ECOFIX uses processed iron and steel slag, converting industrial waste into a durable construction input.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00389",
+    "question": "Which premier Indian research institute developed the 'ECOFIX' pothole repair technology?",
+    "answer": "CSIR-Central Road Research Institute (CRRI)",
+    "choices": [
+      "CSIR-Central Road Research Institute (CRRI)",
+      "IIT Madras",
+      "National Highways Authority of India (NHAI)",
+      "Indian Institute of Science (IISc)"
+    ],
+    "information": "ECOFIX is an indigenous innovation developed by CSIR-CRRI to address the persistent problem of potholes in India.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00390",
+    "question": "In September 2025, Prime Minister Narendra Modi inaugurated India’s first indigenous sex-sorted semen facility in which district of Bihar?",
+    "answer": "Purnea",
+    "choices": [
+      "Purnea",
+      "Muzaffarpur",
+      "Begusarai",
+      "Patna"
+    ],
+    "information": "The facility is located at the Maranga Semen Station in Purnea.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00391",
+    "question": "What is the name of the indigenous technology used in the Purnea sex-sorted semen facility to ensure the birth of female calves?",
+    "answer": "Gausort",
+    "choices": [
+      "Gausort",
+      "Kamdhenu-Sort",
+      "Pashu-Siddhi",
+      "Bihar-Gokul"
+    ],
+    "information": "\"Gausort\" was developed through a collaboration between the National Dairy Development Board (NDDB), IISc Bengaluru, and IIT Madras.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00392",
+    "question": "The sex-sorted semen facility in Purnea has been established under which of the following central schemes?",
+    "answer": "Rashtriya Gokul Mission (RGM)",
+    "choices": [
+      "Rashtriya Gokul Mission (RGM)",
+      "National Livestock Mission",
+      "Dairy Sahakar Scheme"
+    ],
+    "information": "The facility was created with a central assistance of ₹10 crore under the RGM, which focuses on conserving indigenous bovine breeds.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00393",
+    "question": "With the use of 'Gausort' technology at the Purnea facility, what is the estimated accuracy/probability of producing female calves?",
+    "answer": "85% to 90%",
+    "choices": [
+      "85% to 90%",
+      "50% to 60%",
+      "70% to 75%",
+      "95% to 100%"
+    ],
+    "information": "Conventional semen has a 50:50 ratio, but this technology significantly increases the birth of female calves, reducing the economic burden of maintaining unproductive male cattle.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00394",
+    "question": "Shailesh Kumar, who recently made history by winning gold at the World Para Athletics Championships 2025, hails from which district of Bihar?",
+    "answer": "Jamui",
+    "choices": [
+      "Jamui",
+      "Munger",
+      "Banka",
+      "Lakhisarai"
+    ],
+    "information": "Shailesh Kumar, hailing from Islam Nagar village in Jamui district, Bihar, clinched gold in the men’s high jump T63 event at the World Para Athletics Championships 2025",
+    "tags": ""
+  },
+  {
+    "qid": "Q00395",
+    "question": "In September 2025, Shailesh Kumar won India’s first-ever gold medal at the World Para Athletics Championships held in New Delhi. Which event did he compete in?",
+    "answer": "Men's High Jump T63",
+    "choices": [
+      "Men's High Jump T63",
+      "Men's Javelin Throw F64",
+      "Men's Long Jump T42",
+      "Men's Shot Put F37"
+    ],
+    "information": "Shailesh Kumar, hailing from Islam Nagar village in Jamui district, Bihar, clinched gold in the men’s high jump T63 event at the World Para Athletics Championships 2025",
+    "tags": ""
+  },
+  {
+    "qid": "Q00396",
+    "question": "Which of the following is the heaviest payload ever launched from Indian soil?",
+    "answer": "BlueBird Block-2",
+    "choices": [
+      "BlueBird Block-2",
+      "GSAT-11",
+      "GSAT-29",
+      "CMS-03 (GSAT-7R)"
+    ],
+    "information": "BlueBird Block-2 (~6,100 kg) launched by LVM3 is the heaviest payload launched from Indian soil, it was built by USA.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00397",
+    "question": "Which of the following commands acted as the lead service during Exercise Trishul 2025?",
+    "answer": "Indian Navy",
+    "choices": [
+      "Indian Navy",
+      "Indian Air Force",
+      "Indian Army",
+      "Integrated Defence Staff"
+    ],
+    "information": "The Indian Navy (Western Naval Command) acted as the lead service, with the Army (Southern Command) and Air Force (South Western Air Command) as principal participants.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00398",
+    "question": "One of the key objectives of Exercise Trishul 2025 was to:",
+    "answer": "Enhance inter-service coordination and joint operational readiness",
+    "choices": [
+      "Enhance inter-service coordination and joint operational readiness",
+      "Test nuclear deterrence capability",
+      "Validate joint command theatre structure",
+      "Conduct peace-keeping training under UN mandate"
+    ],
+    "information": "Tri-Services Exercise (TSE-2025) “Trishul” is a major joint military drill conducted by the Indian Armed Forces involving the Indian Army, Navy, and Air Force. It is part of India’s series of large-scale tri-service exercises designed to enhance inter-service coordination, joint operational readiness, and multi-domain combat capability across land, sea, and air.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00399",
+    "question": "The 2025 ICC Women’s Cricket World Cup was co-hosted by which two countries?",
+    "answer": "India & Sri Lanka",
+    "choices": [
+      "India & Sri Lanka",
+      "India & Bangladesh",
+      "India & Pakistan",
+      "Sri Lanka & Bangladesh"
+    ],
+    "information": "The 2025 ICC Women’s Cricket World Cup was hosted primarily in India, with neutral venue matches for Pakistan held in Sri Lanka.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00400",
+    "question": "The final of the 2025 Women's Cricket World Cup was held at which stadium?",
+    "answer": "DY Patil Stadium, Navi Mumbai",
+    "choices": [
+      "DY Patil Stadium, Navi Mumbai",
+      "M. Chinnaswamy Stadium, Bengaluru",
+      "R. Premadasa Stadium, Colombo",
+      "Narendra Modi Stadium, Ahmedabad"
+    ],
+    "information": "The DY Patil Stadium hosted the historic final on November 2, 2025.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00401",
+    "question": "India won the 2025 ICC Women’s Cricket World Cup by defeating which team in the final?",
+    "answer": "South Africa",
+    "choices": [
+      "South Africa",
+      "Australia",
+      "England",
+      "New Zealand"
+    ],
+    "information": "India defeated South Africa by 52 runs in the final to claim their first-ever title.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00402",
+    "question": "Who was the captain of the Indian Women Cricket team during the 2025 ICC Women World Cup triumph?",
+    "answer": "Harmanpreet Kaur",
+    "choices": [
+      "Harmanpreet Kaur",
+      "Smriti Mandhana",
+      "Deepti Sharma",
+      "Shafali Verma"
+    ],
+    "information": "Harmanpreet Kaur led the side to their maiden World Cup victory in 2025.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00403",
+    "question": "Who was named the 'Player of the Tournament' (Player of the Series) for the 2025 Women's World Cup?",
+    "answer": "Deepti Sharma",
+    "choices": [
+      "Deepti Sharma",
+      "Smriti Mandhana",
+      "Harmanpreet Kaur",
+      "Shafali Verma"
+    ],
+    "information": "Deepti Sharma was awarded Player of the Series for her all-round brilliance, including 22 wickets and crucial runs.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00404",
+    "question": "The LVM3 launch vehicle used for CMS-03 is nicknamed",
+    "answer": "Bahubali",
+    "choices": [
+      "Bahubali",
+      "Agni Putra",
+      "Aryabhata",
+      "Vikram-Lift"
+    ],
+    "information": "LVM3 (India's Bahubali): Its maximum capacity to a Geosynchronous Transfer Orbit (GTO) is around 4 tons.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00405",
+    "question": "According to the \"World Cooperative Monitor 2025\" report published by the International Cooperative Alliance (ICA), which Indian cooperative has been ranked 1st in the world based on the ratio of turnover to GDP per capita?",
+    "answer": "Amul (GCMMF)",
+    "choices": [
+      "Amul (GCMMF)",
+      "IFFCO",
+      "KRIBHCO",
+      "Mother Dairy"
+    ],
+    "information": "While Amul (Gujarat Cooperative Milk Marketing Federation) ranked 1st, another Indian giant, IFFCO (Indian Farmers Fertiliser Cooperative), secured the 2nd position in the same category (Turnover over GDP per capita).",
+    "tags": ""
+  },
+  {
+    "qid": "Q00406",
+    "question": "The year 2025 marks 150 years of the National Song ‘Vande Mataram’ because it was first written in:",
+    "answer": "1875",
+    "choices": [
+      "1875",
+      "1857",
+      "1882",
+      "1905"
+    ],
+    "information": "Vande Mataram was composed and published in Bengali journal Bangadarshan on November 7, 1875 by Bankim Chandra Chattopadhyay, making 2025 its 150th anniversary.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00407",
+    "question": "Project Suncatcher, announced by Google, primarily aims to:",
+    "answer": "Establish solar-powered AI compute satellites in space",
+    "choices": [
+      "Establish solar-powered AI compute satellites in space",
+      "Build quantum computers on the Moon",
+      "Develop AI data centers powered by nuclear energy",
+      "Launch solar panels to send energy back to Earth"
+    ],
+    "information": "The project envisions a constellation of solar-powered satellites with AI chips processing compute workloads in space.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00408",
+    "question": "The 30th Conference of Parties (COP30) to the UNFCCC was held in",
+    "answer": "Belem, Brazil",
+    "choices": [
+      "Belem, Brazil",
+      "New York, USA",
+      "Paris, France",
+      "Nairobi, Kenya"
+    ],
+    "information": "COP30 took place in Belém, Brazil from 10 to 21 November 2025.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00409",
+    "question": "India's first MWh-scale Vanadium Redox Flow Battery (VRFB) was recently inaugurated at which NTPC facility?",
+    "answer": "NTPC NETRA (Greater Noida)",
+    "choices": [
+      "NTPC NETRA (Greater Noida)",
+      "NTPC Barh (Bihar)",
+      "NTPC Ramagundam",
+      "NTPC Kawas"
+    ],
+    "information": "NTPC NETRA serves as the R&D wing where this first utility-scale flow battery project was deployed in 2025",
+    "tags": ""
+  },
+  {
+    "qid": "Q00410",
+    "question": "Who is the winner of the 2025 Booker Prize for Fiction?",
+    "answer": "David Szalay",
+    "choices": [
+      "David Szalay",
+      "Samantha Harvey",
+      "Kiran Desai",
+      "Paul Lynch"
+    ],
+    "information": "David Szalay Explanation: Hungarian-British author David Szalay won the 2025 Booker Prize for his sixth novel, \"Flesh\". He became the first author of Hungarian heritage to win the award.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00411",
+    "question": "Who scripted history by winning the International Booker Prize 2025 for the book \"Heart Lamp\"?",
+    "answer": "Banu Mushtaq and Deepa Bhasthi",
+    "choices": [
+      "Banu Mushtaq and Deepa Bhasthi",
+      "Perumal Murugan and Aniruddhan Vasudevan",
+      "Geetanjali Shree and Daisy Rockwell",
+      "Kiran Desai and Arundhati Roy"
+    ],
+    "information": "The International Booker Prize is shared between the author and the translator. Banu Mushtaq (Author) and Deepa Bhasthi (Translator) won for Heart Lamp, a collection of short stories originally written in Kannada.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00412",
+    "question": "Birsa-101, recently in news, is related to the treatment of which disease?",
+    "answer": "Sickle Cell Disease",
+    "choices": [
+      "Sickle Cell Disease",
+      "Thalassemia",
+      "Hemophilia",
+      "Tuberculosis"
+    ],
+    "information": "Birsa-101 is India’s first indigenous gene therapy developed for Sickle Cell Disease (SCD).",
+    "tags": ""
+  },
+  {
+    "qid": "Q00413",
+    "question": "Which of the following Indian initiatives aligns with the objective of Birsa-101?",
+    "answer": "National Sickle Cell Anemia Elimination Mission",
+    "choices": [
+      "National Sickle Cell Anemia Elimination Mission",
+      "National Tuberculosis Elimination Programme",
+      "Ayushman Bharat Digital Mission",
+      "POSHAN Abhiyaan"
+    ],
+    "information": "Sickel Cell Disese is a hereditary genetic disorder caused by mutation in the beta-globin gene. India aims to eliminate Sickle Cell Anemia by 2047, and Birsa-101 supports this goal. SCD is endemic among tribal communities in central and eastern India. India aims to eliminate Sickle Cell Anemia by 2047, and Birsa-101 supports this goal.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00414",
+    "question": "Where was the 17th BRICS Leaders’ Summit held in 2025?",
+    "answer": "Rio de Janeiro, Brazil",
+    "choices": [
+      "Rio de Janeiro, Brazil",
+      "New Delhi, India",
+      "Moscow, Russia",
+      "Johannesbug, South Africa"
+    ],
+    "information": "The 17th BRICS Leaders’ Summit took place in Rio de Janeiro, Brazil.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00415",
+    "question": "What was the theme of the 2025 BRICS Summit?",
+    "answer": "Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance",
+    "choices": [
+      "Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance",
+      "Global Peace and Security",
+      "Digital Economy and Innovation",
+      "BRICS for Climate Action"
+    ],
+    "information": "The Rio Declaration of the summit was under the theme: “Strengthening Global South Cooperation for a More Inclusive and Sustainable Governance.”",
+    "tags": ""
+  },
+  {
+    "qid": "Q00416",
+    "question": "Which country is set to host the BRICS Summit in 2026?",
+    "answer": "India",
+    "choices": [
+      "India",
+      "Russia",
+      "China",
+      "South Africa"
+    ],
+    "information": "At the conclusion of the 2025 BRICS Summit in Brazil, leaders confirmed India will take the BRICS Chairship in 2026 and host the 18th BRICS Summit.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00417",
+    "question": "Where was the G20 Leaders’ Summit in 2025 held?",
+    "answer": "Johannesburg, South Africa",
+    "choices": [
+      "Johannesburg, South Africa",
+      "Cape Town, South Africa",
+      "Pretoria, South Africa",
+      "Durban, South Africa"
+    ],
+    "information": "The 2025 G20 Summit was held in Johannesburg, South Africa",
+    "tags": ""
+  },
+  {
+    "qid": "Q00418",
+    "question": "What was the theme of the 2025 G20 Summit?",
+    "answer": "Solidarity, Equality, Sustainability",
+    "choices": [
+      "Solidarity, Equality, Sustainability",
+      "Sustainable Development, Equality, and Solidarity",
+      "One Earth, One Future",
+      "Global Cooperation for Prosperity"
+    ],
+    "information": "The theme adopted by South Africa for its G20 presidency in 2025 is “Solidarity, Equality, Sustainability.”",
+    "tags": ""
+  },
+  {
+    "qid": "Q00419",
+    "question": "Which of the following countries are part of the G20 Troika for 2025-2026?",
+    "answer": "Brazil, South Africa, United States",
+    "choices": [
+      "Brazil, South Africa, United States",
+      "India, Brazil, South Africa",
+      "South Africa, China, Italy",
+      "Brazil, India, Indonesia"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q00420",
+    "question": "What is the official theme (or tagline) for IFFI Goa 2025 according to its organizers?",
+    "answer": "Convergence of Creativity & Technology",
+    "choices": [
+      "Convergence of Creativity & Technology",
+      "Cinema for Peace",
+      "World Cinema, One India",
+      "Digital Dreams"
+    ],
+    "information": "IFFI 2025 is being celebrated under the theme “Convergence of Creativity & Technology.”",
+    "tags": ""
+  },
+  {
+    "qid": "Q00421",
+    "question": "Who among the following is being honoured at the closing ceremony of IFFI 2025?",
+    "answer": "Rajinikanth",
+    "choices": [
+      "Rajinikanth",
+      "Amitabh Bachchan",
+      "Shah Rukh Khan",
+      "Aamir Khan"
+    ],
+    "information": "Rajinikanth is being felicitated at the closing ceremony in recognition of his 50 years in cinema.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00422",
+    "question": "Which of the following is not one of the four Labour Codes implemented by the Government?",
+    "answer": "Minimum Working Hours Code, 2020",
+    "choices": [
+      "Minimum Working Hours Code, 2020",
+      "Occupational Safety, Health and Working Conditions Code, 2020",
+      "Code on Wages, 2019",
+      "Industrial Relations Code, 2020"
+    ],
+    "information": "The four codes are: Code on Wages, 2019; Industrial Relations Code, 2020; Social Security Code, 2020 and Occupational Safety, Health and Working Condition Code, 2020",
+    "tags": ""
+  },
+  {
+    "qid": "Q00423",
+    "question": "Under the OSHWC Code, the maximum weekly working hour limit is:",
+    "answer": "48 hours",
+    "choices": [
+      "48 hours",
+      "45 hours",
+      "42 hours",
+      "40 hours"
+    ],
+    "information": "The OSHWC Code fixes 48 hours per week irrespective of daily flexibility (8–12 hours)",
+    "tags": ""
+  },
+  {
+    "qid": "Q00424",
+    "question": "Under the Social Security Code, 2020, fixed-term employees become eligible for gratuity after:",
+    "answer": "1 year",
+    "choices": [
+      "1 year",
+      "5 years",
+      "3 years",
+      "2 years"
+    ],
+    "information": "For the first time, fixed-term workers are eligible for gratuity after one year of service",
+    "tags": ""
+  },
+  {
+    "qid": "Q00425",
+    "question": "Under the new wage definition, Basic Pay + DA must constitute at least what percentage of total wages?",
+    "answer": "50 percent",
+    "choices": [
+      "50 percent",
+      "40 percent",
+      "30 percent",
+      "60 percent"
+    ],
+    "information": "The Code on Wages standardises wages: Basic + DA must be ≥50% of total wages, affecting PF and gratuity calculations.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00426",
+    "question": "The Social Security Code, 2020 is the first labour law in India to formally recognise which category of workers?",
+    "answer": "Gig and platform workers",
+    "choices": [
+      "Gig and platform workers",
+      "Contract workers",
+      "Industrial apprentices",
+      "Seasonal workers"
+    ],
+    "information": "For the first time, gig and platform workers (e.g., Swiggy, Ola, freelancers) are legally covered under social security schemes.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00427",
+    "question": "Which of the following is the first labour code passed by Parliament among the four?",
+    "answer": "Code on Wages",
+    "choices": [
+      "Code on Wages",
+      "Industrial Relations Code",
+      "Social Security Code",
+      "Occupational Safety, Health and Working Condition Code"
+    ],
+    "information": "The Code on Wages, 2019 was enacted one year before the other three codes (passed in 2020)",
+    "tags": ""
+  },
+  {
+    "qid": "Q00428",
+    "question": "The four Labour Codes implemented in November 2025 consolidate how many earlier Central labour laws?",
+    "answer": "29",
+    "choices": [
+      "29",
+      "24",
+      "17",
+      "12"
+    ],
+    "information": "The four codes consolidate 29 existing Central labour laws to simplify India’s labour regulation system.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00429",
+    "question": "Which city has been selected to host the 2030 Commonwealth Games?",
+    "answer": "Ahmedabad",
+    "choices": [
+      "Ahmedabad",
+      "New Delhi",
+      "Bengaluru",
+      "Mumbai"
+    ],
+    "information": "In November 2025, the General Assembly of Commonwealth Sport ratified the bid of Ahmedabad (Amdavad), Gujarat, as the host city for the 2030 Commonwealth Games.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00430",
+    "question": "The Hayli Gubbi volcano that erupted in November 2025 is located in which region of Ethiopia?",
+    "answer": "Afar Region",
+    "choices": [
+      "Afar Region",
+      "Somali Region",
+      "Oromia Region",
+      "Trigray Region"
+    ],
+    "information": "Hayli Gubbi is situated in the Afar Region of Ethiopia. This area is a \"Triple Junction\" where the Arabian, Nubian, and Somali plates are diverging (pulling apart).",
+    "tags": ""
+  },
+  {
+    "qid": "Q00431",
+    "question": "The 2025 eruption of Hayli Gubbi was significant because it was the first known eruption in how many years (approximately)?",
+    "answer": "10,000–12,000 years",
+    "choices": [
+      "10,000–12,000 years",
+      "1,000 years",
+      "5,000 years",
+      "500 years"
+    ],
+    "information": "Geological/volcanological sources indicate that Hayli Gubbi had no recorded eruptions during the Holocene epoch — the 2025 event is the first documented activity after about 10,000–12,000 years of dormancy.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00432",
+    "question": "The Hayli Gubbi volcano, which recently erupted after nearly 12,000 years, is located in which tectonic region?",
+    "answer": "The East African Rift System (EARS)",
+    "choices": [
+      "The East African Rift System (EARS)",
+      "Himalayan Orogenic Belt",
+      "Mid-Atlantic Ridge",
+      "Pacific Ring of Fire"
+    ],
+    "information": "Hayli Gubbi lies within the Rift Valley — part of the East African Rift System. This rift zone arises due to tectonic plates diverging, making it geologically active and home to many volcanoes.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00433",
+    "question": "The 2026 Commonwealth Games are scheduled to be hosted in which of the following cities/countries?",
+    "answer": "Glasgow, Scotland",
+    "choices": [
+      "Glasgow, Scotland",
+      "Victoria, Australia",
+      "Ahmedabad, India",
+      "Abuja, Nigeria"
+    ],
+    "information": "The 2026 Commonwealth Games (XXIII Games) will be held in Glasgow, Scotland from 23 July to 2 August 2026.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00434",
+    "question": "Where will the 2030 Commonwealth (100th edition) Games be held?",
+    "answer": "Ahmedabad (Amdavad), India",
+    "choices": [
+      "Ahmedabad (Amdavad), India",
+      "Delhi, India",
+      "Victoria, Australia",
+      "Glasgow, Scotland"
+    ],
+    "information": "The 2030 Commonwealth Games — the centenary edition — will be hosted by Ahmedabad (Amdavad), India.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00435",
+    "question": "The 2nd WHO Global Summit on Traditional Medicine was held in December 2025 at which of the following venues?",
+    "answer": "Bharat Mandapam, New Delhi",
+    "choices": [
+      "Bharat Mandapam, New Delhi",
+      "Sardar Patel Complex, Jamnagar",
+      "WHO Headquarters, Geneva",
+      "Mahatma Mandir, Gandhinagar"
+    ],
+    "information": "India hosted the second edition of this high-level global summit in its capital city at the iconic Bharat Mandapam.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00436",
+    "question": "What was the official theme of the 2nd WHO Global Summit on Traditional Medicine held in 2025?",
+    "answer": "Restoring Balance: The Science and Practice of Health and Well-being",
+    "choices": [
+      "Restoring Balance: The Science and Practice of Health and Well-being",
+      "Ayurveda for Global Wellness",
+      "One Earth, One Health",
+      "Towards Health and Well-being for All"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q00437",
+    "question": "The Nuclear Energy Transformation Bill seeks to amend which of the following principal Acts to allow private sector participation in the nuclear power sector?",
+    "answer": "Atomic Energy Act, 1962",
+    "choices": [
+      "Atomic Energy Act, 1962",
+      "Electricity Act, 2003",
+      "Environment Protection Act, 1986",
+      "Energy Conservation Act, 2001"
+    ],
+    "information": "The 1962 Act currently restricts nuclear energy production largely to the government. This amendment is the primary focus of the new Bill.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00438",
+    "question": "What is the strategic objective of the Nuclear Energy Transformation Bill in alignment with India's 'Net Zero' target?",
+    "answer": "Achieving 100 GW of nuclear power capacity by 2047",
+    "choices": [
+      "Achieving 100 GW of nuclear power capacity by 2047",
+      "Replacing all Solar and Wind energy with Nuclear by 2030",
+      "Importing 100% of energy needs from Russia and France",
+      "Closing all existing nuclear plants for modernization"
+    ],
+    "information": "The Bill provides the legal framework to scale up from the current ~7 GW to much higher targets required for 2047.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00439",
+    "question": "Which country is serving as the Chair of the Kimberley Process (KP) for the year 2026?",
+    "answer": "India",
+    "choices": [
+      "India",
+      "United Arab Emirates (UAE)",
+      "South Africa",
+      "Botswana"
+    ],
+    "information": "India assumed the role on January 1, 2026. This is the third time India has chaired the KP (previously in 2008 and 2019). The UAE served as the \"Custodian Chair\" in 2025.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00440",
+    "question": "Who has been appointed as the Vice-Chair of the Kimberley Process for 2026, set to succeed as Chair in 2027?",
+    "answer": "Ghana",
+    "choices": [
+      "Ghana",
+      "Russia",
+      "Thailand",
+      "Zimbabwe"
+    ],
+    "information": "In the Kimberley Process, the Vice-Chair of the current year typically becomes the Chair the following year. Ghana’s appointment ensures an African producing nation takes the lead in 2027.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00441",
+    "question": "The 'Bharat Taxi' app, officially launched in January 2026, is an initiative of which Union Ministry?",
+    "answer": "Ministry of Cooperation",
+    "choices": [
+      "Ministry of Cooperation",
+      "Ministry of Road Transport and Highways",
+      "Ministry of Electronics and Information Technology (MeitY)",
+      "Ministry of Housing and Urban Affairs"
+    ],
+    "information": "Developed in collaboration with the National e-Governance Division (NeGD), it is aimed at freeing drivers from high commissions charged by private firms.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00442",
+    "question": "Who were the Chief Guests at India's 77th Republic Day celebrations in 2026?",
+    "answer": "Antonio Costa (President of European Council) & Ursula von der Leyen (President of European Commission)",
+    "choices": [
+      "Antonio Costa (President of European Council) & Ursula von der Leyen (President of European Commission)",
+      "Emmanuel Macron (France)",
+      "Prabowo Subianto (Indonesia)",
+      "Abdel Fattah el-Sisi (Egypt)"
+    ],
+    "information": "77th Republic Day in year 2026 featured a rare \"dual guest\" presence from the European Union, highlighting the India-EU strategic partnership.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00443",
+    "question": "What was the central theme for the 2026 Republic Day Parade at Kartavya Path?",
+    "answer": "150 Years of Vande Mataram",
+    "choices": [
+      "150 Years of Vande Mataram",
+      "Nari Shakti",
+      "Viksit Bharat & Bharat: Loktantra ki Matruka",
+      "Atmanirbhar Bharat"
+    ],
+    "information": "This year 77th Republic Day them  commemorates 150 years since Bankim Chandra Chattopadhyay penned the national song in 1875.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00444",
+    "question": "How many personalities from Bihar have been conferred with the Padma Shri Award 2026?",
+    "answer": "Three",
+    "choices": [
+      "Three",
+      "Four",
+      "Two",
+      "One"
+    ],
+    "information": "There are total three Padma Shri awardee from Bihar - Bishwa Bandhu, Bharat Singh Bharati, Gopal Ji Trivedi",
+    "tags": ""
+  },
+  {
+    "qid": "Q00445",
+    "question": "Which indigenous weapon system made its debut at the 77th Republic Day Parade?",
+    "answer": "Suryastra (Universal Rocket Launcher System)",
+    "choices": [
+      "Suryastra (Universal Rocket Launcher System)",
+      "BrahMos Missile",
+      "Arjun Tank",
+      "Prithvi-II"
+    ],
+    "information": "Suryastra Rocket Launcher System is India’s first Universal Multi-Calibre rocket launcher. It can fire different calibres (122mm, 160mm, and 306mm) and even loitering munitions (suicide drones) from the same vehicle.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00446",
+    "question": "Which newly raised unit participated for the first time in the Republic Day parade?",
+    "answer": "Bhairav Light Commando Battalion",
+    "choices": [
+      "Bhairav Light Commando Battalion",
+      "Garud Commandos",
+      "Cobra Battalion",
+      "PARA SF"
+    ],
+    "information": "Bhairav Light Commando Battalion is a \"bridge\" in the Indian Army's structure. To fill the operational gap between conventional infantry and the Para Special Forces.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00447",
+    "question": "Bihar’s Bishwa Bandhu, who was posthumously awarded the Padma Shri 2026, was a legendary exponent of which folk form?",
+    "answer": "Domkach Folk Dance",
+    "choices": [
+      "Domkach Folk Dance",
+      "Madhubani Painting",
+      "Bidesiya Theater",
+      "Jat-Jatin Folk Dance"
+    ],
+    "information": "Bishwa Bandhu, born in Shahpur, Danapur is credited with bringing the Domkach dance (traditionally a wedding ritual performed by women in Magadh and Mithila) from village courtyards to national and international stages.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00448",
+    "question": "Antimicrobial Resistance (AMR) refers to",
+    "answer": "Ability of microorganisms to survive exposure to antimicrobials",
+    "choices": [
+      "Ability of microorganisms to survive exposure to antimicrobials",
+      "Increased immunity of humans against microbes",
+      "Overproduction of antibiotics by bacteria",
+      "Allergic reaction to antibiotics"
+    ],
+    "information": "AMR occurs when bacteria, viruses, fungi, or parasites evolve mechanisms to resist antimicrobial drugs, making treatments ineffective.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00449",
+    "question": "Which of the following is the primary cause of Antimicrobial Resistance?",
+    "answer": "Excessive and irrational use of antimicrobials",
+    "choices": [
+      "Excessive and irrational use of antimicrobials",
+      "Mutation in human genes",
+      "Climate change",
+      "Poor nutrition"
+    ],
+    "information": "Overuse and misuse of antibiotics in humans, animals, and agriculture accelerates the development of drug-resistant microbes.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00450",
+    "question": "In January 2026, which Indian state became the first in the country to introduce a system allowing the registration of First Information Reports (FIRs) at the victim’s residence or a place of their choice for specific sensitive crimes?",
+    "answer": "Telangana",
+    "choices": [
+      "Telangana",
+      "Maharashtra",
+      "Bihar",
+      "Uttar Pradesh"
+    ],
+    "information": "Telangana became the first state in India to officially allow the registration of FIRs at a victim's home or a place of their choice for specific sensitive crime categories.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00451",
+    "question": "Wings India 2026 was held at which location?",
+    "answer": "Begumpet Airport, Hyderabad",
+    "choices": [
+      "Begumpet Airport, Hyderabad",
+      "Jaipur International Airport",
+      "Chandigarh Airport",
+      "Netaji Subhas Chandra Bose Airport, Kolkata"
+    ],
+    "information": "Wings India 2026 — Asia’s largest civil aviation exhibition — took place from 28–31 January 2026 at Begumpet Airport, Hyderabad. It brings together global aviation stakeholders.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00452",
+    "question": "Which Indian aerospace company showcased the SJ-100 regional jet at Wings India 2026?",
+    "answer": "Hindustan Aeronautics Limited (HAL)",
+    "choices": [
+      "Hindustan Aeronautics Limited (HAL)",
+      "Tata Advanced Systems",
+      "Reliance Aerospace",
+      "Bharat Dynamics Limited"
+    ],
+    "information": "HAL debuted its civil aircraft portfolio, including the SJ-100 and H-228, highlighting a push into the civil aviation manufacturing sector.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00453",
+    "question": "At Wings India 2026, which state was honoured as the Best State for Promotion of Aviation Ecosystem?",
+    "answer": "Uttrakhand",
+    "choices": [
+      "Uttrakhand",
+      "Maharashtra",
+      "Karnataka",
+      "Goa"
+    ],
+    "information": "Uttarakhand was recognised for its effective aviation policy and efforts to strengthen connectivity and infrastructure.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00454",
+    "question": "Which of the following best explains why Nipah virus is classified by WHO as a priority pathogen?",
+    "answer": "It has high fatality rate and no licensed vaccine",
+    "choices": [
+      "It has high fatality rate and no licensed vaccine",
+      "It has a long incubation period",
+      "It spreads through air easily",
+      "It affects only tropical countries"
+    ],
+    "information": "Nipah virus is a zoonotic virus (animal to human transmission) that causes severe respiratory illness and fatal encephalitis in humans. It is listed by WHO as a priority pathogen due to its high fatality rate and epidemic potential.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00455",
+    "question": "Who won the men’s singles title at the 2026 Australian Open?",
+    "answer": "Carlos Alcaraz",
+    "choices": [
+      "Carlos Alcaraz",
+      "Daniil Medvedev",
+      "Jannik Sinner",
+      "Novak Djokovic"
+    ],
+    "information": "Alcaraz defeated Djokovic in the final to win his first Australian Open title and complete the Career Grand Slam.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00456",
+    "question": "Which record did Carlos Alcaraz achieve by winning the 2026 Australian Open?",
+    "answer": "Youngest man in history to complete Career Grand Slam",
+    "choices": [
+      "Youngest man in history to complete Career Grand Slam",
+      "Most Grand Slam titles overall",
+      "First Spanish Australian Open Champion ever",
+      "Only player to beat Djokovic in a final"
+    ],
+    "information": "At 22, he became the youngest man to complete the four majors in tennis history.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00457",
+    "question": "Who won the women’s singles title at the 2026 Australian Open?",
+    "answer": "Elena Rybakina",
+    "choices": [
+      "Elena Rybakina",
+      "Aryna Sabalenka",
+      "Iga Świątek",
+      "Coco Gauff"
+    ],
+    "information": "Rybakina defeated Sabalenka in a three-set final.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00458",
+    "question": "Which spiritual leader won his first Grammy in 2026?",
+    "answer": "Dalai Lama",
+    "choices": [
+      "Dalai Lama",
+      "Pope Francis",
+      "Desmond Tutu",
+      "Trevor Noah"
+    ],
+    "information": "The Dalai Lama received his first Grammy in the Spoken Word category for Meditations: The Reflections of His Holiness the Dalai Lama.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00459",
+    "question": "Who won Album of the Year at the 2026 Grammy Awards?",
+    "answer": "Bad Bunny",
+    "choices": [
+      "Bad Bunny",
+      "Olivia Dean",
+      "Lady Gaga",
+      "Billie Eilish"
+    ],
+    "information": "Bad Bunny won Album of the Year for Debí Tirar Más Fotos, making history as the first fully Spanish-language album to win the top Grammy.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00460",
+    "question": "Which artist won Song of the Year at the 2026 Grammys?",
+    "answer": "Billie Eilish",
+    "choices": [
+      "Billie Eilish",
+      "Sabrina Carpenter",
+      "Doechii",
+      "Justin Bieber"
+    ],
+    "information": "Billie Eilish won for “Wildflower.”",
+    "tags": ""
+  },
+  {
+    "qid": "Q00461",
+    "question": "Which team won the Women’s Premier League (WPL) 2026 title?",
+    "answer": "Royal Challengers Bengaluru",
+    "choices": [
+      "Royal Challengers Bengaluru",
+      "Delhi Capitals",
+      "Gujarat Giants",
+      "Mumbai Indians"
+    ],
+    "information": "RCB Women clinched their second WPL title in the 2026 final by beating Delhi Capitals Women.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00462",
+    "question": "Who was the top run-scorer (Orange Cap winner) in WPL 2026?",
+    "answer": "Smriti Mandhana",
+    "choices": [
+      "Smriti Mandhana",
+      "Harmanpreet Kaur",
+      "Laura Wolvaardt",
+      "Jemiah Rodrigues"
+    ],
+    "information": "Smriti Mandhana of RCB scored 377 runs in the season and claimed the Orange Cap.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00463",
+    "question": "Which player took the Purple Cap (most wickets) in WPL 2026?",
+    "answer": "Sophie Devine",
+    "choices": [
+      "Sophie Devine",
+      "Nandani Sharma",
+      "Radha Yadav",
+      "Sophie Ecclestone"
+    ],
+    "information": "Sophie Devine of Gujarat Giants finished the season as the leading wicket-taker.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00464",
+    "question": "Against which team did India U19 win the ICC Under-19 Cricket World Cup 2026 final?",
+    "answer": "England",
+    "choices": [
+      "England",
+      "Pakistan",
+      "South Africa",
+      "Australia"
+    ],
+    "information": "India defeated England by 100 runs in the ICC U19 World Cup 2026 final to clinch the title.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00465",
+    "question": "The 2026 ICC Under-19 Men’s Cricket World Cup was hosted by",
+    "answer": "Zimbabwe and Namibia",
+    "choices": [
+      "Zimbabwe and Namibia",
+      "India",
+      "Australia",
+      "South Africa"
+    ],
+    "information": "The 16th edition of the U-19 World Cup was held in Zimbabwe and Namibia from 15 Jan to 6 Feb 2026.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00466",
+    "question": "Which player was named Player of the Series in the 2026 U-19 World Cup?",
+    "answer": "Vaibhav Sooryavanshi",
+    "choices": [
+      "Vaibhav Sooryavanshi",
+      "Ben Mayes",
+      "Manny Lumsden",
+      "Ayush Mhatre"
+    ],
+    "information": "Vaibhav Sooryavanshi was declared Player of the Series for his outstanding tournament performance.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00467",
+    "question": "The New START Treaty, signed between the United States and Russia, is primarily related to the control of which of the following?",
+    "answer": "Strategic nuclear weapons including ICBMs, SLBMs and heavy bombers",
+    "choices": [
+      "Strategic nuclear weapons including ICBMs, SLBMs and heavy bombers",
+      "Chemical and biological weapons",
+      "Tactical nuclear weapons deployed on the battlefield",
+      "Nuclear weapons of all categories including non-strategic weapons"
+    ],
+    "information": "New START places limits on strategic nuclear weapons such as Inter-Continental Ballistic Missiles (ICBMs), Submarine-Launched Ballistic Missiles (SLBMs) and heavy bombers.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00468",
+    "question": "The New START Treaty, which aims at limiting strategic nuclear arsenals, was signed in which year by the United States and Russia?",
+    "answer": "2010",
+    "choices": [
+      "2010",
+      "2009",
+      "2005",
+      "2011"
+    ],
+    "information": "The New START Treaty was signed in 2010 by US President Barack Obama and Russian President Dmitry Medvedev; it entered into force in 2011.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00469",
+    "question": "Which of the following is NOT identified as a primary scientific identifier in the new DVI guidelines?",
+    "answer": "Tattoos",
+    "choices": [
+      "Tattoos",
+      "Fingerprints",
+      "Dental Records",
+      "DNA Profiling"
+    ],
+    "information": "Tattoos are considered secondary identifiers, while fingerprints, dental records, and DNA are primary.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00470",
+    "question": "Seva Teerth replaced which historic administrative location of PMO?",
+    "answer": "South Block",
+    "choices": [
+      "South Block",
+      "North Block",
+      "Rashtrapati Bhavan",
+      "Parliament House"
+    ],
+    "information": "PMO shifted from South Block (colonial-era building) to Seva Teerth after decades.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00471",
+    "question": "Who served as the Chief Adviser of the interim government that oversaw the transition to the 2026 elections in Bangladesh?",
+    "answer": "Mohammad Yunus",
+    "choices": [
+      "Mohammad Yunus",
+      "Tarique Rahman",
+      "Sheikh Hasina",
+      "Khaleda Zia"
+    ],
+    "information": "Nobel laureate Professor Muhammad Yunus served as the Chief Adviser of the interim government in Bangladesh from August 8, 2024, until his resignation on February 16, 2026.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00472",
+    "question": "Who became the Prime Minister of Bangladesh after the 2026 elections?",
+    "answer": "Tarique Rahman",
+    "choices": [
+      "Tarique Rahman",
+      "Mohammad Yunus",
+      "Sheikh Hasina",
+      "Khaleda Zia"
+    ],
+    "information": "BNP leader Tarique Rahman became Prime Minister after the election victory and returned from long exile to lead the government.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00473",
+    "question": "Which party won the 2026 Bangladesh general elections?",
+    "answer": "Bangladesh Nationalist Party (BNP)",
+    "choices": [
+      "Bangladesh Nationalist Party (BNP)",
+      "Awami League",
+      "National Citizen Party",
+      "Jamaat-e-Islami"
+    ],
+    "information": "The BNP achieved a landslide victory, securing a two-thirds majority and returning to power after about 20 years.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00474",
+    "question": "Which of the following was the official theme of the India-AI Impact Summit 2026 held in New Delhi?",
+    "answer": "Sarvajana Hitaya, Sarvajana Sukhaye",
+    "choices": [
+      "Sarvajana Hitaya, Sarvajana Sukhaye",
+      "Digital Transformation 2.0",
+      "AI for Global Good",
+      "Atmanirbhar Bharat in AI"
+    ],
+    "information": "The official theme of the India-AI Impact Summit 2026 was Sarvajana Hitaya, Sarvajana Sukhaya (which translates to \"Welfare for All, Happiness of All\").",
+    "tags": ""
+  },
+  {
+    "qid": "Q00475",
+    "question": "In the context of the India-AI Impact Summit, what does the acronym 'MANAV' stand for in the PM's vision for AI governance?",
+    "answer": "Moral, Accountable, National, Accessible, Valid",
+    "choices": [
+      "Moral, Accountable, National, Accessible, Valid",
+      "Modern, Advanced, National, Automated, Valid",
+      "Moral, Automated, Natural, Accessible, Virtual",
+      "Managed, Analytical, Networked, Agile, Versatile"
+    ],
+    "information": "In the context of the India-AI Impact Summit, the acronym MANAV in Prime Minister Narendra Modi's vision for AI governance stands for a human-centric framework: Moral and Ethical Systems, Accountable Governance, National Sovereignty, Accessible and Inclusive, and Valid and Legitimate.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00476",
+    "question": "What is the primary objective of India joining the 'Pax Silica' coalition as announced at the summit?",
+    "answer": "To secure and strengthen the semiconductor supply chain with the US and allies.",
+    "choices": [
+      "To secure and strengthen the semiconductor supply chain with the US and allies.",
+      "To promote the use of solar panels in Bihar",
+      "To build an underwater fiber optic cable to France",
+      "To regulate the price of silicon in the global market"
+    ],
+    "information": "A central goal is to reduce over-reliance on concentrated supply chains and prevent \"economic coercion\" by building a secure and resilient alternative to existing dominated markets, particularly those controlled by China.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00477",
+    "question": "Under the IndiaAI Mission, the 'GPU-on-Demand' service provides computing power to startups at which of the following subsidized rates?",
+    "answer": "₹65 per hour",
+    "choices": [
+      "₹65 per hour",
+      "₹650 per hour",
+      "₹10 per hour",
+      "Free of cost for all"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q00478",
+    "question": "Which of the following describes the 'IndiaAI Safety Institute' announced at the summit?",
+    "answer": "A regulatory body to test AI models for bias, security, and ethical risks.",
+    "choices": [
+      "A regulatory body to test AI models for bias, security, and ethical risks.",
+      "A manufacturing hub for indigenous AI chips.",
+      "A court for settling AI-related intellectual property disputes.",
+      "A military wing to defend against cyber attacks."
+    ],
+    "information": "The IndiaAI Safety Institute (AISI) is a national-level body established under the IndiaAI Mission to ensure the ethical, safe, and responsible deployment of artificial intelligence",
+    "tags": ""
+  },
+  {
+    "qid": "Q00479",
+    "question": "The 'BharatGen' initiative, discussed as a major outcome, aims to:",
+    "answer": "Create foundational Generative AI models tailored for Indian languages and culture",
+    "choices": [
+      "Create foundational Generative AI models tailored for Indian languages and culture",
+      "Provide free high-speed internet to every Gram Panchayat",
+      "Generate 1 million jobs in the AI sector by 2027",
+      "Develop 5G infrastructure in rural Bihar"
+    ],
+    "information": "The BharatGen initiative, a centerpiece of the IndiaAI Impact Summit 2026, is the world’s first government-funded, national-scale project dedicated to developing sovereign, multimodal foundational AI models specifically tailored for India.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00480",
+    "question": "The 'India AI Impact Summit 2026' was organized at which of the following venues?",
+    "answer": "Bharat Mandapam, New Delhi",
+    "choices": [
+      "Bharat Mandapam, New Delhi",
+      "Yashobhoomi, New Delhi",
+      "Gyan Bhawan, Patna",
+      "Science City, Ahmedabad"
+    ],
+    "information": "India AI Impact Summit was held in Bharat Mandapam, New Delhi",
+    "tags": ""
+  },
+  {
+    "qid": "Q00481",
+    "question": "How many nations endorsed the 'New Delhi Declaration on AI Impact' on February 19, 2026?",
+    "answer": "88 Nations",
+    "choices": [
+      "88 Nations",
+      "48 Nations",
+      "78 Nations",
+      "68 Nations"
+    ],
+    "information": "On February 19, 2026, the New Delhi Declaration on AI Impact, adopted at the conclusion of the India AI Impact Summit 2026, was initially endorsed by 88 countries and international organisations",
+    "tags": ""
+  },
+  {
+    "qid": "Q00482",
+    "question": "India joined which US-led initiative during the summit to secure semiconductor supply chains?",
+    "answer": "Pax Silica",
+    "choices": [
+      "Pax Silica",
+      "Silicon Shield",
+      "Indo-Pacific Chip Pact",
+      "Chip 4 Alliance"
+    ],
+    "information": "India formally joined the U.S. led Pax Silica initiative during the India AI Impact Summit on February 20, 2026, to secure semiconductor, artificial intelligence (AI), and critical mineral supply chains.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00483",
+    "question": "What was the total estimated investment commitment secured for AI infrastructure in India during the summit?",
+    "answer": "250 Billion Dollars",
+    "choices": [
+      "250 Billion Dollars",
+      "1 Trillion Dollars",
+      "500 Billion Dollars",
+      "100 Billion Dollars"
+    ],
+    "information": "The India AI Impact Summit 2026 secured over $250 billion in investment commitments for AI infrastructure, including data centers, computing capacity, and power systems.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00484",
+    "question": "NMP 2.0 aims to generate approximately how much revenue through asset monetisation?",
+    "answer": "₹16.7 lakh crore",
+    "choices": [
+      "₹16.7 lakh crore",
+      "₹10 lakh crore",
+      "₹6 lakh crore",
+      "₹25 lakh crore"
+    ],
+    "information": "NMP 2.0 targets about ₹16.7 lakh crore, which is 2.6 times the previous phase.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00485",
+    "question": "Which institution developed the National Monetisation Pipeline 2.0?",
+    "answer": "NITI Aayog",
+    "choices": [
+      "NITI Aayog",
+      "RBI",
+      "Finance Commission",
+      "SEBI"
+    ],
+    "information": "NITI Aayog prepared the roadmap for NMP 2.0 in consultation with ministries.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00486",
+    "question": "Which of the following sectors is expected to contribute the highest share under NMP 2.0?",
+    "answer": "Highways",
+    "choices": [
+      "Highways",
+      "Telecom",
+      "Railways",
+      "Aviation"
+    ],
+    "information": "Highways have the largest monetisation share (~₹4.42 lakh crore) planned in NMP 2.0",
+    "tags": ""
+  },
+  {
+    "qid": "Q00487",
+    "question": "Which body monitors the implementation of NMP 2.0?",
+    "answer": "CGAM",
+    "choices": [
+      "CGAM",
+      "GST Council",
+      "SEBI",
+      "RBI"
+    ],
+    "information": "Core Group of Secretaries on Asset Monetisation (CGAM) monitors progress of NMP 2.0",
+    "tags": ""
+  },
+  {
+    "qid": "Q00488",
+    "question": "Which of the following best describes the concept of “Asset Recycling” under NMP 2.0?",
+    "answer": "Leasing assets to private sector while retaining ownership",
+    "choices": [
+      "Leasing assets to private sector while retaining ownership",
+      "Selling public assets permanently",
+      "Nationalisation of private assets",
+      "Foreign investment in greenfield projects"
+    ],
+    "information": "Asset recycling means transferring operational rights to private players while ownership remains with the government.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00489",
+    "question": "PRAHAAR policy, recently seen in news, is related to:",
+    "answer": "Counter-terrorism strategy",
+    "choices": [
+      "Counter-terrorism strategy",
+      "Disaster management",
+      "Cyber Security",
+      "Border Infrastructure"
+    ],
+    "information": "PRAHAAR is India’s first comprehensive national counter-terrorism policy, integrating intelligence, policing, and international cooperation into a unified framework. It goes beyond just cyber security and covers all dimensions of terrorism including radicalisation, financing, and response mechanisms.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00490",
+    "question": "El Mencho was the leader of which organization?",
+    "answer": "Jalisco New Generation Cartel (CJNG)",
+    "choices": [
+      "Jalisco New Generation Cartel (CJNG)",
+      "Sinaloa Cartel",
+      "Gulf Cartel",
+      "Los Zetas"
+    ],
+    "information": "El Mencho (Nemesio Oseguera Cervantes) was the head of the Jalisco New Generation Cartel (CJNG), one of the most powerful and violent cartels in Mexico",
+    "tags": ""
+  },
+  {
+    "qid": "Q00491",
+    "question": "Cervavac is:",
+    "answer": "Indigenous HPV vaccine",
+    "choices": [
+      "Indigenous HPV vaccine",
+      "COVID-19 Vaccine",
+      "Polio Vaccine",
+      "Tuberculosis Vaccine"
+    ],
+    "information": "Cervavac is India’s indigenous HPV vaccine developed by Serum Institute of India.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00492",
+    "question": "The most appropriate age group for HPV vaccination is:",
+    "answer": "9-14 years",
+    "choices": [
+      "9-14 years",
+      "0-2 years",
+      "5-8 years",
+      "20-25 years"
+    ],
+    "information": "Vaccination before exposure to HPV (before sexual activity) provides maximum protection.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00493",
+    "question": "Which team won Ranji Trophy 2025–26?",
+    "answer": "Jammu & Kashmir",
+    "choices": [
+      "Jammu & Kashmir",
+      "Karnataka",
+      "Mumbai",
+      "Bengal"
+    ],
+    "information": "J&K won their first-ever Ranji Trophy title, defeating Karnataka.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00494",
+    "question": "Player of the Series in Ranji Trophy 2025–26 was:",
+    "answer": "Auqib Nabi",
+    "choices": [
+      "Auqib Nabi",
+      "Sarfaraz Khan",
+      "Mayank Agarwal",
+      "Shubman Gill"
+    ],
+    "information": "Auqib Nabi took 60 wickets, highest in season.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00495",
+    "question": "Ranji Trophy 2025–26 had how many teams?",
+    "answer": "38",
+    "choices": [
+      "38",
+      "28",
+      "32",
+      "40"
+    ],
+    "information": "In the Ranji Trophy 2025–26 season, a total of 38 teams participated.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00496",
+    "question": "Which digital platform is used to track HPV vaccination in India?",
+    "answer": "U-WIN",
+    "choices": [
+      "U-WIN",
+      "CoWIN",
+      "Aarogya Setu",
+      "Digilocker"
+    ],
+    "information": "HPV Vaccination tracking is done via U-WIN platform.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00497",
+    "question": "Cervical cancer in India is:",
+    "answer": "Second most common cancer among women",
+    "choices": [
+      "Second most common cancer among women",
+      "Most common cancer overall",
+      "Rare disease",
+      "Only affects elderly women"
+    ],
+    "information": "It is the second most common cancer among women in India.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00498",
+    "question": "Which vaccine is being used under India’s national HPV vaccination programme?",
+    "answer": "Gardasil-4",
+    "choices": [
+      "Gardasil-4",
+      "Covaxin",
+      "Cervavac",
+      "Rotavac"
+    ],
+    "information": "India is using Gardasil-4, a quadrivalent vaccine protecting against HPV types 6, 11, 16, and 18.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00499",
+    "question": "Project Cheetah in India was launched in which Indian state?",
+    "answer": "Madhya Pradesh",
+    "choices": [
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Rajasthan",
+      "Gujarat"
+    ],
+    "information": "Kuno National Park in Madhya Pradesh is the project’s primary site.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00500",
+    "question": "Lakkundi village, recently seen in news, is located in:",
+    "answer": "Karnataka",
+    "choices": [
+      "Karnataka",
+      "Maharashtra",
+      "Andhra Pradesh",
+      "Tamil Nadu"
+    ],
+    "information": "Lakkundi is in Gadag district of Karnataka and is known for Chalukyan heritage.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00501",
+    "question": "Which architectural style is prominently seen in Lakkundi temples?",
+    "answer": "Vesara",
+    "choices": [
+      "Vesara",
+      "Dravida",
+      "Nagara",
+      "Indo-Islamic"
+    ],
+    "information": "Chalukyan temples show a fusion (Vesara style) of Nagara and Dravida.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00502",
+    "question": "Lakkundi is geographically located near which major river basin region?",
+    "answer": "Tungabhadra Basin",
+    "choices": [
+      "Tungabhadra Basin",
+      "Ganga Basin",
+      "Godavari Basin",
+      "Brahmaputra Basin"
+    ],
+    "information": "The region lies in northern Karnataka near Tungabhadra river system, a Chalukyan core area.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00503",
+    "question": "Stepwells in Lakkundi are locally known as:",
+    "answer": "Kalyanis",
+    "choices": [
+      "Kalyanis",
+      "Baolis",
+      "Kunds",
+      "Vapis"
+    ],
+    "information": "South Indian temple tanks/stepwells are called Kalyanis.",
+    "tags": ""
+  }
 ]

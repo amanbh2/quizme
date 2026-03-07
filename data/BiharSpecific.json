@@ -1,3446 +1,3733 @@
 [
-    {
-        "sheet": "BiharSpecific",
-        "question": "Bihar State Formation Day",
-        "answer": "22nd March 1912",
-        "choices": [
-            "22nd March 1912",
-            "22nd March 1913",
-            "12nd March 1922",
-            "23rd March 1912"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "North most latitude of Bihar",
-        "answer": "27 deg 31 min 15 sec N",
-        "choices": [
-            "27 deg 31 min 15 sec N",
-            "24 deg 20 min 10 sec N",
-            "83 deg 19 min 50 sec N",
-            "88 deg 17 min 40 sec N"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "South most latitude of Bihar",
-        "answer": "24 deg 20 min 10 sec N",
-        "choices": [
-            "24 deg 20 min 10 sec N",
-            "27 deg 31 min 15 sec N",
-            "83 deg 19 min 50 sec N",
-            "88 deg 17 min 40 sec N"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "East most longitude of Bihar",
-        "answer": "88 deg 17 min 40 sec E",
-        "choices": [
-            "88 deg 17 min 40 sec E",
-            "27 deg 31 min 15 sec E",
-            "83 deg 19 min 50 sec E",
-            "24 deg 20 min 10 sec E"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "West most longitude of Bihar",
-        "answer": "83 deg 19 min 50 sec E",
-        "choices": [
-            "83 deg 19 min 50 sec E",
-            "27 deg 31 min 15 sec E",
-            "88 deg 17 min 40 sec E",
-            "24 deg 20 min 10 sec E"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "North-South extent of Bihar",
-        "answer": "345 km",
-        "choices": [
-            "345 km",
-            "453 km",
-            "435 km",
-            "543 km"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "East-West extent of Bihar",
-        "answer": "483 km",
-        "choices": [
-            "483 km",
-            "834 km",
-            "384 km",
-            "438 km"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Total area of Bihar",
-        "answer": "94,163 sq km",
-        "choices": [
-            "94,163 sq km",
-            "91,463 sq km",
-            "96,143 sq km",
-            "93,164 sq km"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Area of Bihar compared to area of India",
-        "answer": "2.86 percent",
-        "choices": [
-            "2.86 percent",
-            "3.28 percent",
-            "8.32 percent",
-            "2.38 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Height of Bihar above mean sea-level in feet",
-        "answer": "173 ft",
-        "choices": [
-            "173 ft",
-            "371 ft",
-            "137 ft",
-            "317 ft"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Height of Bihar above mean sea-level in meters",
-        "answer": "53 m",
-        "choices": [
-            "53 m",
-            "52 m",
-            "51 m",
-            "50 m"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Total number of Divisions in Bihar",
-        "answer": 9,
-        "choices": [
-            9,
-            8,
-            10,
-            7
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Total number of Districts in Bihar",
-        "answer": 38,
-        "choices": [
-            38,
-            39,
-            37,
-            36
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Total number of Sub-Divisions in Bihar",
-        "answer": 101,
-        "choices": [
-            101,
-            100,
-            102,
-            103
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Total number of Blocks in Bihar",
-        "answer": 534,
-        "choices": [
-            534,
-            535,
-            533,
-            532
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Total number of Panchayat in Bihar",
-        "answer": 8406,
-        "choices": [
-            8406,
-            8405,
-            8407,
-            8403
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "How many district of Bihar shares international boundary with Nepal",
-        "answer": 7,
-        "choices": [
-            7,
-            8,
-            3,
-            6
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Northern-most district of Bihar",
-        "answer": "West Champaran",
-        "choices": [
-            "West Champaran",
-            "Gaya",
-            "Kishanganj",
-            "Kaimur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Southern-most district of Bihar",
-        "answer": "Gaya",
-        "choices": [
-            "Gaya",
-            "West Champaran",
-            "Kishanganj",
-            "Kaimur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Eastern-most district of Bihar",
-        "answer": "Kishanganj",
-        "choices": [
-            "Kishanganj",
-            "West Champaran",
-            "Gaya",
-            "Kaimur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Western-most district of Bihar",
-        "answer": "Kaimur",
-        "choices": [
-            "Kaimur",
-            "West Champaran",
-            "Gaya",
-            "Kishanganj"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Area wise largest district of Bihar",
-        "answer": "West Champaran",
-        "choices": [
-            "West Champaran",
-            "Gaya",
-            "Kaimur",
-            "Rohtas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Area wise smallest district of Bihar",
-        "answer": "Sheohar",
-        "choices": [
-            "Sheohar",
-            "Sheikhpura",
-            "Arwal",
-            "Jehanabad"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "District with highest rainfall in Bihar",
-        "answer": "Kishanganj",
-        "choices": [
-            "Kishanganj",
-            "Kaimur",
-            "Araria",
-            "Patna"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "District with least rainfall in Bihar",
-        "answer": "Kaimur",
-        "choices": [
-            "Kaimur",
-            "Kishanganj",
-            "Araria",
-            "Patna"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Average number of rainy days in Bihar in a year",
-        "answer": "52.5 days",
-        "choices": [
-            "52.5 days",
-            "53.5 days",
-            "55.5 days",
-            "51.5 days"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Official language of Bihar",
-        "answer": "Hindi",
-        "choices": [
-            "Hindi",
-            "Bhojpuri",
-            "Maithili",
-            "Magahi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "In which constitutional amendment Maithili was included in the 8th Schedule of Constitution",
-        "answer": "92nd",
-        "choices": [
-            "92nd",
-            "91st",
-            "93rd",
-            "90th"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "What is the population percentage of Bihar compared to India according to Census 2011",
-        "answer": "8.6 percent",
-        "choices": [
-            "8.6 percent",
-            "6.8 percent",
-            "9.6 percent",
-            "6.9 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "What is the population percentage density of Bihar according to Census 2011",
-        "answer": "1,106 person per sq km",
-        "choices": [
-            "1,106 person per sq km",
-            "1,006 person per sq km",
-            "1,306 person per sq km",
-            "1,206 person per sq km"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "District with highest population density in Bihar",
-        "answer": "Sheohar",
-        "choices": [
-            "Sheohar",
-            "Sheikhpura",
-            "Patna",
-            "Kaimur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "District with least population density in Bihar",
-        "answer": "Kaimur",
-        "choices": [
-            "Kaimur",
-            "Sheikhpura",
-            "Patna",
-            "Sheohar"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Most populated district of Bihar",
-        "answer": "Patna",
-        "choices": [
-            "Patna",
-            "Kaimur",
-            "Sheohar",
-            "Sheikhpura"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Least populated district of Bihar",
-        "answer": "Sheikhpura",
-        "choices": [
-            "Sheikhpura",
-            "Patna",
-            "Kaimur",
-            "Sheohar"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Sex Ratio of Bihar according to Census 2011",
-        "answer": 918,
-        "choices": [
-            918,
-            819,
-            981,
-            891
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Child Sex Ratio of Bihar according to Census 2011",
-        "answer": 935,
-        "choices": [
-            935,
-            918,
-            953,
-            943
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "District with highest sex ratio in Bihar",
-        "answer": "Gopalganj",
-        "choices": [
-            "Gopalganj",
-            "Munger",
-            "Patna",
-            "Rohtas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "District with least sex ratio in Bihar",
-        "answer": "Munger",
-        "choices": [
-            "Munger",
-            "Gopalganj",
-            "Patna",
-            "Rohtas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Literacy rate of Bihar according to Census 2011",
-        "answer": "61.80 percent",
-        "choices": [
-            "61.80 percent",
-            "68.10 percent",
-            "81.60 percent",
-            "86.10 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "District with highest literacy rate in Bihar",
-        "answer": "Rohtas",
-        "choices": [
-            "Rohtas",
-            "Patna",
-            "Purnea",
-            "Munger"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "District with lowest literacy rate in Bihar",
-        "answer": "Purnea",
-        "choices": [
-            "Purnea",
-            "Patna",
-            "Rohtas",
-            "Munger"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "What is the urbanisation rate of Bihar according to Census 2011",
-        "answer": "11.29 percent",
-        "choices": [
-            "11.29 percent",
-            "21.92 percent",
-            "12.29 percent",
-            "12.92 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Most urbanised district of Bihar",
-        "answer": "Patna",
-        "choices": [
-            "Patna",
-            "Vaishali",
-            "Gaya",
-            "Nalanda"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Least urbanised district of Bihar",
-        "answer": "Munger",
-        "choices": [
-            "Munger",
-            "Gopalganj",
-            "Buxar",
-            "Bhojpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "What is the tribal population of Bihar compared to India according to Census 2011",
-        "answer": "1.30 percent",
-        "choices": [
-            "1.30 percent",
-            "1.68 percent",
-            "1.03 percent",
-            "1.86 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "What is the tribal population of Bihar compared to India according to Caste Survey 2022",
-        "answer": "1.68 percent",
-        "choices": [
-            "1.68 percent",
-            "1.30 percent",
-            "1.03 percent",
-            "1.86 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Rank of Bihar among all state & UTs of India in terms of Population",
-        "answer": "3rd",
-        "choices": [
-            "3rd",
-            "1st",
-            "2nd",
-            "4th"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Rank of Bihar among all state & UTs of India in terms of Area",
-        "answer": "12th",
-        "choices": [
-            "12th",
-            "11th",
-            "13th",
-            "10th"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Decadal population growth of Bihar till 2011",
-        "answer": "25.42 percent",
-        "choices": [
-            "25.42 percent",
-            "24.52 percent",
-            "25.24 percent",
-            "24.25 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Total seats in Bihar Vidhan Shabha (Legislative Assembly)",
-        "answer": 243,
-        "choices": [
-            243,
-            234,
-            245,
-            254
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Total seats in Bihar Vidhan Parishad (Legislative Council)",
-        "answer": 75,
-        "choices": [
-            75,
-            85,
-            65,
-            95
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Total Lok Shabha seats from Bihar",
-        "answer": 40,
-        "choices": [
-            40,
-            35,
-            45,
-            50
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Total Rajya Shabha seats from Bihar",
-        "answer": 16,
-        "choices": [
-            16,
-            15,
-            14,
-            18
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who was the first Governor of Bihar post independence",
-        "answer": "Shri Jairam Daulatram",
-        "choices": [
-            "Shri Jairam Daulatram",
-            "Shri Krishna Sinha",
-            "Shri Rajendra Prasad",
-            "Shri Arif Mohammad Khan"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who was the first Chief Minister of Bihar",
-        "answer": "Shri Krishna Sinha",
-        "choices": [
-            "Shri Krishna Sinha",
-            "Shri Jairam Daulatram",
-            "Shri Rajendra Prasad",
-            "Shri Arif Mohammad Khan"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "In which district of Bihar Dharwad period rocks are found",
-        "answer": "All of these",
-        "choices": [
-            "All of these",
-            "Munger",
-            "Jamui",
-            "Navada"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "In which district of Bihar Vindhyan series rocks are found",
-        "answer": "Kaimur & Rohtas",
-        "choices": [
-            "Kaimur & Rohtas",
-            "Kaimur",
-            "Rohtas",
-            "Gaya"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "When were rocks of Vindhyan series formed",
-        "answer": "Pre-Cambrian Period",
-        "choices": [
-            "Pre-Cambrian Period",
-            "Tertiary Period",
-            "Quaternary Period",
-            "Cambrian Period"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "When were rocks of Dharwad series formed",
-        "answer": "Archeon",
-        "choices": [
-            "Archeon",
-            "Protetozoic",
-            "Milocene",
-            "Pliestocene"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Tertiary rocks are found in which Himalayan series",
-        "answer": "Shivalik",
-        "choices": [
-            "Shivalik",
-            "Aravali",
-            "Lesser Himalaya",
-            "Greater Himalaya"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Kaimur or Rohtas plateau is part of",
-        "answer": "Vindhya",
-        "choices": [
-            "Vindhya",
-            "Aravali",
-            "Satpuda",
-            "Dharwad"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Kaimur plateau is seperated from Chhota-Nagpur plateau by which river",
-        "answer": "Son",
-        "choices": [
-            "Son",
-            "Mahananda",
-            "Ganga",
-            "Falgu"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "New Alluvium soil is also known as",
-        "answer": "Khadar",
-        "choices": [
-            "Khadar",
-            "Bhangar",
-            "Terai",
-            "Keral-Keval"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Terai Soil is found along which border of Bihar",
-        "answer": "Northern",
-        "choices": [
-            "Northern",
-            "Southern",
-            "Eastern",
-            "Western"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Peidmont Swamp soil is found in which district of Bihar",
-        "answer": "West Champaran",
-        "choices": [
-            "West Champaran",
-            "Rohtas",
-            "Kaimur",
-            "Gaya"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "What do we extract from Pyrite mineral",
-        "answer": "Sulphur",
-        "choices": [
-            "Sulphur",
-            "Asbestos",
-            "Sand",
-            "Tungusten"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Pyrite is mainly found in which district of Bihar",
-        "answer": "Rohtas",
-        "choices": [
-            "Rohtas",
-            "Jamui",
-            "Samstipur",
-            "Banka"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which mineral is also known as Fool's Gold",
-        "answer": "Pyrite",
-        "choices": [
-            "Pyrite",
-            "Bauxite",
-            "Hematite",
-            "Quartzite"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Gold reserve of Bihar",
-        "answer": "Jamui",
-        "choices": [
-            "Jamui",
-            "Purnea",
-            "Bhagalpur",
-            "Munger"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "According to Koppen climate classification, Bihar falls under which category",
-        "answer": "Cwa",
-        "choices": [
-            "Cwa",
-            "Cfb",
-            "Bwh",
-            "Csc"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The most famous river for changing its route in Bihar is",
-        "answer": "Kosi",
-        "choices": [
-            "Kosi",
-            "Bagmati",
-            "Gandak",
-            "Mahananda"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which river flows from west to east in the middle of Bihar",
-        "answer": "Ganga",
-        "choices": [
-            "Ganga",
-            "Bagmati",
-            "Gandak",
-            "Mahananda"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "State the total length of Ganga in kms",
-        "answer": "2525 km",
-        "choices": [
-            "2525 km",
-            "5050 km",
-            "2550 km",
-            "5025 km"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "What is the length of Ganga within territory of Bihar",
-        "answer": "445 km",
-        "choices": [
-            "445 km",
-            "545 km",
-            "345 km",
-            "245 km"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is the origin of the river Ganga",
-        "answer": "Uttrakhand",
-        "choices": [
-            "Uttrakhand",
-            "Uttar Pradesh",
-            "Himachal Pradesh",
-            "West Bengal"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Ganga river first enters in which district of Bihar from Uttar Pradesh",
-        "answer": "Buxar",
-        "choices": [
-            "Buxar",
-            "Saran",
-            "Bhojpur",
-            "Siwan"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which of the following rivers decide the borders of Bihar and Uttar Pradesh",
-        "answer": "All of these",
-        "choices": [
-            "All of these",
-            "Ganga",
-            "Gandak",
-            "Karmanasha"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The river Ganga touches how many districts of Bihar",
-        "answer": 12,
-        "choices": [
-            12,
-            11,
-            10,
-            13
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which district of Bihar touches the river Ganga the longest",
-        "answer": "Patna",
-        "choices": [
-            "Patna",
-            "Munger",
-            "Bhagalpur",
-            "Katihar"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The river Ganga terminates in",
-        "answer": "Bay of Bengal",
-        "choices": [
-            "Bay of Bengal",
-            "Indian Ocean",
-            "Pacific Ocean",
-            "Arabian Sea"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which river enters into Ganga 10 kms away from Danapur near west Maner",
-        "answer": "Son",
-        "choices": [
-            "Son",
-            "Punpun",
-            "Falgu",
-            "Gandak"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Origin of river Ghagra",
-        "answer": "Nepal",
-        "choices": [
-            "Nepal",
-            "Uttar Pradesh",
-            "Uttarakhand",
-            "Himachal Pradesh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which of the following rivers is also known as Saryu",
-        "answer": "Ghaghra",
-        "choices": [
-            "Ghaghra",
-            "Gandak",
-            "Punpun",
-            "Son"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Ghaghra river merges with Ganga in which district of Bihar",
-        "answer": "Saran",
-        "choices": [
-            "Saran",
-            "Vaishali",
-            "Bhojpur",
-            "Buxar"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The river Gandak enters in which district of Bihar first",
-        "answer": "West Champaran",
-        "choices": [
-            "West Champaran",
-            "Gopalganj",
-            "Buxar",
-            "Siwan"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "In which district Valmiki Nagar Barrage has been built",
-        "answer": "West Champaran",
-        "choices": [
-            "West Champaran",
-            "Gopalganj",
-            "Buxar",
-            "Siwan"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Valmiki Nagar Barrage is built upon which river",
-        "answer": "Gandak",
-        "choices": [
-            "Gandak",
-            "Son",
-            "Kosi",
-            "Ganga"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Name of the world famous fair held at the confluence of Gandak river",
-        "answer": "Harihar Kshetra Mela",
-        "choices": [
-            "Harihar Kshetra Mela",
-            "Pitrpaksha Mela",
-            "Makar Sankranti Mela",
-            "Babadham Mela"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "World's largest cattle fair is organised at confluence of which river",
-        "answer": "Gandak",
-        "choices": [
-            "Gandak",
-            "Son",
-            "Kosi",
-            "Ganga"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which river flows in the eastern part parallel to the river Gandak",
-        "answer": "Budhi Gandak",
-        "choices": [
-            "Budhi Gandak",
-            "Saryu",
-            "Karmanasha",
-            "Bagmati"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which river has it's origin in Chautarva Chaur near Vishambharpur under Someshwar series hills",
-        "answer": "Budhi Gandak",
-        "choices": [
-            "Budhi Gandak",
-            "Gandak",
-            "Bagmati",
-            "Kosi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which of the following rivers has shifted 150 kms from east to west in the last 200 years",
-        "answer": "Kosi",
-        "choices": [
-            "Kosi",
-            "Gandak",
-            "Bagmati",
-            "Mahananda"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "At which place the river Kosi forms a delta before merging with river Ganga",
-        "answer": "Kursela",
-        "choices": [
-            "Kursela",
-            "Bhagalpur",
-            "Chhapra",
-            "Hajipur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which of the following is the major tributary of Budhi-Gandak",
-        "answer": "Bagmati",
-        "choices": [
-            "Bagmati",
-            "Gandak",
-            "Punpun",
-            "Kosi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The origin of Bagmati has occurred in Nepal from which mountain range",
-        "answer": "Mahabharat",
-        "choices": [
-            "Mahabharat",
-            "Annapurna",
-            "Aravali",
-            "Someshwar"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which river enters in Terai area after passing through Mahabharat range in Nepal",
-        "answer": "Budhi-Gandak",
-        "choices": [
-            "Budhi-Gandak",
-            "Kamala",
-            "Gandak",
-            "Punpun"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Ancient name of river Kosi",
-        "answer": "Kaushiki",
-        "choices": [
-            "Kaushiki",
-            "Saptaprabha",
-            "Keshaki",
-            "Kaushik"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "All the seven currents of Kosi merge at which place where it also known as Sapta Kosi",
-        "answer": "Triveni (Nepal)",
-        "choices": [
-            "Triveni (Nepal)",
-            "Balmiki Nagar",
-            "Rajgir",
-            "Pavapuri"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which of the following river is also known as Bihar ka shok",
-        "answer": "Kosi",
-        "choices": [
-            "Kosi",
-            "Mahananda",
-            "Gandak",
-            "Son"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Mount Everest and Kanchenjunga falls under catchement area of which river",
-        "answer": "Kosi",
-        "choices": [
-            "Kosi",
-            "Mahananda",
-            "Gandak",
-            "Son"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which of the following rivers is a river of the east following through North Bihar",
-        "answer": "Mahananda",
-        "choices": [
-            "Mahananda",
-            "Kamala",
-            "Bagmati",
-            "Son"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which river determines the borders of Bengal & Bihar",
-        "answer": "Mahananda",
-        "choices": [
-            "Mahananda",
-            "Kamala",
-            "Bagmati",
-            "Son"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Origin of which river lies in Amarkantak in Madhya Pradesh",
-        "answer": "Son",
-        "choices": [
-            "Son",
-            "Bagmati",
-            "Punpun",
-            "Falgu"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which river is the longest flowing tributary of the Ganga in Southern Bihar",
-        "answer": "Son",
-        "choices": [
-            "Son",
-            "Karmanasha",
-            "Punpun",
-            "Falgu"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Son river first enters in which district of Bihar",
-        "answer": "Rohtas",
-        "choices": [
-            "Rohtas",
-            "Jamui",
-            "Gaya",
-            "Jehanabad"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "On which of the following rivers Indrapuri Barrage is located",
-        "answer": "Son",
-        "choices": [
-            "Son",
-            "Gandak",
-            "Punpun",
-            "Falgu"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "On the riverbed of which of the following rivers, Gautam Buddha attained awakening",
-        "answer": "Falgu",
-        "choices": [
-            "Falgu",
-            "Gandak",
-            "Punpun",
-            "Son"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where in Bihar, Pitrapaksha Mela is held",
-        "answer": "Gaya",
-        "choices": [
-            "Gaya",
-            "Patna",
-            "Sonpur",
-            "Bhagalpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "In which of the following rivers, the ritual of Pind-dan is performed",
-        "answer": "Falgu",
-        "choices": [
-            "Falgu",
-            "Gandak",
-            "Punpun",
-            "Son"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which river gets divided in two parts in Jehanabad district near Barabar Hills",
-        "answer": "Falgu",
-        "choices": [
-            "Falgu",
-            "Karmanasha",
-            "Punpun",
-            "Son"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Origin of the river Punpun",
-        "answer": "Chhota-Nagpur Plataeu",
-        "choices": [
-            "Chhota-Nagpur Plataeu",
-            "Kaimur Hills",
-            "Aravalli Hills",
-            "Amarkantak Hills"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "At which place Punpun river merges with Ganga",
-        "answer": "Fatuha",
-        "choices": [
-            "Fatuha",
-            "Maner",
-            "Chhapra",
-            "Danapur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which river has its ancient name as Hiranyavah",
-        "answer": "Son",
-        "choices": [
-            "Son",
-            "Gandak",
-            "Karmanasha",
-            "Punpun"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which art form of Bihar has a sequential representation of stories, hence also known as scroll painting",
-        "answer": "Manjusha Art",
-        "choices": [
-            "Manjusha Art",
-            "Mithila Art",
-            "Tikuli Art",
-            "Sujini Embroidery"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Bihula-Bishahari Gatha is related to with art form of Bihar",
-        "answer": "Manjusha Art",
-        "choices": [
-            "Manjusha Art",
-            "Mithila Art",
-            "Tikuli Art",
-            "Sujini Embroidery"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Origin of Manjusha Art ",
-        "answer": "Bhagalpur",
-        "choices": [
-            "Bhagalpur",
-            "Madhubani",
-            "Gaya",
-            "Patna"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Origin of Tikuli Art",
-        "answer": "Patna",
-        "choices": [
-            "Patna",
-            "Madhubani",
-            "Gaya",
-            "Bhagalpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which art form is also know as Firangi Kalam or as the white man's art",
-        "answer": "Patna Kalam",
-        "choices": [
-            "Patna Kalam",
-            "Kalamkari",
-            "Patachitra",
-            "Madhubani Painting"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The subject of these paintings were common man and their mundane routines, name the art form",
-        "answer": "Patna Kalam",
-        "choices": [
-            "Patna Kalam",
-            "Sujini Embroidery",
-            "Manjusha Art",
-            "Madhubani Painting"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Kakolat Waterfall located in Bihar",
-        "answer": "Nawada",
-        "choices": [
-            "Nawada",
-            "Rohtas",
-            "Kaimur",
-            "Munger"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Tutla Bhawani Waterfall located in Bihar",
-        "answer": "Rohtas",
-        "choices": [
-            "Rohtas",
-            "Nawada",
-            "Kaimur",
-            "Munger"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Telhar Kund Waterfall located in Bihar",
-        "answer": "Kaimur",
-        "choices": [
-            "Kaimur",
-            "Nawada",
-            "Rohtas",
-            "Munger"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Karakat Waterfall located in Bihar",
-        "answer": "Kaimur",
-        "choices": [
-            "Kaimur",
-            "Nawada",
-            "Rohtas",
-            "Munger"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Manjhar Kund located in Bihar",
-        "answer": "Rohtas",
-        "choices": [
-            "Rohtas",
-            "Nawada",
-            "Kaimur",
-            "Munger"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Dhua Kund located in Bihar",
-        "answer": "Rohtas",
-        "choices": [
-            "Rohtas",
-            "Nawada",
-            "Kaimur",
-            "Munger"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Kanwar Lake located in Bihar",
-        "answer": "Begusarai",
-        "choices": [
-            "Begusarai",
-            "Rohtas",
-            "Kaimur",
-            "Nawada"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "How may Ramsar sites are there in Bihar as of 2026",
-        "answer": "Six",
-        "choices": [
-            "Six",
-            "Four",
-            "Two",
-            "Five"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Muchalinda Lake in Bihar",
-        "answer": "Bodhgaya",
-        "choices": [
-            "Bodhgaya",
-            "Rohtas",
-            "Kaimur",
-            "Nawada"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Sarai Man Lake in Bihar",
-        "answer": "West Champaran",
-        "choices": [
-            "West Champaran",
-            "Bodhgaya",
-            "Munger",
-            "Rajgir"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Moti Jheel located in Bihar",
-        "answer": "East Champaran",
-        "choices": [
-            "East Champaran",
-            "West Champaran",
-            "Munger",
-            "Rajgir"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Pandu Pokhar located in Bihar",
-        "answer": "Rajgir",
-        "choices": [
-            "Rajgir",
-            "West Champaran",
-            "Munger",
-            "Rohtas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Ghorakatora Lake located in Bihar",
-        "answer": "Rajgir",
-        "choices": [
-            "Rajgir",
-            "West Champaran",
-            "Munger",
-            "Rohtas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which type of forest is found in Bihar",
-        "answer": "Moist Deciduos",
-        "choices": [
-            "Moist Deciduos",
-            "Dry Deciduos",
-            "Moist Evergreen",
-            "Dry Evergreen"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which is most abundantly found in forests of Bihar",
-        "answer": "Sal",
-        "choices": [
-            "Sal",
-            "Shisham",
-            "Teak",
-            "Kadamb"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "How much is the natural forest cover in Bihar",
-        "answer": "7.27 percent",
-        "choices": [
-            "7.27 percent",
-            "2.72 percent",
-            "3.72 percent",
-            "7.32 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "How many National Parks are there in Bihar",
-        "answer": "One",
-        "choices": [
-            "One",
-            "Two",
-            "Zero",
-            "Three"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Valmiki National Park is located in",
-        "answer": "West Champaran",
-        "choices": [
-            "West Champaran",
-            "East Champaran",
-            "Bhagalpur",
-            "Munger"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Vikramshila Gangetic Dolphin Wildlife Sanctuary is located in",
-        "answer": "Bhagalpur",
-        "choices": [
-            "Bhagalpur",
-            "Begusarai",
-            "Patna",
-            "Munger"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Bhimbandh Wildlife Sanctuary located in Bihar",
-        "answer": "Munger",
-        "choices": [
-            "Munger",
-            "Begusarai",
-            "Patna",
-            "Bhagalpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Gautam Buddha Wildlife Sanctuary located in Bihar",
-        "answer": "Gaya",
-        "choices": [
-            "Gaya",
-            "Begusarai",
-            "Patna",
-            "Bhagalpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Udaypur Wildlife Sanctuary located in Bihar",
-        "answer": "West Champaran",
-        "choices": [
-            "West Champaran",
-            "Begusarai",
-            "Patna",
-            "Bhagalpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Nakti Dam located in Bihar",
-        "answer": "Jamui",
-        "choices": [
-            "Jamui",
-            "Begusarai",
-            "Patna",
-            "Bhagalpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Nagi Dam located in Bihar",
-        "answer": "Jamui",
-        "choices": [
-            "Jamui",
-            "Begusarai",
-            "Patna",
-            "Bhagalpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The name of the Hindi weekly which was the mouthpiece of the agrarian and peasant movements in Bihar in 1940 was",
-        "answer": "Hunkar",
-        "choices": [
-            "Hunkar",
-            "Lokmat",
-            "Sarathi",
-            "Leader"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who was author of Hunkar - a Hindi weekly voicing for peasants in Bihar",
-        "answer": "Swami Sahajanand Saraswati",
-        "choices": [
-            "Swami Sahajanand Saraswati",
-            "Ram Manohar Lohia",
-            "Jagadish Prasad",
-            "Jayaprakash Narayan"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who was the first provisional premier of Bihar under Provincial Autonomy in 1937",
-        "answer": "Mohammad Yunus",
-        "choices": [
-            "Mohammad Yunus",
-            "Shri Krishna Sinha",
-            "Ramsunder Singh",
-            "Jagdal Chaudhary"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who was the first premier of Bihar under Provincial Autonomy in 1937",
-        "answer": "Shri Krishna Sinha",
-        "choices": [
-            "Shri Krishna Sinha",
-            "Mohammad Yunus",
-            "Ramsunder Singh",
-            "Jagdal Chaudhary"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The first Indian National Congress session in Bihar after bcoming a separate province was held in",
-        "answer": "Patna, 1912",
-        "choices": [
-            "Patna, 1912",
-            "Gaya, 1922",
-            "Patna, 1934",
-            "Gaya, 1934"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Indian National Congress Session of 1922 was held at which place in Bihar?",
-        "answer": "Gaya",
-        "choices": [
-            "Gaya",
-            "Patna",
-            "Munger",
-            "Bhagalpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who organised the Hindu Mela",
-        "answer": "Nabagopal Mitra",
-        "choices": [
-            "Nabagopal Mitra",
-            "Satyendranath Tagore",
-            "Aurobindo Ghosh",
-            "Rajnarayan Bose"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who was the commissioner of Patna divison during the revolt of 1857?",
-        "answer": "William Taylor",
-        "choices": [
-            "William Taylor",
-            "H. C. Wake",
-            "Brigadier Douglas",
-            "R. P. Harrison"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Kunwar Singh returned to Jagdishpur Palace on",
-        "answer": "23rd April 1858",
-        "choices": [
-            "23rd April 1858",
-            "23rd April 1859",
-            "26th April 1859",
-            "26th April 1858"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "When did Kunwar Singh, leader of revolt of 1857 in Bihar, breathed his last?",
-        "answer": "26th April 1858",
-        "choices": [
-            "26th April 1858",
-            "23rd April 1859",
-            "23rd April 1858",
-            "26th April 1859"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Veer Kunwar Singh was the king of",
-        "answer": "Jagadishpur",
-        "choices": [
-            "Jagadishpur",
-            "Dheerpur",
-            "Rampur",
-            "Hamirpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who fought bravely against the British troops under Brigadier Douglas on 21 April, 1858 in Bihar?",
-        "answer": "Kunwar Singh",
-        "choices": [
-            "Kunwar Singh",
-            "Ujjal Sahi",
-            "Surendra Sahi",
-            "Jagdal Choudhary"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Name the revolutionary from Bihar who attended the meeting of Hindustan Socialist Republican Army in September, 1928",
-        "answer": "Phanindra Nath Ghosh",
-        "choices": [
-            "Phanindra Nath Ghosh",
-            "Bhagat Singh",
-            "Ajay Ghosh",
-            "Jyotindra Nath"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Patna was made capital of his state by",
-        "answer": "Shershah Suri",
-        "choices": [
-            "Shershah Suri",
-            "Alauddin Hussain Shah",
-            "Ibrahim Lodi",
-            "Prince Azim"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who was the mentor of Birsa Munda?",
-        "answer": "Anand Pandey",
-        "choices": [
-            "Anand Pandey",
-            "Swami Sahajanand Saraswati",
-            "Jatra Bhagat",
-            "M. N. Roy"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "When was Birsa Munda born",
-        "answer": "15th November 1875",
-        "choices": [
-            "15th November 1875",
-            "15th November 1975",
-            "15th November 1965",
-            "15th November 1865"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Birsa Munda was captured in Chakradharpur, while asleep on",
-        "answer": "3rd February 1900",
-        "choices": [
-            "3rd February 1900",
-            "1st February 1900",
-            "2nd February 1900",
-            "4th February 1900"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Identify the region where Santhals declared their government in 1855-56",
-        "answer": "Bhagalpur-Rajmahal",
-        "choices": [
-            "Bhagalpur-Rajmahal",
-            "Munger-Bhagalpur",
-            "Gaya-Munger",
-            "Shahabad-Gaya"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Bihar Herald was started in 1872 by",
-        "answer": "Babu Guru Prasad Sen",
-        "choices": [
-            "Babu Guru Prasad Sen",
-            "Munahi Surajmal",
-            "Rai Roshan Lal",
-            "Krishan Bhatt"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which was the first English newspaper published from Patna?",
-        "answer": "The Bihar Herald",
-        "choices": [
-            "The Bihar Herald",
-            "The Indian Mirror",
-            "Searchlight",
-            "Hindoo Patriot"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The revolt of 1857 affected many towns of Bihar, Which of the following is the correct sequence of the occurrence of revolt in various town of Bihar?",
-        "answer": "Rohini > Patna > Muzaffarpur > Jagdishpur",
-        "choices": [
-            "Rohini > Patna > Muzaffarpur > Jagdishpur",
-            "Muzaffarpur > Patna > Jagadishpur > Rohini",
-            "Jagadishpur > Patna > Rohini > Muzaffarpur",
-            "Patna > Muzaffarpur > Rohini > Jagadishpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which leader of Bihar along with Mahatma Gandhi led the farmer's movement?",
-        "answer": "Raj Kumar Shukla",
-        "choices": [
-            "Raj Kumar Shukla",
-            "Rajendra Prasad",
-            "Baba Ramchandra",
-            "Rafi Ahmed Kidwai"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Raj Kumar Shukla was a resident of which village?",
-        "answer": "Murali Bharahwa",
-        "choices": [
-            "Murali Bharahwa",
-            "Murali Bheet",
-            "Murali Kher",
-            "Murali Dhir"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who highlighted the plight of the peasants of Champaran by writing psedonyms like Dukhi, Dukhi Atma, Dukhi Hriday?",
-        "answer": "Pir Mohaammed Munis",
-        "choices": [
-            "Pir Mohaammed Munis",
-            "Rajendra Prasad",
-            "Rajkumar Shukla",
-            "Sahajanand Saraswati"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who was the author of Biography of Kunwar Singh and Amar Singh",
-        "answer": "Kalikinkar Datta",
-        "choices": [
-            "Kalikinkar Datta",
-            "M. N. Roy",
-            "Jawaharlal Nehru",
-            "Sahajanand Saraswati"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Swami Sahajanand Saraswati published a magazine named",
-        "answer": "Hunkar",
-        "choices": [
-            "Hunkar",
-            "Jankranti",
-            "Krishak Samachar",
-            "Vidrohi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "One of the popular beliefs in Bihar during the Non-Cooperation Movement of 1920-22 was that they would be victorious because Gandhi",
-        "answer": "was an accomplished politician",
-        "choices": [
-            "was an accomplished politician",
-            "was the epitome of Dharma",
-            "knew the way to defeat the English",
-            "knew English"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "On which date Linlithgow ordered to fire on the mob of Patna and its surrounding during the August Revolution, 1942?",
-        "answer": "11th August 1942",
-        "choices": [
-            "11th August 1942",
-            "1st August 1942",
-            "15th August 1942",
-            "5th August 1942"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Dr. Rajendra Prasad, who was the first President of India, earlier held the position of",
-        "answer": "Chairman of Patna Municipality",
-        "choices": [
-            "Chairman of Patna Municipality",
-            "Chief Minister of Bihar",
-            "Head Postmaster at Chapra",
-            "Mayor of Patna"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where was the first Zila School of Bihar opened in 1835",
-        "answer": "Patna",
-        "choices": [
-            "Patna",
-            "Muzaffarpur",
-            "Darbhanga",
-            "Munger"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who left Patna College with just 20 days remaining for his examination during the Non-Cooperation movement?",
-        "answer": "Jai Prakash Narayan",
-        "choices": [
-            "Jai Prakash Narayan",
-            "Rajendra Prasad",
-            "Braj Kishore",
-            "Shri Krishna Sinha"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Jubba Sahni, a freedom fighter belonged to which district of Bihar?",
-        "answer": "Muzaffarpur",
-        "choices": [
-            "Muzaffarpur",
-            "Bhagalpur",
-            "Patna",
-            "Sasaram"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who led cultivators in Bihar during the Non-Cooperation Movement?",
-        "answer": "Swami Vidyanand",
-        "choices": [
-            "Swami Vidyanand",
-            "Shri Krishna Sinha",
-            "Raj Kumar Shukla",
-            "Sahajanand Saraswati"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who led the peasant movement in the region of Darbhanga Raj?",
-        "answer": "Swami Vidyanand",
-        "choices": [
-            "Swami Vidyanand",
-            "Baba Ramchandra",
-            "Vinoba Bhave",
-            "Sahajanand Saraswati"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "During Salt Satyagraha, in Bihar, in addition to making salt, the people choose to oppose the government by opposing which tax?",
-        "answer": "Chowkidari",
-        "choices": [
-            "Chowkidari",
-            "Haathi",
-            "Malba",
-            "Development"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "When was the Salt Movement started in Bihar?",
-        "answer": "12th March 1930",
-        "choices": [
-            "12th March 1930",
-            "12th April 1930",
-            "12th May 1930",
-            "12th June 1930"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Famous sufi saint of Bihar Sharfuddin Maneri is related to which Sufi order?",
-        "answer": "Firdausi",
-        "choices": [
-            "Firdausi",
-            "Chisti",
-            "Suhrawardi",
-            "Kubrawi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who was the first Muslim conqueror of Bihar?",
-        "answer": "Bakhtiyar Khalji",
-        "choices": [
-            "Bakhtiyar Khalji",
-            "Malik Ibrahim",
-            "Iltutmish",
-            "Ali Mardan Khalji"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Baba Thakur Das established which society in Patna?",
-        "answer": "Ramakrishna Mission Society",
-        "choices": [
-            "Ramakrishna Mission Society",
-            "Servants of India Society",
-            "Seva Samiti",
-            "Social Service League"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who established the branch of Anushila Samiti at Patna in 1913",
-        "answer": "Sachindra Nath Sanyal",
-        "choices": [
-            "Sachindra Nath Sanyal",
-            "Bankim Chandra Mitra",
-            "Raghubir Singh",
-            "Baba Thakur Das"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who established Swaraj Dal in Bihar",
-        "answer": "Shri Krishna Sinha",
-        "choices": [
-            "Shri Krishna Sinha",
-            "Bankim Chandra Mitra",
-            "Ramlal Singh",
-            "Rajendra Prasad"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Bihar Congress Socialist Party was formed in ",
-        "answer": 1934,
-        "choices": [
-            1934,
-            1939,
-            1931,
-            1930
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Bihar Socialist party was born in 1934 with its secretary",
-        "answer": "Jayaprakash Narayan",
-        "choices": [
-            "Jayaprakash Narayan",
-            "Acharya Narendra Dev",
-            "Rambriksh Benipuri",
-            "Karpoori Thakur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who formed the Bihar Samajwadi Party in 1931",
-        "answer": "Phoolan Prasad Verma & Jayaprakash Narayan",
-        "choices": [
-            "Phoolan Prasad Verma & Jayaprakash Narayan",
-            "Phoolchand Tiwari & Rajendra Prasad",
-            "Rajkumar Shukla & Swami Agnivesh",
-            "Swami Sahajanand & Swami Yogananda"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "When was Bihar Samajwadi Party formed",
-        "answer": 1931,
-        "choices": [
-            1931,
-            1934,
-            1939,
-            1930
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Bihar Provincial Kisan Sabha was formed in",
-        "answer": 1929,
-        "choices": [
-            1929,
-            1934,
-            1939,
-            1930
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who started the Kisan Sabha Movement in Bihar in 1929?",
-        "answer": "Swami Sahajanand Saraswati",
-        "choices": [
-            "Swami Sahajanand Saraswati",
-            "Raj Kumar Shukla",
-            "Baikuntha Shukla",
-            "Acharya Kripalani"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Name the left-wing leader of Bihar Provincial Kisan Sabha who popularised this in Bihar?",
-        "answer": "karyanand Sharma",
-        "choices": [
-            "karyanand Sharma",
-            "Wadhwa Ram",
-            "P. C. Joshi",
-            "Raj Kumar Shukla"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The first Indian Ministry in Bihar in 1937 came into existence under whose leadership?",
-        "answer": "Md. Yunus",
-        "choices": [
-            "Md. Yunus",
-            "Shri Krishna Sinha",
-            "Wahab Ali",
-            "G. S. Lal"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The elected Government of Bihar resigned in February 1938 for which reason?",
-        "answer": "For the release of political prisoners",
-        "choices": [
-            "For the release of political prisoners",
-            "the participation of India in war",
-            "Satyagraha against the British at the call of Gandhi",
-            "High taxes being imposed by British"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who led the Ambari Satyagraha in 1939 in Bihar",
-        "answer": "Rahul Sankrityayan",
-        "choices": [
-            "Rahul Sankrityayan",
-            "Yadunandan Sharma",
-            "Swami Sahajanand",
-            "Swami Yoganand"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who among the following was the leader of the first Congress Ministry in Bihar?",
-        "answer": "Shri Krishna Sinha",
-        "choices": [
-            "Shri Krishna Sinha",
-            "Abdul Bari",
-            "Anugrah Narayan Sinha",
-            "Jayaprakash Narayan"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Gandhiji's Non-Cooperation movement urged people to avoid alcohol. This resulted in a serious loss of revenue for the government. The government of a province circulated a list of prominent individuals who drank alcohol as a device to persuade people to start drinking again. Name the province",
-        "answer": "Bihar",
-        "choices": [
-            "Bihar",
-            "Bombay",
-            "Gujarat",
-            "Andhra Pradesh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which of the following statement is correct about the Maharajas of Dumrao, Darbhanga and Hatwa during the revolt of 1857",
-        "answer": "They helped the English with men and money",
-        "choices": [
-            "They helped the English with men and money",
-            "They helped the English with men but not money",
-            "They helped the English with only money but not men",
-            "They opposed the English"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The word Bihar originally means",
-        "answer": "Buddhist Monastery",
-        "choices": [
-            "Buddhist Monastery",
-            "Land of Angels",
-            "Arya Pradesh",
-            "Land of Greenry"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "According to following districts, which one has larger area under dense deciduous forest cover?",
-        "answer": "Paschim Champaran",
-        "choices": [
-            "Paschim Champaran",
-            "Gaya",
-            "Kaimur",
-            "Nawada"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "How many UNESCO World Heritage site is there in Bihar?",
-        "answer": "Two",
-        "choices": [
-            "Two",
-            "One",
-            "Three",
-            "Four"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which river divides the northern plain area of Bihar into two parts?",
-        "answer": "Bagmati",
-        "choices": [
-            "Bagmati",
-            "Ganga",
-            "Gandak",
-            "Kosi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which one of the following soils in not found in the Northern Gangetic Plain of Bihar?",
-        "answer": "Balthar Mitti",
-        "choices": [
-            "Balthar Mitti",
-            "New Alluvial (Khadar)",
-            "Marshy Soil",
-            "Bal Sundari Mitti"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The most predominant type of soil found in Bihar is",
-        "answer": "Alluvial Soil",
-        "choices": [
-            "Alluvial Soil",
-            "Laterite Soil",
-            "Yellow & Red Soil",
-            "Black Soil"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which river system is primarily responsible for the formation of the alluvial soils in Bihar?",
-        "answer": "Ganga",
-        "choices": [
-            "Ganga",
-            "Godavari",
-            "Son",
-            "Mahanadi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which district of Bihar is known for patches of laterite soil?",
-        "answer": "Gaya",
-        "choices": [
-            "Gaya",
-            "Patna",
-            "Purnea",
-            "Sitamarhi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Red and yellow soils in Bihar are mainly found in:",
-        "answer": "South Bihar Plateau region",
-        "choices": [
-            "South Bihar Plateau region",
-            "North Bihar plains",
-            "Floodplains of Kosi",
-            "Champaran region"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The soil in the Kosi river basin of Bihar is often less fertile due to:",
-        "answer": "Sand Deposition",
-        "choices": [
-            "Sand Deposition",
-            "Salinity",
-            "Excess Clay",
-            "Rocky Texture"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Harha Valley in Bihar lies between which two geographical features?",
-        "answer": "Someshwar Range and Ramnagar Dun",
-        "choices": [
-            "Someshwar Range and Ramnagar Dun",
-            "Chotanagpur Plateau and Rajmahal Hills",
-            "Kaimur Hills and Rohtas Plateau",
-            "Gandak River and Koshi River"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Harha Valley is also known as:",
-        "answer": "Doon Valley",
-        "choices": [
-            "Doon Valley",
-            "Terai Basin",
-            "Malwa Plateau",
-            "Barind Region"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Harha River is located in which physical division of Bihar?",
-        "answer": "Northwestern Shivalik–Terai Region",
-        "choices": [
-            "Northwestern Shivalik–Terai Region",
-            "Middle Ganga Plain",
-            "Chhotanagpur Region",
-            "Eastern Coastal Plain"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which of the following rivers does not make boundary between Uttar Pradesh and Bihar?",
-        "answer": "Son",
-        "choices": [
-            "Son",
-            "Gandak",
-            "Ghagra",
-            "Karmanasha"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "From which river water comes in Triveni Canal?",
-        "answer": "Gandak",
-        "choices": [
-            "Gandak",
-            "Son",
-            "Kosi",
-            "Mayurkashi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where does the Budhi Gandak river meet the Ganga river?",
-        "answer": "Khagaria",
-        "choices": [
-            "Khagaria",
-            "Badalaghat",
-            "Kursela",
-            "Maner"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Mohana and Lilajan rivers are related to which river?",
-        "answer": "Falgu River",
-        "choices": [
-            "Falgu River",
-            "Kosi River",
-            "Chandan River",
-            "Kiul River"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "With which district is Chandan river related to in Bihar?",
-        "answer": "Banka",
-        "choices": [
-            "Banka",
-            "Nawada",
-            "Buxar",
-            "Madhubani"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Baraila Salim Ali-Zubba Sahni Bird Sanctuary located?",
-        "answer": "Vaishali",
-        "choices": [
-            "Vaishali",
-            "Bhagalpur",
-            "Begusarai",
-            "Rohtas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "When is Bihar Prithvi Divas celebrated?",
-        "answer": "9th August",
-        "choices": [
-            "9th August",
-            "22nd April",
-            "5th June",
-            "2nd October"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Someshwar Range is a part of which major Himalayan foothills?",
-        "answer": "Shiwaliks",
-        "choices": [
-            "Shiwaliks",
-            "Karakoram Range",
-            "Pir Panjal Range",
-            "Lesser Himalayas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which district of Bihar is home to the Someshwar Range?",
-        "answer": "West Champaran",
-        "choices": [
-            "West Champaran",
-            "East Champaran",
-            "Sitamarhi",
-            "Sheohar"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "What is the name of the highest peak in the Someshwar Range, which is also the highest point in Bihar?",
-        "answer": "Someshwar Fort",
-        "choices": [
-            "Someshwar Fort",
-            "Rajgir Peak",
-            "Kaimur Fort",
-            "Girnar Peak"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Someshwar Range forms a natural border between Bihar and which neighboring country?",
-        "answer": "Nepal",
-        "choices": [
-            "Nepal",
-            "Bangladesh",
-            "Bhutan",
-            "China"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which river flows through the Valmiki National Park and forms the western boundary of the Valmiki Wildlife Sanctuary, located near the Sumeshwar Range?",
-        "answer": "Gandak",
-        "choices": [
-            "Gandak",
-            "Kosi",
-            "Ganga",
-            "Son"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "What type of rocks primarily make up the Sumeshwar Range?",
-        "answer": "Sedimentory Rocks",
-        "choices": [
-            "Sedimentory Rocks",
-            "Igneous Rock",
-            "Metamorphic Rock",
-            "Granite Rocks"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Apart from the Sumeshwar Range, which of the following is another major hill range in Bihar?",
-        "answer": "Vindhya",
-        "choices": [
-            "Vindhya",
-            "Aravalli",
-            "Satupura Range",
-            "Eastern Ghats"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Valmiki National Park is contiguous with which national park in Nepal?",
-        "answer": "Chitwan National Park",
-        "choices": [
-            "Chitwan National Park",
-            "Bardiya National Park",
-            "Sagarmatha National Park",
-            "Langtang National Park"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Kanti Thermal Power Station is located near which city in Bihar?",
-        "answer": "Muzaffarpur",
-        "choices": [
-            "Muzaffarpur",
-            "Bhagalpur",
-            "Gaya",
-            "Patna"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which power plant, located in the Bhagalpur district of Bihar, is a major source of power for the eastern region of India?",
-        "answer": "Kahalgaon Super Thermal Power Station",
-        "choices": [
-            "Kahalgaon Super Thermal Power Station",
-            "Nabinagar Super Thermal Power Project",
-            "Muzaffarpur Thermal Power Station",
-            "Barauni Thermal Power Station"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "In which district of Bihar is the Nabinagar Super Thermal Power Project located?",
-        "answer": "Aurangabad",
-        "choices": [
-            "Aurangabad",
-            "Bhagalpur",
-            "Muzaffarpur",
-            "Begusarai"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Barauni Thermal Power Station, one of the oldest power plants in Bihar, is located in which district?",
-        "answer": "Begusarai",
-        "choices": [
-            "Begusarai",
-            "Gaya",
-            "Supaul",
-            "Muzaffarpur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is NTPC Barh Super Thermal Power Plant located in Bihar?",
-        "answer": "Patna",
-        "choices": [
-            "Patna",
-            "Begusarai",
-            "Bhagalpur",
-            "Aurangabad"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which city in Bihar is famously known as the 'Silk City' for its textile manufacturing?",
-        "answer": "Bhagalpur",
-        "choices": [
-            "Bhagalpur",
-            "Muzaffarpur",
-            "Gaya",
-            "Patna"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The famous Tussar silk is a specialty of which city in Bihar?",
-        "answer": "Bhagalpur",
-        "choices": [
-            "Bhagalpur",
-            "Nalanda",
-            "Vaishali",
-            "Darbhanga"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The silk industry in Bihar primarily focuses on which aspect of textile production?",
-        "answer": "Weaving and Manufacturing",
-        "choices": [
-            "Weaving and Manufacturing",
-            "Spinning & Reeling",
-            "Finishing & Dyeing",
-            "Sericulture (rearing Silkwroms)"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where were the two main manufacturing plants of Bharat Wagon & Engineering Company Limited (BWEL) located in Bihar?",
-        "answer": "Muzaffarpur & Mokama",
-        "choices": [
-            "Muzaffarpur & Mokama",
-            "Bhagalpur & Nalanda",
-            "Darbhanga & Arrah",
-            "Patna & Gaya"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Electric Locomotive Factory in Madhepura is a joint venture between Indian Railways and which company?",
-        "answer": "Alstom SA",
-        "choices": [
-            "Alstom SA",
-            "Bombardier",
-            "General Electric",
-            "Siemens"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Dalmianagar, a major industrial hub in its prime, is located in which district of Bihar?",
-        "answer": "Rohtas",
-        "choices": [
-            "Rohtas",
-            "Kaimur",
-            "Patna",
-            "Gaya"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Dalmianagar in Bihar is known for",
-        "answer": "Cement",
-        "choices": [
-            "Cement",
-            "Silk",
-            "Leather",
-            "Jute"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "What river is Dalmiyanagar situated on the banks of?",
-        "answer": "Son",
-        "choices": [
-            "Son",
-            "Ganga",
-            "Falgu",
-            "Punpun"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Mica, a mineral used in electrical insulation and electronics, is primarily found in which two districts of Bihar?",
-        "answer": "Nawada & Jamui",
-        "choices": [
-            "Nawada & Jamui",
-            "Patna & Bhojpur",
-            "Rohtas & Kaimur",
-            "Jamui & Banka"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Limestone, a crucial raw material for the cement industry, is abundant in which part of Bihar?",
-        "answer": "Southern Plateau region",
-        "choices": [
-            "Southern Plateau region",
-            "Ganga Basin",
-            "Eastern foothills of Himalayas",
-            "Northern Plains"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which district of Bihar is a known source of Quartzite, a mineral used in the production of glass and ceramics?",
-        "answer": "Munger",
-        "choices": [
-            "Munger",
-            "Kishanganj",
-            "Sheohar",
-            "Arwal"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which mineral found in Bihar is used in the manufacture of ceramics and is often referred to as 'kaolin'?",
-        "answer": "China Clay",
-        "choices": [
-            "China Clay",
-            "Dolomite",
-            "Steatite",
-            "Bauxite"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Amjhore area in the Rohtas district is particularly famous for the mining of which mineral?",
-        "answer": "Pyrites",
-        "choices": [
-            "Pyrites",
-            "Mica",
-            "Bauxite",
-            "Gold"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Steatite, also known as soapstone, which is used for talcum powder and carvings, is found in which of the following regions of Bihar?",
-        "answer": "Gaya",
-        "choices": [
-            "Gaya",
-            "Supaul",
-            "Vaishali",
-            "Purnia"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Gold deposits have been discovered in which district of Bihar, leading to significant geological interest?",
-        "answer": "Jamui",
-        "choices": [
-            "Jamui",
-            "Rohtas",
-            "Lakhisarai",
-            "Saharsa"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which district in Bihar is home to the Barauni Refinery?",
-        "answer": "Begusarai",
-        "choices": [
-            "Begusarai",
-            "Munger",
-            "Patna",
-            "Gaya"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Barauni Refinery was established as a result of a collaboration between India and which other country?",
-        "answer": "Soviet Union",
-        "choices": [
-            "Soviet Union",
-            "United Kingdom",
-            "France",
-            "United States"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which type of soil is predominantly found in the northern part of Bihar and is known for its high fertility?",
-        "answer": "Alluvial Soil",
-        "choices": [
-            "Alluvial Soil",
-            "Piedmont Swamp Soil",
-            "Red & Yellow Soil",
-            "Karail-Kewal Soil"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The older alluvial soil found in Bihar's plains is locally known by which of the following names?",
-        "answer": "Bangur",
-        "choices": [
-            "Bangur",
-            "Balthar",
-            "Tal",
-            "Khadar"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The 'Tal' soil, found in the southern Gangetic plain of Bihar, is best suited for the cultivation of which crop?",
-        "answer": "Wheat & Pulses",
-        "choices": [
-            "Wheat & Pulses",
-            "Rice (Dhan)",
-            "Sugarcane",
-            "Tea"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Karail-Kewal soil is a type of soil that is dark in color and has a heavy texture. Where is this soil primarily found?",
-        "answer": "Southern part of Gangetic plain",
-        "choices": [
-            "Southern part of Gangetic plain",
-            "Transitional zone between the plains and plateau",
-            "Mountainous region of state",
-            "Northernmost districts of Bihar"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The Red and Yellow soils in Bihar are found in the southern plateau region. What is the primary reason for their color?",
-        "answer": "Oxidation of Iron Compounds",
-        "choices": [
-            "Oxidation of Iron Compounds",
-            "High content of phosphorus and potash",
-            "Presence of humus and other organic matter",
-            "Low moisture retention and sandy texture"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which of the following soil types is formed by wind-blown deposits, is light in texture, and is found along the banks of the Ganges River?",
-        "answer": "Bal Sundari Soil",
-        "choices": [
-            "Bal Sundari Soil",
-            "Bhat Soil",
-            "Doab Soil",
-            "Teri Soil"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The soils in the floodplains of the Kosi River are often sandy and have a high pH. What is this soil type called?",
-        "answer": "Dhira Soil",
-        "choices": [
-            "Dhira Soil",
-            "Talsand Soil",
-            "Tari Soil",
-            "Bhangar Soil"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Soil in Bihar is often deficient in which two essential nutrients for plant growth?",
-        "answer": "Nitrogen and Phosphorus",
-        "choices": [
-            "Nitrogen and Phosphorus",
-            "Potash and Calcium",
-            "Sulphur and Manganese",
-            "Iron and Zinc"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which soil type in Bihar is characterized by its reddish-yellow color, is found in the transitional zone between the plains and the plateau, and is often less fertile?",
-        "answer": "Balthar Soil",
-        "choices": [
-            "Balthar Soil",
-            "Red and Yellow Soil",
-            "Bangur Soil",
-            "Tal Soil"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which state in India is the largest producer of litchi?",
-        "answer": "Bihar",
-        "choices": [
-            "Bihar",
-            "Jharkhand",
-            "Uttar Pradesh",
-            "West Bengal"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which city is famously known as the “Litchi Capital of India”?",
-        "answer": "Muzaffarpur",
-        "choices": [
-            "Muzaffarpur",
-            "Bhagalpur",
-            "Darbhanga",
-            "Patna"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "What is the name of the special variety of litchi from Muzaffarpur that has a GI tag?",
-        "answer": "Shahi Litchi",
-        "choices": [
-            "Shahi Litchi",
-            "Purbi Litchi",
-            "China Litchi",
-            "Deshi Litchi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which of the following is the largest freshwater oxbow lake in Asia and is located in Bihar?",
-        "answer": "Kabar Taal (Kanwar Lake)",
-        "choices": [
-            "Kabar Taal (Kanwar Lake)",
-            "Ghogha Lake",
-            "Baraila Lake",
-            "Kusheshwar Asthan Lake"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which lake in Bihar is a declared bird sanctuary and is famous for attracting a large number of migratory birds during the winter?",
-        "answer": "Kusheshwar Asthan Bird Sanctuary",
-        "choices": [
-            "Kusheshwar Asthan Bird Sanctuary",
-            "Baraila Lake",
-            "Ghogha Lake",
-            "Kanwar Lake"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which of the following is a prominent man-made reservoir in Bihar, created for irrigation and power generation?",
-        "answer": "Indrapuri Barrage",
-        "choices": [
-            "Indrapuri Barrage",
-            "Ghogha Lake",
-            "Kanwar lake",
-            "Jal Mandir Lake"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Kusheshwar Asthan, a famous bird sanctuary, is located in which district of Bihar?",
-        "answer": "Darbhanga",
-        "choices": [
-            "Darbhanga",
-            "Araria",
-            "Madhepura",
-            "Katihar"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The 'Ghogha Lake' is an important wetland for migratory birds and is located in which district?",
-        "answer": "Bhagalpur",
-        "choices": [
-            "Bhagalpur",
-            "Nalanda",
-            "Jamui",
-            "Araria"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "The monsoon season in Bihar is primarily influenced by which branch of the Indian Monsoon?",
-        "answer": "Bay of Bengal branch",
-        "choices": [
-            "Bay of Bengal branch",
-            "South China Sea branch",
-            "Arabian Sea branch",
-            "Andaman Sea branch"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which district in Bihar has the highest forest cover by area?",
-        "answer": "Kaimur (Bhabua)",
-        "choices": [
-            "Kaimur (Bhabua)",
-            "West Champaran",
-            "Jamui",
-            "Rohtas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which wildlife sanctuary is currently being proposed to become Bihar's second tiger reserve?",
-        "answer": "Kaimur Wildlife Sanctuary",
-        "choices": [
-            "Kaimur Wildlife Sanctuary",
-            "Bhimbandh Wildlife Sanctuary",
-            "Udaipur Wildlife Sanctuary",
-            "Gautam Buddha Wildlife Sanctuary"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which wildlife sanctuary is the largest in Bihar by area?",
-        "answer": "Kaimur Wildlife Sanctuary",
-        "choices": [
-            "Kaimur Wildlife Sanctuary",
-            "Valmiki National Park",
-            "Bhimbandh Wildlife Sanctuary",
-            "Nagi Dam Bird Sanctuary"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which major river, known as the 'Sorrow of Bihar,' is infamous for its frequent changes in course and devastating floods?",
-        "answer": "Kosi",
-        "choices": [
-            "Kosi",
-            "Son",
-            "Gandak",
-            "Mahananda"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "At which of the following locations does the Gandak River join the Ganga?",
-        "answer": "Sonpur",
-        "choices": [
-            "Sonpur",
-            "Badalaghat",
-            "Chhapra",
-            "Khagaria"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which river originates from the Chota Nagpur Plateau and flows into South Bihar?",
-        "answer": "Falgu",
-        "choices": [
-            "Falgu",
-            "Son",
-            "Mahananda",
-            "Bagmati"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Where is Bihar's first inland container depot (ICD) located?",
-        "answer": "Bihta (Patna)",
-        "choices": [
-            "Bihta (Patna)",
-            "Purnea",
-            "Gaya",
-            "Banka"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "JEEViKA was initially supported by which international organization?",
-        "answer": "World Bank",
-        "choices": [
-            "World Bank",
-            "UNDP",
-            "UNICEF",
-            "IMF"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which of the following parks/sanctuaries come under the project tiger in Bihar?",
-        "answer": "Valmiki National Park",
-        "choices": [
-            "Valmiki National Park",
-            "Udaypur Wildlife Sanctuary",
-            "Bhimbandh Wildlife Sanctuary",
-            "None of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which of the following is the state animal of Bihar?",
-        "answer": "Bull (Gaur)",
-        "choices": [
-            "Bull (Gaur)",
-            "Cow",
-            "Buffalo",
-            "Horse"
-        ],
-        "information": "The state animal of Bihar is the Gaur (Bos gaurus)."
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "In which year, the Nalanda University was re-established in Bihar?",
-        "answer": 2014,
-        "choices": [
-            2014,
-            2008,
-            2007,
-            2005
-        ],
-        "information": "The modern Nalanda University was effectively re-established in 2014, when it commenced its first academic session."
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Karmanasa river originates in",
-        "answer": "Kaimur",
-        "choices": [
-            "Kaimur",
-            "Vaishali",
-            "Patna",
-            "Bikram"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Most of the Bihar comes under which of the following climate type?",
-        "answer": "Subtropical Monsoon",
-        "choices": [
-            "Subtropical Monsoon",
-            "Tropical Savannah",
-            "Hot and Dry",
-            "Hot and Semi Arid"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which Congress leader visited Bihar in 1918 in order to strengthen the activities of Home Rule League?",
-        "answer": "Annie Besant",
-        "choices": [
-            "Annie Besant",
-            "Bal Gangadhar Tilak",
-            "Mahatma Gandhi",
-            "M A Ansari"
-        ],
-        "information": "Mrs. Annie Besant visited Bihar in 1918 in connection with the Home Rule Movement. She was a leader of the Congress and presided over its 1917 session."
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Champaran Agrarian Committee was appointed in agreement between",
-        "answer": "Indian Government and Gandhiji",
-        "choices": [
-            "Indian Government and Gandhiji",
-            "Indian Government and Raj Kumar Shukla",
-            "Indian Government and Rajendra Prasad",
-            "Indian Government and Anugraha Narayan Singh"
-        ],
-        "information": "Gandhi led the Champaran Movement, represented the peasants in the Champaran Agrarian Committee which examined the grievances of the peasants."
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who was the prominent leader of Kisan Sabha movement in Bihar?",
-        "answer": "Sahajanand Saraswati",
-        "choices": [
-            "Sahajanand Saraswati",
-            "Raj Kumar Shukla",
-            "Acharya Narendra Dev",
-            "Baba Ram Chandra"
-        ],
-        "information": "The prominent leader of the Kisan Sabha movement in Bihar was Swami Sahajanand Saraswati"
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Who was murdered while hoisting the national flag under the area of Bikram Police Station?",
-        "answer": "Raghunath Sharma",
-        "choices": [
-            "Raghunath Sharma",
-            "Raghunath Singh of Gorakhari",
-            "Ram Narain of Bikrampur",
-            "Satyendra of Gorakhari"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which districts in Bihar will benefit from the Kosi Mechi Link Project?",
-        "answer": "Araria, Purnea, Kishanganj, Katihar",
-        "choices": [
-            "Araria, Purnea, Kishanganj, Katihar",
-            "Patna, Nalanda, Gaya, Siwan",
-            "Darbhanga, Muzaffarpur, Sitamarhi, Begusarai",
-            "Rohtas, Jamui, Nawada, Jehanabad"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "Which organisation recognised the Nagi Bird Sanctuary site as an Important Bird and Biodiversity Area (IBA)?",
-        "answer": "Bird Life International",
-        "choices": [
-            "Bird Life International",
-            "UNESCO",
-            "World Wildlife Fund",
-            "WHO"
-        ],
-        "information": "The organization that recognized the Nagi Bird Sanctuary located in Jamui, Bihar as an Important Bird and Biodiversity Area is BirdLife International"
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "With reference to Bihar's agriculture, which aromatic rice variety from the West Champaran district was awarded the GI (Geographical Indication) tag recently?",
-        "answer": "Marcha Rice",
-        "choices": [
-            "Marcha Rice",
-            "Basmati Rice",
-            "Gobindobhog Rice",
-            "Kalanamak Rice"
-        ],
-        "information": "Marcha (or Mircha) rice is famous for its black pepper-like appearance and unique aroma, receiving the GI tag for Bihar."
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "In which district is Bihar's largest battery-based solar power plant located?",
-        "answer": "Lakhisarai",
-        "choices": [
-            "Lakhisarai",
-            "Bhagalpur",
-            "Banka",
-            "Jamui"
-        ],
-        "information": "Kajra Solar Power Plant is situated at Kajra in the Lakhisarai district. It features a 495 MWh battery system, making it one of India's largest storage-backed solar projects."
-    },
-    {
-        "sheet": "BiharSpecific",
-        "question": "On which date is the Bihar Legislative Assembly Foundation Day celebrated every year?",
-        "answer": "7th February",
-        "choices": [
-            "7th February",
-            "1st April",
-            "22nd March",
-            "12th December"
-        ],
-        "information": "Bihar celebrates its Legislative Assembly Foundation Day on February 7th to commemorate the first session of the joint Bihar-Orissa Legislative Council in 1921."
-    }
+  {
+    "qid": "Q01815",
+    "question": "Bihar State Formation Day",
+    "answer": "22nd March 1912",
+    "choices": [
+      "22nd March 1912",
+      "22nd March 1913",
+      "12nd March 1922",
+      "23rd March 1912"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01816",
+    "question": "North most latitude of Bihar",
+    "answer": "27 deg 31 min 15 sec N",
+    "choices": [
+      "27 deg 31 min 15 sec N",
+      "24 deg 20 min 10 sec N",
+      "83 deg 19 min 50 sec N",
+      "88 deg 17 min 40 sec N"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01817",
+    "question": "South most latitude of Bihar",
+    "answer": "24 deg 20 min 10 sec N",
+    "choices": [
+      "24 deg 20 min 10 sec N",
+      "27 deg 31 min 15 sec N",
+      "83 deg 19 min 50 sec N",
+      "88 deg 17 min 40 sec N"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01818",
+    "question": "East most longitude of Bihar",
+    "answer": "88 deg 17 min 40 sec E",
+    "choices": [
+      "88 deg 17 min 40 sec E",
+      "27 deg 31 min 15 sec E",
+      "83 deg 19 min 50 sec E",
+      "24 deg 20 min 10 sec E"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01819",
+    "question": "West most longitude of Bihar",
+    "answer": "83 deg 19 min 50 sec E",
+    "choices": [
+      "83 deg 19 min 50 sec E",
+      "27 deg 31 min 15 sec E",
+      "88 deg 17 min 40 sec E",
+      "24 deg 20 min 10 sec E"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01820",
+    "question": "North-South extent of Bihar",
+    "answer": "345 km",
+    "choices": [
+      "345 km",
+      "453 km",
+      "435 km",
+      "543 km"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01821",
+    "question": "East-West extent of Bihar",
+    "answer": "483 km",
+    "choices": [
+      "483 km",
+      "834 km",
+      "384 km",
+      "438 km"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01822",
+    "question": "Total area of Bihar",
+    "answer": "94,163 sq km",
+    "choices": [
+      "94,163 sq km",
+      "91,463 sq km",
+      "96,143 sq km",
+      "93,164 sq km"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01823",
+    "question": "Area of Bihar compared to area of India",
+    "answer": "2.86 percent",
+    "choices": [
+      "2.86 percent",
+      "3.28 percent",
+      "8.32 percent",
+      "2.38 percent"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01824",
+    "question": "Height of Bihar above mean sea-level in feet",
+    "answer": "173 ft",
+    "choices": [
+      "173 ft",
+      "371 ft",
+      "137 ft",
+      "317 ft"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01825",
+    "question": "Height of Bihar above mean sea-level in meters",
+    "answer": "53 m",
+    "choices": [
+      "53 m",
+      "52 m",
+      "51 m",
+      "50 m"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01826",
+    "question": "Total number of Divisions in Bihar",
+    "answer": "9",
+    "choices": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01827",
+    "question": "Total number of Districts in Bihar",
+    "answer": "38",
+    "choices": [
+      "38",
+      "39",
+      "37",
+      "36"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01828",
+    "question": "Total number of Sub-Divisions in Bihar",
+    "answer": "101",
+    "choices": [
+      "101",
+      "100",
+      "102",
+      "103"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01829",
+    "question": "Total number of Blocks in Bihar",
+    "answer": "534",
+    "choices": [
+      "534",
+      "535",
+      "533",
+      "532"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01830",
+    "question": "Total number of Panchayat in Bihar",
+    "answer": "8406",
+    "choices": [
+      "8406",
+      "8405",
+      "8407",
+      "8403"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01831",
+    "question": "How many district of Bihar shares international boundary with Nepal",
+    "answer": "7",
+    "choices": [
+      "7",
+      "8",
+      "3",
+      "6"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01832",
+    "question": "Northern-most district of Bihar",
+    "answer": "West Champaran",
+    "choices": [
+      "West Champaran",
+      "Gaya",
+      "Kishanganj",
+      "Kaimur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01833",
+    "question": "Southern-most district of Bihar",
+    "answer": "Gaya",
+    "choices": [
+      "Gaya",
+      "West Champaran",
+      "Kishanganj",
+      "Kaimur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01834",
+    "question": "Eastern-most district of Bihar",
+    "answer": "Kishanganj",
+    "choices": [
+      "Kishanganj",
+      "West Champaran",
+      "Gaya",
+      "Kaimur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01835",
+    "question": "Western-most district of Bihar",
+    "answer": "Kaimur",
+    "choices": [
+      "Kaimur",
+      "West Champaran",
+      "Gaya",
+      "Kishanganj"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01836",
+    "question": "Area wise largest district of Bihar",
+    "answer": "West Champaran",
+    "choices": [
+      "West Champaran",
+      "Gaya",
+      "Kaimur",
+      "Rohtas"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01837",
+    "question": "Area wise smallest district of Bihar",
+    "answer": "Sheohar",
+    "choices": [
+      "Sheohar",
+      "Sheikhpura",
+      "Arwal",
+      "Jehanabad"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01838",
+    "question": "District with highest rainfall in Bihar",
+    "answer": "Kishanganj",
+    "choices": [
+      "Kishanganj",
+      "Kaimur",
+      "Araria",
+      "Patna"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01839",
+    "question": "District with least rainfall in Bihar",
+    "answer": "Kaimur",
+    "choices": [
+      "Kaimur",
+      "Kishanganj",
+      "Araria",
+      "Patna"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01840",
+    "question": "Average number of rainy days in Bihar in a year",
+    "answer": "52.5 days",
+    "choices": [
+      "52.5 days",
+      "53.5 days",
+      "55.5 days",
+      "51.5 days"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01841",
+    "question": "Official language of Bihar",
+    "answer": "Hindi",
+    "choices": [
+      "Hindi",
+      "Bhojpuri",
+      "Maithili",
+      "Magahi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01842",
+    "question": "In which constitutional amendment Maithili was included in the 8th Schedule of Constitution",
+    "answer": "92nd",
+    "choices": [
+      "92nd",
+      "91st",
+      "93rd",
+      "90th"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01843",
+    "question": "What is the population percentage of Bihar compared to India according to Census 2011",
+    "answer": "8.6 percent",
+    "choices": [
+      "8.6 percent",
+      "6.8 percent",
+      "9.6 percent",
+      "6.9 percent"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01844",
+    "question": "What is the population percentage density of Bihar according to Census 2011",
+    "answer": "1,106 person per sq km",
+    "choices": [
+      "1,106 person per sq km",
+      "1,006 person per sq km",
+      "1,306 person per sq km",
+      "1,206 person per sq km"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01845",
+    "question": "District with highest population density in Bihar",
+    "answer": "Sheohar",
+    "choices": [
+      "Sheohar",
+      "Sheikhpura",
+      "Patna",
+      "Kaimur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01846",
+    "question": "District with least population density in Bihar",
+    "answer": "Kaimur",
+    "choices": [
+      "Kaimur",
+      "Sheikhpura",
+      "Patna",
+      "Sheohar"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01847",
+    "question": "Most populated district of Bihar",
+    "answer": "Patna",
+    "choices": [
+      "Patna",
+      "Kaimur",
+      "Sheohar",
+      "Sheikhpura"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01848",
+    "question": "Least populated district of Bihar",
+    "answer": "Sheikhpura",
+    "choices": [
+      "Sheikhpura",
+      "Patna",
+      "Kaimur",
+      "Sheohar"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01849",
+    "question": "Sex Ratio of Bihar according to Census 2011",
+    "answer": "918",
+    "choices": [
+      "918",
+      "819",
+      "981",
+      "891"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01850",
+    "question": "Child Sex Ratio of Bihar according to Census 2011",
+    "answer": "935",
+    "choices": [
+      "935",
+      "918",
+      "953",
+      "943"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01851",
+    "question": "District with highest sex ratio in Bihar",
+    "answer": "Gopalganj",
+    "choices": [
+      "Gopalganj",
+      "Munger",
+      "Patna",
+      "Rohtas"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01852",
+    "question": "District with least sex ratio in Bihar",
+    "answer": "Munger",
+    "choices": [
+      "Munger",
+      "Gopalganj",
+      "Patna",
+      "Rohtas"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01853",
+    "question": "Literacy rate of Bihar according to Census 2011",
+    "answer": "61.80 percent",
+    "choices": [
+      "61.80 percent",
+      "68.10 percent",
+      "81.60 percent",
+      "86.10 percent"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01854",
+    "question": "District with highest literacy rate in Bihar",
+    "answer": "Rohtas",
+    "choices": [
+      "Rohtas",
+      "Patna",
+      "Purnea",
+      "Munger"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01855",
+    "question": "District with lowest literacy rate in Bihar",
+    "answer": "Purnea",
+    "choices": [
+      "Purnea",
+      "Patna",
+      "Rohtas",
+      "Munger"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01856",
+    "question": "What is the urbanisation rate of Bihar according to Census 2011",
+    "answer": "11.29 percent",
+    "choices": [
+      "11.29 percent",
+      "21.92 percent",
+      "12.29 percent",
+      "12.92 percent"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01857",
+    "question": "Most urbanised district of Bihar",
+    "answer": "Patna",
+    "choices": [
+      "Patna",
+      "Vaishali",
+      "Gaya",
+      "Nalanda"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01858",
+    "question": "Least urbanised district of Bihar",
+    "answer": "Munger",
+    "choices": [
+      "Munger",
+      "Gopalganj",
+      "Buxar",
+      "Bhojpur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01859",
+    "question": "What is the tribal population of Bihar compared to India according to Census 2011",
+    "answer": "1.30 percent",
+    "choices": [
+      "1.30 percent",
+      "1.68 percent",
+      "1.03 percent",
+      "1.86 percent"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01860",
+    "question": "What is the tribal population of Bihar compared to India according to Caste Survey 2022",
+    "answer": "1.68 percent",
+    "choices": [
+      "1.68 percent",
+      "1.30 percent",
+      "1.03 percent",
+      "1.86 percent"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01861",
+    "question": "Rank of Bihar among all state & UTs of India in terms of Population",
+    "answer": "3rd",
+    "choices": [
+      "3rd",
+      "1st",
+      "2nd",
+      "4th"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01862",
+    "question": "Rank of Bihar among all state & UTs of India in terms of Area",
+    "answer": "12th",
+    "choices": [
+      "12th",
+      "11th",
+      "13th",
+      "10th"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01863",
+    "question": "Decadal population growth of Bihar till 2011",
+    "answer": "25.42 percent",
+    "choices": [
+      "25.42 percent",
+      "24.52 percent",
+      "25.24 percent",
+      "24.25 percent"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01864",
+    "question": "Total seats in Bihar Vidhan Shabha (Legislative Assembly)",
+    "answer": "243",
+    "choices": [
+      "243",
+      "234",
+      "245",
+      "254"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01865",
+    "question": "Total seats in Bihar Vidhan Parishad (Legislative Council)",
+    "answer": "75",
+    "choices": [
+      "75",
+      "85",
+      "65",
+      "95"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01866",
+    "question": "Total Lok Shabha seats from Bihar",
+    "answer": "40",
+    "choices": [
+      "40",
+      "35",
+      "45",
+      "50"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01867",
+    "question": "Total Rajya Shabha seats from Bihar",
+    "answer": "16",
+    "choices": [
+      "16",
+      "15",
+      "14",
+      "18"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01868",
+    "question": "Who was the first Governor of Bihar post independence",
+    "answer": "Shri Jairam Daulatram",
+    "choices": [
+      "Shri Jairam Daulatram",
+      "Shri Krishna Sinha",
+      "Shri Rajendra Prasad",
+      "Shri Arif Mohammad Khan"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01869",
+    "question": "Who was the first Chief Minister of Bihar",
+    "answer": "Shri Krishna Sinha",
+    "choices": [
+      "Shri Krishna Sinha",
+      "Shri Jairam Daulatram",
+      "Shri Rajendra Prasad",
+      "Shri Arif Mohammad Khan"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01870",
+    "question": "In which district of Bihar Dharwad period rocks are found",
+    "answer": "All of these",
+    "choices": [
+      "All of these",
+      "Munger",
+      "Jamui",
+      "Navada"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01871",
+    "question": "In which district of Bihar Vindhyan series rocks are found",
+    "answer": "Kaimur & Rohtas",
+    "choices": [
+      "Kaimur & Rohtas",
+      "Kaimur",
+      "Rohtas",
+      "Gaya"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01872",
+    "question": "When were rocks of Vindhyan series formed",
+    "answer": "Pre-Cambrian Period",
+    "choices": [
+      "Pre-Cambrian Period",
+      "Tertiary Period",
+      "Quaternary Period",
+      "Cambrian Period"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01873",
+    "question": "When were rocks of Dharwad series formed",
+    "answer": "Archeon",
+    "choices": [
+      "Archeon",
+      "Protetozoic",
+      "Milocene",
+      "Pliestocene"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01874",
+    "question": "Tertiary rocks are found in which Himalayan series",
+    "answer": "Shivalik",
+    "choices": [
+      "Shivalik",
+      "Aravali",
+      "Lesser Himalaya",
+      "Greater Himalaya"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01875",
+    "question": "The Kaimur or Rohtas plateau is part of",
+    "answer": "Vindhya",
+    "choices": [
+      "Vindhya",
+      "Aravali",
+      "Satpuda",
+      "Dharwad"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01876",
+    "question": "Kaimur plateau is seperated from Chhota-Nagpur plateau by which river",
+    "answer": "Son",
+    "choices": [
+      "Son",
+      "Mahananda",
+      "Ganga",
+      "Falgu"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01877",
+    "question": "New Alluvium soil is also known as",
+    "answer": "Khadar",
+    "choices": [
+      "Khadar",
+      "Bhangar",
+      "Terai",
+      "Keral-Keval"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01878",
+    "question": "Terai Soil is found along which border of Bihar",
+    "answer": "Northern",
+    "choices": [
+      "Northern",
+      "Southern",
+      "Eastern",
+      "Western"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01879",
+    "question": "Peidmont Swamp soil is found in which district of Bihar",
+    "answer": "West Champaran",
+    "choices": [
+      "West Champaran",
+      "Rohtas",
+      "Kaimur",
+      "Gaya"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01880",
+    "question": "What do we extract from Pyrite mineral",
+    "answer": "Sulphur",
+    "choices": [
+      "Sulphur",
+      "Asbestos",
+      "Sand",
+      "Tungusten"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01881",
+    "question": "Pyrite is mainly found in which district of Bihar",
+    "answer": "Rohtas",
+    "choices": [
+      "Rohtas",
+      "Jamui",
+      "Samstipur",
+      "Banka"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01882",
+    "question": "Which mineral is also known as Fool's Gold",
+    "answer": "Pyrite",
+    "choices": [
+      "Pyrite",
+      "Bauxite",
+      "Hematite",
+      "Quartzite"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01883",
+    "question": "Where is Gold reserve of Bihar",
+    "answer": "Jamui",
+    "choices": [
+      "Jamui",
+      "Purnea",
+      "Bhagalpur",
+      "Munger"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01884",
+    "question": "According to Koppen climate classification, Bihar falls under which category",
+    "answer": "Cwa",
+    "choices": [
+      "Cwa",
+      "Cfb",
+      "Bwh",
+      "Csc"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01885",
+    "question": "The most famous river for changing its route in Bihar is",
+    "answer": "Kosi",
+    "choices": [
+      "Kosi",
+      "Bagmati",
+      "Gandak",
+      "Mahananda"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01886",
+    "question": "Which river flows from west to east in the middle of Bihar",
+    "answer": "Ganga",
+    "choices": [
+      "Ganga",
+      "Bagmati",
+      "Gandak",
+      "Mahananda"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01887",
+    "question": "State the total length of Ganga in kms",
+    "answer": "2525 km",
+    "choices": [
+      "2525 km",
+      "5050 km",
+      "2550 km",
+      "5025 km"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01888",
+    "question": "What is the length of Ganga within territory of Bihar",
+    "answer": "445 km",
+    "choices": [
+      "445 km",
+      "545 km",
+      "345 km",
+      "245 km"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01889",
+    "question": "Where is the origin of the river Ganga",
+    "answer": "Uttrakhand",
+    "choices": [
+      "Uttrakhand",
+      "Uttar Pradesh",
+      "Himachal Pradesh",
+      "West Bengal"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01890",
+    "question": "Ganga river first enters in which district of Bihar from Uttar Pradesh",
+    "answer": "Buxar",
+    "choices": [
+      "Buxar",
+      "Saran",
+      "Bhojpur",
+      "Siwan"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01891",
+    "question": "Which of the following rivers decide the borders of Bihar and Uttar Pradesh",
+    "answer": "All of these",
+    "choices": [
+      "All of these",
+      "Ganga",
+      "Gandak",
+      "Karmanasha"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01892",
+    "question": "The river Ganga touches how many districts of Bihar",
+    "answer": "12",
+    "choices": [
+      "12",
+      "11",
+      "10",
+      "13"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01893",
+    "question": "Which district of Bihar touches the river Ganga the longest",
+    "answer": "Patna",
+    "choices": [
+      "Patna",
+      "Munger",
+      "Bhagalpur",
+      "Katihar"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01894",
+    "question": "The river Ganga terminates in",
+    "answer": "Bay of Bengal",
+    "choices": [
+      "Bay of Bengal",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arabian Sea"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01895",
+    "question": "Which river enters into Ganga 10 kms away from Danapur near west Maner",
+    "answer": "Son",
+    "choices": [
+      "Son",
+      "Punpun",
+      "Falgu",
+      "Gandak"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01896",
+    "question": "Origin of river Ghagra",
+    "answer": "Nepal",
+    "choices": [
+      "Nepal",
+      "Uttar Pradesh",
+      "Uttarakhand",
+      "Himachal Pradesh"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01897",
+    "question": "Which of the following rivers is also known as Saryu",
+    "answer": "Ghaghra",
+    "choices": [
+      "Ghaghra",
+      "Gandak",
+      "Punpun",
+      "Son"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01898",
+    "question": "Ghaghra river merges with Ganga in which district of Bihar",
+    "answer": "Saran",
+    "choices": [
+      "Saran",
+      "Vaishali",
+      "Bhojpur",
+      "Buxar"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01899",
+    "question": "The river Gandak enters in which district of Bihar first",
+    "answer": "West Champaran",
+    "choices": [
+      "West Champaran",
+      "Gopalganj",
+      "Buxar",
+      "Siwan"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01900",
+    "question": "In which district Valmiki Nagar Barrage has been built",
+    "answer": "West Champaran",
+    "choices": [
+      "West Champaran",
+      "Gopalganj",
+      "Buxar",
+      "Siwan"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01901",
+    "question": "Valmiki Nagar Barrage is built upon which river",
+    "answer": "Gandak",
+    "choices": [
+      "Gandak",
+      "Son",
+      "Kosi",
+      "Ganga"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01902",
+    "question": "Name of the world famous fair held at the confluence of Gandak river",
+    "answer": "Harihar Kshetra Mela",
+    "choices": [
+      "Harihar Kshetra Mela",
+      "Pitrpaksha Mela",
+      "Makar Sankranti Mela",
+      "Babadham Mela"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01903",
+    "question": "World's largest cattle fair is organised at confluence of which river",
+    "answer": "Gandak",
+    "choices": [
+      "Gandak",
+      "Son",
+      "Kosi",
+      "Ganga"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01904",
+    "question": "Which river flows in the eastern part parallel to the river Gandak",
+    "answer": "Budhi Gandak",
+    "choices": [
+      "Budhi Gandak",
+      "Saryu",
+      "Karmanasha",
+      "Bagmati"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01905",
+    "question": "Which river has it's origin in Chautarva Chaur near Vishambharpur under Someshwar series hills",
+    "answer": "Budhi Gandak",
+    "choices": [
+      "Budhi Gandak",
+      "Gandak",
+      "Bagmati",
+      "Kosi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01906",
+    "question": "Which of the following rivers has shifted 150 kms from east to west in the last 200 years",
+    "answer": "Kosi",
+    "choices": [
+      "Kosi",
+      "Gandak",
+      "Bagmati",
+      "Mahananda"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01907",
+    "question": "At which place the river Kosi forms a delta before merging with river Ganga",
+    "answer": "Kursela",
+    "choices": [
+      "Kursela",
+      "Bhagalpur",
+      "Chhapra",
+      "Hajipur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01908",
+    "question": "Which of the following is the major tributary of Budhi-Gandak",
+    "answer": "Bagmati",
+    "choices": [
+      "Bagmati",
+      "Gandak",
+      "Punpun",
+      "Kosi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01909",
+    "question": "The origin of Bagmati has occurred in Nepal from which mountain range",
+    "answer": "Mahabharat",
+    "choices": [
+      "Mahabharat",
+      "Annapurna",
+      "Aravali",
+      "Someshwar"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01910",
+    "question": "Which river enters in Terai area after passing through Mahabharat range in Nepal",
+    "answer": "Budhi-Gandak",
+    "choices": [
+      "Budhi-Gandak",
+      "Kamala",
+      "Gandak",
+      "Punpun"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01911",
+    "question": "Ancient name of river Kosi",
+    "answer": "Kaushiki",
+    "choices": [
+      "Kaushiki",
+      "Saptaprabha",
+      "Keshaki",
+      "Kaushik"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01912",
+    "question": "All the seven currents of Kosi merge at which place where it also known as Sapta Kosi",
+    "answer": "Triveni (Nepal)",
+    "choices": [
+      "Triveni (Nepal)",
+      "Balmiki Nagar",
+      "Rajgir",
+      "Pavapuri"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01913",
+    "question": "Which of the following river is also known as Bihar ka shok",
+    "answer": "Kosi",
+    "choices": [
+      "Kosi",
+      "Mahananda",
+      "Gandak",
+      "Son"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01914",
+    "question": "Mount Everest and Kanchenjunga falls under catchement area of which river",
+    "answer": "Kosi",
+    "choices": [
+      "Kosi",
+      "Mahananda",
+      "Gandak",
+      "Son"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01915",
+    "question": "Which of the following rivers is a river of the east following through North Bihar",
+    "answer": "Mahananda",
+    "choices": [
+      "Mahananda",
+      "Kamala",
+      "Bagmati",
+      "Son"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01916",
+    "question": "Which river determines the borders of Bengal & Bihar",
+    "answer": "Mahananda",
+    "choices": [
+      "Mahananda",
+      "Kamala",
+      "Bagmati",
+      "Son"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01917",
+    "question": "Origin of which river lies in Amarkantak in Madhya Pradesh",
+    "answer": "Son",
+    "choices": [
+      "Son",
+      "Bagmati",
+      "Punpun",
+      "Falgu"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01918",
+    "question": "Which river is the longest flowing tributary of the Ganga in Southern Bihar",
+    "answer": "Son",
+    "choices": [
+      "Son",
+      "Karmanasha",
+      "Punpun",
+      "Falgu"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01919",
+    "question": "Son river first enters in which district of Bihar",
+    "answer": "Rohtas",
+    "choices": [
+      "Rohtas",
+      "Jamui",
+      "Gaya",
+      "Jehanabad"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01920",
+    "question": "On which of the following rivers Indrapuri Barrage is located",
+    "answer": "Son",
+    "choices": [
+      "Son",
+      "Gandak",
+      "Punpun",
+      "Falgu"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01921",
+    "question": "On the riverbed of which of the following rivers, Gautam Buddha attained awakening",
+    "answer": "Falgu",
+    "choices": [
+      "Falgu",
+      "Gandak",
+      "Punpun",
+      "Son"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01922",
+    "question": "Where in Bihar, Pitrapaksha Mela is held",
+    "answer": "Gaya",
+    "choices": [
+      "Gaya",
+      "Patna",
+      "Sonpur",
+      "Bhagalpur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01923",
+    "question": "In which of the following rivers, the ritual of Pind-dan is performed",
+    "answer": "Falgu",
+    "choices": [
+      "Falgu",
+      "Gandak",
+      "Punpun",
+      "Son"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01924",
+    "question": "Which river gets divided in two parts in Jehanabad district near Barabar Hills",
+    "answer": "Falgu",
+    "choices": [
+      "Falgu",
+      "Karmanasha",
+      "Punpun",
+      "Son"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01925",
+    "question": "Origin of the river Punpun",
+    "answer": "Chhota-Nagpur Plataeu",
+    "choices": [
+      "Chhota-Nagpur Plataeu",
+      "Kaimur Hills",
+      "Aravalli Hills",
+      "Amarkantak Hills"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01926",
+    "question": "At which place Punpun river merges with Ganga",
+    "answer": "Fatuha",
+    "choices": [
+      "Fatuha",
+      "Maner",
+      "Chhapra",
+      "Danapur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01927",
+    "question": "Which river has its ancient name as Hiranyavah",
+    "answer": "Son",
+    "choices": [
+      "Son",
+      "Gandak",
+      "Karmanasha",
+      "Punpun"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01928",
+    "question": "Which art form of Bihar has a sequential representation of stories, hence also known as scroll painting",
+    "answer": "Manjusha Art",
+    "choices": [
+      "Manjusha Art",
+      "Mithila Art",
+      "Tikuli Art",
+      "Sujini Embroidery"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01929",
+    "question": "Bihula-Bishahari Gatha is related to with art form of Bihar",
+    "answer": "Manjusha Art",
+    "choices": [
+      "Manjusha Art",
+      "Mithila Art",
+      "Tikuli Art",
+      "Sujini Embroidery"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01930",
+    "question": "Origin of Manjusha Art",
+    "answer": "Bhagalpur",
+    "choices": [
+      "Bhagalpur",
+      "Madhubani",
+      "Gaya",
+      "Patna"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01931",
+    "question": "Origin of Tikuli Art",
+    "answer": "Patna",
+    "choices": [
+      "Patna",
+      "Madhubani",
+      "Gaya",
+      "Bhagalpur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01932",
+    "question": "Which art form is also know as Firangi Kalam or as the white man's art",
+    "answer": "Patna Kalam",
+    "choices": [
+      "Patna Kalam",
+      "Kalamkari",
+      "Patachitra",
+      "Madhubani Painting"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01933",
+    "question": "The subject of these paintings were common man and their mundane routines, name the art form",
+    "answer": "Patna Kalam",
+    "choices": [
+      "Patna Kalam",
+      "Sujini Embroidery",
+      "Manjusha Art",
+      "Madhubani Painting"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01934",
+    "question": "Where is Kakolat Waterfall located in Bihar",
+    "answer": "Nawada",
+    "choices": [
+      "Nawada",
+      "Rohtas",
+      "Kaimur",
+      "Munger"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01935",
+    "question": "Where is Tutla Bhawani Waterfall located in Bihar",
+    "answer": "Rohtas",
+    "choices": [
+      "Rohtas",
+      "Nawada",
+      "Kaimur",
+      "Munger"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01936",
+    "question": "Where is Telhar Kund Waterfall located in Bihar",
+    "answer": "Kaimur",
+    "choices": [
+      "Kaimur",
+      "Nawada",
+      "Rohtas",
+      "Munger"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01937",
+    "question": "Where is Karakat Waterfall located in Bihar",
+    "answer": "Kaimur",
+    "choices": [
+      "Kaimur",
+      "Nawada",
+      "Rohtas",
+      "Munger"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01938",
+    "question": "Where is Manjhar Kund located in Bihar",
+    "answer": "Rohtas",
+    "choices": [
+      "Rohtas",
+      "Nawada",
+      "Kaimur",
+      "Munger"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01939",
+    "question": "Where is Dhua Kund located in Bihar",
+    "answer": "Rohtas",
+    "choices": [
+      "Rohtas",
+      "Nawada",
+      "Kaimur",
+      "Munger"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01940",
+    "question": "Where is Kanwar Lake located in Bihar",
+    "answer": "Begusarai",
+    "choices": [
+      "Begusarai",
+      "Rohtas",
+      "Kaimur",
+      "Nawada"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01941",
+    "question": "How may Ramsar sites are there in Bihar as of 2026",
+    "answer": "Six",
+    "choices": [
+      "Six",
+      "Four",
+      "Two",
+      "Five"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01942",
+    "question": "Where is Muchalinda Lake in Bihar",
+    "answer": "Bodhgaya",
+    "choices": [
+      "Bodhgaya",
+      "Rohtas",
+      "Kaimur",
+      "Nawada"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01943",
+    "question": "Where is Sarai Man Lake in Bihar",
+    "answer": "West Champaran",
+    "choices": [
+      "West Champaran",
+      "Bodhgaya",
+      "Munger",
+      "Rajgir"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01944",
+    "question": "Where is Moti Jheel located in Bihar",
+    "answer": "East Champaran",
+    "choices": [
+      "East Champaran",
+      "West Champaran",
+      "Munger",
+      "Rajgir"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01945",
+    "question": "Where is Pandu Pokhar located in Bihar",
+    "answer": "Rajgir",
+    "choices": [
+      "Rajgir",
+      "West Champaran",
+      "Munger",
+      "Rohtas"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01946",
+    "question": "Where is Ghorakatora Lake located in Bihar",
+    "answer": "Rajgir",
+    "choices": [
+      "Rajgir",
+      "West Champaran",
+      "Munger",
+      "Rohtas"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01947",
+    "question": "Which type of forest is found in Bihar",
+    "answer": "Moist Deciduos",
+    "choices": [
+      "Moist Deciduos",
+      "Dry Deciduos",
+      "Moist Evergreen",
+      "Dry Evergreen"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01948",
+    "question": "Which is most abundantly found in forests of Bihar",
+    "answer": "Sal",
+    "choices": [
+      "Sal",
+      "Shisham",
+      "Teak",
+      "Kadamb"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01949",
+    "question": "How much is the natural forest cover in Bihar",
+    "answer": "7.27 percent",
+    "choices": [
+      "7.27 percent",
+      "2.72 percent",
+      "3.72 percent",
+      "7.32 percent"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01950",
+    "question": "How many National Parks are there in Bihar",
+    "answer": "One",
+    "choices": [
+      "One",
+      "Two",
+      "Zero",
+      "Three"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01951",
+    "question": "Valmiki National Park is located in",
+    "answer": "West Champaran",
+    "choices": [
+      "West Champaran",
+      "East Champaran",
+      "Bhagalpur",
+      "Munger"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01952",
+    "question": "Vikramshila Gangetic Dolphin Wildlife Sanctuary is located in",
+    "answer": "Bhagalpur",
+    "choices": [
+      "Bhagalpur",
+      "Begusarai",
+      "Patna",
+      "Munger"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01953",
+    "question": "Where is Bhimbandh Wildlife Sanctuary located in Bihar",
+    "answer": "Munger",
+    "choices": [
+      "Munger",
+      "Begusarai",
+      "Patna",
+      "Bhagalpur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01954",
+    "question": "Where is Gautam Buddha Wildlife Sanctuary located in Bihar",
+    "answer": "Gaya",
+    "choices": [
+      "Gaya",
+      "Begusarai",
+      "Patna",
+      "Bhagalpur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01955",
+    "question": "Where is Udaypur Wildlife Sanctuary located in Bihar",
+    "answer": "West Champaran",
+    "choices": [
+      "West Champaran",
+      "Begusarai",
+      "Patna",
+      "Bhagalpur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01956",
+    "question": "Where is Nakti Dam located in Bihar",
+    "answer": "Jamui",
+    "choices": [
+      "Jamui",
+      "Begusarai",
+      "Patna",
+      "Bhagalpur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01957",
+    "question": "Where is Nagi Dam located in Bihar",
+    "answer": "Jamui",
+    "choices": [
+      "Jamui",
+      "Begusarai",
+      "Patna",
+      "Bhagalpur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01958",
+    "question": "The name of the Hindi weekly which was the mouthpiece of the agrarian and peasant movements in Bihar in 1940 was",
+    "answer": "Hunkar",
+    "choices": [
+      "Hunkar",
+      "Lokmat",
+      "Sarathi",
+      "Leader"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01959",
+    "question": "Who was author of Hunkar - a Hindi weekly voicing for peasants in Bihar",
+    "answer": "Swami Sahajanand Saraswati",
+    "choices": [
+      "Swami Sahajanand Saraswati",
+      "Ram Manohar Lohia",
+      "Jagadish Prasad",
+      "Jayaprakash Narayan"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01960",
+    "question": "Who was the first provisional premier of Bihar under Provincial Autonomy in 1937",
+    "answer": "Mohammad Yunus",
+    "choices": [
+      "Mohammad Yunus",
+      "Shri Krishna Sinha",
+      "Ramsunder Singh",
+      "Jagdal Chaudhary"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01961",
+    "question": "Who was the first premier of Bihar under Provincial Autonomy in 1937",
+    "answer": "Shri Krishna Sinha",
+    "choices": [
+      "Shri Krishna Sinha",
+      "Mohammad Yunus",
+      "Ramsunder Singh",
+      "Jagdal Chaudhary"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01962",
+    "question": "The first Indian National Congress session in Bihar after bcoming a separate province was held in",
+    "answer": "Patna, 1912",
+    "choices": [
+      "Patna, 1912",
+      "Gaya, 1922",
+      "Patna, 1934",
+      "Gaya, 1934"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01963",
+    "question": "The Indian National Congress Session of 1922 was held at which place in Bihar?",
+    "answer": "Gaya",
+    "choices": [
+      "Gaya",
+      "Patna",
+      "Munger",
+      "Bhagalpur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01964",
+    "question": "Who organised the Hindu Mela",
+    "answer": "Nabagopal Mitra",
+    "choices": [
+      "Nabagopal Mitra",
+      "Satyendranath Tagore",
+      "Aurobindo Ghosh",
+      "Rajnarayan Bose"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01965",
+    "question": "Who was the commissioner of Patna divison during the revolt of 1857?",
+    "answer": "William Taylor",
+    "choices": [
+      "William Taylor",
+      "H. C. Wake",
+      "Brigadier Douglas",
+      "R. P. Harrison"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01966",
+    "question": "Kunwar Singh returned to Jagdishpur Palace on",
+    "answer": "23rd April 1858",
+    "choices": [
+      "23rd April 1858",
+      "23rd April 1859",
+      "26th April 1859",
+      "26th April 1858"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01967",
+    "question": "When did Kunwar Singh, leader of revolt of 1857 in Bihar, breathed his last?",
+    "answer": "26th April 1858",
+    "choices": [
+      "26th April 1858",
+      "23rd April 1859",
+      "23rd April 1858",
+      "26th April 1859"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01968",
+    "question": "Veer Kunwar Singh was the king of",
+    "answer": "Jagadishpur",
+    "choices": [
+      "Jagadishpur",
+      "Dheerpur",
+      "Rampur",
+      "Hamirpur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01969",
+    "question": "Who fought bravely against the British troops under Brigadier Douglas on 21 April, 1858 in Bihar?",
+    "answer": "Kunwar Singh",
+    "choices": [
+      "Kunwar Singh",
+      "Ujjal Sahi",
+      "Surendra Sahi",
+      "Jagdal Choudhary"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01970",
+    "question": "Name the revolutionary from Bihar who attended the meeting of Hindustan Socialist Republican Army in September, 1928",
+    "answer": "Phanindra Nath Ghosh",
+    "choices": [
+      "Phanindra Nath Ghosh",
+      "Bhagat Singh",
+      "Ajay Ghosh",
+      "Jyotindra Nath"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01971",
+    "question": "Patna was made capital of his state by",
+    "answer": "Shershah Suri",
+    "choices": [
+      "Shershah Suri",
+      "Alauddin Hussain Shah",
+      "Ibrahim Lodi",
+      "Prince Azim"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01972",
+    "question": "Who was the mentor of Birsa Munda?",
+    "answer": "Anand Pandey",
+    "choices": [
+      "Anand Pandey",
+      "Swami Sahajanand Saraswati",
+      "Jatra Bhagat",
+      "M. N. Roy"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01973",
+    "question": "When was Birsa Munda born",
+    "answer": "15th November 1875",
+    "choices": [
+      "15th November 1875",
+      "15th November 1975",
+      "15th November 1965",
+      "15th November 1865"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01974",
+    "question": "Birsa Munda was captured in Chakradharpur, while asleep on",
+    "answer": "3rd February 1900",
+    "choices": [
+      "3rd February 1900",
+      "1st February 1900",
+      "2nd February 1900",
+      "4th February 1900"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01975",
+    "question": "Identify the region where Santhals declared their government in 1855-56",
+    "answer": "Bhagalpur-Rajmahal",
+    "choices": [
+      "Bhagalpur-Rajmahal",
+      "Munger-Bhagalpur",
+      "Gaya-Munger",
+      "Shahabad-Gaya"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01976",
+    "question": "The Bihar Herald was started in 1872 by",
+    "answer": "Babu Guru Prasad Sen",
+    "choices": [
+      "Babu Guru Prasad Sen",
+      "Munahi Surajmal",
+      "Rai Roshan Lal",
+      "Krishan Bhatt"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01977",
+    "question": "Which was the first English newspaper published from Patna?",
+    "answer": "The Bihar Herald",
+    "choices": [
+      "The Bihar Herald",
+      "The Indian Mirror",
+      "Searchlight",
+      "Hindoo Patriot"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01978",
+    "question": "The revolt of 1857 affected many towns of Bihar, Which of the following is the correct sequence of the occurrence of revolt in various town of Bihar?",
+    "answer": "Rohini > Patna > Muzaffarpur > Jagdishpur",
+    "choices": [
+      "Rohini > Patna > Muzaffarpur > Jagdishpur",
+      "Muzaffarpur > Patna > Jagadishpur > Rohini",
+      "Jagadishpur > Patna > Rohini > Muzaffarpur",
+      "Patna > Muzaffarpur > Rohini > Jagadishpur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01979",
+    "question": "Which leader of Bihar along with Mahatma Gandhi led the farmer's movement?",
+    "answer": "Raj Kumar Shukla",
+    "choices": [
+      "Raj Kumar Shukla",
+      "Rajendra Prasad",
+      "Baba Ramchandra",
+      "Rafi Ahmed Kidwai"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01980",
+    "question": "Raj Kumar Shukla was a resident of which village?",
+    "answer": "Murali Bharahwa",
+    "choices": [
+      "Murali Bharahwa",
+      "Murali Bheet",
+      "Murali Kher",
+      "Murali Dhir"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01981",
+    "question": "Who highlighted the plight of the peasants of Champaran by writing psedonyms like Dukhi, Dukhi Atma, Dukhi Hriday?",
+    "answer": "Pir Mohaammed Munis",
+    "choices": [
+      "Pir Mohaammed Munis",
+      "Rajendra Prasad",
+      "Rajkumar Shukla",
+      "Sahajanand Saraswati"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01982",
+    "question": "Who was the author of Biography of Kunwar Singh and Amar Singh",
+    "answer": "Kalikinkar Datta",
+    "choices": [
+      "Kalikinkar Datta",
+      "M. N. Roy",
+      "Jawaharlal Nehru",
+      "Sahajanand Saraswati"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01983",
+    "question": "Swami Sahajanand Saraswati published a magazine named",
+    "answer": "Hunkar",
+    "choices": [
+      "Hunkar",
+      "Jankranti",
+      "Krishak Samachar",
+      "Vidrohi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01984",
+    "question": "One of the popular beliefs in Bihar during the Non-Cooperation Movement of 1920-22 was that they would be victorious because Gandhi",
+    "answer": "was an accomplished politician",
+    "choices": [
+      "was an accomplished politician",
+      "was the epitome of Dharma",
+      "knew the way to defeat the English",
+      "knew English"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01985",
+    "question": "On which date Linlithgow ordered to fire on the mob of Patna and its surrounding during the August Revolution, 1942?",
+    "answer": "11th August 1942",
+    "choices": [
+      "11th August 1942",
+      "1st August 1942",
+      "15th August 1942",
+      "5th August 1942"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01986",
+    "question": "Dr. Rajendra Prasad, who was the first President of India, earlier held the position of",
+    "answer": "Chairman of Patna Municipality",
+    "choices": [
+      "Chairman of Patna Municipality",
+      "Chief Minister of Bihar",
+      "Head Postmaster at Chapra",
+      "Mayor of Patna"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01987",
+    "question": "Where was the first Zila School of Bihar opened in 1835",
+    "answer": "Patna",
+    "choices": [
+      "Patna",
+      "Muzaffarpur",
+      "Darbhanga",
+      "Munger"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01988",
+    "question": "Who left Patna College with just 20 days remaining for his examination during the Non-Cooperation movement?",
+    "answer": "Jai Prakash Narayan",
+    "choices": [
+      "Jai Prakash Narayan",
+      "Rajendra Prasad",
+      "Braj Kishore",
+      "Shri Krishna Sinha"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01989",
+    "question": "Jubba Sahni, a freedom fighter belonged to which district of Bihar?",
+    "answer": "Muzaffarpur",
+    "choices": [
+      "Muzaffarpur",
+      "Bhagalpur",
+      "Patna",
+      "Sasaram"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01990",
+    "question": "Who led cultivators in Bihar during the Non-Cooperation Movement?",
+    "answer": "Swami Vidyanand",
+    "choices": [
+      "Swami Vidyanand",
+      "Shri Krishna Sinha",
+      "Raj Kumar Shukla",
+      "Sahajanand Saraswati"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01991",
+    "question": "Who led the peasant movement in the region of Darbhanga Raj?",
+    "answer": "Swami Vidyanand",
+    "choices": [
+      "Swami Vidyanand",
+      "Baba Ramchandra",
+      "Vinoba Bhave",
+      "Sahajanand Saraswati"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01992",
+    "question": "During Salt Satyagraha, in Bihar, in addition to making salt, the people choose to oppose the government by opposing which tax?",
+    "answer": "Chowkidari",
+    "choices": [
+      "Chowkidari",
+      "Haathi",
+      "Malba",
+      "Development"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01993",
+    "question": "When was the Salt Movement started in Bihar?",
+    "answer": "12th March 1930",
+    "choices": [
+      "12th March 1930",
+      "12th April 1930",
+      "12th May 1930",
+      "12th June 1930"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01994",
+    "question": "Famous sufi saint of Bihar Sharfuddin Maneri is related to which Sufi order?",
+    "answer": "Firdausi",
+    "choices": [
+      "Firdausi",
+      "Chisti",
+      "Suhrawardi",
+      "Kubrawi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01995",
+    "question": "Who was the first Muslim conqueror of Bihar?",
+    "answer": "Bakhtiyar Khalji",
+    "choices": [
+      "Bakhtiyar Khalji",
+      "Malik Ibrahim",
+      "Iltutmish",
+      "Ali Mardan Khalji"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01996",
+    "question": "Baba Thakur Das established which society in Patna?",
+    "answer": "Ramakrishna Mission Society",
+    "choices": [
+      "Ramakrishna Mission Society",
+      "Servants of India Society",
+      "Seva Samiti",
+      "Social Service League"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01997",
+    "question": "Who established the branch of Anushila Samiti at Patna in 1913",
+    "answer": "Sachindra Nath Sanyal",
+    "choices": [
+      "Sachindra Nath Sanyal",
+      "Bankim Chandra Mitra",
+      "Raghubir Singh",
+      "Baba Thakur Das"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01998",
+    "question": "Who established Swaraj Dal in Bihar",
+    "answer": "Shri Krishna Sinha",
+    "choices": [
+      "Shri Krishna Sinha",
+      "Bankim Chandra Mitra",
+      "Ramlal Singh",
+      "Rajendra Prasad"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01999",
+    "question": "Bihar Congress Socialist Party was formed in",
+    "answer": "1934",
+    "choices": [
+      "1934",
+      "1939",
+      "1931",
+      "1930"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02000",
+    "question": "Bihar Socialist party was born in 1934 with its secretary",
+    "answer": "Jayaprakash Narayan",
+    "choices": [
+      "Jayaprakash Narayan",
+      "Acharya Narendra Dev",
+      "Rambriksh Benipuri",
+      "Karpoori Thakur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02001",
+    "question": "Who formed the Bihar Samajwadi Party in 1931",
+    "answer": "Phoolan Prasad Verma & Jayaprakash Narayan",
+    "choices": [
+      "Phoolan Prasad Verma & Jayaprakash Narayan",
+      "Phoolchand Tiwari & Rajendra Prasad",
+      "Rajkumar Shukla & Swami Agnivesh",
+      "Swami Sahajanand & Swami Yogananda"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02002",
+    "question": "When was Bihar Samajwadi Party formed",
+    "answer": "1931",
+    "choices": [
+      "1931",
+      "1934",
+      "1939",
+      "1930"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02003",
+    "question": "Bihar Provincial Kisan Sabha was formed in",
+    "answer": "1929",
+    "choices": [
+      "1929",
+      "1934",
+      "1939",
+      "1930"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02004",
+    "question": "Who started the Kisan Sabha Movement in Bihar in 1929?",
+    "answer": "Swami Sahajanand Saraswati",
+    "choices": [
+      "Swami Sahajanand Saraswati",
+      "Raj Kumar Shukla",
+      "Baikuntha Shukla",
+      "Acharya Kripalani"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02005",
+    "question": "Name the left-wing leader of Bihar Provincial Kisan Sabha who popularised this in Bihar?",
+    "answer": "karyanand Sharma",
+    "choices": [
+      "karyanand Sharma",
+      "Wadhwa Ram",
+      "P. C. Joshi",
+      "Raj Kumar Shukla"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02006",
+    "question": "The first Indian Ministry in Bihar in 1937 came into existence under whose leadership?",
+    "answer": "Md. Yunus",
+    "choices": [
+      "Md. Yunus",
+      "Shri Krishna Sinha",
+      "Wahab Ali",
+      "G. S. Lal"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02007",
+    "question": "The elected Government of Bihar resigned in February 1938 for which reason?",
+    "answer": "For the release of political prisoners",
+    "choices": [
+      "For the release of political prisoners",
+      "the participation of India in war",
+      "Satyagraha against the British at the call of Gandhi",
+      "High taxes being imposed by British"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02008",
+    "question": "Who led the Ambari Satyagraha in 1939 in Bihar",
+    "answer": "Rahul Sankrityayan",
+    "choices": [
+      "Rahul Sankrityayan",
+      "Yadunandan Sharma",
+      "Swami Sahajanand",
+      "Swami Yoganand"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02009",
+    "question": "Who among the following was the leader of the first Congress Ministry in Bihar?",
+    "answer": "Shri Krishna Sinha",
+    "choices": [
+      "Shri Krishna Sinha",
+      "Abdul Bari",
+      "Anugrah Narayan Sinha",
+      "Jayaprakash Narayan"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02010",
+    "question": "Gandhiji's Non-Cooperation movement urged people to avoid alcohol. This resulted in a serious loss of revenue for the government. The government of a province circulated a list of prominent individuals who drank alcohol as a device to persuade people to start drinking again. Name the province",
+    "answer": "Bihar",
+    "choices": [
+      "Bihar",
+      "Bombay",
+      "Gujarat",
+      "Andhra Pradesh"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02011",
+    "question": "Which of the following statement is correct about the Maharajas of Dumrao, Darbhanga and Hatwa during the revolt of 1857",
+    "answer": "They helped the English with men and money",
+    "choices": [
+      "They helped the English with men and money",
+      "They helped the English with men but not money",
+      "They helped the English with only money but not men",
+      "They opposed the English"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02012",
+    "question": "The word Bihar originally means",
+    "answer": "Buddhist Monastery",
+    "choices": [
+      "Buddhist Monastery",
+      "Land of Angels",
+      "Arya Pradesh",
+      "Land of Greenry"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02013",
+    "question": "According to following districts, which one has larger area under dense deciduous forest cover?",
+    "answer": "Paschim Champaran",
+    "choices": [
+      "Paschim Champaran",
+      "Gaya",
+      "Kaimur",
+      "Nawada"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02014",
+    "question": "How many UNESCO World Heritage site is there in Bihar?",
+    "answer": "Two",
+    "choices": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02015",
+    "question": "Which river divides the northern plain area of Bihar into two parts?",
+    "answer": "Bagmati",
+    "choices": [
+      "Bagmati",
+      "Ganga",
+      "Gandak",
+      "Kosi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02016",
+    "question": "Which one of the following soils in not found in the Northern Gangetic Plain of Bihar?",
+    "answer": "Balthar Mitti",
+    "choices": [
+      "Balthar Mitti",
+      "New Alluvial (Khadar)",
+      "Marshy Soil",
+      "Bal Sundari Mitti"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02017",
+    "question": "The most predominant type of soil found in Bihar is",
+    "answer": "Alluvial Soil",
+    "choices": [
+      "Alluvial Soil",
+      "Laterite Soil",
+      "Yellow & Red Soil",
+      "Black Soil"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02018",
+    "question": "Which river system is primarily responsible for the formation of the alluvial soils in Bihar?",
+    "answer": "Ganga",
+    "choices": [
+      "Ganga",
+      "Godavari",
+      "Son",
+      "Mahanadi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02019",
+    "question": "Which district of Bihar is known for patches of laterite soil?",
+    "answer": "Gaya",
+    "choices": [
+      "Gaya",
+      "Patna",
+      "Purnea",
+      "Sitamarhi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02020",
+    "question": "Red and yellow soils in Bihar are mainly found in:",
+    "answer": "South Bihar Plateau region",
+    "choices": [
+      "South Bihar Plateau region",
+      "North Bihar plains",
+      "Floodplains of Kosi",
+      "Champaran region"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02021",
+    "question": "The soil in the Kosi river basin of Bihar is often less fertile due to:",
+    "answer": "Sand Deposition",
+    "choices": [
+      "Sand Deposition",
+      "Salinity",
+      "Excess Clay",
+      "Rocky Texture"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02022",
+    "question": "The Harha Valley in Bihar lies between which two geographical features?",
+    "answer": "Someshwar Range and Ramnagar Dun",
+    "choices": [
+      "Someshwar Range and Ramnagar Dun",
+      "Chotanagpur Plateau and Rajmahal Hills",
+      "Kaimur Hills and Rohtas Plateau",
+      "Gandak River and Koshi River"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02023",
+    "question": "The Harha Valley is also known as:",
+    "answer": "Doon Valley",
+    "choices": [
+      "Doon Valley",
+      "Terai Basin",
+      "Malwa Plateau",
+      "Barind Region"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02024",
+    "question": "The Harha River is located in which physical division of Bihar?",
+    "answer": "Northwestern Shivalik–Terai Region",
+    "choices": [
+      "Northwestern Shivalik–Terai Region",
+      "Middle Ganga Plain",
+      "Chhotanagpur Region",
+      "Eastern Coastal Plain"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02025",
+    "question": "Which of the following rivers does not make boundary between Uttar Pradesh and Bihar?",
+    "answer": "Son",
+    "choices": [
+      "Son",
+      "Gandak",
+      "Ghagra",
+      "Karmanasha"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02026",
+    "question": "From which river water comes in Triveni Canal?",
+    "answer": "Gandak",
+    "choices": [
+      "Gandak",
+      "Son",
+      "Kosi",
+      "Mayurkashi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02027",
+    "question": "Where does the Budhi Gandak river meet the Ganga river?",
+    "answer": "Khagaria",
+    "choices": [
+      "Khagaria",
+      "Badalaghat",
+      "Kursela",
+      "Maner"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02028",
+    "question": "Mohana and Lilajan rivers are related to which river?",
+    "answer": "Falgu River",
+    "choices": [
+      "Falgu River",
+      "Kosi River",
+      "Chandan River",
+      "Kiul River"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02029",
+    "question": "With which district is Chandan river related to in Bihar?",
+    "answer": "Banka",
+    "choices": [
+      "Banka",
+      "Nawada",
+      "Buxar",
+      "Madhubani"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02030",
+    "question": "Where is Baraila Salim Ali-Zubba Sahni Bird Sanctuary located?",
+    "answer": "Vaishali",
+    "choices": [
+      "Vaishali",
+      "Bhagalpur",
+      "Begusarai",
+      "Rohtas"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02031",
+    "question": "When is Bihar Prithvi Divas celebrated?",
+    "answer": "9th August",
+    "choices": [
+      "9th August",
+      "22nd April",
+      "5th June",
+      "2nd October"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02032",
+    "question": "The Someshwar Range is a part of which major Himalayan foothills?",
+    "answer": "Shiwaliks",
+    "choices": [
+      "Shiwaliks",
+      "Karakoram Range",
+      "Pir Panjal Range",
+      "Lesser Himalayas"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02033",
+    "question": "Which district of Bihar is home to the Someshwar Range?",
+    "answer": "West Champaran",
+    "choices": [
+      "West Champaran",
+      "East Champaran",
+      "Sitamarhi",
+      "Sheohar"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02034",
+    "question": "What is the name of the highest peak in the Someshwar Range, which is also the highest point in Bihar?",
+    "answer": "Someshwar Fort",
+    "choices": [
+      "Someshwar Fort",
+      "Rajgir Peak",
+      "Kaimur Fort",
+      "Girnar Peak"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02035",
+    "question": "The Someshwar Range forms a natural border between Bihar and which neighboring country?",
+    "answer": "Nepal",
+    "choices": [
+      "Nepal",
+      "Bangladesh",
+      "Bhutan",
+      "China"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02036",
+    "question": "Which river flows through the Valmiki National Park and forms the western boundary of the Valmiki Wildlife Sanctuary, located near the Sumeshwar Range?",
+    "answer": "Gandak",
+    "choices": [
+      "Gandak",
+      "Kosi",
+      "Ganga",
+      "Son"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02037",
+    "question": "What type of rocks primarily make up the Sumeshwar Range?",
+    "answer": "Sedimentory Rocks",
+    "choices": [
+      "Sedimentory Rocks",
+      "Igneous Rock",
+      "Metamorphic Rock",
+      "Granite Rocks"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02038",
+    "question": "Apart from the Sumeshwar Range, which of the following is another major hill range in Bihar?",
+    "answer": "Vindhya",
+    "choices": [
+      "Vindhya",
+      "Aravalli",
+      "Satupura Range",
+      "Eastern Ghats"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02039",
+    "question": "The Valmiki National Park is contiguous with which national park in Nepal?",
+    "answer": "Chitwan National Park",
+    "choices": [
+      "Chitwan National Park",
+      "Bardiya National Park",
+      "Sagarmatha National Park",
+      "Langtang National Park"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02040",
+    "question": "The Kanti Thermal Power Station is located near which city in Bihar?",
+    "answer": "Muzaffarpur",
+    "choices": [
+      "Muzaffarpur",
+      "Bhagalpur",
+      "Gaya",
+      "Patna"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02041",
+    "question": "Which power plant, located in the Bhagalpur district of Bihar, is a major source of power for the eastern region of India?",
+    "answer": "Kahalgaon Super Thermal Power Station",
+    "choices": [
+      "Kahalgaon Super Thermal Power Station",
+      "Nabinagar Super Thermal Power Project",
+      "Muzaffarpur Thermal Power Station",
+      "Barauni Thermal Power Station"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02042",
+    "question": "In which district of Bihar is the Nabinagar Super Thermal Power Project located?",
+    "answer": "Aurangabad",
+    "choices": [
+      "Aurangabad",
+      "Bhagalpur",
+      "Muzaffarpur",
+      "Begusarai"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02043",
+    "question": "The Barauni Thermal Power Station, one of the oldest power plants in Bihar, is located in which district?",
+    "answer": "Begusarai",
+    "choices": [
+      "Begusarai",
+      "Gaya",
+      "Supaul",
+      "Muzaffarpur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02044",
+    "question": "Where is NTPC Barh Super Thermal Power Plant located in Bihar?",
+    "answer": "Patna",
+    "choices": [
+      "Patna",
+      "Begusarai",
+      "Bhagalpur",
+      "Aurangabad"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02045",
+    "question": "Which city in Bihar is famously known as the 'Silk City' for its textile manufacturing?",
+    "answer": "Bhagalpur",
+    "choices": [
+      "Bhagalpur",
+      "Muzaffarpur",
+      "Gaya",
+      "Patna"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02046",
+    "question": "The famous Tussar silk is a specialty of which city in Bihar?",
+    "answer": "Bhagalpur",
+    "choices": [
+      "Bhagalpur",
+      "Nalanda",
+      "Vaishali",
+      "Darbhanga"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02047",
+    "question": "The silk industry in Bihar primarily focuses on which aspect of textile production?",
+    "answer": "Weaving and Manufacturing",
+    "choices": [
+      "Weaving and Manufacturing",
+      "Spinning & Reeling",
+      "Finishing & Dyeing",
+      "Sericulture (rearing Silkwroms)"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02048",
+    "question": "Where were the two main manufacturing plants of Bharat Wagon & Engineering Company Limited (BWEL) located in Bihar?",
+    "answer": "Muzaffarpur & Mokama",
+    "choices": [
+      "Muzaffarpur & Mokama",
+      "Bhagalpur & Nalanda",
+      "Darbhanga & Arrah",
+      "Patna & Gaya"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02049",
+    "question": "The Electric Locomotive Factory in Madhepura is a joint venture between Indian Railways and which company?",
+    "answer": "Alstom SA",
+    "choices": [
+      "Alstom SA",
+      "Bombardier",
+      "General Electric",
+      "Siemens"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02050",
+    "question": "Dalmianagar, a major industrial hub in its prime, is located in which district of Bihar?",
+    "answer": "Rohtas",
+    "choices": [
+      "Rohtas",
+      "Kaimur",
+      "Patna",
+      "Gaya"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02051",
+    "question": "Dalmianagar in Bihar is known for",
+    "answer": "Cement",
+    "choices": [
+      "Cement",
+      "Silk",
+      "Leather",
+      "Jute"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02052",
+    "question": "What river is Dalmiyanagar situated on the banks of?",
+    "answer": "Son",
+    "choices": [
+      "Son",
+      "Ganga",
+      "Falgu",
+      "Punpun"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02053",
+    "question": "Mica, a mineral used in electrical insulation and electronics, is primarily found in which two districts of Bihar?",
+    "answer": "Nawada & Jamui",
+    "choices": [
+      "Nawada & Jamui",
+      "Patna & Bhojpur",
+      "Rohtas & Kaimur",
+      "Jamui & Banka"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02054",
+    "question": "Limestone, a crucial raw material for the cement industry, is abundant in which part of Bihar?",
+    "answer": "Southern Plateau region",
+    "choices": [
+      "Southern Plateau region",
+      "Ganga Basin",
+      "Eastern foothills of Himalayas",
+      "Northern Plains"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02055",
+    "question": "Which district of Bihar is a known source of Quartzite, a mineral used in the production of glass and ceramics?",
+    "answer": "Munger",
+    "choices": [
+      "Munger",
+      "Kishanganj",
+      "Sheohar",
+      "Arwal"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02056",
+    "question": "Which mineral found in Bihar is used in the manufacture of ceramics and is often referred to as 'kaolin'?",
+    "answer": "China Clay",
+    "choices": [
+      "China Clay",
+      "Dolomite",
+      "Steatite",
+      "Bauxite"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02057",
+    "question": "The Amjhore area in the Rohtas district is particularly famous for the mining of which mineral?",
+    "answer": "Pyrites",
+    "choices": [
+      "Pyrites",
+      "Mica",
+      "Bauxite",
+      "Gold"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02058",
+    "question": "Steatite, also known as soapstone, which is used for talcum powder and carvings, is found in which of the following regions of Bihar?",
+    "answer": "Gaya",
+    "choices": [
+      "Gaya",
+      "Supaul",
+      "Vaishali",
+      "Purnia"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02059",
+    "question": "Gold deposits have been discovered in which district of Bihar, leading to significant geological interest?",
+    "answer": "Jamui",
+    "choices": [
+      "Jamui",
+      "Rohtas",
+      "Lakhisarai",
+      "Saharsa"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02060",
+    "question": "Which district in Bihar is home to the Barauni Refinery?",
+    "answer": "Begusarai",
+    "choices": [
+      "Begusarai",
+      "Munger",
+      "Patna",
+      "Gaya"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02061",
+    "question": "The Barauni Refinery was established as a result of a collaboration between India and which other country?",
+    "answer": "Soviet Union",
+    "choices": [
+      "Soviet Union",
+      "United Kingdom",
+      "France",
+      "United States"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02062",
+    "question": "Which type of soil is predominantly found in the northern part of Bihar and is known for its high fertility?",
+    "answer": "Alluvial Soil",
+    "choices": [
+      "Alluvial Soil",
+      "Piedmont Swamp Soil",
+      "Red & Yellow Soil",
+      "Karail-Kewal Soil"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02063",
+    "question": "The older alluvial soil found in Bihar's plains is locally known by which of the following names?",
+    "answer": "Bangur",
+    "choices": [
+      "Bangur",
+      "Balthar",
+      "Tal",
+      "Khadar"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02064",
+    "question": "The 'Tal' soil, found in the southern Gangetic plain of Bihar, is best suited for the cultivation of which crop?",
+    "answer": "Wheat & Pulses",
+    "choices": [
+      "Wheat & Pulses",
+      "Rice (Dhan)",
+      "Sugarcane",
+      "Tea"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02065",
+    "question": "Karail-Kewal soil is a type of soil that is dark in color and has a heavy texture. Where is this soil primarily found?",
+    "answer": "Southern part of Gangetic plain",
+    "choices": [
+      "Southern part of Gangetic plain",
+      "Transitional zone between the plains and plateau",
+      "Mountainous region of state",
+      "Northernmost districts of Bihar"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02066",
+    "question": "The Red and Yellow soils in Bihar are found in the southern plateau region. What is the primary reason for their color?",
+    "answer": "Oxidation of Iron Compounds",
+    "choices": [
+      "Oxidation of Iron Compounds",
+      "High content of phosphorus and potash",
+      "Presence of humus and other organic matter",
+      "Low moisture retention and sandy texture"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02067",
+    "question": "Which of the following soil types is formed by wind-blown deposits, is light in texture, and is found along the banks of the Ganges River?",
+    "answer": "Bal Sundari Soil",
+    "choices": [
+      "Bal Sundari Soil",
+      "Bhat Soil",
+      "Doab Soil",
+      "Teri Soil"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02068",
+    "question": "The soils in the floodplains of the Kosi River are often sandy and have a high pH. What is this soil type called?",
+    "answer": "Dhira Soil",
+    "choices": [
+      "Dhira Soil",
+      "Talsand Soil",
+      "Tari Soil",
+      "Bhangar Soil"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02069",
+    "question": "Soil in Bihar is often deficient in which two essential nutrients for plant growth?",
+    "answer": "Nitrogen and Phosphorus",
+    "choices": [
+      "Nitrogen and Phosphorus",
+      "Potash and Calcium",
+      "Sulphur and Manganese",
+      "Iron and Zinc"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02070",
+    "question": "Which soil type in Bihar is characterized by its reddish-yellow color, is found in the transitional zone between the plains and the plateau, and is often less fertile?",
+    "answer": "Balthar Soil",
+    "choices": [
+      "Balthar Soil",
+      "Red and Yellow Soil",
+      "Bangur Soil",
+      "Tal Soil"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02071",
+    "question": "Which state in India is the largest producer of litchi?",
+    "answer": "Bihar",
+    "choices": [
+      "Bihar",
+      "Jharkhand",
+      "Uttar Pradesh",
+      "West Bengal"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02072",
+    "question": "Which city is famously known as the “Litchi Capital of India”?",
+    "answer": "Muzaffarpur",
+    "choices": [
+      "Muzaffarpur",
+      "Bhagalpur",
+      "Darbhanga",
+      "Patna"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02073",
+    "question": "What is the name of the special variety of litchi from Muzaffarpur that has a GI tag?",
+    "answer": "Shahi Litchi",
+    "choices": [
+      "Shahi Litchi",
+      "Purbi Litchi",
+      "China Litchi",
+      "Deshi Litchi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02074",
+    "question": "Which of the following is the largest freshwater oxbow lake in Asia and is located in Bihar?",
+    "answer": "Kabar Taal (Kanwar Lake)",
+    "choices": [
+      "Kabar Taal (Kanwar Lake)",
+      "Ghogha Lake",
+      "Baraila Lake",
+      "Kusheshwar Asthan Lake"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02075",
+    "question": "Which lake in Bihar is a declared bird sanctuary and is famous for attracting a large number of migratory birds during the winter?",
+    "answer": "Kusheshwar Asthan Bird Sanctuary",
+    "choices": [
+      "Kusheshwar Asthan Bird Sanctuary",
+      "Baraila Lake",
+      "Ghogha Lake",
+      "Kanwar Lake"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02076",
+    "question": "Which of the following is a prominent man-made reservoir in Bihar, created for irrigation and power generation?",
+    "answer": "Indrapuri Barrage",
+    "choices": [
+      "Indrapuri Barrage",
+      "Ghogha Lake",
+      "Kanwar lake",
+      "Jal Mandir Lake"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02077",
+    "question": "Kusheshwar Asthan, a famous bird sanctuary, is located in which district of Bihar?",
+    "answer": "Darbhanga",
+    "choices": [
+      "Darbhanga",
+      "Araria",
+      "Madhepura",
+      "Katihar"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02078",
+    "question": "The 'Ghogha Lake' is an important wetland for migratory birds and is located in which district?",
+    "answer": "Bhagalpur",
+    "choices": [
+      "Bhagalpur",
+      "Nalanda",
+      "Jamui",
+      "Araria"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02079",
+    "question": "The monsoon season in Bihar is primarily influenced by which branch of the Indian Monsoon?",
+    "answer": "Bay of Bengal branch",
+    "choices": [
+      "Bay of Bengal branch",
+      "South China Sea branch",
+      "Arabian Sea branch",
+      "Andaman Sea branch"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02080",
+    "question": "Which district in Bihar has the highest forest cover by area?",
+    "answer": "Kaimur (Bhabua)",
+    "choices": [
+      "Kaimur (Bhabua)",
+      "West Champaran",
+      "Jamui",
+      "Rohtas"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02081",
+    "question": "Which wildlife sanctuary is currently being proposed to become Bihar's second tiger reserve?",
+    "answer": "Kaimur Wildlife Sanctuary",
+    "choices": [
+      "Kaimur Wildlife Sanctuary",
+      "Bhimbandh Wildlife Sanctuary",
+      "Udaipur Wildlife Sanctuary",
+      "Gautam Buddha Wildlife Sanctuary"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02082",
+    "question": "Which wildlife sanctuary is the largest in Bihar by area?",
+    "answer": "Kaimur Wildlife Sanctuary",
+    "choices": [
+      "Kaimur Wildlife Sanctuary",
+      "Valmiki National Park",
+      "Bhimbandh Wildlife Sanctuary",
+      "Nagi Dam Bird Sanctuary"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02083",
+    "question": "Which major river, known as the 'Sorrow of Bihar,' is infamous for its frequent changes in course and devastating floods?",
+    "answer": "Kosi",
+    "choices": [
+      "Kosi",
+      "Son",
+      "Gandak",
+      "Mahananda"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02084",
+    "question": "At which of the following locations does the Gandak River join the Ganga?",
+    "answer": "Sonpur",
+    "choices": [
+      "Sonpur",
+      "Badalaghat",
+      "Chhapra",
+      "Khagaria"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02085",
+    "question": "Which river originates from the Chota Nagpur Plateau and flows into South Bihar?",
+    "answer": "Falgu",
+    "choices": [
+      "Falgu",
+      "Son",
+      "Mahananda",
+      "Bagmati"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02086",
+    "question": "Where is Bihar's first inland container depot (ICD) located?",
+    "answer": "Bihta (Patna)",
+    "choices": [
+      "Bihta (Patna)",
+      "Purnea",
+      "Gaya",
+      "Banka"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02087",
+    "question": "JEEViKA was initially supported by which international organization?",
+    "answer": "World Bank",
+    "choices": [
+      "World Bank",
+      "UNDP",
+      "UNICEF",
+      "IMF"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02088",
+    "question": "Which of the following parks/sanctuaries come under the project tiger in Bihar?",
+    "answer": "Valmiki National Park",
+    "choices": [
+      "Valmiki National Park",
+      "Udaypur Wildlife Sanctuary",
+      "Bhimbandh Wildlife Sanctuary",
+      "None of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02089",
+    "question": "Which of the following is the state animal of Bihar?",
+    "answer": "Bull (Gaur)",
+    "choices": [
+      "Bull (Gaur)",
+      "Cow",
+      "Buffalo",
+      "Horse"
+    ],
+    "information": "The state animal of Bihar is the Gaur (Bos gaurus).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02090",
+    "question": "In which year, the Nalanda University was re-established in Bihar?",
+    "answer": "2014",
+    "choices": [
+      "2014",
+      "2008",
+      "2007",
+      "2005"
+    ],
+    "information": "The modern Nalanda University was effectively re-established in 2014, when it commenced its first academic session.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02091",
+    "question": "Karmanasa river originates in",
+    "answer": "Kaimur",
+    "choices": [
+      "Kaimur",
+      "Vaishali",
+      "Patna",
+      "Bikram"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02092",
+    "question": "Most of the Bihar comes under which of the following climate type?",
+    "answer": "Subtropical Monsoon",
+    "choices": [
+      "Subtropical Monsoon",
+      "Tropical Savannah",
+      "Hot and Dry",
+      "Hot and Semi Arid"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02093",
+    "question": "Which Congress leader visited Bihar in 1918 in order to strengthen the activities of Home Rule League?",
+    "answer": "Annie Besant",
+    "choices": [
+      "Annie Besant",
+      "Bal Gangadhar Tilak",
+      "Mahatma Gandhi",
+      "M A Ansari"
+    ],
+    "information": "Mrs. Annie Besant visited Bihar in 1918 in connection with the Home Rule Movement. She was a leader of the Congress and presided over its 1917 session.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02094",
+    "question": "Champaran Agrarian Committee was appointed in agreement between",
+    "answer": "Indian Government and Gandhiji",
+    "choices": [
+      "Indian Government and Gandhiji",
+      "Indian Government and Raj Kumar Shukla",
+      "Indian Government and Rajendra Prasad",
+      "Indian Government and Anugraha Narayan Singh"
+    ],
+    "information": "Gandhi led the Champaran Movement, represented the peasants in the Champaran Agrarian Committee which examined the grievances of the peasants.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02095",
+    "question": "Who was the prominent leader of Kisan Sabha movement in Bihar?",
+    "answer": "Sahajanand Saraswati",
+    "choices": [
+      "Sahajanand Saraswati",
+      "Raj Kumar Shukla",
+      "Acharya Narendra Dev",
+      "Baba Ram Chandra"
+    ],
+    "information": "The prominent leader of the Kisan Sabha movement in Bihar was Swami Sahajanand Saraswati",
+    "tags": ""
+  },
+  {
+    "qid": "Q02096",
+    "question": "Who was murdered while hoisting the national flag under the area of Bikram Police Station?",
+    "answer": "Raghunath Sharma",
+    "choices": [
+      "Raghunath Sharma",
+      "Raghunath Singh of Gorakhari",
+      "Ram Narain of Bikrampur",
+      "Satyendra of Gorakhari"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02097",
+    "question": "Which districts in Bihar will benefit from the Kosi Mechi Link Project?",
+    "answer": "Araria, Purnea, Kishanganj, Katihar",
+    "choices": [
+      "Araria, Purnea, Kishanganj, Katihar",
+      "Patna, Nalanda, Gaya, Siwan",
+      "Darbhanga, Muzaffarpur, Sitamarhi, Begusarai",
+      "Rohtas, Jamui, Nawada, Jehanabad"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q02098",
+    "question": "Which organisation recognised the Nagi Bird Sanctuary site as an Important Bird and Biodiversity Area (IBA)?",
+    "answer": "Bird Life International",
+    "choices": [
+      "Bird Life International",
+      "UNESCO",
+      "World Wildlife Fund",
+      "WHO"
+    ],
+    "information": "The organization that recognized the Nagi Bird Sanctuary located in Jamui, Bihar as an Important Bird and Biodiversity Area is BirdLife International",
+    "tags": ""
+  },
+  {
+    "qid": "Q02099",
+    "question": "With reference to Bihar's agriculture, which aromatic rice variety from the West Champaran district was awarded the GI (Geographical Indication) tag recently?",
+    "answer": "Marcha Rice",
+    "choices": [
+      "Marcha Rice",
+      "Basmati Rice",
+      "Gobindobhog Rice",
+      "Kalanamak Rice"
+    ],
+    "information": "Marcha (or Mircha) rice is famous for its black pepper-like appearance and unique aroma, receiving the GI tag for Bihar.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02100",
+    "question": "In which district is Bihar's largest battery-based solar power plant located?",
+    "answer": "Lakhisarai",
+    "choices": [
+      "Lakhisarai",
+      "Bhagalpur",
+      "Banka",
+      "Jamui"
+    ],
+    "information": "Kajra Solar Power Plant is situated at Kajra in the Lakhisarai district. It features a 495 MWh battery system, making it one of India's largest storage-backed solar projects.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02101",
+    "question": "On which date is the Bihar Legislative Assembly Foundation Day celebrated every year?",
+    "answer": "7th February",
+    "choices": [
+      "7th February",
+      "1st April",
+      "22nd March",
+      "12th December"
+    ],
+    "information": "Bihar celebrates its Legislative Assembly Foundation Day on February 7th to commemorate the first session of the joint Bihar-Orissa Legislative Council in 1921.",
+    "tags": ""
+  }
 ]

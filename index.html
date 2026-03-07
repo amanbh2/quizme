@@ -3,12 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>QUIZME</title>
+    <title>QuizMe</title>
     <link rel="stylesheet" href="style.css">
-    <meta name="description" content="MCQ revision tool">
-    <meta name="keywords" content="Quiz, MCQs, BPSC, Revision">
+    <meta name="description" content="MCQ revision tool for BPSC exam preparation">
     <meta name="author" content="Aman Bhaskar">
-    <link type="image/png" sizes="16x16" rel="icon" href="res/favicon.ico">
+    <link rel="icon" type="image/png" href="res/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="res/favicon.svg" />
+    <link rel="shortcut icon" href="res/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="res/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="QuizMe" />
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#2a7c6f">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=DM+Sans:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -16,76 +22,313 @@
 </head>
 <body>
 
-    <div id="header">
-        <div id="settings-btn-wrap">
-            <p id="settings-btn"><i class="fa-solid fa-gears"></i></p>
+<!-- ═══════════════════════════════════════════════════════
+     DESKTOP SIDEBAR
+════════════════════════════════════════════════════════ -->
+<aside id="sidebar">
+    <div class="sidebar-brand">
+        <span class="brand-quiz">Quiz</span><span class="brand-me">Me</span>
+    </div>
+    <nav class="sidebar-nav">
+        <button class="nav-item active" data-tab="quiz">
+            <i class="fa-solid fa-circle-question"></i><span>Quiz</span>
+        </button>
+        <button class="nav-item" data-tab="stats">
+            <i class="fa-solid fa-chart-bar"></i><span>Stats</span>
+            <span class="nav-badge" id="stats-nav-badge" style="display:none"></span>
+        </button>
+        <button class="nav-item" data-tab="info">
+            <i class="fa-solid fa-circle-info"></i><span>Info</span>
+        </button>
+    </nav>
+    <div class="sidebar-bottom">
+        <button class="sidebar-icon-btn" id="settings-btn">
+            <i class="fa-solid fa-gears"></i><span>Settings</span>
+        </button>
+        <button class="sidebar-icon-btn" id="theme-toggle">
+            <i class="fa-solid fa-moon" id="theme-icon"></i>
+            <span id="theme-label">Light</span>
+        </button>
+        <div class="sidebar-footer">
+            <a href="https://github.com/amanbh2" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/amanbh2/" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+            <span>Aman Bhaskar</span>
         </div>
-        <div id="brand">
-            <span class="brand-quiz">Quiz</span><span class="brand-me">Me</span>
+    </div>
+</aside>
+
+<!-- ═══════════════════════════════════════════════════════
+     MOBILE HEADER
+════════════════════════════════════════════════════════ -->
+<header id="mobile-header">
+    <button class="header-icon-btn" id="settings-btn-mobile">
+        <i class="fa-solid fa-gears"></i>
+    </button>
+    <div class="mobile-brand">
+        <span class="brand-quiz">Quiz</span><span class="brand-me">Me</span>
+    </div>
+    <button class="header-icon-btn" id="theme-toggle-mobile">
+        <i class="fa-solid fa-moon" id="theme-icon-mobile"></i>
+    </button>
+</header>
+
+<!-- ═══════════════════════════════════════════════════════
+     MAIN CONTENT
+════════════════════════════════════════════════════════ -->
+<main id="main-content">
+
+    <!-- ── TAB: QUIZ ──────────────────────────────────── -->
+    <div id="tab-quiz" class="tab-page active">
+
+        <div class="quiz-controls">
+            <div id="subject"></div>
         </div>
-        <div id="header-right">
-            <button id="theme-toggle" aria-label="Toggle theme">
-                <i class="fa-solid fa-moon" id="theme-icon"></i>
-            </button>
+
+        <div id="mode-label" class="mode-label"></div>
+
+        <div id="progress-wrap">
+            <div id="progress-bar-container">
+                <div id="progress-bar"></div>
+            </div>
+            <span id="progress-label">0/0</span>
+            <span id="streak"><i class="fa-solid fa-fire"></i> 0</span>
         </div>
-    </div>
 
-    <div id="streakBoard">
-        <p id="subject"></p>
-        <p id="streak"></p>
-    </div>
-
-    <div id="progress-bar-wrap">
-        <div id="progress-bar-container">
-            <div id="progress-bar"></div>
+        <div class="container">
+            <div id="quiz-container"></div>
         </div>
-        <span id="progress-label">0/0</span>
+
+        <button id="restart-btn">
+            <i class="fa-solid fa-rotate-right"></i> New Session
+        </button>
+
     </div>
 
-    <div class="container">
-        <div id="quiz-container"></div>
-    </div>
+    <!-- ── TAB: STATS ─────────────────────────────────── -->
+    <div id="tab-stats" class="tab-page">
 
-    <div id="restart-btn">
-        <i class="fa-solid fa-rotate-right"></i> Restart
-    </div>
+        <div id="stats-health-alert" style="display:none"></div>
 
-    <div id="github">
-        <a href="https://github.com/amanbh2" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
-        <a href="https://www.linkedin.com/in/amanbh2/" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-    </div>
-    <div id="footer"><p>Crafted by Aman Bhaskar</p></div>
-
-    <script src="script.js"></script>
-
-    <div class="overlay"></div>
-    <div id="settings-panel">
-        <div class="settings-header">
-            <h2><i class="fa-solid fa-chart-bar"></i> Statistics</h2>
-            <button class="close-settings">&times;</button>
+        <!-- Empty state -->
+        <div id="stats-empty" style="display:none">
+            <div class="stats-empty-wrap">
+                <i class="fa-solid fa-chart-bar stats-empty-icon"></i>
+                <h3>No stats yet</h3>
+                <p>Start answering questions to see your performance data here.</p>
+                <button class="go-quiz-btn" id="go-quiz-btn">
+                    <i class="fa-solid fa-circle-question"></i> Go to Quiz
+                </button>
+            </div>
         </div>
-        <div class="settings-content">
-            <div class="stats-grid">
-                <div class="stat-card">
-                    <span class="stat-value" id="total-attempts">0</span>
-                    <span class="stat-label">Attempted</span>
+
+        <!-- Stats content (hidden until data exists) -->
+        <div id="stats-content">
+
+            <div id="exam-countdown-card" class="exam-card" style="display:none">
+                <div class="exam-card-left">
+                    <span class="exam-days" id="exam-days-left">—</span>
+                    <span class="exam-days-label">days to exam</span>
                 </div>
-                <div class="stat-card">
-                    <span class="stat-value correct-val" id="total-correct">0</span>
-                    <span class="stat-label">Correct</span>
-                </div>
-                <div class="stat-card wide">
-                    <span class="stat-label">Success Rate</span>
-                    <span class="stat-value accent-val" id="success-rate">0%</span>
-                </div>
-                <div class="stat-card wide">
-                    <span class="stat-label">Last Visited</span>
-                    <span class="stat-value muted-val" id="last-visited-date"></span>
+                <div class="exam-card-right">
+                    <span class="exam-name" id="exam-name-display">BPSC</span>
+                    <span class="exam-target" id="exam-daily-target"></span>
                 </div>
             </div>
-            <button id="reset-stats"><i class="fa-solid fa-trash-can"></i> Reset Statistics</button>
+
+            <div class="sp-section">
+                <h3 class="sp-section-title"><i class="fa-solid fa-bullseye"></i> Exam Readiness</h3>
+                <div class="readiness-wrap">
+                    <div class="readiness-score-row">
+                        <span class="readiness-score" id="readiness-score">0%</span>
+                        <span class="readiness-target">Target: 75%</span>
+                    </div>
+                    <div class="readiness-bar-track">
+                        <div class="readiness-bar-fill" id="readiness-bar"></div>
+                        <div class="readiness-target-line"></div>
+                    </div>
+                    <div class="readiness-breakdown" id="readiness-breakdown"></div>
+                </div>
+            </div>
+
+            <div class="sp-section">
+                <h3 class="sp-section-title"><i class="fa-solid fa-chart-pie"></i> Overview</h3>
+                <div class="sp-overview-grid">
+                    <div class="sp-stat-card"><span class="sp-stat-val" id="ov-attempts">0</span><span class="sp-stat-lbl">Attempts</span></div>
+                    <div class="sp-stat-card"><span class="sp-stat-val sp-correct" id="ov-correct">0</span><span class="sp-stat-lbl">Correct</span></div>
+                    <div class="sp-stat-card"><span class="sp-stat-val sp-wrong" id="ov-wrong">0</span><span class="sp-stat-lbl">Wrong</span></div>
+                    <div class="sp-stat-card"><span class="sp-stat-val sp-accent" id="ov-accuracy">0%</span><span class="sp-stat-lbl">Accuracy</span></div>
+                    <div class="sp-stat-card sp-wide">
+                        <span class="sp-stat-val" id="ov-unique">0</span>
+                        <span class="sp-stat-lbl">Unique Questions Attempted</span>
+                    </div>
+                </div>
+                <div class="sp-best-worst">
+                    <div class="sp-bw-card">
+                        <span class="sp-bw-label"><i class="fa-solid fa-trophy"></i> Strongest</span>
+                        <span class="sp-bw-subject" id="strongest-subject">—</span>
+                        <span class="sp-bw-pct" id="strongest-pct">—</span>
+                    </div>
+                    <div class="sp-bw-card">
+                        <span class="sp-bw-label"><i class="fa-solid fa-triangle-exclamation"></i> Weakest</span>
+                        <span class="sp-bw-subject" id="weakest-subject">—</span>
+                        <span class="sp-bw-pct" id="weakest-pct">—</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sp-section">
+                <h3 class="sp-section-title"><i class="fa-solid fa-layer-group"></i> Mastery</h3>
+                <div class="mastery-bar-wrap" id="mastery-bar-wrap"></div>
+                <div class="mastery-legend" id="mastery-legend"></div>
+            </div>
+
+            <div class="sp-section">
+                <h3 class="sp-section-title"><i class="fa-solid fa-map-pin"></i> Focus Today</h3>
+                <div id="sp-focus-list"></div>
+            </div>
+
+            <div class="sp-section">
+                <h3 class="sp-section-title"><i class="fa-solid fa-fire"></i> Subject Heatmap</h3>
+                <div class="sp-legend">
+                    <span class="pill-strong">Strong ≥75%</span>
+                    <span class="pill-avg">Average 50–74%</span>
+                    <span class="pill-weak">Weak &lt;50%</span>
+                    <span class="pill-untouched">Untouched</span>
+                </div>
+                <p class="sp-hint">Tap a subject to practice it in Weak mode</p>
+                <div class="sp-heatmap" id="sp-heatmap"></div>
+            </div>
+
+            <div class="sp-section">
+                <h3 class="sp-section-title"><i class="fa-solid fa-bars"></i> Subject Breakdown</h3>
+                <div class="sp-bars" id="sp-bars"></div>
+            </div>
+
+            <div class="sp-section">
+                <h3 class="sp-section-title"><i class="fa-solid fa-flag"></i> Flagged for Review</h3>
+                <div id="sp-flagged-list"></div>
+                <button class="sp-copy-btn" id="sp-copy-flagged" style="display:none">
+                    <i class="fa-solid fa-clipboard"></i> Copy all flagged
+                </button>
+            </div>
+
+            <div class="sp-section">
+                <h3 class="sp-section-title"><i class="fa-solid fa-fingerprint"></i> QID Health</h3>
+                <div id="sp-qid-health"></div>
+            </div>
+
+            <div class="sp-section sp-reset-section">
+                <button id="sp-reset-btn" class="sp-reset-btn">
+                    <i class="fa-solid fa-trash-can"></i> Reset All Statistics
+                </button>
+                <p class="sp-hint" style="margin-top:8px;text-align:center">
+                    Gist backup is not affected by reset.
+                </p>
+            </div>
+
         </div>
     </div>
 
+    <!-- ── TAB: INFO ──────────────────────────────────── -->
+    <div id="tab-info" class="tab-page">
+        <div id="info-content"></div>
+    </div>
+
+</main>
+
+<!-- ═══════════════════════════════════════════════════════
+     MOBILE BOTTOM NAV
+════════════════════════════════════════════════════════ -->
+<nav id="bottom-nav">
+    <button class="bottom-nav-item active" data-tab="quiz">
+        <i class="fa-solid fa-circle-question"></i><span>Quiz</span>
+    </button>
+    <button class="bottom-nav-item" data-tab="stats">
+        <i class="fa-solid fa-chart-bar"></i><span>Stats</span>
+        <span class="nav-badge" id="stats-bottom-badge" style="display:none"></span>
+    </button>
+    <button class="bottom-nav-item" data-tab="info">
+        <i class="fa-solid fa-circle-info"></i><span>Info</span>
+    </button>
+</nav>
+
+<!-- ═══════════════════════════════════════════════════════
+     SETTINGS OVERLAY
+════════════════════════════════════════════════════════ -->
+<div class="overlay" id="overlay"></div>
+<div id="settings-panel">
+    <div class="settings-header">
+        <h2><i class="fa-solid fa-gears"></i> Settings</h2>
+        <button class="close-settings" id="close-settings">&times;</button>
+    </div>
+    <div class="settings-content">
+
+        <div class="settings-section">
+            <p class="settings-section-label">QUIZ MODE</p>
+            <div class="mode-btn-group">
+                <button class="mode-btn active" id="mode-normal">Normal</button>
+                <button class="mode-btn" id="mode-weak">Weak</button>
+                <button class="mode-btn" id="mode-unseen">Unseen</button>
+                <button class="mode-btn" id="mode-revision">Revision</button>
+            </div>
+            <div id="mode-desc" class="mode-desc">Weighted random — weak questions appear more often</div>
+        </div>
+
+        <div class="settings-section">
+            <p class="settings-section-label">EXAM SIMULATION</p>
+            <label class="toggle-row">
+                <span class="toggle-label">Negative marking (−⅓)</span>
+                <div class="toggle-switch">
+                    <input type="checkbox" id="neg-marking-toggle">
+                    <span class="toggle-slider"></span>
+                </div>
+            </label>
+            <label class="toggle-row" style="margin-top:10px">
+                <span class="toggle-label">Sound effects</span>
+                <div class="toggle-switch">
+                    <input type="checkbox" id="sound-toggle" checked>
+                    <span class="toggle-slider"></span>
+                </div>
+            </label>
+        </div>
+
+        <div class="settings-section">
+            <p class="settings-section-label">EXAM DATE</p>
+            <input type="text" id="exam-name-input" placeholder="Exam name (e.g. BPSC AEDO)" class="settings-input">
+            <input type="date" id="exam-date-input" class="settings-input">
+            <div class="exam-save-row">
+                <button id="exam-date-save" class="settings-save-btn">Save</button>
+                <span class="save-confirm" id="exam-save-confirm"></span>
+            </div>
+        </div>
+
+        <div class="settings-section">
+            <p class="settings-section-label">SYNC & BACKUP</p>
+            <div class="sync-status-row">
+                <span class="sync-dot" id="sync-dot"></span>
+                <span class="sync-status-badge" id="sync-status">Not connected</span>
+            </div>
+            <input type="password" id="gist-token" placeholder="GitHub Personal Access Token" class="settings-input" autocomplete="off">
+            <input type="text" id="gist-id-input" placeholder="Gist ID (auto-created if blank)" class="settings-input">
+            <div class="sync-btn-row">
+                <button id="gist-connect-btn" class="settings-save-btn">Connect</button>
+                <button id="gist-disconnect-btn" class="settings-ghost-btn">Disconnect</button>
+            </div>
+            <p class="settings-hint">Need help? See <button class="link-btn" id="go-to-info-sync">Sync Setup guide</button> in Info tab.</p>
+        </div>
+
+    </div>
+</div>
+
+<script src="script.js"></script>
+<script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/quizme/sw.js')
+                .then(r => console.log('SW registered:', r.scope))
+                .catch(e => console.log('SW failed:', e));
+        });
+    }
+</script>
 </body>
 </html>

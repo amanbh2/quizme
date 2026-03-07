@@ -1,6 +1,5 @@
 {
   "files": [
-    "all.json",
     "BiharEconomy.json",
     "BiharSpecific.json",
     "Census.json",
@@ -14,6 +13,7 @@
     "Recent2025.json",
     "Recent2026.json",
     "Science.json",
-    "UnionEconomy.json"
+    "UnionEconomy.json",
+    "all.json"
   ]
 }

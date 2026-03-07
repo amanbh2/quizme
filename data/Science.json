@@ -1,1946 +1,2108 @@
 [
-    {
-        "sheet": "Science",
-        "question": "Physics involves the study of",
-        "answer": "Nature & Natural Phenomena",
-        "choices": [
-            "Nature & Natural Phenomena",
-            "Humans",
-            "Birds & Animals",
-            "Plants"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Classical Physics does not include subjects like",
-        "answer": "Elementary Particles",
-        "choices": [
-            "Elementary Particles",
-            "Mechanics",
-            "Heat",
-            "Sound"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Size of universe is of the order of",
-        "answer": "10^26 m",
-        "choices": [
-            "10^26 m",
-            "10^18 m",
-            "10^40 m",
-            "10^16 m"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Einstein was awarded Nobel Prize in Physics for",
-        "answer": "Law of Photoelectric Effect",
-        "choices": [
-            "Law of Photoelectric Effect",
-            "Theory of Relativity",
-            "Law of Gravition",
-            "Special Relativity"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Fundamental unit of luminous intensity",
-        "answer": "Candela",
-        "choices": [
-            "Candela",
-            "Watt",
-            "Joule",
-            "Lux"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Weber is derived unit of",
-        "answer": "Magnetic Flux",
-        "choices": [
-            "Magnetic Flux",
-            "Magnetic Moment",
-            "Luminous Flux",
-            "None of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The prefix femto stands for",
-        "answer": "10^-15",
-        "choices": [
-            "10^-15",
-            "10^15",
-            "10^12",
-            "10^-12"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Number of basic SI Unit is ",
-        "answer": 7,
-        "choices": [
-            7,
-            6,
-            8,
-            5
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Light-year is a unit of ",
-        "answer": "Distance",
-        "choices": [
-            "Distance",
-            "Light",
-            "Intensity of Light",
-            "Time"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Speed of light in a vacuum is approximately ",
-        "answer": "3 x 10^8 m/s",
-        "choices": [
-            "3 x 10^8 m/s",
-            "3 x 10^8 km/s",
-            "3 x 10^6 m/s",
-            "3 x 10^6 km/s"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Ampere is unit of",
-        "answer": "Electric Current",
-        "choices": [
-            "Electric Current",
-            "Electric Charge",
-            "Magentic Flux",
-            "Electric Resistance"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "SI unit of pressure",
-        "answer": "Pascal",
-        "choices": [
-            "Pascal",
-            "Dyne",
-            "Newton",
-            "Joule"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Decibel is unit of",
-        "answer": "Intensity of Sound",
-        "choices": [
-            "Intensity of Sound",
-            "Intensity of Light",
-            "Speed of Light",
-            "None of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "SI unit of electric charge",
-        "answer": "Coulomb",
-        "choices": [
-            "Coulomb",
-            "Volts",
-            "Ohm",
-            "Ampere"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "One astronomical unit (AU) is the average distance between",
-        "answer": "Earth & Sun",
-        "choices": [
-            "Earth & Sun",
-            "Earth & Moon",
-            "Sun & Moon",
-            "Sun & Pluto"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Physical quantity without any unit",
-        "answer": "Strain",
-        "choices": [
-            "Strain",
-            "Stress",
-            "Force",
-            "Pressure"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "One Newton equals to",
-        "answer": "1 Kg m/s^2",
-        "choices": [
-            "1 Kg m/s^2",
-            "1 Kg m s",
-            "1 Kg m/s",
-            "1 Kg m s^2"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "SI unit of acceleration is",
-        "answer": "m/s^2",
-        "choices": [
-            "m/s^2",
-            "m/s",
-            "ms",
-            "ms^2"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "SI unit of electric resistance is",
-        "answer": "Ohm",
-        "choices": [
-            "Ohm",
-            "Ampere",
-            "Volt",
-            "Coulomb"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "1 kWh equals to",
-        "answer": "3.6 x 10^6 J",
-        "choices": [
-            "3.6 x 10^6 J",
-            "3.6 x 10^5 J",
-            "3.6 x 10^-6 J",
-            "3.6 x 10^-5 J"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Electric Potential is measured in",
-        "answer": "Joule / Coulomb",
-        "choices": [
-            "Joule / Coulomb",
-            "Watt",
-            "Newton-second",
-            "Joule"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following pairs have the same units",
-        "answer": "Work & Energy",
-        "choices": [
-            "Work & Energy",
-            "Force & Pressure",
-            "Power & Energy",
-            "Force & Work"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Rate of change of momentum of a body is ",
-        "answer": "Impulse",
-        "choices": [
-            "Impulse",
-            "Energy",
-            "Power",
-            "Force"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "SI unit of power is",
-        "answer": "Watt",
-        "choices": [
-            "Watt",
-            "Joule-Second",
-            "Joule",
-            "Newton-Second"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following equations represents Pressure in Physics",
-        "answer": "Force / Area",
-        "choices": [
-            "Force / Area",
-            "Force x Area",
-            "Mass / Acceleration",
-            "Mass x Acceleration"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is a scalar quantity",
-        "answer": "Mass",
-        "choices": [
-            "Mass",
-            "Momentum",
-            "Weight",
-            "Gravity"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "One horsepower is approximately equal to",
-        "answer": "746 W",
-        "choices": [
-            "746 W",
-            "647 W",
-            "476 W",
-            "764 W"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Molecular formula of Methyl Isocynate",
-        "answer": "C2H3NO",
-        "choices": [
-            "C2H3NO",
-            "C3H5NO",
-            "C4H7NO",
-            "C4H9NO"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Ore of Thorium",
-        "answer": "Monzite",
-        "choices": [
-            "Monzite",
-            "Pitchblende",
-            "Carnotite",
-            "Hematite"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Ore of Uranium",
-        "answer": "Pitchblende",
-        "choices": [
-            "Pitchblende",
-            "Monzite",
-            "Thorite",
-            "Hematite"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following acids is secreted in the stomach",
-        "answer": "Hydrochloric acid",
-        "choices": [
-            "Hydrochloric acid",
-            "Sulphuric acid",
-            "Nitric acid",
-            "Phosphoric Acid"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The meter used to measure the distance moved by the vehicle is known as",
-        "answer": "Odometer",
-        "choices": [
-            "Odometer",
-            "Ammeter",
-            "Speedometer",
-            "Chronometer"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Heat transfer that does not require a medium is called",
-        "answer": "Radiation",
-        "choices": [
-            "Radiation",
-            "Reflection",
-            "Conduction",
-            "Convection"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "What type of rock is formed from the cooling and solidification of lava",
-        "answer": "Igneous",
-        "choices": [
-            "Igneous",
-            "Sedimentary",
-            "Metamorphic",
-            "Crystal"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following represents the suitable condition for the liquefaction of gases",
-        "answer": "Low Temperature, High Pressure",
-        "choices": [
-            "Low Temperature, High Pressure",
-            "Low Temperature, Low Pressure",
-            "High Temperature, High Pressure",
-            "High Temperature, Low Pressure"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is an Iron ore",
-        "answer": "Limonite",
-        "choices": [
-            "Limonite",
-            "Cinnabar",
-            "Bauxite",
-            "Pyrite"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which component of fertilizer is used for stimulating early growth",
-        "answer": "Phosphorus",
-        "choices": [
-            "Phosphorus",
-            "Nitrogen",
-            "Potassium",
-            "Oxygen"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following are the constituents of a sodia acid fire extinguisher",
-        "answer": "Dilute sulphuric acid and sodium bicarbonate solution",
-        "choices": [
-            "Dilute sulphuric acid and sodium bicarbonate solution",
-            "Dilute sulphuric acid and sodium carbonate",
-            "Concentrated sulphuric acid and sodium carbonate solution",
-            "Concentrated sulphuric acid and aluminium suplhate"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following bacterial diseases is called splenic fever",
-        "answer": "Anthrax",
-        "choices": [
-            "Anthrax",
-            "Typhoid",
-            "Cholera",
-            "None of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following radiation is used to get relief from body aches",
-        "answer": "Infrared",
-        "choices": [
-            "Infrared",
-            "UV",
-            "Visible",
-            "None of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which one of the following is an example of melamine used for making floor tiles",
-        "answer": "Thermosetting Plastics",
-        "choices": [
-            "Thermosetting Plastics",
-            "Thermoplastics",
-            "Polythene",
-            "PVC"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is the first artificially prepared element",
-        "answer": "Tc",
-        "choices": [
-            "Tc",
-            "Te",
-            "Th",
-            "TI"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following has a highly elongated elliptical orbit",
-        "answer": "Comet",
-        "choices": [
-            "Comet",
-            "Asteroid",
-            "Meteorite",
-            "Meteor"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is the fluid part of the blood",
-        "answer": "Plasma",
-        "choices": [
-            "Plasma",
-            "WBC",
-            "RBC",
-            "Platelets"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following minerals occur in Minas Gerais province of Brazil",
-        "answer": "Iron",
-        "choices": [
-            "Iron",
-            "Bauxite",
-            "Mica",
-            "Coal"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is a non-contact force",
-        "answer": "Magnetic",
-        "choices": [
-            "Magnetic",
-            "Frictional",
-            "Impact",
-            "None of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the structural and functional unit of Life",
-        "answer": "Cell",
-        "choices": [
-            "Cell",
-            "Organ",
-            "Tissue",
-            "Organism"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following, corundrum and cryolite are important ore",
-        "answer": "Aluminium",
-        "choices": [
-            "Aluminium",
-            "Silver",
-            "Tin",
-            "Iron"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is the resistance of wire",
-        "answer": "R = V/I",
-        "choices": [
-            "R = V/I",
-            "R = IV",
-            "R = I/V",
-            "I = R/V"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the value of solar constant",
-        "answer": "1.4 kW/m2",
-        "choices": [
-            "1.4 kW/m2",
-            "1.6 kW/m2",
-            "1.2 kW/m2",
-            "1.8 kW/m2"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following the chlorophyll in photosyntesis is used for",
-        "answer": "Absorbing light",
-        "choices": [
-            "Absorbing light",
-            "Reduction of CO2",
-            "Breaking downs water molecules",
-            "No Function"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which part of alimentary canal receives bile from the liver",
-        "answer": "Small Intestine",
-        "choices": [
-            "Small Intestine",
-            "Stomach",
-            "Oesophagus",
-            "Large Intestine"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The process of breaking down organic matter by micro-organisms is called",
-        "answer": "Decomposition",
-        "choices": [
-            "Decomposition",
-            "Respiration",
-            "Photosynthesis",
-            "Fermentation"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is a major cause of pollution",
-        "answer": "Burning of Fossil Fuels",
-        "choices": [
-            "Burning of Fossil Fuels",
-            "Disposal of Plastics",
-            "Deforestation",
-            "Execessive use of pesticides"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Who was the first to propose a model for the structure of an atom",
-        "answer": "J J Thomson",
-        "choices": [
-            "J J Thomson",
-            "E Goldstein",
-            "Rutherford",
-            "Neil Bohr"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "In the following which is fundamental physical quantitiy?",
-        "answer": "Electric Current",
-        "choices": [
-            "Electric Current",
-            "Force",
-            "Velocity",
-            "Work"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "At time of a short circuit, the current in the circuit",
-        "answer": "increases heavily",
-        "choices": [
-            "increases heavily",
-            "varies continously",
-            "reduces substantially",
-            "does not change"
-        ],
-        "information": "In a short circuit the resistance becomes close to zero so that the current increases to a very high value as per Ohms law."
-    },
-    {
-        "sheet": "Science",
-        "question": "Frequency is measured in",
-        "answer": "Hertz",
-        "choices": [
-            "Hertz",
-            "metre/second",
-            "radian",
-            "watt"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "What is measured in hertz?",
-        "answer": "Frequency",
-        "choices": [
-            "Frequency",
-            "Energy",
-            "Heat",
-            "Work"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Bolometer is used to measure",
-        "answer": "Heat Radiations",
-        "choices": [
-            "Heat Radiations",
-            "Frequency",
-            "Velocity",
-            "Wavelength"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "What is hearing frequency range of Human",
-        "answer": "20Hz to 20kHz",
-        "choices": [
-            "20Hz to 20kHz",
-            "2Hz to 20kHz",
-            "2Hz to 20Hz",
-            "2kHz to 20kHz"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Ohm-meter is unit of ",
-        "answer": "Resistivity",
-        "choices": [
-            "Resistivity",
-            "Resistance",
-            "Charge",
-            "Conductance"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Angstrom is a unit of ",
-        "answer": "Wavelength",
-        "choices": [
-            "Wavelength",
-            "Energy",
-            "Frequency",
-            "Velocity"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "1 Zepto is equal to",
-        "answer": "10^-21",
-        "choices": [
-            "10^-21",
-            "10^21",
-            "10^-12",
-            "10^12"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "One micron is equal to",
-        "answer": "10^-6 m",
-        "choices": [
-            "10^-6 m",
-            "10^6 m",
-            "10^-3 m",
-            "10^3 m"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "One picogram is equal to",
-        "answer": "10^-12",
-        "choices": [
-            "10^-12",
-            "10^-21",
-            "10^-9",
-            "10^-6"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the unit of pressure?",
-        "answer": "Newton / sq. meter",
-        "choices": [
-            "Newton / sq. meter",
-            "Newton-meter",
-            "Newton",
-            "Newton/meter"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Magnetic field is a ",
-        "answer": "Vector Quantity",
-        "choices": [
-            "Vector Quantity",
-            "Scalar Quantity",
-            "Dimensionless Quantity",
-            "None of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "What is Galvanometer used to measure",
-        "answer": "Electric Current",
-        "choices": [
-            "Electric Current",
-            "Electric Charge",
-            "Electric Resistance",
-            "Electric Potential"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is used to measure the intensity of earthquake?",
-        "answer": "Mercalli Scale",
-        "choices": [
-            "Mercalli Scale",
-            "Ritcher Scale",
-            "Seismograph",
-            "Accelerometer"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Hot-wire ammeters are used to measure",
-        "answer": "both AC and DC",
-        "choices": [
-            "both AC and DC",
-            "only DC",
-            "only AC",
-            "neither AC nor DC"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which instrument is used for measuring electric potential?",
-        "answer": "Potentiometer",
-        "choices": [
-            "Potentiometer",
-            "Ammeter",
-            "Galvanometer",
-            "Accelerometer"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The device used to measure electric current is",
-        "answer": "Ammeter",
-        "choices": [
-            "Ammeter",
-            "Potentiometer",
-            "Voltmeter",
-            "Voltameter"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The resistance of an ideal voltmeter is ",
-        "answer": "infinite",
-        "choices": [
-            "infinite",
-            "negative",
-            "zero",
-            "one"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which instrument is used to measure humidity",
-        "answer": "Hygrometer",
-        "choices": [
-            "Hygrometer",
-            "Hydrometer",
-            "Pyrometer",
-            "Lactometer"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Electroencephalogram (EEG) is used in monitoring",
-        "answer": "Brain",
-        "choices": [
-            "Brain",
-            "Heart",
-            "Liver",
-            "Kidney"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "For a satellite, escape velocity is 11km/s. If the satellite is launched at an angle of 60 degree with the vertical, then the escape velocity will be",
-        "answer": "does not change",
-        "choices": [
-            "does not change",
-            "increases",
-            "decreases",
-            "becomes zero"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the law in which under the same conditions of temperature and pressure, equal volumes of all gases contain equal number of molecules?",
-        "answer": "Avogadro's Law",
-        "choices": [
-            "Avogadro's Law",
-            "Graham's Law",
-            "Pascal's Law",
-            "Coriolis Effect"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "A goalkeeper in a game of football pull his hands backwards after holding the ball shot at the goal. This enables the goalkeeper to",
-        "answer": "decrease the rate of change of momentum",
-        "choices": [
-            "decrease the rate of change of momentum",
-            "increase the force exerted by the ball on hands",
-            "exert large force on the ball",
-            "increases the score"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "When the stone is brought from the surface of the moon to the earth, then",
-        "answer": "its weight will change, but mass will not change",
-        "choices": [
-            "its weight will change, but mass will not change",
-            "it mass will change",
-            "both weight and mass will change",
-            "neither weight nor mass will change"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is not a vector quantity",
-        "answer": "volume",
-        "choices": [
-            "volume",
-            "velocity",
-            "displacement",
-            "force"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is not a vector quantity",
-        "answer": "speed",
-        "choices": [
-            "speed",
-            "velocity",
-            "torque",
-            "displacement"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is a scalar quantity",
-        "answer": "Pressure",
-        "choices": [
-            "Pressure",
-            "Force",
-            "Acceleration",
-            "Velocity"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Current density is",
-        "answer": "a vector quantity",
-        "choices": [
-            "a vector quantity",
-            "a scalar quantity",
-            "Dimensionless Quantity",
-            "None of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "A sudden rise in the barometric height indicates",
-        "answer": "extremely dry weather",
-        "choices": [
-            "extremely dry weather",
-            "coming of storm or cyclone",
-            "possibility of rain",
-            "dry weather"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The time period of a pendulum clock is ",
-        "answer": "1 second",
-        "choices": [
-            "1 second",
-            "2 seconds",
-            "1 minute",
-            "1 hour"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which physical quantity is represented by the ratio of momentum and velocity of the body?",
-        "answer": "Mass",
-        "choices": [
-            "Mass",
-            "velocity",
-            "Acceleration",
-            "Force"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which is the correct formula of acceleration?",
-        "answer": "a = (v-u)/t",
-        "choices": [
-            "a = (v-u)/t",
-            "a = u + vt",
-            "a = (u + v )/t",
-            "a = u + v/t"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Force is the product of ",
-        "answer": "Mass & Acceleration",
-        "choices": [
-            "Mass & Acceleration",
-            "Mass & Velocity",
-            "Weight & Density",
-            "Weight & Acceleration"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Ball bearings are used to convert static friction into",
-        "answer": "rolling friction",
-        "choices": [
-            "rolling friction",
-            "drag",
-            "sliding friction",
-            "torque"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following energy changes involves frictional force?",
-        "answer": "Kinetic Energy to Heat Energy",
-        "choices": [
-            "Kinetic Energy to Heat Energy",
-            "Chemical energy to Heat Energy",
-            "Kinetic Energy to Electric Energy",
-            "Potential Energy to Sound Energy"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Lenz's law is derived from the law of conservation of ",
-        "answer": "Energy",
-        "choices": [
-            "Energy",
-            "Charge",
-            "Momentum",
-            "Magnetism"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "If a feather, a rubber ball and a wooden ball are failing freely simultaneously from the same height in the vacuum then",
-        "answer": "all three will reach the ground together",
-        "choices": [
-            "all three will reach the ground together",
-            "the wooden ball will reach the ground first",
-            "the rubber ball will reach the ground first",
-            "the feather will reach the ground last"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "When a body falls freely towards the Earth, then its total energy",
-        "answer": "remains constant",
-        "choices": [
-            "remains constant",
-            "increases",
-            "decreases",
-            "becomes zero"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "A second pendulum is mounted in a rocket. Its period of oscillation decreases when the rocket",
-        "answer": "moves up with uniform acceleration",
-        "choices": [
-            "moves up with uniform acceleration",
-            "comes down with uniform acceleration",
-            "moves round the earth in a geostationary orbit",
-            "moves up with uniform velocity"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "For a body moving with constant speed in a horizontal circle, which of the following remains constant?",
-        "answer": "Kinetic Energy",
-        "choices": [
-            "Kinetic Energy",
-            "velocity",
-            "Acceleration",
-            "Centripetal Force"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "If the spinning speed of the earth increases, then the weight of the body at equator will",
-        "answer": "decrease",
-        "choices": [
-            "decrease",
-            "increase",
-            "remains same",
-            "be doubled"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The time period of a pendulum",
-        "answer": "depends on its length",
-        "choices": [
-            "depends on its length",
-            "depends on the mass",
-            "depends on time",
-            "depends on temperature"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "You are standing in an elevator. The force exerted by your weight on the floor of the elevator",
-        "answer": "will be zero when the lift comes down with an acceleration of 9.8m/s2",
-        "choices": [
-            "will be zero when the lift comes down with an acceleration of 9.8m/s2",
-            "will be zero when the lift goes up with an acceleration of 9.8m/s2",
-            "Zero when the lift moves in any direction with an acceleration of 9.8m/s2",
-            "will not be affected by the change in the rate of acceleration of the lift"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "A bus is moving along a straight path and takes a sharp turn to the right side suddenly, the passengers in the bus will",
-        "answer": "bent towards left side",
-        "choices": [
-            "bent towards left side",
-            "bent towards right side",
-            "fall in forward direction ",
-            "fall in backward direction"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "A man pushes more weight on the Earth at",
-        "answer": "standing position",
-        "choices": [
-            "standing position",
-            "sitting position",
-            "lying position",
-            "sleeping position"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Environment is a composite state of",
-        "answer": "All of these",
-        "choices": [
-            "All of these",
-            "Biotic Factors",
-            "Abiotic Factors",
-            "Physiographic Factors"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the thin layer of gases around the earth called?",
-        "answer": "Atmosphere",
-        "choices": [
-            "Atmosphere",
-            "Biosphere",
-            "Hydroshpere",
-            "Lithoshpere"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The atmosphere is mainly heated by the ",
-        "answer": "long-wave terrestrial radiation",
-        "choices": [
-            "long-wave terrestrial radiation",
-            "short-wave solar radiation",
-            "volcanic emission",
-            "emission from distant stars"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Air is a/an",
-        "answer": "Mixture",
-        "choices": [
-            "Mixture",
-            "Compound",
-            "Element",
-            "Electrolyte"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The highest percentage of gas in the air is",
-        "answer": "Nitrogen",
-        "choices": [
-            "Nitrogen",
-            "Hydrogen",
-            "Oxygen",
-            "Carbon Dioxide"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The tallest known living tree",
-        "answer": "Sequoia",
-        "choices": [
-            "Sequoia",
-            "Eucalyptus",
-            "Deodar",
-            "Parnang"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The major component of CNG is",
-        "answer": "CH4",
-        "choices": [
-            "CH4",
-            "N2",
-            "CO2",
-            "H2"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Pollutant emission gas in vehichle exhaust is mainly",
-        "answer": "Carbon Monoxide",
-        "choices": [
-            "Carbon Monoxide",
-            "Carbon Dioxide",
-            "Nitrogen Oxide",
-            "Marsh Gas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Inhalation of air polluted with Carbon Monoxide is dangerous because",
-        "answer": "It combines with hemoglobin",
-        "choices": [
-            "It combines with hemoglobin",
-            "it combines with oxygen in blood",
-            "it removes water from the body and causes dehydration",
-            "it causes coagulation of proteins in the body"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The components of acid rain is/are",
-        "answer": "HNO3 & H2SO4",
-        "choices": [
-            "HNO3 & H2SO4",
-            "HNO3",
-            "H2SO4",
-            "CO2"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The major and top source of oxygen in the atmosphere is",
-        "answer": "Photosynthesis by oceanic phytoplanktons",
-        "choices": [
-            "Photosynthesis by oceanic phytoplanktons",
-            "Photosynthesis by forest plants",
-            "photosynthesis by grassland ecosystem",
-            "photosynthesis be wetland algaes"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "In which year International Space Station was launched?",
-        "answer": 1998,
-        "choices": [
-            1998,
-            1999,
-            2000,
-            1997
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Name the world's first Space Station",
-        "answer": "Salyut 1",
-        "choices": [
-            "Salyut 1",
-            "Mir",
-            "Skylab",
-            "Tiangong"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "First country to launch space station in the world",
-        "answer": "USSR",
-        "choices": [
-            "USSR",
-            "USA",
-            "China",
-            "India"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Name the first person in the world to travel in space?",
-        "answer": "Yuri Gagrin",
-        "choices": [
-            "Yuri Gagrin",
-            "Rakesh Sharma",
-            "Shubhanshu Shukla",
-            "Alan Shepard"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "The indigenous malaria vaccine candidate developed under the aegis of ICMR is called",
-        "answer": "AdFalciVax",
-        "choices": [
-            "AdFalciVax",
-            "R21/Matrix-M",
-            "RTS,S",
-            "Covaxin"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": " AdFalciVax, the malaria vaccine candidate developed in India, is primarily targeted against which malaria parasite?",
-        "answer": "Plasmodium falciparum",
-        "choices": [
-            "Plasmodium falciparum",
-            "Plasmodium vivax",
-            "Plasmodium ovale",
-            "Plasmodium malariae"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the typical electrical output range of Small Modular Reactors (SMRs)?",
-        "answer": "50 to 300 MW",
-        "choices": [
-            "50 to 300 MW",
-            "10 to 50 MW",
-            "300 to 1000 MW",
-            "More than 2000 MW"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the key feature of a Small Modular Reactor (SMR) compared to traditional nuclear reactors?",
-        "answer": "Can be manufactured in a factory and assembled on-site",
-        "choices": [
-            "Can be manufactured in a factory and assembled on-site",
-            "Uses only thorium as fuel",
-            "Requires high population density",
-            "Requires extremely large cooling towers"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Chikungunya is caused by which type of microorganism?",
-        "answer": "Virus",
-        "choices": [
-            "Virus",
-            "Bacteria",
-            "Fungus",
-            "Protozoa"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Chikungunya virus is primarily transmitted by which mosquito?",
-        "answer": "Aedes Aegypti",
-        "choices": [
-            "Aedes Aegypti",
-            "Culex",
-            "Anopheles",
-            "Tabanus"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the most characteristic symptom of Chikungunya?",
-        "answer": "Severe joint pain",
-        "choices": [
-            "Severe joint pain",
-            "Skin Ulcers",
-            "Swelling of lympt nodes",
-            "Paralysis"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following diseases is not transmitted by Aedes mosquitoes?",
-        "answer": "Malaria",
-        "choices": [
-            "Malaria",
-            "Chikungunya",
-            "Zika",
-            "Dengue"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Energy consumed in a home is 250 units then the total energy in Joule will be",
-        "answer": "9x10^8 J",
-        "choices": [
-            "9x10^8 J",
-            "8x10^6 J",
-            "9x10^5 J",
-            "10^5 J"
-        ],
-        "information": "Energy in J = kWh x 3.6 x 10^6"
-    },
-    {
-        "sheet": "Science",
-        "question": "In which medium, the speed of sound is maximum?",
-        "answer": "Steel",
-        "choices": [
-            "Steel",
-            "Water",
-            "Air",
-            "Hydrogen"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "A truck starts from rest down a hill with a constant acceleration. It achieves 400 meters in 20 seconds. If the mass of the truck is 7 tons then what will be the force acting on it?",
-        "answer": "14000 N",
-        "choices": [
-            "14000 N",
-            "13000 N",
-            "11000 N",
-            "12000 N"
-        ],
-        "information": "Force = Mass x Acceleration and s = ut + 1/2at^2"
-    },
-    {
-        "sheet": "Science",
-        "question": "We apply a force of 200 Newton on a wooden Box and push it on the floor at constant velocity. The marginal friction force will be",
-        "answer": "200 N",
-        "choices": [
-            "200 N",
-            "100 N",
-            "300 N",
-            "400 N"
-        ],
-        "information": "Constant velocity means zero acceleration, hence forces should be equal in opposite direction"
-    },
-    {
-        "sheet": "Science",
-        "question": "The potential energy of a freely falling body continuously decreases",
-        "answer": "The principle of conservation of energy is not violated",
-        "choices": [
-            "The principle of conservation of energy is not violated",
-            "The principle of conservation of energy is violated",
-            "Gravitational force is violated",
-            "Gravitational force is not violated"
-        ],
-        "information": "No law of Physics is violated. The total of potential and kinetic energies remain the same"
-    },
-    {
-        "sheet": "Science",
-        "question": "A pair of Oxen exerts a force of 140 N while ploughing the field. The field ploughed is 15m long. The work done in ploughing the length of the field is",
-        "answer": "2100 Joule",
-        "choices": [
-            "2100 Joule",
-            "1900 Joule",
-            "2200 Joule",
-            "2000 Joule"
-        ],
-        "information": "Work = Force x Displacement"
-    },
-    {
-        "sheet": "Science",
-        "question": "The focal length of a plane mirror is",
-        "answer": "infinity",
-        "choices": [
-            "infinity",
-            "minus 1cm",
-            "plus 1cm",
-            "2cm"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which term in the following does not denote the electric power in electric circuit?",
-        "answer": "IR^2",
-        "choices": [
-            "IR^2",
-            "I^2R",
-            "VI",
-            "V^2/R"
-        ],
-        "information": "Power = Voltage x Current"
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the device to protect equipments from the electric shock?",
-        "answer": "Fuse",
-        "choices": [
-            "Fuse",
-            "Generator",
-            "Motor",
-            "Current Controller"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "pH value of 0.1 N HCL solution is approximately",
-        "answer": 1,
-        "choices": [
-            1,
-            11,
-            10,
-            2
-        ],
-        "information": "pH = - log(concentration of H+ ions), take logarithmic base as 10"
-    },
-    {
-        "sheet": "Science",
-        "question": "Which compound is known as night glowing pigment from below?",
-        "answer": "Europium dopped strontium aluminate",
-        "choices": [
-            "Europium dopped strontium aluminate",
-            "Copper Sulphide dopped zinc oxide",
-            "Barium sulphate dopped copper carbonate",
-            "Boron oxide dopped copper sulphate"
-        ],
-        "information": "The compound known as the most efficient modern \"night glowing pigment\" is Europium doped strontium aluminate"
-    },
-    {
-        "sheet": "Science",
-        "question": "Which material is used for smart film?",
-        "answer": "Indium Tin Oxide",
-        "choices": [
-            "Indium Tin Oxide",
-            "Calcium Carbonate",
-            "Zinc Chloride",
-            "Silica"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which metal compound is used for treatment of carcinoma?",
-        "answer": "Platinum",
-        "choices": [
-            "Platinum",
-            "Chromium",
-            "Iron",
-            "Chlorine"
-        ],
-        "information": "The metal compound most famously and widely used for the treatment of carcinoma (a type of cancer originating in epithelial tissues) is a Platinum-based complex called Cisplatin."
-    },
-    {
-        "sheet": "Science",
-        "question": "Which compound is used in contraceptive pills?",
-        "answer": "Levonorgestrel",
-        "choices": [
-            "Levonorgestrel",
-            "Cholecalciferol",
-            "Vanlaflexine",
-            "Cetrizine"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Why oil is not stored in a galvanised iron pot?",
-        "answer": "All of these",
-        "choices": [
-            "All of these",
-            "It produce toxic compound",
-            "it reduces quality of oil",
-            "it cause corrosion"
-        ],
-        "information": "In the galvanized iron pot, the Zn coating reacts with oil free fatty acids and moisture to form toxic zinc salt that reduces the quality of oil and leads to corrosion and discolouration of the pot"
-    },
-    {
-        "sheet": "Science",
-        "question": "Which compound is used to increase octane rating?",
-        "answer": "Tetraethyllead (TEL)",
-        "choices": [
-            "Tetraethyllead (TEL)",
-            "Tetramethyl Oxide",
-            "Trimethyl Hexane",
-            "Triethyl Toluene"
-        ],
-        "information": "The compound historically and most effective for increasing the octane rating of gasoline was Tetraethyllead (TEL)"
-    },
-    {
-        "sheet": "Science",
-        "question": "Full form of PHBV biodegradable polymer",
-        "answer": "Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)",
-        "choices": [
-            "Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)",
-            "Poly hydroxy butane veratric acid",
-            "Polyhydroxy butyl vaniline",
-            "Poly hydroxy butyric acid veratric acid"
-        ],
-        "information": "PHBV stands for Poly(3-hydroxybutyrate-co-3-hydroxyvalerate). PHBV is a biodegradable and biocompatible polymer used as an environmentally friendly alternative to traditional plastics."
-    },
-    {
-        "sheet": "Science",
-        "question": "Hormones are secreted by",
-        "answer": "Endocrine glands",
-        "choices": [
-            "Endocrine glands",
-            "Exocrine glands",
-            "Sebaceous glands",
-            "Reproductive glands"
-        ],
-        "information": "Hormones are primarily secreted by endocrine glands and other specialized cells within organs that collectively form the endocrine system"
-    },
-    {
-        "sheet": "Science",
-        "question": "Which one of the following term characterises the interaction between herpes simplex virus and a human?",
-        "answer": "Endoparasitims",
-        "choices": [
-            "Endoparasitims",
-            "Symbiosis",
-            "Parasitism",
-            "Endosymbiosis"
-        ],
-        "information": "All viruses, including Herpes simplex virus are obligate intracellular parasites that use the cellular resources and cellular functions for their replication and survival. So, it is one of the best example of endoparasitism."
-    },
-    {
-        "sheet": "Science",
-        "question": "Which class of immunoglobulin is the first to be produced in response to an infection?",
-        "answer": "IgM",
-        "choices": [
-            "IgM",
-            "IgA",
-            "IgE",
-            "IgG"
-        ],
-        "information": "The class of immunoglobulin that is the first to be produced in response to a primary infection is Immunoglobulin M (IgM)"
-    },
-    {
-        "sheet": "Science",
-        "question": "The biological membranes are composed of",
-        "answer": "Lipids and proteins in varying combinations which are specific to each species, cell type and organelle",
-        "choices": [
-            "Lipids and proteins in varying combinations which are specific to each species, cell type and organelle",
-            "Lipids only",
-            "Protein only",
-            "None of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is a non-sense codon?",
-        "answer": "UAA",
-        "choices": [
-            "UAA",
-            "AUG",
-            "UUU",
-            "UGC"
-        ],
-        "information": "The term \"non-sense codon\" is another name for a stop codon. A stop codon signals the termination of protein synthesis (translation) because they do not code for any amino acid. The three non-sense (stop) codons are - UAA, UAG and UGA"
-    },
-    {
-        "sheet": "Science",
-        "question": "The species which are in danger of exitinction are known as?",
-        "answer": "Endangered",
-        "choices": [
-            "Endangered",
-            "Rare",
-            "Vulnerable",
-            "Extinct"
-        ],
-        "information": "As per IUCN, the species facing a very high risk of extinction in the near future due to threats are called as ‘Endangered species’, While the species that is likely to be endangered in the near future, if nothing is done for their conservation is known as “Vulnerable species”."
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is a Kharif crop?",
-        "answer": "Sugarcane",
-        "choices": [
-            "Sugarcane",
-            "Barley",
-            "Gram",
-            "Wheat"
-        ],
-        "information": "Barley, Gram and wheat are Rabi crops, while sugarcane is a kharif crop since it is sown in the beginning of monsoon and harvested in autumn."
-    },
-    {
-        "sheet": "Science",
-        "question": "Xylem in plants is responsible for following function",
-        "answer": "Transport of water and dissolved minerals",
-        "choices": [
-            "Transport of water and dissolved minerals",
-            "Transport of foods",
-            "Transport of oxygen and other gases",
-            "Transport of essential amino acids"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Who was the first to use the characteristics of vascular tissues in the classification of plants?",
-        "answer": "A P de Candolle",
-        "choices": [
-            "A P de Candolle",
-            "Engler and Prantl",
-            "Bentham and Hooker",
-            "More than one are correct"
-        ],
-        "information": "The first to use the characteristics of vascular tissues (xylem and phloem) as a key criterion in the classification of plants was the Swiss botanist Augustin Pyramus de Candolle (often abbreviated as A.P. de Candolle) in the early 19th century"
-    },
-    {
-        "sheet": "Science",
-        "question": "The part which we eat in Mango is",
-        "answer": "Mesocarp",
-        "choices": [
-            "Mesocarp",
-            "Epicarp",
-            "Endocarp",
-            "None of these"
-        ],
-        "information": "The mesocarp is the nutritious, fleshy part consumed between the skin (epicarp) and the seed (enclosed by the endocarp)."
-    },
-    {
-        "sheet": "Science",
-        "question": "Ozone day is celebrated on",
-        "answer": "16th September",
-        "choices": [
-            "16th September",
-            "5th June",
-            "21st April",
-            "5th December"
-        ],
-        "information": "Ozone Day is celebrated annually on September 16th. This date marks the anniversary of the signing of the Montreal Protocol in 1987, which is the international treaty designed to protect the ozone layer by phasing out the production of numerous substances responsible for ozone depletion. It is officially known as the International Day for the Preservation of the Ozone Layer."
-    },
-    {
-        "sheet": "Science",
-        "question": "In mycorrhizal association, the advantage of plant is",
-        "answer": "Increased mineral absorption and diseases protection",
-        "choices": [
-            "Increased mineral absorption and diseases protection",
-            "Protection",
-            "Food",
-            "Water"
-        ],
-        "information": "Mycorrhizal fungi helps plants to absorb essential nutrients and water from the soil through its hyphal network. The fungi also protect plant from root borne pathogen and induces systemic resistance in the plant."
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the primary objective of the LunarTrailblazer mission?",
-        "answer": "To detect and map water on the Moon's surface",
-        "choices": [
-            "To detect and map water on the Moon's surface",
-            "To create a 3D model of the entire Moon",
-            "To test new lunar rovers",
-            "to orbit around Moon"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "CRISPR-Cas9 technology is originally derived from which biological system?",
-        "answer": "Bacterial adaptive immune system",
-        "choices": [
-            "Bacterial adaptive immune system",
-            "Plant immune system",
-            "Fungal metabolic pathway",
-            "Animal cell signalling pathway"
-        ],
-        "information": "CRISPR is a natural defense mechanism in bacteria that uses “Cas” enzymes to cut viral DNA. Scientists repurposed this mechanism for programmable genome editing."
-    },
-    {
-        "sheet": "Science",
-        "question": "CRISPR in gene editing stands for",
-        "answer": "Clustered Regularly Interspaced Short Palindromic Repeats",
-        "choices": [
-            "Clustered Regularly Interspaced Short Palindromic Repeats",
-            "Circular RNA Sequence for Protein Regulation",
-            "Controlled Response System for Precision Repair",
-            "Combined Replication System for Plant Research"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Base-editing systems (like BIRSA-101) enable which type of modification?",
-        "answer": "Conversion of one DNA base to another without cutting the DNA",
-        "choices": [
-            "Conversion of one DNA base to another without cutting the DNA",
-            "Changing entire chromosomes",
-            "Editing proteins directly",
-            "Editing only RNA sequences"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Science",
-        "question": "Which nutrient is Makhana particularly rich in, making it a popular 'superfood'?",
-        "answer": "Protein and Magnesium",
-        "choices": [
-            "Protein and Magnesium",
-            "Vitamin B12",
-            "Vitamin C",
-            "Iron"
-        ],
-        "information": "Makhana is highly valued for being a low-fat, high-protein snack rich in magnesium and potassium."
-    },
-    {
-        "sheet": "Science",
-        "question": "What is the botanical name of the Makhana plant?",
-        "answer": "Euryale Ferox",
-        "choices": [
-            "Euryale Ferox",
-            "Nelumbo Nucifera",
-            "Litchi Chinensis",
-            "Oryza Sativa"
-        ],
-        "information": "Euryale ferox is the scientific name for the prickly water lily that produces makhana."
-    },
-    {
-        "sheet": "Science",
-        "question": "Which of the following is the natural reservoir of Nipah virus?",
-        "answer": "Fruit bats (Pteropus species)",
-        "choices": [
-            "Fruit bats (Pteropus species)",
-            "Pigs",
-            "Birds",
-            "Rodents"
-        ],
-        "information": "Fruit bats of the Pteropus genus are the natural hosts and remain asymptomatic carriers."
-    },
-    {
-        "sheet": "Science",
-        "question": "Persistent infection with which virus is the primary cause of cervical cancer?",
-        "answer": "HPV",
-        "choices": [
-            "HPV",
-            "HIV",
-            "HBV",
-            "Epstein-Barr Virus"
-        ],
-        "information": "Human Papillomavirus (especially types 16 & 18) is responsible for the majority of cervical cancer cases worldwide."
-    },
-    {
-        "sheet": "Science",
-        "question": "Which HPV types are considered high-risk for cervical cancer?",
-        "answer": "16 & 18",
-        "choices": [
-            "16 & 18",
-            "1 & 2",
-            "6 & 11",
-            "21 & 22"
-        ],
-        "information": "HPV 16 and 18 are high-risk oncogenic strains causing ~70–85% of cervical cancer cases."
-    }
+  {
+    "qid": "Q01618",
+    "question": "Physics involves the study of",
+    "answer": "Nature & Natural Phenomena",
+    "choices": [
+      "Nature & Natural Phenomena",
+      "Humans",
+      "Birds & Animals",
+      "Plants"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01619",
+    "question": "Classical Physics does not include subjects like",
+    "answer": "Elementary Particles",
+    "choices": [
+      "Elementary Particles",
+      "Mechanics",
+      "Heat",
+      "Sound"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01620",
+    "question": "Size of universe is of the order of",
+    "answer": "10^26 m",
+    "choices": [
+      "10^26 m",
+      "10^18 m",
+      "10^40 m",
+      "10^16 m"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01621",
+    "question": "Einstein was awarded Nobel Prize in Physics for",
+    "answer": "Law of Photoelectric Effect",
+    "choices": [
+      "Law of Photoelectric Effect",
+      "Theory of Relativity",
+      "Law of Gravition",
+      "Special Relativity"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01622",
+    "question": "Fundamental unit of luminous intensity",
+    "answer": "Candela",
+    "choices": [
+      "Candela",
+      "Watt",
+      "Joule",
+      "Lux"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01623",
+    "question": "Weber is derived unit of",
+    "answer": "Magnetic Flux",
+    "choices": [
+      "Magnetic Flux",
+      "Magnetic Moment",
+      "Luminous Flux",
+      "None of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01624",
+    "question": "The prefix femto stands for",
+    "answer": "10^-15",
+    "choices": [
+      "10^-15",
+      "10^15",
+      "10^12",
+      "10^-12"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01625",
+    "question": "Number of basic SI Unit is",
+    "answer": "7",
+    "choices": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01626",
+    "question": "Light-year is a unit of",
+    "answer": "Distance",
+    "choices": [
+      "Distance",
+      "Light",
+      "Intensity of Light",
+      "Time"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01627",
+    "question": "Speed of light in a vacuum is approximately",
+    "answer": "3 x 10^8 m/s",
+    "choices": [
+      "3 x 10^8 m/s",
+      "3 x 10^8 km/s",
+      "3 x 10^6 m/s",
+      "3 x 10^6 km/s"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01628",
+    "question": "Ampere is unit of",
+    "answer": "Electric Current",
+    "choices": [
+      "Electric Current",
+      "Electric Charge",
+      "Magentic Flux",
+      "Electric Resistance"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01629",
+    "question": "SI unit of pressure",
+    "answer": "Pascal",
+    "choices": [
+      "Pascal",
+      "Dyne",
+      "Newton",
+      "Joule"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01630",
+    "question": "Decibel is unit of",
+    "answer": "Intensity of Sound",
+    "choices": [
+      "Intensity of Sound",
+      "Intensity of Light",
+      "Speed of Light",
+      "None of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01631",
+    "question": "SI unit of electric charge",
+    "answer": "Coulomb",
+    "choices": [
+      "Coulomb",
+      "Volts",
+      "Ohm",
+      "Ampere"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01632",
+    "question": "One astronomical unit (AU) is the average distance between",
+    "answer": "Earth & Sun",
+    "choices": [
+      "Earth & Sun",
+      "Earth & Moon",
+      "Sun & Moon",
+      "Sun & Pluto"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01633",
+    "question": "Physical quantity without any unit",
+    "answer": "Strain",
+    "choices": [
+      "Strain",
+      "Stress",
+      "Force",
+      "Pressure"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01634",
+    "question": "One Newton equals to",
+    "answer": "1 Kg m/s^2",
+    "choices": [
+      "1 Kg m/s^2",
+      "1 Kg m s",
+      "1 Kg m/s",
+      "1 Kg m s^2"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01635",
+    "question": "SI unit of acceleration is",
+    "answer": "m/s^2",
+    "choices": [
+      "m/s^2",
+      "m/s",
+      "ms",
+      "ms^2"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01636",
+    "question": "SI unit of electric resistance is",
+    "answer": "Ohm",
+    "choices": [
+      "Ohm",
+      "Ampere",
+      "Volt",
+      "Coulomb"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01637",
+    "question": "1 kWh equals to",
+    "answer": "3.6 x 10^6 J",
+    "choices": [
+      "3.6 x 10^6 J",
+      "3.6 x 10^5 J",
+      "3.6 x 10^-6 J",
+      "3.6 x 10^-5 J"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01638",
+    "question": "Electric Potential is measured in",
+    "answer": "Joule / Coulomb",
+    "choices": [
+      "Joule / Coulomb",
+      "Watt",
+      "Newton-second",
+      "Joule"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01639",
+    "question": "Which of the following pairs have the same units",
+    "answer": "Work & Energy",
+    "choices": [
+      "Work & Energy",
+      "Force & Pressure",
+      "Power & Energy",
+      "Force & Work"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01640",
+    "question": "Rate of change of momentum of a body is",
+    "answer": "Impulse",
+    "choices": [
+      "Impulse",
+      "Energy",
+      "Power",
+      "Force"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01641",
+    "question": "SI unit of power is",
+    "answer": "Watt",
+    "choices": [
+      "Watt",
+      "Joule-Second",
+      "Joule",
+      "Newton-Second"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01642",
+    "question": "Which of the following equations represents Pressure in Physics",
+    "answer": "Force / Area",
+    "choices": [
+      "Force / Area",
+      "Force x Area",
+      "Mass / Acceleration",
+      "Mass x Acceleration"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01643",
+    "question": "Which of the following is a scalar quantity",
+    "answer": "Mass",
+    "choices": [
+      "Mass",
+      "Momentum",
+      "Weight",
+      "Gravity"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01644",
+    "question": "One horsepower is approximately equal to",
+    "answer": "746 W",
+    "choices": [
+      "746 W",
+      "647 W",
+      "476 W",
+      "764 W"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01645",
+    "question": "Molecular formula of Methyl Isocynate",
+    "answer": "C2H3NO",
+    "choices": [
+      "C2H3NO",
+      "C3H5NO",
+      "C4H7NO",
+      "C4H9NO"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01646",
+    "question": "Ore of Thorium",
+    "answer": "Monzite",
+    "choices": [
+      "Monzite",
+      "Pitchblende",
+      "Carnotite",
+      "Hematite"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01647",
+    "question": "Ore of Uranium",
+    "answer": "Pitchblende",
+    "choices": [
+      "Pitchblende",
+      "Monzite",
+      "Thorite",
+      "Hematite"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01648",
+    "question": "Which of the following acids is secreted in the stomach",
+    "answer": "Hydrochloric acid",
+    "choices": [
+      "Hydrochloric acid",
+      "Sulphuric acid",
+      "Nitric acid",
+      "Phosphoric Acid"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01649",
+    "question": "The meter used to measure the distance moved by the vehicle is known as",
+    "answer": "Odometer",
+    "choices": [
+      "Odometer",
+      "Ammeter",
+      "Speedometer",
+      "Chronometer"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01650",
+    "question": "Heat transfer that does not require a medium is called",
+    "answer": "Radiation",
+    "choices": [
+      "Radiation",
+      "Reflection",
+      "Conduction",
+      "Convection"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01651",
+    "question": "What type of rock is formed from the cooling and solidification of lava",
+    "answer": "Igneous",
+    "choices": [
+      "Igneous",
+      "Sedimentary",
+      "Metamorphic",
+      "Crystal"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01652",
+    "question": "Which of the following represents the suitable condition for the liquefaction of gases",
+    "answer": "Low Temperature, High Pressure",
+    "choices": [
+      "Low Temperature, High Pressure",
+      "Low Temperature, Low Pressure",
+      "High Temperature, High Pressure",
+      "High Temperature, Low Pressure"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01653",
+    "question": "Which of the following is an Iron ore",
+    "answer": "Limonite",
+    "choices": [
+      "Limonite",
+      "Cinnabar",
+      "Bauxite",
+      "Pyrite"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01654",
+    "question": "Which component of fertilizer is used for stimulating early growth",
+    "answer": "Phosphorus",
+    "choices": [
+      "Phosphorus",
+      "Nitrogen",
+      "Potassium",
+      "Oxygen"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01655",
+    "question": "Which of the following are the constituents of a sodia acid fire extinguisher",
+    "answer": "Dilute sulphuric acid and sodium bicarbonate solution",
+    "choices": [
+      "Dilute sulphuric acid and sodium bicarbonate solution",
+      "Dilute sulphuric acid and sodium carbonate",
+      "Concentrated sulphuric acid and sodium carbonate solution",
+      "Concentrated sulphuric acid and aluminium suplhate"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01656",
+    "question": "Which of the following bacterial diseases is called splenic fever",
+    "answer": "Anthrax",
+    "choices": [
+      "Anthrax",
+      "Typhoid",
+      "Cholera",
+      "None of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01657",
+    "question": "Which of the following radiation is used to get relief from body aches",
+    "answer": "Infrared",
+    "choices": [
+      "Infrared",
+      "UV",
+      "Visible",
+      "None of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01658",
+    "question": "Which one of the following is an example of melamine used for making floor tiles",
+    "answer": "Thermosetting Plastics",
+    "choices": [
+      "Thermosetting Plastics",
+      "Thermoplastics",
+      "Polythene",
+      "PVC"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01659",
+    "question": "Which of the following is the first artificially prepared element",
+    "answer": "Tc",
+    "choices": [
+      "Tc",
+      "Te",
+      "Th",
+      "TI"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01660",
+    "question": "Which of the following has a highly elongated elliptical orbit",
+    "answer": "Comet",
+    "choices": [
+      "Comet",
+      "Asteroid",
+      "Meteorite",
+      "Meteor"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01661",
+    "question": "Which of the following is the fluid part of the blood",
+    "answer": "Plasma",
+    "choices": [
+      "Plasma",
+      "WBC",
+      "RBC",
+      "Platelets"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01662",
+    "question": "Which of the following minerals occur in Minas Gerais province of Brazil",
+    "answer": "Iron",
+    "choices": [
+      "Iron",
+      "Bauxite",
+      "Mica",
+      "Coal"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01663",
+    "question": "Which of the following is a non-contact force",
+    "answer": "Magnetic",
+    "choices": [
+      "Magnetic",
+      "Frictional",
+      "Impact",
+      "None of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01664",
+    "question": "What is the structural and functional unit of Life",
+    "answer": "Cell",
+    "choices": [
+      "Cell",
+      "Organ",
+      "Tissue",
+      "Organism"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01665",
+    "question": "Which of the following, corundrum and cryolite are important ore",
+    "answer": "Aluminium",
+    "choices": [
+      "Aluminium",
+      "Silver",
+      "Tin",
+      "Iron"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01666",
+    "question": "Which of the following is the resistance of wire",
+    "answer": "R = V/I",
+    "choices": [
+      "R = V/I",
+      "R = IV",
+      "R = I/V",
+      "I = R/V"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01667",
+    "question": "What is the value of solar constant",
+    "answer": "1.4 kW/m2",
+    "choices": [
+      "1.4 kW/m2",
+      "1.6 kW/m2",
+      "1.2 kW/m2",
+      "1.8 kW/m2"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01668",
+    "question": "Which of the following the chlorophyll in photosyntesis is used for",
+    "answer": "Absorbing light",
+    "choices": [
+      "Absorbing light",
+      "Reduction of CO2",
+      "Breaking downs water molecules",
+      "No Function"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01669",
+    "question": "Which part of alimentary canal receives bile from the liver",
+    "answer": "Small Intestine",
+    "choices": [
+      "Small Intestine",
+      "Stomach",
+      "Oesophagus",
+      "Large Intestine"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01670",
+    "question": "The process of breaking down organic matter by micro-organisms is called",
+    "answer": "Decomposition",
+    "choices": [
+      "Decomposition",
+      "Respiration",
+      "Photosynthesis",
+      "Fermentation"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01671",
+    "question": "Which of the following is a major cause of pollution",
+    "answer": "Burning of Fossil Fuels",
+    "choices": [
+      "Burning of Fossil Fuels",
+      "Disposal of Plastics",
+      "Deforestation",
+      "Execessive use of pesticides"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01672",
+    "question": "Who was the first to propose a model for the structure of an atom",
+    "answer": "J J Thomson",
+    "choices": [
+      "J J Thomson",
+      "E Goldstein",
+      "Rutherford",
+      "Neil Bohr"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01673",
+    "question": "In the following which is fundamental physical quantitiy?",
+    "answer": "Electric Current",
+    "choices": [
+      "Electric Current",
+      "Force",
+      "Velocity",
+      "Work"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01674",
+    "question": "At time of a short circuit, the current in the circuit",
+    "answer": "increases heavily",
+    "choices": [
+      "increases heavily",
+      "varies continously",
+      "reduces substantially",
+      "does not change"
+    ],
+    "information": "In a short circuit the resistance becomes close to zero so that the current increases to a very high value as per Ohms law.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01675",
+    "question": "Frequency is measured in",
+    "answer": "Hertz",
+    "choices": [
+      "Hertz",
+      "metre/second",
+      "radian",
+      "watt"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01676",
+    "question": "What is measured in hertz?",
+    "answer": "Frequency",
+    "choices": [
+      "Frequency",
+      "Energy",
+      "Heat",
+      "Work"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01677",
+    "question": "Bolometer is used to measure",
+    "answer": "Heat Radiations",
+    "choices": [
+      "Heat Radiations",
+      "Frequency",
+      "Velocity",
+      "Wavelength"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01678",
+    "question": "What is hearing frequency range of Human",
+    "answer": "20Hz to 20kHz",
+    "choices": [
+      "20Hz to 20kHz",
+      "2Hz to 20kHz",
+      "2Hz to 20Hz",
+      "2kHz to 20kHz"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01679",
+    "question": "Ohm-meter is unit of",
+    "answer": "Resistivity",
+    "choices": [
+      "Resistivity",
+      "Resistance",
+      "Charge",
+      "Conductance"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01680",
+    "question": "Angstrom is a unit of",
+    "answer": "Wavelength",
+    "choices": [
+      "Wavelength",
+      "Energy",
+      "Frequency",
+      "Velocity"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01681",
+    "question": "1 Zepto is equal to",
+    "answer": "10^-21",
+    "choices": [
+      "10^-21",
+      "10^21",
+      "10^-12",
+      "10^12"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01682",
+    "question": "One micron is equal to",
+    "answer": "10^-6 m",
+    "choices": [
+      "10^-6 m",
+      "10^6 m",
+      "10^-3 m",
+      "10^3 m"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01683",
+    "question": "One picogram is equal to",
+    "answer": "10^-12",
+    "choices": [
+      "10^-12",
+      "10^-21",
+      "10^-9",
+      "10^-6"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01684",
+    "question": "What is the unit of pressure?",
+    "answer": "Newton / sq. meter",
+    "choices": [
+      "Newton / sq. meter",
+      "Newton-meter",
+      "Newton",
+      "Newton/meter"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01685",
+    "question": "Magnetic field is a",
+    "answer": "Vector Quantity",
+    "choices": [
+      "Vector Quantity",
+      "Scalar Quantity",
+      "Dimensionless Quantity",
+      "None of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01686",
+    "question": "What is Galvanometer used to measure",
+    "answer": "Electric Current",
+    "choices": [
+      "Electric Current",
+      "Electric Charge",
+      "Electric Resistance",
+      "Electric Potential"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01687",
+    "question": "Which of the following is used to measure the intensity of earthquake?",
+    "answer": "Mercalli Scale",
+    "choices": [
+      "Mercalli Scale",
+      "Ritcher Scale",
+      "Seismograph",
+      "Accelerometer"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01688",
+    "question": "Hot-wire ammeters are used to measure",
+    "answer": "both AC and DC",
+    "choices": [
+      "both AC and DC",
+      "only DC",
+      "only AC",
+      "neither AC nor DC"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01689",
+    "question": "Which instrument is used for measuring electric potential?",
+    "answer": "Potentiometer",
+    "choices": [
+      "Potentiometer",
+      "Ammeter",
+      "Galvanometer",
+      "Accelerometer"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01690",
+    "question": "The device used to measure electric current is",
+    "answer": "Ammeter",
+    "choices": [
+      "Ammeter",
+      "Potentiometer",
+      "Voltmeter",
+      "Voltameter"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01691",
+    "question": "The resistance of an ideal voltmeter is",
+    "answer": "infinite",
+    "choices": [
+      "infinite",
+      "negative",
+      "zero",
+      "one"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01692",
+    "question": "Which instrument is used to measure humidity",
+    "answer": "Hygrometer",
+    "choices": [
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01693",
+    "question": "Electroencephalogram (EEG) is used in monitoring",
+    "answer": "Brain",
+    "choices": [
+      "Brain",
+      "Heart",
+      "Liver",
+      "Kidney"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01694",
+    "question": "For a satellite, escape velocity is 11km/s. If the satellite is launched at an angle of 60 degree with the vertical, then the escape velocity will be",
+    "answer": "does not change",
+    "choices": [
+      "does not change",
+      "increases",
+      "decreases",
+      "becomes zero"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01695",
+    "question": "What is the law in which under the same conditions of temperature and pressure, equal volumes of all gases contain equal number of molecules?",
+    "answer": "Avogadro's Law",
+    "choices": [
+      "Avogadro's Law",
+      "Graham's Law",
+      "Pascal's Law",
+      "Coriolis Effect"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01696",
+    "question": "A goalkeeper in a game of football pull his hands backwards after holding the ball shot at the goal. This enables the goalkeeper to",
+    "answer": "decrease the rate of change of momentum",
+    "choices": [
+      "decrease the rate of change of momentum",
+      "increase the force exerted by the ball on hands",
+      "exert large force on the ball",
+      "increases the score"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01697",
+    "question": "When the stone is brought from the surface of the moon to the earth, then",
+    "answer": "its weight will change, but mass will not change",
+    "choices": [
+      "its weight will change, but mass will not change",
+      "it mass will change",
+      "both weight and mass will change",
+      "neither weight nor mass will change"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01698",
+    "question": "Which of the following is not a vector quantity",
+    "answer": "volume",
+    "choices": [
+      "volume",
+      "velocity",
+      "displacement",
+      "force"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01699",
+    "question": "Which of the following is not a vector quantity",
+    "answer": "speed",
+    "choices": [
+      "speed",
+      "velocity",
+      "torque",
+      "displacement"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01700",
+    "question": "Which of the following is a scalar quantity",
+    "answer": "Pressure",
+    "choices": [
+      "Pressure",
+      "Force",
+      "Acceleration",
+      "Velocity"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01701",
+    "question": "Current density is",
+    "answer": "a vector quantity",
+    "choices": [
+      "a vector quantity",
+      "a scalar quantity",
+      "Dimensionless Quantity",
+      "None of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01702",
+    "question": "A sudden rise in the barometric height indicates",
+    "answer": "extremely dry weather",
+    "choices": [
+      "extremely dry weather",
+      "coming of storm or cyclone",
+      "possibility of rain",
+      "dry weather"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01703",
+    "question": "The time period of a pendulum clock is",
+    "answer": "1 second",
+    "choices": [
+      "1 second",
+      "2 seconds",
+      "1 minute",
+      "1 hour"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01704",
+    "question": "Which physical quantity is represented by the ratio of momentum and velocity of the body?",
+    "answer": "Mass",
+    "choices": [
+      "Mass",
+      "velocity",
+      "Acceleration",
+      "Force"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01705",
+    "question": "Which is the correct formula of acceleration?",
+    "answer": "a = (v-u)/t",
+    "choices": [
+      "a = (v-u)/t",
+      "a = u + vt",
+      "a = (u + v )/t",
+      "a = u + v/t"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01706",
+    "question": "Force is the product of",
+    "answer": "Mass & Acceleration",
+    "choices": [
+      "Mass & Acceleration",
+      "Mass & Velocity",
+      "Weight & Density",
+      "Weight & Acceleration"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01707",
+    "question": "Ball bearings are used to convert static friction into",
+    "answer": "rolling friction",
+    "choices": [
+      "rolling friction",
+      "drag",
+      "sliding friction",
+      "torque"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01708",
+    "question": "Which of the following energy changes involves frictional force?",
+    "answer": "Kinetic Energy to Heat Energy",
+    "choices": [
+      "Kinetic Energy to Heat Energy",
+      "Chemical energy to Heat Energy",
+      "Kinetic Energy to Electric Energy",
+      "Potential Energy to Sound Energy"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01709",
+    "question": "Lenz's law is derived from the law of conservation of",
+    "answer": "Energy",
+    "choices": [
+      "Energy",
+      "Charge",
+      "Momentum",
+      "Magnetism"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01710",
+    "question": "If a feather, a rubber ball and a wooden ball are failing freely simultaneously from the same height in the vacuum then",
+    "answer": "all three will reach the ground together",
+    "choices": [
+      "all three will reach the ground together",
+      "the wooden ball will reach the ground first",
+      "the rubber ball will reach the ground first",
+      "the feather will reach the ground last"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01711",
+    "question": "When a body falls freely towards the Earth, then its total energy",
+    "answer": "remains constant",
+    "choices": [
+      "remains constant",
+      "increases",
+      "decreases",
+      "becomes zero"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01712",
+    "question": "A second pendulum is mounted in a rocket. Its period of oscillation decreases when the rocket",
+    "answer": "moves up with uniform acceleration",
+    "choices": [
+      "moves up with uniform acceleration",
+      "comes down with uniform acceleration",
+      "moves round the earth in a geostationary orbit",
+      "moves up with uniform velocity"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01713",
+    "question": "For a body moving with constant speed in a horizontal circle, which of the following remains constant?",
+    "answer": "Kinetic Energy",
+    "choices": [
+      "Kinetic Energy",
+      "velocity",
+      "Acceleration",
+      "Centripetal Force"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01714",
+    "question": "If the spinning speed of the earth increases, then the weight of the body at equator will",
+    "answer": "decrease",
+    "choices": [
+      "decrease",
+      "increase",
+      "remains same",
+      "be doubled"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01715",
+    "question": "The time period of a pendulum",
+    "answer": "depends on its length",
+    "choices": [
+      "depends on its length",
+      "depends on the mass",
+      "depends on time",
+      "depends on temperature"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01716",
+    "question": "You are standing in an elevator. The force exerted by your weight on the floor of the elevator",
+    "answer": "will be zero when the lift comes down with an acceleration of 9.8m/s2",
+    "choices": [
+      "will be zero when the lift comes down with an acceleration of 9.8m/s2",
+      "will be zero when the lift goes up with an acceleration of 9.8m/s2",
+      "Zero when the lift moves in any direction with an acceleration of 9.8m/s2",
+      "will not be affected by the change in the rate of acceleration of the lift"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01717",
+    "question": "A bus is moving along a straight path and takes a sharp turn to the right side suddenly, the passengers in the bus will",
+    "answer": "bent towards left side",
+    "choices": [
+      "bent towards left side",
+      "bent towards right side",
+      "fall in forward direction",
+      "fall in backward direction"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01718",
+    "question": "A man pushes more weight on the Earth at",
+    "answer": "standing position",
+    "choices": [
+      "standing position",
+      "sitting position",
+      "lying position",
+      "sleeping position"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01719",
+    "question": "Environment is a composite state of",
+    "answer": "All of these",
+    "choices": [
+      "All of these",
+      "Biotic Factors",
+      "Abiotic Factors",
+      "Physiographic Factors"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01720",
+    "question": "What is the thin layer of gases around the earth called?",
+    "answer": "Atmosphere",
+    "choices": [
+      "Atmosphere",
+      "Biosphere",
+      "Hydroshpere",
+      "Lithoshpere"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01721",
+    "question": "The atmosphere is mainly heated by the",
+    "answer": "long-wave terrestrial radiation",
+    "choices": [
+      "long-wave terrestrial radiation",
+      "short-wave solar radiation",
+      "volcanic emission",
+      "emission from distant stars"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01722",
+    "question": "Air is a/an",
+    "answer": "Mixture",
+    "choices": [
+      "Mixture",
+      "Compound",
+      "Element",
+      "Electrolyte"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01723",
+    "question": "The highest percentage of gas in the air is",
+    "answer": "Nitrogen",
+    "choices": [
+      "Nitrogen",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon Dioxide"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01724",
+    "question": "The tallest known living tree",
+    "answer": "Sequoia",
+    "choices": [
+      "Sequoia",
+      "Eucalyptus",
+      "Deodar",
+      "Parnang"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01725",
+    "question": "The major component of CNG is",
+    "answer": "CH4",
+    "choices": [
+      "CH4",
+      "N2",
+      "CO2",
+      "H2"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01726",
+    "question": "Pollutant emission gas in vehichle exhaust is mainly",
+    "answer": "Carbon Monoxide",
+    "choices": [
+      "Carbon Monoxide",
+      "Carbon Dioxide",
+      "Nitrogen Oxide",
+      "Marsh Gas"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01727",
+    "question": "Inhalation of air polluted with Carbon Monoxide is dangerous because",
+    "answer": "It combines with hemoglobin",
+    "choices": [
+      "It combines with hemoglobin",
+      "it combines with oxygen in blood",
+      "it removes water from the body and causes dehydration",
+      "it causes coagulation of proteins in the body"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01728",
+    "question": "The components of acid rain is/are",
+    "answer": "HNO3 & H2SO4",
+    "choices": [
+      "HNO3 & H2SO4",
+      "HNO3",
+      "H2SO4",
+      "CO2"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01729",
+    "question": "The major and top source of oxygen in the atmosphere is",
+    "answer": "Photosynthesis by oceanic phytoplanktons",
+    "choices": [
+      "Photosynthesis by oceanic phytoplanktons",
+      "Photosynthesis by forest plants",
+      "photosynthesis by grassland ecosystem",
+      "photosynthesis be wetland algaes"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01730",
+    "question": "In which year International Space Station was launched?",
+    "answer": "1998",
+    "choices": [
+      "1998",
+      "1999",
+      "2000",
+      "1997"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01731",
+    "question": "Name the world's first Space Station",
+    "answer": "Salyut 1",
+    "choices": [
+      "Salyut 1",
+      "Mir",
+      "Skylab",
+      "Tiangong"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01732",
+    "question": "First country to launch space station in the world",
+    "answer": "USSR",
+    "choices": [
+      "USSR",
+      "USA",
+      "China",
+      "India"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01733",
+    "question": "Name the first person in the world to travel in space?",
+    "answer": "Yuri Gagrin",
+    "choices": [
+      "Yuri Gagrin",
+      "Rakesh Sharma",
+      "Shubhanshu Shukla",
+      "Alan Shepard"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01734",
+    "question": "The indigenous malaria vaccine candidate developed under the aegis of ICMR is called",
+    "answer": "AdFalciVax",
+    "choices": [
+      "AdFalciVax",
+      "R21/Matrix-M",
+      "RTS,S",
+      "Covaxin"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01735",
+    "question": "AdFalciVax, the malaria vaccine candidate developed in India, is primarily targeted against which malaria parasite?",
+    "answer": "Plasmodium falciparum",
+    "choices": [
+      "Plasmodium falciparum",
+      "Plasmodium vivax",
+      "Plasmodium ovale",
+      "Plasmodium malariae"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01736",
+    "question": "What is the typical electrical output range of Small Modular Reactors (SMRs)?",
+    "answer": "50 to 300 MW",
+    "choices": [
+      "50 to 300 MW",
+      "10 to 50 MW",
+      "300 to 1000 MW",
+      "More than 2000 MW"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01737",
+    "question": "What is the key feature of a Small Modular Reactor (SMR) compared to traditional nuclear reactors?",
+    "answer": "Can be manufactured in a factory and assembled on-site",
+    "choices": [
+      "Can be manufactured in a factory and assembled on-site",
+      "Uses only thorium as fuel",
+      "Requires high population density",
+      "Requires extremely large cooling towers"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01738",
+    "question": "Chikungunya is caused by which type of microorganism?",
+    "answer": "Virus",
+    "choices": [
+      "Virus",
+      "Bacteria",
+      "Fungus",
+      "Protozoa"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01739",
+    "question": "Chikungunya virus is primarily transmitted by which mosquito?",
+    "answer": "Aedes Aegypti",
+    "choices": [
+      "Aedes Aegypti",
+      "Culex",
+      "Anopheles",
+      "Tabanus"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01740",
+    "question": "What is the most characteristic symptom of Chikungunya?",
+    "answer": "Severe joint pain",
+    "choices": [
+      "Severe joint pain",
+      "Skin Ulcers",
+      "Swelling of lympt nodes",
+      "Paralysis"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01741",
+    "question": "Which of the following diseases is not transmitted by Aedes mosquitoes?",
+    "answer": "Malaria",
+    "choices": [
+      "Malaria",
+      "Chikungunya",
+      "Zika",
+      "Dengue"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01742",
+    "question": "Energy consumed in a home is 250 units then the total energy in Joule will be",
+    "answer": "9x10^8 J",
+    "choices": [
+      "9x10^8 J",
+      "8x10^6 J",
+      "9x10^5 J",
+      "10^5 J"
+    ],
+    "information": "Energy in J = kWh x 3.6 x 10^6",
+    "tags": ""
+  },
+  {
+    "qid": "Q01743",
+    "question": "In which medium, the speed of sound is maximum?",
+    "answer": "Steel",
+    "choices": [
+      "Steel",
+      "Water",
+      "Air",
+      "Hydrogen"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01744",
+    "question": "A truck starts from rest down a hill with a constant acceleration. It achieves 400 meters in 20 seconds. If the mass of the truck is 7 tons then what will be the force acting on it?",
+    "answer": "14000 N",
+    "choices": [
+      "14000 N",
+      "13000 N",
+      "11000 N",
+      "12000 N"
+    ],
+    "information": "Force = Mass x Acceleration and s = ut + 1/2at^2",
+    "tags": ""
+  },
+  {
+    "qid": "Q01745",
+    "question": "We apply a force of 200 Newton on a wooden Box and push it on the floor at constant velocity. The marginal friction force will be",
+    "answer": "200 N",
+    "choices": [
+      "200 N",
+      "100 N",
+      "300 N",
+      "400 N"
+    ],
+    "information": "Constant velocity means zero acceleration, hence forces should be equal in opposite direction",
+    "tags": ""
+  },
+  {
+    "qid": "Q01746",
+    "question": "The potential energy of a freely falling body continuously decreases",
+    "answer": "The principle of conservation of energy is not violated",
+    "choices": [
+      "The principle of conservation of energy is not violated",
+      "The principle of conservation of energy is violated",
+      "Gravitational force is violated",
+      "Gravitational force is not violated"
+    ],
+    "information": "No law of Physics is violated. The total of potential and kinetic energies remain the same",
+    "tags": ""
+  },
+  {
+    "qid": "Q01747",
+    "question": "A pair of Oxen exerts a force of 140 N while ploughing the field. The field ploughed is 15m long. The work done in ploughing the length of the field is",
+    "answer": "2100 Joule",
+    "choices": [
+      "2100 Joule",
+      "1900 Joule",
+      "2200 Joule",
+      "2000 Joule"
+    ],
+    "information": "Work = Force x Displacement",
+    "tags": ""
+  },
+  {
+    "qid": "Q01748",
+    "question": "The focal length of a plane mirror is",
+    "answer": "infinity",
+    "choices": [
+      "infinity",
+      "minus 1cm",
+      "plus 1cm",
+      "2cm"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01749",
+    "question": "Which term in the following does not denote the electric power in electric circuit?",
+    "answer": "IR^2",
+    "choices": [
+      "IR^2",
+      "I^2R",
+      "VI",
+      "V^2/R"
+    ],
+    "information": "Power = Voltage x Current",
+    "tags": ""
+  },
+  {
+    "qid": "Q01750",
+    "question": "What is the device to protect equipments from the electric shock?",
+    "answer": "Fuse",
+    "choices": [
+      "Fuse",
+      "Generator",
+      "Motor",
+      "Current Controller"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01751",
+    "question": "pH value of 0.1 N HCL solution is approximately",
+    "answer": "1",
+    "choices": [
+      "1",
+      "11",
+      "10",
+      "2"
+    ],
+    "information": "pH = - log(concentration of H+ ions), take logarithmic base as 10",
+    "tags": ""
+  },
+  {
+    "qid": "Q01752",
+    "question": "Which compound is known as night glowing pigment from below?",
+    "answer": "Europium dopped strontium aluminate",
+    "choices": [
+      "Europium dopped strontium aluminate",
+      "Copper Sulphide dopped zinc oxide",
+      "Barium sulphate dopped copper carbonate",
+      "Boron oxide dopped copper sulphate"
+    ],
+    "information": "The compound known as the most efficient modern \"night glowing pigment\" is Europium doped strontium aluminate",
+    "tags": ""
+  },
+  {
+    "qid": "Q01753",
+    "question": "Which material is used for smart film?",
+    "answer": "Indium Tin Oxide",
+    "choices": [
+      "Indium Tin Oxide",
+      "Calcium Carbonate",
+      "Zinc Chloride",
+      "Silica"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01754",
+    "question": "Which metal compound is used for treatment of carcinoma?",
+    "answer": "Platinum",
+    "choices": [
+      "Platinum",
+      "Chromium",
+      "Iron",
+      "Chlorine"
+    ],
+    "information": "The metal compound most famously and widely used for the treatment of carcinoma (a type of cancer originating in epithelial tissues) is a Platinum-based complex called Cisplatin.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01755",
+    "question": "Which compound is used in contraceptive pills?",
+    "answer": "Levonorgestrel",
+    "choices": [
+      "Levonorgestrel",
+      "Cholecalciferol",
+      "Vanlaflexine",
+      "Cetrizine"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01756",
+    "question": "Why oil is not stored in a galvanised iron pot?",
+    "answer": "All of these",
+    "choices": [
+      "All of these",
+      "It produce toxic compound",
+      "it reduces quality of oil",
+      "it cause corrosion"
+    ],
+    "information": "In the galvanized iron pot, the Zn coating reacts with oil free fatty acids and moisture to form toxic zinc salt that reduces the quality of oil and leads to corrosion and discolouration of the pot",
+    "tags": ""
+  },
+  {
+    "qid": "Q01757",
+    "question": "Which compound is used to increase octane rating?",
+    "answer": "Tetraethyllead (TEL)",
+    "choices": [
+      "Tetraethyllead (TEL)",
+      "Tetramethyl Oxide",
+      "Trimethyl Hexane",
+      "Triethyl Toluene"
+    ],
+    "information": "The compound historically and most effective for increasing the octane rating of gasoline was Tetraethyllead (TEL)",
+    "tags": ""
+  },
+  {
+    "qid": "Q01758",
+    "question": "Full form of PHBV biodegradable polymer",
+    "answer": "Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)",
+    "choices": [
+      "Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)",
+      "Poly hydroxy butane veratric acid",
+      "Polyhydroxy butyl vaniline",
+      "Poly hydroxy butyric acid veratric acid"
+    ],
+    "information": "PHBV stands for Poly(3-hydroxybutyrate-co-3-hydroxyvalerate). PHBV is a biodegradable and biocompatible polymer used as an environmentally friendly alternative to traditional plastics.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01759",
+    "question": "Hormones are secreted by",
+    "answer": "Endocrine glands",
+    "choices": [
+      "Endocrine glands",
+      "Exocrine glands",
+      "Sebaceous glands",
+      "Reproductive glands"
+    ],
+    "information": "Hormones are primarily secreted by endocrine glands and other specialized cells within organs that collectively form the endocrine system",
+    "tags": ""
+  },
+  {
+    "qid": "Q01760",
+    "question": "Which one of the following term characterises the interaction between herpes simplex virus and a human?",
+    "answer": "Endoparasitims",
+    "choices": [
+      "Endoparasitims",
+      "Symbiosis",
+      "Parasitism",
+      "Endosymbiosis"
+    ],
+    "information": "All viruses, including Herpes simplex virus are obligate intracellular parasites that use the cellular resources and cellular functions for their replication and survival. So, it is one of the best example of endoparasitism.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01761",
+    "question": "Which class of immunoglobulin is the first to be produced in response to an infection?",
+    "answer": "IgM",
+    "choices": [
+      "IgM",
+      "IgA",
+      "IgE",
+      "IgG"
+    ],
+    "information": "The class of immunoglobulin that is the first to be produced in response to a primary infection is Immunoglobulin M (IgM)",
+    "tags": ""
+  },
+  {
+    "qid": "Q01762",
+    "question": "The biological membranes are composed of",
+    "answer": "Lipids and proteins in varying combinations which are specific to each species, cell type and organelle",
+    "choices": [
+      "Lipids and proteins in varying combinations which are specific to each species, cell type and organelle",
+      "Lipids only",
+      "Protein only",
+      "None of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01763",
+    "question": "Which of the following is a non-sense codon?",
+    "answer": "UAA",
+    "choices": [
+      "UAA",
+      "AUG",
+      "UUU",
+      "UGC"
+    ],
+    "information": "The term \"non-sense codon\" is another name for a stop codon. A stop codon signals the termination of protein synthesis (translation) because they do not code for any amino acid. The three non-sense (stop) codons are - UAA, UAG and UGA",
+    "tags": ""
+  },
+  {
+    "qid": "Q01764",
+    "question": "The species which are in danger of exitinction are known as?",
+    "answer": "Endangered",
+    "choices": [
+      "Endangered",
+      "Rare",
+      "Vulnerable",
+      "Extinct"
+    ],
+    "information": "As per IUCN, the species facing a very high risk of extinction in the near future due to threats are called as ‘Endangered species’, While the species that is likely to be endangered in the near future, if nothing is done for their conservation is known as “Vulnerable species”.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01765",
+    "question": "Which of the following is a Kharif crop?",
+    "answer": "Sugarcane",
+    "choices": [
+      "Sugarcane",
+      "Barley",
+      "Gram",
+      "Wheat"
+    ],
+    "information": "Barley, Gram and wheat are Rabi crops, while sugarcane is a kharif crop since it is sown in the beginning of monsoon and harvested in autumn.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01766",
+    "question": "Xylem in plants is responsible for following function",
+    "answer": "Transport of water and dissolved minerals",
+    "choices": [
+      "Transport of water and dissolved minerals",
+      "Transport of foods",
+      "Transport of oxygen and other gases",
+      "Transport of essential amino acids"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01767",
+    "question": "Who was the first to use the characteristics of vascular tissues in the classification of plants?",
+    "answer": "A P de Candolle",
+    "choices": [
+      "A P de Candolle",
+      "Engler and Prantl",
+      "Bentham and Hooker",
+      "More than one are correct"
+    ],
+    "information": "The first to use the characteristics of vascular tissues (xylem and phloem) as a key criterion in the classification of plants was the Swiss botanist Augustin Pyramus de Candolle (often abbreviated as A.P. de Candolle) in the early 19th century",
+    "tags": ""
+  },
+  {
+    "qid": "Q01768",
+    "question": "The part which we eat in Mango is",
+    "answer": "Mesocarp",
+    "choices": [
+      "Mesocarp",
+      "Epicarp",
+      "Endocarp",
+      "None of these"
+    ],
+    "information": "The mesocarp is the nutritious, fleshy part consumed between the skin (epicarp) and the seed (enclosed by the endocarp).",
+    "tags": ""
+  },
+  {
+    "qid": "Q01769",
+    "question": "Ozone day is celebrated on",
+    "answer": "16th September",
+    "choices": [
+      "16th September",
+      "5th June",
+      "21st April",
+      "5th December"
+    ],
+    "information": "Ozone Day is celebrated annually on September 16th. This date marks the anniversary of the signing of the Montreal Protocol in 1987, which is the international treaty designed to protect the ozone layer by phasing out the production of numerous substances responsible for ozone depletion. It is officially known as the International Day for the Preservation of the Ozone Layer.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01770",
+    "question": "In mycorrhizal association, the advantage of plant is",
+    "answer": "Increased mineral absorption and diseases protection",
+    "choices": [
+      "Increased mineral absorption and diseases protection",
+      "Protection",
+      "Food",
+      "Water"
+    ],
+    "information": "Mycorrhizal fungi helps plants to absorb essential nutrients and water from the soil through its hyphal network. The fungi also protect plant from root borne pathogen and induces systemic resistance in the plant.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01771",
+    "question": "What is the primary objective of the LunarTrailblazer mission?",
+    "answer": "To detect and map water on the Moon's surface",
+    "choices": [
+      "To detect and map water on the Moon's surface",
+      "To create a 3D model of the entire Moon",
+      "To test new lunar rovers",
+      "to orbit around Moon"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01772",
+    "question": "CRISPR-Cas9 technology is originally derived from which biological system?",
+    "answer": "Bacterial adaptive immune system",
+    "choices": [
+      "Bacterial adaptive immune system",
+      "Plant immune system",
+      "Fungal metabolic pathway",
+      "Animal cell signalling pathway"
+    ],
+    "information": "CRISPR is a natural defense mechanism in bacteria that uses “Cas” enzymes to cut viral DNA. Scientists repurposed this mechanism for programmable genome editing.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01773",
+    "question": "CRISPR in gene editing stands for",
+    "answer": "Clustered Regularly Interspaced Short Palindromic Repeats",
+    "choices": [
+      "Clustered Regularly Interspaced Short Palindromic Repeats",
+      "Circular RNA Sequence for Protein Regulation",
+      "Controlled Response System for Precision Repair",
+      "Combined Replication System for Plant Research"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01774",
+    "question": "Base-editing systems (like BIRSA-101) enable which type of modification?",
+    "answer": "Conversion of one DNA base to another without cutting the DNA",
+    "choices": [
+      "Conversion of one DNA base to another without cutting the DNA",
+      "Changing entire chromosomes",
+      "Editing proteins directly",
+      "Editing only RNA sequences"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01775",
+    "question": "Which nutrient is Makhana particularly rich in, making it a popular 'superfood'?",
+    "answer": "Protein and Magnesium",
+    "choices": [
+      "Protein and Magnesium",
+      "Vitamin B12",
+      "Vitamin C",
+      "Iron"
+    ],
+    "information": "Makhana is highly valued for being a low-fat, high-protein snack rich in magnesium and potassium.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01776",
+    "question": "What is the botanical name of the Makhana plant?",
+    "answer": "Euryale Ferox",
+    "choices": [
+      "Euryale Ferox",
+      "Nelumbo Nucifera",
+      "Litchi Chinensis",
+      "Oryza Sativa"
+    ],
+    "information": "Euryale ferox is the scientific name for the prickly water lily that produces makhana.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01777",
+    "question": "Which of the following is the natural reservoir of Nipah virus?",
+    "answer": "Fruit bats (Pteropus species)",
+    "choices": [
+      "Fruit bats (Pteropus species)",
+      "Pigs",
+      "Birds",
+      "Rodents"
+    ],
+    "information": "Fruit bats of the Pteropus genus are the natural hosts and remain asymptomatic carriers.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01778",
+    "question": "Persistent infection with which virus is the primary cause of cervical cancer?",
+    "answer": "HPV",
+    "choices": [
+      "HPV",
+      "HIV",
+      "HBV",
+      "Epstein-Barr Virus"
+    ],
+    "information": "Human Papillomavirus (especially types 16 & 18) is responsible for the majority of cervical cancer cases worldwide.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01779",
+    "question": "Which HPV types are considered high-risk for cervical cancer?",
+    "answer": "16 & 18",
+    "choices": [
+      "16 & 18",
+      "1 & 2",
+      "6 & 11",
+      "21 & 22"
+    ],
+    "information": "HPV 16 and 18 are high-risk oncogenic strains causing ~70–85% of cervical cancer cases.",
+    "tags": ""
+  }
 ]

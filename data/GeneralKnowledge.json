@@ -1,422 +1,457 @@
 [
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "When is World Earth Day celebrated",
-        "answer": "22nd April",
-        "choices": [
-            "22nd April",
-            "5th June",
-            "9th August",
-            "2nd October"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "When is World Environment Day celebrated?",
-        "answer": "5th June",
-        "choices": [
-            "5th June",
-            "22nd April",
-            "9th August",
-            "2nd October"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Who is considered the founder of ISRO?",
-        "answer": "Dr Vikram Sarabhai",
-        "choices": [
-            "Dr Vikram Sarabhai",
-            "Dr Homi Bhabha",
-            "DR APJ Abdul Kalam",
-            "Dr Satish Dhawan"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Where is the headquarters of ISRO located?",
-        "answer": "Bengaluru",
-        "choices": [
-            "Bengaluru",
-            "Hyderabad",
-            "Mumbai",
-            "Chennai"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Name the first President of India",
-        "answer": "Rajendra Prasad",
-        "choices": [
-            "Rajendra Prasad",
-            "Savapalli Radhakrishnan",
-            "Zakir Hussain",
-            "Pratibha Patil"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Name the first female President of India",
-        "answer": "Pratibha Patil",
-        "choices": [
-            "Pratibha Patil",
-            "Draupadi Murmu",
-            "Indira Gandhi",
-            "Rekha Gupta"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Name the first President of India belonging to minority religon",
-        "answer": "Zakir Hussain",
-        "choices": [
-            "Zakir Hussain",
-            "Draupadi Murmu",
-            "Pratibha Patil",
-            "Sarvapalli Radhakrishnan"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Name the first President of India belonging to tribal community",
-        "answer": "Draupadi Murmu",
-        "choices": [
-            "Draupadi Murmu",
-            "V V Giri",
-            "Rajendra Prasad",
-            "Zakir Hussain"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Name the longest serving president of India till now?",
-        "answer": "Rajendra Prasad",
-        "choices": [
-            "Rajendra Prasad",
-            "Savapalli Radhakrishnan",
-            "Mohammad Hamid Ansari",
-            "Pratibha Patil"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "When is National Space Day celebrated in India?",
-        "answer": "23rd August",
-        "choices": [
-            "23rd August",
-            "14th July",
-            "26th August",
-            "7th Sepetember"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Which mission's successful landing on the lunar south pole led to the declaration of National Space Day?",
-        "answer": "Chandrayaan-3",
-        "choices": [
-            "Chandrayaan-3",
-            "Chandrayaan-2",
-            "Chandrayaan-1",
-            "Mangalyaan"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "The landing site of the Chandrayaan-3 lander has been named:",
-        "answer": "Shiv Shakti Point",
-        "choices": [
-            "Shiv Shakti Point",
-            "Jawahar Point",
-            "Mahatma Point",
-            "Tiranga Point"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "What was the name of the lander in the Chandrayaan-3 mission?",
-        "answer": "Vikram",
-        "choices": [
-            "Vikram",
-            "Pragyan",
-            "Agni",
-            "Dhruv"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "What is the name of the rover that was deployed from the Chandrayaan-3 lander?",
-        "answer": "Pragyan",
-        "choices": [
-            "Pragyan",
-            "Vikram",
-            "Agni",
-            "Dhruv"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Which country became the first to successfully land a spacecraft on the lunar south pole?",
-        "answer": "India",
-        "choices": [
-            "India",
-            "United States",
-            "Russia",
-            "China"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "The headquarters of International Court of Justice is situated at",
-        "answer": "The Hague, Netherland",
-        "choices": [
-            "The Hague, Netherland",
-            "New York, USA",
-            "Geneva, Switzerland",
-            "Paris, France"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Border Security Force came into existence in",
-        "answer": 1965,
-        "choices": [
-            1965,
-            1962,
-            1963,
-            1964
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Montesquieu proposed a division of powers within the government between legislature, executive, and judiciary in which of the following books by him?",
-        "answer": "The Spirit of the Laws",
-        "choices": [
-            "The Spirit of the Laws",
-            "My Thoughts",
-            "The Republic",
-            "The Social Contract"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Who wrote our national song Vande Mataram?",
-        "answer": "Bankim Chandra Chattopadhyay",
-        "choices": [
-            "Bankim Chandra Chattopadhyay",
-            "Aurobindo Ghose",
-            "Rabindranath Thakur",
-            "Satyendranath Thakur"
-        ],
-        "information": "Vande Mataram was composed in 1875 by Bankim Chandra Chattopadhyay and published in Bangdarshan journal in Bengali language originally."
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Who wrote our National Anthem?",
-        "answer": "Rabindranath Thakur",
-        "choices": [
-            "Rabindranath Thakur",
-            "Aurobindo Ghose",
-            "Bankim Chandra Chattopadhyay",
-            "Satyendranath Thakur"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Which of Bankim Chandra Chattopadhyay's novels contains original version of our National Song - Vande Mataram?",
-        "answer": "Anandamath",
-        "choices": [
-            "Anandamath",
-            "Durgeshnandini",
-            "Krishnakanter Will",
-            "Kapalkundala"
-        ],
-        "information": "The song was included in the novel Anandamath (1882), set against the backdrop of the Sanyasi Rebellion."
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "How many Indian Languages are accorded the satus of Classical Language?",
-        "answer": "Eleven",
-        "choices": [
-            "Eleven",
-            "Six",
-            "Ten",
-            "Nine"
-        ],
-        "information": "There are eleven languages in India that have been accorded the status of a classical language: Tamil, Sanskrit, Telugu, Kannada, Malayalam, Odia, Marathi, Pali, Prakrit, Assamese, and Bengali"
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Which of the following was not established on 1st January?",
-        "answer": "World Health Organisation (WHO)",
-        "choices": [
-            "World Health Organisation (WHO)",
-            "World Trade Organisation (WTO)",
-            "International Monetary Fund (IMF)",
-            "Geological Survey of India"
-        ],
-        "information": "Establishment Dates: WHO (7th April 1948), WTO (1st January 1995), IMF (1st January 1945), GSI (1st January 1851)"
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Which Indian organisation, established on 1 January 1851, is one of the oldest scientific institutions in the world?",
-        "answer": "Geological Survey of India",
-        "choices": [
-            "Geological Survey of India",
-            "Indian Space and Research Organisation (ISRO)",
-            "India Meterological Department",
-            "Council of Scientific and Industrial Research"
-        ],
-        "information": "The Geological Survey of India (GSI) was established on 1st Jan 1851, founded by Sir Thomas Oldham, initially to survey India's coal and mineral resources for railway development"
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Which is the first country in the world to celebrate New Year?",
-        "answer": "Kiribati",
-        "choices": [
-            "Kiribati",
-            "New Zealand",
-            "Australia",
-            "Japan"
-        ],
-        "information": "The Pacific island nation of Kiribati is the first country in the world to celebrate New Year's. Specifically, its Line Islands, which include Kiritimati (Christmas Island), are in the earliest time zone on Earth, UTC+14."
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Which time zone is the first to enter the New Year?",
-        "answer": "UTC +14",
-        "choices": [
-            "UTC +14",
-            "UTC +12",
-            "UTC +13",
-            "UTC -12"
-        ],
-        "information": "The Pacific island nation of Kiribati is the first country in the world to celebrate New Year's. Specifically, its Line Islands, which include Kiritimati (Christmas Island), are in the earliest time zone on Earth, UTC+14."
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Which place celebrates New Year last?",
-        "answer": "Howland and Baker Islands",
-        "choices": [
-            "Howland and Baker Islands",
-            "Samoa",
-            "Tonga",
-            "Fiji"
-        ],
-        "information": "The last places on Earth to celebrate New Year are the uninhabited U.S. territories of Baker Island and Howland Island (UTC -12)"
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "The Gregorian Calendar was introduced by",
-        "answer": "Pope Gregory XIII",
-        "choices": [
-            "Pope Gregory XIII",
-            "Julius Caesar",
-            "Augustus Caesar",
-            "Constantine"
-        ],
-        "information": "The Gregorian calendar was introduced by Pope Gregory XIII in February 1582. It was designed as a reform of the older Julian calendar, which had been in use since 45 BCE but contained a slight inaccuracy that caused it to drift out of sync with the solar year."
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "The Gregorian Calendar was introduced in the year",
-        "answer": "1582 CE",
-        "choices": [
-            "1582 CE",
-            "45 BCE",
-            "325 CE",
-            "1752 CE"
-        ],
-        "information": "The Gregorian calendar was introduced by Pope Gregory XIII in February 1582. It was designed as a reform of the older Julian calendar, which had been in use since 45 BCE but contained a slight inaccuracy that caused it to drift out of sync with the solar year."
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "The headquarters of the European Central Bank, which manages monetary policy for the Eurozone, is located in which city?",
-        "answer": "Frankfurt am Main",
-        "choices": [
-            "Frankfurt am Main",
-            "Luxembourg",
-            "Paris",
-            "Brussels"
-        ],
-        "information": "The European Central Bank is headquartered in Frankfurt am Main, Germany, from where it sets interest rates and controls euro monetary policy"
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Which specific region is historically and geographically referred to as the 'Rice Bowl of India'?",
-        "answer": "Krishna-Godavari Delta",
-        "choices": [
-            "Krishna-Godavari Delta",
-            "Malabar Coast",
-            "Indo-Gangetic Plain",
-            "Brahmaputra Valley"
-        ],
-        "information": "The fertile silt and irrigation in this delta region of Andhra Pradesh have historically earned it this title."
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Which Indian state is often called the 'Bowl of Rice' (Dhan ka Katora) due to its vast diversity of traditional rice varieties (over 20,000)?",
-        "answer": "Chhattisgarh",
-        "choices": [
-            "Chhattisgarh",
-            "Odisha",
-            "Bengal",
-            "Punjab"
-        ],
-        "information": "Chhattisgarh is famous for its massive biodiversity in rice, earning it this specific nickname in central India."
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "Which Indian city is the permanent host of the 'WHO Global Centre for Traditional Medicine' (GCTM)?",
-        "answer": "Jamnagar",
-        "choices": [
-            "Jamnagar",
-            "Varanasi",
-            "Pune",
-            "Rishikesh"
-        ],
-        "information": "Jamnagar, Gujarat, hosts this unique global hub which is the first and only outposted center of WHO for traditional medicine."
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "The Kimberley Process Certification Scheme (KPCS) primarily aims to",
-        "answer": "Prevent trade in conflict diamonds that finance armed conflicts",
-        "choices": [
-            "Prevent trade in conflict diamonds that finance armed conflicts",
-            "Regulate prices of diamonds",
-            "Promote synthetic diamonds",
-            "Ban all cross‑border diamond trade"
-        ],
-        "information": "The KP’s core objective is to prevent “conflict diamonds”—rough diamonds used to finance rebel movements—from entering the global market."
-    },
-    {
-        "sheet": "GeneralKnowledge",
-        "question": "How many Under-19 World Cup titles has India won with their 2026 victory?",
-        "answer": "Six",
-        "choices": [
-            "Six",
-            "Four",
-            "Five",
-            "Seven"
-        ],
-        "information": "India’s 2026 win extended their record to six U19 World Cup titles."
-    }
+  {
+    "qid": "Q01780",
+    "question": "When is World Earth Day celebrated",
+    "answer": "22nd April",
+    "choices": [
+      "22nd April",
+      "5th June",
+      "9th August",
+      "2nd October"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01781",
+    "question": "When is World Environment Day celebrated?",
+    "answer": "5th June",
+    "choices": [
+      "5th June",
+      "22nd April",
+      "9th August",
+      "2nd October"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01782",
+    "question": "Who is considered the founder of ISRO?",
+    "answer": "Dr Vikram Sarabhai",
+    "choices": [
+      "Dr Vikram Sarabhai",
+      "Dr Homi Bhabha",
+      "DR APJ Abdul Kalam",
+      "Dr Satish Dhawan"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01783",
+    "question": "Where is the headquarters of ISRO located?",
+    "answer": "Bengaluru",
+    "choices": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai",
+      "Chennai"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01784",
+    "question": "Name the first President of India",
+    "answer": "Rajendra Prasad",
+    "choices": [
+      "Rajendra Prasad",
+      "Savapalli Radhakrishnan",
+      "Zakir Hussain",
+      "Pratibha Patil"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01785",
+    "question": "Name the first female President of India",
+    "answer": "Pratibha Patil",
+    "choices": [
+      "Pratibha Patil",
+      "Draupadi Murmu",
+      "Indira Gandhi",
+      "Rekha Gupta"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01786",
+    "question": "Name the first President of India belonging to minority religon",
+    "answer": "Zakir Hussain",
+    "choices": [
+      "Zakir Hussain",
+      "Draupadi Murmu",
+      "Pratibha Patil",
+      "Sarvapalli Radhakrishnan"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01787",
+    "question": "Name the first President of India belonging to tribal community",
+    "answer": "Draupadi Murmu",
+    "choices": [
+      "Draupadi Murmu",
+      "V V Giri",
+      "Rajendra Prasad",
+      "Zakir Hussain"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01788",
+    "question": "Name the longest serving president of India till now?",
+    "answer": "Rajendra Prasad",
+    "choices": [
+      "Rajendra Prasad",
+      "Savapalli Radhakrishnan",
+      "Mohammad Hamid Ansari",
+      "Pratibha Patil"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01789",
+    "question": "When is National Space Day celebrated in India?",
+    "answer": "23rd August",
+    "choices": [
+      "23rd August",
+      "14th July",
+      "26th August",
+      "7th Sepetember"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01790",
+    "question": "Which mission's successful landing on the lunar south pole led to the declaration of National Space Day?",
+    "answer": "Chandrayaan-3",
+    "choices": [
+      "Chandrayaan-3",
+      "Chandrayaan-2",
+      "Chandrayaan-1",
+      "Mangalyaan"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01791",
+    "question": "The landing site of the Chandrayaan-3 lander has been named:",
+    "answer": "Shiv Shakti Point",
+    "choices": [
+      "Shiv Shakti Point",
+      "Jawahar Point",
+      "Mahatma Point",
+      "Tiranga Point"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01792",
+    "question": "What was the name of the lander in the Chandrayaan-3 mission?",
+    "answer": "Vikram",
+    "choices": [
+      "Vikram",
+      "Pragyan",
+      "Agni",
+      "Dhruv"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01793",
+    "question": "What is the name of the rover that was deployed from the Chandrayaan-3 lander?",
+    "answer": "Pragyan",
+    "choices": [
+      "Pragyan",
+      "Vikram",
+      "Agni",
+      "Dhruv"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01794",
+    "question": "Which country became the first to successfully land a spacecraft on the lunar south pole?",
+    "answer": "India",
+    "choices": [
+      "India",
+      "United States",
+      "Russia",
+      "China"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01795",
+    "question": "The headquarters of International Court of Justice is situated at",
+    "answer": "The Hague, Netherland",
+    "choices": [
+      "The Hague, Netherland",
+      "New York, USA",
+      "Geneva, Switzerland",
+      "Paris, France"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01796",
+    "question": "Border Security Force came into existence in",
+    "answer": "1965",
+    "choices": [
+      "1965",
+      "1962",
+      "1963",
+      "1964"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01797",
+    "question": "Montesquieu proposed a division of powers within the government between legislature, executive, and judiciary in which of the following books by him?",
+    "answer": "The Spirit of the Laws",
+    "choices": [
+      "The Spirit of the Laws",
+      "My Thoughts",
+      "The Republic",
+      "The Social Contract"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01798",
+    "question": "Who wrote our national song Vande Mataram?",
+    "answer": "Bankim Chandra Chattopadhyay",
+    "choices": [
+      "Bankim Chandra Chattopadhyay",
+      "Aurobindo Ghose",
+      "Rabindranath Thakur",
+      "Satyendranath Thakur"
+    ],
+    "information": "Vande Mataram was composed in 1875 by Bankim Chandra Chattopadhyay and published in Bangdarshan journal in Bengali language originally.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01799",
+    "question": "Who wrote our National Anthem?",
+    "answer": "Rabindranath Thakur",
+    "choices": [
+      "Rabindranath Thakur",
+      "Aurobindo Ghose",
+      "Bankim Chandra Chattopadhyay",
+      "Satyendranath Thakur"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01800",
+    "question": "Which of Bankim Chandra Chattopadhyay's novels contains original version of our National Song - Vande Mataram?",
+    "answer": "Anandamath",
+    "choices": [
+      "Anandamath",
+      "Durgeshnandini",
+      "Krishnakanter Will",
+      "Kapalkundala"
+    ],
+    "information": "The song was included in the novel Anandamath (1882), set against the backdrop of the Sanyasi Rebellion.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01801",
+    "question": "How many Indian Languages are accorded the satus of Classical Language?",
+    "answer": "Eleven",
+    "choices": [
+      "Eleven",
+      "Six",
+      "Ten",
+      "Nine"
+    ],
+    "information": "There are eleven languages in India that have been accorded the status of a classical language: Tamil, Sanskrit, Telugu, Kannada, Malayalam, Odia, Marathi, Pali, Prakrit, Assamese, and Bengali",
+    "tags": ""
+  },
+  {
+    "qid": "Q01802",
+    "question": "Which of the following was not established on 1st January?",
+    "answer": "World Health Organisation (WHO)",
+    "choices": [
+      "World Health Organisation (WHO)",
+      "World Trade Organisation (WTO)",
+      "International Monetary Fund (IMF)",
+      "Geological Survey of India"
+    ],
+    "information": "Establishment Dates: WHO (7th April 1948), WTO (1st January 1995), IMF (1st January 1945), GSI (1st January 1851)",
+    "tags": ""
+  },
+  {
+    "qid": "Q01803",
+    "question": "Which Indian organisation, established on 1 January 1851, is one of the oldest scientific institutions in the world?",
+    "answer": "Geological Survey of India",
+    "choices": [
+      "Geological Survey of India",
+      "Indian Space and Research Organisation (ISRO)",
+      "India Meterological Department",
+      "Council of Scientific and Industrial Research"
+    ],
+    "information": "The Geological Survey of India (GSI) was established on 1st Jan 1851, founded by Sir Thomas Oldham, initially to survey India's coal and mineral resources for railway development",
+    "tags": ""
+  },
+  {
+    "qid": "Q01804",
+    "question": "Which is the first country in the world to celebrate New Year?",
+    "answer": "Kiribati",
+    "choices": [
+      "Kiribati",
+      "New Zealand",
+      "Australia",
+      "Japan"
+    ],
+    "information": "The Pacific island nation of Kiribati is the first country in the world to celebrate New Year's. Specifically, its Line Islands, which include Kiritimati (Christmas Island), are in the earliest time zone on Earth, UTC+14.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01805",
+    "question": "Which time zone is the first to enter the New Year?",
+    "answer": "UTC +14",
+    "choices": [
+      "UTC +14",
+      "UTC +12",
+      "UTC +13",
+      "UTC -12"
+    ],
+    "information": "The Pacific island nation of Kiribati is the first country in the world to celebrate New Year's. Specifically, its Line Islands, which include Kiritimati (Christmas Island), are in the earliest time zone on Earth, UTC+14.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01806",
+    "question": "Which place celebrates New Year last?",
+    "answer": "Howland and Baker Islands",
+    "choices": [
+      "Howland and Baker Islands",
+      "Samoa",
+      "Tonga",
+      "Fiji"
+    ],
+    "information": "The last places on Earth to celebrate New Year are the uninhabited U.S. territories of Baker Island and Howland Island (UTC -12)",
+    "tags": ""
+  },
+  {
+    "qid": "Q01807",
+    "question": "The Gregorian Calendar was introduced by",
+    "answer": "Pope Gregory XIII",
+    "choices": [
+      "Pope Gregory XIII",
+      "Julius Caesar",
+      "Augustus Caesar",
+      "Constantine"
+    ],
+    "information": "The Gregorian calendar was introduced by Pope Gregory XIII in February 1582. It was designed as a reform of the older Julian calendar, which had been in use since 45 BCE but contained a slight inaccuracy that caused it to drift out of sync with the solar year.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01808",
+    "question": "The Gregorian Calendar was introduced in the year",
+    "answer": "1582 CE",
+    "choices": [
+      "1582 CE",
+      "45 BCE",
+      "325 CE",
+      "1752 CE"
+    ],
+    "information": "The Gregorian calendar was introduced by Pope Gregory XIII in February 1582. It was designed as a reform of the older Julian calendar, which had been in use since 45 BCE but contained a slight inaccuracy that caused it to drift out of sync with the solar year.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01809",
+    "question": "The headquarters of the European Central Bank, which manages monetary policy for the Eurozone, is located in which city?",
+    "answer": "Frankfurt am Main",
+    "choices": [
+      "Frankfurt am Main",
+      "Luxembourg",
+      "Paris",
+      "Brussels"
+    ],
+    "information": "The European Central Bank is headquartered in Frankfurt am Main, Germany, from where it sets interest rates and controls euro monetary policy",
+    "tags": ""
+  },
+  {
+    "qid": "Q01810",
+    "question": "Which specific region is historically and geographically referred to as the 'Rice Bowl of India'?",
+    "answer": "Krishna-Godavari Delta",
+    "choices": [
+      "Krishna-Godavari Delta",
+      "Malabar Coast",
+      "Indo-Gangetic Plain",
+      "Brahmaputra Valley"
+    ],
+    "information": "The fertile silt and irrigation in this delta region of Andhra Pradesh have historically earned it this title.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01811",
+    "question": "Which Indian state is often called the 'Bowl of Rice' (Dhan ka Katora) due to its vast diversity of traditional rice varieties (over 20,000)?",
+    "answer": "Chhattisgarh",
+    "choices": [
+      "Chhattisgarh",
+      "Odisha",
+      "Bengal",
+      "Punjab"
+    ],
+    "information": "Chhattisgarh is famous for its massive biodiversity in rice, earning it this specific nickname in central India.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01812",
+    "question": "Which Indian city is the permanent host of the 'WHO Global Centre for Traditional Medicine' (GCTM)?",
+    "answer": "Jamnagar",
+    "choices": [
+      "Jamnagar",
+      "Varanasi",
+      "Pune",
+      "Rishikesh"
+    ],
+    "information": "Jamnagar, Gujarat, hosts this unique global hub which is the first and only outposted center of WHO for traditional medicine.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01813",
+    "question": "The Kimberley Process Certification Scheme (KPCS) primarily aims to",
+    "answer": "Prevent trade in conflict diamonds that finance armed conflicts",
+    "choices": [
+      "Prevent trade in conflict diamonds that finance armed conflicts",
+      "Regulate prices of diamonds",
+      "Promote synthetic diamonds",
+      "Ban all cross‑border diamond trade"
+    ],
+    "information": "The KP’s core objective is to prevent “conflict diamonds”—rough diamonds used to finance rebel movements—from entering the global market.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01814",
+    "question": "How many Under-19 World Cup titles has India won with their 2026 victory?",
+    "answer": "Six",
+    "choices": [
+      "Six",
+      "Four",
+      "Five",
+      "Seven"
+    ],
+    "information": "India’s 2026 win extended their record to six U19 World Cup titles.",
+    "tags": ""
+  }
 ]

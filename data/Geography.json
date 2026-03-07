@@ -1,1058 +1,1185 @@
 [
-    {
-        "sheet": "Geography",
-        "question": "India's territorial limit extends towards the sea up to how many nautical miles from the coast?",
-        "answer": "12 nautical miles",
-        "choices": [
-            "12 nautical miles",
-            "200 nautical miles",
-            "24 nautical miles",
-            "100 nautical miles"
-        ],
-        "information": "United Nations Conference on the Law of Sea [UNCLOS-III (1982) ] established the 12-mile Territorial Sea limit 200-mile Exclusive Economic Zone limit for all countries"
-    },
-    {
-        "sheet": "Geography",
-        "question": "India's Exclusive Economic Zone extends towards the sea up to how many nautical miles from the coast?",
-        "answer": "200 nautical miles",
-        "choices": [
-            "200 nautical miles",
-            "12 nautical miles",
-            "24 nautical miles",
-            "100 nautical miles"
-        ],
-        "information": "United Nations Conference on the Law of Sea [UNCLOS-III (1982) ] established the 12-mile Territorial Sea limit 200-mile Exclusive Economic Zone limit for all countries"
-    },
-    {
-        "sheet": "Geography",
-        "question": "How many latitudes are there on the globe drawn at 1 degree interval?",
-        "answer": 181,
-        "choices": [
-            181,
-            180,
-            360,
-            179
-        ],
-        "information": "Latitude starts at 0° (Equator) and goes to 90° North and South; 90 (N) + 90 (S) + 1 (Equator)"
-    },
-    {
-        "sheet": "Geography",
-        "question": "How much is the difference between Indian Standard Time (IST) and Greenwich Mean Time (GMT)?",
-        "answer": "plus 5 hour 30 minutes",
-        "choices": [
-            "plus 5 hour 30 minutes",
-            "minus 5 hour 30 minutes",
-            "minus 4 hour 30 minutes",
-            "plus 4 hour 30 minutes"
-        ],
-        "information": "Indian Standard Time is ahead of Greenwich Mean Time by 5 hours and 30 minutes."
-    },
-    {
-        "sheet": "Geography",
-        "question": "On which plateau, the Tropic of Cancer and the Indian Standard Time intersect each other?",
-        "answer": "Baghelkhand",
-        "choices": [
-            "Baghelkhand",
-            "Bundelkhand",
-            "Kaimur",
-            "Chhota-Nagpur"
-        ],
-        "information": "Indian Standard Time (IST) [82 deg 30 min E] and Tropic of Cancer [22 deg 30 min N] intersect at Baghelkhand plateau region in Chhattisgarh"
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which one of the following longitudes is the standard meridian for India?",
-        "answer": "82deg 30min E",
-        "choices": [
-            "82deg 30min E",
-            "85deg 30min W",
-            "88deg 30min E",
-            "80deg 30min W"
-        ],
-        "information": "Indian Standard Time (IST) [82 deg 30 min E]"
-    },
-    {
-        "sheet": "Geography",
-        "question": "Difference of one degree longitude will correspond to how much time",
-        "answer": "4 minutes",
-        "choices": [
-            "4 minutes",
-            "6 minutes",
-            "60 minutes",
-            "30 minutes"
-        ],
-        "information": "Earth rotates 360° in 24 hours"
-    },
-    {
-        "sheet": "Geography",
-        "question": "What is the local time of Thimphu (Bhutan) located at 90deg E longitude when the time at Greenwich (0deg) is 12:00 noon?",
-        "answer": "6:00 pm",
-        "choices": [
-            "6:00 pm",
-            "4:00 pm",
-            "5:00 pm",
-            "6:00 am"
-        ],
-        "information": "1° change in longitude corresponds to 4 minute"
-    },
-    {
-        "sheet": "Geography",
-        "question": "The foothills region of Himalayas is",
-        "answer": "Shiwalik",
-        "choices": [
-            "Shiwalik",
-            "Great Himalayas",
-            "Trans-Himalayas",
-            "Lesser Himalayas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which of the following areas is not landslide-prone area?",
-        "answer": "Eastern Ghats",
-        "choices": [
-            "Eastern Ghats",
-            "Western Ghats",
-            "Himalayan Region",
-            "North-Eastern Region"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The highest peak in the Eastern Ghats of India is",
-        "answer": "Arma Konda (Jhindhagada)",
-        "choices": [
-            "Arma Konda (Jhindhagada)",
-            "Mahendragiri",
-            "Anai Mudi",
-            "Kanchenjunga"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The highest peak in the Western Ghats of India is",
-        "answer": "Anai Mudi",
-        "choices": [
-            "Anai Mudi",
-            "Mahendragiri",
-            "Arma Konda (Jhindhagada)",
-            "Kanchenjunga"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The highest mountain peak in India?",
-        "answer": "K2 (Godwin-Austen)",
-        "choices": [
-            "K2 (Godwin-Austen)",
-            "Everest",
-            "Nanda Devi",
-            "Kanchenjunga"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Kailash Range is part of which larger mountain system?",
-        "answer": "Trans-Himalaya",
-        "choices": [
-            "Trans-Himalaya",
-            "Great Himalayas",
-            "Shiwalik",
-            "Lesser Himalayas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Mount Everest lies in which mountain range?",
-        "answer": "Great Himalayas",
-        "choices": [
-            "Great Himalayas",
-            "Trans-Himalaya",
-            "Shiwalik",
-            "Lesser Himalayas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which is the highest mountain peak entirely within India (not on the border)?",
-        "answer": "Nanda Devi",
-        "choices": [
-            "Nanda Devi",
-            "Kanchenjunga",
-            "Trishul",
-            "Kamet"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Shiwalik series was formed in",
-        "answer": "Cenozoic",
-        "choices": [
-            "Cenozoic",
-            "Proterozoic",
-            "Mesozoic",
-            "Palaeozoic"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Someshwar range is a part of which of the following mountain ranges?",
-        "answer": "Shiwalik",
-        "choices": [
-            "Shiwalik",
-            "Satpura",
-            "Vindhayan",
-            "Eastern Ghats"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Atal Tunnel is across which one of the following Himalayan ranges?",
-        "answer": "Eastern Pir Panjal",
-        "choices": [
-            "Eastern Pir Panjal",
-            "Western Pir Panjal",
-            "Zanskar",
-            "Ladakh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "At which of the following hills the Eastern Ghats join the Western Ghats?",
-        "answer": "Nilgiri Hills",
-        "choices": [
-            "Nilgiri Hills",
-            "Palni Hills",
-            "Anaimudi Hills",
-            "Shevaroy Hills"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Western Ghats in Maharashtra and Karnataka is known as",
-        "answer": "Sahyadri",
-        "choices": [
-            "Sahyadri",
-            "Nilgiri",
-            "Shiwalik",
-            "Nandi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Hills situated closer to Kanyakumari are",
-        "answer": "Cardamom Hills",
-        "choices": [
-            "Cardamom Hills",
-            "Nilgiri Hills",
-            "Anaialai Hills",
-            "Shevaroy Hills"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which of the following is not a part of the Meghalaya Plateau?",
-        "answer": "Bhuban Hills",
-        "choices": [
-            "Bhuban Hills",
-            "Garo Hills",
-            "Khasi Hills",
-            "Jaintia Hills"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Extra peninsular mountains of India were formed during",
-        "answer": "Cenozoic Era",
-        "choices": [
-            "Cenozoic Era",
-            "Palaeozoic Era",
-            "Aozoic Era",
-            "Mesozoic Era"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Chhota-Nagpur Plateau is a",
-        "answer": "front sloping",
-        "choices": [
-            "front sloping",
-            "pitfall",
-            "foothill",
-            "plain subland"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which one of the following districts does not have Dharwar geological formations?",
-        "answer": "Rohtas",
-        "choices": [
-            "Rohtas",
-            "Jamui",
-            "Munger",
-            "Nawada"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "How many coastal states are there in India?",
-        "answer": "Nine",
-        "choices": [
-            "Nine",
-            "Eight",
-            "Thirteen",
-            "Eleven"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Island group Lakshadweep is",
-        "answer": "Accumulation of Coral Reef",
-        "choices": [
-            "Accumulation of Coral Reef",
-            "Accumulation of Volcanic substances",
-            "Sedimentated Soil",
-            "None of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Lakshadweep consists of how many islands?",
-        "answer": 36,
-        "choices": [
-            36,
-            16,
-            17,
-            26
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Ramsar Convention is associated with the conservation of",
-        "answer": "Wetlands",
-        "choices": [
-            "Wetlands",
-            "Drylands",
-            "Forests",
-            "Hills"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which gas contributes to global warming through its greenhouse effect?",
-        "answer": "All of these",
-        "choices": [
-            "All of these",
-            "Methane",
-            "Nitrous Oxide",
-            "Carbon Dioxide"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which of the following gas is responsible for the depletion of Ozone layer?",
-        "answer": "Chlorofluorocarbons",
-        "choices": [
-            "Chlorofluorocarbons",
-            "Carbon Monoxide",
-            "Carbon Dioxide",
-            "Nitrous Oxide"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "What is the percentage of forest and tree cover in the total geographical area of India according to Indian State of Forest Report 2023?",
-        "answer": "25.17 percent",
-        "choices": [
-            "25.17 percent",
-            "21.76 percent",
-            "3.41 percent",
-            "91.33 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "What is the percentage of forest cover in the total geographical area of India according to Indian State of Forest Report 2023?",
-        "answer": "21.76 percent",
-        "choices": [
-            "21.76 percent",
-            "25.17 percent",
-            "3.41 percent",
-            "91.33 percent"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The largest percentage of forest area is in",
-        "answer": "Lakshadweep",
-        "choices": [
-            "Lakshadweep",
-            "Mizoram",
-            "Andman & Nicobar",
-            "Madhya Pradesh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "State having largest forest cover in India",
-        "answer": "Madhya Pradesh",
-        "choices": [
-            "Madhya Pradesh",
-            "Arunanchal Pradesh",
-            "Chhattisgarh",
-            "Sikkim"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "In National Park protection is given to",
-        "answer": "Whole Ecosystem",
-        "choices": [
-            "Whole Ecosystem",
-            "Only Fauna",
-            "Only Flora",
-            "Only Birds"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which of the following areas in India does not grow tropical wet evergreen forests?",
-        "answer": "Eastern Ghats",
-        "choices": [
-            "Eastern Ghats",
-            "Western Ghats",
-            "Andaman Islands",
-            "North-Eastern Region"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "In which forest do the majority of species of birds inhabit the mountainous areas?",
-        "answer": "Pine Forest",
-        "choices": [
-            "Pine Forest",
-            "Bush Forest",
-            "Oak Forest",
-            "Maple Forest"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "India's first Dolphin Observatory is being built in",
-        "answer": "Bihar",
-        "choices": [
-            "Bihar",
-            "Kolkata",
-            "Odisha",
-            "Delhi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The state of India with maximum number of wildlife sanctuaries is",
-        "answer": "Maharashtra",
-        "choices": [
-            "Maharashtra",
-            "Karnataka",
-            "Madhya Pradesh",
-            "Tamil Nadu"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which one of the following is the well-publicised wildife campaign in the world launched in 1973?",
-        "answer": "Project Tiger",
-        "choices": [
-            "Project Tiger",
-            "Sunderbans Project",
-            "Project Big Cat",
-            "Project Elephant"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which one of the following is not included under in-situ conservation?",
-        "answer": "Botanical Garden",
-        "choices": [
-            "Botanical Garden",
-            "National Parks",
-            "Wildlife Sanctuaries",
-            "Biosphere Reserves"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Total Ramsar sites in India?",
-        "answer": 96,
-        "choices": [
-            96,
-            90,
-            19,
-            45
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Radcliffe Line demarcates the boundary between",
-        "answer": "India-Pakistan and India-Bangladesh",
-        "choices": [
-            "India-Pakistan and India-Bangladesh",
-            "India-Bhutan",
-            "India-Afghanistan",
-            "India-China"
-        ],
-        "information": "The Radcliffe Line is the boundary demarcation line between India and Pakistan, drawn at the time of Partition in 1947. It divided: Punjab → India & West Pakistan and Bengal → India & East Pakistan (now Bangladesh)"
-    },
-    {
-        "sheet": "Geography",
-        "question": "The McMahon Line, often in dispute, is related to the boundary between India and",
-        "answer": "China",
-        "choices": [
-            "China",
-            "Bangladesh",
-            "Pakistan",
-            "Myanmar"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Durand Line (1893) originally separated British India from",
-        "answer": "Afghanistan",
-        "choices": [
-            "Afghanistan",
-            "China",
-            "Nepal",
-            "Bhutan"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Treaty of Sugauli (1816) defined India’s border with which country?",
-        "answer": "Nepal",
-        "choices": [
-            "Nepal",
-            "Bhutan",
-            "Myanmar",
-            "Sri Lanka"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Treaty of Sinchula (1865) related to India’s boundary with",
-        "answer": "Bhutan",
-        "choices": [
-            "Bhutan",
-            "Nepal",
-            "Myanmar",
-            "Sri Lanka"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Indus River originates from which of the following places?",
-        "answer": "Mansarovar Lake, Tibet",
-        "choices": [
-            "Mansarovar Lake, Tibet",
-            "Kailash Range, Tibet",
-            "Gangotri Glacier, Uttrakhand",
-            "Karakoram Range, Ladakh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Chenab River is formed by the confluence of which two rivers?",
-        "answer": "Chandra and Bhaga",
-        "choices": [
-            "Chandra and Bhaga",
-            "Jhelum and Ravi",
-            "Beas and Sutlej",
-            "Indus and Shyok"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which of the following river is known as the Vitasta in ancient texts?",
-        "answer": "Jhelum",
-        "choices": [
-            "Jhelum",
-            "Ravi",
-            "Chenab",
-            "Beas"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Maginot Line exists between which countries?",
-        "answer": "France & Germany",
-        "choices": [
-            "France & Germany",
-            "USA & Canada",
-            "Namibia & Angola",
-            "South Korea & North Korea"
-        ],
-        "information": "The Maginot Line was a massive line of defensive fortifications built by France along its eastern border (mainly with Germany) between 1929 and 1938, named after French Minister of War André Maginot.\nIts purpose was to prevent a German invasion after the devastation of World War I."
-    },
-    {
-        "sheet": "Geography",
-        "question": "Strait of Hormuz connects",
-        "answer": "The Persian Gulf & Gulf of Oman",
-        "choices": [
-            "The Persian Gulf & Gulf of Oman",
-            "Red Sea to Gulf of Aden",
-            "Red Sea to Indian Sea",
-            "Mediterranean Sea to Red Sea"
-        ],
-        "information": "A strait is a narrow, naturally formed waterway that connects two larger bodies of water.\nStrait of Hormuz connects Persian Gulf to Gulf of Oman and it lies between Iran and Oman"
-    },
-    {
-        "sheet": "Geography",
-        "question": "Where is - Ground Zero",
-        "answer": "New York",
-        "choices": [
-            "New York",
-            "Greenwich",
-            "Indira Point",
-            "Sriharikota"
-        ],
-        "information": "Ground Zero refers to the World Trade Center site in New York after the 9/11 terror attacks (2001)"
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which of the following Isthmuses has been known as the Devil's Neck?",
-        "answer": "Kra Isthmuses",
-        "choices": [
-            "Kra Isthmuses",
-            "Isthmuses of Panama",
-            "Karelian Isthmuses",
-            "Isthmuses of Corinth"
-        ],
-        "information": "Devil’s Neck is a descriptive name used in geography and geomorphology for a narrow, steep, and dangerous passage or landform"
-    },
-    {
-        "sheet": "Geography",
-        "question": "Ladang refers to",
-        "answer": "Shifting Agriculture",
-        "choices": [
-            "Shifting Agriculture",
-            "Plantation Agriculture",
-            "Subsistence type of Agriculture",
-            "Dry Forming"
-        ],
-        "information": "Ladang is a term used in Malaysia, Indonesia, and parts of Southeast Asia to refer to shifting cultivation, similar to jhum cultivation in Northeast India."
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which is the largest river Island in the world?",
-        "answer": "Majuli Island",
-        "choices": [
-            "Majuli Island",
-            "Srirangam Island",
-            "Bhavani Island",
-            "Agatti Island"
-        ],
-        "information": "The largest river island in the world is Majuli in Assam, India, located in the Brahmaputra River.\nGuinness World Records lists its area as about 880 km²"
-    },
-    {
-        "sheet": "Geography",
-        "question": "The second largest river basin of india is",
-        "answer": "Godavari",
-        "choices": [
-            "Godavari",
-            "Narmada",
-            "Mahanadi",
-            "Kaveri"
-        ],
-        "information": "The Godavari Basin is considered the second largest river basin of India due to its area entirely within the country's boundaries."
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which of the following is the place of confluence of the Alaknanda and Bhagirathi",
-        "answer": "Devprayag",
-        "choices": [
-            "Devprayag",
-            "Karnprayag",
-            "Vishnuprayag",
-            "Rudraprayag"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "The two volcanic Islands in the Indian Territory are",
-        "answer": "Narcondam and Barren",
-        "choices": [
-            "Narcondam and Barren",
-            "Bitra and Kavaratti",
-            "Kavaratti and New Moore",
-            "Pamban and Barren"
-        ],
-        "information": "India has only two active volcanic regions, both located in the Andaman & Nicobar Islands, they are Narcondam and Barren"
-    },
-    {
-        "sheet": "Geography",
-        "question": "In India the Temperate Forest Research center is in which city?",
-        "answer": "Shimla",
-        "choices": [
-            "Shimla",
-            "Ranchi",
-            "Srinagar",
-            "Dehradun"
-        ],
-        "information": "The Temperate Forest Research Centre in India is located in Shimla, Himachal Pradesh."
-    },
-    {
-        "sheet": "Geography",
-        "question": "Kanha National Park is established in",
-        "answer": "Madhya Pradesh",
-        "choices": [
-            "Madhya Pradesh",
-            "Assam",
-            "Maharashtra",
-            "Uttarakhand"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Geography",
-        "question": "Loktak is a",
-        "answer": "Lake",
-        "choices": [
-            "Lake",
-            "Valley",
-            "River",
-            "Mountain Series"
-        ],
-        "information": "Loktak is one of the most unique and ecologically significant freshwater lakes in the world, located in the state of Manipur in Northeast India."
-    },
-    {
-        "sheet": "Geography",
-        "question": "Afrikaners indicate the people",
-        "answer": "the white minority group in South Africa",
-        "choices": [
-            "the white minority group in South Africa",
-            "of Indo-African descent in the USA",
-            "Indigenous tribal communities in Africa",
-            "None of these"
-        ],
-        "information": "Afrikaners are a white South African ethnic group primarily descended from Dutch, German, and French Huguenot settlers who arrived in South Africa during the 17th and 18th centuries. They developed a distinct language (Afrikaans), culture, and identity."
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which one of the following latitudinal extent is relevant for the extent of India’s area?",
-        "answer": "8°4'N - 37°6'N",
-        "choices": [
-            "8°4'N - 37°6'N",
-            "8°41'N - 35°7'N",
-            "8°4'N - 35°6'N",
-            "6°45'N - 37°6'N"
-        ],
-        "information": "Latitudinal extent of India is from Kanyakumari ( 8° 4' N) to Ladakh (37° 6' N)"
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which one of the following countries shares the longest land frontier with India?",
-        "answer": "Bangladesh",
-        "choices": [
-            "Bangladesh",
-            "China",
-            "Pakistan",
-            "Nepal"
-        ],
-        "information": "India shares largest border on land with Bangladesh - 4,097 km"
-    },
-    {
-        "sheet": "Geography",
-        "question": "Northern-most latitude of India",
-        "answer": "37° 6' N",
-        "choices": [
-            "37° 6' N",
-            "8° 4' N",
-            "68° 7' N",
-            "97° 25' N"
-        ],
-        "information": "Latitudinal extent of India is from Kanyakumari ( 8° 4' N) to Ladakh (37° 6' N)"
-    },
-    {
-        "sheet": "Geography",
-        "question": "Sorthern-most latitude of India",
-        "answer": "8° 4' N",
-        "choices": [
-            "8° 4' N",
-            "37° 6' N",
-            "68° 7' N",
-            "97° 25' N"
-        ],
-        "information": "Latitudinal extent of India is from Kanyakumari ( 8° 4' N) to Ladakh (37° 6' N)"
-    },
-    {
-        "sheet": "Geography",
-        "question": "Eastern-most longitude of India",
-        "answer": "97° 25' E",
-        "choices": [
-            "97° 25' E",
-            "37° 6' E",
-            "68° 7' E",
-            "8° 4' E"
-        ],
-        "information": "Longitudinal extent of India is from Gujarat ( 68° 7' E) to Arunachal Pardesh (97° 25' E)"
-    },
-    {
-        "sheet": "Geography",
-        "question": "Western-most longitude of India",
-        "answer": "68° 7' E",
-        "choices": [
-            "68° 7' E",
-            "37° 6' E",
-            "97° 25' E",
-            "8° 4' E"
-        ],
-        "information": "Longitudinal extent of India is from Gujarat ( 68° 7' E) to Arunachal Pardesh (97° 25' E)"
-    },
-    {
-        "sheet": "Geography",
-        "question": "How much is the time difference between easternmost and westernmost boundary regions of India?",
-        "answer": "Approximately 2 hours",
-        "choices": [
-            "Approximately 2 hours",
-            "Approximately 1 hours",
-            "Approximately 3 hours",
-            "Approximately 4 hours"
-        ],
-        "information": "Longitudinal extent of India is from Gujarat ( 68° 7' E) to Arunachal Pardesh (97° 25' E), which is around 30° corresponding to around 2 hours."
-    },
-    {
-        "sheet": "Geography",
-        "question": "Countries of the world select the standard meridian in multiples of",
-        "answer": "7° 30' ",
-        "choices": [
-            "7° 30' ",
-            "5° 30' ",
-            "2° 30' ",
-            "9° 30' "
-        ],
-        "information": "There is a general understanding among the countries of the world to select the standard meridian in multiples of 7°30' of longitude."
-    },
-    {
-        "sheet": "Geography",
-        "question": "The country with the highest number of time zones in the world is",
-        "answer": "France",
-        "choices": [
-            "France",
-            "USA",
-            "Russia",
-            "Australia"
-        ],
-        "information": "France has a total of 12 official time zones when accounting for its metropolitan area and all of its overseas departments and territories."
-    },
-    {
-        "sheet": "Geography",
-        "question": "What is the total area of India",
-        "answer": "32,87,263 square km",
-        "choices": [
-            "32,87,263 square km",
-            "17,87,263 square km",
-            "8,87,263 square km",
-            "62,87,263 square km"
-        ],
-        "information": "India’s total area is about 3,287,263 km²"
-    },
-    {
-        "sheet": "Geography",
-        "question": "India's share of the total land area of the world is approximately:",
-        "answer": "2.4 percent",
-        "choices": [
-            "2.4 percent",
-            "4.8 percent",
-            "7.0 percent",
-            "1.2 percent"
-        ],
-        "information": "India accounts for around 2.4% of the world’s land surface."
-    },
-    {
-        "sheet": "Geography",
-        "question": "By area, India ranks as the __ largest country in the world.",
-        "answer": "7th",
-        "choices": [
-            "7th",
-            "6th",
-            "4th",
-            "3rd"
-        ],
-        "information": "In terms of land area, India is the 7th-largest country."
-    },
-    {
-        "sheet": "Geography",
-        "question": "What is the approximate North–South extent of India?",
-        "answer": "3,214 km",
-        "choices": [
-            "3,214 km",
-            "2,933 km",
-            "2,500 km",
-            "3,500 km"
-        ],
-        "information": "India stretches 3,214 km from Kashmir (north) to Kanyakumari (south)."
-    },
-    {
-        "sheet": "Geography",
-        "question": "What is the approximate East–West extent of India?",
-        "answer": "2,933 km",
-        "choices": [
-            "2,933 km",
-            "3,214 km",
-            "2,500 km",
-            "3,500 km"
-        ],
-        "information": "India’s longitudinal spread from Gujarat (west) to Arunachal Pradesh (east) is 2,933 km."
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which country is the world has largest area",
-        "answer": "Russia",
-        "choices": [
-            "Russia",
-            "Australia",
-            "USA",
-            "China"
-        ],
-        "information": "Russia is the world's largest country with 17.1 million square km"
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which strait separates India and Sri Lanka?",
-        "answer": "Palk Strait",
-        "choices": [
-            "Palk Strait",
-            "Sunda Strait",
-            "Malacca Strait",
-            "Ten Degree Channel"
-        ],
-        "information": "The Palk Strait lies between Tamil Nadu (India) and northern Sri Lanka, connecting the Bay of Bengal with the Gulf of Mannar"
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Palk Strait primarily connects which two water bodies?",
-        "answer": "Bay of Bengal and Gulf of Mannar",
-        "choices": [
-            "Bay of Bengal and Gulf of Mannar",
-            "Arabian Sea and Laccadive Sea",
-            "Andaman Sea and Bay of Bengal",
-            "Laccadive Sea and Indian Ocean"
-        ],
-        "information": "The Palk Strait links the northeastern Bay of Bengal (via Palk Bay) to the southwestern Gulf of Mannar"
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which channel separates India (Minicoy, Lakshadweep) and the Maldives?",
-        "answer": "Eight Degree Channel",
-        "choices": [
-            "Eight Degree Channel",
-            "Nine Degree Channel",
-            "Ten Degree Channel",
-            "Twelve Degree Channel"
-        ],
-        "information": "The international maritime boundary between India and the Maldives runs through the Eight Degree channel."
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Ten Degree Channel separates which of the following?",
-        "answer": "Andaman Islands and Nicobar Islands",
-        "choices": [
-            "Andaman Islands and Nicobar Islands",
-            "Little Andaman and Great Nicobar",
-            "Minicoy and Maldives",
-            "Lakshadweep and Maldives"
-        ],
-        "information": "The Ten Degree Channel lies near 10°N and forms the deep-water separation between the Andaman and Nicobar island groups in the Bay of Bengal."
-    },
-    {
-        "sheet": "Geography",
-        "question": "What does the Nine Degree Channel separate?",
-        "answer": "Minicoy Island and the main Lakshadweep archipelago",
-        "choices": [
-            "Minicoy Island and the main Lakshadweep archipelago",
-            "India and Sri Lanka",
-            "Andaman and Nicobar Islands",
-            "Lakshadweep and Maldives"
-        ],
-        "information": "The Nine Degree Channel lies on the 9°N latitude and separates Minicoy (Maliku Atoll) from the rest of the Lakshadweep group (e.g., Kalpeni, Suheli Par). It is a major shipping route."
-    },
-    {
-        "sheet": "Geography",
-        "question": "The Tropic of Cancer passes through how many states in India?",
-        "answer": "Eight",
-        "choices": [
-            "Eight",
-            "Six",
-            "Seven",
-            "Eleven"
-        ],
-        "information": "The Tropic of Cancer (23°30'N) passes through 8 states — Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram."
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which one of the following scholars coined the term ‘Geography’?",
-        "answer": "Erathosthenese",
-        "choices": [
-            "Erathosthenese",
-            "Herodotus",
-            "Galileo",
-            "Aristotle"
-        ],
-        "information": "The term ‘Geography’ was coined by Eratosthenes in the 3rd century BCE. He used the Greek words Geo (Earth) and Graphia (to write or describe), meaning “description of the Earth.” Eratosthenes is also known for calculating the Earth’s circumference with remarkable accuracy, earning him the title “Father of Geography.”"
-    },
-    {
-        "sheet": "Geography",
-        "question": "Which scholar first used the Hindi term Bhugol for Geography?",
-        "answer": "Aryabhatta",
-        "choices": [
-            "Aryabhatta",
-            "Varahmihira",
-            "Ptolemy",
-            "Kautilya"
-        ],
-        "information": "The Hindi term ‘Bhūgol’ is derived from Sanskrit — Bhū (Earth) and Gol (sphere). The use of this concept is traditionally attributed to Āryabhaṭṭa"
-    }
+  {
+    "qid": "Q01309",
+    "question": "India's territorial limit extends towards the sea up to how many nautical miles from the coast?",
+    "answer": "12 nautical miles",
+    "choices": [
+      "12 nautical miles",
+      "200 nautical miles",
+      "24 nautical miles",
+      "100 nautical miles"
+    ],
+    "information": "United Nations Conference on the Law of Sea [UNCLOS-III (1982) ] established the 12-mile Territorial Sea limit 200-mile Exclusive Economic Zone limit for all countries",
+    "tags": ""
+  },
+  {
+    "qid": "Q01310",
+    "question": "India's Exclusive Economic Zone extends towards the sea up to how many nautical miles from the coast?",
+    "answer": "200 nautical miles",
+    "choices": [
+      "200 nautical miles",
+      "12 nautical miles",
+      "24 nautical miles",
+      "100 nautical miles"
+    ],
+    "information": "United Nations Conference on the Law of Sea [UNCLOS-III (1982) ] established the 12-mile Territorial Sea limit 200-mile Exclusive Economic Zone limit for all countries",
+    "tags": ""
+  },
+  {
+    "qid": "Q01311",
+    "question": "How many latitudes are there on the globe drawn at 1 degree interval?",
+    "answer": "181",
+    "choices": [
+      "181",
+      "180",
+      "360",
+      "179"
+    ],
+    "information": "Latitude starts at 0° (Equator) and goes to 90° North and South; 90 (N) + 90 (S) + 1 (Equator)",
+    "tags": ""
+  },
+  {
+    "qid": "Q01312",
+    "question": "How much is the difference between Indian Standard Time (IST) and Greenwich Mean Time (GMT)?",
+    "answer": "plus 5 hour 30 minutes",
+    "choices": [
+      "plus 5 hour 30 minutes",
+      "minus 5 hour 30 minutes",
+      "minus 4 hour 30 minutes",
+      "plus 4 hour 30 minutes"
+    ],
+    "information": "Indian Standard Time is ahead of Greenwich Mean Time by 5 hours and 30 minutes.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01313",
+    "question": "On which plateau, the Tropic of Cancer and the Indian Standard Time intersect each other?",
+    "answer": "Baghelkhand",
+    "choices": [
+      "Baghelkhand",
+      "Bundelkhand",
+      "Kaimur",
+      "Chhota-Nagpur"
+    ],
+    "information": "Indian Standard Time (IST) [82 deg 30 min E] and Tropic of Cancer [22 deg 30 min N] intersect at Baghelkhand plateau region in Chhattisgarh",
+    "tags": ""
+  },
+  {
+    "qid": "Q01314",
+    "question": "Which one of the following longitudes is the standard meridian for India?",
+    "answer": "82deg 30min E",
+    "choices": [
+      "82deg 30min E",
+      "85deg 30min W",
+      "88deg 30min E",
+      "80deg 30min W"
+    ],
+    "information": "Indian Standard Time (IST) [82 deg 30 min E]",
+    "tags": ""
+  },
+  {
+    "qid": "Q01315",
+    "question": "Difference of one degree longitude will correspond to how much time",
+    "answer": "4 minutes",
+    "choices": [
+      "4 minutes",
+      "6 minutes",
+      "60 minutes",
+      "30 minutes"
+    ],
+    "information": "Earth rotates 360° in 24 hours",
+    "tags": ""
+  },
+  {
+    "qid": "Q01316",
+    "question": "What is the local time of Thimphu (Bhutan) located at 90deg E longitude when the time at Greenwich (0deg) is 12:00 noon?",
+    "answer": "6:00 pm",
+    "choices": [
+      "6:00 pm",
+      "4:00 pm",
+      "5:00 pm",
+      "6:00 am"
+    ],
+    "information": "1° change in longitude corresponds to 4 minute",
+    "tags": ""
+  },
+  {
+    "qid": "Q01317",
+    "question": "The foothills region of Himalayas is",
+    "answer": "Shiwalik",
+    "choices": [
+      "Shiwalik",
+      "Great Himalayas",
+      "Trans-Himalayas",
+      "Lesser Himalayas"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01318",
+    "question": "Which of the following areas is not landslide-prone area?",
+    "answer": "Eastern Ghats",
+    "choices": [
+      "Eastern Ghats",
+      "Western Ghats",
+      "Himalayan Region",
+      "North-Eastern Region"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01319",
+    "question": "The highest peak in the Eastern Ghats of India is",
+    "answer": "Arma Konda (Jhindhagada)",
+    "choices": [
+      "Arma Konda (Jhindhagada)",
+      "Mahendragiri",
+      "Anai Mudi",
+      "Kanchenjunga"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01320",
+    "question": "The highest peak in the Western Ghats of India is",
+    "answer": "Anai Mudi",
+    "choices": [
+      "Anai Mudi",
+      "Mahendragiri",
+      "Arma Konda (Jhindhagada)",
+      "Kanchenjunga"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01321",
+    "question": "The highest mountain peak in India?",
+    "answer": "K2 (Godwin-Austen)",
+    "choices": [
+      "K2 (Godwin-Austen)",
+      "Everest",
+      "Nanda Devi",
+      "Kanchenjunga"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01322",
+    "question": "The Kailash Range is part of which larger mountain system?",
+    "answer": "Trans-Himalaya",
+    "choices": [
+      "Trans-Himalaya",
+      "Great Himalayas",
+      "Shiwalik",
+      "Lesser Himalayas"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01323",
+    "question": "Mount Everest lies in which mountain range?",
+    "answer": "Great Himalayas",
+    "choices": [
+      "Great Himalayas",
+      "Trans-Himalaya",
+      "Shiwalik",
+      "Lesser Himalayas"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01324",
+    "question": "Which is the highest mountain peak entirely within India (not on the border)?",
+    "answer": "Nanda Devi",
+    "choices": [
+      "Nanda Devi",
+      "Kanchenjunga",
+      "Trishul",
+      "Kamet"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01325",
+    "question": "Shiwalik series was formed in",
+    "answer": "Cenozoic",
+    "choices": [
+      "Cenozoic",
+      "Proterozoic",
+      "Mesozoic",
+      "Palaeozoic"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01326",
+    "question": "Someshwar range is a part of which of the following mountain ranges?",
+    "answer": "Shiwalik",
+    "choices": [
+      "Shiwalik",
+      "Satpura",
+      "Vindhayan",
+      "Eastern Ghats"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01327",
+    "question": "Atal Tunnel is across which one of the following Himalayan ranges?",
+    "answer": "Eastern Pir Panjal",
+    "choices": [
+      "Eastern Pir Panjal",
+      "Western Pir Panjal",
+      "Zanskar",
+      "Ladakh"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01328",
+    "question": "At which of the following hills the Eastern Ghats join the Western Ghats?",
+    "answer": "Nilgiri Hills",
+    "choices": [
+      "Nilgiri Hills",
+      "Palni Hills",
+      "Anaimudi Hills",
+      "Shevaroy Hills"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01329",
+    "question": "Western Ghats in Maharashtra and Karnataka is known as",
+    "answer": "Sahyadri",
+    "choices": [
+      "Sahyadri",
+      "Nilgiri",
+      "Shiwalik",
+      "Nandi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01330",
+    "question": "The Hills situated closer to Kanyakumari are",
+    "answer": "Cardamom Hills",
+    "choices": [
+      "Cardamom Hills",
+      "Nilgiri Hills",
+      "Anaialai Hills",
+      "Shevaroy Hills"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01331",
+    "question": "Which of the following is not a part of the Meghalaya Plateau?",
+    "answer": "Bhuban Hills",
+    "choices": [
+      "Bhuban Hills",
+      "Garo Hills",
+      "Khasi Hills",
+      "Jaintia Hills"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01332",
+    "question": "Extra peninsular mountains of India were formed during",
+    "answer": "Cenozoic Era",
+    "choices": [
+      "Cenozoic Era",
+      "Palaeozoic Era",
+      "Aozoic Era",
+      "Mesozoic Era"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01333",
+    "question": "Chhota-Nagpur Plateau is a",
+    "answer": "front sloping",
+    "choices": [
+      "front sloping",
+      "pitfall",
+      "foothill",
+      "plain subland"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01334",
+    "question": "Which one of the following districts does not have Dharwar geological formations?",
+    "answer": "Rohtas",
+    "choices": [
+      "Rohtas",
+      "Jamui",
+      "Munger",
+      "Nawada"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01335",
+    "question": "How many coastal states are there in India?",
+    "answer": "Nine",
+    "choices": [
+      "Nine",
+      "Eight",
+      "Thirteen",
+      "Eleven"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01336",
+    "question": "Island group Lakshadweep is",
+    "answer": "Accumulation of Coral Reef",
+    "choices": [
+      "Accumulation of Coral Reef",
+      "Accumulation of Volcanic substances",
+      "Sedimentated Soil",
+      "None of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01337",
+    "question": "Lakshadweep consists of how many islands?",
+    "answer": "36",
+    "choices": [
+      "36",
+      "16",
+      "17",
+      "26"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01338",
+    "question": "The Ramsar Convention is associated with the conservation of",
+    "answer": "Wetlands",
+    "choices": [
+      "Wetlands",
+      "Drylands",
+      "Forests",
+      "Hills"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01339",
+    "question": "Which gas contributes to global warming through its greenhouse effect?",
+    "answer": "All of these",
+    "choices": [
+      "All of these",
+      "Methane",
+      "Nitrous Oxide",
+      "Carbon Dioxide"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01340",
+    "question": "Which of the following gas is responsible for the depletion of Ozone layer?",
+    "answer": "Chlorofluorocarbons",
+    "choices": [
+      "Chlorofluorocarbons",
+      "Carbon Monoxide",
+      "Carbon Dioxide",
+      "Nitrous Oxide"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01341",
+    "question": "What is the percentage of forest and tree cover in the total geographical area of India according to Indian State of Forest Report 2023?",
+    "answer": "25.17 percent",
+    "choices": [
+      "25.17 percent",
+      "21.76 percent",
+      "3.41 percent",
+      "91.33 percent"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01342",
+    "question": "What is the percentage of forest cover in the total geographical area of India according to Indian State of Forest Report 2023?",
+    "answer": "21.76 percent",
+    "choices": [
+      "21.76 percent",
+      "25.17 percent",
+      "3.41 percent",
+      "91.33 percent"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01343",
+    "question": "The largest percentage of forest area is in",
+    "answer": "Lakshadweep",
+    "choices": [
+      "Lakshadweep",
+      "Mizoram",
+      "Andman & Nicobar",
+      "Madhya Pradesh"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01344",
+    "question": "State having largest forest cover in India",
+    "answer": "Madhya Pradesh",
+    "choices": [
+      "Madhya Pradesh",
+      "Arunanchal Pradesh",
+      "Chhattisgarh",
+      "Sikkim"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01345",
+    "question": "In National Park protection is given to",
+    "answer": "Whole Ecosystem",
+    "choices": [
+      "Whole Ecosystem",
+      "Only Fauna",
+      "Only Flora",
+      "Only Birds"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01346",
+    "question": "Which of the following areas in India does not grow tropical wet evergreen forests?",
+    "answer": "Eastern Ghats",
+    "choices": [
+      "Eastern Ghats",
+      "Western Ghats",
+      "Andaman Islands",
+      "North-Eastern Region"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01347",
+    "question": "In which forest do the majority of species of birds inhabit the mountainous areas?",
+    "answer": "Pine Forest",
+    "choices": [
+      "Pine Forest",
+      "Bush Forest",
+      "Oak Forest",
+      "Maple Forest"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01348",
+    "question": "India's first Dolphin Observatory is being built in",
+    "answer": "Bihar",
+    "choices": [
+      "Bihar",
+      "Kolkata",
+      "Odisha",
+      "Delhi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01349",
+    "question": "The state of India with maximum number of wildlife sanctuaries is",
+    "answer": "Maharashtra",
+    "choices": [
+      "Maharashtra",
+      "Karnataka",
+      "Madhya Pradesh",
+      "Tamil Nadu"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01350",
+    "question": "Which one of the following is the well-publicised wildife campaign in the world launched in 1973?",
+    "answer": "Project Tiger",
+    "choices": [
+      "Project Tiger",
+      "Sunderbans Project",
+      "Project Big Cat",
+      "Project Elephant"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01351",
+    "question": "Which one of the following is not included under in-situ conservation?",
+    "answer": "Botanical Garden",
+    "choices": [
+      "Botanical Garden",
+      "National Parks",
+      "Wildlife Sanctuaries",
+      "Biosphere Reserves"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01352",
+    "question": "Total Ramsar sites in India?",
+    "answer": "96",
+    "choices": [
+      "96",
+      "90",
+      "19",
+      "45"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01353",
+    "question": "The Radcliffe Line demarcates the boundary between",
+    "answer": "India-Pakistan and India-Bangladesh",
+    "choices": [
+      "India-Pakistan and India-Bangladesh",
+      "India-Bhutan",
+      "India-Afghanistan",
+      "India-China"
+    ],
+    "information": "The Radcliffe Line is the boundary demarcation line between India and Pakistan, drawn at the time of Partition in 1947. It divided: Punjab → India & West Pakistan and Bengal → India & East Pakistan (now Bangladesh)",
+    "tags": ""
+  },
+  {
+    "qid": "Q01354",
+    "question": "The McMahon Line, often in dispute, is related to the boundary between India and",
+    "answer": "China",
+    "choices": [
+      "China",
+      "Bangladesh",
+      "Pakistan",
+      "Myanmar"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01355",
+    "question": "The Durand Line (1893) originally separated British India from",
+    "answer": "Afghanistan",
+    "choices": [
+      "Afghanistan",
+      "China",
+      "Nepal",
+      "Bhutan"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01356",
+    "question": "The Treaty of Sugauli (1816) defined India’s border with which country?",
+    "answer": "Nepal",
+    "choices": [
+      "Nepal",
+      "Bhutan",
+      "Myanmar",
+      "Sri Lanka"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01357",
+    "question": "The Treaty of Sinchula (1865) related to India’s boundary with",
+    "answer": "Bhutan",
+    "choices": [
+      "Bhutan",
+      "Nepal",
+      "Myanmar",
+      "Sri Lanka"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01358",
+    "question": "The Indus River originates from which of the following places?",
+    "answer": "Mansarovar Lake, Tibet",
+    "choices": [
+      "Mansarovar Lake, Tibet",
+      "Kailash Range, Tibet",
+      "Gangotri Glacier, Uttrakhand",
+      "Karakoram Range, Ladakh"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01359",
+    "question": "The Chenab River is formed by the confluence of which two rivers?",
+    "answer": "Chandra and Bhaga",
+    "choices": [
+      "Chandra and Bhaga",
+      "Jhelum and Ravi",
+      "Beas and Sutlej",
+      "Indus and Shyok"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01360",
+    "question": "Which of the following river is known as the Vitasta in ancient texts?",
+    "answer": "Jhelum",
+    "choices": [
+      "Jhelum",
+      "Ravi",
+      "Chenab",
+      "Beas"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01361",
+    "question": "Maginot Line exists between which countries?",
+    "answer": "France & Germany",
+    "choices": [
+      "France & Germany",
+      "USA & Canada",
+      "Namibia & Angola",
+      "South Korea & North Korea"
+    ],
+    "information": "The Maginot Line was a massive line of defensive fortifications built by France along its eastern border (mainly with Germany) between 1929 and 1938, named after French Minister of War André Maginot.\nIts purpose was to prevent a German invasion after the devastation of World War I.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01362",
+    "question": "Strait of Hormuz connects",
+    "answer": "The Persian Gulf & Gulf of Oman",
+    "choices": [
+      "The Persian Gulf & Gulf of Oman",
+      "Red Sea to Gulf of Aden",
+      "Red Sea to Indian Sea",
+      "Mediterranean Sea to Red Sea"
+    ],
+    "information": "A strait is a narrow, naturally formed waterway that connects two larger bodies of water.\nStrait of Hormuz connects Persian Gulf to Gulf of Oman and it lies between Iran and Oman",
+    "tags": ""
+  },
+  {
+    "qid": "Q01363",
+    "question": "Where is - Ground Zero",
+    "answer": "New York",
+    "choices": [
+      "New York",
+      "Greenwich",
+      "Indira Point",
+      "Sriharikota"
+    ],
+    "information": "Ground Zero refers to the World Trade Center site in New York after the 9/11 terror attacks (2001)",
+    "tags": ""
+  },
+  {
+    "qid": "Q01364",
+    "question": "Which of the following Isthmuses has been known as the Devil's Neck?",
+    "answer": "Kra Isthmuses",
+    "choices": [
+      "Kra Isthmuses",
+      "Isthmuses of Panama",
+      "Karelian Isthmuses",
+      "Isthmuses of Corinth"
+    ],
+    "information": "Devil’s Neck is a descriptive name used in geography and geomorphology for a narrow, steep, and dangerous passage or landform",
+    "tags": ""
+  },
+  {
+    "qid": "Q01365",
+    "question": "Ladang refers to",
+    "answer": "Shifting Agriculture",
+    "choices": [
+      "Shifting Agriculture",
+      "Plantation Agriculture",
+      "Subsistence type of Agriculture",
+      "Dry Forming"
+    ],
+    "information": "Ladang is a term used in Malaysia, Indonesia, and parts of Southeast Asia to refer to shifting cultivation, similar to jhum cultivation in Northeast India.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01366",
+    "question": "Which is the largest river Island in the world?",
+    "answer": "Majuli Island",
+    "choices": [
+      "Majuli Island",
+      "Srirangam Island",
+      "Bhavani Island",
+      "Agatti Island"
+    ],
+    "information": "The largest river island in the world is Majuli in Assam, India, located in the Brahmaputra River.\nGuinness World Records lists its area as about 880 km²",
+    "tags": ""
+  },
+  {
+    "qid": "Q01367",
+    "question": "The second largest river basin of india is",
+    "answer": "Godavari",
+    "choices": [
+      "Godavari",
+      "Narmada",
+      "Mahanadi",
+      "Kaveri"
+    ],
+    "information": "The Godavari Basin is considered the second largest river basin of India due to its area entirely within the country's boundaries.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01368",
+    "question": "Which of the following is the place of confluence of the Alaknanda and Bhagirathi",
+    "answer": "Devprayag",
+    "choices": [
+      "Devprayag",
+      "Karnprayag",
+      "Vishnuprayag",
+      "Rudraprayag"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01369",
+    "question": "The two volcanic Islands in the Indian Territory are",
+    "answer": "Narcondam and Barren",
+    "choices": [
+      "Narcondam and Barren",
+      "Bitra and Kavaratti",
+      "Kavaratti and New Moore",
+      "Pamban and Barren"
+    ],
+    "information": "India has only two active volcanic regions, both located in the Andaman & Nicobar Islands, they are Narcondam and Barren",
+    "tags": ""
+  },
+  {
+    "qid": "Q01370",
+    "question": "In India the Temperate Forest Research center is in which city?",
+    "answer": "Shimla",
+    "choices": [
+      "Shimla",
+      "Ranchi",
+      "Srinagar",
+      "Dehradun"
+    ],
+    "information": "The Temperate Forest Research Centre in India is located in Shimla, Himachal Pradesh.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01371",
+    "question": "Kanha National Park is established in",
+    "answer": "Madhya Pradesh",
+    "choices": [
+      "Madhya Pradesh",
+      "Assam",
+      "Maharashtra",
+      "Uttarakhand"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01372",
+    "question": "Loktak is a",
+    "answer": "Lake",
+    "choices": [
+      "Lake",
+      "Valley",
+      "River",
+      "Mountain Series"
+    ],
+    "information": "Loktak is one of the most unique and ecologically significant freshwater lakes in the world, located in the state of Manipur in Northeast India.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01373",
+    "question": "Afrikaners indicate the people",
+    "answer": "the white minority group in South Africa",
+    "choices": [
+      "the white minority group in South Africa",
+      "of Indo-African descent in the USA",
+      "Indigenous tribal communities in Africa",
+      "None of these"
+    ],
+    "information": "Afrikaners are a white South African ethnic group primarily descended from Dutch, German, and French Huguenot settlers who arrived in South Africa during the 17th and 18th centuries. They developed a distinct language (Afrikaans), culture, and identity.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01374",
+    "question": "Which one of the following latitudinal extent is relevant for the extent of India’s area?",
+    "answer": "8°4'N - 37°6'N",
+    "choices": [
+      "8°4'N - 37°6'N",
+      "8°41'N - 35°7'N",
+      "8°4'N - 35°6'N",
+      "6°45'N - 37°6'N"
+    ],
+    "information": "Latitudinal extent of India is from Kanyakumari ( 8° 4' N) to Ladakh (37° 6' N)",
+    "tags": ""
+  },
+  {
+    "qid": "Q01375",
+    "question": "Which one of the following countries shares the longest land frontier with India?",
+    "answer": "Bangladesh",
+    "choices": [
+      "Bangladesh",
+      "China",
+      "Pakistan",
+      "Nepal"
+    ],
+    "information": "India shares largest border on land with Bangladesh - 4,097 km",
+    "tags": ""
+  },
+  {
+    "qid": "Q01376",
+    "question": "Northern-most latitude of India",
+    "answer": "37° 6' N",
+    "choices": [
+      "37° 6' N",
+      "8° 4' N",
+      "68° 7' N",
+      "97° 25' N"
+    ],
+    "information": "Latitudinal extent of India is from Kanyakumari ( 8° 4' N) to Ladakh (37° 6' N)",
+    "tags": ""
+  },
+  {
+    "qid": "Q01377",
+    "question": "Sorthern-most latitude of India",
+    "answer": "8° 4' N",
+    "choices": [
+      "8° 4' N",
+      "37° 6' N",
+      "68° 7' N",
+      "97° 25' N"
+    ],
+    "information": "Latitudinal extent of India is from Kanyakumari ( 8° 4' N) to Ladakh (37° 6' N)",
+    "tags": ""
+  },
+  {
+    "qid": "Q01378",
+    "question": "Eastern-most longitude of India",
+    "answer": "97° 25' E",
+    "choices": [
+      "97° 25' E",
+      "37° 6' E",
+      "68° 7' E",
+      "8° 4' E"
+    ],
+    "information": "Longitudinal extent of India is from Gujarat ( 68° 7' E) to Arunachal Pardesh (97° 25' E)",
+    "tags": ""
+  },
+  {
+    "qid": "Q01379",
+    "question": "Western-most longitude of India",
+    "answer": "68° 7' E",
+    "choices": [
+      "68° 7' E",
+      "37° 6' E",
+      "97° 25' E",
+      "8° 4' E"
+    ],
+    "information": "Longitudinal extent of India is from Gujarat ( 68° 7' E) to Arunachal Pardesh (97° 25' E)",
+    "tags": ""
+  },
+  {
+    "qid": "Q01380",
+    "question": "How much is the time difference between easternmost and westernmost boundary regions of India?",
+    "answer": "Approximately 2 hours",
+    "choices": [
+      "Approximately 2 hours",
+      "Approximately 1 hours",
+      "Approximately 3 hours",
+      "Approximately 4 hours"
+    ],
+    "information": "Longitudinal extent of India is from Gujarat ( 68° 7' E) to Arunachal Pardesh (97° 25' E), which is around 30° corresponding to around 2 hours.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01381",
+    "question": "Countries of the world select the standard meridian in multiples of",
+    "answer": "7° 30'",
+    "choices": [
+      "7° 30'",
+      "5° 30'",
+      "2° 30'",
+      "9° 30'"
+    ],
+    "information": "There is a general understanding among the countries of the world to select the standard meridian in multiples of 7°30' of longitude.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01382",
+    "question": "The country with the highest number of time zones in the world is",
+    "answer": "France",
+    "choices": [
+      "France",
+      "USA",
+      "Russia",
+      "Australia"
+    ],
+    "information": "France has a total of 12 official time zones when accounting for its metropolitan area and all of its overseas departments and territories.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01383",
+    "question": "What is the total area of India",
+    "answer": "32,87,263 square km",
+    "choices": [
+      "32,87,263 square km",
+      "17,87,263 square km",
+      "8,87,263 square km",
+      "62,87,263 square km"
+    ],
+    "information": "India’s total area is about 3,287,263 km²",
+    "tags": ""
+  },
+  {
+    "qid": "Q01384",
+    "question": "India's share of the total land area of the world is approximately:",
+    "answer": "2.4 percent",
+    "choices": [
+      "2.4 percent",
+      "4.8 percent",
+      "7.0 percent",
+      "1.2 percent"
+    ],
+    "information": "India accounts for around 2.4% of the world’s land surface.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01385",
+    "question": "By area, India ranks as the __ largest country in the world.",
+    "answer": "7th",
+    "choices": [
+      "7th",
+      "6th",
+      "4th",
+      "3rd"
+    ],
+    "information": "In terms of land area, India is the 7th-largest country.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01386",
+    "question": "What is the approximate North–South extent of India?",
+    "answer": "3,214 km",
+    "choices": [
+      "3,214 km",
+      "2,933 km",
+      "2,500 km",
+      "3,500 km"
+    ],
+    "information": "India stretches 3,214 km from Kashmir (north) to Kanyakumari (south).",
+    "tags": ""
+  },
+  {
+    "qid": "Q01387",
+    "question": "What is the approximate East–West extent of India?",
+    "answer": "2,933 km",
+    "choices": [
+      "2,933 km",
+      "3,214 km",
+      "2,500 km",
+      "3,500 km"
+    ],
+    "information": "India’s longitudinal spread from Gujarat (west) to Arunachal Pradesh (east) is 2,933 km.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01388",
+    "question": "Which country is the world has largest area",
+    "answer": "Russia",
+    "choices": [
+      "Russia",
+      "Australia",
+      "USA",
+      "China"
+    ],
+    "information": "Russia is the world's largest country with 17.1 million square km",
+    "tags": ""
+  },
+  {
+    "qid": "Q01389",
+    "question": "Which strait separates India and Sri Lanka?",
+    "answer": "Palk Strait",
+    "choices": [
+      "Palk Strait",
+      "Sunda Strait",
+      "Malacca Strait",
+      "Ten Degree Channel"
+    ],
+    "information": "The Palk Strait lies between Tamil Nadu (India) and northern Sri Lanka, connecting the Bay of Bengal with the Gulf of Mannar",
+    "tags": ""
+  },
+  {
+    "qid": "Q01390",
+    "question": "The Palk Strait primarily connects which two water bodies?",
+    "answer": "Bay of Bengal and Gulf of Mannar",
+    "choices": [
+      "Bay of Bengal and Gulf of Mannar",
+      "Arabian Sea and Laccadive Sea",
+      "Andaman Sea and Bay of Bengal",
+      "Laccadive Sea and Indian Ocean"
+    ],
+    "information": "The Palk Strait links the northeastern Bay of Bengal (via Palk Bay) to the southwestern Gulf of Mannar",
+    "tags": ""
+  },
+  {
+    "qid": "Q01391",
+    "question": "Which channel separates India (Minicoy, Lakshadweep) and the Maldives?",
+    "answer": "Eight Degree Channel",
+    "choices": [
+      "Eight Degree Channel",
+      "Nine Degree Channel",
+      "Ten Degree Channel",
+      "Twelve Degree Channel"
+    ],
+    "information": "The international maritime boundary between India and the Maldives runs through the Eight Degree channel.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01392",
+    "question": "The Ten Degree Channel separates which of the following?",
+    "answer": "Andaman Islands and Nicobar Islands",
+    "choices": [
+      "Andaman Islands and Nicobar Islands",
+      "Little Andaman and Great Nicobar",
+      "Minicoy and Maldives",
+      "Lakshadweep and Maldives"
+    ],
+    "information": "The Ten Degree Channel lies near 10°N and forms the deep-water separation between the Andaman and Nicobar island groups in the Bay of Bengal.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01393",
+    "question": "What does the Nine Degree Channel separate?",
+    "answer": "Minicoy Island and the main Lakshadweep archipelago",
+    "choices": [
+      "Minicoy Island and the main Lakshadweep archipelago",
+      "India and Sri Lanka",
+      "Andaman and Nicobar Islands",
+      "Lakshadweep and Maldives"
+    ],
+    "information": "The Nine Degree Channel lies on the 9°N latitude and separates Minicoy (Maliku Atoll) from the rest of the Lakshadweep group (e.g., Kalpeni, Suheli Par). It is a major shipping route.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01394",
+    "question": "The Tropic of Cancer passes through how many states in India?",
+    "answer": "Eight",
+    "choices": [
+      "Eight",
+      "Six",
+      "Seven",
+      "Eleven"
+    ],
+    "information": "The Tropic of Cancer (23°30'N) passes through 8 states — Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01395",
+    "question": "Which one of the following scholars coined the term ‘Geography’?",
+    "answer": "Erathosthenese",
+    "choices": [
+      "Erathosthenese",
+      "Herodotus",
+      "Galileo",
+      "Aristotle"
+    ],
+    "information": "The term ‘Geography’ was coined by Eratosthenes in the 3rd century BCE. He used the Greek words Geo (Earth) and Graphia (to write or describe), meaning “description of the Earth.” Eratosthenes is also known for calculating the Earth’s circumference with remarkable accuracy, earning him the title “Father of Geography.”",
+    "tags": ""
+  },
+  {
+    "qid": "Q01396",
+    "question": "Which scholar first used the Hindi term Bhugol for Geography?",
+    "answer": "Aryabhatta",
+    "choices": [
+      "Aryabhatta",
+      "Varahmihira",
+      "Ptolemy",
+      "Kautilya"
+    ],
+    "information": "The Hindi term ‘Bhūgol’ is derived from Sanskrit — Bhū (Earth) and Gol (sphere). The use of this concept is traditionally attributed to Āryabhaṭṭa",
+    "tags": ""
+  },
+  {
+    "qid": "Q01397",
+    "question": "The strategic importance of the Strait of Hormuz is primarily due to:",
+    "answer": "It connects the Persian Gulf with the Gulf of Oman",
+    "choices": [
+      "It connects the Persian Gulf with the Gulf of Oman",
+      "It connects the Mediterranean Sea and Red Sea",
+      "It connects the Black Sea with the Caspian Sea",
+      "It connects the Arabian Sea with the Bay of Bengal"
+    ],
+    "information": "Strait of Hormuz connects the Persian Gulf with the Gulf of Oman. Nearly one-fifth of global petroleum trade passes through it, making it a critical geopolitical chokepoint.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01398",
+    "question": "The Zagros Mountains primarily separate which two regions?",
+    "answer": "Persian Gulf coastal plain and Iranian plateau",
+    "choices": [
+      "Persian Gulf coastal plain and Iranian plateau",
+      "Iran and Turkey",
+      "Caspian Sea and Black Sea",
+      "Iraq and Syria"
+    ],
+    "information": "The Zagros range runs parallel to the Persian Gulf, forming a natural barrier between the coastal plain and interior plateau of Iran.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01399",
+    "question": "Which of the following statements is correct regarding the Persian Gulf?",
+    "answer": "It is a shallow marginal sea of the Indian Ocean",
+    "choices": [
+      "It is a shallow marginal sea of the Indian Ocean",
+      "It is connected to the Red Sea through Bab-el-Mandeb",
+      "It lies between Africa and Europe",
+      "It is a part of the Atlantic Ocean"
+    ],
+    "information": "The Persian Gulf is a shallow extension of the Indian Ocean system and contains some of the world’s largest oil reserves.",
+    "tags": ""
+  }
 ]

@@ -1,2618 +1,2836 @@
 [
-    {
-        "sheet": "Polity",
-        "question": "The first session of Constituent Assembly was held on",
-        "answer": "9th December 1946",
-        "choices": [
-            "9th December 1946",
-            "15th August 1947",
-            "26th November 1949",
-            "26th January 1946"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Indian Constitution was adopted by the Constituent Assembly on",
-        "answer": "26th Novemeber 1949",
-        "choices": [
-            "26th Novemeber 1949",
-            "26th Novemeber 1950",
-            "26th January 1950",
-            "15th August 1949"
-        ],
-        "information": "This is the exact date of adoption. It became effective (came into force) on 26 January 1950 to align with the anniversary of the 1930 Purna Swaraj Declaration."
-    },
-    {
-        "sheet": "Polity",
-        "question": "January 26 was selected as the date for the inaugaration of the Constitution, because",
-        "answer": "The Congress had observed it as the Independence Day in 1930",
-        "choices": [
-            "The Congress had observed it as the Independence Day in 1930",
-            "It was considered to be an auspicious day",
-            "On that day the Quit India Movement was started in 1942",
-            "MK Gandhi returned to India on that day"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who of the following was the chairman of the Provincial Constitution Committee of the Constituent Assembly of India",
-        "answer": "Sardar Vallabhbhai Patel",
-        "choices": [
-            "Sardar Vallabhbhai Patel",
-            "Rajendra Prasad",
-            "Bhim Rao Ambedkar",
-            "K. M. Munshi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who was the labour Minister in Jawaharlal Nehru's Provisional Government?",
-        "answer": "Jagjivan Ram",
-        "choices": [
-            "Jagjivan Ram",
-            "Rajendra Prasad",
-            "Aruna Asaf Ali",
-            "C. Rajgopalachari"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Indian Constitution was adopted by",
-        "answer": "Constituent Assembly",
-        "choices": [
-            "Constituent Assembly",
-            "British Parliament",
-            "Governor-General",
-            "Indian Parliament"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Constitution Day of India is celebrated on",
-        "answer": "26th Novemeber",
-        "choices": [
-            "26th Novemeber",
-            "26th January",
-            "15th August",
-            "14th August"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who was the President of Indian National Congress at the time of partition of India?",
-        "answer": "J. B. Kripalani",
-        "choices": [
-            "J. B. Kripalani",
-            "Jawaharlal Nehru",
-            "Maulana Abul Kalam Azad",
-            "C. Rajgopalachari"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "In Indian political system which one is supereme?",
-        "answer": "The Constitution",
-        "choices": [
-            "The Constitution",
-            "The Supreme Court",
-            "The President",
-            "The Parliament"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following subject lies in the concurrent list?",
-        "answer": "Education",
-        "choices": [
-            "Education",
-            "Police",
-            "Defence",
-            "Agriculture"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Constitution Tenth schedule relates to",
-        "answer": "Anti-Defection Law",
-        "choices": [
-            "Anti-Defection Law",
-            "National Language of India",
-            "Administration of SC and ST Area",
-            "Judicial Review"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Land Reform comes under the subjects of",
-        "answer": "State List",
-        "choices": [
-            "State List",
-            "Union List",
-            "Concurrent List",
-            "National List"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following is not a part in the Eleventh Schedule of the Constitution?",
-        "answer": "Rural Sports",
-        "choices": [
-            "Rural Sports",
-            "Libraries",
-            "Fuel and Fodder",
-            "Technical Training"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What was the duration in the making of the Indian Constitution?",
-        "answer": "2 years 11 monts and 18 days",
-        "choices": [
-            "2 years 11 monts and 18 days",
-            "1 years 11 monts and 18 days",
-            "3 years 11 monts and 18 days",
-            "2 years 10 monts and 18 days"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The provision of amending the constitutional provision is given in",
-        "answer": "Part XX Article 368",
-        "choices": [
-            "Part XX Article 368",
-            "Part XIX Article 356",
-            "Part XX Article 356",
-            "Part XXI Article 368"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which one of the following characterstics is not true for unitary form of Government?",
-        "answer": "Ideal for large countries",
-        "choices": [
-            "Ideal for large countries",
-            "Flexible",
-            "Swift Decision",
-            "Uniformity of Laws"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Democracy of India is based on the fact that",
-        "answer": "Public enjoys the right to choose and change the Government",
-        "choices": [
-            "Public enjoys the right to choose and change the Government",
-            "Fundamental Rights have been provided",
-            "The Constitution is written",
-            "Directive Principles of State policy have been provided for here"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which one of the following statements is correct regarding parliamentary form of government?",
-        "answer": "Executive is responsible to the legislature",
-        "choices": [
-            "Executive is responsible to the legislature",
-            "The legislature is responsible to Executive",
-            "The Legislative and the Executive are independent",
-            "The Legislature is responsible to Judiciary"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is the nature of the Indian Constitution",
-        "answer": "Federal in nature but unitary in spirit",
-        "choices": [
-            "Federal in nature but unitary in spirit",
-            "Federal",
-            "Unitary",
-            "Parliamentary"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "After Independence, in which year were the Indian states reorganised on the linguistic basis?",
-        "answer": 1956,
-        "choices": [
-            1956,
-            2000,
-            1947,
-            1950
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Chief Minister of Union Territory, where such a setup exists, is appointed by the",
-        "answer": "President",
-        "choices": [
-            "President",
-            "Governor",
-            "Lieutenant Governor",
-            "Chief Justice of India"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Creation of a new state requires which majority for Consitutional Amendment.",
-        "answer": "Simple",
-        "choices": [
-            "Simple",
-            "Two-third",
-            "Three-fourth",
-            "Two-third plus ratification by half of all states"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Delhi is a/an",
-        "answer": "Union Territory",
-        "choices": [
-            "Union Territory",
-            "State",
-            "Autonomous Council",
-            "Dominion"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Sikkim became an associate state of India under",
-        "answer": "35th Amendment",
-        "choices": [
-            "35th Amendment",
-            "45th Amendment",
-            "42nd Amendment",
-            "36th Amendment"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "On which day Sikkim gained full statehood in India",
-        "answer": "16th May 1975",
-        "choices": [
-            "16th May 1975",
-            "15th May 1975",
-            "16th June 1975",
-            "15th July 1975"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "In which year did the state of Jharkhand come into existence?",
-        "answer": 2000,
-        "choices": [
-            2000,
-            1975,
-            1956,
-            1987
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Bihar as an Indian State was formed in ",
-        "answer": 1912,
-        "choices": [
-            1912,
-            1956,
-            1987,
-            1911
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The phrase equality before law used in Article 14 of the Indian Constitution has been borrowed from the Constitution of",
-        "answer": "Britain",
-        "choices": [
-            "Britain",
-            "USA",
-            "France",
-            "Canada"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The phrase equality protection of law used in Article 14 of the Indian Constitution has been borrowed from the Constitution of",
-        "answer": "USA",
-        "choices": [
-            "USA",
-            "Britain",
-            "France",
-            "Canada"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "From which country, the Indian Constitution has taken reference for the idea of the Fundamental Rights?",
-        "answer": "United States of America",
-        "choices": [
-            "United States of America",
-            "Ireland",
-            "United Kingdom",
-            "Canada"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following is given the power to enforce the Fundamental Rights by the Constitution?",
-        "answer": "The Supreme Court and High Courts",
-        "choices": [
-            "The Supreme Court and High Courts",
-            "All Courts in India",
-            "The Parliament",
-            "The President"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is meant by Rule of Law",
-        "answer": "One act for all and one judiciary for all",
-        "choices": [
-            "One act for all and one judiciary for all",
-            "One act for all and one state for all",
-            "One state for all and one judicary for all",
-            "All acts for one and one judiciary for all"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The description of Fundamental Rights for the Indian cititzens is in",
-        "answer": "Article 12 to 35",
-        "choices": [
-            "Article 12 to 35",
-            "Article 25 to 50",
-            "Article 16 to 40",
-            "Article 15 to 39"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Supreme Court's judgement of Indra Sawhney vs Union of India Case is related to which issue?",
-        "answer": "Regarding OBC reservation in Government Employment",
-        "choices": [
-            "Regarding OBC reservation in Government Employment",
-            "Doctrine of Basic Structure of Constitution",
-            "Reservation on promotion of SC",
-            "Extended reservation for ST"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which article of the Constitution of India is related with the Freedom of Press.",
-        "answer": "Article 19",
-        "choices": [
-            "Article 19",
-            "Article 20",
-            "Article 21",
-            "Article 22"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following can a court issue for enforcement of the Fundamental Rights?",
-        "answer": "Writ",
-        "choices": [
-            "Writ",
-            "Decree",
-            "Ordinance",
-            "Bill"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following is not a fundamental right?",
-        "answer": "Right to Property",
-        "choices": [
-            "Right to Property",
-            "Right to Constitutional Remedy",
-            "Right to Peaceful Assembly",
-            "Right to free movement all over the country"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Supreme Court has held that hoisting the National Flag atop the private buildings is a fundamental right of every citizen under",
-        "answer": "Article 19",
-        "choices": [
-            "Article 19",
-            "Article 14",
-            "Article 21",
-            "Article 25"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following rights conferred by the Constitution of India is also available to non-citizens?",
-        "answer": "Right to Constitutional Remedies",
-        "choices": [
-            "Right to Constitutional Remedies",
-            "Freedom of Speech",
-            "Freedom to move and settle in any part of the country",
-            "Freedom to accquire property"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "When was the Right to Education added through the amendment in the Constitution of India?",
-        "answer": "1st April 2010",
-        "choices": [
-            "1st April 2010",
-            "1st August 2010",
-            "2nd October 2010",
-            "1st December 2010"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Untouchability is abolished by which article of the Indian Constitution?",
-        "answer": "Article 17",
-        "choices": [
-            "Article 17",
-            "Article 19",
-            "Article 15",
-            "Article 14"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which part of the Indian Constitution contains the Directive Principles of State Policy?",
-        "answer": "Part IV",
-        "choices": [
-            "Part IV",
-            "Part III",
-            "Part V",
-            "Part VI"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "How are Directive Principles of State Policy different from Fundamental Rights?",
-        "answer": "DPSPs are not enforceable while Fundamental Rights are enforceable",
-        "choices": [
-            "DPSPs are not enforceable while Fundamental Rights are enforceable",
-            "DPSPs are enforceable by courts, while Fundamental Rights are not.",
-            "DPSPs are not part of Constitution while Fundamental Rights are",
-            "DPSPs are part of Constitution while Fundamental Rights are not"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The concept of welfare state included in the Constitution of India in the",
-        "answer": "Directive Principles of State Policy",
-        "choices": [
-            "Directive Principles of State Policy",
-            "Fourth Schedule of the Constitution",
-            "Fundamental Rights",
-            "Preamble of Constitution"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Panchayat Raj System in India is laid down under",
-        "answer": "Directive Principles of State Policy",
-        "choices": [
-            "Directive Principles of State Policy",
-            "Fundamental Rights",
-            "Fundamental Duties",
-            "Election Commission Act"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Ministry of Panchayati Raj was created in the Central Government of India in",
-        "answer": 2004,
-        "choices": [
-            2004,
-            2001,
-            2000,
-            2003
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which one of the following Articles directs the State to organise the Panchayats?",
-        "answer": "Article 40",
-        "choices": [
-            "Article 40",
-            "Aritcle 50",
-            "Article 33",
-            "Article 36"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The concept of Directive Principles of State Policy in the Indian Constitution was borrowed from the Constitution of",
-        "answer": "Ireland",
-        "choices": [
-            "Ireland",
-            "Switzerland",
-            "England",
-            "United States of America"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Fundamental Duties are laid down in",
-        "answer": "42nd Amendment",
-        "choices": [
-            "42nd Amendment",
-            "43rd Amendment",
-            "40th Amendment",
-            "39th Amendment"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The 10 commandments, which were added in 42nd Amendment Act in Constitution of India, are called as ",
-        "answer": "Fundamental Duties",
-        "choices": [
-            "Fundamental Duties",
-            "Fundamental Rights",
-            "Panchayati Raj Principles",
-            "Directive Principles of State Policy"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which one of the following is a Fundamental Duty in India?",
-        "answer": "To value and preserve the rich heritage of our composite culture",
-        "choices": [
-            "To value and preserve the rich heritage of our composite culture",
-            "Separation of judiciary from executive",
-            "Free and compulsory education",
-            "Abolition of Untouchability"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Electoral College for the election of the President of India consits of",
-        "answer": "All elected members of both members of Parliament and elected members of the State Legislative Assemblies",
-        "choices": [
-            "All elected members of both members of Parliament and elected members of the State Legislative Assemblies",
-            "All the elected members of the Rajya Sabha",
-            "All the elected members of the Lok Sabha",
-            "All the members of the State Legislative Assemblies"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "If there is any dispute regarding the Presidential election, it can be referred to",
-        "answer": "Supreme Court of India",
-        "choices": [
-            "Supreme Court of India",
-            "Attorney General of India",
-            "Parliament",
-            "Special Tribunal"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The president of India can be removed from his post by",
-        "answer": "Parliament",
-        "choices": [
-            "Parliament",
-            "Chief Justice of India",
-            "The Prime Minister of India",
-            "Lok Sabha"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "If the position of President and Vice-President are vacant, who officiates as the President of India?",
-        "answer": "Chief Justice of India",
-        "choices": [
-            "Chief Justice of India",
-            "Prime Minister",
-            "Speaker of Lok Sabha",
-            "Chairman of Rajya Sabha"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Indian President is eligible for re-election for how many times?",
-        "answer": "Any number of times",
-        "choices": [
-            "Any number of times",
-            "Once",
-            "Twice",
-            "Thrice"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who is the Executive Head of State in India?",
-        "answer": "President",
-        "choices": [
-            "President",
-            "Prime Minister",
-            "Leader of the Opposition",
-            "Chief Secretary, Government of India"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who of the following has been vested with the executive powers  of the central government under the constitution of India?",
-        "answer": "President",
-        "choices": [
-            "President",
-            "Prime Minister",
-            "Central Cabinet",
-            "All of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "President of India exercises his powers",
-        "answer": "either directly or through officers subordinate to him",
-        "choices": [
-            "either directly or through officers subordinate to him",
-            "through ministers",
-            "through Prime Minister",
-            "through Cabinet"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The President",
-        "answer": "is a part of Parliament",
-        "choices": [
-            "is a part of Parliament",
-            "is not a part of parliament",
-            "is a part of parliament and sits in the parliament",
-            "can vote in parliament"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Constitution doesn't empower the President of India with the right of",
-        "answer": "Appointment of Chief Minister in states",
-        "choices": [
-            "Appointment of Chief Minister in states",
-            "Appointment of Prime Minister",
-            "Being the supreme commander of Defence Forces",
-            "Executing emergency in any part of the country"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The first President of Independent India - Rajendra Prasad belonged to which state",
-        "answer": "Bihar",
-        "choices": [
-            "Bihar",
-            "Uttar Pradesh",
-            "Andhra Pradesh",
-            "Tamil Nadu"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who was among the following to receive first Bharat Ratna?",
-        "answer": "Sarvapalli Radhakrishnan",
-        "choices": [
-            "Sarvapalli Radhakrishnan",
-            "Jawaharlal Nehru",
-            "Rajendra Prasad",
-            "Lal Bahadur Shastri"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "A bill presented in Parliament becomes an Act after",
-        "answer": "the President has given his assent",
-        "choices": [
-            "the President has given his assent",
-            "It is passed by both the houses of Parliament",
-            "the Prime Minister has signed it",
-            "the Supreme Court has declared it to be within the competence of the Union-Parliament"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who among the following had been the first unopposed and unanimously elected President of India?",
-        "answer": "Neelam Sanjeeva Reddy",
-        "choices": [
-            "Neelam Sanjeeva Reddy",
-            "Savapalli Radhakrishnan",
-            "Rajendra Prasad",
-            "Zakir Hussain"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is the minimum age to be eligible for contesting election of President in India?",
-        "answer": "35 years",
-        "choices": [
-            "35 years",
-            "25 years",
-            "32 years",
-            "21 years"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is the minimum age to be eligible for contesting election of Vice-President in India?",
-        "answer": "35 years",
-        "choices": [
-            "35 years",
-            "25 years",
-            "32 years",
-            "21 years"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "To whom does the President of India address his resignation letter?",
-        "answer": "Vice-President",
-        "choices": [
-            "Vice-President",
-            "Chief Justice",
-            "Prime Minister",
-            "Speaker of Lok Sabha"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "To whom does the Vice-President of India address his resignation letter?",
-        "answer": "President",
-        "choices": [
-            "President",
-            "Chief Justice",
-            "Prime Minister",
-            "Speaker of Rajya Sabha"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
-        "answer": "Vice-President",
-        "choices": [
-            "Vice-President",
-            "President",
-            "Prime Minister",
-            "Chief Justice of India"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Electoral College for the 17th Vice Presidential Election of India for 2025 consists of how many members?",
-        "answer": "788 members",
-        "choices": [
-            "788 members",
-            "543 members",
-            "245 members",
-            "565 members"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The serial number of next Vice-President of India will be",
-        "answer": "17th",
-        "choices": [
-            "17th",
-            "16th",
-            "15th",
-            "18th"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Council of Ministers is responsible to the",
-        "answer": "Lok Sabha",
-        "choices": [
-            "Lok Sabha",
-            "President",
-            "Prime Minister",
-            "Rajya Sabha"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Council of Ministers shall hold office during the pleasure of the",
-        "answer": "President",
-        "choices": [
-            "President",
-            "Prime Minister",
-            "Speaker of Lok Sabha",
-            "Chief Justice of India"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Prime Minister of India is responsible to the",
-        "answer": "Lok Sabha",
-        "choices": [
-            "Lok Sabha",
-            "President",
-            "Prime Minister",
-            "Rajya Sabha"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who administers the oaths of office and secrecy to Prime Minister?",
-        "answer": "President",
-        "choices": [
-            "President",
-            "Chief Justice of India",
-            "Speaker of Lok Sabha",
-            "Vice-President"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who administers the oaths of office and secrecy to Vice-President?",
-        "answer": "President",
-        "choices": [
-            "President",
-            "Chief Justice of India",
-            "Speaker of Rajya Sabha",
-            "Prime Minister"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who administers the oaths of office and secrecy to the President?",
-        "answer": "Chief Justice of India",
-        "choices": [
-            "Chief Justice of India",
-            "Vice-President",
-            "Speaker of Rajya Sabha",
-            "Prime Minister"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The word Matrimandal (Cabinet) is mentioned is which article?",
-        "answer": "Article 352",
-        "choices": [
-            "Article 352",
-            "Article 356",
-            "Article 75",
-            "Article 74"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who is the highest Civil Services Officers of the Central Government?",
-        "answer": "Cabinet Secretary",
-        "choices": [
-            "Cabinet Secretary",
-            "Attorney General of India",
-            "Home Secretary",
-            "Finance Secretary"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following Constitutional Amendment Act resitricted the size of the Council of Ministers to 15 percent of the total members of the Lok Sabha?",
-        "answer": "91st Amendment, 2003",
-        "choices": [
-            "91st Amendment, 2003",
-            "95th Amendment, 2009",
-            "93rd Amendment, 2005",
-            "90th Amendment, 2002"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who advises the Government of India on legal matters?",
-        "answer": "Attorney General",
-        "choices": [
-            "Attorney General",
-            "Comptroller & Auditor General",
-            "Chief Justice of the Supreme Court",
-            "Chairman, Law Commission"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which officer of the Government of India has the right to take part in the proceedings of Parliament of India even though he is not a member?",
-        "answer": "Attorney General",
-        "choices": [
-            "Attorney General",
-            "Comptroller & Auditor General",
-            "Vice-President",
-            "Election Commissioner"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who advises the State Government on legal matters?",
-        "answer": "Advocate-General",
-        "choices": [
-            "Advocate-General",
-            "Attorney General",
-            "Solicitor General",
-            "Chief Justice of the High Court"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Parliament's expenditure is controlled by the ",
-        "answer": "Comptroller & Auditor General",
-        "choices": [
-            "Comptroller & Auditor General",
-            "President",
-            "NITI Aayog",
-            "Finance Commission"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Lok Sabha can be dissolved before the completion of its term",
-        "answer": "by the president on the recommendation of the Prime Minister",
-        "choices": [
-            "by the president on the recommendation of the Prime Minister",
-            "at the discretion of the President",
-            "at the discretion of the Prime Minister",
-            "at the discretion of the speaker of Lok Sabha"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is the minimum age laid down for a person to seek election to the Lok Sabha?",
-        "answer": "25 years",
-        "choices": [
-            "25 years",
-            "30 years",
-            "35 years",
-            "20 years"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is the minimum age laid down for a member of the Parliament?",
-        "answer": "25 years",
-        "choices": [
-            "25 years",
-            "30 years",
-            "35 years",
-            "20 years"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is the minimum age laid down for a member of the Rajya Sabha?",
-        "answer": "30 years",
-        "choices": [
-            "30 years",
-            "25 years",
-            "35 years",
-            "20 years"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Generally how many sessions are there in the Lok Sabha?",
-        "answer": "Three",
-        "choices": [
-            "Three",
-            "Two",
-            "Four",
-            "Five"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "A candidate of Lok Sabha poll loses his security amount if he/she does not get",
-        "answer": "one-sixth of valid votes",
-        "choices": [
-            "one-sixth of valid votes",
-            "one-third of valid votes",
-            "one-fourth of valid votes",
-            "one-fifth of valid votes"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The state-wise allocation of seats in Lok Sabha is based on the 1971 Census. Up to which year does this remain intact?",
-        "answer": 2026,
-        "choices": [
-            2026,
-            2025,
-            2031,
-            2047
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Presently the number of seats each state in Lok Sabha is allotted on the basis of",
-        "answer": "Census of 1971",
-        "choices": [
-            "Census of 1971",
-            "Census of 1951",
-            "Census of 1961",
-            "Census of 1981"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Fifth Schedule deals with the governance and protection of which specific group of people?",
-        "answer": "Scheduled Tribes",
-        "choices": [
-            "Scheduled Tribes",
-            "Scheduled Castes",
-            "Religious Minorities",
-            "Linguistic Minorities"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "In which Article of the Constitution of India was the provision for reservation of scheduled castes in Lok Sabha made?",
-        "answer": "Article 330",
-        "choices": [
-            "Article 330",
-            "Article 331",
-            "Article 332",
-            "Article 333"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Session of Lok Sabha is called for at least",
-        "answer": "two times in a year",
-        "choices": [
-            "two times in a year",
-            "three times in a year",
-            "once in a year",
-            "four times in a year"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which State sends the largest number of members in Lok Sabha?",
-        "answer": "Uttar Pradesh",
-        "choices": [
-            "Uttar Pradesh",
-            "Maharashtra",
-            "Bihar",
-            "West Bengal"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "So long as the representation in Lok Sabha is concerned, which states rank second and third?",
-        "answer": "Maharashtra & West Bengal",
-        "choices": [
-            "Maharashtra & West Bengal",
-            "Bihar & Maharashtra",
-            "Madhya Pradesh & Tamil Nadu",
-            "Bihar & Tamil Nadu"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "First General Election of Lok Sabha was held in",
-        "answer": 1952,
-        "choices": [
-            1952,
-            1950,
-            1946,
-            1947
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who is the leader of the Lok Sabha?",
-        "answer": "Prime Minister",
-        "choices": [
-            "Prime Minister",
-            "President",
-            "Speaker",
-            "Whip"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "A seat of an MP can be declared vacant if he absents himself from the house for a continous period of",
-        "answer": "60 days",
-        "choices": [
-            "60 days",
-            "30 days",
-            "45 days",
-            "90 days"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Speaker of the Lok Sabha is elected by",
-        "answer": "all members of Lok Sabha",
-        "choices": [
-            "all members of Lok Sabha",
-            "all members of parliament",
-            "public directly",
-            "the members of party in majority"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Attorney General of India is appointed by the",
-        "answer": "President",
-        "choices": [
-            "President",
-            "Law Minister",
-            "Speaker of the Lok Sabha",
-            "Prime Minister"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Rajya Sabha consits of",
-        "answer": "250 members of which 12 are nominated",
-        "choices": [
-            "250 members of which 12 are nominated",
-            "280 members of which 20 are nominated",
-            "275 members of which 18 are nominated",
-            "252 members of which 12 are nominated"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Maximum members in The Lok Sabha",
-        "answer": 550,
-        "choices": [
-            550,
-            530,
-            543,
-            545
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Representation of States in Council of States is based on",
-        "answer": "ratio of their Population",
-        "choices": [
-            "ratio of their Population",
-            "ratio of their revenue",
-            "ratio of their area",
-            "equal for all states"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Member of Rajya Sabha is elected for",
-        "answer": "6 years",
-        "choices": [
-            "6 years",
-            "5 years",
-            "4 years",
-            "life long"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Member of Lok Sabha is elected for",
-        "answer": "5 years",
-        "choices": [
-            "5 years",
-            "6 years",
-            "4 years",
-            "life long"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "According to our Constitution, the Rajya Sabha",
-        "answer": "is not subject to dissolution",
-        "choices": [
-            "is not subject to dissolution",
-            "is dissolved once in two years",
-            "is dissolved once in five years",
-            "is dissolved once in six years"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Right to dissolve the Rajya Sabha is vested in",
-        "answer": "None of these",
-        "choices": [
-            "None of these",
-            "President",
-            "Vice-President",
-            "Supreme Court"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The number of members nominated by the President in Rajya Sabha is",
-        "answer": 12,
-        "choices": [
-            12,
-            10,
-            11,
-            20
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "In which House is the presiding officer not a member of that House?",
-        "answer": "Rajya Sabha",
-        "choices": [
-            "Rajya Sabha",
-            "Lok Sabha",
-            "Vidhan Sabha",
-            "Vidhan Parishad"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Under which Article, the speaker can allow any member of the House to speak in his/her mother tongue?",
-        "answer": "Article 120",
-        "choices": [
-            "Article 120",
-            "Article 110",
-            "Article 122",
-            "Article 115"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What can be the maximum interval between the two consecutive sessions of Parliament?",
-        "answer": "six months",
-        "choices": [
-            "six months",
-            "12 months",
-            "3 months",
-            "9 months"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Zero Hour in political jargon refers to",
-        "answer": "Question-Answer Session",
-        "choices": [
-            "Question-Answer Session",
-            "Suspended Motion",
-            "Adjourned Time",
-            "Day when no business in parliament is done"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Joint session of both Houses of Parliament is concerned ",
-        "answer": "to discuss and pass sucha a bill where both Houses have different opinion",
-        "choices": [
-            "to discuss and pass sucha a bill where both Houses have different opinion",
-            "for the election of the President of India",
-            "for the election of the vice-president of India",
-            "to pass the bill relating to the amendment of Constitution"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Money Bill can be presented",
-        "answer": "Only in Lok Sabha",
-        "choices": [
-            "Only in Lok Sabha",
-            "Only in Rajya Sabha",
-            "In both the Houses",
-            "in joint meeting of both the Houses"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Of the following statements, which one is not correct?",
-        "answer": "Money bill is introduced in the Rajya Sabha",
-        "choices": [
-            "Money bill is introduced in the Rajya Sabha",
-            "The Rajya Sabha is powerless in money matters",
-            "The Rajya Sabha has to pass the Money Bill within 14 days after it has been passed by the Lok Sabha",
-            "The Rajya Sabha may pass or return the Money Bill with some recommendations to the Lok Sabha"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Vote on Account is meant for",
-        "answer": "Appropriating funds pending passing of budget",
-        "choices": [
-            "Appropriating funds pending passing of budget",
-            "vote on the report of CAG",
-            "to meet unforeseen expenditure",
-            "Budget"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is the object of Cut Motion",
-        "answer": "to move a proposal to reduce expenditure in the Budget proposals",
-        "choices": [
-            "to move a proposal to reduce expenditure in the Budget proposals",
-            "to put check on the policies of the Government",
-            "to stop the functioning of ruling party",
-            "rejection of complete financial dealings of the Government"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Public Accounts Committee submits its report to",
-        "answer": "Speaker of the Lok Sabha",
-        "choices": [
-            "Speaker of the Lok Sabha",
-            "Comptroller & Auditor General",
-            "Prime Minister",
-            "President"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The split system in the Indian Administration relates to",
-        "answer": "Policy / Implementation",
-        "choices": [
-            "Policy / Implementation",
-            "Audit / Accounts",
-            "Union / States",
-            "All India Service / Central Service"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Collegium System in India is primarily related to:",
-        "answer": "Appointment and transfer of judges",
-        "choices": [
-            "Appointment and transfer of judges",
-            "Appointment of Governors",
-            "Appointment of Election Commissioners",
-            "Appointment of Lokpal"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following constitutional bodies created the Collegium System?",
-        "answer": "Supreme Court through judgments",
-        "choices": [
-            "Supreme Court through judgments",
-            "Parliament through amendment",
-            "Law Commission of India",
-            "National Judicial Appointments Commission"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Collegium for appointment of Supreme Court judges consists of:",
-        "answer": "CJI + 4 senior-most SC judges",
-        "choices": [
-            "CJI + 4 senior-most SC judges",
-            "CJI + 2 senior-most SC judges",
-            "CJI + Law Minister + 2 senior-most SC judges",
-            "President + CJI + Attorney General"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which case established the primacy of the Chief Justice of India and introduced the Collegium System?",
-        "answer": "Second Judges Case (1993)",
-        "choices": [
-            "Second Judges Case (1993)",
-            "First Judges Case (1981)",
-            "Third Judges Case (1998)",
-            "Kesavananda Bharati Case (1973)"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The basic structure doctrine was established in which Supreme Court case?",
-        "answer": "Kesavananda Bharati Case (1973)",
-        "choices": [
-            "Kesavananda Bharati Case (1973)",
-            "Golaknath Case (1967)",
-            "Minerva Mills Case (1980)",
-            "Indira Sawhney Case (1992)"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Collegium System was expanded to include a 5-member body in which case?",
-        "answer": "Third Judges Case (1998)",
-        "choices": [
-            "Third Judges Case (1998)",
-            "First Judges Case (1981)",
-            "Second Judges Case (1993)",
-            "Indira Gandhi v. Raj Narain (1975)"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which judgment is called the “Election Case”, leading to the declaration of National Emergency in 1975?",
-        "answer": "Indira Gandhi v. Raj Narain (1975)",
-        "choices": [
-            "Indira Gandhi v. Raj Narain (1975)",
-            "First Judges Case (1981)",
-            "Second Judges Case (1993)",
-            "Third Judges Case (1998)"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which case is famously known as the “Habeas Corpus Case” during the Emergency (1976)?",
-        "answer": "ADM Jabalpur v. Shivkant Shukla (1976)",
-        "choices": [
-            "ADM Jabalpur v. Shivkant Shukla (1976)",
-            "Maneka Gandhi v. Union of India (1978)",
-            "Indira Gandhi v. Raj Narain (1975)",
-            "Minerva Mills v. Union of India (1980)"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Supreme Court is a ",
-        "answer": "Final Interpreter of the Constitution",
-        "choices": [
-            "Final Interpreter of the Constitution",
-            "Fedral Court",
-            "Protector of Human Rights",
-            "Civil Courts"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The current sanctioned strength of the Supreme Court of India is",
-        "answer": "34 Judges",
-        "choices": [
-            "34 Judges",
-            "30 Judges",
-            "28 Judges",
-            "24 Judges"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Supreme Court in India was established",
-        "answer": "by the Indian Constitution",
-        "choices": [
-            "by the Indian Constitution",
-            "by an act of Parliament in 1950",
-            "under Indian Independence Act, 147",
-            "under Indian Government Act, 1953"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Of the following statements, which one is not correct?",
-        "answer": "Supreme Court can hear from any High Court / Tribunals except Court-martial",
-        "choices": [
-            "Supreme Court can hear from any High Court / Tribunals except Court-martial",
-            "Supreme Court was constituted in 1950",
-            "Supreme Court is the highest Court of appeal in the country",
-            "Supreme Court can hear from any High Court/Tribunals as well as from Court-martial"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The power to increase the number of Judges in the Supreme Court of India is vested in",
-        "answer": "The Parliament",
-        "choices": [
-            "The Parliament",
-            "The President",
-            "The Chief Justice of India",
-            "The Law Commission"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who appoints the Judges of Supreme Court of India?",
-        "answer": "The President",
-        "choices": [
-            "The President",
-            "The Prime Minister",
-            "The Chief Justice of India",
-            "The Ombudsman"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is the retirement age of the Judges of the Supreme Court?",
-        "answer": "65 Years",
-        "choices": [
-            "65 Years",
-            "62 Years",
-            "60 Years",
-            "64 Years"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is the retirement age of the Judges of the High Court?",
-        "answer": "62 Years",
-        "choices": [
-            "62 Years",
-            "65 Years",
-            "60 Years",
-            "70 Years"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "A Judge of the Supreme Court may resign his office by writing to?",
-        "answer": "The President",
-        "choices": [
-            "The President",
-            "The Prime Minister",
-            "The Law Minister",
-            "The Attorney General of India"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The concept of Public Interest Litigation originated in the",
-        "answer": "United States",
-        "choices": [
-            "United States",
-            "United Kingdom",
-            "India",
-            "USSR"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who is the Constitutional Head of the State Governments?",
-        "answer": "Governor",
-        "choices": [
-            "Governor",
-            "Chief Minister",
-            "Speaker",
-            "High Court Judge"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Governor of a State is appointed by",
-        "answer": "President",
-        "choices": [
-            "President",
-            "The Chief Justice of the High",
-            "The Chief Justice of India",
-            "The Prime Minister"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "As per Indian Constitution, Legislature of States consits of",
-        "answer": "Governor, Legislative Assembly and Legislative Council where it exists",
-        "choices": [
-            "Governor, Legislative Assembly and Legislative Council where it exists",
-            "Legislative Assembly only",
-            "Legislative Council only",
-            "Governor and Legislative Council"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which is the Upper Chamber of State Legislatures in India?",
-        "answer": "Legislative Council",
-        "choices": [
-            "Legislative Council",
-            "Legislative Assembly",
-            "Rajya Sabha",
-            "Lok Sabha"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "In any State of India, Legislative Council can be created or can be abolished by",
-        "answer": "the Parliament as per Resolution passed by the Legislative Assembly of the State",
-        "choices": [
-            "the Parliament as per Resolution passed by the Legislative Assembly of the State",
-            "the Governor on the recommendation of the Council of Ministers",
-            "The Parliament",
-            "The President on the recommendation of the Governor of the State"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "If the Speaker of Legislative Assembly of a State wants to resign, he will give his resignation to",
-        "answer": "Deputy-Speaker",
-        "choices": [
-            "Deputy-Speaker",
-            "Chief Minister",
-            "Governor",
-            "President"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The members of a State Legislative Council are not chosen by which of the following categories of persons?",
-        "answer": "Industrialists",
-        "choices": [
-            "Industrialists",
-            "Members of the local bodies/panchayats",
-            "Teachers",
-            "Graduates"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The authority to determine the number of Judges in a High Court rests with which of the following entities:",
-        "answer": "The President",
-        "choices": [
-            "The President",
-            "The Chief Minister of the State",
-            "The Prime Minister",
-            "The Parliament"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "A High Court Judge addresses his letter of resignation to ",
-        "answer": "The President",
-        "choices": [
-            "The President",
-            "Chief Justice of India",
-            "Chief Justice of High Court",
-            "Governor of the State"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The mobile court in India is the brain child of",
-        "answer": "APJ Abdul Kalam",
-        "choices": [
-            "APJ Abdul Kalam",
-            "Rajeev Gandhi",
-            "Justice Bhagwati",
-            "Mrs Pratibha Patil"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following Constitutional Amendment in India made Judiciary subservient of Parliament?",
-        "answer": "42nd Amendment",
-        "choices": [
-            "42nd Amendment",
-            "43rd Amendment",
-            "40th Amendment",
-            "44th Amendment"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "In which year was Sarkaria Commission, empowered to recommend changes in Centre-State relations submitted its report?",
-        "answer": 1983,
-        "choices": [
-            1983,
-            1985,
-            1984,
-            1981
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The President can declare National Emergency on the basis of",
-        "answer": "Armed Rebellion",
-        "choices": [
-            "Armed Rebellion",
-            "External Aggression",
-            "War",
-            "All of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "According to which Article National Emergency may be declared by the president of India?",
-        "answer": "Article 352",
-        "choices": [
-            "Article 352",
-            "Article 370",
-            "Article 371",
-            "Article 395"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The proclamation of emergency at the first instance can be restricted to",
-        "answer": "6 months",
-        "choices": [
-            "6 months",
-            "3 months",
-            "15 days",
-            "One Year"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Mainly on whose advice the President's Rule is imposed in the State?",
-        "answer": "Governor",
-        "choices": [
-            "Governor",
-            "Chief Minister",
-            "Legislative Assembly",
-            "Chief Justice of High Court"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Under which one of the following Articles is the formation of Finance Commmission laid down?",
-        "answer": "Article 280",
-        "choices": [
-            "Article 280",
-            "Article 269",
-            "Article 265",
-            "Article 268"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Federal Finance Commission in India relates to",
-        "answer": "Finances between States and the Centre",
-        "choices": [
-            "Finances between States and the Centre",
-            "Finances among the States",
-            "Finances between the Centre and Local Self Governments",
-            "None of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "When was the Planning Commission established?",
-        "answer": "15th March, 1950",
-        "choices": [
-            "15th March, 1950",
-            "10th March, 1950",
-            "16th March, 1951",
-            "20th March, 1950"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who among the following is the CEO of the NITI Aayog?",
-        "answer": "BVR Subhramanyam",
-        "choices": [
-            "BVR Subhramanyam",
-            "Amitabh Kant",
-            "Cyrus Mistry",
-            "Soumya Kanti Ghosh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is the full form of NITI Aayog",
-        "answer": "National Institution for Transforming India",
-        "choices": [
-            "National Institution for Transforming India",
-            "National Internal Trade Information",
-            "National Intellectual Training Institute",
-            "None of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which Article in the Indian Constitution is related with the establishment of the Election Commission of India?",
-        "answer": "Article 324",
-        "choices": [
-            "Article 324",
-            "Article 148",
-            "Article 342",
-            "Article 325"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which Constitutional Amendment Act has added new provisions related to cooperative societies in fundamental rights and DPSPs of the Constitution of India?",
-        "answer": "97th Amendment",
-        "choices": [
-            "97th Amendment",
-            "96th Amendment",
-            "95th Amendment",
-            "94th Amendment"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "A bill for the amendment in Indian Constitution can be presented",
-        "answer": "either in Lok Sabha or Rajya Sabha",
-        "choices": [
-            "either in Lok Sabha or Rajya Sabha",
-            "Only in Rajya Sabha",
-            "Only in Lok Sabha",
-            "In the Supreme Court of India"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "When was the first Bill for the amendment of the Indian Constitution presented?",
-        "answer": 1951,
-        "choices": [
-            1951,
-            1950,
-            1955,
-            1958
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following Constitutional Amendment Acts was termed as Mini Constitution?",
-        "answer": "42nd Amendment",
-        "choices": [
-            "42nd Amendment",
-            "44th Amendment",
-            "46th Amendment",
-            "50th Amendment"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which Article of the Indian Constitution prescribes Hindi in Devanagari script as the Official language of the Union?",
-        "answer": "Article 343",
-        "choices": [
-            "Article 343",
-            "Article 341",
-            "Article 342",
-            "Article 346"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The number of official languages recognised by the constitution in the eight schedule is",
-        "answer": 22,
-        "choices": [
-            22,
-            18,
-            16,
-            20
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which one of the following was established as the first programme of community development?",
-        "answer": "National Extension Service",
-        "choices": [
-            "National Extension Service",
-            "Cooperation Movement",
-            "Integrated Rural Development Programme",
-            "Har Ghar Nal ka Jal"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The minimum age for contesting election to the Panchayati Raj Institutions is?",
-        "answer": "21 years",
-        "choices": [
-            "21 years",
-            "25 years",
-            "18 years",
-            "30 years"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Panchayati Raj was first introduced in",
-        "answer": "Rajasthan",
-        "choices": [
-            "Rajasthan",
-            "Andhra Pradesh",
-            "Uttar Pradesh",
-            "Himachal Pradesh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The decision to conduct Panchayat Elections is taken by which of the following?",
-        "answer": "State Government",
-        "choices": [
-            "State Government",
-            "Central Government",
-            "District Judge",
-            "Election Commission"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The subject of Panchayati Raj is in",
-        "answer": "State List",
-        "choices": [
-            "State List",
-            "Union List",
-            "Concurrent List",
-            "Residual List"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following functions is not the concern of Local Self-Government?",
-        "answer": "Maintenance of Public Order",
-        "choices": [
-            "Maintenance of Public Order",
-            "Public Health",
-            "Sanitation",
-            "Public Utility Services"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "73rd Amendment of the Constitution is related to",
-        "answer": "Panchayati Raj System",
-        "choices": [
-            "Panchayati Raj System",
-            "Impeachement of the President",
-            "The appointment of the election commission",
-            "Reservation of seats in educational institutions"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The legislative origins of the 73rd Constitutional Amendment Act can be traced back to which Constitutional Amendment Bill?",
-        "answer": "64th Constitutional Amendment Bill",
-        "choices": [
-            "64th Constitutional Amendment Bill",
-            "61st Constitutional Amendment Bill",
-            "62nd Constitutional Amendment Bill",
-            "63rd Constitutional Amendment Bill"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which of the following was constituted under the Panchayati Raj System?",
-        "answer": "Gram Panchayat",
-        "choices": [
-            "Gram Panchayat",
-            "Khap Panchayat",
-            "Caste Panchayat",
-            "Jan Panchayat"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which Article of Indian Constitution directs state Government to organise village Panchayats?",
-        "answer": "Article 40",
-        "choices": [
-            "Article 40",
-            "Article 32",
-            "Article 48",
-            "Article 51"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Panchayti Raj is organised as a unit of self government under",
-        "answer": "73rd Amendment of the Constitution",
-        "choices": [
-            "73rd Amendment of the Constitution",
-            "Fundamental Rights of the Indian Constitution",
-            "The preamble of the Indian Constitution",
-            "Directive Principles of State Policy"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is the main characterstic of Panchayati Raj system of Government?",
-        "answer": "All of these",
-        "choices": [
-            "All of these",
-            "It has three tiers of Government",
-            "It aims to give social and economic justice to villages",
-            "Some members of Parliament are as representatives in Zila Parishad"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "To review the financial position of Panchayats, the State Government constitutes every five years a/an",
-        "answer": "Finance Commission",
-        "choices": [
-            "Finance Commission",
-            "Finance Committee",
-            "Advisory Commission",
-            "Advisory Committee"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Panchayati Raj is mainly aimed at",
-        "answer": "Decentralisation of powers to villagers",
-        "choices": [
-            "Decentralisation of powers to villagers",
-            "Increasing rivalry among villagers",
-            "Giving training to villagers for contesting election",
-            "increasing revenue from the villagers"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "For successful functioning, Panchayati Raj needs full co-operation of ",
-        "answer": "Local Public",
-        "choices": [
-            "Local Public",
-            "Central Government",
-            "Bureuacrats",
-            "Politicians"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Panchayati Raj in India represents",
-        "answer": "Decentralisation of powers",
-        "choices": [
-            "Decentralisation of powers",
-            "Participation of the people",
-            "Community Development",
-            "All of these"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which one of the following is not the characterstic of decentralisation?",
-        "answer": "To instill non-confidence among local communities",
-        "choices": [
-            "To instill non-confidence among local communities",
-            "Autonomy",
-            "People's participation",
-            "to empower local communities"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Name the Committee which was set up by the NDC in 1957 for the reorganisation of CDP and NES, which suggested a three-tier system of rural local government",
-        "answer": "Balwant Rai Mehta Committee",
-        "choices": [
-            "Balwant Rai Mehta Committee",
-            "Ashok Mehta Committee",
-            "Maharashtra Committee on Democratic Decentralisation",
-            "Rural-Urban Relationship Committee"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Chairman of the Committee set up for the recommendation of Panchayati Raj in India was",
-        "answer": "Balwant Rai Mehta",
-        "choices": [
-            "Balwant Rai Mehta",
-            "BR Ambedkar",
-            "Jagjivan ram",
-            "Justice Krishna Ayer"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Panchayati Raj System was first started in India in the State of Rajasthan and ",
-        "answer": "Andhra Pradesh",
-        "choices": [
-            "Andhra Pradesh",
-            "Haryana",
-            "Gujarat",
-            "Uttar Pradesh"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Decentralisation System was recommended by",
-        "answer": "Balwant Rai Mehta",
-        "choices": [
-            "Balwant Rai Mehta",
-            "C Rajagopalachari",
-            "JB Kriplani",
-            "Ashok Mehta"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Ashok Mehta Committee recommended how many tiers of Panchayati Raj",
-        "answer": "Two-tier",
-        "choices": [
-            "Two-tier",
-            "Thre-tier",
-            "Single-tier",
-            "Multiple-tier"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which one of the following Committees/Commissions recommended the creation of Nyaya Panchayats?",
-        "answer": "Ashok Mehta Committee",
-        "choices": [
-            "Ashok Mehta Committee",
-            "Balwant Rai Mehta Committee",
-            "GVK Rao Committee",
-            "Sarkaria Comission"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which Constitutional Amendement granted Constitutional status to Panchayati Raj Institutions?",
-        "answer": "73rd Amdendment",
-        "choices": [
-            "73rd Amdendment",
-            "71st Amendment",
-            "70th Amritsar",
-            "75th Amendment"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which Article gives the list of 29 functions to be performed by the Panchayati Raj Institutions?",
-        "answer": "Article 243(G)",
-        "choices": [
-            "Article 243(G)",
-            "Article 243(H)",
-            "Article 243(F)",
-            "Article 243(E)"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which was the first state in India to provide 50% reservation for women in Panchayati Raj Institutions?",
-        "answer": "Bihar",
-        "choices": [
-            "Bihar",
-            "Tamil Nadu",
-            "Maharashtra",
-            "Madhya Prades"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The three-tier system of Panchayati Raj consits of ",
-        "answer": "Gram Panchayat, Panchayat Samiti, Zila Parishad",
-        "choices": [
-            "Gram Panchayat, Panchayat Samiti, Zila Parishad",
-            "Gram Panchayat, Panchayat Samit, Block Samiti",
-            "Gram Panchayat, Block Samiti, Zila Parishad",
-            "Block Samiti, Zila Parishad, Panchayat Samiti"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "A Panchayat Samiti at the block level in India is only a/an",
-        "answer": "Administrative Authority",
-        "choices": [
-            "Administrative Authority",
-            "Advisory Body",
-            "Consultative Committee",
-            "Coordinating and Supervisory Authority"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which is not among the powers of Panchayati Raj Insititutions in India?",
-        "answer": "Judicial Review",
-        "choices": [
-            "Judicial Review",
-            "Implementation of Land Reforms",
-            "Implementation of Poverty Allevation Programmes",
-            "Sanitation"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who among the following is land record officer?",
-        "answer": "Patwari",
-        "choices": [
-            "Patwari",
-            "Lambardar",
-            "Zamindar",
-            "Zaildar"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "At what level does a Panchayat Samiti operate a Panchayati Raj structure?",
-        "answer": "Block-level body",
-        "choices": [
-            "Block-level body",
-            "District Level",
-            "Gram Panchayat Level",
-            "State Level"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The National Human Rights Commission was set up in which year?",
-        "answer": 1993,
-        "choices": [
-            1993,
-            1992,
-            2003,
-            1983
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The right to Information in India is",
-        "answer": "Fundamental Right",
-        "choices": [
-            "Fundamental Right",
-            "Legal Right",
-            "Social Right",
-            "Directive Principle of State Policy"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who of the following was the Prime Minister of the country at the time of the formation of Mandal Commission in India?",
-        "answer": "Morarji Desai",
-        "choices": [
-            "Morarji Desai",
-            "Chaudhari Charan Singh",
-            "VP Singh",
-            "Indira Gandhi"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who among the following headed the two Boundary Commission set up to delineate the international frontiers between India and Pakistan in 1947?",
-        "answer": "Cyril Radcliffe",
-        "choices": [
-            "Cyril Radcliffe",
-            "Henry McMahon",
-            "AP Moon",
-            "AV Alexander"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Sikkim became a full-fledged State of the Union of India in",
-        "answer": 1975,
-        "choices": [
-            1975,
-            1974,
-            1976,
-            1977
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who was the Chairman of the First Law Commission in Independent India?",
-        "answer": "MC Setalvad",
-        "choices": [
-            "MC Setalvad",
-            "JL Kapur",
-            "VK Sunadaram",
-            "TV Venkatarama Aiyar"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Aritcle 300 of the Indian Constitution deal with",
-        "answer": "Suits and Proceedings",
-        "choices": [
-            "Suits and Proceedings",
-            "Government Contracts",
-            "Attorney General",
-            "Restriction on trade and commerce"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The division of each State into territorial constituencies for the Lok Sabha is done by Delimitation Commission. This delimitation has been freezed till which year?",
-        "answer": 2026,
-        "choices": [
-            2026,
-            2027,
-            2025,
-            2028
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Amnesty International is an organisation associated with",
-        "answer": "Protection of Human Rights",
-        "choices": [
-            "Protection of Human Rights",
-            "Protection of Women's Right",
-            "Abolition of Untouchability",
-            "Protection of Animal Rights"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "The power to recruit the Secretarial staff of the House of the People is vested in",
-        "answer": "President after consultation with the speaker of the House of the people",
-        "choices": [
-            "President after consultation with the speaker of the House of the people",
-            "Union Public Service Commission",
-            "Prime Minister's Office",
-            "Staff Selection Commission"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Attorney General of India:",
-        "answer": "He gives advice to the President on legal matters",
-        "choices": [
-            "He gives advice to the President on legal matters",
-            "is not entitled of audience except the Supreme Court",
-            "cannot participate in the proceedings in the House of Parliament",
-            "is a whole time counsel for the government"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is true about the proceedings of the State Legislature?",
-        "answer": "Business in the legislature shall be transacted only in official language of the state or in Hindi or in English",
-        "choices": [
-            "Business in the legislature shall be transacted only in official language of the state or in Hindi or in English",
-            "Advocate General has right to vote",
-            "It can discuss the conduct of any judge of the High Court also",
-            "Validity of proceedings shall be called in question on the ground of any alleged irregularity"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who among the following determines the qualification which shall be requisite for appointment as member of the finance commission?",
-        "answer": "Parliament by act",
-        "choices": [
-            "Parliament by act",
-            "Council of Ministers",
-            "President of India",
-            "Union Cabinet"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Who is empowered to review financial position of the Panchayats?",
-        "answer": "Finance Commission constituted by the Governor",
-        "choices": [
-            "Finance Commission constituted by the Governor",
-            "Chairman of Block Committee",
-            "Chief Minister",
-            "Chairman of District Council"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "What is the main purpose of Panchayati Raj?",
-        "answer": "To enable people to participate in development administration",
-        "choices": [
-            "To enable people to participate in development administration",
-            "to increase employment",
-            "to increase agriculture production",
-            "to increase people's political awareness"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which one of the following subjects fall within the jurisdiction of both High Court and Supreme Court?",
-        "answer": "Protection of Fundamental Rights",
-        "choices": [
-            "Protection of Fundamental Rights",
-            "Dispute among States",
-            "Dispute between Centre and State",
-            "Protection from the violation of the constitution"
-        ],
-        "information": ""
-    },
-    {
-        "sheet": "Polity",
-        "question": "Which landmark case described the Preamble as an integral part of the Constitution?",
-        "answer": "Kesavananda Bharati Case",
-        "choices": [
-            "Kesavananda Bharati Case",
-            "Golaknath Case",
-            "Minerva Mills Case",
-            "S.R. Bommai Case"
-        ],
-        "information": "In 1973, the Supreme Court held that the Preamble is part of the Constitution and plays a role in interpreting it, also laying down the Basic Structure Doctrine."
-    },
-    {
-        "sheet": "Polity",
-        "question": "The Preamble of the Indian Constitution declares India a:",
-        "answer": "Sovereign, Socialist, Secular, Democratic Republic",
-        "choices": [
-            "Sovereign, Socialist, Secular, Democratic Republic",
-            "Sovereign, Democratic, Socialist Republic",
-            "Socialist, Secular, Republic",
-            "Sovereign, Federal, Republic"
-        ],
-        "information": "The 42nd Amendment (1976) added the words Socialist and Secular. The Preamble outlines the identity and values of the Indian Republic."
-    },
-    {
-        "sheet": "Polity",
-        "question": "What was the total number of members in the Constituent Assembly after the partition?",
-        "answer": 299,
-        "choices": [
-            299,
-            389,
-            385,
-            250
-        ],
-        "information": "Originally 389, but reduced to 299 after partition as seats belonging to Pakistan were removed."
-    }
+  {
+    "qid": "Q01400",
+    "question": "The first session of Constituent Assembly was held on",
+    "answer": "9th December 1946",
+    "choices": [
+      "9th December 1946",
+      "15th August 1947",
+      "26th November 1949",
+      "26th January 1946"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01401",
+    "question": "Indian Constitution was adopted by the Constituent Assembly on",
+    "answer": "26th Novemeber 1949",
+    "choices": [
+      "26th Novemeber 1949",
+      "26th Novemeber 1950",
+      "26th January 1950",
+      "15th August 1949"
+    ],
+    "information": "This is the exact date of adoption. It became effective (came into force) on 26 January 1950 to align with the anniversary of the 1930 Purna Swaraj Declaration.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01402",
+    "question": "January 26 was selected as the date for the inaugaration of the Constitution, because",
+    "answer": "The Congress had observed it as the Independence Day in 1930",
+    "choices": [
+      "The Congress had observed it as the Independence Day in 1930",
+      "It was considered to be an auspicious day",
+      "On that day the Quit India Movement was started in 1942",
+      "MK Gandhi returned to India on that day"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01403",
+    "question": "Who of the following was the chairman of the Provincial Constitution Committee of the Constituent Assembly of India",
+    "answer": "Sardar Vallabhbhai Patel",
+    "choices": [
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Bhim Rao Ambedkar",
+      "K. M. Munshi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01404",
+    "question": "Who was the labour Minister in Jawaharlal Nehru's Provisional Government?",
+    "answer": "Jagjivan Ram",
+    "choices": [
+      "Jagjivan Ram",
+      "Rajendra Prasad",
+      "Aruna Asaf Ali",
+      "C. Rajgopalachari"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01405",
+    "question": "Indian Constitution was adopted by",
+    "answer": "Constituent Assembly",
+    "choices": [
+      "Constituent Assembly",
+      "British Parliament",
+      "Governor-General",
+      "Indian Parliament"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01406",
+    "question": "Constitution Day of India is celebrated on",
+    "answer": "26th Novemeber",
+    "choices": [
+      "26th Novemeber",
+      "26th January",
+      "15th August",
+      "14th August"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01407",
+    "question": "Who was the President of Indian National Congress at the time of partition of India?",
+    "answer": "J. B. Kripalani",
+    "choices": [
+      "J. B. Kripalani",
+      "Jawaharlal Nehru",
+      "Maulana Abul Kalam Azad",
+      "C. Rajgopalachari"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01408",
+    "question": "In Indian political system which one is supereme?",
+    "answer": "The Constitution",
+    "choices": [
+      "The Constitution",
+      "The Supreme Court",
+      "The President",
+      "The Parliament"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01409",
+    "question": "Which of the following subject lies in the concurrent list?",
+    "answer": "Education",
+    "choices": [
+      "Education",
+      "Police",
+      "Defence",
+      "Agriculture"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01410",
+    "question": "Constitution Tenth schedule relates to",
+    "answer": "Anti-Defection Law",
+    "choices": [
+      "Anti-Defection Law",
+      "National Language of India",
+      "Administration of SC and ST Area",
+      "Judicial Review"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01411",
+    "question": "Land Reform comes under the subjects of",
+    "answer": "State List",
+    "choices": [
+      "State List",
+      "Union List",
+      "Concurrent List",
+      "National List"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01412",
+    "question": "Which of the following is not a part in the Eleventh Schedule of the Constitution?",
+    "answer": "Rural Sports",
+    "choices": [
+      "Rural Sports",
+      "Libraries",
+      "Fuel and Fodder",
+      "Technical Training"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01413",
+    "question": "What was the duration in the making of the Indian Constitution?",
+    "answer": "2 years 11 monts and 18 days",
+    "choices": [
+      "2 years 11 monts and 18 days",
+      "1 years 11 monts and 18 days",
+      "3 years 11 monts and 18 days",
+      "2 years 10 monts and 18 days"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01414",
+    "question": "The provision of amending the constitutional provision is given in",
+    "answer": "Part XX Article 368",
+    "choices": [
+      "Part XX Article 368",
+      "Part XIX Article 356",
+      "Part XX Article 356",
+      "Part XXI Article 368"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01415",
+    "question": "Which one of the following characterstics is not true for unitary form of Government?",
+    "answer": "Ideal for large countries",
+    "choices": [
+      "Ideal for large countries",
+      "Flexible",
+      "Swift Decision",
+      "Uniformity of Laws"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01416",
+    "question": "The Democracy of India is based on the fact that",
+    "answer": "Public enjoys the right to choose and change the Government",
+    "choices": [
+      "Public enjoys the right to choose and change the Government",
+      "Fundamental Rights have been provided",
+      "The Constitution is written",
+      "Directive Principles of State policy have been provided for here"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01417",
+    "question": "Which one of the following statements is correct regarding parliamentary form of government?",
+    "answer": "Executive is responsible to the legislature",
+    "choices": [
+      "Executive is responsible to the legislature",
+      "The legislature is responsible to Executive",
+      "The Legislative and the Executive are independent",
+      "The Legislature is responsible to Judiciary"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01418",
+    "question": "What is the nature of the Indian Constitution",
+    "answer": "Federal in nature but unitary in spirit",
+    "choices": [
+      "Federal in nature but unitary in spirit",
+      "Federal",
+      "Unitary",
+      "Parliamentary"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01419",
+    "question": "After Independence, in which year were the Indian states reorganised on the linguistic basis?",
+    "answer": "1956",
+    "choices": [
+      "1956",
+      "2000",
+      "1947",
+      "1950"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01420",
+    "question": "The Chief Minister of Union Territory, where such a setup exists, is appointed by the",
+    "answer": "President",
+    "choices": [
+      "President",
+      "Governor",
+      "Lieutenant Governor",
+      "Chief Justice of India"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01421",
+    "question": "Creation of a new state requires which majority for Consitutional Amendment.",
+    "answer": "Simple",
+    "choices": [
+      "Simple",
+      "Two-third",
+      "Three-fourth",
+      "Two-third plus ratification by half of all states"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01422",
+    "question": "Delhi is a/an",
+    "answer": "Union Territory",
+    "choices": [
+      "Union Territory",
+      "State",
+      "Autonomous Council",
+      "Dominion"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01423",
+    "question": "Sikkim became an associate state of India under",
+    "answer": "35th Amendment",
+    "choices": [
+      "35th Amendment",
+      "45th Amendment",
+      "42nd Amendment",
+      "36th Amendment"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01424",
+    "question": "On which day Sikkim gained full statehood in India",
+    "answer": "16th May 1975",
+    "choices": [
+      "16th May 1975",
+      "15th May 1975",
+      "16th June 1975",
+      "15th July 1975"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01425",
+    "question": "In which year did the state of Jharkhand come into existence?",
+    "answer": "2000",
+    "choices": [
+      "2000",
+      "1975",
+      "1956",
+      "1987"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01426",
+    "question": "Bihar as an Indian State was formed in",
+    "answer": "1912",
+    "choices": [
+      "1912",
+      "1956",
+      "1987",
+      "1911"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01427",
+    "question": "The phrase equality before law used in Article 14 of the Indian Constitution has been borrowed from the Constitution of",
+    "answer": "Britain",
+    "choices": [
+      "Britain",
+      "USA",
+      "France",
+      "Canada"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01428",
+    "question": "The phrase equality protection of law used in Article 14 of the Indian Constitution has been borrowed from the Constitution of",
+    "answer": "USA",
+    "choices": [
+      "USA",
+      "Britain",
+      "France",
+      "Canada"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01429",
+    "question": "From which country, the Indian Constitution has taken reference for the idea of the Fundamental Rights?",
+    "answer": "United States of America",
+    "choices": [
+      "United States of America",
+      "Ireland",
+      "United Kingdom",
+      "Canada"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01430",
+    "question": "Which of the following is given the power to enforce the Fundamental Rights by the Constitution?",
+    "answer": "The Supreme Court and High Courts",
+    "choices": [
+      "The Supreme Court and High Courts",
+      "All Courts in India",
+      "The Parliament",
+      "The President"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01431",
+    "question": "What is meant by Rule of Law",
+    "answer": "One act for all and one judiciary for all",
+    "choices": [
+      "One act for all and one judiciary for all",
+      "One act for all and one state for all",
+      "One state for all and one judicary for all",
+      "All acts for one and one judiciary for all"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01432",
+    "question": "The description of Fundamental Rights for the Indian cititzens is in",
+    "answer": "Article 12 to 35",
+    "choices": [
+      "Article 12 to 35",
+      "Article 25 to 50",
+      "Article 16 to 40",
+      "Article 15 to 39"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01433",
+    "question": "Supreme Court's judgement of Indra Sawhney vs Union of India Case is related to which issue?",
+    "answer": "Regarding OBC reservation in Government Employment",
+    "choices": [
+      "Regarding OBC reservation in Government Employment",
+      "Doctrine of Basic Structure of Constitution",
+      "Reservation on promotion of SC",
+      "Extended reservation for ST"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01434",
+    "question": "Which article of the Constitution of India is related with the Freedom of Press.",
+    "answer": "Article 19",
+    "choices": [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01435",
+    "question": "Which of the following can a court issue for enforcement of the Fundamental Rights?",
+    "answer": "Writ",
+    "choices": [
+      "Writ",
+      "Decree",
+      "Ordinance",
+      "Bill"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01436",
+    "question": "Which of the following is not a fundamental right?",
+    "answer": "Right to Property",
+    "choices": [
+      "Right to Property",
+      "Right to Constitutional Remedy",
+      "Right to Peaceful Assembly",
+      "Right to free movement all over the country"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01437",
+    "question": "The Supreme Court has held that hoisting the National Flag atop the private buildings is a fundamental right of every citizen under",
+    "answer": "Article 19",
+    "choices": [
+      "Article 19",
+      "Article 14",
+      "Article 21",
+      "Article 25"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01438",
+    "question": "Which of the following rights conferred by the Constitution of India is also available to non-citizens?",
+    "answer": "Right to Constitutional Remedies",
+    "choices": [
+      "Right to Constitutional Remedies",
+      "Freedom of Speech",
+      "Freedom to move and settle in any part of the country",
+      "Freedom to accquire property"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01439",
+    "question": "When was the Right to Education added through the amendment in the Constitution of India?",
+    "answer": "1st April 2010",
+    "choices": [
+      "1st April 2010",
+      "1st August 2010",
+      "2nd October 2010",
+      "1st December 2010"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01440",
+    "question": "Untouchability is abolished by which article of the Indian Constitution?",
+    "answer": "Article 17",
+    "choices": [
+      "Article 17",
+      "Article 19",
+      "Article 15",
+      "Article 14"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01441",
+    "question": "Which part of the Indian Constitution contains the Directive Principles of State Policy?",
+    "answer": "Part IV",
+    "choices": [
+      "Part IV",
+      "Part III",
+      "Part V",
+      "Part VI"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01442",
+    "question": "How are Directive Principles of State Policy different from Fundamental Rights?",
+    "answer": "DPSPs are not enforceable while Fundamental Rights are enforceable",
+    "choices": [
+      "DPSPs are not enforceable while Fundamental Rights are enforceable",
+      "DPSPs are enforceable by courts, while Fundamental Rights are not.",
+      "DPSPs are not part of Constitution while Fundamental Rights are",
+      "DPSPs are part of Constitution while Fundamental Rights are not"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01443",
+    "question": "The concept of welfare state included in the Constitution of India in the",
+    "answer": "Directive Principles of State Policy",
+    "choices": [
+      "Directive Principles of State Policy",
+      "Fourth Schedule of the Constitution",
+      "Fundamental Rights",
+      "Preamble of Constitution"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01444",
+    "question": "Panchayat Raj System in India is laid down under",
+    "answer": "Directive Principles of State Policy",
+    "choices": [
+      "Directive Principles of State Policy",
+      "Fundamental Rights",
+      "Fundamental Duties",
+      "Election Commission Act"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01445",
+    "question": "The Ministry of Panchayati Raj was created in the Central Government of India in",
+    "answer": "2004",
+    "choices": [
+      "2004",
+      "2001",
+      "2000",
+      "2003"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01446",
+    "question": "Which one of the following Articles directs the State to organise the Panchayats?",
+    "answer": "Article 40",
+    "choices": [
+      "Article 40",
+      "Aritcle 50",
+      "Article 33",
+      "Article 36"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01447",
+    "question": "The concept of Directive Principles of State Policy in the Indian Constitution was borrowed from the Constitution of",
+    "answer": "Ireland",
+    "choices": [
+      "Ireland",
+      "Switzerland",
+      "England",
+      "United States of America"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01448",
+    "question": "Fundamental Duties are laid down in",
+    "answer": "42nd Amendment",
+    "choices": [
+      "42nd Amendment",
+      "43rd Amendment",
+      "40th Amendment",
+      "39th Amendment"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01449",
+    "question": "The 10 commandments, which were added in 42nd Amendment Act in Constitution of India, are called as",
+    "answer": "Fundamental Duties",
+    "choices": [
+      "Fundamental Duties",
+      "Fundamental Rights",
+      "Panchayati Raj Principles",
+      "Directive Principles of State Policy"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01450",
+    "question": "Which one of the following is a Fundamental Duty in India?",
+    "answer": "To value and preserve the rich heritage of our composite culture",
+    "choices": [
+      "To value and preserve the rich heritage of our composite culture",
+      "Separation of judiciary from executive",
+      "Free and compulsory education",
+      "Abolition of Untouchability"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01451",
+    "question": "Electoral College for the election of the President of India consits of",
+    "answer": "All elected members of both members of Parliament and elected members of the State Legislative Assemblies",
+    "choices": [
+      "All elected members of both members of Parliament and elected members of the State Legislative Assemblies",
+      "All the elected members of the Rajya Sabha",
+      "All the elected members of the Lok Sabha",
+      "All the members of the State Legislative Assemblies"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01452",
+    "question": "If there is any dispute regarding the Presidential election, it can be referred to",
+    "answer": "Supreme Court of India",
+    "choices": [
+      "Supreme Court of India",
+      "Attorney General of India",
+      "Parliament",
+      "Special Tribunal"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01453",
+    "question": "The president of India can be removed from his post by",
+    "answer": "Parliament",
+    "choices": [
+      "Parliament",
+      "Chief Justice of India",
+      "The Prime Minister of India",
+      "Lok Sabha"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01454",
+    "question": "If the position of President and Vice-President are vacant, who officiates as the President of India?",
+    "answer": "Chief Justice of India",
+    "choices": [
+      "Chief Justice of India",
+      "Prime Minister",
+      "Speaker of Lok Sabha",
+      "Chairman of Rajya Sabha"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01455",
+    "question": "The Indian President is eligible for re-election for how many times?",
+    "answer": "Any number of times",
+    "choices": [
+      "Any number of times",
+      "Once",
+      "Twice",
+      "Thrice"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01456",
+    "question": "Who is the Executive Head of State in India?",
+    "answer": "President",
+    "choices": [
+      "President",
+      "Prime Minister",
+      "Leader of the Opposition",
+      "Chief Secretary, Government of India"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01457",
+    "question": "Who of the following has been vested with the executive powers  of the central government under the constitution of India?",
+    "answer": "President",
+    "choices": [
+      "President",
+      "Prime Minister",
+      "Central Cabinet",
+      "All of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01458",
+    "question": "President of India exercises his powers",
+    "answer": "either directly or through officers subordinate to him",
+    "choices": [
+      "either directly or through officers subordinate to him",
+      "through ministers",
+      "through Prime Minister",
+      "through Cabinet"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01459",
+    "question": "The President",
+    "answer": "is a part of Parliament",
+    "choices": [
+      "is a part of Parliament",
+      "is not a part of parliament",
+      "is a part of parliament and sits in the parliament",
+      "can vote in parliament"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01460",
+    "question": "The Constitution doesn't empower the President of India with the right of",
+    "answer": "Appointment of Chief Minister in states",
+    "choices": [
+      "Appointment of Chief Minister in states",
+      "Appointment of Prime Minister",
+      "Being the supreme commander of Defence Forces",
+      "Executing emergency in any part of the country"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01461",
+    "question": "The first President of Independent India - Rajendra Prasad belonged to which state",
+    "answer": "Bihar",
+    "choices": [
+      "Bihar",
+      "Uttar Pradesh",
+      "Andhra Pradesh",
+      "Tamil Nadu"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01462",
+    "question": "Who was among the following to receive first Bharat Ratna?",
+    "answer": "Sarvapalli Radhakrishnan",
+    "choices": [
+      "Sarvapalli Radhakrishnan",
+      "Jawaharlal Nehru",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01463",
+    "question": "A bill presented in Parliament becomes an Act after",
+    "answer": "the President has given his assent",
+    "choices": [
+      "the President has given his assent",
+      "It is passed by both the houses of Parliament",
+      "the Prime Minister has signed it",
+      "the Supreme Court has declared it to be within the competence of the Union-Parliament"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01464",
+    "question": "Who among the following had been the first unopposed and unanimously elected President of India?",
+    "answer": "Neelam Sanjeeva Reddy",
+    "choices": [
+      "Neelam Sanjeeva Reddy",
+      "Savapalli Radhakrishnan",
+      "Rajendra Prasad",
+      "Zakir Hussain"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01465",
+    "question": "What is the minimum age to be eligible for contesting election of President in India?",
+    "answer": "35 years",
+    "choices": [
+      "35 years",
+      "25 years",
+      "32 years",
+      "21 years"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01466",
+    "question": "What is the minimum age to be eligible for contesting election of Vice-President in India?",
+    "answer": "35 years",
+    "choices": [
+      "35 years",
+      "25 years",
+      "32 years",
+      "21 years"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01467",
+    "question": "To whom does the President of India address his resignation letter?",
+    "answer": "Vice-President",
+    "choices": [
+      "Vice-President",
+      "Chief Justice",
+      "Prime Minister",
+      "Speaker of Lok Sabha"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01468",
+    "question": "To whom does the Vice-President of India address his resignation letter?",
+    "answer": "President",
+    "choices": [
+      "President",
+      "Chief Justice",
+      "Prime Minister",
+      "Speaker of Rajya Sabha"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01469",
+    "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+    "answer": "Vice-President",
+    "choices": [
+      "Vice-President",
+      "President",
+      "Prime Minister",
+      "Chief Justice of India"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01470",
+    "question": "Electoral College for the 17th Vice Presidential Election of India for 2025 consists of how many members?",
+    "answer": "788 members",
+    "choices": [
+      "788 members",
+      "543 members",
+      "245 members",
+      "565 members"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01471",
+    "question": "The serial number of next Vice-President of India will be",
+    "answer": "17th",
+    "choices": [
+      "17th",
+      "16th",
+      "15th",
+      "18th"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01472",
+    "question": "The Council of Ministers is responsible to the",
+    "answer": "Lok Sabha",
+    "choices": [
+      "Lok Sabha",
+      "President",
+      "Prime Minister",
+      "Rajya Sabha"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01473",
+    "question": "The Council of Ministers shall hold office during the pleasure of the",
+    "answer": "President",
+    "choices": [
+      "President",
+      "Prime Minister",
+      "Speaker of Lok Sabha",
+      "Chief Justice of India"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01474",
+    "question": "The Prime Minister of India is responsible to the",
+    "answer": "Lok Sabha",
+    "choices": [
+      "Lok Sabha",
+      "President",
+      "Prime Minister",
+      "Rajya Sabha"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01475",
+    "question": "Who administers the oaths of office and secrecy to Prime Minister?",
+    "answer": "President",
+    "choices": [
+      "President",
+      "Chief Justice of India",
+      "Speaker of Lok Sabha",
+      "Vice-President"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01476",
+    "question": "Who administers the oaths of office and secrecy to Vice-President?",
+    "answer": "President",
+    "choices": [
+      "President",
+      "Chief Justice of India",
+      "Speaker of Rajya Sabha",
+      "Prime Minister"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01477",
+    "question": "Who administers the oaths of office and secrecy to the President?",
+    "answer": "Chief Justice of India",
+    "choices": [
+      "Chief Justice of India",
+      "Vice-President",
+      "Speaker of Rajya Sabha",
+      "Prime Minister"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01478",
+    "question": "The word Matrimandal (Cabinet) is mentioned is which article?",
+    "answer": "Article 352",
+    "choices": [
+      "Article 352",
+      "Article 356",
+      "Article 75",
+      "Article 74"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01479",
+    "question": "Who is the highest Civil Services Officers of the Central Government?",
+    "answer": "Cabinet Secretary",
+    "choices": [
+      "Cabinet Secretary",
+      "Attorney General of India",
+      "Home Secretary",
+      "Finance Secretary"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01480",
+    "question": "Which of the following Constitutional Amendment Act resitricted the size of the Council of Ministers to 15 percent of the total members of the Lok Sabha?",
+    "answer": "91st Amendment, 2003",
+    "choices": [
+      "91st Amendment, 2003",
+      "95th Amendment, 2009",
+      "93rd Amendment, 2005",
+      "90th Amendment, 2002"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01481",
+    "question": "Who advises the Government of India on legal matters?",
+    "answer": "Attorney General",
+    "choices": [
+      "Attorney General",
+      "Comptroller & Auditor General",
+      "Chief Justice of the Supreme Court",
+      "Chairman, Law Commission"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01482",
+    "question": "Which officer of the Government of India has the right to take part in the proceedings of Parliament of India even though he is not a member?",
+    "answer": "Attorney General",
+    "choices": [
+      "Attorney General",
+      "Comptroller & Auditor General",
+      "Vice-President",
+      "Election Commissioner"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01483",
+    "question": "Who advises the State Government on legal matters?",
+    "answer": "Advocate-General",
+    "choices": [
+      "Advocate-General",
+      "Attorney General",
+      "Solicitor General",
+      "Chief Justice of the High Court"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01484",
+    "question": "The Parliament's expenditure is controlled by the",
+    "answer": "Comptroller & Auditor General",
+    "choices": [
+      "Comptroller & Auditor General",
+      "President",
+      "NITI Aayog",
+      "Finance Commission"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01485",
+    "question": "Lok Sabha can be dissolved before the completion of its term",
+    "answer": "by the president on the recommendation of the Prime Minister",
+    "choices": [
+      "by the president on the recommendation of the Prime Minister",
+      "at the discretion of the President",
+      "at the discretion of the Prime Minister",
+      "at the discretion of the speaker of Lok Sabha"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01486",
+    "question": "What is the minimum age laid down for a person to seek election to the Lok Sabha?",
+    "answer": "25 years",
+    "choices": [
+      "25 years",
+      "30 years",
+      "35 years",
+      "20 years"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01487",
+    "question": "What is the minimum age laid down for a member of the Parliament?",
+    "answer": "25 years",
+    "choices": [
+      "25 years",
+      "30 years",
+      "35 years",
+      "20 years"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01488",
+    "question": "What is the minimum age laid down for a member of the Rajya Sabha?",
+    "answer": "30 years",
+    "choices": [
+      "30 years",
+      "25 years",
+      "35 years",
+      "20 years"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01489",
+    "question": "Generally how many sessions are there in the Lok Sabha?",
+    "answer": "Three",
+    "choices": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01490",
+    "question": "A candidate of Lok Sabha poll loses his security amount if he/she does not get",
+    "answer": "one-sixth of valid votes",
+    "choices": [
+      "one-sixth of valid votes",
+      "one-third of valid votes",
+      "one-fourth of valid votes",
+      "one-fifth of valid votes"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01491",
+    "question": "The state-wise allocation of seats in Lok Sabha is based on the 1971 Census. Up to which year does this remain intact?",
+    "answer": "2026",
+    "choices": [
+      "2026",
+      "2025",
+      "2031",
+      "2047"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01492",
+    "question": "Presently the number of seats each state in Lok Sabha is allotted on the basis of",
+    "answer": "Census of 1971",
+    "choices": [
+      "Census of 1971",
+      "Census of 1951",
+      "Census of 1961",
+      "Census of 1981"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01493",
+    "question": "The Fifth Schedule deals with the governance and protection of which specific group of people?",
+    "answer": "Scheduled Tribes",
+    "choices": [
+      "Scheduled Tribes",
+      "Scheduled Castes",
+      "Religious Minorities",
+      "Linguistic Minorities"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01494",
+    "question": "In which Article of the Constitution of India was the provision for reservation of scheduled castes in Lok Sabha made?",
+    "answer": "Article 330",
+    "choices": [
+      "Article 330",
+      "Article 331",
+      "Article 332",
+      "Article 333"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01495",
+    "question": "Session of Lok Sabha is called for at least",
+    "answer": "two times in a year",
+    "choices": [
+      "two times in a year",
+      "three times in a year",
+      "once in a year",
+      "four times in a year"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01496",
+    "question": "Which State sends the largest number of members in Lok Sabha?",
+    "answer": "Uttar Pradesh",
+    "choices": [
+      "Uttar Pradesh",
+      "Maharashtra",
+      "Bihar",
+      "West Bengal"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01497",
+    "question": "So long as the representation in Lok Sabha is concerned, which states rank second and third?",
+    "answer": "Maharashtra & West Bengal",
+    "choices": [
+      "Maharashtra & West Bengal",
+      "Bihar & Maharashtra",
+      "Madhya Pradesh & Tamil Nadu",
+      "Bihar & Tamil Nadu"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01498",
+    "question": "First General Election of Lok Sabha was held in",
+    "answer": "1952",
+    "choices": [
+      "1952",
+      "1950",
+      "1946",
+      "1947"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01499",
+    "question": "Who is the leader of the Lok Sabha?",
+    "answer": "Prime Minister",
+    "choices": [
+      "Prime Minister",
+      "President",
+      "Speaker",
+      "Whip"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01500",
+    "question": "A seat of an MP can be declared vacant if he absents himself from the house for a continous period of",
+    "answer": "60 days",
+    "choices": [
+      "60 days",
+      "30 days",
+      "45 days",
+      "90 days"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01501",
+    "question": "Speaker of the Lok Sabha is elected by",
+    "answer": "all members of Lok Sabha",
+    "choices": [
+      "all members of Lok Sabha",
+      "all members of parliament",
+      "public directly",
+      "the members of party in majority"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01502",
+    "question": "The Attorney General of India is appointed by the",
+    "answer": "President",
+    "choices": [
+      "President",
+      "Law Minister",
+      "Speaker of the Lok Sabha",
+      "Prime Minister"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01503",
+    "question": "The Rajya Sabha consits of",
+    "answer": "250 members of which 12 are nominated",
+    "choices": [
+      "250 members of which 12 are nominated",
+      "280 members of which 20 are nominated",
+      "275 members of which 18 are nominated",
+      "252 members of which 12 are nominated"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01504",
+    "question": "Maximum members in The Lok Sabha",
+    "answer": "550",
+    "choices": [
+      "550",
+      "530",
+      "543",
+      "545"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01505",
+    "question": "The Representation of States in Council of States is based on",
+    "answer": "ratio of their Population",
+    "choices": [
+      "ratio of their Population",
+      "ratio of their revenue",
+      "ratio of their area",
+      "equal for all states"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01506",
+    "question": "Member of Rajya Sabha is elected for",
+    "answer": "6 years",
+    "choices": [
+      "6 years",
+      "5 years",
+      "4 years",
+      "life long"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01507",
+    "question": "Member of Lok Sabha is elected for",
+    "answer": "5 years",
+    "choices": [
+      "5 years",
+      "6 years",
+      "4 years",
+      "life long"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01508",
+    "question": "According to our Constitution, the Rajya Sabha",
+    "answer": "is not subject to dissolution",
+    "choices": [
+      "is not subject to dissolution",
+      "is dissolved once in two years",
+      "is dissolved once in five years",
+      "is dissolved once in six years"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01509",
+    "question": "Right to dissolve the Rajya Sabha is vested in",
+    "answer": "None of these",
+    "choices": [
+      "None of these",
+      "President",
+      "Vice-President",
+      "Supreme Court"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01510",
+    "question": "The number of members nominated by the President in Rajya Sabha is",
+    "answer": "12",
+    "choices": [
+      "12",
+      "10",
+      "11",
+      "20"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01511",
+    "question": "In which House is the presiding officer not a member of that House?",
+    "answer": "Rajya Sabha",
+    "choices": [
+      "Rajya Sabha",
+      "Lok Sabha",
+      "Vidhan Sabha",
+      "Vidhan Parishad"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01512",
+    "question": "Under which Article, the speaker can allow any member of the House to speak in his/her mother tongue?",
+    "answer": "Article 120",
+    "choices": [
+      "Article 120",
+      "Article 110",
+      "Article 122",
+      "Article 115"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01513",
+    "question": "What can be the maximum interval between the two consecutive sessions of Parliament?",
+    "answer": "six months",
+    "choices": [
+      "six months",
+      "12 months",
+      "3 months",
+      "9 months"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01514",
+    "question": "Zero Hour in political jargon refers to",
+    "answer": "Question-Answer Session",
+    "choices": [
+      "Question-Answer Session",
+      "Suspended Motion",
+      "Adjourned Time",
+      "Day when no business in parliament is done"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01515",
+    "question": "Joint session of both Houses of Parliament is concerned",
+    "answer": "to discuss and pass sucha a bill where both Houses have different opinion",
+    "choices": [
+      "to discuss and pass sucha a bill where both Houses have different opinion",
+      "for the election of the President of India",
+      "for the election of the vice-president of India",
+      "to pass the bill relating to the amendment of Constitution"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01516",
+    "question": "Money Bill can be presented",
+    "answer": "Only in Lok Sabha",
+    "choices": [
+      "Only in Lok Sabha",
+      "Only in Rajya Sabha",
+      "In both the Houses",
+      "in joint meeting of both the Houses"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01517",
+    "question": "Of the following statements, which one is not correct?",
+    "answer": "Money bill is introduced in the Rajya Sabha",
+    "choices": [
+      "Money bill is introduced in the Rajya Sabha",
+      "The Rajya Sabha is powerless in money matters",
+      "The Rajya Sabha has to pass the Money Bill within 14 days after it has been passed by the Lok Sabha",
+      "The Rajya Sabha may pass or return the Money Bill with some recommendations to the Lok Sabha"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01518",
+    "question": "Vote on Account is meant for",
+    "answer": "Appropriating funds pending passing of budget",
+    "choices": [
+      "Appropriating funds pending passing of budget",
+      "vote on the report of CAG",
+      "to meet unforeseen expenditure",
+      "Budget"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01519",
+    "question": "What is the object of Cut Motion",
+    "answer": "to move a proposal to reduce expenditure in the Budget proposals",
+    "choices": [
+      "to move a proposal to reduce expenditure in the Budget proposals",
+      "to put check on the policies of the Government",
+      "to stop the functioning of ruling party",
+      "rejection of complete financial dealings of the Government"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01520",
+    "question": "The Public Accounts Committee submits its report to",
+    "answer": "Speaker of the Lok Sabha",
+    "choices": [
+      "Speaker of the Lok Sabha",
+      "Comptroller & Auditor General",
+      "Prime Minister",
+      "President"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01521",
+    "question": "The split system in the Indian Administration relates to",
+    "answer": "Policy / Implementation",
+    "choices": [
+      "Policy / Implementation",
+      "Audit / Accounts",
+      "Union / States",
+      "All India Service / Central Service"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01522",
+    "question": "The Collegium System in India is primarily related to:",
+    "answer": "Appointment and transfer of judges",
+    "choices": [
+      "Appointment and transfer of judges",
+      "Appointment of Governors",
+      "Appointment of Election Commissioners",
+      "Appointment of Lokpal"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01523",
+    "question": "Which of the following constitutional bodies created the Collegium System?",
+    "answer": "Supreme Court through judgments",
+    "choices": [
+      "Supreme Court through judgments",
+      "Parliament through amendment",
+      "Law Commission of India",
+      "National Judicial Appointments Commission"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01524",
+    "question": "The Collegium for appointment of Supreme Court judges consists of:",
+    "answer": "CJI + 4 senior-most SC judges",
+    "choices": [
+      "CJI + 4 senior-most SC judges",
+      "CJI + 2 senior-most SC judges",
+      "CJI + Law Minister + 2 senior-most SC judges",
+      "President + CJI + Attorney General"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01525",
+    "question": "Which case established the primacy of the Chief Justice of India and introduced the Collegium System?",
+    "answer": "Second Judges Case (1993)",
+    "choices": [
+      "Second Judges Case (1993)",
+      "First Judges Case (1981)",
+      "Third Judges Case (1998)",
+      "Kesavananda Bharati Case (1973)"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01526",
+    "question": "The basic structure doctrine was established in which Supreme Court case?",
+    "answer": "Kesavananda Bharati Case (1973)",
+    "choices": [
+      "Kesavananda Bharati Case (1973)",
+      "Golaknath Case (1967)",
+      "Minerva Mills Case (1980)",
+      "Indira Sawhney Case (1992)"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01527",
+    "question": "The Collegium System was expanded to include a 5-member body in which case?",
+    "answer": "Third Judges Case (1998)",
+    "choices": [
+      "Third Judges Case (1998)",
+      "First Judges Case (1981)",
+      "Second Judges Case (1993)",
+      "Indira Gandhi v. Raj Narain (1975)"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01528",
+    "question": "Which judgment is called the “Election Case”, leading to the declaration of National Emergency in 1975?",
+    "answer": "Indira Gandhi v. Raj Narain (1975)",
+    "choices": [
+      "Indira Gandhi v. Raj Narain (1975)",
+      "First Judges Case (1981)",
+      "Second Judges Case (1993)",
+      "Third Judges Case (1998)"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01529",
+    "question": "Which case is famously known as the “Habeas Corpus Case” during the Emergency (1976)?",
+    "answer": "ADM Jabalpur v. Shivkant Shukla (1976)",
+    "choices": [
+      "ADM Jabalpur v. Shivkant Shukla (1976)",
+      "Maneka Gandhi v. Union of India (1978)",
+      "Indira Gandhi v. Raj Narain (1975)",
+      "Minerva Mills v. Union of India (1980)"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01530",
+    "question": "Supreme Court is a",
+    "answer": "Final Interpreter of the Constitution",
+    "choices": [
+      "Final Interpreter of the Constitution",
+      "Fedral Court",
+      "Protector of Human Rights",
+      "Civil Courts"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01531",
+    "question": "The current sanctioned strength of the Supreme Court of India is",
+    "answer": "34 Judges",
+    "choices": [
+      "34 Judges",
+      "30 Judges",
+      "28 Judges",
+      "24 Judges"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01532",
+    "question": "The Supreme Court in India was established",
+    "answer": "by the Indian Constitution",
+    "choices": [
+      "by the Indian Constitution",
+      "by an act of Parliament in 1950",
+      "under Indian Independence Act, 147",
+      "under Indian Government Act, 1953"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01533",
+    "question": "Of the following statements, which one is not correct?",
+    "answer": "Supreme Court can hear from any High Court / Tribunals except Court-martial",
+    "choices": [
+      "Supreme Court can hear from any High Court / Tribunals except Court-martial",
+      "Supreme Court was constituted in 1950",
+      "Supreme Court is the highest Court of appeal in the country",
+      "Supreme Court can hear from any High Court/Tribunals as well as from Court-martial"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01534",
+    "question": "The power to increase the number of Judges in the Supreme Court of India is vested in",
+    "answer": "The Parliament",
+    "choices": [
+      "The Parliament",
+      "The President",
+      "The Chief Justice of India",
+      "The Law Commission"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01535",
+    "question": "Who appoints the Judges of Supreme Court of India?",
+    "answer": "The President",
+    "choices": [
+      "The President",
+      "The Prime Minister",
+      "The Chief Justice of India",
+      "The Ombudsman"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01536",
+    "question": "What is the retirement age of the Judges of the Supreme Court?",
+    "answer": "65 Years",
+    "choices": [
+      "65 Years",
+      "62 Years",
+      "60 Years",
+      "64 Years"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01537",
+    "question": "What is the retirement age of the Judges of the High Court?",
+    "answer": "62 Years",
+    "choices": [
+      "62 Years",
+      "65 Years",
+      "60 Years",
+      "70 Years"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01538",
+    "question": "A Judge of the Supreme Court may resign his office by writing to?",
+    "answer": "The President",
+    "choices": [
+      "The President",
+      "The Prime Minister",
+      "The Law Minister",
+      "The Attorney General of India"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01539",
+    "question": "The concept of Public Interest Litigation originated in the",
+    "answer": "United States",
+    "choices": [
+      "United States",
+      "United Kingdom",
+      "India",
+      "USSR"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01540",
+    "question": "Who is the Constitutional Head of the State Governments?",
+    "answer": "Governor",
+    "choices": [
+      "Governor",
+      "Chief Minister",
+      "Speaker",
+      "High Court Judge"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01541",
+    "question": "The Governor of a State is appointed by",
+    "answer": "President",
+    "choices": [
+      "President",
+      "The Chief Justice of the High",
+      "The Chief Justice of India",
+      "The Prime Minister"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01542",
+    "question": "As per Indian Constitution, Legislature of States consits of",
+    "answer": "Governor, Legislative Assembly and Legislative Council where it exists",
+    "choices": [
+      "Governor, Legislative Assembly and Legislative Council where it exists",
+      "Legislative Assembly only",
+      "Legislative Council only",
+      "Governor and Legislative Council"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01543",
+    "question": "Which is the Upper Chamber of State Legislatures in India?",
+    "answer": "Legislative Council",
+    "choices": [
+      "Legislative Council",
+      "Legislative Assembly",
+      "Rajya Sabha",
+      "Lok Sabha"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01544",
+    "question": "In any State of India, Legislative Council can be created or can be abolished by",
+    "answer": "the Parliament as per Resolution passed by the Legislative Assembly of the State",
+    "choices": [
+      "the Parliament as per Resolution passed by the Legislative Assembly of the State",
+      "the Governor on the recommendation of the Council of Ministers",
+      "The Parliament",
+      "The President on the recommendation of the Governor of the State"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01545",
+    "question": "If the Speaker of Legislative Assembly of a State wants to resign, he will give his resignation to",
+    "answer": "Deputy-Speaker",
+    "choices": [
+      "Deputy-Speaker",
+      "Chief Minister",
+      "Governor",
+      "President"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01546",
+    "question": "The members of a State Legislative Council are not chosen by which of the following categories of persons?",
+    "answer": "Industrialists",
+    "choices": [
+      "Industrialists",
+      "Members of the local bodies/panchayats",
+      "Teachers",
+      "Graduates"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01547",
+    "question": "The authority to determine the number of Judges in a High Court rests with which of the following entities:",
+    "answer": "The President",
+    "choices": [
+      "The President",
+      "The Chief Minister of the State",
+      "The Prime Minister",
+      "The Parliament"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01548",
+    "question": "A High Court Judge addresses his letter of resignation to",
+    "answer": "The President",
+    "choices": [
+      "The President",
+      "Chief Justice of India",
+      "Chief Justice of High Court",
+      "Governor of the State"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01549",
+    "question": "The mobile court in India is the brain child of",
+    "answer": "APJ Abdul Kalam",
+    "choices": [
+      "APJ Abdul Kalam",
+      "Rajeev Gandhi",
+      "Justice Bhagwati",
+      "Mrs Pratibha Patil"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01550",
+    "question": "Which of the following Constitutional Amendment in India made Judiciary subservient of Parliament?",
+    "answer": "42nd Amendment",
+    "choices": [
+      "42nd Amendment",
+      "43rd Amendment",
+      "40th Amendment",
+      "44th Amendment"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01551",
+    "question": "In which year was Sarkaria Commission, empowered to recommend changes in Centre-State relations submitted its report?",
+    "answer": "1983",
+    "choices": [
+      "1983",
+      "1985",
+      "1984",
+      "1981"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01552",
+    "question": "The President can declare National Emergency on the basis of",
+    "answer": "Armed Rebellion",
+    "choices": [
+      "Armed Rebellion",
+      "External Aggression",
+      "War",
+      "All of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01553",
+    "question": "According to which Article National Emergency may be declared by the president of India?",
+    "answer": "Article 352",
+    "choices": [
+      "Article 352",
+      "Article 370",
+      "Article 371",
+      "Article 395"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01554",
+    "question": "The proclamation of emergency at the first instance can be restricted to",
+    "answer": "6 months",
+    "choices": [
+      "6 months",
+      "3 months",
+      "15 days",
+      "One Year"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01555",
+    "question": "Mainly on whose advice the President's Rule is imposed in the State?",
+    "answer": "Governor",
+    "choices": [
+      "Governor",
+      "Chief Minister",
+      "Legislative Assembly",
+      "Chief Justice of High Court"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01556",
+    "question": "Under which one of the following Articles is the formation of Finance Commmission laid down?",
+    "answer": "Article 280",
+    "choices": [
+      "Article 280",
+      "Article 269",
+      "Article 265",
+      "Article 268"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01557",
+    "question": "Federal Finance Commission in India relates to",
+    "answer": "Finances between States and the Centre",
+    "choices": [
+      "Finances between States and the Centre",
+      "Finances among the States",
+      "Finances between the Centre and Local Self Governments",
+      "None of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01558",
+    "question": "When was the Planning Commission established?",
+    "answer": "15th March, 1950",
+    "choices": [
+      "15th March, 1950",
+      "10th March, 1950",
+      "16th March, 1951",
+      "20th March, 1950"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01559",
+    "question": "Who among the following is the CEO of the NITI Aayog?",
+    "answer": "BVR Subhramanyam",
+    "choices": [
+      "BVR Subhramanyam",
+      "Amitabh Kant",
+      "Cyrus Mistry",
+      "Soumya Kanti Ghosh"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01560",
+    "question": "What is the full form of NITI Aayog",
+    "answer": "National Institution for Transforming India",
+    "choices": [
+      "National Institution for Transforming India",
+      "National Internal Trade Information",
+      "National Intellectual Training Institute",
+      "None of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01561",
+    "question": "Which Article in the Indian Constitution is related with the establishment of the Election Commission of India?",
+    "answer": "Article 324",
+    "choices": [
+      "Article 324",
+      "Article 148",
+      "Article 342",
+      "Article 325"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01562",
+    "question": "Which Constitutional Amendment Act has added new provisions related to cooperative societies in fundamental rights and DPSPs of the Constitution of India?",
+    "answer": "97th Amendment",
+    "choices": [
+      "97th Amendment",
+      "96th Amendment",
+      "95th Amendment",
+      "94th Amendment"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01563",
+    "question": "A bill for the amendment in Indian Constitution can be presented",
+    "answer": "either in Lok Sabha or Rajya Sabha",
+    "choices": [
+      "either in Lok Sabha or Rajya Sabha",
+      "Only in Rajya Sabha",
+      "Only in Lok Sabha",
+      "In the Supreme Court of India"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01564",
+    "question": "When was the first Bill for the amendment of the Indian Constitution presented?",
+    "answer": "1951",
+    "choices": [
+      "1951",
+      "1950",
+      "1955",
+      "1958"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01565",
+    "question": "Which of the following Constitutional Amendment Acts was termed as Mini Constitution?",
+    "answer": "42nd Amendment",
+    "choices": [
+      "42nd Amendment",
+      "44th Amendment",
+      "46th Amendment",
+      "50th Amendment"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01566",
+    "question": "Which Article of the Indian Constitution prescribes Hindi in Devanagari script as the Official language of the Union?",
+    "answer": "Article 343",
+    "choices": [
+      "Article 343",
+      "Article 341",
+      "Article 342",
+      "Article 346"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01567",
+    "question": "The number of official languages recognised by the constitution in the eight schedule is",
+    "answer": "22",
+    "choices": [
+      "22",
+      "18",
+      "16",
+      "20"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01568",
+    "question": "Which one of the following was established as the first programme of community development?",
+    "answer": "National Extension Service",
+    "choices": [
+      "National Extension Service",
+      "Cooperation Movement",
+      "Integrated Rural Development Programme",
+      "Har Ghar Nal ka Jal"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01569",
+    "question": "The minimum age for contesting election to the Panchayati Raj Institutions is?",
+    "answer": "21 years",
+    "choices": [
+      "21 years",
+      "25 years",
+      "18 years",
+      "30 years"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01570",
+    "question": "Panchayati Raj was first introduced in",
+    "answer": "Rajasthan",
+    "choices": [
+      "Rajasthan",
+      "Andhra Pradesh",
+      "Uttar Pradesh",
+      "Himachal Pradesh"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01571",
+    "question": "The decision to conduct Panchayat Elections is taken by which of the following?",
+    "answer": "State Government",
+    "choices": [
+      "State Government",
+      "Central Government",
+      "District Judge",
+      "Election Commission"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01572",
+    "question": "The subject of Panchayati Raj is in",
+    "answer": "State List",
+    "choices": [
+      "State List",
+      "Union List",
+      "Concurrent List",
+      "Residual List"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01573",
+    "question": "Which of the following functions is not the concern of Local Self-Government?",
+    "answer": "Maintenance of Public Order",
+    "choices": [
+      "Maintenance of Public Order",
+      "Public Health",
+      "Sanitation",
+      "Public Utility Services"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01574",
+    "question": "73rd Amendment of the Constitution is related to",
+    "answer": "Panchayati Raj System",
+    "choices": [
+      "Panchayati Raj System",
+      "Impeachement of the President",
+      "The appointment of the election commission",
+      "Reservation of seats in educational institutions"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01575",
+    "question": "The legislative origins of the 73rd Constitutional Amendment Act can be traced back to which Constitutional Amendment Bill?",
+    "answer": "64th Constitutional Amendment Bill",
+    "choices": [
+      "64th Constitutional Amendment Bill",
+      "61st Constitutional Amendment Bill",
+      "62nd Constitutional Amendment Bill",
+      "63rd Constitutional Amendment Bill"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01576",
+    "question": "Which of the following was constituted under the Panchayati Raj System?",
+    "answer": "Gram Panchayat",
+    "choices": [
+      "Gram Panchayat",
+      "Khap Panchayat",
+      "Caste Panchayat",
+      "Jan Panchayat"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01577",
+    "question": "Which Article of Indian Constitution directs state Government to organise village Panchayats?",
+    "answer": "Article 40",
+    "choices": [
+      "Article 40",
+      "Article 32",
+      "Article 48",
+      "Article 51"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01578",
+    "question": "Panchayti Raj is organised as a unit of self government under",
+    "answer": "73rd Amendment of the Constitution",
+    "choices": [
+      "73rd Amendment of the Constitution",
+      "Fundamental Rights of the Indian Constitution",
+      "The preamble of the Indian Constitution",
+      "Directive Principles of State Policy"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01579",
+    "question": "What is the main characterstic of Panchayati Raj system of Government?",
+    "answer": "All of these",
+    "choices": [
+      "All of these",
+      "It has three tiers of Government",
+      "It aims to give social and economic justice to villages",
+      "Some members of Parliament are as representatives in Zila Parishad"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01580",
+    "question": "To review the financial position of Panchayats, the State Government constitutes every five years a/an",
+    "answer": "Finance Commission",
+    "choices": [
+      "Finance Commission",
+      "Finance Committee",
+      "Advisory Commission",
+      "Advisory Committee"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01581",
+    "question": "Panchayati Raj is mainly aimed at",
+    "answer": "Decentralisation of powers to villagers",
+    "choices": [
+      "Decentralisation of powers to villagers",
+      "Increasing rivalry among villagers",
+      "Giving training to villagers for contesting election",
+      "increasing revenue from the villagers"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01582",
+    "question": "For successful functioning, Panchayati Raj needs full co-operation of",
+    "answer": "Local Public",
+    "choices": [
+      "Local Public",
+      "Central Government",
+      "Bureuacrats",
+      "Politicians"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01583",
+    "question": "Panchayati Raj in India represents",
+    "answer": "Decentralisation of powers",
+    "choices": [
+      "Decentralisation of powers",
+      "Participation of the people",
+      "Community Development",
+      "All of these"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01584",
+    "question": "Which one of the following is not the characterstic of decentralisation?",
+    "answer": "To instill non-confidence among local communities",
+    "choices": [
+      "To instill non-confidence among local communities",
+      "Autonomy",
+      "People's participation",
+      "to empower local communities"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01585",
+    "question": "Name the Committee which was set up by the NDC in 1957 for the reorganisation of CDP and NES, which suggested a three-tier system of rural local government",
+    "answer": "Balwant Rai Mehta Committee",
+    "choices": [
+      "Balwant Rai Mehta Committee",
+      "Ashok Mehta Committee",
+      "Maharashtra Committee on Democratic Decentralisation",
+      "Rural-Urban Relationship Committee"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01586",
+    "question": "The Chairman of the Committee set up for the recommendation of Panchayati Raj in India was",
+    "answer": "Balwant Rai Mehta",
+    "choices": [
+      "Balwant Rai Mehta",
+      "BR Ambedkar",
+      "Jagjivan ram",
+      "Justice Krishna Ayer"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01587",
+    "question": "The Panchayati Raj System was first started in India in the State of Rajasthan and",
+    "answer": "Andhra Pradesh",
+    "choices": [
+      "Andhra Pradesh",
+      "Haryana",
+      "Gujarat",
+      "Uttar Pradesh"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01588",
+    "question": "The Decentralisation System was recommended by",
+    "answer": "Balwant Rai Mehta",
+    "choices": [
+      "Balwant Rai Mehta",
+      "C Rajagopalachari",
+      "JB Kriplani",
+      "Ashok Mehta"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01589",
+    "question": "Ashok Mehta Committee recommended how many tiers of Panchayati Raj",
+    "answer": "Two-tier",
+    "choices": [
+      "Two-tier",
+      "Thre-tier",
+      "Single-tier",
+      "Multiple-tier"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01590",
+    "question": "Which one of the following Committees/Commissions recommended the creation of Nyaya Panchayats?",
+    "answer": "Ashok Mehta Committee",
+    "choices": [
+      "Ashok Mehta Committee",
+      "Balwant Rai Mehta Committee",
+      "GVK Rao Committee",
+      "Sarkaria Comission"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01591",
+    "question": "Which Constitutional Amendement granted Constitutional status to Panchayati Raj Institutions?",
+    "answer": "73rd Amdendment",
+    "choices": [
+      "73rd Amdendment",
+      "71st Amendment",
+      "70th Amritsar",
+      "75th Amendment"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01592",
+    "question": "Which Article gives the list of 29 functions to be performed by the Panchayati Raj Institutions?",
+    "answer": "Article 243(G)",
+    "choices": [
+      "Article 243(G)",
+      "Article 243(H)",
+      "Article 243(F)",
+      "Article 243(E)"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01593",
+    "question": "Which was the first state in India to provide 50% reservation for women in Panchayati Raj Institutions?",
+    "answer": "Bihar",
+    "choices": [
+      "Bihar",
+      "Tamil Nadu",
+      "Maharashtra",
+      "Madhya Prades"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01594",
+    "question": "The three-tier system of Panchayati Raj consits of",
+    "answer": "Gram Panchayat, Panchayat Samiti, Zila Parishad",
+    "choices": [
+      "Gram Panchayat, Panchayat Samiti, Zila Parishad",
+      "Gram Panchayat, Panchayat Samit, Block Samiti",
+      "Gram Panchayat, Block Samiti, Zila Parishad",
+      "Block Samiti, Zila Parishad, Panchayat Samiti"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01595",
+    "question": "A Panchayat Samiti at the block level in India is only a/an",
+    "answer": "Administrative Authority",
+    "choices": [
+      "Administrative Authority",
+      "Advisory Body",
+      "Consultative Committee",
+      "Coordinating and Supervisory Authority"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01596",
+    "question": "Which is not among the powers of Panchayati Raj Insititutions in India?",
+    "answer": "Judicial Review",
+    "choices": [
+      "Judicial Review",
+      "Implementation of Land Reforms",
+      "Implementation of Poverty Allevation Programmes",
+      "Sanitation"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01597",
+    "question": "Who among the following is land record officer?",
+    "answer": "Patwari",
+    "choices": [
+      "Patwari",
+      "Lambardar",
+      "Zamindar",
+      "Zaildar"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01598",
+    "question": "At what level does a Panchayat Samiti operate a Panchayati Raj structure?",
+    "answer": "Block-level body",
+    "choices": [
+      "Block-level body",
+      "District Level",
+      "Gram Panchayat Level",
+      "State Level"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01599",
+    "question": "The National Human Rights Commission was set up in which year?",
+    "answer": "1993",
+    "choices": [
+      "1993",
+      "1992",
+      "2003",
+      "1983"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01600",
+    "question": "The right to Information in India is",
+    "answer": "Fundamental Right",
+    "choices": [
+      "Fundamental Right",
+      "Legal Right",
+      "Social Right",
+      "Directive Principle of State Policy"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01601",
+    "question": "Who of the following was the Prime Minister of the country at the time of the formation of Mandal Commission in India?",
+    "answer": "Morarji Desai",
+    "choices": [
+      "Morarji Desai",
+      "Chaudhari Charan Singh",
+      "VP Singh",
+      "Indira Gandhi"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01602",
+    "question": "Who among the following headed the two Boundary Commission set up to delineate the international frontiers between India and Pakistan in 1947?",
+    "answer": "Cyril Radcliffe",
+    "choices": [
+      "Cyril Radcliffe",
+      "Henry McMahon",
+      "AP Moon",
+      "AV Alexander"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01603",
+    "question": "Sikkim became a full-fledged State of the Union of India in",
+    "answer": "1975",
+    "choices": [
+      "1975",
+      "1974",
+      "1976",
+      "1977"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01604",
+    "question": "Who was the Chairman of the First Law Commission in Independent India?",
+    "answer": "MC Setalvad",
+    "choices": [
+      "MC Setalvad",
+      "JL Kapur",
+      "VK Sunadaram",
+      "TV Venkatarama Aiyar"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01605",
+    "question": "Aritcle 300 of the Indian Constitution deal with",
+    "answer": "Suits and Proceedings",
+    "choices": [
+      "Suits and Proceedings",
+      "Government Contracts",
+      "Attorney General",
+      "Restriction on trade and commerce"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01606",
+    "question": "The division of each State into territorial constituencies for the Lok Sabha is done by Delimitation Commission. This delimitation has been freezed till which year?",
+    "answer": "2026",
+    "choices": [
+      "2026",
+      "2027",
+      "2025",
+      "2028"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01607",
+    "question": "Amnesty International is an organisation associated with",
+    "answer": "Protection of Human Rights",
+    "choices": [
+      "Protection of Human Rights",
+      "Protection of Women's Right",
+      "Abolition of Untouchability",
+      "Protection of Animal Rights"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01608",
+    "question": "The power to recruit the Secretarial staff of the House of the People is vested in",
+    "answer": "President after consultation with the speaker of the House of the people",
+    "choices": [
+      "President after consultation with the speaker of the House of the people",
+      "Union Public Service Commission",
+      "Prime Minister's Office",
+      "Staff Selection Commission"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01609",
+    "question": "Attorney General of India:",
+    "answer": "He gives advice to the President on legal matters",
+    "choices": [
+      "He gives advice to the President on legal matters",
+      "is not entitled of audience except the Supreme Court",
+      "cannot participate in the proceedings in the House of Parliament",
+      "is a whole time counsel for the government"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01610",
+    "question": "What is true about the proceedings of the State Legislature?",
+    "answer": "Business in the legislature shall be transacted only in official language of the state or in Hindi or in English",
+    "choices": [
+      "Business in the legislature shall be transacted only in official language of the state or in Hindi or in English",
+      "Advocate General has right to vote",
+      "It can discuss the conduct of any judge of the High Court also",
+      "Validity of proceedings shall be called in question on the ground of any alleged irregularity"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01611",
+    "question": "Who among the following determines the qualification which shall be requisite for appointment as member of the finance commission?",
+    "answer": "Parliament by act",
+    "choices": [
+      "Parliament by act",
+      "Council of Ministers",
+      "President of India",
+      "Union Cabinet"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01612",
+    "question": "Who is empowered to review financial position of the Panchayats?",
+    "answer": "Finance Commission constituted by the Governor",
+    "choices": [
+      "Finance Commission constituted by the Governor",
+      "Chairman of Block Committee",
+      "Chief Minister",
+      "Chairman of District Council"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01613",
+    "question": "What is the main purpose of Panchayati Raj?",
+    "answer": "To enable people to participate in development administration",
+    "choices": [
+      "To enable people to participate in development administration",
+      "to increase employment",
+      "to increase agriculture production",
+      "to increase people's political awareness"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01614",
+    "question": "Which one of the following subjects fall within the jurisdiction of both High Court and Supreme Court?",
+    "answer": "Protection of Fundamental Rights",
+    "choices": [
+      "Protection of Fundamental Rights",
+      "Dispute among States",
+      "Dispute between Centre and State",
+      "Protection from the violation of the constitution"
+    ],
+    "information": "",
+    "tags": ""
+  },
+  {
+    "qid": "Q01615",
+    "question": "Which landmark case described the Preamble as an integral part of the Constitution?",
+    "answer": "Kesavananda Bharati Case",
+    "choices": [
+      "Kesavananda Bharati Case",
+      "Golaknath Case",
+      "Minerva Mills Case",
+      "S.R. Bommai Case"
+    ],
+    "information": "In 1973, the Supreme Court held that the Preamble is part of the Constitution and plays a role in interpreting it, also laying down the Basic Structure Doctrine.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01616",
+    "question": "The Preamble of the Indian Constitution declares India a:",
+    "answer": "Sovereign, Socialist, Secular, Democratic Republic",
+    "choices": [
+      "Sovereign, Socialist, Secular, Democratic Republic",
+      "Sovereign, Democratic, Socialist Republic",
+      "Socialist, Secular, Republic",
+      "Sovereign, Federal, Republic"
+    ],
+    "information": "The 42nd Amendment (1976) added the words Socialist and Secular. The Preamble outlines the identity and values of the Indian Republic.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01617",
+    "question": "What was the total number of members in the Constituent Assembly after the partition?",
+    "answer": "299",
+    "choices": [
+      "299",
+      "389",
+      "385",
+      "250"
+    ],
+    "information": "Originally 389, but reduced to 299 after partition as seats belonging to Pakistan were removed.",
+    "tags": ""
+  }
 ]
