@@ -1,11 +1,7 @@
 // ── QuizMe Service Worker ─────────────────────────────────────
-// Caches all app files for offline use.
-// Update CACHE_VERSION whenever you deploy new code.
+const CACHE_VERSION = 'quizme-v5.2';
+const BASE          = '/quizme';
 
-const CACHE_VERSION  = 'quizme-v5.0';
-const BASE           = '/quizme';
-
-// Core app shell — always cached on install
 const STATIC_ASSETS = [
   `${BASE}/`,
   `${BASE}/index.html`,
@@ -15,66 +11,91 @@ const STATIC_ASSETS = [
   `${BASE}/res/favicon.ico`,
   `${BASE}/res/icon-192.png`,
   `${BASE}/res/icon-512.png`,
-  // Google Fonts (cached on first load)
+  `${BASE}/control/manifest.json`,
   'https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=DM+Sans:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap',
 ];
 
-// ── Install: cache static assets ─────────────────────────────
+// ── Install: cache static assets + all subject JSONs ──────────
 self.addEventListener('install', event => {
   event.waitUntil(
-    caches.open(CACHE_VERSION)
-      .then(cache => cache.addAll(STATIC_ASSETS))
-      .then(() => self.skipWaiting())   // activate immediately
+    (async () => {
+      const cache = await caches.open(CACHE_VERSION);
+
+      // 1. Cache static shell first
+      await cache.addAll(STATIC_ASSETS);
+
+      // 2. Fetch manifest to discover all subject JSON files
+      try {
+        const manifestRes = await fetch(`${BASE}/control/manifest.json`);
+        const manifest    = await manifestRes.json();
+        const dataFiles   = (manifest.files || []).map(f => `${BASE}/data/${f}`);
+
+        // Cache each subject JSON — don't let one failure block the whole install
+        await Promise.allSettled(
+          dataFiles.map(async url => {
+            try {
+              const res = await fetch(url);
+              if (res.ok) await cache.put(url, res);
+            } catch(e) {}
+          })
+        );
+      } catch(e) {
+        // Manifest fetch failed (offline install) — data files will be
+        // cached on first visit as before, no problem
+      }
+
+      await self.skipWaiting();
+    })()
   );
 });
 
 // ── Activate: remove old caches ───────────────────────────────
 self.addEventListener('activate', event => {
   event.waitUntil(
-    caches.keys().then(keys =>
-      Promise.all(
-        keys
-          .filter(key => key !== CACHE_VERSION)
-          .map(key => caches.delete(key))
-      )
-    ).then(() => self.clients.claim())
+    caches.keys()
+      .then(keys => Promise.all(
+        keys.filter(k => k !== CACHE_VERSION).map(k => caches.delete(k))
+      ))
+      .then(() => self.clients.claim())
   );
 });
 
-// ── Fetch: serve from cache, fall back to network ─────────────
+// ── Fetch: network-first for data, cache-first for shell ──────
 self.addEventListener('fetch', event => {
   const url = new URL(event.request.url);
 
-  // For JSON data files — network first, cache as fallback
-  // This ensures new questions you add are always fetched fresh
-  // but still work offline if network is unavailable
   if (url.pathname.startsWith(`${BASE}/data/`) ||
       url.pathname.startsWith(`${BASE}/control/`)) {
+    // Network-first: always try to get fresh questions,
+    // update cache in background, fall back offline
     event.respondWith(
       fetch(event.request)
         .then(response => {
-          // Clone and cache the fresh response
           const clone = response.clone();
-          caches.open(CACHE_VERSION).then(cache => cache.put(event.request, clone));
+          caches.open(CACHE_VERSION).then(c => c.put(event.request, clone));
           return response;
         })
-        .catch(() => caches.match(event.request))  // offline fallback
+        .catch(() => caches.match(event.request))
     );
     return;
   }
 
-  // For everything else — cache first, fall back to network
+  // Cache-first for app shell
   event.respondWith(
     caches.match(event.request)
       .then(cached => cached || fetch(event.request)
         .then(response => {
-          // Cache new resources as they're fetched
           if (response.ok) {
             const clone = response.clone();
-            caches.open(CACHE_VERSION).then(cache => cache.put(event.request, clone));
+            caches.open(CACHE_VERSION).then(c => c.put(event.request, clone));
           }
           return response;
         })
       )
   );
+});
+
+// ── Message: force update from app ────────────────────────────
+self.addEventListener('message', event => {
+  if (event.data === 'SKIP_WAITING') self.skipWaiting();
 });

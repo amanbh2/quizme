@@ -73,6 +73,26 @@
 </header>
 
 <!-- ═══════════════════════════════════════════════════════
+     INSTALL PROMPT BANNER
+════════════════════════════════════════════════════════ -->
+<div id="install-banner" style="display:none">
+    <div class="install-banner-inner">
+        <div class="install-banner-left">
+            <img src="res/web-app-manifest-192x192.png" class="install-banner-icon" alt="">
+            <div>
+                <span class="install-banner-title">Add QuizMe to home screen</span>
+                <span class="install-banner-sub">Works offline · No app store needed</span>
+            </div>
+        </div>
+        <div class="install-banner-actions">
+            <button id="install-btn">Install</button>
+            <button id="install-dismiss">✕</button>
+        </div>
+    </div>
+</div>
+<div id="offline-pill">⚡ Offline — using cached questions</div>
+
+<!-- ═══════════════════════════════════════════════════════
      MAIN CONTENT
 ════════════════════════════════════════════════════════ -->
 <main id="main-content">
@@ -251,6 +271,15 @@
         <i class="fa-solid fa-circle-info"></i><span>Info</span>
     </button>
 </nav>
+
+<!-- ═══════════════════════════════════════════════════════
+     MOBILE FOOTER
+════════════════════════════════════════════════════════ -->
+<footer id="mobile-footer">
+    <a href="https://github.com/amanbh2" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/amanbh2/" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+    <span>Aman Bhaskar</span>
+</footer>
 
 <!-- ═══════════════════════════════════════════════════════
      SETTINGS OVERLAY

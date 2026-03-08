@@ -269,6 +269,31 @@ a:hover { color: var(--accent); }
     z-index: 200;
 }
 
+/* ════════════════════════════════════════════════════════════
+   MOBILE FOOTER
+════════════════════════════════════════════════════════════ */
+#mobile-footer {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    #mobile-footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        padding: 12px 16px calc(var(--bottom-nav-h) + 12px);
+        font-family: 'DM Mono', monospace;
+        font-size: 10px;
+        color: var(--text-dim);
+    }
+    #mobile-footer a {
+        font-size: 14px;
+        color: var(--text-dim);
+    }
+    #mobile-footer a:hover { color: var(--accent); }
+}
+
 @media (max-width: 767px) {
     #bottom-nav { display: flex; }
 }
@@ -918,6 +943,114 @@ select#subject-select {
 .settings-ghost-btn:hover { border-color: var(--wrong); color: var(--wrong); }
 .settings-hint { font-size: 11px; color: var(--text-dim); font-family: 'DM Mono', monospace; }
 .link-btn { background: none; border: none; color: var(--accent); font-size: 11px; cursor: pointer; text-decoration: underline; font-family: 'DM Mono', monospace; padding: 0; }
+
+/* ════════════════════════════════════════════════════════════
+   INSTALL PROMPT BANNER
+════════════════════════════════════════════════════════════ */
+#install-banner {
+    position: fixed;
+    bottom: calc(var(--bottom-nav-h) + 10px);
+    left: 12px; right: 12px;
+    z-index: 300;
+    animation: fadeUp 0.35s cubic-bezier(0.22,1,0.36,1);
+}
+@media (min-width: 768px) {
+    #install-banner {
+        bottom: 20px;
+        left: calc(var(--sidebar-w) + 20px);
+        right: 20px;
+        max-width: 420px;
+    }
+}
+.install-banner-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    background: var(--card);
+    border: 1px solid var(--accent);
+    border-radius: 14px;
+    padding: 12px 14px;
+    box-shadow: var(--shadow);
+}
+.install-banner-left {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex: 1;
+    min-width: 0;
+}
+.install-banner-icon {
+    width: 40px; height: 40px;
+    border-radius: 10px;
+    flex-shrink: 0;
+}
+.install-banner-title {
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.install-banner-sub {
+    display: block;
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    color: var(--text-muted);
+    margin-top: 2px;
+}
+.install-banner-actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+}
+#install-btn {
+    padding: 7px 16px;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+}
+#install-btn:hover { opacity: 0.88; }
+#install-dismiss {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    width: 28px; height: 28px;
+    border-radius: 7px;
+    font-size: 12px;
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+}
+#install-dismiss:hover { border-color: var(--text-muted); color: var(--text); }
+
+/* Offline indicator pill */
+#offline-pill {
+    display: none;
+    position: fixed;
+    top: calc(var(--header-h) + 8px);
+    left: 50%; transform: translateX(-50%);
+    z-index: 400;
+    background: var(--warn-bg);
+    border: 1px solid var(--warn);
+    color: var(--warn);
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    padding: 5px 14px;
+    border-radius: 99px;
+    white-space: nowrap;
+    animation: fadeIn 0.2s ease;
+}
+@media (min-width: 768px) {
+    #offline-pill { top: 12px; left: calc(var(--sidebar-w) + 20px); transform: none; }
+}
 
 /* ── Animations ─────────────────────────────────────────────── */
 @keyframes cardEnter { from { opacity:0; transform:translateY(14px); } to { opacity:1; transform:translateY(0); } }

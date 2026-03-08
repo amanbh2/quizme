@@ -1111,6 +1111,11 @@ function startQuiz() {
     sessionAnswered = 0; sessionCorrect = 0;
     sessionBestStreak = 0; sessionCurrentStreak = 0;
     sessionNewMastered = 0; simScore = 0;
+
+    // ✅ FIX 2: Clear elements appended directly to .container on wrong answers
+    document.querySelectorAll('.information, .neg-mark-indicator, .ask-ai-wrap, .advance-bar-wrap')
+        .forEach(el => el.remove());
+
     buildFiltered();
     updateModeLabel();
     showQuestion();
@@ -1167,6 +1172,10 @@ function showQuestion() {
     const qc = document.getElementById('quiz-container');
     if (!qc) return;
     qc.innerHTML = '';
+
+    // ✅ FIX 1: Remove any leftover advance bar from previous question
+    document.querySelectorAll('.advance-bar-wrap').forEach(el => el.remove());
+
     updateProgressBar();
 
     currentQuestionIndex = getNextIndex();
@@ -1388,3 +1397,110 @@ function showSessionComplete() {
 }
 
 document.getElementById('restart-btn')?.addEventListener('click', startQuiz);
+
+// ═══════════════════════════════════════════════════════════════
+//  INSTALL PROMPT  (PWA)
+// ═══════════════════════════════════════════════════════════════
+
+let deferredInstallPrompt = null;
+const INSTALL_DISMISSED_KEY = 'qm-install-dismissed';
+
+// Capture the browser's install prompt
+window.addEventListener('beforeinstallprompt', e => {
+    e.preventDefault();
+    deferredInstallPrompt = e;
+
+    // Don't show if user dismissed within the last 7 days
+    const dismissed = localStorage.getItem(INSTALL_DISMISSED_KEY);
+    if (dismissed && (Date.now() - parseInt(dismissed)) < 7 * 86400000) return;
+
+    // Don't show if already running as installed PWA
+    if (window.matchMedia('(display-mode: standalone)').matches) return;
+
+    showInstallBanner();
+});
+
+function showInstallBanner() {
+    const banner = document.getElementById('install-banner');
+    if (banner) banner.style.display = 'block';
+}
+function hideInstallBanner() {
+    const banner = document.getElementById('install-banner');
+    if (banner) banner.style.display = 'none';
+}
+
+document.getElementById('install-btn')?.addEventListener('click', async () => {
+    if (!deferredInstallPrompt) return;
+    hideInstallBanner();
+    deferredInstallPrompt.prompt();
+    const { outcome } = await deferredInstallPrompt.userChoice;
+    deferredInstallPrompt = null;
+    // If dismissed from native dialog, remember for 7 days
+    if (outcome === 'dismissed') {
+        localStorage.setItem(INSTALL_DISMISSED_KEY, Date.now().toString());
+    }
+});
+
+document.getElementById('install-dismiss')?.addEventListener('click', () => {
+    hideInstallBanner();
+    localStorage.setItem(INSTALL_DISMISSED_KEY, Date.now().toString());
+});
+
+// Hide banner if installed after the fact
+window.addEventListener('appinstalled', hideInstallBanner);
+
+// ═══════════════════════════════════════════════════════════════
+//  OFFLINE INDICATOR
+// ═══════════════════════════════════════════════════════════════
+
+function updateOfflinePill() {
+    const pill = document.getElementById('offline-pill');
+    if (!pill) return;
+    pill.style.display = navigator.onLine ? 'none' : 'block';
+}
+
+window.addEventListener('online',  updateOfflinePill);
+window.addEventListener('offline', updateOfflinePill);
+updateOfflinePill(); // check on load
+
+// ═══════════════════════════════════════════════════════════════
+//  SW UPDATE NOTIFICATION  (optional quality-of-life)
+// ═══════════════════════════════════════════════════════════════
+
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.ready.then(reg => {
+        reg.addEventListener('updatefound', () => {
+            const newSW = reg.installing;
+            newSW?.addEventListener('statechange', () => {
+                if (newSW.state === 'installed' && navigator.serviceWorker.controller) {
+                    // New version available — show a subtle toast
+                    const toast = document.createElement('div');
+                    toast.style.cssText = `
+                        position:fixed; bottom:calc(var(--bottom-nav-h, 60px) + 70px);
+                        left:50%; transform:translateX(-50%);
+                        background:var(--card); border:1px solid var(--accent);
+                        color:var(--text); font-family:'DM Mono',monospace;
+                        font-size:12px; padding:10px 18px; border-radius:10px;
+                        box-shadow:var(--shadow); z-index:500; white-space:nowrap;
+                        display:flex; gap:12px; align-items:center;
+                        animation: fadeUp 0.3s ease;
+                    `;
+                    toast.innerHTML = `
+                        <span>🆕 New version available</span>
+                        <button onclick="newSW.postMessage('SKIP_WAITING'); location.reload();"
+                            style="background:var(--accent);color:#fff;border:none;
+                                   padding:4px 12px;border-radius:6px;cursor:pointer;
+                                   font-family:'DM Mono',monospace;font-size:11px;">
+                            Update
+                        </button>
+                        <button onclick="this.parentElement.remove()"
+                            style="background:none;border:none;color:var(--text-muted);
+                                   cursor:pointer;font-size:14px;">✕</button>
+                    `;
+                    document.body.appendChild(toast);
+                    setTimeout(() => toast.remove(), 12000);
+                }
+            });
+        });
+    });
+}
