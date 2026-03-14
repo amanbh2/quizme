@@ -1,6 +1,8 @@
 {
   "files": [
     "BiharEconomy.json",
+    "BiharGeography.json",
+    "BiharPolity.json",
     "BiharSpecific.json",
     "Census.json",
     "EconomyTheory.json",

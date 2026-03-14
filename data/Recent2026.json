@@ -1674,5 +1674,187 @@
     ],
     "information": "South Indian temple tanks/stepwells are called Kalyanis.",
     "tags": ""
+  },
+  {
+    "qid": "Q02237",
+    "question": "The 2026 ICC Men's T20 World Cup was which edition of the tournament?",
+    "answer": "10th edition",
+    "choices": [
+      "10th edition",
+      "8th edition",
+      "9th edition",
+      "11th edition"
+    ],
+    "information": "10th edition — The 2026 T20 World Cup was the 10th edition. The 9th was held in 2024 in USA & West Indies, won by India.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02238",
+    "question": "The ICC Men's T20 World Cup 2026 was co-hosted by which two nations?",
+    "answer": "India and Sri Lanka",
+    "choices": [
+      "India and Sri Lanka",
+      "India and Bangladesh",
+      "India and Pakistan",
+      "Sri Lanka and UAE"
+    ],
+    "information": "India and Sri Lanka — Announced in Nov 2021 as part of the 2024–2031 ICC hosts cycle. India hosted 5 venues; Sri Lanka hosted 3.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02239",
+    "question": "India defeated which team in the final of the 2026 ICC Men's T20 World Cup?",
+    "answer": "New Zealand",
+    "choices": [
+      "New Zealand",
+      "England",
+      "South Africa",
+      "Australia"
+    ],
+    "information": "New Zealand — India beat New Zealand by 96 runs in the final on 8 March 2026 at Narendra Modi Stadium, Ahmedabad.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02240",
+    "question": "By how many runs did India win the ICC T20 World Cup 2026 final?",
+    "answer": "96 runs",
+    "choices": [
+      "96 runs",
+      "59 runs",
+      "76 runs",
+      "45 runs"
+    ],
+    "information": "96 runs — India scored 255/5 and New Zealand were bowled out for 159. It was the largest winning margin ever in a T20 World Cup final.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02241",
+    "question": "India's score of 255/5 in the 2026 T20 World Cup final set which record?",
+    "answer": "Highest total in a T20 World Cup final",
+    "choices": [
+      "Highest total in a T20 World Cup final",
+      "Highest total in any T20I match",
+      "Highest powerplay score in T20 WC",
+      "Second highest T20I score ever"
+    ],
+    "information": "Highest total in a T20 World Cup final — 255/5 surpassed India's own record of 176/7 set in the 2024 final against South Africa.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02242",
+    "question": "The 2026 T20 World Cup final was played at which venue?",
+    "answer": "Narendra Modi Stadium, Ahmedabad",
+    "choices": [
+      "Narendra Modi Stadium, Ahmedabad",
+      "Eden Gardens, Kolkata",
+      "Wankhede Stadium, Mumbai",
+      "R. Premadasa Stadium, Colombo"
+    ],
+    "information": "Narendra Modi Stadium, Ahmedabad — India exorcised memories of their 2023 ODI World Cup final loss at this very stadium by winning here.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02243",
+    "question": "Who was the Player of the Final in the ICC T20 World Cup 2026?",
+    "answer": "Jasprit Bumrah",
+    "choices": [
+      "Jasprit Bumrah",
+      "Sanju Samson",
+      "Abhishek Sharma",
+      "Axar Patel"
+    ],
+    "information": "Jasprit Bumrah — Bumrah took 4/15 in 4 overs in the final — the first-ever 4-wicket haul in a T20 World Cup final — and was named Player of the Match.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02244",
+    "question": "Who won the Player of the Tournament award at the ICC T20 World Cup 2026?",
+    "answer": "Sanju Samson",
+    "choices": [
+      "Sanju Samson",
+      "Jasprit Bumrah",
+      "Sahibzada Farhan",
+      "Rachin Ravindra"
+    ],
+    "information": "Sanju Samson — Samson scored 321 runs in just 5 innings at an average of 80.25 and strike rate of 199.37, including three consecutive half-centuries in the knockouts.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02245",
+    "question": "India's 2026 T20 World Cup win made them the first team to achieve which feat?",
+    "answer": "Defend the T20 World Cup title",
+    "choices": [
+      "Defend the T20 World Cup title",
+      "Win 3 T20 World Cups",
+      "Win T20 WC on home soil",
+      "All of the above"
+    ],
+    "information": "All of the above — India became simultaneously: first to defend the title, first to win 3 T20 World Cups, and first host nation to win T20 WC on home soil.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02246",
+    "question": "Who led India as captain in the 2026 ICC Men's T20 World Cup?",
+    "answer": "Suryakumar Yadav",
+    "choices": [
+      "Suryakumar Yadav",
+      "Hardik Pandya",
+      "Shubman Gill",
+      "KL Rahul"
+    ],
+    "information": "Suryakumar Yadav — After Rohit Sharma's T20I retirement in 2024, SKY led India to the 2026 title. Gautam Gambhir was the head coach.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02247",
+    "question": "Who was India's head coach during the ICC T20 World Cup 2026 victory?",
+    "answer": "Gautam Gambhir",
+    "choices": [
+      "Gautam Gambhir",
+      "VVS Laxman",
+      "Rahul Dravid",
+      "Anil Kumble"
+    ],
+    "information": "Gautam Gambhir — Gambhir won his 4th ICC title (2 as player — 2007 T20 WC & 2011 ODI WC; 2 as coach — 2025 Champions Trophy & 2026 T20 WC).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02248",
+    "question": "Sushila Karki made which historic first in Nepal's political history?",
+    "answer": "First woman to become Prime Minister",
+    "choices": [
+      "First woman to become Prime Minister",
+      "First woman President",
+      "First woman Chief Election Commissioner",
+      "First woman Army Chief"
+    ],
+    "information": "First woman to become Prime Minister — Karki, 73, also holds the distinction of being Nepal's first female Chief Justice (2016–17). Her appointment as PM in September 2025 made her Nepal's first female head of government.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02249",
+    "question": "Which party won a landslide victory in Nepal's 2026 general elections?",
+    "answer": "Rastriya Swatantra Party (RSP)",
+    "choices": [
+      "Rastriya Swatantra Party (RSP)",
+      "Nepali Congress",
+      "CPN-UML",
+      "CPN-Maoist Centre"
+    ],
+    "information": "Rastriya Swatantra Party (RSP) — RSP won 125 of the 165 directly elected seats, a historic majority. The party was only founded in 2022 and rode the wave of anti-establishment sentiment post Gen Z protests.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02250",
+    "question": "Who is the leader and Prime Ministerial candidate of the Rastriya Swatantra Party (RSP) that won Nepal's 2026 elections?",
+    "answer": "Balendra Shah",
+    "choices": [
+      "Balendra Shah",
+      "Gagan Thapa",
+      "Rabi Lamichhane",
+      "Pushpa Kamal Dahal"
+    ],
+    "information": "Balendra Shah — Widely known as \"Balen\", he is a civil engineer and former rapper who became Kathmandu Mayor in 2022. He was a leading figure in the 2025 uprising and led RSP to a landslide in 2026.",
+    "tags": ""
   }
 ]

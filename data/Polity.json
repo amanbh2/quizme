@@ -2832,5 +2832,330 @@
     ],
     "information": "Originally 389, but reduced to 299 after partition as seats belonging to Pakistan were removed.",
     "tags": ""
+  },
+  {
+    "qid": "Q02251",
+    "question": "Under which Article of the Indian Constitution is the composition of Rajya Sabha defined?",
+    "answer": "Article 80",
+    "choices": [
+      "Article 80",
+      "Article 75",
+      "Article 84",
+      "Article 89"
+    ],
+    "information": "Article 80 — Article 80 defines the composition of Rajya Sabha. Article 75 deals with appointment of Ministers, Article 84 deals with qualifications for Parliament membership, and Article 89 deals with Chairman and Deputy Chairman of Rajya Sabha.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02252",
+    "question": "What is the maximum strength of Rajya Sabha as provided by the Constitution?",
+    "answer": "250",
+    "choices": [
+      "250",
+      "245",
+      "238",
+      "252"
+    ],
+    "information": "250 — The Constitution provides for a maximum of 250 members — 238 elected representatives of states/UTs and 12 nominated by the President. The current actual strength is 245.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02253",
+    "question": "How many members are nominated to Rajya Sabha by the President of India?",
+    "answer": "12",
+    "choices": [
+      "12",
+      "10",
+      "15",
+      "8"
+    ],
+    "information": "12 — The President nominates 12 members having special knowledge or practical experience in literature, science, art, and social service. This provision is borrowed from the Irish Constitution.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02254",
+    "question": "Which of the following correctly describes the method of election of Rajya Sabha members?",
+    "answer": "Indirect election by elected MLAs through Single Transferable Vote",
+    "choices": [
+      "Indirect election by elected MLAs through Single Transferable Vote",
+      "Direct election by voters through FPTP",
+      "Indirect election by all members of state legislature including nominated",
+      "Direct election through Proportional Representation"
+    ],
+    "information": "Indirect election by elected MLAs through STV — Only the elected members of State Vidhan Sabhas vote. Nominated MLAs are specifically excluded. The method used is Single Transferable Vote with proportional representation.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02255",
+    "question": "Who among the following CANNOT vote in Rajya Sabha elections?",
+    "answer": "Nominated members of State Legislative Assembly",
+    "choices": [
+      "Nominated members of State Legislative Assembly",
+      "Elected MLAs of Goa",
+      "Elected MLAs of Delhi",
+      "Elected MLAs of Puducherry"
+    ],
+    "information": "Nominated members of State Legislative Assembly — Only elected MLAs can vote for Rajya Sabha members. Nominated MLAs have no right to vote. Delhi and Puducherry MLAs can vote as these UTs have their own assemblies.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02256",
+    "question": "What is the minimum age required to become a member of Rajya Sabha?",
+    "answer": "30 years",
+    "choices": [
+      "30 years",
+      "25 years",
+      "35 years",
+      "21 years"
+    ],
+    "information": "30 years — The minimum age for Rajya Sabha membership is 30 years, whereas for Lok Sabha it is 25 years. This is prescribed under Article 84 of the Constitution.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02257",
+    "question": "Which constitutional amendment removed the requirement that a Rajya Sabha candidate must be a resident of the state from which they are contesting?",
+    "answer": "2003 amendment",
+    "choices": [
+      "2003 amendment",
+      "1992 amendment",
+      "1988 amendment",
+      "2010 amendment"
+    ],
+    "information": "2003 amendment — Before 2003, a candidate had to be a resident of the state they were contesting from. The amendment to the Representation of People Act in 2003 removed this requirement. Now a person can contest from any state.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02258",
+    "question": "One-third of Rajya Sabha members retire every:",
+    "answer": "2 years",
+    "choices": [
+      "2 years",
+      "3 years",
+      "1 year",
+      "6 years"
+    ],
+    "information": "2 years — Since each member has a 6-year term and one-third retire every 2 years, the body is never fully dissolved. This makes Rajya Sabha a permanent body unlike Lok Sabha.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02259",
+    "question": "Rajya Sabha is presided over by which constitutional authority?",
+    "answer": "Vice President of India",
+    "choices": [
+      "Vice President of India",
+      "President of India",
+      "Speaker of Lok Sabha",
+      "A member elected from among themselves"
+    ],
+    "information": "Vice President of India — The Vice President is the ex-officio Chairman of Rajya Sabha under Article 89. Importantly, the VP is NOT a member of Rajya Sabha but only presides over it.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02260",
+    "question": "The Vice President of India as Chairman of Rajya Sabha — which statement is CORRECT?",
+    "answer": "VP is not a member of Rajya Sabha but presides over it",
+    "choices": [
+      "VP is not a member of Rajya Sabha but presides over it",
+      "VP is both a member and Chairman of Rajya Sabha",
+      "VP can vote in case of a tie in Rajya Sabha",
+      "VP can introduce bills in Rajya Sabha"
+    ],
+    "information": "VP is not a member of Rajya Sabha but presides over it — This is a classic tricky fact. Unlike the Speaker of Lok Sabha who is a member of Lok Sabha, the VP is not a member of Rajya Sabha. The VP does not have a casting vote in RS.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02261",
+    "question": "Under Article 249, Rajya Sabha can empower Parliament to legislate on a State List subject by passing a resolution with which majority?",
+    "answer": "2/3rd majority of members present and voting",
+    "choices": [
+      "2/3rd majority of members present and voting",
+      "Simple majority",
+      "Absolute majority",
+      "2/3rd majority of total membership"
+    ],
+    "information": "2/3rd majority of members present and voting — Article 249 requires a special majority of 2/3rd of members present and voting (not total membership). The resolution is valid for 1 year and can be renewed indefinitely.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02262",
+    "question": "Which exclusive power does Rajya Sabha hold that Lok Sabha does NOT?",
+    "answer": "Creation of new All-India Services under Article 312",
+    "choices": [
+      "Creation of new All-India Services under Article 312",
+      "Introducing Money Bills",
+      "Passing Vote on Account",
+      "Moving no-confidence motion against government"
+    ],
+    "information": "Creation of new All-India Services under Article 312 — Only Rajya Sabha can pass a resolution by 2/3rd majority to create new All-India Services. This is an exclusive power of Rajya Sabha. No-confidence motion can only be moved in Lok Sabha.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02263",
+    "question": "A Money Bill is sent to Rajya Sabha. What happens if Rajya Sabha does not return it within 14 days?",
+    "answer": "It is deemed passed by both Houses",
+    "choices": [
+      "It is deemed passed by both Houses",
+      "It lapses automatically",
+      "Lok Sabha can hold a joint sitting",
+      "President can certify it directly"
+    ],
+    "information": "It is deemed passed by both Houses — Under Article 109, if Rajya Sabha does not return a Money Bill within 14 days, it is deemed to have been passed by both Houses. Rajya Sabha can only make recommendations on Money Bills which Lok Sabha may or may not accept.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02264",
+    "question": "Which of the following bills CANNOT be introduced in Rajya Sabha?",
+    "answer": "Money Bill",
+    "choices": [
+      "Money Bill",
+      "Ordinary Bill",
+      "Constitutional Amendment Bill",
+      "Private Member Bill"
+    ],
+    "information": "Money Bill — Under Article 109, a Money Bill can only be introduced in Lok Sabha on the recommendation of the President. It cannot originate in Rajya Sabha. Constitutional Amendment Bills and ordinary bills can be introduced in either house.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02265",
+    "question": "For removing the Vice President of India, where must the resolution be initiated?",
+    "answer": "Rajya Sabha only",
+    "choices": [
+      "Rajya Sabha only",
+      "Lok Sabha only",
+      "Either House",
+      "Joint sitting of both Houses"
+    ],
+    "information": "Rajya Sabha only — Under Article 67(b), a resolution for removal of the Vice President must be initiated in Rajya Sabha. This is another exclusive power of Rajya Sabha. The resolution then needs to be agreed to by Lok Sabha.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02266",
+    "question": "What is the quorum required to conduct business in Rajya Sabha?",
+    "answer": "1/10th of total membership (25 members)",
+    "choices": [
+      "1/10th of total membership (25 members)",
+      "1/4th of total membership",
+      "1/3rd of total membership",
+      "Majority of total membership"
+    ],
+    "information": "1/10th of total membership (25 members) — Under Article 100, the quorum for both Houses is 1/10th of total membership. For Rajya Sabha this means 25 members (out of 245). In the absence of quorum, the Chairman must adjourn the House.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02267",
+    "question": "Joint sitting of Parliament under Article 108 is presided over by whom?",
+    "answer": "Speaker of Lok Sabha",
+    "choices": [
+      "Speaker of Lok Sabha",
+      "Chairman of Rajya Sabha (Vice President)",
+      "President of India",
+      "Senior-most member present"
+    ],
+    "information": "Speaker of Lok Sabha — Article 108(4) states that joint sitting is presided over by the Speaker of Lok Sabha, or in their absence by the Deputy Speaker of Lok Sabha, or in their absence by the Deputy Chairman of Rajya Sabha.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02268",
+    "question": "For which of the following can a joint sitting of Parliament NOT be convened?",
+    "answer": "Constitutional Amendment Bills",
+    "choices": [
+      "Constitutional Amendment Bills",
+      "Ordinary Bills",
+      "Financial Bills (other than Money Bills)",
+      "Bills pending in Rajya Sabha for 6 months"
+    ],
+    "information": "Constitutional Amendment Bills — Joint sitting cannot be held for: (1) Money Bills, (2) Constitutional Amendment Bills. It can be held for ordinary bills and financial bills (other than money bills). This is a frequently asked tricky question.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02269",
+    "question": "Uttar Pradesh has the highest number of seats in Rajya Sabha. How many seats does UP have?",
+    "answer": "31",
+    "choices": [
+      "31",
+      "28",
+      "34",
+      "25"
+    ],
+    "information": "31 — UP has the highest number of Rajya Sabha seats (31) due to its large population. It is followed by Maharashtra (19), Tamil Nadu (18), Bihar (16), and West Bengal (16).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02270",
+    "question": "Which of the following statements about Rajya Sabha is INCORRECT?",
+    "answer": "Rajya Sabha can be dissolved by the President",
+    "choices": [
+      "Rajya Sabha can be dissolved by the President",
+      "Rajya Sabha is a permanent body",
+      "Rajya Sabha members have a 6-year term",
+      "Rajya Sabha was first constituted on 3 April 1952"
+    ],
+    "information": "Rajya Sabha can be dissolved by the President — This is INCORRECT. Rajya Sabha is a permanent body and can NEVER be dissolved. Only Lok Sabha can be dissolved by the President. This makes Rajya Sabha unique among the two houses.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02271",
+    "question": "The concept of nominated members in Rajya Sabha was borrowed from which country's constitution?",
+    "answer": "Ireland",
+    "choices": [
+      "Ireland",
+      "UK",
+      "USA",
+      "South Africa"
+    ],
+    "information": "Ireland — The provision of nominated members in Rajya Sabha having expertise in art, science, literature, and social service was borrowed from the Irish (Éire) Constitution. The Irish Senate (Seanad Éireann) has a similar provision.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02272",
+    "question": "A person is elected to fill a vacant Rajya Sabha seat mid-term. For how long will they serve?",
+    "answer": "Only the remaining term of the vacant seat",
+    "choices": [
+      "Only the remaining term of the vacant seat",
+      "A fresh full term of 6 years",
+      "3 years regardless",
+      "Until the next general elections"
+    ],
+    "information": "Only the remaining term of the vacant seat — When elected in a bye-election to fill a mid-term vacancy, the new member serves only the balance period of the original member's term, NOT a fresh 6-year term. This is a commonly asked tricky question.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02273",
+    "question": "Which of the following Union Territories has representation in Rajya Sabha?",
+    "answer": "Delhi, Puducherry, Jammu & Kashmir only",
+    "choices": [
+      "Delhi, Puducherry, Jammu & Kashmir only",
+      "All Union Territories",
+      "Delhi and Puducherry only",
+      "No Union Territory has representation"
+    ],
+    "information": "Delhi, Puducherry, Jammu & Kashmir only — These UTs have elected representation in Rajya Sabha, as these are the only UTs with their own Legislative Assemblies. Other UTs have no representation.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02274",
+    "question": "The electoral quota formula used in Rajya Sabha elections is:",
+    "answer": "(Total votes ÷ (Seats + 1)) + 1",
+    "choices": [
+      "(Total votes ÷ (Seats + 1)) + 1",
+      "Total votes ÷ Total seats",
+      "(Total votes ÷ Seats) + 1",
+      "Total votes ÷ (Seats + 1)"
+    ],
+    "information": "(Total votes ÷ (Seats + 1)) + 1 — This is the Droop quota formula used in Single Transferable Vote proportional representation elections. It ensures minimum wasted votes and that only the required number of candidates can reach the quota.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02275",
+    "question": "Rajya Sabha elections use which voting system to fill multiple seats from a single state simultaneously?",
+    "answer": "Single Transferable Vote (Proportional Representation)",
+    "choices": [
+      "Single Transferable Vote (Proportional Representation)",
+      "First Past The Post",
+      "List System",
+      "Two-Round System"
+    ],
+    "information": "Single Transferable Vote (Proportional Representation) — STV allows voters (MLAs) to rank candidates by preference (1, 2, 3...). If a candidate reaches the quota they are elected; if not, the lowest candidate is eliminated and votes transfer to next preferences. This ensures proportional representation even within the state legislature.",
+    "tags": ""
   }
 ]

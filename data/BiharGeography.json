@@ -1,0 +1,1172 @@
+[
+  {
+    "qid": "Q02556",
+    "question": "What is the total area of Bihar?",
+    "answer": "94,163 sq. km",
+    "choices": [
+      "94,163 sq. km",
+      "92,163 sq. km",
+      "96,163 sq. km",
+      "97,414 sq. km"
+    ],
+    "information": "94,163 sq. km. Bihar is the 12th largest state in India, covering 1.36% of India's total area. 97,414 sq. km is a common wrong option (old pre-bifurcation figure).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02557",
+    "question": "Bihar shares its northern boundary with:",
+    "answer": "Nepal",
+    "choices": [
+      "Nepal",
+      "China",
+      "Bhutan",
+      "Tibet"
+    ],
+    "information": "Nepal. Bihar shares ~726 km of international boundary with Nepal in the north. 7 districts touch this border: West Champaran, East Champaran, Sitamarhi, Madhubani, Supaul, Araria, Kishanganj.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02558",
+    "question": "Which district of Bihar touches BOTH Nepal and West Bengal?",
+    "answer": "Kishanganj",
+    "choices": [
+      "Kishanganj",
+      "Araria",
+      "Supaul",
+      "Madhubani"
+    ],
+    "information": "Kishanganj is the only Bihar district that borders both Nepal (north) and West Bengal (east). This makes it a tri-junction district and a frequent BPSC question.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02559",
+    "question": "Jharkhand was carved out of Bihar on which date?",
+    "answer": "November 15, 2000",
+    "choices": [
+      "November 15, 2000",
+      "November 1, 2000",
+      "October 15, 2000",
+      "November 15, 1999"
+    ],
+    "information": "November 15, 2000. Jharkhand became the 28th state of India. This date is also the birth anniversary of Birsa Munda, chosen deliberately. November 1 = Chhattisgarh & Uttarakhand formation date.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02560",
+    "question": "Which river partially forms Bihar's western boundary with Uttar Pradesh?",
+    "answer": "Karamnasa",
+    "choices": [
+      "Karamnasa",
+      "Son",
+      "Gandak",
+      "Ghaghra"
+    ],
+    "information": "Karamnasa river marks the partial border between Bihar (Kaimur district) and UP (Varanasi/Chandauli). Son flows entirely within Bihar. Gandak is in North Bihar.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02561",
+    "question": "The 'Kaimur Plateau' in Bihar belongs to which geological formation?",
+    "answer": "Vindhyan Supergroup",
+    "choices": [
+      "Vindhyan Supergroup",
+      "Gondwana formation",
+      "Deccan Trap",
+      "Archaean Crystalline"
+    ],
+    "information": "Vindhyan Supergroup. Kaimur Plateau (Rohtas, Kaimur districts) is composed of old sandstone and limestone of the Vindhyan Supergroup — among India's oldest sedimentary formations.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02562",
+    "question": "Which waterfall in Bihar is called the 'Niagara of Bihar'?",
+    "answer": "Kakolat (Nawada)",
+    "choices": [
+      "Kakolat (Nawada)",
+      "Dhua Kund (Rohtas)",
+      "Budha Dhar (Rohtas)",
+      "Manjhar Kund (Rohtas)"
+    ],
+    "information": "Kakolat Waterfall (Nawada) is nicknamed the 'Niagara of Bihar' (~160 ft). Dhua Kund (Rohtas) is called the 'smoke waterfall' due to spray/mist. Both are close options — distinguish by district.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02563",
+    "question": "What is the State Animal of Bihar?",
+    "answer": "Gaur (Indian Bison)",
+    "choices": [
+      "Gaur (Indian Bison)",
+      "Bengal Tiger",
+      "Indian Elephant",
+      "One-horned Rhinoceros"
+    ],
+    "information": "Gaur (Bos gaurus) is Bihar's state animal. This surprises many — Gaur is found in Valmiki Tiger Reserve. Tiger is NOT the state animal despite VTR being a tiger reserve.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02564",
+    "question": "The Vikramshila Gangetic Dolphin Sanctuary covers which stretch of the Ganga?",
+    "answer": "Sultanganj to Kahalgaon (Bhagalpur)",
+    "choices": [
+      "Sultanganj to Kahalgaon (Bhagalpur)",
+      "Patna to Munger",
+      "Hajipur to Digha",
+      "Buxar to Ara"
+    ],
+    "information": "Sultanganj to Kahalgaon (60 km stretch in Bhagalpur district). It is India's only dedicated Gangetic dolphin sanctuary. The Gangetic Dolphin is Bihar's state aquatic animal and a Schedule I species.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02565",
+    "question": "Which physiographic zone of Bihar is associated with the oldest rock formations?",
+    "answer": "Chota Nagpur Plateau Extension (South Bihar)",
+    "choices": [
+      "Chota Nagpur Plateau Extension (South Bihar)",
+      "North Bihar Plains",
+      "Middle Gangetic Plains",
+      "Terai Zone"
+    ],
+    "information": "Chota Nagpur Plateau Extension (Jamui, Nawada, Gaya, Rohtas) has Pre-Cambrian crystalline rocks — the oldest geological formations in Bihar, part of Gondwana supercontinent.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02566",
+    "question": "Why is South Bihar drought-prone despite being in the Gangetic plain?",
+    "answer": "Rivers originate from Chota Nagpur plateau, not glaciers",
+    "choices": [
+      "Rivers originate from Chota Nagpur plateau, not glaciers",
+      "Low annual rainfall compared to North Bihar",
+      "Underground water table is very deep",
+      "All rivers flow underground in summer"
+    ],
+    "information": "Rivers originate from Chota Nagpur plateau (not glaciers/Himalayas). South Bihar rivers (Son, Phalgu, Punpun) depend entirely on monsoon — no snowmelt to sustain them in dry season. This is a classic cause-effect question.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02567",
+    "question": "Barabar Caves — the oldest rock-cut caves in India — are located in which district of Bihar?",
+    "answer": "Gaya",
+    "choices": [
+      "Gaya",
+      "Nalanda",
+      "Nawada",
+      "Rohtas"
+    ],
+    "information": "Gaya district. Barabar Caves are carved in Barabar Hills (granite), built during Ashoka's reign (3rd century BCE). E.M. Forster's 'A Passage to India' references them as 'Marabar Caves.'",
+    "tags": ""
+  },
+  {
+    "qid": "Q02568",
+    "question": "Bihar's State Bird is:",
+    "answer": "House Sparrow",
+    "choices": [
+      "House Sparrow",
+      "Sarus Crane",
+      "Indian Roller",
+      "Black-necked Stork"
+    ],
+    "information": "House Sparrow (Passer domesticus). This is unusual as most states have more exotic birds. It was declared to raise awareness about declining sparrow population in urban areas. Frequently appears in \"which is incorrect\" type.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02569",
+    "question": "Which of the following is INCORRECT about Bihar?",
+    "answer": "Bihar is the 8th largest state by area",
+    "choices": [
+      "Bihar is the 8th largest state by area",
+      "Bihar is landlocked",
+      "Jharkhand was carved out in 2000",
+      "Bihar's capital is Patna"
+    ],
+    "information": "Bihar is the 8th largest state by area — INCORRECT. Bihar is the 12th largest state. It IS landlocked, Jharkhand WAS carved out in 2000, and Patna IS the capital. Classic \"which is incorrect\" trap.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02570",
+    "question": "The Rajgir Hills are significant because: (i) They surround the ancient Rajgir valley (ii) They have Buddhist historical importance (iii) They are the source of the Falgu river (iv) Gridhrakuta hill is here where Buddha preached",
+    "answer": "i, ii and iv only",
+    "choices": [
+      "i, ii and iv only",
+      "All four",
+      "i and iii only",
+      "ii, iii and iv"
+    ],
+    "information": "i, ii and iv only. Rajgir hills surround the valley, have Buddhist importance, and Gridhrakuta (Vulture's Peak) is where Buddha preached. Falgu river originates from Chota Nagpur hills, NOT from Rajgir.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02571",
+    "question": "The latitudinal extent of Bihar is approximately:",
+    "answer": "24°20'N to 27°31'N",
+    "choices": [
+      "24°20'N to 27°31'N",
+      "22°N to 27°N",
+      "24°N to 28°N",
+      "25°N to 27°30'N"
+    ],
+    "information": "24°20'10\"N to 27°31'15\"N. This gives Bihar a north-south extent of about 3°10'. The longitudinal extent is 83°19'E to 88°17'E (~5° east-west).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02572",
+    "question": "The Gangetic Dolphin was declared Bihar's state aquatic animal and is listed under which schedule of the Wildlife Protection Act 1972?",
+    "answer": "Schedule I",
+    "choices": [
+      "Schedule I",
+      "Schedule II",
+      "Schedule IV",
+      "Schedule VI"
+    ],
+    "information": "Schedule I — highest protection under Wildlife Protection Act 1972. Gangetic Dolphin (Platanista gangetica) is also India's National Aquatic Animal. Found in Vikramshila Sanctuary, Bhagalpur.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02573",
+    "question": "Which of the following rivers does NOT originate from Nepal and enter Bihar from the north?",
+    "answer": "Son",
+    "choices": [
+      "Son",
+      "Kosi",
+      "Gandak",
+      "Bagmati"
+    ],
+    "information": "Son river originates from Amarkantak (MP) and enters Bihar from the southwest/south — it is a RIGHT bank tributary of Ganga. Kosi, Gandak, and Bagmati all originate in Nepal.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02574",
+    "question": "The 'Dhua Kund' waterfall in Rohtas district gets its name because:",
+    "answer": "Spray from the waterfall creates a mist/smoke effect",
+    "choices": [
+      "Spray from the waterfall creates a mist/smoke effect",
+      "It is covered in smoke from nearby forest fires",
+      "Underground gas creates smoke near the fall",
+      "Local fog stays trapped near the waterfall"
+    ],
+    "information": "Spray from the waterfall creates a mist/smoke effect. 'Dhua' means smoke in Hindi. The waterfall's spray creates a permanent mist, giving it this name. Located on the Durgawati river in Rohtas.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02575",
+    "question": "State flower of Bihar, Kachnar, belongs to which plant family?",
+    "answer": "Fabaceae (Leguminosae)",
+    "choices": [
+      "Fabaceae (Leguminosae)",
+      "Rosaceae",
+      "Malvaceae",
+      "Solanaceae"
+    ],
+    "information": "Fabaceae (Leguminosae). Kachnar (Bauhinia variegata), also called Orchid Tree or Mountain Ebony, belongs to the legume/pea family. Its flowers are used in cuisine (sabzi) in Bihar.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02576",
+    "question": "The Ganga enters Bihar at which place?",
+    "answer": "Buxar",
+    "choices": [
+      "Buxar",
+      "Patna",
+      "Ara (Arrah)",
+      "Dehri"
+    ],
+    "information": "Buxar is where the Ganga enters Bihar from Uttar Pradesh. It exits near the Farakka zone/Rajmahal. The Ganga flows ~445 km through Bihar. Buxar is also famous for the 1764 Battle of Buxar.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02577",
+    "question": "At which place does the Ganga flow northward in Bihar, making it especially sacred?",
+    "answer": "Sultanganj (Bhagalpur)",
+    "choices": [
+      "Sultanganj (Bhagalpur)",
+      "Patna",
+      "Munger",
+      "Hajipur"
+    ],
+    "information": "Sultanganj (Bhagalpur). The Ganga flows northward here — called \"Ulta Ganga.\" Water collected here is carried 105 km to Deoghar (Jharkhand) by Kanwariyas during Shravani Mela. A unique geographical + cultural fact.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02578",
+    "question": "The Kosi river is known as 'Saptakoshi' because:",
+    "answer": "It is formed by 7 streams merging in Nepal",
+    "choices": [
+      "It is formed by 7 streams merging in Nepal",
+      "It has 7 major floods every century",
+      "It passes through 7 districts of Bihar",
+      "It has 7 barrages built on it"
+    ],
+    "information": "It is formed by 7 streams in Nepal — Tamor, Arun, Dudhkoshi, Tamakoshi, Sunkoshi, Indravati, Likhu. These merge before entering Bihar at Bhimnagar (Supaul).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02579",
+    "question": "The Kosi Barrage is located at:",
+    "answer": "Bhimnagar (Supaul)",
+    "choices": [
+      "Bhimnagar (Supaul)",
+      "Valmikinagar (W.Champaran)",
+      "Dehri (Rohtas)",
+      "Kahalgaon (Bhagalpur)"
+    ],
+    "information": "Bhimnagar, Supaul. Built in 1963 as a joint India-Nepal project. The 2008 breach occurred upstream at Kusaha (Nepal side), not at Bhimnagar itself. Valmikinagar = Gandak Barrage. Dehri = Sone Barrage.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02580",
+    "question": "The Gandak river joins the Ganga at:",
+    "answer": "Hajipur / Sonpur (Saran)",
+    "choices": [
+      "Hajipur / Sonpur (Saran)",
+      "Patna",
+      "Munger",
+      "Bhagalpur"
+    ],
+    "information": "Hajipur/Sonpur (Saran district). This confluence is the site of the famous Sonpur Mela (Harihar Kshetra) — Asia's largest cattle fair, held on Kartik Purnima.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02581",
+    "question": "Which of the following rivers originates WITHIN Bihar (not from Nepal or another state)?",
+    "answer": "Burhi Gandak",
+    "choices": [
+      "Burhi Gandak",
+      "Kosi",
+      "Bagmati",
+      "Gandak"
+    ],
+    "information": "Burhi Gandak originates from Someshwar hills in West Champaran — entirely within Bihar. Kosi, Bagmati, Gandak all originate in Nepal. This is a classic close-option trap.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02582",
+    "question": "Kanwar Lake (Kabar Taal) in Begusarai is significant because: (i) Asia's largest freshwater ox-bow lake (ii) Bihar's only Ramsar site (iii) Declared Ramsar site in 2020 (iv) Known for Siberian crane migration",
+    "answer": "All four",
+    "choices": [
+      "All four",
+      "i and ii only",
+      "i, ii, and iii only",
+      "ii and iv only"
+    ],
+    "information": "All four are correct. Kanwar Lake is Asia's largest freshwater ox-bow lake, Bihar's only Ramsar site (declared 2020), and hosts Siberian cranes and other migratory birds. All facts are BPSC-tested.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02583",
+    "question": "The Son river joins the Ganga on which bank, and near which city?",
+    "answer": "Right bank, near Maner/Danapur (Patna)",
+    "choices": [
+      "Right bank, near Maner/Danapur (Patna)",
+      "Left bank, near Hajipur",
+      "Right bank, near Arrah",
+      "Left bank, near Bhagalpur"
+    ],
+    "information": "Right bank, near Maner/Danapur (Patna district). Son is a right-bank tributary = south bank = comes from MP/Chota Nagpur. Left bank = north bank = Nepal rivers.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02584",
+    "question": "Which river is called the 'Sorrow of Bengal'?",
+    "answer": "Damodar",
+    "choices": [
+      "Damodar",
+      "Kosi",
+      "Hooghly",
+      "Mahananda"
+    ],
+    "information": "Damodar = Sorrow of Bengal. Kosi = Sorrow of Bihar. Mahanadi = not a sorrow river. This pair is a standard BPSC trap — mixing up which river is sorrow of which state.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02585",
+    "question": "The Vikramshila Gangetic Dolphin Sanctuary covers which stretch?",
+    "answer": "Sultanganj to Kahalgaon (Bhagalpur, 60 km)",
+    "choices": [
+      "Sultanganj to Kahalgaon (Bhagalpur, 60 km)",
+      "Patna to Munger (100 km)",
+      "Hajipur to Patna (30 km)",
+      "Buxar to Arrah (50 km)"
+    ],
+    "information": "Sultanganj to Kahalgaon, 60 km stretch in Bhagalpur. India's only dedicated Gangetic dolphin sanctuary. The dolphin is Bihar's state aquatic animal and India's national aquatic animal.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02586",
+    "question": "The Gangetic Dolphin navigates the murky Ganga water primarily by:",
+    "answer": "Echolocation (like bats)",
+    "choices": [
+      "Echolocation (like bats)",
+      "Electroreception",
+      "Keen eyesight",
+      "Sensing water temperature"
+    ],
+    "information": "Echolocation. The Gangetic dolphin is nearly blind (eyes have no lens). It uses high-frequency sound waves to navigate — similar to bats. This is a science + geography crossover question BPSC loves.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02587",
+    "question": "Which river flows past Pashupatinath Temple in Kathmandu before entering Bihar?",
+    "answer": "Bagmati",
+    "choices": [
+      "Bagmati",
+      "Gandak",
+      "Kosi",
+      "Burhi Gandak"
+    ],
+    "information": "Bagmati. It flows past the sacred Pashupatinath Temple in Kathmandu, Nepal, then enters Bihar at Sitamarhi and flows through the Mithila heartland (Darbhanga, Muzaffarpur) before joining Ganga at Badlaghat (Khagaria).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02588",
+    "question": "Makhana (fox nut) cultivation in Bihar is primarily associated with which type of water body?",
+    "answer": "Chaurs (seasonal flooded depressions)",
+    "choices": [
+      "Chaurs (seasonal flooded depressions)",
+      "Ox-bow lakes",
+      "Reservoirs",
+      "Ponds and tanks"
+    ],
+    "information": "Chaurs — seasonally flooded low-lying areas in North Bihar (Darbhanga, Madhubani, Sitamarhi). Bihar produces ~80% of India's makhana; India produces ~90% of world's makhana. Makhana has GI tag.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02589",
+    "question": "The oldest barrage in Bihar, built during British rule in 1874, is:",
+    "answer": "Sone Barrage at Dehri (Rohtas)",
+    "choices": [
+      "Sone Barrage at Dehri (Rohtas)",
+      "Gandak Barrage at Valmikinagar",
+      "Kosi Barrage at Bhimnagar",
+      "Bagmati Barrage at Sitamarhi"
+    ],
+    "information": "Sone Barrage at Dehri (Rohtas), 1874. Built by the British for irrigation. Gandak Barrage = 1970. Kosi Barrage = 1963. Sone is the oldest.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02590",
+    "question": "The 2008 Kosi floods were caused by:",
+    "answer": "Breach of embankment at Kusaha, Nepal",
+    "choices": [
+      "Breach of embankment at Kusaha, Nepal",
+      "Excessive rainfall in Supaul",
+      "Collapse of Kosi Barrage at Bhimnagar",
+      "Release of water from Bansagar Dam"
+    ],
+    "information": "Breach at Kusaha, Nepal (18 August 2008). The eastern embankment breached, shifting the river 120 km eastward. Affected 3.3 million people in Supaul, Madhepura, Saharsa, Araria, Purnea. The Kosi Barrage at Bhimnagar did NOT collapse.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02591",
+    "question": "Which river forms the partial eastern boundary between Bihar and West Bengal?",
+    "answer": "Mahananda",
+    "choices": [
+      "Mahananda",
+      "Kosi",
+      "Ganga",
+      "Tista"
+    ],
+    "information": "Mahananda. It originates in Darjeeling hills, enters Bihar at Kishanganj, and forms the Bihar-West Bengal boundary zone. Uniquely, it ultimately joins Ganga in Bangladesh — not within Bihar's territory.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02592",
+    "question": "The Phalgu river at Gaya is also called:",
+    "answer": "Niranjana",
+    "choices": [
+      "Niranjana",
+      "Falgu",
+      "Sone",
+      "Karmnasa"
+    ],
+    "information": "Niranjana — the name of the river where Gautama Buddha meditated before attaining enlightenment at Bodh Gaya. Also called Phalgu. It is a \"lost river\" — flows underground in summer. Also sacred for Pitru Paksha (Pind Daan).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02593",
+    "question": "Chaurs in Bihar are predominantly found in which region?",
+    "answer": "North Bihar (Darbhanga, Madhubani, Muzaffarpur belt)",
+    "choices": [
+      "North Bihar (Darbhanga, Madhubani, Muzaffarpur belt)",
+      "South Bihar (Gaya, Aurangabad)",
+      "Eastern Bihar (Bhagalpur, Banka)",
+      "Western Bihar (Rohtas, Kaimur)"
+    ],
+    "information": "North Bihar — between river embankments and natural high ground. Caused by waterlogging when Himalayan rivers flood. Key districts: Darbhanga, Madhubani, Sitamarhi, Samastipur, Muzaffarpur.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02594",
+    "question": "Which is INCORRECT about the Ghaghra river in Bihar?",
+    "answer": "Ghaghra originates from Darjeeling hills",
+    "choices": [
+      "Ghaghra originates from Darjeeling hills",
+      "Ghaghra is also called Saryu",
+      "Ghaghra joins Ganga at Revelganj (Saran)",
+      "Ghaghra is the largest left-bank tributary of Ganga by discharge"
+    ],
+    "information": "Ghaghra originates from Darjeeling hills — INCORRECT. Ghaghra originates from Mapchachungo glacier in Tibet (also called Karnali in Nepal). Mahananda originates from Darjeeling. Ghaghra IS the largest left-bank Ganga tributary by discharge — that part is correct.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02595",
+    "question": "The Sonpur Mela (Asia's largest cattle fair) is held at the confluence of which two rivers?",
+    "answer": "Gandak and Ganga",
+    "choices": [
+      "Gandak and Ganga",
+      "Kosi and Ganga",
+      "Son and Ganga",
+      "Bagmati and Ganga"
+    ],
+    "information": "Gandak and Ganga at Sonpur/Hajipur (Saran district). Held on Kartik Purnima every year at the Harihar Kshetra temple. One of the largest fairs in Asia — elephants, cattle, and now general goods.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02596",
+    "question": "Which Bihar river flows through Muzaffarpur city?",
+    "answer": "Burhi Gandak",
+    "choices": [
+      "Burhi Gandak",
+      "Gandak",
+      "Bagmati",
+      "Kamla"
+    ],
+    "information": "Burhi Gandak flows through Muzaffarpur city. Gandak flows west of Muzaffarpur. Bagmati passes through Darbhanga belt. This district-river mapping is a frequent BPSC direct question.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02597",
+    "question": "The Kosi has shifted approximately how far westward over the past 200–250 years?",
+    "answer": "~120 km",
+    "choices": [
+      "~120 km",
+      "~50 km",
+      "~200 km",
+      "~80 km"
+    ],
+    "information": "~120 km westward. The Kosi has shifted from near the Mahananda (eastern edge) to near the Gandak (western edge) over ~250 years due to enormous sediment deposition raising its own riverbed. This is the primary reason for its flood devastation pattern.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02598",
+    "question": "Bihar's only Ramsar Wetland site is:",
+    "answer": "Kanwar Lake (Kabar Taal), Begusarai",
+    "choices": [
+      "Kanwar Lake (Kabar Taal), Begusarai",
+      "Udaypur Lake, West Champaran",
+      "Valmiki National Park wetlands",
+      "Kosi Flood Plains, Supaul"
+    ],
+    "information": "Kanwar Lake (Kabar Taal), Begusarai — declared Ramsar site in 2020. It is also Asia's largest freshwater ox-bow lake. The Ramsar Convention (1971) lists wetlands of international importance.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02599",
+    "question": "The Punpun river is a cause of flooding in which city's outskirts?",
+    "answer": "Patna (south)",
+    "choices": [
+      "Patna (south)",
+      "Gaya",
+      "Muzaffarpur",
+      "Bhagalpur"
+    ],
+    "information": "South Patna. Punpun flows very close to southern Patna before joining the Ganga at Phulwari Sharif. When Punpun overflows during heavy monsoon, it floods south Patna localities — a recurring disaster management issue.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02600",
+    "question": "Which statement about the Mahananda river is CORRECT?",
+    "answer": "It joins the Ganga in Bangladesh, not within Bihar",
+    "choices": [
+      "It joins the Ganga in Bangladesh, not within Bihar",
+      "It originates in Nepal's Mahabharat Range",
+      "It is a right-bank tributary of Ganga",
+      "It flows through Darbhanga district"
+    ],
+    "information": "It joins the Ganga in Bangladesh, not within Bihar. Mahananda originates in Darjeeling hills (not Nepal), is a LEFT-bank tributary, and passes through Kishanganj–Purnia–Katihar before crossing into West Bengal and joining the Padma (Ganga) in Bangladesh.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02601",
+    "question": "Bihar's climate is classified as which type under the Köppen system?",
+    "answer": "Humid subtropical (Cwa)",
+    "choices": [
+      "Humid subtropical (Cwa)",
+      "Tropical savanna (Aw)",
+      "Semi-arid (BSh)",
+      "Tropical monsoon (Am)"
+    ],
+    "information": "Humid subtropical (Cwa) — hot summers, cool winters, monsoon dominant. 'C' = temperate, 'w' = dry winter, 'a' = hot summer. Not tropical (no month stays above 18°C all year in winter).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02602",
+    "question": "Which branch of the Southwest Monsoon is primarily responsible for Bihar's rainfall?",
+    "answer": "Bay of Bengal branch",
+    "choices": [
+      "Bay of Bengal branch",
+      "Arabian Sea branch",
+      "Both equally",
+      "Northwest branch"
+    ],
+    "information": "Bay of Bengal branch. It travels up the Ganga valley westward and is the primary rain source for Bihar. The Arabian Sea branch mostly affects West India. This is a frequently tested distinction.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02603",
+    "question": "The Loo wind blows in which direction across Bihar?",
+    "answer": "West to East",
+    "choices": [
+      "West to East",
+      "East to West",
+      "North to South",
+      "Northwest to Southeast"
+    ],
+    "information": "West to East. Loo is a hot dry dusty wind blowing from Rajasthan/western UP eastward through the Gangetic plain in May-June. Not to be confused with Kalbaisakhi which blows NW to SE.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02604",
+    "question": "Kalbaisakhi (Nor'westers) are significant for Bihar's economy because:",
+    "answer": "They are critical for jute cultivation",
+    "choices": [
+      "They are critical for jute cultivation",
+      "They provide main monsoon rainfall",
+      "They replenish groundwater",
+      "They cool the Loo winds"
+    ],
+    "information": "Critical for jute cultivation. Nor'westers bring pre-monsoon moisture in April-May — essential for jute cultivation in eastern Bihar and Bengal. They are violent thunderstorms, NOT monsoon rain.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02605",
+    "question": "Which district of Bihar experiences both the hottest summers AND coldest winters?",
+    "answer": "Gaya",
+    "choices": [
+      "Gaya",
+      "Patna",
+      "Muzaffarpur",
+      "Bhagalpur"
+    ],
+    "information": "Gaya — the most continental climate in Bihar. Hottest in summer (44-46°C) and coldest in winter (3-5°C). Reason: inland location, rain shadow of Chota Nagpur, no river moderating effect.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02606",
+    "question": "Which district of Bihar receives the highest annual rainfall?",
+    "answer": "Kishanganj",
+    "choices": [
+      "Kishanganj",
+      "Darbhanga",
+      "Muzaffarpur",
+      "Bhagalpur"
+    ],
+    "information": "Kishanganj (~1600-1800 mm) — Bihar's easternmost district, closest to Bay of Bengal moisture source. Also influenced by northeast India orographic effects. Gaya receives the lowest.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02607",
+    "question": "Western Disturbances that bring winter rain to Bihar originate from which region?",
+    "answer": "Mediterranean Sea",
+    "choices": [
+      "Mediterranean Sea",
+      "Arabian Sea",
+      "Bay of Bengal",
+      "South China Sea"
+    ],
+    "information": "Mediterranean Sea. Western Disturbances are extra-tropical cyclones that originate over the Mediterranean, pick up moisture over Caspian/Black Sea, and travel eastward bringing winter rain to North India including Bihar.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02608",
+    "question": "The Southwest Monsoon normally arrives in Bihar by:",
+    "answer": "June 10–15",
+    "choices": [
+      "June 10–15",
+      "2001-06-01 00:00:00",
+      "June 20–25",
+      "2001-07-01 00:00:00"
+    ],
+    "information": "June 10–15 is the normal onset date for Bihar. Kerala gets it June 1. Bihar gets it ~10-15 days later. By June 20-25 it covers all of Bihar. Withdrawal begins early October.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02609",
+    "question": "During 'Break Monsoon' conditions, which region gets INCREASED rainfall while Bihar gets a dry spell?",
+    "answer": "Northeast India and Himalayan foothills",
+    "choices": [
+      "Northeast India and Himalayan foothills",
+      "Rajasthan",
+      "South India",
+      "Central India (Madhya Pradesh)"
+    ],
+    "information": "Northeast India and Himalayan foothills. During break monsoon, the trough shifts northward — Meghalaya, Assam, and Himalayan states get heavy rain while the Gangetic plains (including Bihar) experience a dry break.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02610",
+    "question": "Why does Gaya district receive the lowest rainfall in Bihar?",
+    "answer": "Rain shadow of Chota Nagpur plateau + inland position",
+    "choices": [
+      "Rain shadow of Chota Nagpur plateau + inland position",
+      "It is farthest from any river",
+      "It is at the highest elevation in Bihar",
+      "Western disturbances don't reach Gaya"
+    ],
+    "information": "Rain shadow of Chota Nagpur plateau + inland position. Gaya sits in a topographic bowl — the Chota Nagpur plateau blocks some moisture, and its inland location means moisture is already partially spent before reaching it.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02611",
+    "question": "Which of the following is INCORRECT about the Loo wind?",
+    "answer": "Loo blows from Northwest to Southeast",
+    "choices": [
+      "Loo blows from Northwest to Southeast",
+      "Loo is a hot dry dusty wind",
+      "Loo blows mainly in May-June",
+      "Loo causes heat stroke and dehydration"
+    ],
+    "information": "Loo blows from Northwest to Southeast — INCORRECT. Loo blows from WEST to EAST (or WSW to ENE). Northwest to Southeast is the direction of Kalbaisakhi/Nor'westers. This direction swap is a classic BPSC trap.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02612",
+    "question": "The post-monsoon Bay of Bengal depressions in October-November primarily cause flooding in which part of Bihar?",
+    "answer": "Eastern Bihar (Bhagalpur, Purnia, Katihar)",
+    "choices": [
+      "Eastern Bihar (Bhagalpur, Purnia, Katihar)",
+      "North Bihar (Darbhanga, Muzaffarpur)",
+      "South Bihar (Gaya, Aurangabad)",
+      "Western Bihar (Rohtas, Kaimur)"
+    ],
+    "information": "Eastern Bihar — closest to Bay of Bengal. These post-monsoon depressions move westward and first hit eastern Bihar. Bhagalpur, Purnia, Katihar, Saharsa are most affected.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02613",
+    "question": "How many distinct seasons does Bihar experience?",
+    "answer": "4",
+    "choices": [
+      "4",
+      "2",
+      "3",
+      "6"
+    ],
+    "information": "4 seasons — Winter (Nov-Feb), Summer (Mar-May), Southwest Monsoon (Jun-Sep), Retreating Monsoon/Post-monsoon (Oct-Nov). BPSC tests this because many answer 2 (summer/winter) or 3 (summer/monsoon/winter).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02614",
+    "question": "'Cold wave' events in Bihar are most severe in which months?",
+    "answer": "December–January",
+    "choices": [
+      "December–January",
+      "October–November",
+      "February–March",
+      "November–December"
+    ],
+    "information": "December–January. Cold waves occur when cold continental air from the north descends. Dense fog accompanies cold waves. Bihar sees 5-10 cold wave days per year on average. North Bihar districts (Sitamarhi, Madhubani) are most affected.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02615",
+    "question": "Which crop benefits MOST from Western Disturbances in Bihar?",
+    "answer": "Wheat (Rabi crop)",
+    "choices": [
+      "Wheat (Rabi crop)",
+      "Paddy (Kharif)",
+      "Jute",
+      "Maize"
+    ],
+    "information": "Wheat — a Rabi (winter) crop that benefits from the light winter rains brought by Western Disturbances. This moisture during grain-filling stage improves wheat yield in Bihar significantly.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02616",
+    "question": "Bihar is ranked among the top climate-vulnerable states in India primarily because of:",
+    "answer": "Combination of flood risk in north and drought risk in south",
+    "choices": [
+      "Combination of flood risk in north and drought risk in south",
+      "Extreme temperatures only",
+      "Lack of forest cover",
+      "Proximity to cyclone-prone coast"
+    ],
+    "information": "Combination of flood risk (north Bihar) + drought risk (south Bihar). This dual vulnerability — floods and drought in the same state simultaneously — makes Bihar uniquely vulnerable. Climate change is intensifying both extremes.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02617",
+    "question": "The agro-climatic zones of Bihar are divided into how many zones?",
+    "answer": "3",
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "information": "3 agro-climatic zones — (1) North-West alluvial zone, (2) North-East alluvial zone, (3) South Bihar plateau zone. Each has different rainfall, temperature, soil, and crop patterns driven by Bihar's climate variation.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02618",
+    "question": "Chhath Puja in Bihar is associated with which season/climate transition?",
+    "answer": "Post-monsoon (Sharad) — after monsoon withdrawal, rivers recede",
+    "choices": [
+      "Post-monsoon (Sharad) — after monsoon withdrawal, rivers recede",
+      "Peak monsoon — rivers at full flood",
+      "Peak winter — Makar Sankranti",
+      "Pre-monsoon — summer solstice"
+    ],
+    "information": "Post-monsoon (Sharad/Kartik) — Chhath is celebrated in Kartik month (Oct-Nov) when the monsoon has withdrawn, rivers are receding to normal levels, and the weather is pleasant. A geography + culture crossover BPSC loves.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02619",
+    "question": "What is the approximate annual average rainfall of Bihar as a whole?",
+    "answer": "~1000–1200 mm",
+    "choices": [
+      "~1000–1200 mm",
+      "~500–700 mm",
+      "~1500–2000 mm",
+      "~700–900 mm"
+    ],
+    "information": "~1000–1200 mm is Bihar's overall average — but with huge variation from Kishanganj (1800 mm) to Gaya (700 mm). The state average masks the north-south divide which is the real exam point.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02620",
+    "question": "Which phenomenon causes 'break monsoon' in Bihar?",
+    "answer": "Northward shift of monsoon trough to Himalayan foothills",
+    "choices": [
+      "Northward shift of monsoon trough to Himalayan foothills",
+      "Weakening of Bay of Bengal low pressure",
+      "Arabian Sea high pressure blocking moisture",
+      "Western disturbance interrupting monsoon flow"
+    ],
+    "information": "Northward shift of monsoon trough. When the Inter-Tropical Convergence Zone (ITCZ) / monsoon trough shifts northward to Himalayan foothills, the Gangetic plains (Bihar) get a dry break while Northeast India/hills get heavy rain.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02621",
+    "question": "Chhath Puja is unique among Hindu festivals because:",
+    "answer": "It worships both the SETTING sun (Sandhya Arghya) and rising sun — most festivals only worship rising sun",
+    "choices": [
+      "It worships both the SETTING sun (Sandhya Arghya) and rising sun — most festivals only worship rising sun",
+      "It is the oldest Hindu festival",
+      "It requires elaborate temple rituals",
+      "It is only celebrated by women"
+    ],
+    "information": "Worships setting sun (Sandhya Arghya on Day 3) + rising sun (Usha Arghya on Day 4). No other major festival worships the setting/declining sun. Also unique: no temple, no priest, outdoor water-body ritual. Rig Vedic origin.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02622",
+    "question": "The four days of Chhath Puja in correct order are:",
+    "answer": "Nahay Khay → Kharna → Sandhya Arghya → Usha Arghya",
+    "choices": [
+      "Nahay Khay → Kharna → Sandhya Arghya → Usha Arghya",
+      "Kharna → Nahay Khay → Usha Arghya → Sandhya Arghya",
+      "Sandhya Arghya → Usha Arghya → Nahay Khay → Kharna",
+      "Usha Arghya → Sandhya Arghya → Kharna → Nahay Khay"
+    ],
+    "information": "Nahay Khay (Day 1) → Kharna (Day 2) → Sandhya Arghya/sunset offering (Day 3) → Usha Arghya/sunrise offering (Day 4). The fast begins after Kharna and breaks only after Usha Arghya. N-K-S-U order.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02623",
+    "question": "Sonepur Mela (Harihar Kshetra) is held at the confluence of which two rivers?",
+    "answer": "Gandak and Ganga (near Hajipur/Sonepur)",
+    "choices": [
+      "Gandak and Ganga (near Hajipur/Sonepur)",
+      "Son and Ganga",
+      "Kosi and Ganga",
+      "Bagmati and Ganga"
+    ],
+    "information": "Gandak and Ganga — despite being called Sonepur Mela, it is NOT at the Son river. Held at Gandak-Ganga confluence near Sonepur/Hajipur (Saran district). Asia's largest cattle fair. Harihar Nath Temple is there.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02624",
+    "question": "Asia's largest cattle fair is:",
+    "answer": "Sonepur Mela (Harihar Kshetra), Bihar",
+    "choices": [
+      "Sonepur Mela (Harihar Kshetra), Bihar",
+      "Pushkar Mela, Rajasthan",
+      "Bateshwar Fair, UP",
+      "Turra Fair, MP"
+    ],
+    "information": "Sonepur Mela (Bihar) — held at Kartik Purnima at Gandak-Ganga confluence. Pushkar Mela is famous but smaller. Sonepur has historically traded elephants, horses, cattle. Elephant trade stopped after Wildlife Protection Act application.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02625",
+    "question": "The Vishnupad Temple at Gaya was built by whom and when?",
+    "answer": "Ahilya Bai Holkar of Indore — 1787 CE",
+    "choices": [
+      "Ahilya Bai Holkar of Indore — 1787 CE",
+      "Emperor Ashoka — 3rd century BCE",
+      "Chandragupta II — 4th century CE",
+      "Akbar — 16th century CE"
+    ],
+    "information": "Ahilya Bai Holkar (1787 CE) — Maratha queen of Indore who built/renovated many temples across India including Kashi Vishwanath and Vishnupad. The 40-cm Vishnu footprint (Charan) is the main object of worship.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02626",
+    "question": "The Saurath Sabha fair at Saurath village (Madhubani) is famous as:",
+    "answer": "World's largest matrimonial gathering — for Maithil Brahmin groom selection",
+    "choices": [
+      "World's largest matrimonial gathering — for Maithil Brahmin groom selection",
+      "Bihar's oldest religious fair",
+      "Asia's largest cattle fair",
+      "A Buddhist meditation fair"
+    ],
+    "information": "World's largest matrimonial gathering — Maithil Brahmin families come for Var-Vadhuka Milan (groom-bride matching). Has been happening for centuries. Held in June (Jyeshtha month). Unique to Mithila culture.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02627",
+    "question": "The Buddhist Councils were held at which Bihar locations?",
+    "answer": "1st at Rajgir; 2nd at Vaishali; 3rd at Pataliputra (Patna)",
+    "choices": [
+      "1st at Rajgir; 2nd at Vaishali; 3rd at Pataliputra (Patna)",
+      "All three at Rajgir",
+      "1st at Nalanda; 2nd at Rajgir; 3rd at Vaishali",
+      "1st at Vaishali; 2nd at Rajgir; 3rd at Nalanda"
+    ],
+    "information": "1st = Rajgir (483 BCE); 2nd = Vaishali (383 BCE); 3rd = Pataliputra/Patna (250 BCE, Ashoka's time); 4th = Kashmir (Kanishka). First THREE councils were in Bihar. Fourth was outside.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02628",
+    "question": "Sama-Chakeva festival of Mithila celebrates:",
+    "answer": "Brother-sister bond by welcoming migratory birds through clay figurines",
+    "choices": [
+      "Brother-sister bond by welcoming migratory birds through clay figurines",
+      "The harvest season",
+      "A warrior's return from battle",
+      "Monsoon beginning"
+    ],
+    "information": "Brother-sister bond — clay figurines of Sama (girl) and Chakeva (bird) made; songs welcoming migratory birds. UNESCO Intangible Cultural Heritage. Celebrated during Kartik month alongside Chhath. Mithila (Madhubani, Darbhanga) specific.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02629",
+    "question": "Vaishali's claim as \"world's first republic\" refers to:",
+    "answer": "Licchavi/Vajji confederacy — democratic republic ~6th century BCE, before Athens",
+    "choices": [
+      "Licchavi/Vajji confederacy — democratic republic ~6th century BCE, before Athens",
+      "First election held in 700 BCE",
+      "First written constitution in world",
+      "First city-state of India"
+    ],
+    "information": "Licchavi/Vajji confederacy (~6th century BCE) — had elected rulers, assembly (sabha), voting system. Pre-dates Athenian democracy. Buddha and Mahavira both knew Vaishali as a major republican city.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02630",
+    "question": "The Mundesvari Devi Temple in Kaimur is significant because:",
+    "answer": "Claimed to be the oldest functional Hindu temple in India (108 CE)",
+    "choices": [
+      "Claimed to be the oldest functional Hindu temple in India (108 CE)",
+      "It has the largest Shiva linga",
+      "It was built by Emperor Ashoka",
+      "It faces west unlike other temples"
+    ],
+    "information": "Oldest functional Hindu temple (108 CE, Kushan period) — continuously active since 2nd century CE. In Kaimur district. The Dev Sun Temple (Aurangabad) faces west (unlike Konark which faces east) — different temple's unique fact.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02631",
+    "question": "Shravani Mela devotees (Kanwariyas) collect Ganga water from which Bihar location to carry to Deoghar?",
+    "answer": "Sultanganj, Bhagalpur district",
+    "choices": [
+      "Sultanganj, Bhagalpur district",
+      "Patna ghat",
+      "Hajipur",
+      "Arrah (Son river)"
+    ],
+    "information": "Sultanganj, Bhagalpur — where Ganga flows NORTHWARD (Ulta Ganga). This reverse flow makes water especially sacred. Kanwariyas walk ~105 km to Deoghar (Jharkhand). One of world's largest annual pilgrimages (30–50 lakh devotees).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02632",
+    "question": "The main prasad (offering) of Chhath Puja is:",
+    "answer": "Thekua — made from wheat flour, jaggery and ghee",
+    "choices": [
+      "Thekua — made from wheat flour, jaggery and ghee",
+      "Modak",
+      "Panchamrit",
+      "Kheer"
+    ],
+    "information": "Thekua — fried wheat + jaggery + ghee sweet. Handmade by women observing the fast. Also fruits (sugarcane, banana, coconut) offered. Tilkut = Makar Sankranti. Modak = Ganesh Chaturthi. These food-festival associations are direct BPSC questions.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02633",
+    "question": "Sitamarhi's religious significance in Hindu tradition is:",
+    "answer": "Traditional birthplace of Sita (Mata Janaki) — \"Sita-Marhi\" = Sita's abode",
+    "choices": [
+      "Traditional birthplace of Sita (Mata Janaki) — \"Sita-Marhi\" = Sita's abode",
+      "Birthplace of Lord Rama",
+      "Site of Ramayana's final battle",
+      "Place where Valmiki wrote Ramayana"
+    ],
+    "information": "Traditional birthplace of Sita — Punaura Dham within Sitamarhi is the identified site. \"Sitamarhi\" name itself = Sita's dwelling. Valmiki Nagar (West Champaran) = Sita's exile ashram where Luv-Kush were born. Two different Bihar connections for Sita.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02634",
+    "question": "Pitru Paksha Mela at Gaya lasts for how many days?",
+    "answer": "16 days (fortnight — Ashwin Krishna Paksha)",
+    "choices": [
+      "16 days (fortnight — Ashwin Krishna Paksha)",
+      "8 days",
+      "30 days",
+      "3 days"
+    ],
+    "information": "16 days — the entire Pitru Paksha (dark fortnight of Ashwin month). Hindus perform Pind Daan for 16 ancestors (one per day traditionally). 5–10 lakh pilgrims. Phalgu river + Vishnupad Temple are the main ritual sites.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02635",
+    "question": "Takht Sri Patna Sahib is one of 5 Sikh Takhts. The other four are:",
+    "answer": "Akal Takht (Amritsar), Keshgarh Sahib (Anandpur), Hazur Sahib (Nanded), Damdama Sahib (Talwandi Sabo)",
+    "choices": [
+      "Akal Takht (Amritsar), Keshgarh Sahib (Anandpur), Hazur Sahib (Nanded), Damdama Sahib (Talwandi Sabo)",
+      "Akal Takht, Bangla Sahib, Sis Ganj Sahib, Hazur Sahib",
+      "Akal Takht, Hemkund Sahib, Hazur Sahib, Fatehgarh Sahib",
+      "Akal Takht, Keshgarh, Damdama, Anandpur"
+    ],
+    "information": "Akal Takht (Amritsar), Keshgarh Sahib (Anandpur Sahib), Hazur Sahib (Nanded, Maharashtra), Damdama Sahib (Talwandi Sabo, Punjab) — plus Patna Sahib = 5 Takhts. Bangla Sahib and Sis Ganj are important gurdwaras but NOT Takhts.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02636",
+    "question": "The Dev Sun Temple in Aurangabad is unique because:",
+    "answer": "It faces WEST — unlike most temples including Konark which faces east",
+    "choices": [
+      "It faces WEST — unlike most temples including Konark which faces east",
+      "It is underground",
+      "It is made entirely of black stone",
+      "It was built by Akbar"
+    ],
+    "information": "Faces west — the Dev Surya Mandir (Aurangabad) is one of very few Sun temples facing west. Konark (Odisha) faces east. Dev temple is ancient (pre-Konark) and a major Chhath Puja venue. Aurangabad district's most important religious site.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02637",
+    "question": "The Jal Mandir at Pawapuri is significant because:",
+    "answer": "It marks Mahavira's nirvana site and is a temple built in the middle of a lotus lake",
+    "choices": [
+      "It marks Mahavira's nirvana site and is a temple built in the middle of a lotus lake",
+      "It is the birthplace of Mahavira",
+      "It is where the first Jain council was held",
+      "It is built underground"
+    ],
+    "information": "Mahavira's nirvana site — temple in middle of lotus-filled lake reached by long causeway. Pawapuri = Apapuri (sinless place). In Nalanda district. One of Jainism's holiest sites — pilgrims from across India and world.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02638",
+    "question": "Bihar has how many UNESCO World Heritage Sites, and what are they?",
+    "answer": "2 — Mahabodhi Temple, Bodh Gaya (2002) and Nalanda (2016)",
+    "choices": [
+      "2 — Mahabodhi Temple, Bodh Gaya (2002) and Nalanda (2016)",
+      "3 — including Vaishali",
+      "1 — only Mahabodhi Temple",
+      "2 — Nalanda and Vikramshila"
+    ],
+    "information": "2 UNESCO World Heritage Sites — Mahabodhi Temple Complex, Bodh Gaya (2002) and Nalanda Mahavihara Archaeological Site (2016). Vaishali and Vikramshila are not yet UNESCO sites despite their significance.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02639",
+    "question": "The first Buddhist bhikkhuni (women monks) were ordained at which Bihar city?",
+    "answer": "Vaishali — Buddha ordained his stepmother Mahapajapati Gotami here",
+    "choices": [
+      "Vaishali — Buddha ordained his stepmother Mahapajapati Gotami here",
+      "Bodh Gaya",
+      "Rajgir",
+      "Nalanda"
+    ],
+    "information": "Vaishali — Buddha initially hesitated but then ordained women into the Sangha (community) at Vaishali. His stepmother Mahapajapati Gotami was the first bhikkhuni. This makes Vaishali the birthplace of women's religious orders in Buddhism.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02640",
+    "question": "Kesaria Stupa (East Champaran) is associated with which event in Buddha's life?",
+    "answer": "Buddha gave away his begging bowl (alms bowl) here before his final journey to Kushinagar",
+    "choices": [
+      "Buddha gave away his begging bowl (alms bowl) here before his final journey to Kushinagar",
+      "Buddha's enlightenment",
+      "Buddha's birth",
+      "First sermon (Dhamma Chakka)"
+    ],
+    "information": "Buddha gave away his begging bowl to the Licchavi people of Vaishali at Kesaria before his final journey to Kushinagar (where he died). This final act of renunciation makes Kesaria sacred. World's largest stupa by base circumference.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02641",
+    "question": "The Ramayana Circuit being developed in Bihar connects which sites?",
+    "answer": "Sitamarhi (Sita's birthplace) and Valmiki Nagar (Sita's exile ashram)",
+    "choices": [
+      "Sitamarhi (Sita's birthplace) and Valmiki Nagar (Sita's exile ashram)",
+      "Bodh Gaya and Rajgir",
+      "Vaishali and Pawapuri",
+      "Gaya and Patna"
+    ],
+    "information": "Sitamarhi (Sita's birthplace) and Valmiki Nagar/Balmiki Nagar (West Champaran — Sita's exile ashram where Luv-Kush were born). Bihar government developing Ramayana Circuit connecting these sites under Swadesh Darshan scheme.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02642",
+    "question": "Jur Sital is Bihar's version of which celebration?",
+    "answer": "Maithil New Year — celebrated on April 14–15",
+    "choices": [
+      "Maithil New Year — celebrated on April 14–15",
+      "Harvest festival",
+      "Monsoon beginning",
+      "Victory over evil"
+    ],
+    "information": "Maithil New Year — April 14–15 (Vaishakh 1). Cool water (Jur = cool, Sital = cold) poured on elders as blessing. No fire lit on this day — only cold food eaten. Unique to Mithila. Same date as Baisakhi, Vishu, Poila Baisakh in other regions.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02643",
+    "question": "Rajgir Mahotsav is organised by which department and focuses on:",
+    "answer": "Bihar Tourism Department — classical dance and music against Rajgir's historical backdrop",
+    "choices": [
+      "Bihar Tourism Department — classical dance and music against Rajgir's historical backdrop",
+      "Bihar Education Department — academic conference",
+      "Archaeological Survey of India — excavation results",
+      "Bihar Forest Department — wildlife awareness"
+    ],
+    "information": "Bihar Tourism Department — 3-day cultural festival in October showcasing classical and folk performances against Rajgir's hills, stupas, and historical setting. Promotes Rajgir as cultural tourism destination. Both Buddhist and Jain heritage promoted.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02644",
+    "question": "Bishahari Puja (snake goddess worship) in Bhagalpur's Anga region is connected to which folk art form?",
+    "answer": "Manjusha art — box paintings offered to Bishahari",
+    "choices": [
+      "Manjusha art — box paintings offered to Bishahari",
+      "Madhubani painting",
+      "Sikki craft",
+      "Tikuli art"
+    ],
+    "information": "Manjusha art — votive box paintings with snake borders depicting the Behula-Lakhindar story are offered to Bishahari (snake goddess). Art form = Bhagalpur. Festival = Nag Panchami/Bishahari Puja. Story = Behula-Lakhindar. All three connect.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02645",
+    "question": "Which statement is INCORRECT about Chhath Puja?",
+    "answer": "Chhath Puja requires a professional priest (pujari) for the main rituals",
+    "choices": [
+      "Chhath Puja requires a professional priest (pujari) for the main rituals",
+      "It worships the setting sun on Day 3",
+      "Thekua is the main prasad",
+      "It has Rig Vedic origins"
+    ],
+    "information": "Requires professional priest — INCORRECT. Chhath is one of very few Hindu festivals that does NOT require a professional priest. Devotees perform all rituals themselves at river banks/water bodies. This priest-free, temple-free, egalitarian nature is Chhath's defining characteristic.",
+    "tags": ""
+  }
+]

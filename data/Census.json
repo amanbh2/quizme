@@ -492,5 +492,369 @@
     ],
     "information": "",
     "tags": ""
+  },
+  {
+    "qid": "Q02276",
+    "question": "Census 2011 was India's which census overall, and which after Independence?",
+    "answer": "15th overall; 7th after Independence",
+    "choices": [
+      "15th overall; 7th after Independence",
+      "14th overall; 6th after Independence",
+      "15th overall; 8th after Independence",
+      "16th overall; 7th after Independence"
+    ],
+    "information": "15th overall; 7th after Independence. First census 1872 (non-synchronous). First synchronous 1881. First post-independence 1951. 2011 = 15th total, 7th post-1947.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02277",
+    "question": "India's total population as per Census 2011 was:",
+    "answer": "121.09 crore (1.21 billion)",
+    "choices": [
+      "121.09 crore (1.21 billion)",
+      "102.87 crore",
+      "128.57 crore",
+      "119.5 crore"
+    ],
+    "information": "121.09 crore. India was 2nd most populous country (China ~1.35 billion). India's share = 17.5% of world population on 2.4% of world's land area.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02278",
+    "question": "Which state has the HIGHEST population density in India (among states only)?",
+    "answer": "Bihar (1,106/sq. km)",
+    "choices": [
+      "Bihar (1,106/sq. km)",
+      "West Bengal (1,028/sq. km)",
+      "Uttar Pradesh (829/sq. km)",
+      "Kerala (860/sq. km)"
+    ],
+    "information": "Bihar — 1,106 persons/sq. km — highest among all STATES. Delhi (UT) has higher density (11,320/sq. km) but is a Union Territory, not a state. The qualifier \"among states\" is critical.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02279",
+    "question": "Which state has the LOWEST population density in India?",
+    "answer": "Arunachal Pradesh (17/sq. km)",
+    "choices": [
+      "Arunachal Pradesh (17/sq. km)",
+      "Mizoram (52/sq. km)",
+      "Sikkim (86/sq. km)",
+      "Jammu & Kashmir (56/sq. km)"
+    ],
+    "information": "Arunachal Pradesh — 17 persons/sq. km — lowest among all states. Vast forested terrain + very small population. Andaman & Nicobar (UT) has lower density (46) but is a UT.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02280",
+    "question": "India's national sex ratio as per 2011 census was:",
+    "answer": "943 females per 1000 males",
+    "choices": [
+      "943 females per 1000 males",
+      "933",
+      "950",
+      "927"
+    ],
+    "information": "943 females per 1000 males. Up from 933 in 2001 — improving trend. Child sex ratio (0–6 years) was 919 — more alarming as it reflects sex-selective practices. Kerala highest (1084), Haryana lowest (879).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02281",
+    "question": "Which state has the HIGHEST sex ratio in India?",
+    "answer": "Kerala (1084)",
+    "choices": [
+      "Kerala (1084)",
+      "Tamil Nadu (996)",
+      "Chhattisgarh (991)",
+      "Andhra Pradesh (993)"
+    ],
+    "information": "Kerala — 1,084 females per 1000 males — highest in India and one of very few states/countries where females outnumber males. High female literacy + low female infanticide explains this.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02282",
+    "question": "Which state has the LOWEST sex ratio in India?",
+    "answer": "Haryana (879)",
+    "choices": [
+      "Haryana (879)",
+      "Punjab (895)",
+      "Jammu & Kashmir (889)",
+      "Sikkim (890)"
+    ],
+    "information": "Haryana — 879 — lowest sex ratio among states. Strong son preference + female foeticide. Also has lowest CHILD sex ratio (834). Haryana features in both adult and child sex ratio bottom rankings.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02283",
+    "question": "Bihar's child sex ratio (0–6 years) compared to national average is:",
+    "answer": "Higher than national average (Bihar 935 vs India 919)",
+    "choices": [
+      "Higher than national average (Bihar 935 vs India 919)",
+      "Lower than national average",
+      "Equal to national average",
+      "Bihar has no data for child sex ratio"
+    ],
+    "information": "Bihar's child sex ratio (935) is HIGHER than national average (919). This surprises many. Bihar's overall sex ratio (918) is below national avg, but child sex ratio is above. Classic BPSC trap — \"Bihar's child sex ratio is below national average\" = INCORRECT.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02284",
+    "question": "Which state has the LOWEST literacy rate in India as per 2011 census?",
+    "answer": "Bihar (63.82%)",
+    "choices": [
+      "Bihar (63.82%)",
+      "Rajasthan (67.06%)",
+      "Arunachal Pradesh (66.95%)",
+      "Uttar Pradesh (68.7%)"
+    ],
+    "information": "Bihar — 63.82% — lowest literacy rate in India. Below even the national average of 74.04% by over 10 percentage points. Kerala has highest (94%). This is the most tested census fact about Bihar.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02285",
+    "question": "India's overall literacy rate in 2011 was:",
+    "answer": "0.7404",
+    "choices": [
+      "0.7404",
+      "0.6483",
+      "0.805",
+      "0.713"
+    ],
+    "information": "74.04% — up from 64.83% in 2001, an increase of 9.2 percentage points. Male literacy: 82.14%. Female literacy: 65.46%. Note: 64.83% is 2001 figure — don't confuse with 2011.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02286",
+    "question": "Which state recorded NEGATIVE population growth in the 2011 census?",
+    "answer": "Nagaland (-0.6%)",
+    "choices": [
+      "Nagaland (-0.6%)",
+      "Sikkim",
+      "Kerala (4.9%)",
+      "Goa"
+    ],
+    "information": "Nagaland — the only state with negative population growth (-0.6%) in 2011. Reasons: outmigration + possible over-counting in 2001. Kerala has lowest positive growth (4.9%).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02287",
+    "question": "Bihar's decadal population growth rate (2001–2011) compared to national average:",
+    "answer": "Higher — Bihar 25.4% vs India 17.7%",
+    "choices": [
+      "Higher — Bihar 25.4% vs India 17.7%",
+      "Lower — Bihar 15% vs India 17.7%",
+      "Equal to national average",
+      "Bihar declined in population"
+    ],
+    "information": "Bihar 25.4% vs India 17.7% — Bihar's growth rate is significantly above national average. Combined with highest density, this makes Bihar's population pressure the most acute in India.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02288",
+    "question": "Which state is the LEAST urbanised in India as per 2011 census?",
+    "answer": "Himachal Pradesh (10.0%)",
+    "choices": [
+      "Himachal Pradesh (10.0%)",
+      "Bihar (11.3%)",
+      "Assam (14.1%)",
+      "Odisha (16.7%)"
+    ],
+    "information": "Himachal Pradesh — 10.0% urban population — least urbanised state. Bihar is 2nd least (11.3%). This is a trap — many candidates answer Bihar. HP has more villages and dispersed mountain population.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02289",
+    "question": "The 'Year of the Great Divide' in Indian census history refers to:",
+    "answer": "1921 — first census showing population decline",
+    "choices": [
+      "1921 — first census showing population decline",
+      "1881 — first synchronous census",
+      "1951 — first census after Independence",
+      "1971 — highest decadal growth ever"
+    ],
+    "information": "1921 — called Year of the Great Divide because it was the first and only census to show a DECLINE in India's population (due to 1918 Spanish flu epidemic + famines). Before 1921 = population falling; after 1921 = consistently rising.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02290",
+    "question": "Which state has the HIGHEST percentage of Scheduled Castes population?",
+    "answer": "Punjab (31.9%)",
+    "choices": [
+      "Punjab (31.9%)",
+      "Uttar Pradesh",
+      "Himachal Pradesh",
+      "Rajasthan"
+    ],
+    "information": "Punjab — 31.9% of Punjab's population is SC. Note: UP has the LARGEST ABSOLUTE SC population (4.13 crore), but Punjab has the HIGHEST PERCENTAGE. This absolute vs percentage distinction is a classic BPSC trap.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02291",
+    "question": "Which state has the HIGHEST percentage of Scheduled Tribes population?",
+    "answer": "Mizoram (94.4%)",
+    "choices": [
+      "Mizoram (94.4%)",
+      "Madhya Pradesh",
+      "Chhattisgarh",
+      "Arunachal Pradesh"
+    ],
+    "information": "Mizoram — 94.4% ST population — almost the entire state is tribal. Madhya Pradesh has the LARGEST ABSOLUTE ST population (1.53 crore) but lower percentage. Same absolute vs percentage trap as SC question.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02292",
+    "question": "Bihar's Scheduled Tribe population is only ~1.3% because:",
+    "answer": "Most tribal areas were transferred to Jharkhand in 2000",
+    "choices": [
+      "Most tribal areas were transferred to Jharkhand in 2000",
+      "Bihar has no tribal communities",
+      "Tribal communities migrated to other states",
+      "ST population was reclassified in Bihar"
+    ],
+    "information": "Most tribal areas transferred to Jharkhand (2000). The Santals, Mundas, Hos, Oraons — Bihar's major tribal groups — all live in what is now Jharkhand. Bihar's tribal population dropped dramatically after bifurcation.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02293",
+    "question": "Which district of Bihar has the HIGHEST population density?",
+    "answer": "Sheohar",
+    "choices": [
+      "Sheohar",
+      "Patna",
+      "Vaishali",
+      "Muzaffarpur"
+    ],
+    "information": "Sheohar — Bihar's smallest district by area also has the highest population density. Double superlative for Sheohar. Patna has high density too but Sheohar tops.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02294",
+    "question": "Which district is the LARGEST by area in Bihar?",
+    "answer": "Pashchim Champaran (West Champaran)",
+    "choices": [
+      "Pashchim Champaran (West Champaran)",
+      "Gaya",
+      "Rohtas",
+      "Purnia"
+    ],
+    "information": "Pashchim Champaran (West Champaran) — largest district in Bihar by area (~5,228 sq. km). Contains Valmiki National Park. Sheohar is smallest by area.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02295",
+    "question": "India follows which method of census enumeration?",
+    "answer": "De facto method",
+    "choices": [
+      "De facto method",
+      "De jure method",
+      "Combined de facto and de jure",
+      "Stratified sampling method"
+    ],
+    "information": "De facto method — people counted where they ARE on census night (not where they normally live). Migrant workers counted at work location. UK/India = de facto. Most Scandinavian countries = de jure.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02296",
+    "question": "The first SYNCHRONOUS census of India was conducted in:",
+    "answer": "1881",
+    "choices": [
+      "1881",
+      "1872",
+      "1891",
+      "1901"
+    ],
+    "information": "1881 — first synchronous census (all India counted simultaneously). 1872 was attempted but non-synchronous (different regions counted at different times). W.C. Plowden was commissioner for 1881 census.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02297",
+    "question": "As per 2011 census, which language has been included in the 8th Schedule and is Bihar's 2nd official language?",
+    "answer": "Maithili",
+    "choices": [
+      "Maithili",
+      "Bhojpuri",
+      "Magahi",
+      "Angika"
+    ],
+    "information": "Maithili — added to the 8th Schedule by the 92nd Constitutional Amendment (2003), becoming the 22nd scheduled language. Bhojpuri is NOT in the 8th Schedule despite huge number of speakers — a common confusion.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02298",
+    "question": "India's child sex ratio (0–6 years) of 919 in 2011 is alarming because:",
+    "answer": "It declined from 927 in 2001 — showing worsening sex selection",
+    "choices": [
+      "It declined from 927 in 2001 — showing worsening sex selection",
+      "It increased from 900 in 2001",
+      "It is lower than overall sex ratio of 943",
+      "Both A and C"
+    ],
+    "information": "Both A and C are correct. Child sex ratio (919) is lower than overall sex ratio (943) — reflecting sex-selective abortion. It also DECLINED from 927 in 2001 to 919 in 2011 — worsening trend despite laws.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02299",
+    "question": "The most literate district in Bihar as per 2011 census is:",
+    "answer": "Rohtas (73.37%)",
+    "choices": [
+      "Rohtas (73.37%)",
+      "Patna",
+      "Nalanda",
+      "Bhagalpur"
+    ],
+    "information": "Rohtas — 73.37% literacy — highest in Bihar. Patna is high but Rohtas tops. Purnia and Kishanganj are among the least literate districts of Bihar (~52%).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02300",
+    "question": "Which is INCORRECT about Census 2011 data for India?",
+    "answer": "Agricultural labourers are fewer than cultivators",
+    "choices": [
+      "Agricultural labourers are fewer than cultivators",
+      "Urban population is 31.1% of total",
+      "India's sex ratio is 943",
+      "Bihar has highest density among states"
+    ],
+    "information": "Agricultural labourers fewer than cultivators — INCORRECT. In 2011, for the first time, agricultural labourers (30%) EXCEEDED cultivators (24.6%) — indicating growing landlessness. The other three statements are correct.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02301",
+    "question": "Bihar's female literacy rate of 53.33% is significant because:",
+    "answer": "It is nearly 20 percentage points below Bihar's male literacy (73.39%)",
+    "choices": [
+      "It is nearly 20 percentage points below Bihar's male literacy (73.39%)",
+      "It is above the national female literacy average",
+      "It improved by 20% from 2001",
+      "It is higher than UP's female literacy"
+    ],
+    "information": "Nearly 20 percentage points below male literacy (73.39% - 53.33% = 20.06%). Bihar has one of the widest gender gaps in literacy in India. National female literacy average is 65.46% — Bihar's 53.33% is well below it.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02302",
+    "question": "Which Union Territory has the highest population density in India?",
+    "answer": "Delhi (11,320/sq. km)",
+    "choices": [
+      "Delhi (11,320/sq. km)",
+      "Chandigarh",
+      "Lakshadweep",
+      "Puducherry"
+    ],
+    "information": "Delhi — 11,320 persons/sq. km — highest density in India among both states AND UTs. If question asks \"highest in India overall\" = Delhi. If \"highest among states only\" = Bihar. Always check the qualifier.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02303",
+    "question": "The 2021 Census has not been conducted yet (as of 2024) because:",
+    "answer": "Postponed due to COVID-19 pandemic",
+    "choices": [
+      "Postponed due to COVID-19 pandemic",
+      "Constitutional amendment required",
+      "Supreme Court stayed it",
+      "Budget was not approved"
+    ],
+    "information": "Postponed due to COVID-19 pandemic. The 2021 census was scheduled but indefinitely postponed. India continues to use 2011 data for all planning, delimitation, and welfare schemes — making 2011 data highly relevant.",
+    "tags": ""
   }
 ]

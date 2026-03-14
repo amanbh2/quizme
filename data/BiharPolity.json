@@ -1,0 +1,1627 @@
+[
+  {
+    "qid": "Q02646",
+    "question": "How many states in India currently have a bicameral legislature?",
+    "answer": "6 states",
+    "choices": [
+      "6 states",
+      "5 states",
+      "7 states",
+      "4 states"
+    ],
+    "information": "6 states — Andhra Pradesh, Telangana, Uttar Pradesh, Maharashtra, Karnataka, Bihar. J&K had it but became a UT in 2019. BPSC frequently asks this — memorise all 6.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02647",
+    "question": "The total strength of Bihar Vidhan Sabha is:",
+    "answer": "243",
+    "choices": [
+      "243",
+      "242",
+      "244",
+      "240"
+    ],
+    "information": "243 seats — all directly elected after 104th Amendment (2020) abolished the Anglo-Indian nominated seat. Previously it was 242 elected + 1 nominated. Current correct answer = 243.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02648",
+    "question": "The total strength of Bihar Vidhan Parishad is:",
+    "answer": "75",
+    "choices": [
+      "75",
+      "72",
+      "80",
+      "63"
+    ],
+    "information": "75 members — within the constitutional maximum of 1/3rd of Vidhan Sabha strength (1/3rd of 243 = 81). Minimum constitutional limit is 40 members. Bihar has 75.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02649",
+    "question": "How many members of Bihar Vidhan Parishad are nominated by the Governor?",
+    "answer": "13",
+    "choices": [
+      "13",
+      "12",
+      "7",
+      "15"
+    ],
+    "information": "13 members nominated by Governor — experts in literature, science, art, cooperative movement, social service. The breakdown: 27 (MLAs) + 21 (local bodies) + 7 (teachers) + 7 (graduates) + 13 (Governor) = 75.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02650",
+    "question": "A Money Bill in Bihar can be introduced only in:",
+    "answer": "Vidhan Sabha",
+    "choices": [
+      "Vidhan Sabha",
+      "Vidhan Parishad",
+      "Either house",
+      "Joint sitting of both houses"
+    ],
+    "information": "Vidhan Sabha only. Vidhan Parishad has NO power over Money Bills — it can only make recommendations within 14 days. Vidhan Sabha may accept or reject those recommendations. This is the most fundamental difference between the two houses.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02651",
+    "question": "Bihar Vidhan Parishad was abolished and recreated in which years respectively?",
+    "answer": "Abolished 1958; Recreated 1969",
+    "choices": [
+      "Abolished 1958; Recreated 1969",
+      "Abolished 1952; Recreated 1960",
+      "Abolished 1965; Recreated 1972",
+      "Abolished 1958; Recreated 1975"
+    ],
+    "information": "Abolished 1958; Recreated 1969 under Article 169 procedure. Bihar was unicameral from 1958–1969. This is a pure Bihar-specific fact asked directly in BPSC.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02652",
+    "question": "The minimum age to become a member of Bihar Vidhan Parishad is:",
+    "answer": "30 years",
+    "choices": [
+      "30 years",
+      "25 years",
+      "21 years",
+      "35 years"
+    ],
+    "information": "30 years for Vidhan Parishad (MLC). 25 years for Vidhan Sabha (MLA). This age difference between lower and upper house is a standard BPSC trap — don't confuse.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02653",
+    "question": "Which constitutional article deals with the composition of Vidhan Parishad?",
+    "answer": "Article 171",
+    "choices": [
+      "Article 171",
+      "Article 170",
+      "Article 168",
+      "Article 169"
+    ],
+    "information": "Article 171 deals with composition of Vidhan Parishad. Article 170 = Vidhan Sabha composition. Article 168 = Constitution of state legislatures. Article 169 = Abolition/creation of Vidhan Parishad.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02654",
+    "question": "Who was the FIRST Speaker of Bihar Vidhan Sabha after Independence?",
+    "answer": "Binodanand Jha",
+    "choices": [
+      "Binodanand Jha",
+      "Ramanand Tiwari",
+      "Shivchandra Jha",
+      "Jagannath Mishra"
+    ],
+    "information": "Binodanand Jha — first Speaker of Bihar Vidhan Sabha (1952–1957). He later became Chief Minister of Bihar (1961–63). This person connecting Speaker and CM roles is a BPSC favourite.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02655",
+    "question": "A no-confidence motion against the Bihar government can be moved in:",
+    "answer": "Vidhan Sabha only",
+    "choices": [
+      "Vidhan Sabha only",
+      "Vidhan Parishad only",
+      "Either house",
+      "Joint sitting"
+    ],
+    "information": "Vidhan Sabha only. The Council of Ministers is collectively responsible ONLY to Vidhan Sabha — not to Vidhan Parishad. Therefore no-confidence motion can only be moved and voted upon in Vidhan Sabha.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02656",
+    "question": "Which article of the Constitution allows Parliament to abolish a state's Vidhan Parishad?",
+    "answer": "Article 169",
+    "choices": [
+      "Article 169",
+      "Article 171",
+      "Article 368",
+      "Article 356"
+    ],
+    "information": "Article 169 — Parliament can abolish (or create) a Vidhan Parishad if the Vidhan Sabha passes a resolution by special majority and Parliament passes legislation. This is how Bihar's Parishad was abolished in 1958.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02657",
+    "question": "The quorum for Bihar Vidhan Sabha to conduct business is:",
+    "answer": "25 members (1/10th of 243)",
+    "choices": [
+      "25 members (1/10th of 243)",
+      "50 members",
+      "122 members (majority)",
+      "10 members"
+    ],
+    "information": "25 members (1/10th of 243 = 24.3, rounded up to 25). Quorum = 1/10th of total membership for all state legislatures. If quorum is not present, the Speaker must adjourn the House.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02658",
+    "question": "How many members of Bihar Vidhan Parishad are elected by local body representatives?",
+    "answer": "21",
+    "choices": [
+      "21",
+      "27",
+      "13",
+      "7"
+    ],
+    "information": "21 members — elected by members of municipalities, panchayats, and district boards. This is the local bodies quota. 27 = MLAs quota; 13 = Governor's nominees; 7 = teachers; 7 = graduates.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02659",
+    "question": "Which is INCORRECT about Bihar Vidhan Parishad?",
+    "answer": "It can be dissolved by the Governor when required",
+    "choices": [
+      "It can be dissolved by the Governor when required",
+      "It is a permanent house",
+      "1/3rd members retire every 2 years",
+      "Each member serves a 6-year term"
+    ],
+    "information": "It can be dissolved — INCORRECT. Vidhan Parishad is a PERMANENT house — it CANNOT be dissolved. Only Vidhan Sabha can be dissolved. 1/3rd retiring every 2 years and 6-year terms are both correct.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02660",
+    "question": "The Anti-Defection Law for Bihar legislators is contained in which Schedule of the Constitution?",
+    "answer": "10th Schedule",
+    "choices": [
+      "10th Schedule",
+      "9th Schedule",
+      "7th Schedule",
+      "8th Schedule"
+    ],
+    "information": "10th Schedule — added by the 52nd Constitutional Amendment (1985). Applies to both MLAs and MLCs. Decision on disqualification is made by Speaker (Vidhan Sabha) or Chairman (Vidhan Parishad).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02661",
+    "question": "Legislative privilege of freedom from arrest for MLAs applies to:",
+    "answer": "Civil cases only — not criminal cases",
+    "choices": [
+      "Civil cases only — not criminal cases",
+      "All cases including criminal",
+      "Only bailable offences",
+      "Only during session, not before/after"
+    ],
+    "information": "Civil cases only. MLAs can be arrested in CRIMINAL cases even during session. Freedom from arrest covers civil cases during session + 40 days before and after. Criminal immunity does NOT exist — a classic BPSC trap.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02662",
+    "question": "Who certifies whether a Bill introduced in Bihar Vidhan Sabha is a Money Bill?",
+    "answer": "Speaker of Vidhan Sabha",
+    "choices": [
+      "Speaker of Vidhan Sabha",
+      "Governor of Bihar",
+      "Chairman of Vidhan Parishad",
+      "Chief Minister"
+    ],
+    "information": "Speaker of Vidhan Sabha — and this certification is FINAL, cannot be questioned in any court. Judicial non-reviewability of Speaker's Money Bill certification is itself a constitutional provision (Article 199 at state level).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02663",
+    "question": "How long can Bihar Vidhan Parishad delay an ordinary (non-money) Bill passed by Vidhan Sabha?",
+    "answer": "Maximum 4 months (3 months first time + 1 month second time)",
+    "choices": [
+      "Maximum 4 months (3 months first time + 1 month second time)",
+      "6 months",
+      "Indefinitely",
+      "Cannot delay at all"
+    ],
+    "information": "Maximum 4 months — if Vidhan Parishad rejects/amends a bill, Vidhan Sabha can pass it again; Parishad gets 1 more month. Total maximum delay = 3 + 1 = 4 months. Then Vidhan Sabha's version prevails.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02664",
+    "question": "The 104th Constitutional Amendment Act (2020) affected Bihar Vidhan Sabha by:",
+    "answer": "Abolishing the nominated Anglo-Indian seat",
+    "choices": [
+      "Abolishing the nominated Anglo-Indian seat",
+      "Increasing seats from 240 to 243",
+      "Introducing reservation for women",
+      "Reducing the term from 6 to 5 years"
+    ],
+    "information": "Abolishing the nominated Anglo-Indian seat. Previously one Anglo-Indian could be nominated by the Governor under Article 333. This provision was abolished by the 104th Amendment making all 243 seats elected.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02665",
+    "question": "Bihar Vidhan Parishad's teachers' constituency elects how many members, and who can vote?",
+    "answer": "7 members; teachers with 3+ years experience in secondary schools and above",
+    "choices": [
+      "7 members; teachers with 3+ years experience in secondary schools and above",
+      "5 members; all teachers in Bihar",
+      "7 members; only university professors",
+      "13 members; all government school teachers"
+    ],
+    "information": "7 members elected by teachers with 3+ years experience in secondary schools, colleges, and universities. This is unique to Vidhan Parishad — there is no teachers' constituency in Vidhan Sabha.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02666",
+    "question": "Which session of Bihar Legislature is most important and when is it held?",
+    "answer": "Budget Session — February/March",
+    "choices": [
+      "Budget Session — February/March",
+      "Monsoon Session — July/August",
+      "Winter Session — November/December",
+      "Special Session — as needed"
+    ],
+    "information": "Budget Session (February/March) — most important because the Annual Financial Statement (Budget) is presented. Budget = Money Bill, must originate in Vidhan Sabha. Governor's address under Article 176 marks its opening.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02667",
+    "question": "If the Speaker of Bihar Vidhan Sabha wants to be removed, the resolution requires:",
+    "answer": "Effective majority — majority of total membership of Vidhan Sabha",
+    "choices": [
+      "Effective majority — majority of total membership of Vidhan Sabha",
+      "Simple majority of members present",
+      "Special majority (2/3rd + majority of total)",
+      "Two-thirds majority of Vidhan Parishad"
+    ],
+    "information": "Effective majority — majority of total membership (not just present and voting). Also requires 14 days advance notice. Same procedure for removal of Chairman of Vidhan Parishad.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02668",
+    "question": "The graduates' constituency of Bihar Vidhan Parishad elects how many members?",
+    "answer": "7 members",
+    "choices": [
+      "7 members",
+      "13 members",
+      "5 members",
+      "21 members"
+    ],
+    "information": "7 members — elected by graduates of 3+ years standing registered in the state. Along with teachers' quota (7), these two constituencies make Vidhan Parishad unique as a house with professional/educational representation.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02669",
+    "question": "During a National Emergency, the term of Bihar Vidhan Sabha can be:",
+    "answer": "Extended by Parliament one year at a time",
+    "choices": [
+      "Extended by Parliament one year at a time",
+      "Extended by Governor indefinitely",
+      "Extended by Bihar Legislature itself",
+      "Cannot be extended under any circumstances"
+    ],
+    "information": "Extended by Parliament one year at a time during National Emergency (Article 352). This extension can continue as long as emergency is in force. The normal 5-year term is suspended. Parliament (not Bihar Legislature) makes this extension.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02670",
+    "question": "Which of the following is a correct match of Bihar Vidhan Parishad composition?",
+    "answer": "MLAs quota-27, Local bodies-21, Teachers-7, Graduates-7, Governor-13 = 75",
+    "choices": [
+      "MLAs quota-27, Local bodies-21, Teachers-7, Graduates-7, Governor-13 = 75",
+      "MLAs-21, Local bodies-27, Teachers-13, Graduates-7, Governor-7 = 75",
+      "MLAs-27, Local bodies-13, Teachers-7, Graduates-7, Governor-21 = 75",
+      "MLAs-27, Local bodies-21, Teachers-13, Graduates-7, Governor-7 = 75"
+    ],
+    "information": "MLAs-27, Local bodies-21, Teachers-7, Graduates-7, Governor-13 = 75. This exact breakdown is the most tested Vidhan Parishad fact in BPSC. Memorise: 27-21-7-7-13. All other options swap the numbers to create traps.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02671",
+    "question": "The Governor of Bihar is appointed by:",
+    "answer": "President of India (Article 155)",
+    "choices": [
+      "President of India (Article 155)",
+      "Chief Justice of India",
+      "Prime Minister",
+      "Bihar Vidhan Sabha"
+    ],
+    "information": "President of India under Article 155. Governor is NOT elected — appointed by President. Holds office during President's pleasure (Article 156). No fixed removal procedure — unlike President who is impeached.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02672",
+    "question": "What is the minimum age requirement to become Governor of Bihar?",
+    "answer": "35 years",
+    "choices": [
+      "35 years",
+      "25 years",
+      "30 years",
+      "40 years"
+    ],
+    "information": "35 years — same as President. Compare: MLA = 25 years, MLC = 30 years, Governor/President = 35 years. No minimum age for PM or CJI. The 35-year club = President and Governor.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02673",
+    "question": "Governor's salary in Bihar is charged to:",
+    "answer": "Consolidated Fund of the State",
+    "choices": [
+      "Consolidated Fund of the State",
+      "Consolidated Fund of India",
+      "Bihar Contingency Fund",
+      "Public Account of Bihar"
+    ],
+    "information": "Consolidated Fund of the State — the state pays for its Governor. Contrast: President's salary comes from Consolidated Fund of INDIA. This distinction is a standard BPSC trap.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02674",
+    "question": "If Bihar Vidhan Sabha passes a bill again after the Governor returns it for reconsideration, the Governor must:",
+    "answer": "Give assent — cannot withhold again",
+    "choices": [
+      "Give assent — cannot withhold again",
+      "Return it a second time",
+      "Reserve it for President",
+      "Dissolve Vidhan Sabha"
+    ],
+    "information": "Must give assent. If legislature passes bill again (with or without amendments), Governor CANNOT withhold assent — he must sign. This is different from President who has absolute veto on state bills reserved for him.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02675",
+    "question": "The maximum size of Bihar's Council of Ministers (including CM) after the 91st Amendment is:",
+    "answer": "36 ministers (15% of 243)",
+    "choices": [
+      "36 ministers (15% of 243)",
+      "40 ministers",
+      "25 ministers",
+      "No constitutional limit"
+    ],
+    "information": "36 ministers — 15% of 243 (Vidhan Sabha strength) = 36.45, rounded down to 36. 91st Constitutional Amendment (2003) imposed this cap to prevent oversized cabinets.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02676",
+    "question": "Who was the FIRST Chief Minister of Bihar?",
+    "answer": "Sri Krishna Sinha",
+    "choices": [
+      "Sri Krishna Sinha",
+      "Karpoori Thakur",
+      "Binodanand Jha",
+      "Deep Narayan Singh"
+    ],
+    "information": "Sri Krishna Sinha — first and longest-serving CM of Bihar (1946–1961). Congress leader. He was CM even before India became a republic (from 1946 under provincial government).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02677",
+    "question": "Who was the FIRST woman Chief Minister of Bihar?",
+    "answer": "Rabri Devi (1997)",
+    "choices": [
+      "Rabri Devi (1997)",
+      "Sushila Devi",
+      "Meira Kumar",
+      "Manjula Devi"
+    ],
+    "information": "Rabri Devi — became CM in 1997 when husband Lalu Prasad Yadav resigned after Fodder Scam charge sheet. She served three terms as CM (1997–2005). First woman CM of Bihar.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02678",
+    "question": "Which Chief Minister of Bihar later headed the famous Mandal Commission?",
+    "answer": "B.P. Mandal",
+    "choices": [
+      "B.P. Mandal",
+      "Karpoori Thakur",
+      "Jagannath Mishra",
+      "Ram Sundar Das"
+    ],
+    "information": "B.P. Mandal — was CM of Bihar (1968) and later chaired the Mandal Commission (1979–1980) whose recommendations led to 27% OBC reservation in central government jobs. Bihar CM → Commission head connection.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02679",
+    "question": "Governor's power to grant pardon under Article 161 is limited to:",
+    "answer": "Offences against state laws only — NOT death sentences",
+    "choices": [
+      "Offences against state laws only — NOT death sentences",
+      "All offences including death sentence",
+      "Only bailable offences",
+      "Only first-time offenders"
+    ],
+    "information": "Offences against state laws only; NOT death sentences. President alone can pardon death sentences (Article 72). Governor CANNOT pardon death sentences or court martial sentences. Classic BPSC trap.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02680",
+    "question": "Article 167 of the Constitution makes which official the communication link between Council of Ministers and Governor?",
+    "answer": "Chief Minister",
+    "choices": [
+      "Chief Minister",
+      "Cabinet Secretary",
+      "Chief Secretary",
+      "Speaker of Vidhan Sabha"
+    ],
+    "information": "Chief Minister — Article 167 exclusively makes CM the channel. Governor cannot directly communicate with individual ministers. If Governor wants information, CM provides it. If CM refuses, Governor can act independently.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02681",
+    "question": "Which was the SHORTEST tenure as Chief Minister of Bihar?",
+    "answer": "Satish Prasad Singh — 5 days (1968)",
+    "choices": [
+      "Satish Prasad Singh — 5 days (1968)",
+      "Deep Narayan Singh — 2 weeks",
+      "Harihar Singh — 1 month",
+      "Jitan Ram Manjhi — 6 months"
+    ],
+    "information": "Satish Prasad Singh — 5 days in 1968 — the shortest CM tenure in Bihar's history. He was Congress CM who lost majority almost immediately. Jitan Ram Manjhi's ~8 months is longest short-term.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02682",
+    "question": "The Sarkaria Commission (1983) recommended that Article 356 (President's Rule) should be:",
+    "answer": "Used as last resort — only when all alternatives exhausted",
+    "choices": [
+      "Used as last resort — only when all alternatives exhausted",
+      "Used freely by Governor",
+      "Abolished entirely",
+      "Used only with Supreme Court approval"
+    ],
+    "information": "Used as last resort. Sarkaria Commission on Centre-State relations said Article 356 is being misused politically. SC confirmed this in the Bommai Case (1994) — majority must be tested on floor of house, not Governor's subjective opinion.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02683",
+    "question": "Which article gives Governor the power to promulgate Ordinances in Bihar?",
+    "answer": "Article 213",
+    "choices": [
+      "Article 213",
+      "Article 123",
+      "Article 200",
+      "Article 356"
+    ],
+    "information": "Article 213 — Governor can promulgate Ordinance when Bihar legislature is not in session. Article 123 = President's Ordinance power. Ordinance must be laid before legislature within 6 weeks of reassembly or it lapses.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02684",
+    "question": "Patna High Court was established in:",
+    "answer": "1916",
+    "choices": [
+      "1916",
+      "1950",
+      "1935",
+      "1947"
+    ],
+    "information": "1916 — making Patna HC one of India's oldest High Courts. After Jharkhand's formation in 2000, Jharkhand HC was established at Ranchi, and Patna HC's jurisdiction became limited to Bihar only.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02685",
+    "question": "Which year saw Bihar's most famous President's Rule when no party won majority after elections?",
+    "answer": "2005 (February to November)",
+    "choices": [
+      "2005 (February to November)",
+      "1999",
+      "1980",
+      "1995"
+    ],
+    "information": "2005 (February to November). February 2005 elections gave no majority to any party. Governor imposed President's Rule. Fresh elections in October 2005 gave JDU-BJP majority — Nitish Kumar became CM. Classic Bihar constitutional history.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02686",
+    "question": "Who was the FIRST non-Congress Chief Minister of Bihar?",
+    "answer": "Karpoori Thakur (1970, SSP)",
+    "choices": [
+      "Karpoori Thakur (1970, SSP)",
+      "B.P. Mandal (1968, SSP)",
+      "Lalu Prasad Yadav",
+      "Ram Sundar Das"
+    ],
+    "information": "Karpoori Thakur (1970) — first CM from a non-Congress party. Though B.P. Mandal (SSP) was also non-Congress in 1968, Karpoori Thakur's 1970 term is more definitively cited. Karpoori is also famous for OBC reservation in Bihar during his 1977–79 term.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02687",
+    "question": "The Advocate General of Bihar is appointed by:",
+    "answer": "Governor of Bihar (Article 165)",
+    "choices": [
+      "Governor of Bihar (Article 165)",
+      "Chief Minister",
+      "Bihar Public Service Commission",
+      "President of India"
+    ],
+    "information": "Governor of Bihar under Article 165. AG is state's chief legal advisor. Must be qualified to be HC judge. Can speak (but NOT vote) in both houses of Bihar Legislature. Serves at Governor's pleasure.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02688",
+    "question": "Who was the first Governor of Bihar after India became a republic in 1950?",
+    "answer": "Jairamdas Daulatram",
+    "choices": [
+      "Jairamdas Daulatram",
+      "R.R. Diwakar",
+      "A.N. Sinha",
+      "M.A. Ayyangar"
+    ],
+    "information": "Jairamdas Daulatram — first Governor of Bihar (1950–1952) after India became a republic. Before 1950, Bihar had a Governor under the Government of India Act 1935. This is a direct BPSC Bihar-specific question.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02689",
+    "question": "Collective responsibility of Council of Ministers in Bihar means:",
+    "answer": "All ministers must resign if no-confidence motion is passed against government",
+    "choices": [
+      "All ministers must resign if no-confidence motion is passed against government",
+      "Only CM resigns when no-confidence is passed",
+      "Individual ministers resign for their own failures",
+      "Ministers are responsible to Vidhan Parishad"
+    ],
+    "information": "All ministers must resign — if no-confidence motion passes in Vidhan Sabha, the ENTIRE Council of Ministers (not just CM) must resign. This is collective responsibility under Article 164(2). Individual ministerial responsibility is separate.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02690",
+    "question": "Which of the following is INCORRECT about the Governor of Bihar?",
+    "answer": "Governor is elected by members of Bihar Legislature",
+    "choices": [
+      "Governor is elected by members of Bihar Legislature",
+      "Governor is appointed by President",
+      "Governor can reserve bills for President's consideration",
+      "Governor nominates 13 members to Vidhan Parishad"
+    ],
+    "information": "Governor is elected by members of Bihar Legislature — INCORRECT. Governor is APPOINTED by the President — not elected by anyone. All other options are correct. This is the most basic Governor fact — BPSC uses it as \"which is incorrect\" trap.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02691",
+    "question": "A person appointed Chief Minister of Bihar without being a legislator must become a member of legislature within:",
+    "answer": "6 months",
+    "choices": [
+      "6 months",
+      "3 months",
+      "1 year",
+      "Before taking oath"
+    ],
+    "information": "6 months — constitutional requirement. If the person fails to get elected/become MLC within 6 months, they must resign. This has happened in Bihar when CMs won later by-elections within the 6-month window.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02692",
+    "question": "Nitish Kumar has been Chief Minister of Bihar for the most number of terms. He first became CM in:",
+    "answer": "2005-11-01 00:00:00",
+    "choices": [
+      "2005-11-01 00:00:00",
+      "2005-02-01 00:00:00",
+      "2000",
+      "2010"
+    ],
+    "information": "November 2005 — after October 2005 elections gave JDU-BJP majority. The February 2005 election gave a hung assembly. Nitish has since been CM continuously (with brief Jitan Ram Manjhi interlude in 2014–15) through multiple alliance changes.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02693",
+    "question": "Which constitutional article makes the Council of Ministers of Bihar collectively responsible to the Vidhan Sabha?",
+    "answer": "Article 164(2)",
+    "choices": [
+      "Article 164(2)",
+      "Article 163",
+      "Article 167",
+      "Article 166"
+    ],
+    "information": "Article 164(2) — \"The Council of Ministers shall be collectively responsible to the Legislative Assembly of the State.\" This is the constitutional basis for collective responsibility, no-confidence motions, and the entire Westminster model of government.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02694",
+    "question": "The Bommai Case (1994) is relevant to Bihar's constitutional history because it ruled that:",
+    "answer": "Governor cannot dismiss government without floor test in Vidhan Sabha",
+    "choices": [
+      "Governor cannot dismiss government without floor test in Vidhan Sabha",
+      "Governor has absolute power to dismiss state government",
+      "President's Rule needs Parliamentary approval before imposition",
+      "CM must have 3/4th majority to be appointed"
+    ],
+    "information": "Governor cannot dismiss without floor test. S.R. Bommai vs Union of India (1994) — SC ruled that majority must be tested on the FLOOR OF THE HOUSE, not by Governor's subjective assessment. Also ruled Article 356 is subject to judicial review. Changed how President's Rule works in Bihar and all states.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02695",
+    "question": "Sri Krishna Sinha's tenure as first Chief Minister of Bihar is notable because:",
+    "answer": "He was longest-serving CM (1946–1961) and led Bihar into the republic era",
+    "choices": [
+      "He was longest-serving CM (1946–1961) and led Bihar into the republic era",
+      "He introduced OBC reservations in Bihar",
+      "He was the first non-Congress CM",
+      "He negotiated Bihar's boundaries after independence"
+    ],
+    "information": "Longest-serving CM (1946–1961) — served from the provincial government era through independence and into the republic. He led Bihar's transition from a British province to an Indian state to a republic state. No other Bihar CM has served as long.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02696",
+    "question": "Jharkhand was carved out of Bihar and became India's how many-th state?",
+    "answer": "28th state",
+    "choices": [
+      "28th state",
+      "26th state",
+      "27th state",
+      "29th state"
+    ],
+    "information": "28th state. Chhattisgarh (26th, Nov 1), Uttarakhand (27th, Nov 9), Jharkhand (28th, Nov 15) — all formed in November 2000. India had 25 states before; went to 28 in one month.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02697",
+    "question": "The date November 15, 2000 was chosen for Jharkhand's formation because:",
+    "answer": "It is Birsa Munda's birth anniversary",
+    "choices": [
+      "It is Birsa Munda's birth anniversary",
+      "It is Constitution Day",
+      "It coincides with Diwali",
+      "It is the date Bihar was originally formed"
+    ],
+    "information": "Birsa Munda's birth anniversary. \"Dharti Abba\" Birsa Munda — tribal icon who led the Ulgulan movement (1899–1900) against British. His birthday was chosen to honour tribal identity.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02698",
+    "question": "Which constitutional article governs the formation of new states in India?",
+    "answer": "Article 3",
+    "choices": [
+      "Article 3",
+      "Article 368",
+      "Article 2",
+      "Article 356"
+    ],
+    "information": "Article 3 — Parliament can form new states, alter areas/boundaries/names. Requires simple majority (NOT special majority). State legislature consulted but consent not required. Article 2 = admission of new states (for territories outside India).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02699",
+    "question": "How many districts did Bihar lose to Jharkhand?",
+    "answer": "17 districts",
+    "choices": [
+      "17 districts",
+      "15 districts",
+      "20 districts",
+      "12 districts"
+    ],
+    "information": "17 districts went to Jharkhand. Bihar went from 55 districts to 38 districts. Area reduced from ~1,73,877 sq. km to 94,163 sq. km — about 46% of Bihar's area was lost.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02700",
+    "question": "Which of the following districts did NOT go to Jharkhand and remained in Bihar?",
+    "answer": "Gaya",
+    "choices": [
+      "Gaya",
+      "Ranchi",
+      "Dhanbad",
+      "Hazaribagh"
+    ],
+    "information": "Gaya remained in Bihar. Ranchi (capital of Jharkhand), Dhanbad (coal), Hazaribagh all went to Jharkhand. Gaya, Nalanda, Patna, Muzaffarpur all stayed in Bihar. Classic trap using well-known district names.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02701",
+    "question": "The first Chief Minister of Jharkhand was:",
+    "answer": "Babulal Marandi (BJP)",
+    "choices": [
+      "Babulal Marandi (BJP)",
+      "Shibu Soren (JMM)",
+      "Arjun Munda",
+      "Madhu Koda"
+    ],
+    "information": "Babulal Marandi (BJP) — first CM of Jharkhand (November 2000). Shibu Soren was JMM founder and later became CM but was NOT the first. Arjun Munda was CM later.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02702",
+    "question": "Who is known as the \"Father of the Jharkhand Movement\"?",
+    "answer": "Jaipal Singh Munda",
+    "choices": [
+      "Jaipal Singh Munda",
+      "Shibu Soren",
+      "Birsa Munda",
+      "B.P. Mandal"
+    ],
+    "information": "Jaipal Singh Munda — raised demand for Jharkhand in 1938 Congress session, formed Jharkhand Party in 1952. Also captained India's 1928 Olympic gold-winning hockey team. Shibu Soren revived the movement later but Jaipal Singh started it.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02703",
+    "question": "The States Reorganisation Commission (SRC) of 1955 rejected the Jharkhand demand because:",
+    "answer": "Tribal areas were not sufficiently contiguous",
+    "choices": [
+      "Tribal areas were not sufficiently contiguous",
+      "Tribal population was too small",
+      "Jharkhand had no viable economy",
+      "The demand came too late"
+    ],
+    "information": "Tribal areas not sufficiently contiguous. SRC (Fazl Ali Commission, 1953–55) recommended linguistic basis for states. Jharkhand's demand was tribal/cultural, not linguistic — and the tribal areas were scattered. Rejection delayed statehood by 45 years.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02704",
+    "question": "Under Article 3, Parliament can create new states by:",
+    "answer": "Simple majority — it is NOT a constitutional amendment",
+    "choices": [
+      "Simple majority — it is NOT a constitutional amendment",
+      "Special majority (2/3rd + majority of total)",
+      "Absolute majority (majority of total membership)",
+      "Unanimous vote"
+    ],
+    "information": "Simple majority — Article 4 explicitly states that laws under Article 3 are NOT constitutional amendments under Article 368. So only simple majority needed. State legislature's views taken but NOT binding.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02705",
+    "question": "Which major steel plant that was part of Bihar went to Jharkhand after bifurcation?",
+    "answer": "Both Tata Steel (Jamshedpur) and Bokaro Steel Plant",
+    "choices": [
+      "Both Tata Steel (Jamshedpur) and Bokaro Steel Plant",
+      "Only Bokaro Steel Plant",
+      "Only Tata Steel",
+      "Neither — both remained in Bihar"
+    ],
+    "information": "Both Tata Steel (Jamshedpur) and Bokaro Steel Plant (Bokaro) went to Jharkhand. Bihar lost its entire heavy industrial base. The only significant industrial plant that stayed in Bihar was Barauni Thermal Power Plant and Barauni Refinery (Begusarai).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02706",
+    "question": "Birsa Munda's movement \"Ulgulan\" (Great Tumult) was directed against:",
+    "answer": "British land policies and exploitation of tribals",
+    "choices": [
+      "British land policies and exploitation of tribals",
+      "Congress party's neglect of tribals",
+      "Bihar government's failure to give statehood",
+      "Zamindars of the Gangetic plains"
+    ],
+    "information": "British land policies — specifically against the encroachment of tribal lands, the diku (outsider) system, and the forest laws that restricted tribal rights. Ulgulan (1899–1900). Birsa was arrested and died in Ranchi jail in 1900.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02707",
+    "question": "India's FIRST linguistic state was:",
+    "answer": "Andhra State (October 1, 1953)",
+    "choices": [
+      "Andhra State (October 1, 1953)",
+      "Karnataka (1956)",
+      "Maharashtra (1960)",
+      "Kerala (1956)"
+    ],
+    "information": "Andhra State (October 1, 1953) — formed after Potti Sriramulu's fast-unto-death. Led to formation of SRC. Bihar's Jharkhand demand (tribal basis) came in the same political wave but SRC used linguistic principle to reject it.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02708",
+    "question": "After bifurcation, Bihar's Scheduled Tribe population dropped to approximately:",
+    "answer": "0.013",
+    "choices": [
+      "0.013",
+      "0.08",
+      "0.05",
+      "0.15"
+    ],
+    "information": "1.3% — from about 8% before bifurcation. Because all major tribal communities (Santhals, Mundas, Hos, Oraons) lived in what became Jharkhand. Bihar lost its tribal demographic almost entirely after 2000.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02709",
+    "question": "Which of the following correctly identifies what Bihar RETAINED after the bifurcation?",
+    "answer": "Barauni Refinery and Thermal Plant (Begusarai)",
+    "choices": [
+      "Barauni Refinery and Thermal Plant (Begusarai)",
+      "Bokaro Steel Plant",
+      "Tata Steel Jamshedpur",
+      "Dhanbad coalfields"
+    ],
+    "information": "Barauni Refinery and Thermal Plant (Begusarai) — one of the few significant industrial assets that stayed in Bihar. Bokaro, Tata Steel, and Dhanbad all went to Jharkhand.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02710",
+    "question": "The Chota Nagpur Tenancy Act (1908) was enacted to:",
+    "answer": "Prevent transfer of tribal land to non-tribals (dikus)",
+    "choices": [
+      "Prevent transfer of tribal land to non-tribals (dikus)",
+      "Increase agricultural productivity in Chota Nagpur",
+      "Promote tea cultivation in tribal areas",
+      "Regulate zamindari in South Bihar"
+    ],
+    "information": "Prevent land transfer from tribals to non-tribals (dikus = outsiders). Despite this act, land alienation continued and became a major grievance. After Jharkhand formation, this Act remained in force there. It is still relevant for Jharkhand's land rights.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02711",
+    "question": "The Damodar Valley Corporation (DVC) after Bihar's bifurcation involved:",
+    "answer": "Reorganisation as DVC flows through Jharkhand and West Bengal",
+    "choices": [
+      "Reorganisation as DVC flows through Jharkhand and West Bengal",
+      "Complete transfer to Jharkhand",
+      "Complete transfer to Bihar",
+      "Dissolution as it was no longer viable"
+    ],
+    "information": "Reorganisation — Damodar river flows through Jharkhand (upper course) and West Bengal (lower). Bihar's share had to be renegotiated. DVC is now primarily a Jharkhand-West Bengal-Centre project with Bihar having minimal stake.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02712",
+    "question": "Three new states formed in November 2000 in correct chronological order are:",
+    "answer": "Chhattisgarh (Nov 1), Uttarakhand (Nov 9), Jharkhand (Nov 15)",
+    "choices": [
+      "Chhattisgarh (Nov 1), Uttarakhand (Nov 9), Jharkhand (Nov 15)",
+      "Jharkhand (Nov 1), Chhattisgarh (Nov 9), Uttarakhand (Nov 15)",
+      "Uttarakhand (Nov 1), Jharkhand (Nov 9), Chhattisgarh (Nov 15)",
+      "All three formed on November 15, 2000"
+    ],
+    "information": "Chhattisgarh (Nov 1) from MP, Uttarakhand (Nov 9) from UP, Jharkhand (Nov 15) from Bihar. India went from 25 to 28 states in 15 days. CUJ in order — 1st, 9th, 15th.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02713",
+    "question": "Which is INCORRECT about the Bihar Reorganisation Act 2000?",
+    "answer": "Bihar Vidhan Sabha's consent was constitutionally required for the Act to pass",
+    "choices": [
+      "Bihar Vidhan Sabha's consent was constitutionally required for the Act to pass",
+      "The Act was passed by Parliament",
+      "Jharkhand became the 28th state",
+      "Jharkhand's capital is Ranchi"
+    ],
+    "information": "Bihar Vidhan Sabha's consent was required — INCORRECT. Under Article 3, only consultation (not consent) of state legislature is required. Parliament is NOT bound by the state's views. Bihar could oppose but could not stop Jharkhand's formation.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02714",
+    "question": "The first Governor of Jharkhand was:",
+    "answer": "Prabhat Kumar",
+    "choices": [
+      "Prabhat Kumar",
+      "Babulal Marandi",
+      "Syed Sibtey Razi",
+      "Vedprakash Marwah"
+    ],
+    "information": "Prabhat Kumar — first Governor of Jharkhand (2000). Babulal Marandi was the first CM. BPSC distinguishes between first Governor (appointed, ceremonial) and first CM (elected, real executive).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02715",
+    "question": "Birsa Munda is called \"Dharti Abba\" which means:",
+    "answer": "Father of the Earth",
+    "choices": [
+      "Father of the Earth",
+      "Son of the Soil",
+      "King of the Jungle",
+      "God of the Tribals"
+    ],
+    "information": "Father of the Earth — \"Dharti\" = Earth, \"Abba\" = Father. Birsa Munda (1875–1900) is revered as a tribal deity-like figure in Jharkhand. He led the Ulgulan and died at ~25 in British custody. November 15 = birth anniversary = Jharkhand Day.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02716",
+    "question": "After bifurcation, how much of Bihar's original area was retained by Bihar?",
+    "answer": "Approximately 54% (94,163 of ~1,73,877 sq. km)",
+    "choices": [
+      "Approximately 54% (94,163 of ~1,73,877 sq. km)",
+      "0.7",
+      "0.8",
+      "0.4"
+    ],
+    "information": "~54% — Bihar retained about 54% of its pre-bifurcation area. Lost ~46% (~79,714 sq. km) to Jharkhand. This massive territorial loss with most of the population remaining explains Bihar's high population density post-2000.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02717",
+    "question": "The Jharkhand Mukti Morcha (JMM) was associated with which leader as its founder?",
+    "answer": "Shibu Soren (\"Guruji\")",
+    "choices": [
+      "Shibu Soren (\"Guruji\")",
+      "Jaipal Singh Munda",
+      "Babulal Marandi",
+      "Arjun Munda"
+    ],
+    "information": "Shibu Soren (\"Guruji\") — founded JMM and was the dominant force of the Jharkhand movement from the 1970s onward. He later became Chief Minister of Jharkhand multiple times. Jaipal Singh started the movement earlier but JMM under Soren sustained it.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02718",
+    "question": "Before bifurcation, Patna High Court had jurisdiction over:",
+    "answer": "Both Bihar and the areas that became Jharkhand",
+    "choices": [
+      "Both Bihar and the areas that became Jharkhand",
+      "Only Bihar's northern districts",
+      "Only Bihar's Ganga plain districts",
+      "Bihar, Jharkhand and Odisha combined"
+    ],
+    "information": "Both Bihar and what became Jharkhand — Patna HC had jurisdiction over the entire combined Bihar including Chota Nagpur and Santhal Pargana. After 2000, Jharkhand High Court at Ranchi was created and Patna HC's jurisdiction reduced to present Bihar only.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02719",
+    "question": "The Arwal district of Bihar was carved out in 2001 from which district?",
+    "answer": "Jehanabad",
+    "choices": [
+      "Jehanabad",
+      "Gaya",
+      "Nalanda",
+      "Aurangabad"
+    ],
+    "information": "Jehanabad — Arwal was carved out of Jehanabad district in 2001, just one year after bifurcation. This shows Bihar continuing to reorganise internally even after losing territory. BPSC asks which new districts were created within Bihar post-2000.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02720",
+    "question": "Bihar's population density became the highest among Indian states after 2000 primarily because:",
+    "answer": "Lost 46% area to Jharkhand but retained ~82% of combined population",
+    "choices": [
+      "Lost 46% area to Jharkhand but retained ~82% of combined population",
+      "Population suddenly increased after bifurcation",
+      "Jharkhand's formation brought migrants to Bihar",
+      "Census 2001 overcounted Bihar's population"
+    ],
+    "information": "Lost 46% area but retained ~82% of combined population. The same population (mostly plains-dwelling) was now compressed into a much smaller area. Jharkhand took the land; Bihar kept the people. This mechanical reason for density increase is a BPSC cause-effect question.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02721",
+    "question": "The 73rd Constitutional Amendment giving constitutional status to PRIs came into force on:",
+    "answer": "April 24, 1993",
+    "choices": [
+      "April 24, 1993",
+      "January 26, 1993",
+      "December 24, 1992",
+      "June 1, 1993"
+    ],
+    "information": "April 24, 1993 — now celebrated as National Panchayati Raj Day. The Amendment was passed in December 1992 but enforced April 24, 1993. June 1, 1993 = 74th Amendment (ULBs).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02722",
+    "question": "The 73rd Amendment added which Part and Schedule to the Constitution?",
+    "answer": "Part IX and 11th Schedule",
+    "choices": [
+      "Part IX and 11th Schedule",
+      "Part VIII and 10th Schedule",
+      "Part IX-A and 12th Schedule",
+      "Part X and 11th Schedule"
+    ],
+    "information": "Part IX (Articles 243–243O) and 11th Schedule (29 subjects). Part IX-A + 12th Schedule = 74th Amendment (ULBs). Confusing these two amendments is the most common BPSC trap.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02723",
+    "question": "Bihar's reservation for women in Panchayati Raj institutions is:",
+    "answer": "50% — above the constitutional minimum of 1/3rd",
+    "choices": [
+      "50% — above the constitutional minimum of 1/3rd",
+      "33% — exactly as constitutionally mandated",
+      "0.4",
+      "0.25"
+    ],
+    "information": "50% — Bihar Panchayat Raj Act 2006 raised it to 50%. Constitution (Article 243-D) mandates only 1/3rd minimum. Bihar's 50% is a state decision above the national floor. This is the most tested Bihar-PRI fact.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02724",
+    "question": "In Bihar, the head of a Gram Panchayat is called:",
+    "answer": "Mukhiya",
+    "choices": [
+      "Mukhiya",
+      "Sarpanch",
+      "Pradhan",
+      "Gram Sevak"
+    ],
+    "information": "Mukhiya — Bihar's term. Sarpanch = Rajasthan/MP. Pradhan = UP/Uttarakhand. Gram Sevak = appointed government worker, not elected head. Bihar-specific terminology is directly tested.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02725",
+    "question": "The head of Panchayat Samiti in Bihar is called:",
+    "answer": "Pramukh",
+    "choices": [
+      "Pramukh",
+      "Adhyaksha",
+      "Mukhiya",
+      "Block Pramukh"
+    ],
+    "information": "Pramukh — heads Panchayat Samiti (block level). Adhyaksha = Zila Parishad (district level). Mukhiya = Gram Panchayat (village level). The three-tier heads: Mukhiya → Pramukh → Adhyaksha.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02726",
+    "question": "Bihar's Gram Kachahri is headed by which officer?",
+    "answer": "Sarpanch (different from Mukhiya)",
+    "choices": [
+      "Sarpanch (different from Mukhiya)",
+      "Mukhiya",
+      "Pramukh",
+      "Block Development Officer"
+    ],
+    "information": "Sarpanch — heads Gram Kachahri (village court for dispute resolution). This is a DIFFERENT body from Gram Panchayat (headed by Mukhiya). Two separate elected bodies at village level is Bihar's unique feature.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02727",
+    "question": "Under Bihar Panchayat Raj Act, a person with more than two children is:",
+    "answer": "Disqualified from contesting PRI elections",
+    "choices": [
+      "Disqualified from contesting PRI elections",
+      "Disqualified from voting",
+      "Required to pay higher taxes",
+      "Not eligible for government schemes"
+    ],
+    "information": "Disqualified from contesting PRI elections — two-child norm in Bihar's Panchayat Raj Act. Does NOT apply to Vidhan Sabha or Lok Sabha elections — only PRIs. Children born after the Act's commencement are counted.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02728",
+    "question": "The 11th Schedule of the Constitution contains how many subjects for PRIs?",
+    "answer": "29 subjects",
+    "choices": [
+      "29 subjects",
+      "18 subjects",
+      "25 subjects",
+      "33 subjects"
+    ],
+    "information": "29 subjects in the 11th Schedule for PRIs. 12th Schedule = 18 subjects for ULBs. 11th-29 and 12th-18 must be memorised as pairs. These subjects are devolved by states to PRIs — not automatically transferred.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02729",
+    "question": "Which constitutional article mandates creation of State Election Commission for PRI elections?",
+    "answer": "Article 243-K",
+    "choices": [
+      "Article 243-K",
+      "Article 243-I",
+      "Article 243-D",
+      "Article 243-A"
+    ],
+    "information": "Article 243-K — State Election Commission. Article 243-I = State Finance Commission. Article 243-D = Reservation in PRIs. Article 243-A = Gram Sabha. These four articles are the most BPSC-tested from Part IX.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02730",
+    "question": "The State Finance Commission for PRIs must be constituted every:",
+    "answer": "5 years (Article 243-I)",
+    "choices": [
+      "5 years (Article 243-I)",
+      "3 years",
+      "10 years",
+      "After every election"
+    ],
+    "information": "5 years under Article 243-I. Parallel to Finance Commission of India (also every 5 years, Article 280). Both recommend financial devolution — national FC for Centre-State; State FC for State-PRI/ULB.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02731",
+    "question": "Which committee first recommended three-tier Panchayati Raj in India?",
+    "answer": "Balwantrai Mehta Committee (1957)",
+    "choices": [
+      "Balwantrai Mehta Committee (1957)",
+      "Ashok Mehta Committee (1978)",
+      "L.M. Singhvi Committee (1986)",
+      "G.V.K. Rao Committee (1985)"
+    ],
+    "information": "Balwantrai Mehta Committee (1957) — first to recommend democratic decentralisation through three-tier PRIs. Rajasthan implemented it first in 1959. GVK Rao said PRIs had become \"grass without roots.\" Singhvi recommended constitutional status — led to 73rd Amendment.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02732",
+    "question": "Which committee described PRIs as \"grass without roots\" and demanded their strengthening?",
+    "answer": "G.V.K. Rao Committee (1985)",
+    "choices": [
+      "G.V.K. Rao Committee (1985)",
+      "Balwantrai Mehta Committee",
+      "L.M. Singhvi Committee",
+      "Ashok Mehta Committee"
+    ],
+    "information": "G.V.K. Rao Committee (1985) — used the famous \"grass without roots\" metaphor for neglected PRIs. This phrase is directly quoted in BPSC options. It recommended strengthening PRIs and making them effective.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02733",
+    "question": "How many Municipal Corporations (Nagar Nigams) does Bihar have, and which are they?",
+    "answer": "5 — Patna, Gaya, Muzaffarpur, Bhagalpur, Darbhanga",
+    "choices": [
+      "5 — Patna, Gaya, Muzaffarpur, Bhagalpur, Darbhanga",
+      "3 — Patna, Gaya, Muzaffarpur",
+      "6 — includes Nalanda",
+      "4 — Patna, Gaya, Bhagalpur, Muzaffarpur"
+    ],
+    "information": "5 Municipal Corporations — Patna, Gaya, Muzaffarpur, Bhagalpur, Darbhanga. These are cities with population >3 lakh qualifying for Nagar Nigam status. Nalanda/Rajgir does NOT have a Nagar Nigam.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02734",
+    "question": "The elected head of a Municipal Corporation (Nagar Nigam) in Bihar is:",
+    "answer": "Mayor",
+    "choices": [
+      "Mayor",
+      "Adhyaksha",
+      "Chairperson",
+      "Municipal Commissioner"
+    ],
+    "information": "Mayor — elected head. Municipal Commissioner = appointed IAS officer who is administrative head. For Nagar Parishad/Nagar Panchayat = Chairperson (elected). This elected vs appointed distinction is a BPSC trap.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02735",
+    "question": "The 74th Constitutional Amendment (1992) relates to:",
+    "answer": "Urban Local Bodies — added Part IX-A and 12th Schedule",
+    "choices": [
+      "Urban Local Bodies — added Part IX-A and 12th Schedule",
+      "Rural PRIs — added Part IX and 11th Schedule",
+      "Both rural and urban bodies",
+      "District Planning Committees only"
+    ],
+    "information": "Urban Local Bodies — 74th Amendment added Part IX-A (Articles 243-P to 243-ZG) and 12th Schedule (18 subjects). 73rd = rural PRIs (Part IX + 11th Schedule). The 73rd-74th Amendment pair is tested as a unit.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02736",
+    "question": "Gram Sabha under Article 243-A consists of:",
+    "answer": "All persons registered as voters in the Gram Panchayat area",
+    "choices": [
+      "All persons registered as voters in the Gram Panchayat area",
+      "Only elected members of Gram Panchayat",
+      "Village elders and Mukhiya",
+      "Only SC/ST and women voters"
+    ],
+    "information": "All persons registered as voters in the Gram Panchayat area. No election needed — automatic membership for all voters. It is the direct democracy foundation. Gram Panchayat is its executive committee.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02737",
+    "question": "Under the Triple Test for OBC reservation in local bodies (Supreme Court ruling), what is the maximum total reservation allowed?",
+    "answer": "50% of total seats",
+    "choices": [
+      "50% of total seats",
+      "0.6",
+      "0.75",
+      "No limit"
+    ],
+    "information": "50% — total reservation (SC + ST + OBC + Women) cannot exceed 50% of seats. This is from the Vikas Gawali case (2021) SC ruling. Bihar had to restructure its OBC reservation in PRIs to comply with this 50% ceiling.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02738",
+    "question": "The minimum number of times Gram Sabha must meet in Bihar per year is:",
+    "answer": "2 times (April and October-November)",
+    "choices": [
+      "2 times (April and October-November)",
+      "4 times",
+      "Once",
+      "6 times"
+    ],
+    "information": "2 times minimum — in April (before kharif) and October-November (after kharif). Bihar's Panchayat Raj Act specifies these two mandatory meetings. Special meetings can be called additionally.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02739",
+    "question": "MGNREGA is implemented through which body at the village level?",
+    "answer": "Gram Panchayat (principal authority)",
+    "choices": [
+      "Gram Panchayat (principal authority)",
+      "Block Development Office",
+      "District Collector's office",
+      "State Rural Development Department"
+    ],
+    "information": "Gram Panchayat — designated as the \"principal authority\" under MGNREGA for planning and implementation of works. Gram Sabha conducts social audit of MGNREGA. This links PRIs directly to India's largest employment scheme.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02740",
+    "question": "The PESA Act (1996) is relevant to Bihar in which context?",
+    "answer": "Minimal relevance — most tribal/Schedule V areas went to Jharkhand",
+    "choices": [
+      "Minimal relevance — most tribal/Schedule V areas went to Jharkhand",
+      "Fully applicable to North Bihar Terai",
+      "Applies to Champaran forests",
+      "Applies to Kaimur tribal areas"
+    ],
+    "information": "Minimal relevance post-Jharkhand. PESA extends PRIs with enhanced powers to Schedule V (tribal) areas. Since most of Bihar's tribal areas went to Jharkhand in 2000, PESA has very limited application in present Bihar. High relevance for Jharkhand.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02741",
+    "question": "Ward Committees in Urban Local Bodies are constitutionally required for cities with population exceeding:",
+    "answer": "3 lakh",
+    "choices": [
+      "3 lakh",
+      "1 lakh",
+      "5 lakh",
+      "10 lakh"
+    ],
+    "information": "3 lakh (3,00,000) — Article 243-S mandates Ward Committees for cities with population above 3 lakh. Patna is the primary Bihar city requiring Ward Committees. They decentralise governance within large Municipal Corporations.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02742",
+    "question": "Which constitutional article provides for reservation of seats in PRIs including for women?",
+    "answer": "Article 243-D",
+    "choices": [
+      "Article 243-D",
+      "Article 243-A",
+      "Article 243-K",
+      "Article 243-G"
+    ],
+    "information": "Article 243-D — provides for reservation of seats for SC, ST, and women (minimum 1/3rd) in PRIs. Article 243-A = Gram Sabha. Article 243-K = State Election Commission. Article 243-G = powers and functions of PRIs.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02743",
+    "question": "L.M. Singhvi Committee (1986) is remembered for recommending:",
+    "answer": "Constitutional status for PRIs and Gram Sabha as base unit",
+    "choices": [
+      "Constitutional status for PRIs and Gram Sabha as base unit",
+      "Three-tier structure",
+      "Two-tier structure",
+      "Financial autonomy for PRIs"
+    ],
+    "information": "Constitutional status for PRIs and strengthening Gram Sabha as foundation of democracy. This recommendation directly led to the 73rd Amendment (1992). \"Grass without roots\" was GVK Rao's phrase — don't confuse with Singhvi.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02744",
+    "question": "In Bihar's three-tier PRI system, which is the correct order from village to district?",
+    "answer": "Gram Panchayat → Panchayat Samiti → Zila Parishad",
+    "choices": [
+      "Gram Panchayat → Panchayat Samiti → Zila Parishad",
+      "Gram Panchayat → Zila Parishad → Panchayat Samiti",
+      "Panchayat Samiti → Gram Panchayat → Zila Parishad",
+      "Zila Parishad → Panchayat Samiti → Gram Panchayat"
+    ],
+    "information": "Gram Panchayat (village) → Panchayat Samiti (block) → Zila Parishad (district). Heads: Mukhiya → Pramukh → Adhyaksha. This three-tier order with Bihar-specific names is the most fundamental PRI structure question.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02745",
+    "question": "Bihar has the largest number of women elected representatives in local government in India because:",
+    "answer": "Bihar provides 50% reservation in PRIs and ULBs — above constitutional minimum of 1/3rd",
+    "choices": [
+      "Bihar provides 50% reservation in PRIs and ULBs — above constitutional minimum of 1/3rd",
+      "Bihar has highest female literacy",
+      "Bihar has constitutional amendment giving 50%",
+      "Central government mandated 50% for Bihar specifically"
+    ],
+    "information": "50% reservation in PRIs and ULBs under Bihar Panchayat Raj Act 2006 — state-level decision above the constitutional floor of 1/3rd. Result: ~1.26 lakh+ women elected representatives in Bihar's PRIs — highest in India.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02746",
+    "question": "Who was the President of the Constituent Assembly of India, and from which district of Bihar was he?",
+    "answer": "Dr. Rajendra Prasad; Siwan district (Zeradei)",
+    "choices": [
+      "Dr. Rajendra Prasad; Siwan district (Zeradei)",
+      "Dr. B.R. Ambedkar; Maharashtra",
+      "Jawaharlal Nehru; Allahabad",
+      "Sardar Patel; Gujarat"
+    ],
+    "information": "Dr. Rajendra Prasad from Zeradei, Siwan district, Bihar was President of the Constituent Assembly (1946–49) and India's first President (1950–62). Ambedkar was Chairman of Drafting Committee — different role.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02747",
+    "question": "The 44th Constitutional Amendment (1978) replaced \"internal disturbance\" with which term in Article 352?",
+    "answer": "\"Armed rebellion\"",
+    "choices": [
+      "\"Armed rebellion\"",
+      "\"Civil war\"",
+      "\"Internal emergency\"",
+      "\"National crisis\""
+    ],
+    "information": "\"Armed rebellion\" — making it harder to declare National Emergency frivolously (as done in 1975). This change came directly from the JP Movement's experience. Also: Articles 20 and 21 cannot be suspended even during Emergency — added by 44th Amendment.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02748",
+    "question": "Jayaprakash Narayan was born at:",
+    "answer": "Sitab Diara, Saran district, Bihar",
+    "choices": [
+      "Sitab Diara, Saran district, Bihar",
+      "Zeradei, Siwan district",
+      "Champaran, Bihar",
+      "Patna, Bihar"
+    ],
+    "information": "Sitab Diara, Saran district, Bihar. JP (Lok Nayak) launched Sampurna Kranti from Gandhi Maidan, Patna in 1974–75. Rajendra Prasad was from Zeradei, Siwan — common confusion. Both are Bihar greats but different birthplaces.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02749",
+    "question": "The Bihar Andolan (1974) led by JP was primarily triggered by:",
+    "answer": "Corruption, rising prices, and unemployment during Indira Gandhi's rule",
+    "choices": [
+      "Corruption, rising prices, and unemployment during Indira Gandhi's rule",
+      "Demand for Jharkhand statehood",
+      "Opposition to Emergency declaration",
+      "Champaran land rights issues"
+    ],
+    "information": "Corruption, rising prices (oil shock), and unemployment — students in Bihar started protests; JP joined and escalated to \"Total Revolution\" (Sampurna Kranti). This directly triggered Indira Gandhi's Emergency (June 25, 1975).",
+    "tags": ""
+  },
+  {
+    "qid": "Q02750",
+    "question": "The S.R. Bommai case (1994) is constitutionally significant because it ruled that:",
+    "answer": "Article 356 proclamation is subject to judicial review and majority must be tested on floor",
+    "choices": [
+      "Article 356 proclamation is subject to judicial review and majority must be tested on floor",
+      "Governor has absolute discretion to impose President's Rule",
+      "States have no recourse against Article 356",
+      "President's Rule can last indefinitely"
+    ],
+    "information": "Article 356 is subject to judicial review + floor test mandatory. Changed how President's Rule works throughout India. Bihar's own experience with Article 356 (~10 times) gave factual weight to this constitutional debate.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02751",
+    "question": "The constitutional basis for Bihar's Total Liquor Prohibition (2016) is:",
+    "answer": "Article 47 (DPSP) + Entry 8 of State List",
+    "choices": [
+      "Article 47 (DPSP) + Entry 8 of State List",
+      "Article 21 (Right to Life)",
+      "Article 19 (Freedom of movement)",
+      "Entry 33 of Concurrent List"
+    ],
+    "information": "Article 47 DPSP (state shall endeavour to bring about prohibition) + Entry 8, State List (intoxicating liquors = state subject). Bihar has full constitutional authority to prohibit alcohol. Nitish Kumar cited Article 47 specifically.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02752",
+    "question": "The 92nd Constitutional Amendment (2003) is directly relevant to Bihar because:",
+    "answer": "It added Maithili to the 8th Schedule as the 22nd scheduled language",
+    "choices": [
+      "It added Maithili to the 8th Schedule as the 22nd scheduled language",
+      "It created Jharkhand from Bihar",
+      "It provided 50% women reservation in PRIs",
+      "It established Patna High Court"
+    ],
+    "information": "Maithili added to 8th Schedule — 22nd scheduled language. This recognised Bihar's Mithila region's cultural-linguistic identity. Bhojpuri is still NOT in the 8th Schedule despite being widely spoken.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02753",
+    "question": "The Indra Sawhney case (1992) established which two key principles about reservation?",
+    "answer": "50% ceiling on total reservation + exclusion of creamy layer from OBC reservation",
+    "choices": [
+      "50% ceiling on total reservation + exclusion of creamy layer from OBC reservation",
+      "27% reservation for OBCs + extension to promotions",
+      "33% reservation for women + no creamy layer",
+      "Abolition of reservation after 10 years"
+    ],
+    "information": "50% ceiling + creamy layer exclusion. Upheld 27% OBC reservation (Mandal Commission recommendation). Said reservation does NOT extend to promotions. B.P. Mandal — former Bihar CM — headed the Mandal Commission whose recommendations were the subject of this case.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02754",
+    "question": "Bihar has experienced President's Rule approximately how many times — more than most Indian states — primarily due to:",
+    "answer": "Chronic political instability and coalition fragility",
+    "choices": [
+      "Chronic political instability and coalition fragility",
+      "Natural disasters like floods",
+      "Tribal insurgency",
+      "Border conflicts with Nepal"
+    ],
+    "information": "Chronic political instability — ~10 times from 1968 to 2005. Multiple CMs in single years (1968), coalition collapses, hung assemblies. The 2005 case (hung assembly → PR → fresh elections → Nitish Kumar) is most studied.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02755",
+    "question": "The Farakka Barrage controversy involves Bihar because:",
+    "answer": "It causes backwater flooding in eastern Bihar's Ganga districts",
+    "choices": [
+      "It causes backwater flooding in eastern Bihar's Ganga districts",
+      "It diverts Bihar's drinking water",
+      "It was built in Bihar without consent",
+      "It affects Bihar's coal transportation"
+    ],
+    "information": "Backwater flooding — Farakka Barrage (West Bengal, 1975) diverts Ganga water to Hooghly, creating a backwater effect that worsens flooding in Bihar's eastern districts (Bhagalpur, Katihar, Saharsa, Khagaria). Bihar demands its modification/decommissioning.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02756",
+    "question": "Dr. Rajendra Prasad served as India's President for how long, making him the longest-serving President?",
+    "answer": "Two full terms — 1950 to 1962 (12 years)",
+    "choices": [
+      "Two full terms — 1950 to 1962 (12 years)",
+      "One term — 1950 to 1955",
+      "Three terms — 1950 to 1967",
+      "One term — 1950 to 1957"
+    ],
+    "information": "Two full terms (1950–1962) — only President to serve two full terms. Also only person to be both President of Constituent Assembly AND President of India. Awarded Bharat Ratna in 1962 (same year he retired). Born Zeradei, Siwan.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02757",
+    "question": "The 14th Finance Commission increased states' share of central taxes from:",
+    "answer": "32% to 42% — largest single increase",
+    "choices": [
+      "32% to 42% — largest single increase",
+      "28% to 35%",
+      "32% to 38%",
+      "40% to 42%"
+    ],
+    "information": "32% to 42% — largest ever increase in states' share by any Finance Commission. Chairman: Y.V. Reddy. Enormously benefited revenue-poor states like Bihar. 15th FC (Chairman: N.K. Singh, former Bihar MP) maintained 41%.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02758",
+    "question": "The 1st Constitutional Amendment (1951) was relevant to Bihar because:",
+    "answer": "It protected Bihar's zamindari abolition laws by placing them in 9th Schedule",
+    "choices": [
+      "It protected Bihar's zamindari abolition laws by placing them in 9th Schedule",
+      "It created Bihar as a state",
+      "It provided reservation for OBCs",
+      "It established Patna High Court"
+    ],
+    "information": "9th Schedule protection for zamindari abolition laws. Bihar was among first states to pass zamindari abolition legislation. Zamindars challenged it as violation of property rights. 1st Amendment + 9th Schedule protected these laws from judicial review.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02759",
+    "question": "Jagjivan Ram, who championed Dalit rights in the Constituent Assembly, was from which Bihar district?",
+    "answer": "Arrah (Bhojpur district)",
+    "choices": [
+      "Arrah (Bhojpur district)",
+      "Gaya",
+      "Patna",
+      "Muzaffarpur"
+    ],
+    "information": "Arrah (Bhojpur district), Bihar. Jagjivan Ram (\"Babuji\") was born in Chandwa, Arrah. Longest-serving Cabinet minister in Indian history (1946–1979). Constituent Assembly member who fought for SC/ST reservations in the Constitution.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02760",
+    "question": "The 86th Constitutional Amendment (2002) is relevant to Bihar as the most educationally backward state because:",
+    "answer": "It added Article 21A — Right to Elementary Education as Fundamental Right",
+    "choices": [
+      "It added Article 21A — Right to Elementary Education as Fundamental Right",
+      "It provided special education grants to Bihar",
+      "It established Navodaya schools in Bihar",
+      "It made Hindi compulsory in Bihar"
+    ],
+    "information": "Article 21A — Right to free and compulsory elementary education for children 6–14 years. Bihar, with India's lowest literacy rate (63.82%), is the primary beneficiary state of this provision through schemes like Sarva Shiksha Abhiyan.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02761",
+    "question": "Which constitutional article is the basis for Bihar's demand for Special Category Status?",
+    "answer": "No specific article — demand based on Planning Commission concept (now defunct)",
+    "choices": [
+      "No specific article — demand based on Planning Commission concept (now defunct)",
+      "Article 371",
+      "Article 275",
+      "Article 280"
+    ],
+    "information": "No specific article — Special Category Status was a Planning Commission concept (now NITI Aayog), not a constitutional provision. The 14th Finance Commission recommended abolishing SCS. Bihar's demand is political, not constitutional. Article 275 provides grants to states but not specifically SCS.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02762",
+    "question": "JP's \"Sampurna Kranti\" (Total Revolution) speech was delivered from:",
+    "answer": "Gandhi Maidan, Patna (1974–75)",
+    "choices": [
+      "Gandhi Maidan, Patna (1974–75)",
+      "Azad Maidan, Mumbai",
+      "Ramlila Maidan, Delhi",
+      "Bihar Vidhan Sabha premises"
+    ],
+    "information": "Gandhi Maidan, Patna — the historic ground where JP addressed massive rallies in 1974–75, calling for Total Revolution across political, social, economic, cultural and moral dimensions. Gandhi Maidan is Bihar's most politically significant public space.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02763",
+    "question": "The maximum duration of President's Rule (Article 356) in a state is:",
+    "answer": "3 years (with special conditions after 1 year)",
+    "choices": [
+      "3 years (with special conditions after 1 year)",
+      "6 months",
+      "1 year",
+      "Indefinite — as long as Parliament approves"
+    ],
+    "information": "3 years maximum — first 6 months by Presidential Proclamation + Parliamentary approval. Can be extended every 6 months. After 1 year, requires special majority in both Houses + Election Commission certificate that elections cannot be held. Bihar's 2005 PR lasted ~8 months — within normal limits.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02764",
+    "question": "B.P. Mandal's dual significance in Bihar's history is:",
+    "answer": "He was CM of Bihar (1968) AND chairman of the Mandal Commission (1979)",
+    "choices": [
+      "He was CM of Bihar (1968) AND chairman of the Mandal Commission (1979)",
+      "He was first CM of Bihar AND led the Constituent Assembly",
+      "He founded JMM AND implemented OBC reservation",
+      "He was Bihar Governor AND Finance Commission member"
+    ],
+    "information": "CM of Bihar (1968) AND Mandal Commission chairman (1979–80). His Commission recommended 27% OBC reservation. When implemented in 1990, it transformed Bihar's caste politics — OBC leaders Lalu Prasad and Nitish Kumar rose to dominance.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02765",
+    "question": "Bihar's 2023 Caste Survey found that OBC and EBC communities together constitute approximately what percentage of Bihar's population?",
+    "answer": "~63% (OBC 27.12% + EBC 36.01%)",
+    "choices": [
+      "~63% (OBC 27.12% + EBC 36.01%)",
+      "~45%",
+      "~50%",
+      "~75%"
+    ],
+    "information": "~63% — OBC = 27.12%, EBC (Extremely Backward Classes) = 36.01%, total ~63%. SC = 19.65%, ST = 1.68%, General = 15.52%. Bihar used this survey to push for enhanced reservation. Survey was challenged but Patna HC upheld it.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02766",
+    "question": "The 103rd Constitutional Amendment (2019) broke the Indra Sawhney 50% ceiling by providing:",
+    "answer": "10% reservation for EWS (Economically Weaker Sections) in general category",
+    "choices": [
+      "10% reservation for EWS (Economically Weaker Sections) in general category",
+      "5% additional OBC reservation",
+      "15% reservation for minorities",
+      "25% reservation for women"
+    ],
+    "information": "10% EWS reservation added via Articles 15(6) and 16(6). Takes potential total reservation to ~60%. Upheld by SC in Janhit Abhiyan case (2022) by narrow 3:2 majority. Benefits Bihar's general category poor — a significant constituency.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02767",
+    "question": "The 61st Constitutional Amendment (1988) reduced the voting age from 21 to 18, which particularly impacted Bihar because:",
+    "answer": "Bihar has the youngest demographic profile with high youth population",
+    "choices": [
+      "Bihar has the youngest demographic profile with high youth population",
+      "Bihar had lowest voter turnout earlier",
+      "Bihar had restricted voting rights before",
+      "Bihar was under President's Rule when Amendment passed"
+    ],
+    "information": "Bihar's young demographic profile. Bihar has India's youngest age structure — large proportion of 18–21 year olds. Reducing voting age dramatically expanded Bihar's electorate. This Amendment directly empowered Bihar's youth vote bank — impacting all subsequent elections.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02768",
+    "question": "Which case established that bonded labour in Bihar violated Fundamental Rights, particularly Article 23?",
+    "answer": "Bandhua Mukti Morcha vs Union of India",
+    "choices": [
+      "Bandhua Mukti Morcha vs Union of India",
+      "Indra Sawhney vs Union of India",
+      "S.R. Bommai vs Union of India",
+      "Kesavananda Bharati vs State of Kerala"
+    ],
+    "information": "Bandhua Mukti Morcha vs Union of India — SC took suo motu cognizance of bonded labour in Bihar's brick kilns and farms. Article 23 prohibits forced labour. This case established that positive obligations arise from Fundamental Rights — state must act to end forced labour.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02769",
+    "question": "The anti-defection law (10th Schedule) added by the 52nd Amendment is particularly relevant to Bihar because:",
+    "answer": "Bihar's fractured coalition politics frequently creates defection situations",
+    "choices": [
+      "Bihar's fractured coalition politics frequently creates defection situations",
+      "Bihar has no political parties",
+      "Bihar has special exemption from anti-defection",
+      "Bihar's Governor applies it uniquely"
+    ],
+    "information": "Bihar's fractured coalition politics — JDU, BJP, RJD, Congress frequent alliance changes create potential defection situations. Nitish Kumar's multiple alliance switches (2013, 2015, 2017, 2022, 2024) tested anti-defection boundaries. Speaker decides disqualification — politically sensitive in Bihar.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02770",
+    "question": "Dr. Rajendra Prasad was awarded the Bharat Ratna in which year?",
+    "answer": "1962",
+    "choices": [
+      "1962",
+      "1950",
+      "1955",
+      "1963 (posthumously)"
+    ],
+    "information": "1962 — same year he retired as President. He is one of very few Bharat Ratna recipients who received it while still serving in constitutional office. Jayaprakash Narayan received Bharat Ratna posthumously in 1999. Both Bihar greats; different years.",
+    "tags": ""
+  }
+]
