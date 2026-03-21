@@ -1,6 +1,6 @@
 [
   {
-    "qid": "Q01309",
+    "qid": "Q01330",
     "question": "India's territorial limit extends towards the sea up to how many nautical miles from the coast?",
     "answer": "12 nautical miles",
     "choices": [
@@ -13,7 +13,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01310",
+    "qid": "Q01331",
     "question": "India's Exclusive Economic Zone extends towards the sea up to how many nautical miles from the coast?",
     "answer": "200 nautical miles",
     "choices": [
@@ -26,7 +26,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01311",
+    "qid": "Q01332",
     "question": "How many latitudes are there on the globe drawn at 1 degree interval?",
     "answer": "181",
     "choices": [
@@ -39,7 +39,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01312",
+    "qid": "Q01333",
     "question": "How much is the difference between Indian Standard Time (IST) and Greenwich Mean Time (GMT)?",
     "answer": "plus 5 hour 30 minutes",
     "choices": [
@@ -52,7 +52,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01313",
+    "qid": "Q01334",
     "question": "On which plateau, the Tropic of Cancer and the Indian Standard Time intersect each other?",
     "answer": "Baghelkhand",
     "choices": [
@@ -65,7 +65,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01314",
+    "qid": "Q01335",
     "question": "Which one of the following longitudes is the standard meridian for India?",
     "answer": "82deg 30min E",
     "choices": [
@@ -78,7 +78,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01315",
+    "qid": "Q01336",
     "question": "Difference of one degree longitude will correspond to how much time",
     "answer": "4 minutes",
     "choices": [
@@ -91,7 +91,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01316",
+    "qid": "Q01337",
     "question": "What is the local time of Thimphu (Bhutan) located at 90deg E longitude when the time at Greenwich (0deg) is 12:00 noon?",
     "answer": "6:00 pm",
     "choices": [
@@ -104,7 +104,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01317",
+    "qid": "Q01338",
     "question": "The foothills region of Himalayas is",
     "answer": "Shiwalik",
     "choices": [
@@ -117,7 +117,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01318",
+    "qid": "Q01339",
     "question": "Which of the following areas is not landslide-prone area?",
     "answer": "Eastern Ghats",
     "choices": [
@@ -130,7 +130,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01319",
+    "qid": "Q01340",
     "question": "The highest peak in the Eastern Ghats of India is",
     "answer": "Arma Konda (Jhindhagada)",
     "choices": [
@@ -143,7 +143,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01320",
+    "qid": "Q01341",
     "question": "The highest peak in the Western Ghats of India is",
     "answer": "Anai Mudi",
     "choices": [
@@ -156,7 +156,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01321",
+    "qid": "Q01342",
     "question": "The highest mountain peak in India?",
     "answer": "K2 (Godwin-Austen)",
     "choices": [
@@ -169,7 +169,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01322",
+    "qid": "Q01343",
     "question": "The Kailash Range is part of which larger mountain system?",
     "answer": "Trans-Himalaya",
     "choices": [
@@ -182,7 +182,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01323",
+    "qid": "Q01344",
     "question": "Mount Everest lies in which mountain range?",
     "answer": "Great Himalayas",
     "choices": [
@@ -195,7 +195,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01324",
+    "qid": "Q01345",
     "question": "Which is the highest mountain peak entirely within India (not on the border)?",
     "answer": "Nanda Devi",
     "choices": [
@@ -208,7 +208,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01325",
+    "qid": "Q01346",
     "question": "Shiwalik series was formed in",
     "answer": "Cenozoic",
     "choices": [
@@ -221,7 +221,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01326",
+    "qid": "Q01347",
     "question": "Someshwar range is a part of which of the following mountain ranges?",
     "answer": "Shiwalik",
     "choices": [
@@ -234,7 +234,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01327",
+    "qid": "Q01348",
     "question": "Atal Tunnel is across which one of the following Himalayan ranges?",
     "answer": "Eastern Pir Panjal",
     "choices": [
@@ -247,7 +247,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01328",
+    "qid": "Q01349",
     "question": "At which of the following hills the Eastern Ghats join the Western Ghats?",
     "answer": "Nilgiri Hills",
     "choices": [
@@ -260,7 +260,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01329",
+    "qid": "Q01350",
     "question": "Western Ghats in Maharashtra and Karnataka is known as",
     "answer": "Sahyadri",
     "choices": [
@@ -273,7 +273,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01330",
+    "qid": "Q01351",
     "question": "The Hills situated closer to Kanyakumari are",
     "answer": "Cardamom Hills",
     "choices": [
@@ -286,7 +286,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01331",
+    "qid": "Q01352",
     "question": "Which of the following is not a part of the Meghalaya Plateau?",
     "answer": "Bhuban Hills",
     "choices": [
@@ -299,7 +299,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01332",
+    "qid": "Q01353",
     "question": "Extra peninsular mountains of India were formed during",
     "answer": "Cenozoic Era",
     "choices": [
@@ -312,7 +312,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01333",
+    "qid": "Q01354",
     "question": "Chhota-Nagpur Plateau is a",
     "answer": "front sloping",
     "choices": [
@@ -325,7 +325,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01334",
+    "qid": "Q01355",
     "question": "Which one of the following districts does not have Dharwar geological formations?",
     "answer": "Rohtas",
     "choices": [
@@ -338,7 +338,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01335",
+    "qid": "Q01356",
     "question": "How many coastal states are there in India?",
     "answer": "Nine",
     "choices": [
@@ -351,7 +351,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01336",
+    "qid": "Q01357",
     "question": "Island group Lakshadweep is",
     "answer": "Accumulation of Coral Reef",
     "choices": [
@@ -364,7 +364,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01337",
+    "qid": "Q01358",
     "question": "Lakshadweep consists of how many islands?",
     "answer": "36",
     "choices": [
@@ -377,7 +377,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01338",
+    "qid": "Q01359",
     "question": "The Ramsar Convention is associated with the conservation of",
     "answer": "Wetlands",
     "choices": [
@@ -390,7 +390,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01339",
+    "qid": "Q01360",
     "question": "Which gas contributes to global warming through its greenhouse effect?",
     "answer": "All of these",
     "choices": [
@@ -403,7 +403,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01340",
+    "qid": "Q01361",
     "question": "Which of the following gas is responsible for the depletion of Ozone layer?",
     "answer": "Chlorofluorocarbons",
     "choices": [
@@ -416,7 +416,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01341",
+    "qid": "Q01362",
     "question": "What is the percentage of forest and tree cover in the total geographical area of India according to Indian State of Forest Report 2023?",
     "answer": "25.17 percent",
     "choices": [
@@ -429,7 +429,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01342",
+    "qid": "Q01363",
     "question": "What is the percentage of forest cover in the total geographical area of India according to Indian State of Forest Report 2023?",
     "answer": "21.76 percent",
     "choices": [
@@ -442,7 +442,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01343",
+    "qid": "Q01364",
     "question": "The largest percentage of forest area is in",
     "answer": "Lakshadweep",
     "choices": [
@@ -455,7 +455,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01344",
+    "qid": "Q01365",
     "question": "State having largest forest cover in India",
     "answer": "Madhya Pradesh",
     "choices": [
@@ -468,7 +468,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01345",
+    "qid": "Q01366",
     "question": "In National Park protection is given to",
     "answer": "Whole Ecosystem",
     "choices": [
@@ -481,7 +481,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01346",
+    "qid": "Q01367",
     "question": "Which of the following areas in India does not grow tropical wet evergreen forests?",
     "answer": "Eastern Ghats",
     "choices": [
@@ -494,7 +494,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01347",
+    "qid": "Q01368",
     "question": "In which forest do the majority of species of birds inhabit the mountainous areas?",
     "answer": "Pine Forest",
     "choices": [
@@ -507,7 +507,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01348",
+    "qid": "Q01369",
     "question": "India's first Dolphin Observatory is being built in",
     "answer": "Bihar",
     "choices": [
@@ -520,7 +520,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01349",
+    "qid": "Q01370",
     "question": "The state of India with maximum number of wildlife sanctuaries is",
     "answer": "Maharashtra",
     "choices": [
@@ -533,7 +533,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01350",
+    "qid": "Q01371",
     "question": "Which one of the following is the well-publicised wildife campaign in the world launched in 1973?",
     "answer": "Project Tiger",
     "choices": [
@@ -546,7 +546,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01351",
+    "qid": "Q01372",
     "question": "Which one of the following is not included under in-situ conservation?",
     "answer": "Botanical Garden",
     "choices": [
@@ -559,7 +559,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01352",
+    "qid": "Q01373",
     "question": "Total Ramsar sites in India?",
     "answer": "96",
     "choices": [
@@ -572,7 +572,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01353",
+    "qid": "Q01374",
     "question": "The Radcliffe Line demarcates the boundary between",
     "answer": "India-Pakistan and India-Bangladesh",
     "choices": [
@@ -585,7 +585,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01354",
+    "qid": "Q01375",
     "question": "The McMahon Line, often in dispute, is related to the boundary between India and",
     "answer": "China",
     "choices": [
@@ -598,7 +598,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01355",
+    "qid": "Q01376",
     "question": "The Durand Line (1893) originally separated British India from",
     "answer": "Afghanistan",
     "choices": [
@@ -611,7 +611,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01356",
+    "qid": "Q01377",
     "question": "The Treaty of Sugauli (1816) defined India’s border with which country?",
     "answer": "Nepal",
     "choices": [
@@ -624,7 +624,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01357",
+    "qid": "Q01378",
     "question": "The Treaty of Sinchula (1865) related to India’s boundary with",
     "answer": "Bhutan",
     "choices": [
@@ -637,7 +637,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01358",
+    "qid": "Q01379",
     "question": "The Indus River originates from which of the following places?",
     "answer": "Mansarovar Lake, Tibet",
     "choices": [
@@ -650,7 +650,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01359",
+    "qid": "Q01380",
     "question": "The Chenab River is formed by the confluence of which two rivers?",
     "answer": "Chandra and Bhaga",
     "choices": [
@@ -663,7 +663,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01360",
+    "qid": "Q01381",
     "question": "Which of the following river is known as the Vitasta in ancient texts?",
     "answer": "Jhelum",
     "choices": [
@@ -676,7 +676,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01361",
+    "qid": "Q01382",
     "question": "Maginot Line exists between which countries?",
     "answer": "France & Germany",
     "choices": [
@@ -689,7 +689,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01362",
+    "qid": "Q01383",
     "question": "Strait of Hormuz connects",
     "answer": "The Persian Gulf & Gulf of Oman",
     "choices": [
@@ -702,7 +702,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01363",
+    "qid": "Q01384",
     "question": "Where is - Ground Zero",
     "answer": "New York",
     "choices": [
@@ -715,7 +715,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01364",
+    "qid": "Q01385",
     "question": "Which of the following Isthmuses has been known as the Devil's Neck?",
     "answer": "Kra Isthmuses",
     "choices": [
@@ -728,7 +728,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01365",
+    "qid": "Q01386",
     "question": "Ladang refers to",
     "answer": "Shifting Agriculture",
     "choices": [
@@ -741,7 +741,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01366",
+    "qid": "Q01387",
     "question": "Which is the largest river Island in the world?",
     "answer": "Majuli Island",
     "choices": [
@@ -754,7 +754,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01367",
+    "qid": "Q01388",
     "question": "The second largest river basin of india is",
     "answer": "Godavari",
     "choices": [
@@ -767,7 +767,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01368",
+    "qid": "Q01389",
     "question": "Which of the following is the place of confluence of the Alaknanda and Bhagirathi",
     "answer": "Devprayag",
     "choices": [
@@ -780,7 +780,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01369",
+    "qid": "Q01390",
     "question": "The two volcanic Islands in the Indian Territory are",
     "answer": "Narcondam and Barren",
     "choices": [
@@ -793,7 +793,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01370",
+    "qid": "Q01391",
     "question": "In India the Temperate Forest Research center is in which city?",
     "answer": "Shimla",
     "choices": [
@@ -806,7 +806,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01371",
+    "qid": "Q01392",
     "question": "Kanha National Park is established in",
     "answer": "Madhya Pradesh",
     "choices": [
@@ -819,7 +819,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01372",
+    "qid": "Q01393",
     "question": "Loktak is a",
     "answer": "Lake",
     "choices": [
@@ -832,7 +832,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01373",
+    "qid": "Q01394",
     "question": "Afrikaners indicate the people",
     "answer": "the white minority group in South Africa",
     "choices": [
@@ -845,7 +845,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01374",
+    "qid": "Q01395",
     "question": "Which one of the following latitudinal extent is relevant for the extent of India’s area?",
     "answer": "8°4'N - 37°6'N",
     "choices": [
@@ -858,7 +858,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01375",
+    "qid": "Q01396",
     "question": "Which one of the following countries shares the longest land frontier with India?",
     "answer": "Bangladesh",
     "choices": [
@@ -871,7 +871,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01376",
+    "qid": "Q01397",
     "question": "Northern-most latitude of India",
     "answer": "37° 6' N",
     "choices": [
@@ -884,7 +884,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01377",
+    "qid": "Q01398",
     "question": "Sorthern-most latitude of India",
     "answer": "8° 4' N",
     "choices": [
@@ -897,7 +897,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01378",
+    "qid": "Q01399",
     "question": "Eastern-most longitude of India",
     "answer": "97° 25' E",
     "choices": [
@@ -910,7 +910,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01379",
+    "qid": "Q01400",
     "question": "Western-most longitude of India",
     "answer": "68° 7' E",
     "choices": [
@@ -923,7 +923,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01380",
+    "qid": "Q01401",
     "question": "How much is the time difference between easternmost and westernmost boundary regions of India?",
     "answer": "Approximately 2 hours",
     "choices": [
@@ -936,7 +936,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01381",
+    "qid": "Q01402",
     "question": "Countries of the world select the standard meridian in multiples of",
     "answer": "7° 30'",
     "choices": [
@@ -949,7 +949,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01382",
+    "qid": "Q01403",
     "question": "The country with the highest number of time zones in the world is",
     "answer": "France",
     "choices": [
@@ -962,7 +962,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01383",
+    "qid": "Q01404",
     "question": "What is the total area of India",
     "answer": "32,87,263 square km",
     "choices": [
@@ -975,7 +975,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01384",
+    "qid": "Q01405",
     "question": "India's share of the total land area of the world is approximately:",
     "answer": "2.4 percent",
     "choices": [
@@ -988,7 +988,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01385",
+    "qid": "Q01406",
     "question": "By area, India ranks as the __ largest country in the world.",
     "answer": "7th",
     "choices": [
@@ -1001,7 +1001,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01386",
+    "qid": "Q01407",
     "question": "What is the approximate North–South extent of India?",
     "answer": "3,214 km",
     "choices": [
@@ -1014,7 +1014,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01387",
+    "qid": "Q01408",
     "question": "What is the approximate East–West extent of India?",
     "answer": "2,933 km",
     "choices": [
@@ -1027,7 +1027,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01388",
+    "qid": "Q01409",
     "question": "Which country is the world has largest area",
     "answer": "Russia",
     "choices": [
@@ -1040,7 +1040,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01389",
+    "qid": "Q01410",
     "question": "Which strait separates India and Sri Lanka?",
     "answer": "Palk Strait",
     "choices": [
@@ -1053,7 +1053,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01390",
+    "qid": "Q01411",
     "question": "The Palk Strait primarily connects which two water bodies?",
     "answer": "Bay of Bengal and Gulf of Mannar",
     "choices": [
@@ -1066,7 +1066,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01391",
+    "qid": "Q01412",
     "question": "Which channel separates India (Minicoy, Lakshadweep) and the Maldives?",
     "answer": "Eight Degree Channel",
     "choices": [
@@ -1079,7 +1079,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01392",
+    "qid": "Q01413",
     "question": "The Ten Degree Channel separates which of the following?",
     "answer": "Andaman Islands and Nicobar Islands",
     "choices": [
@@ -1092,7 +1092,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01393",
+    "qid": "Q01414",
     "question": "What does the Nine Degree Channel separate?",
     "answer": "Minicoy Island and the main Lakshadweep archipelago",
     "choices": [
@@ -1105,7 +1105,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01394",
+    "qid": "Q01415",
     "question": "The Tropic of Cancer passes through how many states in India?",
     "answer": "Eight",
     "choices": [
@@ -1118,7 +1118,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01395",
+    "qid": "Q01416",
     "question": "Which one of the following scholars coined the term ‘Geography’?",
     "answer": "Erathosthenese",
     "choices": [
@@ -1131,7 +1131,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01396",
+    "qid": "Q01417",
     "question": "Which scholar first used the Hindi term Bhugol for Geography?",
     "answer": "Aryabhatta",
     "choices": [
@@ -1144,7 +1144,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01397",
+    "qid": "Q01418",
     "question": "The strategic importance of the Strait of Hormuz is primarily due to:",
     "answer": "It connects the Persian Gulf with the Gulf of Oman",
     "choices": [
@@ -1157,7 +1157,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01398",
+    "qid": "Q01419",
     "question": "The Zagros Mountains primarily separate which two regions?",
     "answer": "Persian Gulf coastal plain and Iranian plateau",
     "choices": [
@@ -1170,7 +1170,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01399",
+    "qid": "Q01420",
     "question": "Which of the following statements is correct regarding the Persian Gulf?",
     "answer": "It is a shallow marginal sea of the Indian Ocean",
     "choices": [

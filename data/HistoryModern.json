@@ -1,6 +1,6 @@
 [
   {
-    "qid": "Q00504",
+    "qid": "Q00525",
     "question": "Which year marks fall of Constantinople",
     "answer": "1453",
     "choices": [
@@ -13,7 +13,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00505",
+    "qid": "Q00526",
     "question": "Who discovered America",
     "answer": "Christopher Columbus",
     "choices": [
@@ -26,7 +26,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00506",
+    "qid": "Q00527",
     "question": "Treaty of Tordesillias was signed between",
     "answer": "Spain & Portugal",
     "choices": [
@@ -39,7 +39,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00507",
+    "qid": "Q00528",
     "question": "Who discovered all sea route from Europe to India",
     "answer": "Vasco Da Gama",
     "choices": [
@@ -52,7 +52,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00508",
+    "qid": "Q00529",
     "question": "In which year was the first regulating act passed to regulate the administration of the East India Company in India",
     "answer": "1773",
     "choices": [
@@ -65,7 +65,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00509",
+    "qid": "Q00530",
     "question": "In which year Pitt's India Act enacted",
     "answer": "1784",
     "choices": [
@@ -78,7 +78,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00510",
+    "qid": "Q00531",
     "question": "Who introduced Permanent Settlement system of revenue collection",
     "answer": "Charles Cornwallis",
     "choices": [
@@ -91,7 +91,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00511",
+    "qid": "Q00532",
     "question": "Who introduced the system of Subsidiary Alliance",
     "answer": "Richard Wellesley",
     "choices": [
@@ -104,7 +104,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00512",
+    "qid": "Q00533",
     "question": "Who was the leader of the Ghadar Movement, a revolutionary movement aimed at overthrowing British rule in India?",
     "answer": "Kartar Singh Sarabha",
     "choices": [
@@ -117,7 +117,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00513",
+    "qid": "Q00534",
     "question": "The term Girmitiya refers to",
     "answer": "Indian indentured laborers sent to work overseas under contract",
     "choices": [
@@ -130,7 +130,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00514",
+    "qid": "Q00535",
     "question": "The word Girmitiya is derived from",
     "answer": "The English word agreement",
     "choices": [
@@ -143,7 +143,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00515",
+    "qid": "Q00536",
     "question": "The system of indentured labor was introduced primarily after",
     "answer": "The abolition of slavery in the British Empire",
     "choices": [
@@ -156,7 +156,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00516",
+    "qid": "Q00537",
     "question": "Who laid the foundation of new landed aristocracy in Bengal?",
     "answer": "Murshid Quli Khan",
     "choices": [
@@ -169,7 +169,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00517",
+    "qid": "Q00538",
     "question": "Who was the first Portugese Viceroy in India?",
     "answer": "Almeida",
     "choices": [
@@ -182,7 +182,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00518",
+    "qid": "Q00539",
     "question": "Who used Hooghly as a base for piracy in the Bay of Bengal?",
     "answer": "Portugeese",
     "choices": [
@@ -195,7 +195,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00519",
+    "qid": "Q00540",
     "question": "Dutch East India Company established its factory at Patna in which year?",
     "answer": "1632",
     "choices": [
@@ -208,7 +208,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00520",
+    "qid": "Q00541",
     "question": "Where in India did Britishers set up their first factory in 1613?",
     "answer": "Surat",
     "choices": [
@@ -221,7 +221,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00521",
+    "qid": "Q00542",
     "question": "Which of the British officials defeated Portugeese at Sowlley?",
     "answer": "Thomas Best",
     "choices": [
@@ -234,7 +234,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00522",
+    "qid": "Q00543",
     "question": "Which one of the following was the immediate cause of First Carnatic War?",
     "answer": "Capture of French ships by British",
     "choices": [
@@ -247,7 +247,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00523",
+    "qid": "Q00544",
     "question": "Identify the region from where Europeans got best shora (Saltpetre) and opium",
     "answer": "Bihar",
     "choices": [
@@ -260,7 +260,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00524",
+    "qid": "Q00545",
     "question": "During British rule which region of India was famous for the production of opium?",
     "answer": "Bihar",
     "choices": [
@@ -273,7 +273,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00525",
+    "qid": "Q00546",
     "question": "Emperor Shah Alam II gave the Diwani of Bengal, Bihar and Orissa to East India Company on",
     "answer": "12th  August 1765",
     "choices": [
@@ -286,7 +286,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00526",
+    "qid": "Q00547",
     "question": "Which treaty was signed after the Battle of Buxar?",
     "answer": "Treaty of Allahabad",
     "choices": [
@@ -299,7 +299,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00527",
+    "qid": "Q00548",
     "question": "Who was the Commander-in-chief of the English forces during the Buxar war?",
     "answer": "Hector Munro",
     "choices": [
@@ -312,7 +312,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00528",
+    "qid": "Q00549",
     "question": "Who was appointed Deputy Diwan of Murshidabad by Robert Clive after the Allahabad Treaty?",
     "answer": "Muhammad Raza Khan",
     "choices": [
@@ -325,7 +325,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00529",
+    "qid": "Q00550",
     "question": "The famous Battle of Wandiwash in 1760 was fought by the British against whom?",
     "answer": "French",
     "choices": [
@@ -338,7 +338,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00530",
+    "qid": "Q00551",
     "question": "Which city of Bihar was made capital in lieu of Murshidabad by Mir Qasim?",
     "answer": "Munger",
     "choices": [
@@ -351,7 +351,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00531",
+    "qid": "Q00552",
     "question": "Robert Lytton is not associated with which of the following?",
     "answer": "Ilbert Bill",
     "choices": [
@@ -364,7 +364,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00532",
+    "qid": "Q00553",
     "question": "Ranjeet Singh got famous Kohinoor diamond from",
     "answer": "Shah Shuja",
     "choices": [
@@ -377,7 +377,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00533",
+    "qid": "Q00554",
     "question": "Tipu Sultan set up his capital at",
     "answer": "Srirangapatnam",
     "choices": [
@@ -390,7 +390,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00534",
+    "qid": "Q00555",
     "question": "Englishmen made the Treaty of Srirangapatnam with",
     "answer": "Tipu Sultan",
     "choices": [
@@ -403,7 +403,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00535",
+    "qid": "Q00556",
     "question": "Who was the first Governor General of India?",
     "answer": "William Bentinck",
     "choices": [
@@ -416,7 +416,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00536",
+    "qid": "Q00557",
     "question": "In which year, first Census was introduced in India?",
     "answer": "1872",
     "choices": [
@@ -429,7 +429,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00537",
+    "qid": "Q00558",
     "question": "Who said, A single shelf of a good European library was worth the whole native literature of India and Arabia?",
     "answer": "Thomas Babington Macaulay",
     "choices": [
@@ -442,7 +442,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00538",
+    "qid": "Q00559",
     "question": "Who among the following abolished Dual Government system in Bengal?",
     "answer": "Warren Hastings",
     "choices": [
@@ -455,7 +455,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00539",
+    "qid": "Q00560",
     "question": "The policy of Security Cell or Ring Fence policy is related to",
     "answer": "Warren Hastings",
     "choices": [
@@ -468,7 +468,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00540",
+    "qid": "Q00561",
     "question": "The dual system of governance in Bengal was enforced by",
     "answer": "Robert Clive",
     "choices": [
@@ -481,7 +481,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00541",
+    "qid": "Q00562",
     "question": "Who is considered the Father of Diarchy?",
     "answer": "Lionel Curtis",
     "choices": [
@@ -494,7 +494,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00542",
+    "qid": "Q00563",
     "question": "First Maratha Sardar to accept the subsidiary alliance of Richard Wellesley was",
     "answer": "Peshwa Bajirao II",
     "choices": [
@@ -507,7 +507,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00543",
+    "qid": "Q00564",
     "question": "Under whose leadership was the suppresson of Thugs achieved?",
     "answer": "Captain William Henry Sleeman",
     "choices": [
@@ -520,7 +520,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00544",
+    "qid": "Q00565",
     "question": "Which of the following princely states was not annexed by the British",
     "answer": "Gwalior",
     "choices": [
@@ -533,7 +533,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00545",
+    "qid": "Q00566",
     "question": "Sind was conquered and annexed by",
     "answer": "Charles Napier",
     "choices": [
@@ -546,7 +546,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00546",
+    "qid": "Q00567",
     "question": "The first railway in India was ladi down during the period of",
     "answer": "Dalhousie",
     "choices": [
@@ -559,7 +559,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00547",
+    "qid": "Q00568",
     "question": "Queen Victoria was appointed the Empress of India in",
     "answer": "1876",
     "choices": [
@@ -572,7 +572,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00548",
+    "qid": "Q00569",
     "question": "The Viceroy who followd aggressive policy towards Afghanistan was",
     "answer": "Robert Lytton",
     "choices": [
@@ -585,7 +585,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00549",
+    "qid": "Q00570",
     "question": "Which among the following viceroy's period the title of Rai Bahadur and Khan Bhadur began to confer to Indian?",
     "answer": "Robert Lytton",
     "choices": [
@@ -598,7 +598,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00550",
+    "qid": "Q00571",
     "question": "In 1902 George Curzon appointed the University Commission including two Indian members.Who were they?",
     "answer": "Syed Hussain Bilgrami & Justice Gururdas Banerjeee",
     "choices": [
@@ -611,7 +611,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00551",
+    "qid": "Q00572",
     "question": "In which year was the Indian Universities Act passed by George Curzon?",
     "answer": "1904",
     "choices": [
@@ -624,7 +624,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00552",
+    "qid": "Q00573",
     "question": "Who established Imperial Cadet Corps?",
     "answer": "Charles Curzon",
     "choices": [
@@ -637,7 +637,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00553",
+    "qid": "Q00574",
     "question": "In my belief Congress is to tottering to its fails and one of my great ambitions while in India is to assist it to a peaceful demise. Who wrote it",
     "answer": "Charles Curzon",
     "choices": [
@@ -650,7 +650,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00554",
+    "qid": "Q00575",
     "question": "The Muslims, if contented and satisfied would become the greatest bulwark of British power in India, who wrote it?",
     "answer": "William Wilson Hunter",
     "choices": [
@@ -663,7 +663,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00555",
+    "qid": "Q00576",
     "question": "Who was the founder of Empire in India?",
     "answer": "Robert Clive",
     "choices": [
@@ -676,7 +676,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00556",
+    "qid": "Q00577",
     "question": "Who introduced the system of Mahalwari Settlement in Bengal?",
     "answer": "Holt mackenzie",
     "choices": [
@@ -689,7 +689,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00557",
+    "qid": "Q00578",
     "question": "Which compensation tax the Indigo farmers were required to pay, if they desired exemption from Indigo cultivation?",
     "answer": "Tawan",
     "choices": [
@@ -702,7 +702,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00558",
+    "qid": "Q00579",
     "question": "The Permanent Settlement was made with",
     "answer": "Zamindars",
     "choices": [
@@ -715,7 +715,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00559",
+    "qid": "Q00580",
     "question": "Which of the following is correct about permanent settlement introduced in Bihar",
     "answer": "The right of ownership of land was made hereditary and transferable for the Zamindars",
     "choices": [
@@ -728,7 +728,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00560",
+    "qid": "Q00581",
     "question": "In which year the rights of the tenants on land in Bengal and Bihar were given by the Bengal Tenancy Act",
     "answer": "1885",
     "choices": [
@@ -741,7 +741,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00561",
+    "qid": "Q00582",
     "question": "The system, under which the peasant himself is the owner of the land and is held responsible for the payment of land revenue to the government is known as?",
     "answer": "Ryotwari System",
     "choices": [
@@ -754,7 +754,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00562",
+    "qid": "Q00583",
     "question": "The Ryotwari system was first implemented in",
     "answer": "Madras",
     "choices": [
@@ -767,7 +767,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00563",
+    "qid": "Q00584",
     "question": "When was new Enfield Riffle with greased cartridges introduced in the British Indian Army?",
     "answer": "December, 1856",
     "choices": [
@@ -780,7 +780,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00564",
+    "qid": "Q00585",
     "question": "Which of the following is not a reason for making the sepoys of the East India Company rebellious?",
     "answer": "Inefficiency of the officers",
     "choices": [
@@ -793,7 +793,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00565",
+    "qid": "Q00586",
     "question": "Where from the Revolution of 1857 started first?",
     "answer": "Meerut",
     "choices": [
@@ -806,7 +806,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00566",
+    "qid": "Q00587",
     "question": "At Delhi, during the Revolt of 1857, the nominal and symbolic leadership belonged to the emperor Bahadur Shah, but the real command lay with a court of soldiers headed by",
     "answer": "Bakht Khan",
     "choices": [
@@ -819,7 +819,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00567",
+    "qid": "Q00588",
     "question": "The first woman President of the Indian National Congress was",
     "answer": "Annie Besant",
     "choices": [
@@ -832,7 +832,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00568",
+    "qid": "Q00589",
     "question": "The female freedom fighter popularly known as the Grand Old Lady of the Independence Movement was",
     "answer": "Aruna Asaf Ali",
     "choices": [
@@ -845,7 +845,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00569",
+    "qid": "Q00590",
     "question": "The revolt of 1857 at Lucknow was led by",
     "answer": "Begum Hazrat Mahal",
     "choices": [
@@ -858,7 +858,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00570",
+    "qid": "Q00591",
     "question": "Where did Satyendra Prasad Sinha resign from the post of Governor in 1921?",
     "answer": "Bihar-Odisha",
     "choices": [
@@ -871,7 +871,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00571",
+    "qid": "Q00592",
     "question": "Who spearheaded the 1857 Revolt in Bihar?",
     "answer": "Kunwar Singh",
     "choices": [
@@ -884,7 +884,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00572",
+    "qid": "Q00593",
     "question": "Where did Kunwar Singh join the Rebellion of 1857 against the British?",
     "answer": "Arrah",
     "choices": [
@@ -897,7 +897,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00573",
+    "qid": "Q00594",
     "question": "Who said, Wherever I am, there is Jagadishpur?",
     "answer": "Kunwar Singh",
     "choices": [
@@ -910,7 +910,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00574",
+    "qid": "Q00595",
     "question": "The mutiny of 1857 at Patna was led by a dynamic old person known as",
     "answer": "Kunwar Singh",
     "choices": [
@@ -923,7 +923,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00575",
+    "qid": "Q00596",
     "question": "The centre of 1857 revolt in Bihar from 15th July 1857 to 20th January 1858 was",
     "answer": "Jagdishpur",
     "choices": [
@@ -936,7 +936,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00576",
+    "qid": "Q00597",
     "question": "One of the leaders of the Revolt of 1857 Kunwar Singh was related to which place?",
     "answer": "Jagdishpur",
     "choices": [
@@ -949,7 +949,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00577",
+    "qid": "Q00598",
     "question": "Who of the following was the bitterest enemy of the British during the Revolt of 1857?",
     "answer": "Maulavi Ahamadullah Shah",
     "choices": [
@@ -962,7 +962,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00578",
+    "qid": "Q00599",
     "question": "The Revolt of 1857 was witnessed by the poet",
     "answer": "Ghalib",
     "choices": [
@@ -975,7 +975,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00579",
+    "qid": "Q00600",
     "question": "Who among the following did not rebel against the British East India Company's control over them?",
     "answer": "Nizam of Hyderabad",
     "choices": [
@@ -988,7 +988,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00580",
+    "qid": "Q00601",
     "question": "Which part of Bihar was unaffected with the revolt of 1857?",
     "answer": "Munger",
     "choices": [
@@ -1001,7 +1001,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00581",
+    "qid": "Q00602",
     "question": "Who was the Governor-General of India in 1857?",
     "answer": "Charles Canning",
     "choices": [
@@ -1014,7 +1014,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00582",
+    "qid": "Q00603",
     "question": "What was the main cause of the failure of the revolt of 1857?",
     "answer": "Lack of common strategy and central organisation",
     "choices": [
@@ -1027,7 +1027,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00583",
+    "qid": "Q00604",
     "question": "Who called the revolt of 1857 a conspiracy?",
     "answer": "Sir James Outram and W Taylor",
     "choices": [
@@ -1040,7 +1040,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00584",
+    "qid": "Q00605",
     "question": "When did Queen Victoria declare the taking over of Indian Administration under British Crown?",
     "answer": "1st November 1858",
     "choices": [
@@ -1053,7 +1053,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00585",
+    "qid": "Q00606",
     "question": "Which of the following commissions is associated with the army reorganisation after the suppression of the Revolt of 1857?",
     "answer": "Peel Commission",
     "choices": [
@@ -1066,7 +1066,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00586",
+    "qid": "Q00607",
     "question": "After the revolt of 1857, the British recruited the soldiers from the",
     "answer": "Gurkhas, Sikhs and Punjabis in the North",
     "choices": [
@@ -1079,7 +1079,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00587",
+    "qid": "Q00608",
     "question": "The uprising of 1857 was described as the First Indian War of Independence by",
     "answer": "V D Savarkar",
     "choices": [
@@ -1092,7 +1092,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00588",
+    "qid": "Q00609",
     "question": "The Tana Bhagat Movement, a nonviolent movement against British rule, originated among the tribal communities of which Indian State?",
     "answer": "Jharkhand",
     "choices": [
@@ -1105,7 +1105,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00589",
+    "qid": "Q00610",
     "question": "The Indigo rebellion was about",
     "answer": "the peasant not wanting to grow indigo but being forced to grow at a price that was unacceptable",
     "choices": [
@@ -1118,7 +1118,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00590",
+    "qid": "Q00611",
     "question": "Who is the author of Neel Darpan a book written on the miserable condition of Indigo farmers?",
     "answer": "Dinbandhu Mitra",
     "choices": [
@@ -1131,7 +1131,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00591",
+    "qid": "Q00612",
     "question": "In which month of 1918 was the Champaran Agrarian Act passed against the European Indigo planters?",
     "answer": "March, 1918",
     "choices": [
@@ -1144,7 +1144,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00592",
+    "qid": "Q00613",
     "question": "Who was the bitter critic of Sir Syed Ahmed Khan?",
     "answer": "Jamaluddin Afghani",
     "choices": [
@@ -1157,7 +1157,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00593",
+    "qid": "Q00614",
     "question": "What was the purpose of Barhiyataal resistence in Munger?",
     "answer": "Demand of Bakast land restoration",
     "choices": [
@@ -1170,7 +1170,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00594",
+    "qid": "Q00615",
     "question": "Kuka Movement was organised by",
     "answer": "Guru Ram Singh",
     "choices": [
@@ -1183,7 +1183,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00595",
+    "qid": "Q00616",
     "question": "Who founded the Pagal Panth",
     "answer": "Karam Shah",
     "choices": [
@@ -1196,7 +1196,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00596",
+    "qid": "Q00617",
     "question": "Who were the Faraizis?",
     "answer": "Followers of Haji Shariatullah",
     "choices": [
@@ -1209,7 +1209,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00597",
+    "qid": "Q00618",
     "question": "Who began the Faraizi movement?",
     "answer": "Haji Shariatullah",
     "choices": [
@@ -1222,7 +1222,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00598",
+    "qid": "Q00619",
     "question": "Taiyuni Movement began in opposition of the Faraizi Movement at Dhaka in 1893 was started by",
     "answer": "Maulana Karamat Ali of Jaunpur",
     "choices": [
@@ -1235,7 +1235,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00599",
+    "qid": "Q00620",
     "question": "Who founded Ramosi Krishak Jatha in Maharashtra?",
     "answer": "Vasudeo Balwant Phadke",
     "choices": [
@@ -1248,7 +1248,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00600",
+    "qid": "Q00621",
     "question": "The correct geographical location for the Ramosi Uprising was",
     "answer": "Western Ghats",
     "choices": [
@@ -1261,7 +1261,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00601",
+    "qid": "Q00622",
     "question": "Name the tribe that rebelled against the Britishers because human sacrifice system was banned",
     "answer": "Khond",
     "choices": [
@@ -1274,7 +1274,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00602",
+    "qid": "Q00623",
     "question": "Kol Mutiny of 1831 under Buddho Bhagat took place in which of the following regions?",
     "answer": "Singhbum",
     "choices": [
@@ -1287,7 +1287,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00603",
+    "qid": "Q00624",
     "question": "The Waghera Uprising happened in",
     "answer": "Baroda",
     "choices": [
@@ -1300,7 +1300,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00604",
+    "qid": "Q00625",
     "question": "Who were the leaders of Santhal Revolt?",
     "answer": "Sidhu and Kanhu",
     "choices": [
@@ -1313,7 +1313,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00605",
+    "qid": "Q00626",
     "question": "Which among the following year Santhal Revolt occurred?",
     "answer": "1855-56 CE",
     "choices": [
@@ -1326,7 +1326,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00606",
+    "qid": "Q00627",
     "question": "Which British Commander was defeated by the Santhals in 1855?",
     "answer": "Major Burroguh",
     "choices": [
@@ -1339,7 +1339,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00607",
+    "qid": "Q00628",
     "question": "Mundas raised revolt in",
     "answer": "1899",
     "choices": [
@@ -1352,7 +1352,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00608",
+    "qid": "Q00629",
     "question": "Birsa Munda was considered by his followers as the incarnation of",
     "answer": "Dharti Abba",
     "choices": [
@@ -1365,7 +1365,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00609",
+    "qid": "Q00630",
     "question": "Ulgulan Revolt was related to",
     "answer": "Birsa Munda",
     "choices": [
@@ -1378,7 +1378,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00610",
+    "qid": "Q00631",
     "question": "Who was the leader of Munda rebellion of 1899-1900 CE?",
     "answer": "Birsa Munda",
     "choices": [
@@ -1391,7 +1391,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00611",
+    "qid": "Q00632",
     "question": "Birsa Munda was in favour of",
     "answer": "Munda Raj",
     "choices": [
@@ -1404,7 +1404,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00612",
+    "qid": "Q00633",
     "question": "Which was the working area of Birsa Munda?",
     "answer": "Ranchi",
     "choices": [
@@ -1417,7 +1417,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00613",
+    "qid": "Q00634",
     "question": "In which territory did tribals rebel against the British?",
     "answer": "Bihar",
     "choices": [
@@ -1430,7 +1430,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00614",
+    "qid": "Q00635",
     "question": "The Hoz revolt took place during",
     "answer": "1820-21",
     "choices": [
@@ -1443,7 +1443,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00615",
+    "qid": "Q00636",
     "question": "The Moplah Rebellion of 1921 broke out in",
     "answer": "Kerala",
     "choices": [
@@ -1456,7 +1456,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00616",
+    "qid": "Q00637",
     "question": "In which year did Charles Wood send his despatch on General Education in India?",
     "answer": "1854",
     "choices": [
@@ -1469,7 +1469,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00617",
+    "qid": "Q00638",
     "question": "In which year Mohammedan Anglo-Oriental College at Aligarh was established?",
     "answer": "1877",
     "choices": [
@@ -1482,7 +1482,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00618",
+    "qid": "Q00639",
     "question": "When was the National Council of Education established?",
     "answer": "15th August 1906",
     "choices": [
@@ -1495,7 +1495,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00619",
+    "qid": "Q00640",
     "question": "When did the British Government appoint Sadler University Commission for reforms in education?",
     "answer": "1917",
     "choices": [
@@ -1508,7 +1508,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00620",
+    "qid": "Q00641",
     "question": "Which of the following Indians qualified the Indian Civil Service Exam for the first time in 1863?",
     "answer": "Satyendranath Thakur",
     "choices": [
@@ -1521,7 +1521,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00621",
+    "qid": "Q00642",
     "question": "In 1890, the first woman graduate of Calcutta University, who addressed the Congress session was",
     "answer": "Kadambini Ganguly",
     "choices": [
@@ -1534,7 +1534,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00622",
+    "qid": "Q00643",
     "question": "The spiritual side of nationalism was voiced by",
     "answer": "Swami Vivekananda",
     "choices": [
@@ -1547,7 +1547,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00623",
+    "qid": "Q00644",
     "question": "Who founded the newspaper - The Hindu in 1878, which became influential in shaping public opinion during the Indian national movement?",
     "answer": "G Subramania Iyer",
     "choices": [
@@ -1560,7 +1560,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00624",
+    "qid": "Q00645",
     "question": "Who among the following repealed the Vernacular Press Act of 1878?",
     "answer": "George Robinson - Ripon",
     "choices": [
@@ -1573,7 +1573,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00625",
+    "qid": "Q00646",
     "question": "Who in America started to issue newspaper The Free Hindustan?",
     "answer": "Tarak Nath Das",
     "choices": [
@@ -1586,7 +1586,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00626",
+    "qid": "Q00647",
     "question": "Who founded the Amrita Bazar Patrika?",
     "answer": "Shishir Kumar Ghose",
     "choices": [
@@ -1599,7 +1599,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00627",
+    "qid": "Q00648",
     "question": "Which of the following papers was essentially the mouthpiece of the policies of liberals?",
     "answer": "Leader",
     "choices": [
@@ -1612,7 +1612,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00628",
+    "qid": "Q00649",
     "question": "Which journal was not associated with revolutionary activities?",
     "answer": "Young India",
     "choices": [
@@ -1625,7 +1625,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00629",
+    "qid": "Q00650",
     "question": "Which of the following newspaper used to be published from Patna?",
     "answer": "The Indian Nation",
     "choices": [
@@ -1638,7 +1638,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00630",
+    "qid": "Q00651",
     "question": "Name the editor of nationalist newspaper - Kesari",
     "answer": "Bal Gangadhar Tilak",
     "choices": [
@@ -1651,7 +1651,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00631",
+    "qid": "Q00652",
     "question": "Name the editor of nationalist newspaper - Bengalee",
     "answer": "Surendranath Banerjee",
     "choices": [
@@ -1664,7 +1664,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00632",
+    "qid": "Q00653",
     "question": "Name the editor of nationalist newspaper - Hindustani",
     "answer": "Ganga Prasad Verma",
     "choices": [
@@ -1677,7 +1677,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00633",
+    "qid": "Q00654",
     "question": "Name the editor of nationalist newspaper - Sudharak",
     "answer": "Gopal Krishna Gokhale",
     "choices": [
@@ -1690,7 +1690,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00634",
+    "qid": "Q00655",
     "question": "Name the editor of nationalist newspaper - The Mahratta",
     "answer": "Bal Gangadhar Tilak",
     "choices": [
@@ -1703,7 +1703,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00635",
+    "qid": "Q00656",
     "question": "Which of the following was not a nationalist newspaper",
     "answer": "The Times of India",
     "choices": [
@@ -1716,7 +1716,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00636",
+    "qid": "Q00657",
     "question": "The nationalist daily newpaper - Then Indian Nation started its publication in",
     "answer": "1931",
     "choices": [
@@ -1729,7 +1729,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00637",
+    "qid": "Q00658",
     "question": "Which category of population was least attracted to Religious reform movements of the nineteenth century?",
     "answer": "Poor Ordinariness Class",
     "choices": [
@@ -1742,7 +1742,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00638",
+    "qid": "Q00659",
     "question": "Who was the father of the Indian Renaissance movement?",
     "answer": "Raja Ram Mohan Roy",
     "choices": [
@@ -1755,7 +1755,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00639",
+    "qid": "Q00660",
     "question": "Who among the following was the founder of Atmiya Sabha?",
     "answer": "Raja Ram Mohan Roy",
     "choices": [
@@ -1768,7 +1768,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00640",
+    "qid": "Q00661",
     "question": "Brahmo Samaj was founded in the year of",
     "answer": "1828",
     "choices": [
@@ -1781,7 +1781,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00641",
+    "qid": "Q00662",
     "question": "The best representative of Neo-Hindustan in the second half of the 19th century was",
     "answer": "Swami Vivekananda",
     "choices": [
@@ -1794,7 +1794,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00642",
+    "qid": "Q00663",
     "question": "Who among the following participated in the parliament of Religions held at Chicago in 1893?",
     "answer": "Swami Vivekananda",
     "choices": [
@@ -1807,7 +1807,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00643",
+    "qid": "Q00664",
     "question": "Swami Vivekananda established Ramakrishna Mission in the year",
     "answer": "1897",
     "choices": [
@@ -1820,7 +1820,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00644",
+    "qid": "Q00665",
     "question": "Who was Sharadamani",
     "answer": "wife of Ramakrishna Paramhansa",
     "choices": [
@@ -1833,7 +1833,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00645",
+    "qid": "Q00666",
     "question": "Dayanand Saraswati founded",
     "answer": "Arya Samaj",
     "choices": [
@@ -1846,7 +1846,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00646",
+    "qid": "Q00667",
     "question": "Who established the Arya Samaj",
     "answer": "Swami Dayanand Saraswati",
     "choices": [
@@ -1859,7 +1859,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00647",
+    "qid": "Q00668",
     "question": "Who among the following gave the slogan - India for the Indians?",
     "answer": "Swami Dayanand Saraswati",
     "choices": [
@@ -1872,7 +1872,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00648",
+    "qid": "Q00669",
     "question": "Satyarth Prakash was written by",
     "answer": "Swami Dayanand Saraswati",
     "choices": [
@@ -1885,7 +1885,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00649",
+    "qid": "Q00670",
     "question": "Who was the founder of Prarthana Samaj",
     "answer": "Atmaram Pandurang",
     "choices": [
@@ -1898,7 +1898,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00650",
+    "qid": "Q00671",
     "question": "In 1873 who founded Satya Shodhak Samaj?",
     "answer": "Jyotirao Phule",
     "choices": [
@@ -1911,7 +1911,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00651",
+    "qid": "Q00672",
     "question": "Who established Rehnumai Mazdayasan Sabha",
     "answer": "Naoroji Furdunji",
     "choices": [
@@ -1924,7 +1924,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00652",
+    "qid": "Q00673",
     "question": "Which social reformer was called Lokhitwadi?",
     "answer": "Gopal Hari Deshmukh",
     "choices": [
@@ -1937,7 +1937,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00653",
+    "qid": "Q00674",
     "question": "Who declared Sati illegal?",
     "answer": "William Bentinck",
     "choices": [
@@ -1950,7 +1950,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00654",
+    "qid": "Q00675",
     "question": "When was the Prohibition of Sati Act passed in India?",
     "answer": "1829",
     "choices": [
@@ -1963,7 +1963,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00655",
+    "qid": "Q00676",
     "question": "Which of the following inscriptions mentions the instance of widow burning (Sati)?",
     "answer": "Eran Pillar Inscription of Bhanugupta",
     "choices": [
@@ -1976,7 +1976,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00656",
+    "qid": "Q00677",
     "question": "Who founded the Theosophical Society?",
     "answer": "Helena Petrovna Blavatsky",
     "choices": [
@@ -1989,7 +1989,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00657",
+    "qid": "Q00678",
     "question": "Who demanded the right to enter temples that caused a terrible riot in Tirunelveli in 1899?",
     "answer": "Nadars",
     "choices": [
@@ -2002,7 +2002,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00658",
+    "qid": "Q00679",
     "question": "Who was the founder of the Indian Association in 1876?",
     "answer": "Surendranath Banerjee",
     "choices": [
@@ -2015,7 +2015,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00659",
+    "qid": "Q00680",
     "question": "The most important of the pre-Congress Nationalist Organisation was the",
     "answer": "Indian Association of Calcutta",
     "choices": [
@@ -2028,7 +2028,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00660",
+    "qid": "Q00681",
     "question": "In which year Surendra Nath Banerjee was eliminated from Indian Civil Services?",
     "answer": "1874",
     "choices": [
@@ -2041,7 +2041,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00661",
+    "qid": "Q00682",
     "question": "In which year Surendra Nath Banerjee founded the Indian Association in Kolkata",
     "answer": "1876",
     "choices": [
@@ -2054,7 +2054,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00662",
+    "qid": "Q00683",
     "question": "Who was the first Indian to resist the political reforms?",
     "answer": "Raja Ram Mohan Roy",
     "choices": [
@@ -2067,7 +2067,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00663",
+    "qid": "Q00684",
     "question": "The Madras Mahajan Sabha was established in the year",
     "answer": "1884",
     "choices": [
@@ -2080,7 +2080,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00664",
+    "qid": "Q00685",
     "question": "The Madras Mahajan Sabha was established by",
     "answer": "M. Veeraraghavachariar",
     "choices": [
@@ -2093,7 +2093,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00665",
+    "qid": "Q00686",
     "question": "Poona Sarvajanik Sabha was founded in",
     "answer": "1870",
     "choices": [
@@ -2106,7 +2106,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00666",
+    "qid": "Q00687",
     "question": "Poona Sarvajanik Sabha was founded by",
     "answer": "Mahadev Govind Ranade",
     "choices": [
@@ -2119,7 +2119,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00667",
+    "qid": "Q00688",
     "question": "Bombay Presidency Association was founded in",
     "answer": "1885",
     "choices": [
@@ -2132,7 +2132,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00668",
+    "qid": "Q00689",
     "question": "Who among the following was not a founder of Bombay Presidency Association",
     "answer": "Womesh Chunder Bonerjee",
     "choices": [
@@ -2145,7 +2145,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00669",
+    "qid": "Q00690",
     "question": "The Indian National Congress was founded by",
     "answer": "Allan Octavian Hume",
     "choices": [
@@ -2158,7 +2158,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00670",
+    "qid": "Q00691",
     "question": "The founder of the Indian National Congress was a",
     "answer": "Civil Servant",
     "choices": [
@@ -2171,7 +2171,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00671",
+    "qid": "Q00692",
     "question": "When was the Indian National Congress set up?",
     "answer": "1885",
     "choices": [
@@ -2184,7 +2184,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00672",
+    "qid": "Q00693",
     "question": "How many representatives took part in the first session of the Indian National Congress?",
     "answer": "72 delegates",
     "choices": [
@@ -2197,7 +2197,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00673",
+    "qid": "Q00694",
     "question": "The first conference of Indian National Congress was held at",
     "answer": "Mumbai",
     "choices": [
@@ -2210,7 +2210,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00674",
+    "qid": "Q00695",
     "question": "Who was the first muslim President of the Indian National Congress?",
     "answer": "Badruddin Tyabji",
     "choices": [
@@ -2223,7 +2223,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00675",
+    "qid": "Q00696",
     "question": "The precursor of Indian National Congress was",
     "answer": "Indian National Union",
     "choices": [
@@ -2236,7 +2236,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00676",
+    "qid": "Q00697",
     "question": "How many muslim delegates participated in the Second Convention of the Indian National Congress?",
     "answer": "33",
     "choices": [
@@ -2249,7 +2249,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00677",
+    "qid": "Q00698",
     "question": "The second session of the Indian National Congress was presided over by",
     "answer": "Dadabhai Naoroji",
     "choices": [
@@ -2262,7 +2262,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00678",
+    "qid": "Q00699",
     "question": "Who was the second muslim President of the Indian National Congress?",
     "answer": "Rahimtulla Mahomed Sayani",
     "choices": [
@@ -2275,7 +2275,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00679",
+    "qid": "Q00700",
     "question": "Who was the first woman President of the Indian National Congress?",
     "answer": "Annie Besant",
     "choices": [
@@ -2288,7 +2288,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00680",
+    "qid": "Q00701",
     "question": "Who was the first Indian woman President of the Indian National Congress?",
     "answer": "Sarojini Naidu",
     "choices": [
@@ -2301,7 +2301,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00681",
+    "qid": "Q00702",
     "question": "At which place was the 27th session of the Indian National Congress held?",
     "answer": "Bankipur",
     "choices": [
@@ -2314,7 +2314,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00682",
+    "qid": "Q00703",
     "question": "At which of the following sessions of the Indian National Congress did the Champaran trouble come up for discussion?",
     "answer": "Lucknow, 1916",
     "choices": [
@@ -2327,7 +2327,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00683",
+    "qid": "Q00704",
     "question": "Who said - Sawaraj is my birthright and I shall have it?",
     "answer": "Bal Gangadhar Tilak",
     "choices": [
@@ -2340,7 +2340,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00684",
+    "qid": "Q00705",
     "question": "Who said - The basic cause of problems facing Bharat is the neglect of its national identity?",
     "answer": "Deen Dayal Upadhyay",
     "choices": [
@@ -2353,7 +2353,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00685",
+    "qid": "Q00706",
     "question": "The Lucknow Pact took place in which year",
     "answer": "1916",
     "choices": [
@@ -2366,7 +2366,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00686",
+    "qid": "Q00707",
     "question": "Remember once again, now that this flag is unfurled, it must not be lowered as long as a single Indian, man, woman or child lives in India, who said this?",
     "answer": "Jawaharlal Nehru in Lahore",
     "choices": [
@@ -2379,7 +2379,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00687",
+    "qid": "Q00708",
     "question": "Who said that Congress Movement was neither inspired by the people, nor devised or planned by them?",
     "answer": "Lala Lajpat Rai",
     "choices": [
@@ -2392,7 +2392,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00688",
+    "qid": "Q00709",
     "question": "Who was the President of the Patna Session of Indian National Congress held in 1912?",
     "answer": "Raghunath Narsinha Mudholkar",
     "choices": [
@@ -2405,7 +2405,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00689",
+    "qid": "Q00710",
     "question": "Who was the President of the Gaya Session of Indian National Congress held in 1922?",
     "answer": "Chittaranjan Das",
     "choices": [
@@ -2418,7 +2418,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00690",
+    "qid": "Q00711",
     "question": "Which tribe of Bihar attended Gaya Session of Congress?",
     "answer": "Oraon",
     "choices": [
@@ -2431,7 +2431,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00691",
+    "qid": "Q00712",
     "question": "Shubhas Chandra Bose became the President of the Indian National Congress in Tripuri Session by defeating",
     "answer": "Pattabhi Sitaramayya",
     "choices": [
@@ -2444,7 +2444,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00692",
+    "qid": "Q00713",
     "question": "Which Raja rendered a very valuable assistance to the Indian Natioanal Congress for holding is Fourth Session at Allahabad in 1888?",
     "answer": "Raja of Darbhanga",
     "choices": [
@@ -2457,7 +2457,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00693",
+    "qid": "Q00714",
     "question": "Sardar Udham Singh killed whom?",
     "answer": "Micheal O'Dwyar",
     "choices": [
@@ -2470,7 +2470,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00694",
+    "qid": "Q00715",
     "question": "The protest method of moderate leaders of the Congress was?",
     "answer": "Constitutional Agitation",
     "choices": [
@@ -2483,7 +2483,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00695",
+    "qid": "Q00716",
     "question": "Most of the moderate leader hailed from",
     "answer": "Urban Areas",
     "choices": [
@@ -2496,7 +2496,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00696",
+    "qid": "Q00717",
     "question": "Which one of the following was not an extremist?",
     "answer": "Gopal Krishna Gokhale",
     "choices": [
@@ -2509,7 +2509,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00697",
+    "qid": "Q00718",
     "question": "Who established the Servants of India Society?",
     "answer": "Gopal Krishna Gokhale",
     "choices": [
@@ -2522,7 +2522,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00698",
+    "qid": "Q00719",
     "question": "Indian National Movement came to be dominated by the extremists after",
     "answer": "1906",
     "choices": [
@@ -2535,7 +2535,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00699",
+    "qid": "Q00720",
     "question": "Which one of the following leaders belonged to the Extremist wing of the Congress?",
     "answer": "Aurobindo Ghosh",
     "choices": [
@@ -2548,7 +2548,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00700",
+    "qid": "Q00721",
     "question": "Who among the following was not known as a moderate in the National Movement?",
     "answer": "Bal Gangadhar Tilak",
     "choices": [
@@ -2561,7 +2561,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00701",
+    "qid": "Q00722",
     "question": "Who is popularly known as Sher-e-Punjab?",
     "answer": "Lala Lajpat Rai",
     "choices": [
@@ -2574,7 +2574,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00702",
+    "qid": "Q00723",
     "question": "In 1908, Bal Gangadhar Tilak was imprisoned for",
     "answer": "6 years",
     "choices": [
@@ -2587,7 +2587,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00703",
+    "qid": "Q00724",
     "question": "Who said about Bengal partition, The partition announcement fell like a bomb shell?",
     "answer": "Surendranath Banerjee",
     "choices": [
@@ -2600,7 +2600,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00704",
+    "qid": "Q00725",
     "question": "Bal Gangadhar Tilak came to be known as Lokmanya Tilak when",
     "answer": "The Government accused him in the Rand Murder case",
     "choices": [
@@ -2613,7 +2613,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00705",
+    "qid": "Q00726",
     "question": "Who founded Abhinav Bharat Society in 1906 in London?",
     "answer": "Vinayak Damodar Savarkar",
     "choices": [
@@ -2626,7 +2626,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00706",
+    "qid": "Q00727",
     "question": "Who established a branch of Anushilan Samiti at Patna in 1913?",
     "answer": "Sachindra Nath Sanyal",
     "choices": [
@@ -2639,7 +2639,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00707",
+    "qid": "Q00728",
     "question": "Anushilan Samiti was",
     "answer": "a revolutionary organisation",
     "choices": [
@@ -2652,7 +2652,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00708",
+    "qid": "Q00729",
     "question": "Who was the founder of Swadesh Bandhav Samiti?",
     "answer": "Ashwini Kumar Dutta",
     "choices": [
@@ -2665,7 +2665,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00709",
+    "qid": "Q00730",
     "question": "When did the attempt of murder of Kingsford was made at Muzaffarpur, Bihar?",
     "answer": "1908",
     "choices": [
@@ -2678,7 +2678,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00710",
+    "qid": "Q00731",
     "question": "Who among the following was hanged on the charge of Muzaffarpur Bomb Case?",
     "answer": "Khudiram Bose",
     "choices": [
@@ -2691,7 +2691,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00711",
+    "qid": "Q00732",
     "question": "In which place Khudiram Bose tried to kill Kingsford?",
     "answer": "Muzaffarpur",
     "choices": [
@@ -2704,7 +2704,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00712",
+    "qid": "Q00733",
     "question": "Who was given life punishment for the murder of Colonel Wyllie?",
     "answer": "Madan Lal Dhingra",
     "choices": [
@@ -2717,7 +2717,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00713",
+    "qid": "Q00734",
     "question": "The Non-Cooperation Movement was suspended in",
     "answer": "1922",
     "choices": [
@@ -2730,7 +2730,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00714",
+    "qid": "Q00735",
     "question": "Which year Hindustan Republican Association was set up",
     "answer": "1924",
     "choices": [
@@ -2743,7 +2743,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00715",
+    "qid": "Q00736",
     "question": "Who penned the following lines? Sarfaroshi ki tamanna ab hamare dil me hai dekhna hai zor kitna baju-e-qatil me hai.",
     "answer": "Bismil Azimabadi",
     "choices": [
@@ -2756,7 +2756,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00716",
+    "qid": "Q00737",
     "question": "Which revolutionaries were hanged in the Kakori Train Robbery Case?",
     "answer": "Ram Prasad Bismil and Ashfaqulla",
     "choices": [
@@ -2769,7 +2769,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00717",
+    "qid": "Q00738",
     "question": "Who among the following was not associated with the Kakori train robbery case?",
     "answer": "Sukhdev",
     "choices": [
@@ -2782,7 +2782,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00718",
+    "qid": "Q00739",
     "question": "How old was Bhagat Singh when he threw a bomb in the assembly in protest against the government?",
     "answer": "a little more than 21 years",
     "choices": [
@@ -2795,7 +2795,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00719",
+    "qid": "Q00740",
     "question": "One of the founder leaders of Hindustan Socialist Republican Army was",
     "answer": "Bhagat Singh",
     "choices": [
@@ -2808,7 +2808,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00720",
+    "qid": "Q00741",
     "question": "Who gave the Inquilab Zindabad slogan?",
     "answer": "Bhagat Singh",
     "choices": [
@@ -2821,7 +2821,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00721",
+    "qid": "Q00742",
     "question": "Bhagat Singh, Rajguru and Sukhdev were executed on",
     "answer": "23rd March 1931",
     "choices": [
@@ -2834,7 +2834,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00722",
+    "qid": "Q00743",
     "question": "The Chittagong Armoury raid had been planned by",
     "answer": "Surya Sen",
     "choices": [
@@ -2847,7 +2847,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00723",
+    "qid": "Q00744",
     "question": "Who propounded the doctrine of Passive Resistance",
     "answer": "Aurobindo Ghosh",
     "choices": [
@@ -2860,7 +2860,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00724",
+    "qid": "Q00745",
     "question": "What was the slogan of the Bolsheviks during the 1917 Revolution?",
     "answer": "Peace, Land, Bread",
     "choices": [
@@ -2873,7 +2873,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00725",
+    "qid": "Q00746",
     "question": "Who was the founder of the India House in London?",
     "answer": "Shyamji Krishnavarma",
     "choices": [
@@ -2886,7 +2886,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00726",
+    "qid": "Q00747",
     "question": "Ghadar Party was established in the year?",
     "answer": "1913",
     "choices": [
@@ -2899,7 +2899,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00727",
+    "qid": "Q00748",
     "question": "Where was the Ghadar Party established?",
     "answer": "United States of America",
     "choices": [
@@ -2912,7 +2912,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00728",
+    "qid": "Q00749",
     "question": "What was the cause of outbreak of Ghadar Revolution",
     "answer": "Beginning of first World War",
     "choices": [
@@ -2925,7 +2925,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00729",
+    "qid": "Q00750",
     "question": "Interim government under the leadership of Raja Mahendra Pratap Singh was founded in Kabul with the support of Germany during",
     "answer": "First World War",
     "choices": [
@@ -2938,7 +2938,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00730",
+    "qid": "Q00751",
     "question": "Who is regarded as the Mother of Indian Revolution?",
     "answer": "Bhikaiji Rustom Cama",
     "choices": [
@@ -2951,7 +2951,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00731",
+    "qid": "Q00752",
     "question": "Where did Madam Cama unfurl India's tricolour flag of freedom?",
     "answer": "Stuttgart, Germany",
     "choices": [
@@ -2964,7 +2964,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00732",
+    "qid": "Q00753",
     "question": "Who called for a Total Revolution at Gandhi Maidan, Patna?",
     "answer": "Jayaprakash Narayan",
     "choices": [
@@ -2977,7 +2977,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00733",
+    "qid": "Q00754",
     "question": "The Swadeshi and Boycott were adopted as the methods of struggle for the first time during the",
     "answer": "Partition of Bengal",
     "choices": [
@@ -2990,7 +2990,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00734",
+    "qid": "Q00755",
     "question": "In which place was the organisation named Golden League formed to work for boycott and the Swadeshi Movement?",
     "answer": "Deoghar",
     "choices": [
@@ -3003,7 +3003,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00735",
+    "qid": "Q00756",
     "question": "The declaration of Partition of Bengal was done on",
     "answer": "19th July 1905",
     "choices": [
@@ -3016,7 +3016,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00736",
+    "qid": "Q00757",
     "question": "Which movement started after the Partition of Bengal?",
     "answer": "Swadeshi Movement",
     "choices": [
@@ -3029,7 +3029,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00737",
+    "qid": "Q00758",
     "question": "Name the viceroy of Indian concerned with Bengal partition",
     "answer": "Charles Curzon",
     "choices": [
@@ -3042,7 +3042,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00738",
+    "qid": "Q00759",
     "question": "Bengal was partitioned in 1905, but due to opposition it was annulled in",
     "answer": "1911",
     "choices": [
@@ -3055,7 +3055,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00739",
+    "qid": "Q00760",
     "question": "Which of the following classes was mainly unaffected of Swadeshi Movement of 1905?",
     "answer": "Farmers & Muslims",
     "choices": [
@@ -3068,7 +3068,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00740",
+    "qid": "Q00761",
     "question": "Which of the following leaders presided over Congress Session at Calcutta in 1906?",
     "answer": "Dadabhai Naoroji",
     "choices": [
@@ -3081,7 +3081,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00741",
+    "qid": "Q00762",
     "question": "At the Calcutta Session of the Indian National Congress held in 1906, the Flag of Swaraj for India was unfurled by",
     "answer": "Dadabhai Naoroji",
     "choices": [
@@ -3094,7 +3094,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00742",
+    "qid": "Q00763",
     "question": "First Indian elected to the British House of Commons was Dadabhai Naoroji who contested on the ticket of",
     "answer": "Liberal Party",
     "choices": [
@@ -3107,7 +3107,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00743",
+    "qid": "Q00764",
     "question": "Who was not among the founders of All India Muslim League?",
     "answer": "Muhammad Ali Jinnah",
     "choices": [
@@ -3120,7 +3120,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00744",
+    "qid": "Q00765",
     "question": "The Muslim deputation met Minto in 1906 at Shimla and pleaded for",
     "answer": "Separate electorate for Muslims",
     "choices": [
@@ -3133,7 +3133,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00745",
+    "qid": "Q00766",
     "question": "Who propounded the two-nation theory prior to the Pakistan Resolution of the Muslim League?",
     "answer": "Syed Ahmad Khan",
     "choices": [
@@ -3146,7 +3146,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00746",
+    "qid": "Q00767",
     "question": "Whom did Rajendra Prasad considered as the father of Pakistan?",
     "answer": "Gilbert Elliot - Minto",
     "choices": [
@@ -3159,7 +3159,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00747",
+    "qid": "Q00768",
     "question": "Bihar became a separate state during the British rule in the year?",
     "answer": "1912",
     "choices": [
@@ -3172,7 +3172,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00748",
+    "qid": "Q00769",
     "question": "Who earned the title of Recruiting Sergeant of the British for this support to the government during First World War?",
     "answer": "Mahatma Gandhi",
     "choices": [
@@ -3185,7 +3185,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00749",
+    "qid": "Q00770",
     "question": "Who among the following did not contribute to Home Rule League?",
     "answer": "T S Alcott",
     "choices": [
@@ -3198,7 +3198,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00750",
+    "qid": "Q00771",
     "question": "In which conference could the Home-Rule supporters demonstrate their political power successfully?",
     "answer": "Lucknow Conference of Congress in 1916",
     "choices": [
@@ -3211,7 +3211,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00751",
+    "qid": "Q00772",
     "question": "Home Rule Movement was symbol of starting a new phase of freedom movement in India because",
     "answer": "it put a perfect project for the self-Government before the nation",
     "choices": [
@@ -3224,7 +3224,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00752",
+    "qid": "Q00773",
     "question": "In which of the following colleges, Gandhiji studied?",
     "answer": "Samaldas College, Bhavnagar",
     "choices": [
@@ -3237,7 +3237,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00753",
+    "qid": "Q00774",
     "question": "To sort out whose legal problem was Mahatma Gandhi invited in South Africa in 1893?",
     "answer": "Dada Abdullah of Gujarat",
     "choices": [
@@ -3250,7 +3250,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00754",
+    "qid": "Q00775",
     "question": "Which of the following was Gandhiji's first Satyagraha Movement in India in which he used Civil Disobedience?",
     "answer": "Champaran",
     "choices": [
@@ -3263,7 +3263,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00755",
+    "qid": "Q00776",
     "question": "In response to the mass agitation of the Champaran Movement, the British Government took which step to address the issue?",
     "answer": "Instituted the Champaran Agrarian Committee",
     "choices": [
@@ -3276,7 +3276,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00756",
+    "qid": "Q00777",
     "question": "The cook from Bihar who saved Mahatma Gandhi's life from a murder attempt by food poisoning in 1917 was",
     "answer": "Batak Mian",
     "choices": [
@@ -3289,7 +3289,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00757",
+    "qid": "Q00778",
     "question": "In which of the following movements did Mahatma Gandhi make the first use of the hunger strike as a weapon?",
     "answer": "Ahmedabad Strike",
     "choices": [
@@ -3302,7 +3302,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00758",
+    "qid": "Q00779",
     "question": "In which of the following Satyagraha movements, did Gandhiji not participate directly?",
     "answer": "Vaikom Satyagraha",
     "choices": [
@@ -3315,7 +3315,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00759",
+    "qid": "Q00780",
     "question": "Who among the following capitalists served as an AICC treasurer for many years and went to Jail in 1930?",
     "answer": "Jamnalal Bajaj",
     "choices": [
@@ -3328,7 +3328,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00760",
+    "qid": "Q00781",
     "question": "Gandhi's close English compatriot during the Freedom movement was",
     "answer": "Charles Freer Andrews",
     "choices": [
@@ -3341,7 +3341,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00761",
+    "qid": "Q00782",
     "question": "Who was the political guru of Mahatma Gandhi?",
     "answer": "Gopal Krishna Gokhale",
     "choices": [
@@ -3354,7 +3354,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00762",
+    "qid": "Q00783",
     "question": "Who participated in Satyagraha started by Gandhiji at Ahmedabad in 1917-18?",
     "answer": "Industrial Workers",
     "choices": [
@@ -3367,7 +3367,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00763",
+    "qid": "Q00784",
     "question": "Who drew Gandhiji's attention to the plight of Indigo peasants in Champaran?",
     "answer": "Raj Kumar Shukla",
     "choices": [
@@ -3380,7 +3380,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00764",
+    "qid": "Q00785",
     "question": "How much part of the land was kept in trust for the cultivation of indigo in Bihar under Tinkathiya system?",
     "answer": "3 of 20 Kattha",
     "choices": [
@@ -3393,7 +3393,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00765",
+    "qid": "Q00786",
     "question": "At which place of Bihar, Gandhiji started Satyagraha movement for the first time in India?",
     "answer": "Champaran",
     "choices": [
@@ -3406,7 +3406,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00766",
+    "qid": "Q00787",
     "question": "The person not connected with Champarana Movement was",
     "answer": "Jai Prakash Narayan",
     "choices": [
@@ -3419,7 +3419,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00767",
+    "qid": "Q00788",
     "question": "In which Farmer's Movement did Mahatma Gandhi participate first of all?",
     "answer": "Champaran",
     "choices": [
@@ -3432,7 +3432,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00768",
+    "qid": "Q00789",
     "question": "Who was the National Leader of Champaran Indigo movement?",
     "answer": "Mahatma Gandhi",
     "choices": [
@@ -3445,7 +3445,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00769",
+    "qid": "Q00790",
     "question": "Nai-Dhobi Band was a form of Social boycott in 1919 which",
     "answer": "was started by the farmers of Pratapgarh district",
     "choices": [
@@ -3458,7 +3458,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00770",
+    "qid": "Q00791",
     "question": "The Sarabandi Campaign of 1922 was led by",
     "answer": "Sardar Vallabhbhai Patel",
     "choices": [
@@ -3471,7 +3471,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00771",
+    "qid": "Q00792",
     "question": "Swami Sahajananda was related to which of the following?",
     "answer": "Peasant Movement in Bihar",
     "choices": [
@@ -3484,7 +3484,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00772",
+    "qid": "Q00793",
     "question": "What was the aim of Eka Movement in Oudh?",
     "answer": "To protect rights of peasants agianst landlord oppression",
     "choices": [
@@ -3497,7 +3497,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00773",
+    "qid": "Q00794",
     "question": "Eka Movement was launched in the rural areas of which region?",
     "answer": "Awadh",
     "choices": [
@@ -3510,7 +3510,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00774",
+    "qid": "Q00795",
     "question": "Swami Sahajanand Saraswati published a journal named",
     "answer": "Hunkar",
     "choices": [
@@ -3523,7 +3523,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00775",
+    "qid": "Q00796",
     "question": "Akhil Bhartiya Kisan Congress also known as All India Kisan Sabha was founded in",
     "answer": "1936",
     "choices": [
@@ -3536,7 +3536,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00776",
+    "qid": "Q00797",
     "question": "Who was elected the first president of All India Kisan Sabha at Lucknow in 1936?",
     "answer": "Swami Sahajanand Saraswati",
     "choices": [
@@ -3549,7 +3549,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00777",
+    "qid": "Q00798",
     "question": "Where was the first All India Kisan Maha Sabha formed?",
     "answer": "Lucknow",
     "choices": [
@@ -3562,7 +3562,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00778",
+    "qid": "Q00799",
     "question": "The Tebhaga Movement was started in 1946 from Bengal under leadership of",
     "answer": "Kisan Sabha",
     "choices": [
@@ -3575,7 +3575,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00779",
+    "qid": "Q00800",
     "question": "The Congress took a critical stand over the Montford Reforms in 1918, which led to break up with the old moderate remnants (Sapru, Jayakar, Chintamani) who formed the",
     "answer": "Indian National Liberal Federation",
     "choices": [
@@ -3588,7 +3588,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00780",
+    "qid": "Q00801",
     "question": "Who was the first President of All India Trade Union Congress?",
     "answer": "Lala Lajpat Rai",
     "choices": [
@@ -3601,7 +3601,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00781",
+    "qid": "Q00802",
     "question": "When was All India Trade Union Congress established in Bombay?",
     "answer": "1920",
     "choices": [
@@ -3614,7 +3614,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00782",
+    "qid": "Q00803",
     "question": "Who was the first Indian to be the member of Communist International?",
     "answer": "Manabendra Nath Roy",
     "choices": [
@@ -3627,7 +3627,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00783",
+    "qid": "Q00804",
     "question": "The revolutionary phase of the trade union movement in India was",
     "answer": "1926-39",
     "choices": [
@@ -3640,7 +3640,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00784",
+    "qid": "Q00805",
     "question": "When was the Rowlatt Act passed?",
     "answer": "1919",
     "choices": [
@@ -3653,7 +3653,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00785",
+    "qid": "Q00806",
     "question": "Which of the following Acts enabled the British Government to suspend the right of Habeas Corpus?",
     "answer": "The Rowlatt Act, 1919",
     "choices": [
@@ -3666,7 +3666,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00786",
+    "qid": "Q00807",
     "question": "The Jallianwala Bagh Massacre happened in the context of which Gandhian Satyagraha?",
     "answer": "Rowlatt Satyagraha",
     "choices": [
@@ -3679,7 +3679,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00787",
+    "qid": "Q00808",
     "question": "Indian National Congress opposed the Rowlatt Act because it aimed",
     "answer": "to limit the individual liberty",
     "choices": [
@@ -3692,7 +3692,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00788",
+    "qid": "Q00809",
     "question": "The massacre of the crowd at Jallianwala Bagh at Amritsar took place on",
     "answer": "April 13, 1919",
     "choices": [
@@ -3705,7 +3705,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00789",
+    "qid": "Q00810",
     "question": "Why did people gather to demonstrate at Jallianwala Bagh?",
     "answer": "to protest against the arrest of Kitchlu and Satyapal",
     "choices": [
@@ -3718,7 +3718,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00790",
+    "qid": "Q00811",
     "question": "Rabindranath Tagore gave up his Knighthood because of",
     "answer": "Jallianwala Bagh Massacre",
     "choices": [
@@ -3731,7 +3731,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00791",
+    "qid": "Q00812",
     "question": "Who from the following killed Micheal O Dwyer responsible for Jallianwala Bagh Massacre?",
     "answer": "Udham Singh",
     "choices": [
@@ -3744,7 +3744,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00792",
+    "qid": "Q00813",
     "question": "Micheal O Dwyer was shot dead on 13th March 1940 in London by",
     "answer": "Udham Singh",
     "choices": [
@@ -3757,7 +3757,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00793",
+    "qid": "Q00814",
     "question": "Who was the Prime Minister of England when Montague-Chlemsford Act was passed in 1919?",
     "answer": "David Llyod George",
     "choices": [
@@ -3770,7 +3770,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00794",
+    "qid": "Q00815",
     "question": "Muddiman Committee was appointed to report on the working of the",
     "answer": "Dyarchy",
     "choices": [
@@ -3783,7 +3783,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00795",
+    "qid": "Q00816",
     "question": "Which event served as a catalyst for the Khilafat Movement?",
     "answer": "The Treaty of Vesailles",
     "choices": [
@@ -3796,7 +3796,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00796",
+    "qid": "Q00817",
     "question": "Why did Mahatma Gandhi support the Khilfat Movement?",
     "answer": "Gandhiji wanted to win the support of the Indian Muslims against the British",
     "choices": [
@@ -3809,7 +3809,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00797",
+    "qid": "Q00818",
     "question": "Who viewed the Khilafat Movement as an opportunity for integrating Hindus and Muslims which will not appear again within coming hundred years?",
     "answer": "Ali Brothers",
     "choices": [
@@ -3822,7 +3822,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00798",
+    "qid": "Q00819",
     "question": "In which city was the conference of Khilafat Committee in 1920 held that requested Gandhiji to assume the leadership of Non-Cooperation Movement?",
     "answer": "Allahabad",
     "choices": [
@@ -3835,7 +3835,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00799",
+    "qid": "Q00820",
     "question": "Moplah Rebellion in 1921 was an offshoot of",
     "answer": "Khilafat Movement",
     "choices": [
@@ -3848,7 +3848,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00800",
+    "qid": "Q00821",
     "question": "The Non-Cooperation Movement was started in",
     "answer": "1920",
     "choices": [
@@ -3861,7 +3861,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00801",
+    "qid": "Q00822",
     "question": "A pleader of bihar who left his lucrative practice during non-cooperation movement was",
     "answer": "Rajendra Prasad",
     "choices": [
@@ -3874,7 +3874,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00802",
+    "qid": "Q00823",
     "question": "In which area was Rahul Sanrityayan active in the Non-Cooperation Movement of 1920?",
     "answer": "Chhapra",
     "choices": [
@@ -3887,7 +3887,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00803",
+    "qid": "Q00824",
     "question": "Who led cultivators in Bihar during the Non-Cooperation Movement?",
     "answer": "Swami Vidyanand",
     "choices": [
@@ -3900,7 +3900,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00804",
+    "qid": "Q00825",
     "question": "After which incident, Mahatma Gandhi halted the Non-Cooperation Movement and called it as his Himalayan Blunder?",
     "answer": "Chauri-Chaura",
     "choices": [
@@ -3913,7 +3913,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00805",
+    "qid": "Q00826",
     "question": "Who organized the  Swadesh Bandhav Samiti during the Indian Freedom Struggle?",
     "answer": "Ashwini Kumar Dutta",
     "choices": [
@@ -3926,7 +3926,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00806",
+    "qid": "Q00827",
     "question": "In which state is Chauri-Chaura where in February 1922 a police station was set on fire?",
     "answer": "Uttar Pradesh",
     "choices": [
@@ -3939,7 +3939,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00807",
+    "qid": "Q00828",
     "question": "A Sanyasi who came to that district after a spell as an indentured labourer in Fiji, carrying a copy of Tulsidas Ramayana on his back from which he would recite verses to rural audience. The peasant leader refferred to here is",
     "answer": "Baba Ram Chandra",
     "choices": [
@@ -3952,7 +3952,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00808",
+    "qid": "Q00829",
     "question": "Swaraj Party was formed after the failure of the",
     "answer": "Non-Cooperation Movement",
     "choices": [
@@ -3965,7 +3965,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00809",
+    "qid": "Q00830",
     "question": "Who established the Swaraj Party in 1923",
     "answer": "Chittaranjan Das & Motilal Nehru",
     "choices": [
@@ -3978,7 +3978,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00810",
+    "qid": "Q00831",
     "question": "Who successfully led the Bardoli Satyagraha?",
     "answer": "Vallabhbhai Patel",
     "choices": [
@@ -3991,7 +3991,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00811",
+    "qid": "Q00832",
     "question": "Which of the following movements was led and successful under the leadership of Sardar Vallabhbhai Patel?",
     "answer": "Satyagraha of Bardoli, Gujarat",
     "choices": [
@@ -4004,7 +4004,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00812",
+    "qid": "Q00833",
     "question": "Who established the Swaraj Dal in Bihar?",
     "answer": "Shri Krishna Singh",
     "choices": [
@@ -4017,7 +4017,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00813",
+    "qid": "Q00834",
     "question": "The famous slogan Swaraj should be for common people not only for classes was given by",
     "answer": "Chittaranjan Das",
     "choices": [
@@ -4030,7 +4030,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00814",
+    "qid": "Q00835",
     "question": "Mahatma Gandhi presided over which session of the Inidan National Congress?",
     "answer": "1924",
     "choices": [
@@ -4043,7 +4043,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00815",
+    "qid": "Q00836",
     "question": "When did Simon Commission visit India?",
     "answer": "1928",
     "choices": [
@@ -4056,7 +4056,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00816",
+    "qid": "Q00837",
     "question": "The Nehru Report was drafted by a Committeee headed by",
     "answer": "Motilal Nehru",
     "choices": [
@@ -4069,7 +4069,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00817",
+    "qid": "Q00838",
     "question": "The proposal of Purna-Swaraj was passed in Lahore Congress in the year",
     "answer": "1929",
     "choices": [
@@ -4082,7 +4082,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00818",
+    "qid": "Q00839",
     "question": "Who raised the flag of Independence at the Congress Session of 1929?",
     "answer": "Pandit Jawaharlal Nehru",
     "choices": [
@@ -4095,7 +4095,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00819",
+    "qid": "Q00840",
     "question": "Which day was declared as Purna Swaraj Day by the Indian National Congress?",
     "answer": "26th January 1930",
     "choices": [
@@ -4108,7 +4108,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00820",
+    "qid": "Q00841",
     "question": "In which Sesssion Indian National Congress passed Complete Independence (Purna Swaraj) resolution?",
     "answer": "1929 Lahore",
     "choices": [
@@ -4121,7 +4121,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00821",
+    "qid": "Q00842",
     "question": "Dandi March was undertaken in",
     "answer": "1930",
     "choices": [
@@ -4134,7 +4134,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00822",
+    "qid": "Q00843",
     "question": "Who among the following participated in the Salt Satyagraha of Gandhi?",
     "answer": "All of these",
     "choices": [
@@ -4147,7 +4147,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00823",
+    "qid": "Q00844",
     "question": "The famous Dandi March led by Mahatma Gandhi during the Civil Disobedience Movement covered a distance of approximately",
     "answer": "241 miles (387 km)",
     "choices": [
@@ -4160,7 +4160,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00824",
+    "qid": "Q00845",
     "question": "In 1930, Mahatma Gandhi started Civil Disobedience Movement from",
     "answer": "Dandi",
     "choices": [
@@ -4173,7 +4173,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00825",
+    "qid": "Q00846",
     "question": "For how many days did Dandi March last?",
     "answer": "24 days",
     "choices": [
@@ -4186,7 +4186,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00826",
+    "qid": "Q00847",
     "question": "Agitation against Chaukidari Tax in Begusarai was a part of",
     "answer": "Civil Disobedience Movement",
     "choices": [
@@ -4199,7 +4199,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00827",
+    "qid": "Q00848",
     "question": "Who led the Salt Satyagraha in Bhagalpur",
     "answer": "Mahadev Lal Sarraf",
     "choices": [
@@ -4212,7 +4212,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00828",
+    "qid": "Q00849",
     "question": "Who was the founder of All India Harijan Sangh in 1932?",
     "answer": "Mahatma Gandhi",
     "choices": [
@@ -4225,7 +4225,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00829",
+    "qid": "Q00850",
     "question": "Prabhavati Devi was the freedom fighter from",
     "answer": "Patna",
     "choices": [
@@ -4238,7 +4238,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00830",
+    "qid": "Q00851",
     "question": "Gandhi-Irwin pact was signed in",
     "answer": "1931",
     "choices": [
@@ -4251,7 +4251,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00831",
+    "qid": "Q00852",
     "question": "The Second Round Table Conference in London was held in the backdrop of the",
     "answer": "Gandhi-Irwin Pact",
     "choices": [
@@ -4264,7 +4264,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00832",
+    "qid": "Q00853",
     "question": "Who played ann important role in the signing of Gandhi-Irwin Pact?",
     "answer": "Tej Bahadur Sapru",
     "choices": [
@@ -4277,7 +4277,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00833",
+    "qid": "Q00854",
     "question": "Which of the following Indian leaders attended the First Round Table Conference in London?",
     "answer": "Maulana Mohammad Ali",
     "choices": [
@@ -4290,7 +4290,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00834",
+    "qid": "Q00855",
     "question": "The Indian National Congress did not take part in which of the following Round Table Conferences?",
     "answer": "First & Third",
     "choices": [
@@ -4303,7 +4303,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00835",
+    "qid": "Q00856",
     "question": "Mahatma Gandhi returned to India in December, 1931 empty-handed from",
     "answer": "London",
     "choices": [
@@ -4316,7 +4316,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00836",
+    "qid": "Q00857",
     "question": "On which issue did the Second Round Table Conference fail?",
     "answer": "Communal Delegations",
     "choices": [
@@ -4329,7 +4329,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00837",
+    "qid": "Q00858",
     "question": "Which Round Table Conference held in 1932?",
     "answer": "Third",
     "choices": [
@@ -4342,7 +4342,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00838",
+    "qid": "Q00859",
     "question": "Who wrote the pamphlet Now or Never?",
     "answer": "Choudhary Rahmat Ali",
     "choices": [
@@ -4355,7 +4355,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00839",
+    "qid": "Q00860",
     "question": "A separate electoral group was made by the communal Tribunal of Ramsay MacDonald first time in August, 1932",
     "answer": "for Untouchables",
     "choices": [
@@ -4368,7 +4368,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00840",
+    "qid": "Q00861",
     "question": "How many seats were given to depressed classes under Communal Award and Poona Pact?",
     "answer": "71 and 147 repectively",
     "choices": [
@@ -4381,7 +4381,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00841",
+    "qid": "Q00862",
     "question": "The purpose of Poona Pact was",
     "answer": "to provide representation of untouchables",
     "choices": [
@@ -4394,7 +4394,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00842",
+    "qid": "Q00863",
     "question": "The first meeting of the Congress Socialist Party was held in",
     "answer": "Patna",
     "choices": [
@@ -4407,7 +4407,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00843",
+    "qid": "Q00864",
     "question": "The first session of the Congress Socialist Party was held in the year",
     "answer": "1934",
     "choices": [
@@ -4420,7 +4420,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00844",
+    "qid": "Q00865",
     "question": "The Congress Socialist Party was founded in 1934 by",
     "answer": "Jayaprakash Narayan & Acharya Narendra Dev",
     "choices": [
@@ -4433,7 +4433,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00845",
+    "qid": "Q00866",
     "question": "Jayprakash Narayan was associated with the which party",
     "answer": "Congress Socialist Pary",
     "choices": [
@@ -4446,7 +4446,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00846",
+    "qid": "Q00867",
     "question": "Who formed the Bihar Socialist Party in 1931",
     "answer": "Phulan Prasad Verma",
     "choices": [
@@ -4459,7 +4459,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00847",
+    "qid": "Q00868",
     "question": "Who started the Asiatic Society of Bengal in 1784?",
     "answer": "William Jones",
     "choices": [
@@ -4472,7 +4472,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00848",
+    "qid": "Q00869",
     "question": "Who is known as Loknayak",
     "answer": "Jayprakash Narayan",
     "choices": [
@@ -4485,7 +4485,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00849",
+    "qid": "Q00870",
     "question": "Which title was given to Jayaprakash Narayan?",
     "answer": "Lok Nayak",
     "choices": [
@@ -4498,7 +4498,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00850",
+    "qid": "Q00871",
     "question": "Jay Prakash diwas was celebrated in",
     "answer": "1946 April",
     "choices": [
@@ -4511,7 +4511,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00851",
+    "qid": "Q00872",
     "question": "Shri Narsingh Narayan was",
     "answer": "Socialist",
     "choices": [
@@ -4524,7 +4524,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00852",
+    "qid": "Q00873",
     "question": "Who became champion of socialism and wanted to overthrow British rule, Princely states, Landlordism and Capitalism in 1933?",
     "answer": "Jawaharlal Nehru",
     "choices": [
@@ -4537,7 +4537,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00853",
+    "qid": "Q00874",
     "question": "The provincial Governments were consituted under the act of",
     "answer": "1935",
     "choices": [
@@ -4550,7 +4550,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00854",
+    "qid": "Q00875",
     "question": "In which working Committee did the Congress adopt the policy of abolishing land ownership?",
     "answer": "Working Committee, 1937",
     "choices": [
@@ -4563,7 +4563,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00855",
+    "qid": "Q00876",
     "question": "Who was elected the President of Indian National Congress in 1938?",
     "answer": "Subhash Chandra Bose",
     "choices": [
@@ -4576,7 +4576,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00856",
+    "qid": "Q00877",
     "question": "The purpose of Butler Committee, 1927 was",
     "answer": "improvement of relationship between Indian Provinces and the Crown",
     "choices": [
@@ -4589,7 +4589,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00857",
+    "qid": "Q00878",
     "question": "All India State People's Conference was set up in",
     "answer": "1927",
     "choices": [
@@ -4602,7 +4602,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00858",
+    "qid": "Q00879",
     "question": "Who was the British Prime Minister of Britain during the Second World War?",
     "answer": "Winston Churchill",
     "choices": [
@@ -4615,7 +4615,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00859",
+    "qid": "Q00880",
     "question": "Who among the following led the movement for the separate State Pakistan?",
     "answer": "Muhammad Ali Jinnah",
     "choices": [
@@ -4628,7 +4628,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00860",
+    "qid": "Q00881",
     "question": "The resolution demanding the formation of Pakistan was passed by Muslim league in the year of",
     "answer": "1940",
     "choices": [
@@ -4641,7 +4641,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00861",
+    "qid": "Q00882",
     "question": "Who started the Individual Satyagraha?",
     "answer": "Vinoba Bhave",
     "choices": [
@@ -4654,7 +4654,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00862",
+    "qid": "Q00883",
     "question": "In 1940, Vinoba Bhave started individual Satyagraha from",
     "answer": "Pavnar, Maharashtra",
     "choices": [
@@ -4667,7 +4667,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00863",
+    "qid": "Q00884",
     "question": "Who was the first Satyagrahi of the Individual Satyagraha Movement?",
     "answer": "Vinoba Bhave",
     "choices": [
@@ -4680,7 +4680,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00864",
+    "qid": "Q00885",
     "question": "Who was the second Satyagrahi of the Individual Satyagraha Movement?",
     "answer": "Jawaharlal Nehru",
     "choices": [
@@ -4693,7 +4693,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00865",
+    "qid": "Q00886",
     "question": "Who was the third Satyagrahi of the Individual Satyagraha Movement?",
     "answer": "Brahma Dutta",
     "choices": [
@@ -4706,7 +4706,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00866",
+    "qid": "Q00887",
     "question": "Who decided to oppose the war efforts peacefully by initiating a policy of Individual Civil Disobedience in 1941?",
     "answer": "Mahatma Gandhi",
     "choices": [
@@ -4719,7 +4719,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00867",
+    "qid": "Q00888",
     "question": "The word Sarvodaya was primarily used by",
     "answer": "Mahatma Gandhi",
     "choices": [
@@ -4732,7 +4732,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00868",
+    "qid": "Q00889",
     "question": "Who viewed the Cripps proposal as a Post-dated cheque upon a crashing bank?",
     "answer": "Mahatma Gandhi",
     "choices": [
@@ -4745,7 +4745,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00869",
+    "qid": "Q00890",
     "question": "In 1942, in which festival Jai Prakash Narayan escaped from Hazaribgh Jail?",
     "answer": "Deepawali",
     "choices": [
@@ -4758,7 +4758,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00870",
+    "qid": "Q00891",
     "question": "On 6th July, 1942 at the Working Committee of the Congress, Mahatma Gandhi discussed for the first time his Quit India Policy. The President of the Committee was",
     "answer": "Maulana Abul Kalam Azad",
     "choices": [
@@ -4771,7 +4771,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00871",
+    "qid": "Q00892",
     "question": "Quit India movement began on",
     "answer": "9th August 1942",
     "choices": [
@@ -4784,7 +4784,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00872",
+    "qid": "Q00893",
     "question": "The slogan Do or Die was related with",
     "answer": "Quit India Movement",
     "choices": [
@@ -4797,7 +4797,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00873",
+    "qid": "Q00894",
     "question": "When did Baldev Sahai resigned from the post of Advocate General of Bihar?",
     "answer": "1942",
     "choices": [
@@ -4810,7 +4810,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00874",
+    "qid": "Q00895",
     "question": "Quit India Movement was led by",
     "answer": "Mahatma Gandhi",
     "choices": [
@@ -4823,7 +4823,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00875",
+    "qid": "Q00896",
     "question": "On the outbreak of 1942, the people proclaimed the establishment of a National Government under Siaram Singh at",
     "answer": "Bhagalpur",
     "choices": [
@@ -4836,7 +4836,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00876",
+    "qid": "Q00897",
     "question": "All India Azad Dasta at Bakri Ka Tapu was organised during the Quit India Movement by",
     "answer": "Jay Prakash Narayan",
     "choices": [
@@ -4849,7 +4849,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00877",
+    "qid": "Q00898",
     "question": "Who organised the Azad Dasta?",
     "answer": "Jay Prakash Narayan",
     "choices": [
@@ -4862,7 +4862,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00878",
+    "qid": "Q00899",
     "question": "During which movement Azad Dasta was active in Bihar?",
     "answer": "Quit India Movement",
     "choices": [
@@ -4875,7 +4875,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00879",
+    "qid": "Q00900",
     "question": "The Prime Minister of England during the Quit India Movement?",
     "answer": "Winston Churchill",
     "choices": [
@@ -4888,7 +4888,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00880",
+    "qid": "Q00901",
     "question": "Who launched a secret radio during the Quit India Movement?",
     "answer": "Usha Mehta",
     "choices": [
@@ -4901,7 +4901,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00881",
+    "qid": "Q00902",
     "question": "Which area was affected widest with the communal riots due to Quit India Movement?",
     "answer": "Bihar & Uttar Pradesh",
     "choices": [
@@ -4914,7 +4914,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00882",
+    "qid": "Q00903",
     "question": "Dr Rajendra Prasad was arrested on 9th August 1942 and was sent to",
     "answer": "Bankipur Jail",
     "choices": [
@@ -4927,7 +4927,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00883",
+    "qid": "Q00904",
     "question": "After passing the resolution of Quit India Movement Gandhiji was arrested in",
     "answer": "Aga Khan palace",
     "choices": [
@@ -4940,7 +4940,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00884",
+    "qid": "Q00905",
     "question": "On 9th August 1942 the two arrested leaders of Hazaribagh were",
     "answer": "Shiv Kumar and Ramanand",
     "choices": [
@@ -4953,7 +4953,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00885",
+    "qid": "Q00906",
     "question": "With news of Gandhi and other Congress leaders arrest in 1942, a riot in Bihar took place, leading to a total breakdown in the rail services. The most affected area was",
     "answer": "Munger",
     "choices": [
@@ -4966,7 +4966,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00886",
+    "qid": "Q00907",
     "question": "In which context did Jay Prakash Narayan get the recognition of national leader?",
     "answer": "Quit India Movement",
     "choices": [
@@ -4979,7 +4979,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00887",
+    "qid": "Q00908",
     "question": "Who among the following escaped the Hazaribagh Jail during the Quit India Movement?",
     "answer": "Jay Prakash Narayan",
     "choices": [
@@ -4992,7 +4992,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00888",
+    "qid": "Q00909",
     "question": "Where was Shri Yogendra Shukla brought on the 7th December 1942",
     "answer": "Patna",
     "choices": [
@@ -5005,7 +5005,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00889",
+    "qid": "Q00910",
     "question": "Who was the wife of Mr Jagat Narayan Lal",
     "answer": "Rampyari Devi",
     "choices": [
@@ -5018,7 +5018,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00890",
+    "qid": "Q00911",
     "question": "Who formed the Forward Bloc?",
     "answer": "Subhash Chandra Bose",
     "choices": [
@@ -5031,7 +5031,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00891",
+    "qid": "Q00912",
     "question": "In which country was the honorific - Netaji - added before the name of Subhash Chandra Bose?",
     "answer": "Germany",
     "choices": [
@@ -5044,7 +5044,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00892",
+    "qid": "Q00913",
     "question": "Who joined Subhas Chandra Bose to found All India Forward Bloc and actively associated with the INA movment?",
     "answer": "Sheel Bhadra Yajee",
     "choices": [
@@ -5057,7 +5057,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00893",
+    "qid": "Q00914",
     "question": "The result of whose brains is INA and who founded it?",
     "answer": "Mohan Singh",
     "choices": [
@@ -5070,7 +5070,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00894",
+    "qid": "Q00915",
     "question": "In which year was the Indian National Army founded?",
     "answer": "1942",
     "choices": [
@@ -5083,7 +5083,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00895",
+    "qid": "Q00916",
     "question": "Organisation of Azad Hind Fauz was declared on",
     "answer": "21st October 1943",
     "choices": [
@@ -5096,7 +5096,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00896",
+    "qid": "Q00917",
     "question": "Where was Azad Hind Fauz set up in 1943?",
     "answer": "Malaya",
     "choices": [
@@ -5109,7 +5109,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00897",
+    "qid": "Q00918",
     "question": "Who among the following advocates had appeared for the INA trials at Delhi in 1945-46?",
     "answer": "Bhulabhai Desai",
     "choices": [
@@ -5122,7 +5122,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00898",
+    "qid": "Q00919",
     "question": "At the Congress Working Committee meeting at Allahabad (April-May 1947) who of the following members was able to secure a majority for his plan of a Guerilla War against the Japanese due to India's unequivocal stand against Nazism, Fascism and imperialism?",
     "answer": "Jawaharlal Nehru",
     "choices": [
@@ -5135,7 +5135,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00899",
+    "qid": "Q00920",
     "question": "Who proceeded to organise the Provisional Government of Free India outside the country?",
     "answer": "Rash Behari Bose",
     "choices": [
@@ -5148,7 +5148,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00900",
+    "qid": "Q00921",
     "question": "With which incident Subhas Chandra Bose compared to Napoleaon's March to Paris on his return from Elba?",
     "answer": "Mahatma Gandhi's Salt March",
     "choices": [
@@ -5161,7 +5161,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00901",
+    "qid": "Q00922",
     "question": "The Cabinet Mission was sent to India for which of the following",
     "answer": "to work out a constitutional arrangement for the transfer of power",
     "choices": [
@@ -5174,7 +5174,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00902",
+    "qid": "Q00923",
     "question": "Who among the following was not a member of the Cabinet Mission sent to India in 1946?",
     "answer": "Ramsay MacDonald",
     "choices": [
@@ -5187,7 +5187,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00903",
+    "qid": "Q00924",
     "question": "Cabinet Mission was presided over by",
     "answer": "Pethick Lawrence",
     "choices": [
@@ -5200,7 +5200,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00904",
+    "qid": "Q00925",
     "question": "The Cabinet Mission came to India in",
     "answer": "1946 March",
     "choices": [
@@ -5213,7 +5213,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00905",
+    "qid": "Q00926",
     "question": "Which Congress President negotiated with both Cripps Mission and Wavell?",
     "answer": "Moulana Abul Kalam Azad",
     "choices": [
@@ -5226,7 +5226,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00906",
+    "qid": "Q00927",
     "question": "Who was allotted the Portfolio of the Labour Department in the Interim Government's Cabinet of 1946",
     "answer": "Babu Jagjivan Ram",
     "choices": [
@@ -5239,7 +5239,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00907",
+    "qid": "Q00928",
     "question": "Who presided the first session of the Constituent Assemby formed in 1946",
     "answer": "Sachchidanand Sinha",
     "choices": [
@@ -5252,7 +5252,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00908",
+    "qid": "Q00929",
     "question": "Dr Rajendra Prasad was elected the Chairman of the Constituent Assembly in",
     "answer": "11th December 1946",
     "choices": [
@@ -5265,7 +5265,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00909",
+    "qid": "Q00930",
     "question": "When was the first meeting of Constituent Assembly held",
     "answer": "9th December 1946",
     "choices": [
@@ -5278,7 +5278,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00910",
+    "qid": "Q00931",
     "question": "Who was the Finance Minister in the Interim Government?",
     "answer": "Liaquat Ali Khan",
     "choices": [
@@ -5291,7 +5291,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00911",
+    "qid": "Q00932",
     "question": "Which portfolio did Rajendra Prasad hold in the interim government formed in 1946?",
     "answer": "Food & Agriculture",
     "choices": [
@@ -5304,7 +5304,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00912",
+    "qid": "Q00933",
     "question": "Who was the Congress President at the time of transfer of power in 1947 to India by the British?",
     "answer": "Jivatram Bhagwandas Kriplani",
     "choices": [
@@ -5317,7 +5317,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00913",
+    "qid": "Q00934",
     "question": "Who was the last Governor-General of Independent India",
     "answer": "Chakravarti Rajgopalachari",
     "choices": [
@@ -5330,7 +5330,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00914",
+    "qid": "Q00935",
     "question": "The first Indian to hold office as Governor-General of independent India was",
     "answer": "Chakravarti Rajgopalachari",
     "choices": [
@@ -5343,7 +5343,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00915",
+    "qid": "Q00936",
     "question": "On February 20, 1947 Prime Minister Attlee announced the British Government's decision to withdraw from India latest by",
     "answer": "1948 June",
     "choices": [
@@ -5356,7 +5356,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00916",
+    "qid": "Q00937",
     "question": "Who hailed free India's first Prime Minister Jawaharlal Nehru as an outstanding leader of courage and vision?",
     "answer": "Louis Mountbatten",
     "choices": [
@@ -5369,7 +5369,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00917",
+    "qid": "Q00938",
     "question": "Which incidents shocked British Prime Minister Clement Attlee, who had to declare that the edifice of the British imperialism had suffered a severe jolt?",
     "answer": "Campaign of the INA and Revolt of the Royal Indian Navy",
     "choices": [
@@ -5382,7 +5382,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00918",
+    "qid": "Q00939",
     "question": "The Royal Indian Navy Mutiny, also known as the Bombay Mutiny took place in year",
     "answer": "1946",
     "choices": [
@@ -5395,7 +5395,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00919",
+    "qid": "Q00940",
     "question": "In which of the following Indian National Congress Sessions, the resolutions related to the Fundamental Rights were passed for the first time?",
     "answer": "Karachi 1931",
     "choices": [
@@ -5408,7 +5408,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00920",
+    "qid": "Q00941",
     "question": "When did the Indian Independence Bill get Royal Assent in England?",
     "answer": "18th July 1947",
     "choices": [
@@ -5421,7 +5421,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00921",
+    "qid": "Q00942",
     "question": "Under the provision of Regulating Act, a provincial Assembly for Bihar was set up in",
     "answer": "1774",
     "choices": [
@@ -5434,7 +5434,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00922",
+    "qid": "Q00943",
     "question": "When did Bihar become a separate province in India?",
     "answer": "1912",
     "choices": [
@@ -5447,7 +5447,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00923",
+    "qid": "Q00944",
     "question": "Which of the following Acts empowered Charles Cornwallis to overrule the decision of his Council?",
     "answer": "Amending Act of 1786",
     "choices": [
@@ -5460,7 +5460,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00924",
+    "qid": "Q00945",
     "question": "Which Act provisioned competitive exam system for Civil Services?",
     "answer": "1853",
     "choices": [
@@ -5473,7 +5473,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00925",
+    "qid": "Q00946",
     "question": "To control the media in India, Acts were passed in",
     "answer": "1835, 1867, 1878, 1908",
     "choices": [
@@ -5486,7 +5486,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00926",
+    "qid": "Q00947",
     "question": "Which of the following Acts introduced separate electorate system in India?",
     "answer": "Indian Councils Act, 1909",
     "choices": [
@@ -5499,7 +5499,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00927",
+    "qid": "Q00948",
     "question": "The Montagu-Chlemsford Report formed the basis of",
     "answer": "Government of India Act, 1919",
     "choices": [
@@ -5512,7 +5512,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00928",
+    "qid": "Q00949",
     "question": "The post of the Indian High Commission was created by which Act?",
     "answer": "Government of India Act, 1919",
     "choices": [
@@ -5525,7 +5525,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00929",
+    "qid": "Q00950",
     "question": "Who among the following became India's unofficial Ambassador to England?",
     "answer": "Dadabhai Naoroji",
     "choices": [
@@ -5538,7 +5538,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00930",
+    "qid": "Q00951",
     "question": "Government of India Act, 1935 abolished",
     "answer": "Provincial Dyarchy",
     "choices": [
@@ -5551,7 +5551,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00931",
+    "qid": "Q00952",
     "question": "Who described the Government of India Act, 1935 as a Charter of Slavery?",
     "answer": "Jawaharlal Nehru",
     "choices": [
@@ -5564,7 +5564,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00932",
+    "qid": "Q00953",
     "question": "About which Act, Jawaharlal Nehru had said, We were provided with a car with all breaks and no engine?",
     "answer": "Government of India Act, 1935",
     "choices": [
@@ -5577,7 +5577,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00933",
+    "qid": "Q00954",
     "question": "Which agreement failed to resolve the border issues between India and China, ultimately leading to the conflict?",
     "answer": "Panchsheel Agreement",
     "choices": [
@@ -5590,7 +5590,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00934",
+    "qid": "Q00955",
     "question": "Which Act is not landmark in the development of the Constitution during British Rule?",
     "answer": "Protection of Civil Rights, 1955",
     "choices": [
@@ -5603,7 +5603,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00935",
+    "qid": "Q00956",
     "question": "When did Sri Lanka become independent?",
     "answer": "1948",
     "choices": [
@@ -5616,7 +5616,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00936",
+    "qid": "Q00957",
     "question": "During the freedom struggle, a parallel movement launched in the Indian States such as Kashmir, Hyderabad, Travancore etc was",
     "answer": "Praja Mandal Movement",
     "choices": [
@@ -5629,7 +5629,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00937",
+    "qid": "Q00958",
     "question": "Who started newspaper Motherland in September 1921 to disseminate the Hindu-Muslim unity and Gandhian ideology?",
     "answer": "Maulana Mazharul Haque",
     "choices": [
@@ -5642,7 +5642,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00938",
+    "qid": "Q00959",
     "question": "On which date, Sukhdev, Bhagat Singh and Rajguru were hanged?",
     "answer": "23rd March 1931",
     "choices": [
@@ -5655,7 +5655,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00939",
+    "qid": "Q00960",
     "question": "Where was Jhansi ki Rani Laxmibai died?",
     "answer": "Gwalior",
     "choices": [
@@ -5668,7 +5668,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00940",
+    "qid": "Q00961",
     "question": "Subhas Chandra Bose renamed Nicobar Island as",
     "answer": "Swaraj Island",
     "choices": [
@@ -5681,7 +5681,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00941",
+    "qid": "Q00962",
     "question": "Subhas Chandra Bose renamed Andman Island as",
     "answer": "Shaheed Island",
     "choices": [
@@ -5694,7 +5694,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00942",
+    "qid": "Q00963",
     "question": "The Indian National Congress was founded on the basis of safety valve theory, to protect the British Government from threats. Which leader said that?",
     "answer": "Lala Lajpat Rai",
     "choices": [
@@ -5707,7 +5707,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00943",
+    "qid": "Q00964",
     "question": "Which of the following event happened first?",
     "answer": "Arrival of the Cripps Mission",
     "choices": [
@@ -5720,7 +5720,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00944",
+    "qid": "Q00965",
     "question": "Employee State Insuarance Act was passed in",
     "answer": "1948",
     "choices": [
@@ -5733,7 +5733,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00945",
+    "qid": "Q00966",
     "question": "Ramchandra Sharma belonged to which village?",
     "answer": "Amhara",
     "choices": [
@@ -5746,7 +5746,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00946",
+    "qid": "Q00967",
     "question": "Who among the following Indian is known as Gurudev?",
     "answer": "Rabindra Nath Tagore",
     "choices": [
@@ -5759,7 +5759,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00947",
+    "qid": "Q00968",
     "question": "Who gave the slogan Jai Jawan Jai Kisan",
     "answer": "Lal Bahadur Sashtri",
     "choices": [
@@ -5772,7 +5772,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00948",
+    "qid": "Q00969",
     "question": "It will be our blunder if we leave people of Bihar and their Government unsafe before the violence and uncivilised attacks of league leaders. In year 1946 who spoke this?",
     "answer": "Sardar Vallabhbhai Patel",
     "choices": [
@@ -5785,7 +5785,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00949",
+    "qid": "Q00970",
     "question": "Who raised the demand of Complete Independence for the first time in 1921",
     "answer": "Moulana Hasrat Mohani",
     "choices": [
@@ -5798,7 +5798,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00950",
+    "qid": "Q00971",
     "question": "The Banaras Session of August, 1923 of the Hindu Mahasabha was presided over by",
     "answer": "Pandit Madan Mohan Malviya",
     "choices": [
@@ -5811,7 +5811,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00951",
+    "qid": "Q00972",
     "question": "In which year was Vinayak Damodar Savarkar elected the President of the Hindu Mahasabha?",
     "answer": "1937",
     "choices": [
@@ -5824,7 +5824,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00952",
+    "qid": "Q00973",
     "question": "The real name of the Frontier Gandhi is",
     "answer": "Abdul Gaffar Khan",
     "choices": [
@@ -5837,7 +5837,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00953",
+    "qid": "Q00974",
     "question": "Ambabai, a woman freedom fighter, belonged to which of the following States of India?",
     "answer": "Karnataka",
     "choices": [
@@ -5850,7 +5850,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00954",
+    "qid": "Q00975",
     "question": "Rajendra Prasad belonged to",
     "answer": "Bihar",
     "choices": [
@@ -5863,7 +5863,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00955",
+    "qid": "Q00976",
     "question": "Jagat Narayan Lal was sent to",
     "answer": "Hazaribagh Jail",
     "choices": [
@@ -5876,7 +5876,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00956",
+    "qid": "Q00977",
     "question": "To establish global peace and cooperation among the people, which of the following concept introduced by the Jawaharlal Nehru?",
     "answer": "Non-Alignment",
     "choices": [
@@ -5889,7 +5889,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00957",
+    "qid": "Q00978",
     "question": "Name the Deoband scholar who played a significant role in freedom movement.",
     "answer": "Abul Kalam Azad",
     "choices": [
@@ -5902,7 +5902,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00958",
+    "qid": "Q00979",
     "question": "Who organised the Khudai Khidmatgar in 1929?",
     "answer": "Khan Abdul Gaffar Khan",
     "choices": [
@@ -5915,7 +5915,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00959",
+    "qid": "Q00980",
     "question": "When was the Punjab Land Alienation Act passed?",
     "answer": "1900",
     "choices": [
@@ -5928,7 +5928,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00960",
+    "qid": "Q00981",
     "question": "The Department of State was established under whose headship?",
     "answer": "Sardar Vallabhbhai Patel",
     "choices": [
@@ -5941,7 +5941,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00961",
+    "qid": "Q00982",
     "question": "The objective of Antodaya program is",
     "answer": "to help the poorest of poor",
     "choices": [
@@ -5954,7 +5954,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00962",
+    "qid": "Q00983",
     "question": "Who is considered as the creator of Modern Bihar?",
     "answer": "Sachchidanand Sinha",
     "choices": [
@@ -5967,7 +5967,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00963",
+    "qid": "Q00984",
     "question": "Religious Organisation established by Mother Teresa is called",
     "answer": "Missionaries of Charity",
     "choices": [
@@ -5980,7 +5980,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00964",
+    "qid": "Q00985",
     "question": "Which organisation of India has the motto, Dharmo Rakshati Rakshitah?",
     "answer": "Research and Analysis Wing",
     "choices": [
@@ -5993,7 +5993,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00965",
+    "qid": "Q00986",
     "question": "The Indian Nationalist leader who delivered lecture on Joseph Mazzini and the Young Italy movement was",
     "answer": "Surendranath Banerjee",
     "choices": [
@@ -6006,7 +6006,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00966",
+    "qid": "Q00987",
     "question": "Welby Commission 1895 was constituted on which of the following matters?",
     "answer": "Indian Expenditure",
     "choices": [
@@ -6019,7 +6019,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00967",
+    "qid": "Q00988",
     "question": "Hitler's autobiography which outlined his political ideology and future plans for Germany, is titled",
     "answer": "Mein Kampf",
     "choices": [
@@ -6032,7 +6032,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00968",
+    "qid": "Q00989",
     "question": "Who wrote the book, India Divided?",
     "answer": "Rajendra Prasad",
     "choices": [
@@ -6045,7 +6045,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00969",
+    "qid": "Q00990",
     "question": "Which one of the following was a journal brought out by Abul Kalam Azad?",
     "answer": "Al-Hilal",
     "choices": [
@@ -6058,7 +6058,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00970",
+    "qid": "Q00991",
     "question": "Who started the journal Bahishkrit Bharat?",
     "answer": "Babasahed Ambedkar",
     "choices": [
@@ -6071,7 +6071,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00971",
+    "qid": "Q00992",
     "question": "Which one of the following books was written by Tilak?",
     "answer": "Gita Rahasya",
     "choices": [
@@ -6084,7 +6084,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00972",
+    "qid": "Q00993",
     "question": "Who was the author of the book, Mahatma Gandhi and Bihar: Some Reminiscences?",
     "answer": "Rajendra Prasad",
     "choices": [
@@ -6097,7 +6097,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00973",
+    "qid": "Q00994",
     "question": "What was the name of the first book of Raja Ram Mohan Roy published in 1815?",
     "answer": "Vedanta Grantha",
     "choices": [
@@ -6110,7 +6110,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00974",
+    "qid": "Q00995",
     "question": "Who was the author of Indian Unrest?",
     "answer": "Valentine Chirol",
     "choices": [
@@ -6123,7 +6123,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00975",
+    "qid": "Q00996",
     "question": "Who has written the book Unhappy India?",
     "answer": "Lala Lajpat Rai",
     "choices": [
@@ -6136,7 +6136,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00976",
+    "qid": "Q00997",
     "question": "Who wrote the book, Poverty and un-British Rule in India?",
     "answer": "Dadabhai Naoroji",
     "choices": [
@@ -6149,7 +6149,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00977",
+    "qid": "Q00998",
     "question": "Who had translated the Bengali play, Nil Darpan into English?",
     "answer": "Micheal Madhusudan Dutt",
     "choices": [
@@ -6162,7 +6162,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00978",
+    "qid": "Q00999",
     "question": "Who wrote the book, India for Indians?",
     "answer": "Chittaranjan Das",
     "choices": [
@@ -6175,7 +6175,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00979",
+    "qid": "Q01000",
     "question": "The novel Durgesha Nandini is written by",
     "answer": "Bankim Chandra Chatterjee",
     "choices": [
@@ -6188,7 +6188,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00980",
+    "qid": "Q01001",
     "question": "The temple of Deogarh near Jhansi and the sculptures in the temples at Garhwa near Allahabad are the important remains of the",
     "answer": "Gupta Art",
     "choices": [
@@ -6201,7 +6201,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00981",
+    "qid": "Q01002",
     "question": "Pietra Dura is related to which of the following?",
     "answer": "Decorating the walls with floral designs made of semi-precious stones",
     "choices": [
@@ -6214,7 +6214,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00982",
+    "qid": "Q01003",
     "question": "The Brihadisvara Temple in Thanjavur was constructed by which King?",
     "answer": "Rajaraja I",
     "choices": [
@@ -6227,7 +6227,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00983",
+    "qid": "Q01004",
     "question": "The mighty gateways found at the temples of South India are called",
     "answer": "Gopurams",
     "choices": [
@@ -6240,7 +6240,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00984",
+    "qid": "Q01005",
     "question": "Name the Mughal emperor who was proclaimed the Shahenshah-e-Hindustan by the rebels of 1857",
     "answer": "Bhadur Shah Zafar",
     "choices": [
@@ -6253,7 +6253,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00985",
+    "qid": "Q01006",
     "question": "Name the political agent in Delhi who was killed by mutinying sepoys in the revolt of 1857",
     "answer": "Simon Fraser",
     "choices": [
@@ -6266,7 +6266,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00986",
+    "qid": "Q01007",
     "question": "Which region of India was least affected by the revolt of 1857?",
     "answer": "South India",
     "choices": [
@@ -6279,7 +6279,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00987",
+    "qid": "Q01008",
     "question": "Mangal Pandey belonged to which regiment before his execution?",
     "answer": "34th Native Infantry",
     "choices": [
@@ -6292,7 +6292,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00988",
+    "qid": "Q01009",
     "question": "Which of Bankim Chandra Chattopadhyay's novels is set against the backdrop of the Sanyasi Rebellion and the Great Bengal Famine of 1770?",
     "answer": "Anandamath",
     "choices": [
@@ -6305,7 +6305,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00989",
+    "qid": "Q01010",
     "question": "The Sanyasi Rebellion took place during which period?",
     "answer": "1763-1800",
     "choices": [
@@ -6318,7 +6318,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00990",
+    "qid": "Q01011",
     "question": "The Sanyasi Rebellion primarily broke out in which region of India?",
     "answer": "Bengal and Bihar",
     "choices": [
@@ -6331,7 +6331,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00991",
+    "qid": "Q01012",
     "question": "Who among the following was associated with the Sanyasi Rebellion as a woman leader?",
     "answer": "Devi Chaudhurani",
     "choices": [
@@ -6344,7 +6344,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00992",
+    "qid": "Q01013",
     "question": "The Chuar Uprising primarily took place in which region of India?",
     "answer": "Jungle Mahal region of Bengal",
     "choices": [
@@ -6357,7 +6357,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00993",
+    "qid": "Q01014",
     "question": "The Chuar Uprising began in which year?",
     "answer": "1766",
     "choices": [
@@ -6370,7 +6370,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00994",
+    "qid": "Q01015",
     "question": "Who among the following women leaders was associated with the Chuar Uprising?",
     "answer": "Rani Shiromani of Karnagarh",
     "choices": [
@@ -6383,7 +6383,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00995",
+    "qid": "Q01016",
     "question": "The Bhil Uprising mainly took place in which part of India?",
     "answer": "Satpura and Western Ghats region",
     "choices": [
@@ -6396,7 +6396,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00996",
+    "qid": "Q01017",
     "question": "The Santhal Hool began from which village?",
     "answer": "Bhognadih",
     "choices": [
@@ -6409,7 +6409,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00997",
+    "qid": "Q01018",
     "question": "Who were the women leaders associated with the Santhal Hool?",
     "answer": "Phulo and Jhano Murmu",
     "choices": [
@@ -6422,7 +6422,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00998",
+    "qid": "Q01019",
     "question": "The region known in colonial records as Damin-i-Koh, created by the British for the settlement of the Santhals, is geographically part of which of the following hills?",
     "answer": "Rajmahal Hills",
     "choices": [
@@ -6435,7 +6435,7 @@
     "tags": ""
   },
   {
-    "qid": "Q00999",
+    "qid": "Q01020",
     "question": "Which Act was passed as a result of the Munda Rebellion?",
     "answer": "Chotanagpur Tenancy Act 1908",
     "choices": [
@@ -6448,7 +6448,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01000",
+    "qid": "Q01021",
     "question": "The Indigo Revolt took place in",
     "answer": "1859-60",
     "choices": [
@@ -6461,7 +6461,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01001",
+    "qid": "Q01022",
     "question": "The Indigo Revolt started from which village",
     "answer": "Govindpur, Nadia",
     "choices": [
@@ -6474,7 +6474,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01002",
+    "qid": "Q01023",
     "question": "Who were the main leaders of the Indigo Revolt?",
     "answer": "Digambar Biswas and Bishnu Biswas",
     "choices": [
@@ -6487,7 +6487,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01003",
+    "qid": "Q01024",
     "question": "Which play exposed the exploitation of indigo planters?",
     "answer": "Neel Darpan",
     "choices": [
@@ -6500,7 +6500,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01004",
+    "qid": "Q01025",
     "question": "The Indigo Commission was appointed in",
     "answer": "1860",
     "choices": [
@@ -6513,7 +6513,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01005",
+    "qid": "Q01026",
     "question": "The Indigo Revolt was supported by which Bengali newspaper?",
     "answer": "Hindoo Patriot",
     "choices": [
@@ -6526,7 +6526,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01006",
+    "qid": "Q01027",
     "question": "Who was the editor of Hindoo Patriot?",
     "answer": "Harish Chandra Mukherjee",
     "choices": [
@@ -6539,7 +6539,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01007",
+    "qid": "Q01028",
     "question": "The Bengal Tenancy Act was enacted during the viceroyalty of",
     "answer": "George Frederick - Ripon",
     "choices": [
@@ -6552,7 +6552,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01008",
+    "qid": "Q01029",
     "question": "Which of the following movements influenced the Bengal Tenancy Act?",
     "answer": "Pabna Agrarian Revolt",
     "choices": [
@@ -6565,7 +6565,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01009",
+    "qid": "Q01030",
     "question": "According to the Bengal Tenancy Act, a cultivator obtained occupancy right after cultivating land continuously for",
     "answer": "12 years",
     "choices": [
@@ -6578,7 +6578,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01010",
+    "qid": "Q01031",
     "question": "The Pabna Agrarian Revolt took place during the viceroyalty of",
     "answer": "Northbrook",
     "choices": [
@@ -6591,7 +6591,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01011",
+    "qid": "Q01032",
     "question": "The Pabna Revolt was mainly against",
     "answer": "Zamindars",
     "choices": [
@@ -6604,7 +6604,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01012",
+    "qid": "Q01033",
     "question": "Which political organisation is associated with the Pabna Revolt?",
     "answer": "Indian Association",
     "choices": [
@@ -6617,7 +6617,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01013",
+    "qid": "Q01034",
     "question": "The Pabna Revolt led to passage of which Act?",
     "answer": "Bengal Tenancy Act, 1885",
     "choices": [
@@ -6630,7 +6630,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01014",
+    "qid": "Q01035",
     "question": "The Deccan Riots of 1875 began in which region?",
     "answer": "Poona (Pune) and Ahmednagar (Ahilyanagar)",
     "choices": [
@@ -6643,7 +6643,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01015",
+    "qid": "Q01036",
     "question": "The Deccan Agriculturists’ Relief Act was enacted in which year?",
     "answer": "1879",
     "choices": [
@@ -6656,7 +6656,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01016",
+    "qid": "Q01037",
     "question": "The first session of Indian National Congress was presided over by",
     "answer": "Womesh Chunder Bonnerjee",
     "choices": [
@@ -6669,7 +6669,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01017",
+    "qid": "Q01038",
     "question": "The original venue planned for the first INC session was Poona, but it was shifted to Bombay because of",
     "answer": "Cholera outbreak in Poona",
     "choices": [
@@ -6682,7 +6682,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01018",
+    "qid": "Q01039",
     "question": "Which Viceroy of India is associated with the founding of INC",
     "answer": "Dufferin",
     "choices": [
@@ -6695,7 +6695,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01019",
+    "qid": "Q01040",
     "question": "The early phase of the Indian National Congress (1885–1905) is known as",
     "answer": "Moderate Phase",
     "choices": [
@@ -6708,7 +6708,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01020",
+    "qid": "Q01041",
     "question": "Who among the following was not a founder of the Madras Mahajan Sabha?",
     "answer": "Surendranath Banerjee",
     "choices": [
@@ -6721,7 +6721,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01021",
+    "qid": "Q01042",
     "question": "Which newspaper was closely linked to the founders of the Madras Mahajan Sabha?",
     "answer": "The Hindu",
     "choices": [
@@ -6734,7 +6734,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01022",
+    "qid": "Q01043",
     "question": "The Ilbert Bill was introduced during the viceroyalty of",
     "answer": "Ripon",
     "choices": [
@@ -6747,7 +6747,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01023",
+    "qid": "Q01044",
     "question": "Which Indian leader for the first time used the Safety-valve theory to attack the Moderates in the Congress?",
     "answer": "Lala Lajpat Rai",
     "choices": [
@@ -6760,7 +6760,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01024",
+    "qid": "Q01045",
     "question": "At which Viceroy was a bomb thrown on the occasion of his state entry into Delhi?",
     "answer": "Hardinge",
     "choices": [
@@ -6773,7 +6773,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01025",
+    "qid": "Q01046",
     "question": "Who got an opportunity to become Professor of Indian Philosophy in the University of California in 1911?",
     "answer": "Har Dayal",
     "choices": [
@@ -6786,7 +6786,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01026",
+    "qid": "Q01047",
     "question": "Name the Principal of MAO College Aligarh who encouraged Muslim Communalism in the last decades of the 19th Century?",
     "answer": "Theodore Beck",
     "choices": [
@@ -6799,7 +6799,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01027",
+    "qid": "Q01048",
     "question": "Young India, a Nationalist paper, was started by",
     "answer": "Mahatma Gandhi",
     "choices": [
@@ -6812,7 +6812,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01028",
+    "qid": "Q01049",
     "question": "Which Commission accentuated the discontent in all the political groups and parties for not associating any Indian member in it?",
     "answer": "Simon Commission",
     "choices": [
@@ -6825,7 +6825,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01029",
+    "qid": "Q01050",
     "question": "Who assumed the command of the Indian National Army and gave famous battle cry, Chalo Delhi?",
     "answer": "Subhash Chandra Bose",
     "choices": [
@@ -6838,7 +6838,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01030",
+    "qid": "Q01051",
     "question": "We shall either free India or die in the attempt, who said it",
     "answer": "Mahatma Gandhi",
     "choices": [
@@ -6851,7 +6851,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01031",
+    "qid": "Q01052",
     "question": "Who raised the cry Divide and Quit?",
     "answer": "M A Jinnah",
     "choices": [
@@ -6864,7 +6864,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01032",
+    "qid": "Q01053",
     "question": "Which Act provided for the partition of India in two new dominions - India and Pakistan",
     "answer": "Indian Independence Act, 1947",
     "choices": [
@@ -6877,7 +6877,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01033",
+    "qid": "Q01054",
     "question": "Which of the following sessions of the Indian National Congress first adopted ‘Vande Mataram’ as a national song?",
     "answer": "Calcutta Session, 1906",
     "choices": [

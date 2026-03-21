@@ -1,59 +1,98 @@
 [
   {
-    "qid": "Q02156",
-    "question": "What is the GSDP growth rate at current prices?",
-    "answer": "13.1 percent",
+    "qid": "Q02813",
+    "question": "According to the Economic Survey of Bihar 2025-26, what is the GSDP growth rate of Bihar at current prices for 2024-25?",
+    "answer": "13.1%",
     "choices": [
-      "13.1 percent",
-      "9.2 percent",
-      "14.5 percent",
-      "8.6 percent"
+      "13.1%",
+      "9.2%",
+      "14.5%",
+      "8.6%"
     ],
-    "information": "At current prices, nominal growth is 13.1%, which includes inflation effects, hence higher than constant price growth.",
+    "information": "As per Economic Survey 2025-26, Bihar's GSDP at current prices grew by 13.1% in 2024-25, exceeding India's GDP growth of 9.8%. The GSDP at current prices reached ₹9,91,997 crore.",
     "tags": ""
   },
   {
-    "qid": "Q02157",
-    "question": "What is the GSDP growth rate of Bihar at constant prices?",
-    "answer": "8.6 percent",
+    "qid": "Q02814",
+    "question": "According to the Economic Survey of Bihar 2025-26, what is the GSDP growth rate of Bihar at constant prices (2011-12) for 2024-25?",
+    "answer": "8.6%",
     "choices": [
-      "8.6 percent",
-      "14.5 percent",
-      "7.2 percent",
-      "6.5 percent"
+      "8.6%",
+      "14.5%",
+      "7.2%",
+      "6.5%"
     ],
-    "information": "At constant prices, Bihar’s GSDP growth is 8.6%, indicating real economic growth.",
+    "information": "Bihar's GSDP at constant (2011-12) prices grew by 8.6% in 2024-25, exceeding India's real GDP growth of 6.5%. Real growth excludes inflation effects.",
     "tags": ""
   },
   {
-    "qid": "Q02158",
-    "question": "Which economic sector is the hightest contributor in Bihar state GSVA for year 2025-26?",
-    "answer": "Tertiary",
+    "qid": "Q02815",
+    "question": "According to the Economic Survey of Bihar 2024-25, what was the GSDP growth rate at current prices for 2023-24?",
+    "answer": "14.5%",
     "choices": [
-      "Tertiary",
-      "Primary",
-      "Secondary",
+      "14.5%",
+      "13.1%",
+      "9.2%",
+      "8.6%"
+    ],
+    "information": "As per Economic Survey 2024-25, Bihar's GSDP grew by 14.5% at current prices in 2023-24. The GSDP at current prices was ₹8,54,429 crore. Note: 13.1% is the 2024-25 figure from ES 2025-26.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02816",
+    "question": "According to the Economic Survey of Bihar 2024-25, what was the GSDP growth rate at constant prices for 2023-24?",
+    "answer": "9.2%",
+    "choices": [
+      "9.2%",
+      "8.6%",
+      "14.5%",
+      "7.2%"
+    ],
+    "information": "As per Economic Survey 2024-25, Bihar's GSDP grew by 9.2% at constant prices in 2023-24. Note: 8.6% is the 2024-25 figure from ES 2025-26 — do not confuse the two surveys.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02817",
+    "question": "According to the Economic Survey of Bihar 2025-26, which sector is the highest contributor to Bihar's GSVA for 2024-25?",
+    "answer": "Tertiary (Services)",
+    "choices": [
+      "Tertiary (Services)",
+      "Primary (Agriculture)",
+      "Secondary (Industry)",
       "Tourism"
     ],
-    "information": "The tertiary sector (54.8%) dominates Bihar’s economy, reflecting growth in services.",
+    "information": "The Tertiary (Services) sector contributes 54.8% of Bihar's GSVA in 2024-25 as per ES 2025-26. Note: In 2023-24 (ES 2024-25), the tertiary share was higher at 58.6% — the share has since declined as the secondary sector grew.",
     "tags": ""
   },
   {
-    "qid": "Q02159",
-    "question": "Percentage contribution of Tertiary sector in Bihar state GVA for year 2023-24",
-    "answer": "54.8 percent",
+    "qid": "Q02818",
+    "question": "According to the Economic Survey of Bihar 2024-25, what is the percentage contribution of the Tertiary sector in Bihar's GSVA for 2023-24?",
+    "answer": "58.6%",
     "choices": [
-      "54.8 percent",
-      "58.6 percent",
-      "19.9 percent",
-      "11 percent"
+      "58.6%",
+      "54.8%",
+      "19.9%",
+      "21.5%"
     ],
-    "information": "The tertiary sector (54.8%) dominates Bihar’s economy, reflecting growth in services.",
+    "information": "As per Economic Survey 2024-25, the Tertiary sector contributed 58.6% to Bihar's GSVA in 2023-24, followed by Secondary (21.5%) and Primary (19.9%). Note: 54.8% is the figure for 2024-25 from ES 2025-26.",
     "tags": ""
   },
   {
-    "qid": "Q02160",
-    "question": "According to the Economic Survey of Bihar 2025-26, Which sector has shown an increase in its share in GSVA?",
+    "qid": "Q02819",
+    "question": "According to the Economic Survey of Bihar 2025-26, what are the contributions of Primary, Secondary, and Tertiary sectors in GSVA respectively for 2024-25?",
+    "answer": "18.3%, 26.8%, 54.8%",
+    "choices": [
+      "18.3%, 26.8%, 54.8%",
+      "19.9%, 21.5%, 58.6%",
+      "21%, 60%, 20%",
+      "19.9%, 21.1%, 60%"
+    ],
+    "information": "As per ES 2025-26, sectoral shares in Bihar's GSVA for 2024-25 are: Primary 18.3%, Secondary 26.8%, Tertiary 54.8%. The secondary sector's share rose significantly from 21.1% in 2020-21, showing industrial growth.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02820",
+    "question": "According to the Economic Survey of Bihar 2025-26, which sector has shown an increase in its share in Bihar's GSVA?",
     "answer": "Secondary",
     "choices": [
       "Secondary",
@@ -61,38 +100,12 @@
       "Tertiary",
       "Tourism"
     ],
-    "information": "Primary & Tertiary sector's share in Bihar GSVA has decreased whereas Secondary sector share has increased.",
+    "information": "The Secondary sector's share in Bihar's GSVA increased from 21.1% (2020-21) to 26.8% (2024-25) as per ES 2025-26. Both Primary and Tertiary sectors' shares declined over the same period, reflecting industrial growth.",
     "tags": ""
   },
   {
-    "qid": "Q02161",
-    "question": "How much Bihar contributes in total Makhana production of India",
-    "answer": "85 percent",
-    "choices": [
-      "85 percent",
-      "90 percent",
-      "80 percent",
-      "75 percent"
-    ],
-    "information": "",
-    "tags": ""
-  },
-  {
-    "qid": "Q02162",
-    "question": "According to the Economic Survey of Bihar 2024-25, what is the contribution of Primary, Secondary and Tertiary Sectors in GSVA respectively?",
-    "answer": "18.3%, 26.8%, 54.8%",
-    "choices": [
-      "18.3%, 26.8%, 54.8%",
-      "21%, 60%, 20%",
-      "19.9%, 21.1%, 60%",
-      "21%, 60%, 20%"
-    ],
-    "information": "Sectoral share in Bihar GSVA are - Primary (18.3%), Secondary (26.8%) and Tertiary (54.8%)",
-    "tags": ""
-  },
-  {
-    "qid": "Q02163",
-    "question": "According to the Economic Survey of Bihar 2024-25, which of the following is the largest contributor in the GSVA for primary sector?",
+    "qid": "Q02821",
+    "question": "According to the Economic Survey of Bihar 2024-25, which is the largest contributor in GSVA for the Primary sector?",
     "answer": "Crops",
     "choices": [
       "Crops",
@@ -100,12 +113,12 @@
       "Forestry",
       "Livestock"
     ],
-    "information": "",
+    "information": "Crops are the largest contributor within Bihar's Primary sector GSVA. Rice (40.7%) is the most produced cereal, and food grains constitute the bulk of agricultural output in Bihar.",
     "tags": ""
   },
   {
-    "qid": "Q02164",
-    "question": "According to the Economic Survey of Bihar 2024-25, which of the following has the highest growth in the GSVA for primary sector?",
+    "qid": "Q02822",
+    "question": "According to the Economic Survey of Bihar 2024-25, which sub-sector has the highest growth in GSVA for the Primary sector?",
     "answer": "Fishery",
     "choices": [
       "Fishery",
@@ -113,12 +126,12 @@
       "Forestry",
       "Livestock"
     ],
-    "information": "",
+    "information": "Fishery recorded the highest growth rate within Bihar's Primary sector GSVA. Fish production grew by 9.9% as per ES 2025-26, supported by government schemes and Bihar's river/pond resources.",
     "tags": ""
   },
   {
-    "qid": "Q02165",
-    "question": "According to the Economic Survey of Bihar 2024-25, which of the following is the largest contributor in the GSVA for secondary sector?",
+    "qid": "Q02823",
+    "question": "According to the Economic Survey of Bihar 2024-25, which is the largest contributor in GSVA for the Secondary sector?",
     "answer": "Construction",
     "choices": [
       "Construction",
@@ -126,25 +139,38 @@
       "Electricity",
       "Gas"
     ],
-    "information": "",
+    "information": "Construction is the largest contributor within Bihar's Secondary sector GSVA. It drives the sector's growth alongside manufacturing. The secondary sector overall grew by 11.1% at constant prices in 2024-25.",
     "tags": ""
   },
   {
-    "qid": "Q02166",
-    "question": "Which of the following districts has the lowest per capita GDDP?",
-    "answer": "Sheohar",
+    "qid": "Q02824",
+    "question": "According to the Economic Survey of Bihar 2025-26, what is the per capita income of Bihar at constant prices (2011-12) for 2024-25?",
+    "answer": "₹40,973",
     "choices": [
-      "Sheohar",
-      "Sitamarhi",
-      "Araria",
-      "Kishanganj"
+      "₹40,973",
+      "₹76,490",
+      "₹36,333",
+      "₹66,828"
     ],
-    "information": "Sheohar is the lowest, followed by Araria and Sitamarhi, indicating regional imbalance.",
+    "information": "Bihar's per capita GSDP at constant (2011-12) prices rose to ₹40,973 in 2024-25 from ₹30,159 in 2020-21, as per ES 2025-26. Note: ₹36,333 is the 2023-24 constant price figure; ₹76,490 is the 2024-25 current price figure.",
     "tags": ""
   },
   {
-    "qid": "Q02167",
-    "question": "Which district has the highest per capita GDDP in Bihar?",
+    "qid": "Q02825",
+    "question": "According to the Economic Survey of Bihar 2024-25, what is the per capita income of Bihar at current prices for 2023-24?",
+    "answer": "₹66,828",
+    "choices": [
+      "₹66,828",
+      "₹76,490",
+      "₹36,333",
+      "₹40,973"
+    ],
+    "information": "Bihar's per capita income at current prices was ₹66,828 in 2023-24 as per ES 2024-25. Note: ₹76,490 is the 2024-25 figure from ES 2025-26. ₹36,333 is the 2023-24 constant price figure.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02826",
+    "question": "Which district has the highest per capita GDDP in Bihar as per Economic Survey 2025-26?",
     "answer": "Patna",
     "choices": [
       "Patna",
@@ -152,25 +178,38 @@
       "Gaya",
       "Begusarai"
     ],
-    "information": "Patna ranks highest, followed by Begusarai and Munger. Capital regions generally show higher economic activity.",
+    "information": "Patna has the highest per capita GDDP of ₹2,41,220 at current prices, followed by Begusarai (₹1,05,600) and Munger (₹93,921) as per ES 2025-26.",
     "tags": ""
   },
   {
-    "qid": "Q02168",
-    "question": "How much is the Crop Intensity of Bihar?",
-    "answer": "152 percent",
+    "qid": "Q02827",
+    "question": "Which district has the lowest per capita GDDP in Bihar as per Economic Survey 2025-26?",
+    "answer": "Sheohar",
     "choices": [
-      "152 percent",
-      "184 percent",
-      "144 percent",
-      "164 percent"
+      "Sheohar",
+      "Sitamarhi",
+      "Araria",
+      "Kishanganj"
     ],
-    "information": "Bihar's Crop Intestity of 1.52 means that for every 100 hectares of land, 152 hectares of crops are harvested annually.",
+    "information": "Sheohar is the poorest district in Bihar by per capita GDDP, followed by Araria and Sitamarhi. This reflects the severe regional economic imbalance within Bihar.",
     "tags": ""
   },
   {
-    "qid": "Q02169",
-    "question": "Which cereal has the highest share in Bihar’s production?",
+    "qid": "Q02828",
+    "question": "What is the Crop Intensity of Bihar?",
+    "answer": "152%",
+    "choices": [
+      "152%",
+      "184%",
+      "144%",
+      "164%"
+    ],
+    "information": "Bihar's Crop Intensity is 152%, meaning for every 100 hectares of agricultural land, 152 hectares of crops are harvested annually. This reflects double-cropping practices prevalent in Bihar.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02829",
+    "question": "Which cereal has the highest share in Bihar's production?",
     "answer": "Rice",
     "choices": [
       "Rice",
@@ -178,77 +217,77 @@
       "Maize",
       "Gram"
     ],
-    "information": "Rice (40.7%) is the most produced cereal, followed by wheat and maize.",
+    "information": "Rice accounts for 40.7% of Bihar's cereal production, making it the most produced cereal. Wheat and Maize follow. Bihar is also a major Maize producer nationally.",
     "tags": ""
   },
   {
-    "qid": "Q02170",
-    "question": "As per Agriculture Census 2015–16, what percentage of Bihar’s total operational holding area is under marginal farmers (less than 1 ha)?",
-    "answer": "57.73 percent",
+    "qid": "Q02830",
+    "question": "How much does Bihar contribute to India's total Makhana (Fox Nut) production?",
+    "answer": "85%",
     "choices": [
-      "57.73 percent",
-      "91.21 percent",
-      "76 percent",
-      "97 percent"
+      "85%",
+      "90%",
+      "80%",
+      "75%"
     ],
-    "information": "",
+    "information": "Bihar contributes approximately 85% of India's total Makhana (Fox Nut) production. Makhana is grown mainly in the Mithila region (Darbhanga, Madhubani, Sitamarhi). The Bihar government has included it in its Agricultural Investment Promotion Policy.",
     "tags": ""
   },
   {
-    "qid": "Q02171",
-    "question": "The combined share of operational holding area under marginal and small farmers in Bihar is approximately",
-    "answer": "76 percent",
+    "qid": "Q02831",
+    "question": "As per Agriculture Census 2015-16, what percentage of Bihar's total operational holding area is under marginal farmers (less than 1 ha)?",
+    "answer": "57.73%",
     "choices": [
-      "76 percent",
-      "91.21 percent",
-      "57.73 percent",
-      "97 percent"
+      "57.73%",
+      "91.21%",
+      "76%",
+      "97%"
     ],
-    "information": "",
+    "information": "57.73% of Bihar's total operational holding area is held by marginal farmers (less than 1 hectare) as per Agriculture Census 2015-16, highlighting severe land fragmentation.",
     "tags": ""
   },
   {
-    "qid": "Q02172",
-    "question": "High percentage of marginal and small farmers in Bihar indicates",
-    "answer": "Land Fragmentation",
+    "qid": "Q02832",
+    "question": "The combined share of operational holding area under marginal and small farmers in Bihar is approximately:",
+    "answer": "76%",
     "choices": [
-      "Land Fragmentation",
+      "76%",
+      "91.21%",
+      "57.73%",
+      "97%"
+    ],
+    "information": "Marginal farmers (less than 1 ha) hold 57.73% and small farmers (1-2 ha) hold an additional share, together accounting for ~76% of Bihar's total operational holding area as per Agriculture Census 2015-16.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02833",
+    "question": "A high percentage of marginal and small farmers in Bihar primarily indicates:",
+    "answer": "Land fragmentation",
+    "choices": [
+      "Land fragmentation",
       "Large-scale commercial farming",
       "Land consolidation",
       "Decline in agriculture"
     ],
-    "information": "",
+    "information": "The dominance of marginal and small farmers in Bihar reflects extreme land fragmentation — holdings are divided across generations, making mechanisation and economies of scale difficult, which limits agricultural productivity.",
     "tags": ""
   },
   {
-    "qid": "Q02173",
-    "question": "According to the Economic Survey of Bihar 2025-26 what is the per capita income of Bihar at constant price 2023-24?",
-    "answer": "40,973 rupees",
+    "qid": "Q02834",
+    "question": "Bihar is the first state in India to introduce which of the following initiatives?",
+    "answer": "Home delivery of seeds",
     "choices": [
-      "40,973 rupees",
-      "66,828 rupees",
-      "36,333 rupees",
-      "38,555 rupees"
+      "Home delivery of seeds",
+      "Online Mandi system",
+      "AI-based farming",
+      "Drone irrigation"
     ],
-    "information": "",
+    "information": "Bihar became the first state in India to provide home delivery of seeds through Bihar Rajya Beej Nigam Ltd. (BRBN), making quality seeds accessible to farmers in remote areas.",
     "tags": ""
   },
   {
-    "qid": "Q02174",
-    "question": "According to the Economic Survey of Bihar 2024-25 what is the per capita income of Bihar at current price 2023-24?",
-    "answer": "76,490 rupees",
-    "choices": [
-      "76,490 rupees",
-      "36,333 rupees",
-      "66,828 rupees",
-      "38,555 rupees"
-    ],
-    "information": "",
-    "tags": ""
-  },
-  {
-    "qid": "Q02175",
-    "question": "The JEEViKA program of Bihar was launched in which year?",
+    "qid": "Q02835",
+    "question": "The JEEViKA (Bihar Rural Livelihoods Project) programme was launched in which year?",
     "answer": "2006",
     "choices": [
       "2006",
@@ -256,38 +295,25 @@
       "2010",
       "2018"
     ],
-    "information": "",
+    "information": "JEEViKA was launched in Bihar in 2006 with World Bank support. It focuses on women's Self Help Groups (SHGs) to improve rural livelihoods. It has been expanded to urban areas as well.",
     "tags": ""
   },
   {
-    "qid": "Q02176",
-    "question": "What is the unemployment rate in Bihar in 2023-24?",
-    "answer": "3 percent",
-    "choices": [
-      "3 percent",
-      "4.3 percent",
-      "4.5 percent",
-      "5.4 percent"
-    ],
-    "information": "",
-    "tags": ""
-  },
-  {
-    "qid": "Q02177",
+    "qid": "Q02836",
     "question": "What is the primary objective of the Tarkari Sudha outlets launched by the Bihar government?",
     "answer": "To provide fresh vegetables directly from farmers at fair prices",
     "choices": [
       "To provide fresh vegetables directly from farmers at fair prices",
       "To promote organic farming",
-      "To export vegetables intentionally",
+      "To export vegetables internationally",
       "To set up vegetable processing factories"
     ],
-    "information": "",
+    "information": "Tarkari Sudha outlets aim to eliminate middlemen by connecting farmers directly to consumers, ensuring fair prices for both. The outlets are operated on the Sudha Dairy retail booth model.",
     "tags": ""
   },
   {
-    "qid": "Q02178",
-    "question": "Which of the following is the full form of VEGFED?",
+    "qid": "Q02837",
+    "question": "What is the full form of VEGFED?",
     "answer": "Bihar State Vegetables and Fruits Development Corporation Ltd.",
     "choices": [
       "Bihar State Vegetables and Fruits Development Corporation Ltd.",
@@ -295,11 +321,11 @@
       "Vegetable Federation of India",
       "Vegetable Farmers Empowerment Directorate"
     ],
-    "information": "",
+    "information": "VEGFED stands for Bihar State Vegetables and Fruits Development Corporation Ltd. It operates under the Department of Horticulture, Government of Bihar, and manages initiatives like Tarkari Sudha outlets.",
     "tags": ""
   },
   {
-    "qid": "Q02179",
+    "qid": "Q02838",
     "question": "VEGFED functions primarily under which department of the Government of Bihar?",
     "answer": "Department of Horticulture",
     "choices": [
@@ -308,12 +334,12 @@
       "Department of Animal and Fisheries Resources",
       "Department of Cooperation"
     ],
-    "information": "",
+    "information": "VEGFED (Bihar State Vegetables and Fruits Development Corporation Ltd.) operates under the Department of Horticulture, Government of Bihar.",
     "tags": ""
   },
   {
-    "qid": "Q02180",
-    "question": "The Tarkari Sudha outlets launched in Bihar are managed and operated by:",
+    "qid": "Q02839",
+    "question": "The Tarkari Sudha outlets in Bihar are managed and operated by:",
     "answer": "VEGFED",
     "choices": [
       "VEGFED",
@@ -321,12 +347,12 @@
       "NABARD",
       "Bihar State Agricultural Marketing Board"
     ],
-    "information": "",
+    "information": "Tarkari Sudha outlets are managed by VEGFED (Bihar State Vegetables and Fruits Development Corporation Ltd.) under the Department of Horticulture.",
     "tags": ""
   },
   {
-    "qid": "Q02181",
-    "question": "Which model has been used for setting up Tarkari Sudha outlets under VEGFED?",
+    "qid": "Q02840",
+    "question": "Which model has been adopted for setting up Tarkari Sudha outlets under VEGFED?",
     "answer": "Sudha Dairy retail booth model",
     "choices": [
       "Sudha Dairy retail booth model",
@@ -334,11 +360,24 @@
       "Mother Dairy model",
       "Farmer Producer Company model"
     ],
-    "information": "",
+    "information": "Tarkari Sudha outlets follow the Sudha Dairy retail booth model — a proven franchise-style retail model already successful in Bihar's dairy sector under COMFED.",
     "tags": ""
   },
   {
-    "qid": "Q02182",
+    "qid": "Q02841",
+    "question": "What is the unemployment rate in Bihar for 2023-24?",
+    "answer": "3%",
+    "choices": [
+      "3%",
+      "4.3%",
+      "4.5%",
+      "5.4%"
+    ],
+    "information": "Bihar's unemployment rate was 3% in 2023-24, lower than the national average. However, underemployment and seasonal unemployment remain significant challenges, especially in the rural agricultural sector.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02842",
     "question": "Who presented the Bihar Budget 2026-27 in the Bihar Legislative Assembly?",
     "answer": "Bijendra Prasad Yadav",
     "choices": [
@@ -347,77 +386,25 @@
       "Nirmala Sitharaman",
       "Nitish Kumar"
     ],
-    "information": "Bihar Budget 2026-27 was presented by Bijendra Prasad Yadav, the Finance Minister of Bihar.",
+    "information": "Bihar Budget 2026-27 was presented on 3 February 2026 by Bijendra Prasad Yadav, the Finance Minister of Bihar. It was the largest budget in Bihar's history at ₹3,47,589.76 crore.",
     "tags": ""
   },
   {
-    "qid": "Q02183",
-    "question": "What is the total expenditure (budget size) estimated for the Bihar Budget 2026-27?",
-    "answer": "₹3.47 lakh crore",
+    "qid": "Q02843",
+    "question": "What is the total expenditure (budget size) estimated in the Bihar Budget 2026-27?",
+    "answer": "₹3,47,589.76 crore",
     "choices": [
-      "₹3.47 lakh crore",
-      "₹2.85 lakh crore",
-      "₹3.16 lakh crore",
-      "₹3.95 lakh crore"
+      "₹3,47,589.76 crore",
+      "₹2,85,000 crore",
+      "₹3,16,000 crore",
+      "₹3,95,000 crore"
     ],
-    "information": "The total expenditure (budget size) is ₹3,47,589.76 crore, which includes both revenue and capital expenditure.",
+    "information": "The total budget size for 2026-27 is ₹3,47,589.76 crore — the largest in Bihar's history, an increase of ~₹30,694 crore over 2025-26.",
     "tags": ""
   },
   {
-    "qid": "Q02184",
-    "question": "Which department received the highest scheme outlay in Bihar Budget 2026-27?",
-    "answer": "Rural Development",
-    "choices": [
-      "Rural Development",
-      "Education",
-      "Health",
-      "Urban Development and Housing"
-    ],
-    "information": "Rural Development Department received the highest allocation (₹22,392.47 crore), reflecting focus on rural economy.",
-    "tags": ""
-  },
-  {
-    "qid": "Q02185",
-    "question": "The Bihar government has estimated Fiscal Deficit for 2026-27 at what percentage of GSDP?",
-    "answer": "2.99 percent",
-    "choices": [
-      "2.99 percent",
-      "3.50 percent",
-      "4.20 percent",
-      "2.15 percent"
-    ],
-    "information": "According to Bihar Budget 2026-27, Fiscal deficit is ₹39,111.80 crore (2.99% of GSDP), which is within the FRBM limit.",
-    "tags": ""
-  },
-  {
-    "qid": "Q02186",
-    "question": "As per the budget, what is the projected growth rate of Bihar's GSDP for the year 2026-27?",
-    "answer": "14.9 percent",
-    "choices": [
-      "14.9 percent",
-      "18.1 percent",
-      "10.5 percent",
-      "8.2 percent"
-    ],
-    "information": "",
-    "tags": ""
-  },
-  {
-    "qid": "Q02187",
-    "question": "What is the estimated Revenue Surplus for the Bihar government in the financial year 2026-27?",
-    "answer": "₹ 1,143.19 crore",
-    "choices": [
-      "₹ 1,143.19 crore",
-      "₹ 5,400 crore",
-      "₹ 1,043.20 crore",
-      "₹ 1,943.25 crore"
-    ],
-    "information": "According to Bihar Budget 2026-27, the revenue surplus is ₹1,143.19 crore (0.09% of GSDP)",
-    "tags": ""
-  },
-  {
-    "qid": "Q02188",
-    "question": "What is the estimated GSDP of Bihar for 2026–27?",
+    "qid": "Q02844",
+    "question": "What is the estimated GSDP of Bihar for 2026-27 at current prices?",
     "answer": "₹13,09,155 crore",
     "choices": [
       "₹13,09,155 crore",
@@ -425,12 +412,38 @@
       "₹15,09,155 crore",
       "₹11,09,155 crore"
     ],
-    "information": "The GSDP is estimated at ₹13,09,155 crore, indicating Bihar’s growing economic size.",
+    "information": "Bihar's GSDP at current prices is estimated at ₹13,09,155 crore (approximately ₹13.1 lakh crore) for 2026-27, reflecting 15% growth over 2025-26's projected GSDP of ₹10.97 lakh crore.",
     "tags": ""
   },
   {
-    "qid": "Q02189",
-    "question": "What is the FRBM fiscal deficit limit for Bihar as per Bihar FRBM Rules, 2022?",
+    "qid": "Q02845",
+    "question": "As per the Bihar Budget 2026-27, what is the projected GSDP growth rate for 2026-27?",
+    "answer": "15%",
+    "choices": [
+      "15%",
+      "14.9%",
+      "18.1%",
+      "10.5%"
+    ],
+    "information": "Bihar's GSDP for 2026-27 is projected at ₹13.1 lakh crore, representing approximately 15% growth over 2025-26's ₹10.97 lakh crore (as per PRS India Budget Analysis). Note: Some sources cite 14.9% — verify from official budget document.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02846",
+    "question": "According to Bihar Budget 2026-27, what is the estimated Fiscal Deficit as a percentage of GSDP?",
+    "answer": "2.99%",
+    "choices": [
+      "2.99%",
+      "3.50%",
+      "4.20%",
+      "2.15%"
+    ],
+    "information": "Bihar's Fiscal Deficit for 2026-27 is estimated at ₹39,111.80 crore, which is 2.99% of GSDP — within the FRBM limit of 3%. This shows fiscal discipline after the high deficit of 4.2% in 2024-25.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02847",
+    "question": "What is the FRBM fiscal deficit limit for Bihar as per Bihar FRBM Rules?",
     "answer": "3% of GSDP",
     "choices": [
       "3% of GSDP",
@@ -438,12 +451,51 @@
       "2.5% of GSDP",
       "5% of GSDP"
     ],
-    "information": "The Bihar FRBM Rules cap fiscal deficit at 3% of GSDP, and Bihar is maintaining it at 2.99%, showing fiscal discipline.",
+    "information": "The Bihar Fiscal Responsibility and Budget Management (FRBM) Act caps fiscal deficit at 3% of GSDP. The 16th Finance Commission has also recommended 3% for the 2026-31 period. Bihar's 2026-27 estimate of 2.99% stays within this limit.",
     "tags": ""
   },
   {
-    "qid": "Q02190",
-    "question": "What is the Outstanding Public Debt of Bihar in 2026–27?",
+    "qid": "Q02848",
+    "question": "What is the estimated Revenue Surplus for Bihar in 2026-27?",
+    "answer": "₹1,143.19 crore",
+    "choices": [
+      "₹1,143.19 crore",
+      "₹5,400 crore",
+      "₹1,043.20 crore",
+      "₹1,943.25 crore"
+    ],
+    "information": "Bihar's Revenue Surplus for 2026-27 is estimated at ₹1,143.19 crore (0.09% of GSDP). A revenue surplus means current income exceeds current expenditure — government need not borrow for day-to-day expenses.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02849",
+    "question": "Which department received the highest scheme outlay in Bihar Budget 2026-27?",
+    "answer": "Rural Development",
+    "choices": [
+      "Rural Development",
+      "Education",
+      "Health",
+      "Urban Development"
+    ],
+    "information": "Rural Development Department received the highest scheme outlay of ₹22,392.47 crore in Bihar Budget 2026-27, reflecting focus on rural infrastructure given that ~90% of Bihar's population lives in rural areas.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02850",
+    "question": "Which department has the highest total expenditure share in Bihar Budget 2026-27?",
+    "answer": "Education",
+    "choices": [
+      "Education",
+      "Rural Development",
+      "Health",
+      "Urban Development"
+    ],
+    "information": "Education accounts for ₹60,204.61 crore (17.32% of total budget), the largest total expenditure share in Bihar Budget 2026-27. Bihar allocates 21.7% of its total expenditure on education — above the national average.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02851",
+    "question": "What is the Outstanding Public Debt of Bihar estimated for 2026-27?",
     "answer": "₹3,88,554.47 crore",
     "choices": [
       "₹3,88,554.47 crore",
@@ -451,64 +503,38 @@
       "₹13,88,554.47 crore",
       "₹5,88,554.47 crore"
     ],
-    "information": "According to Bihar Budget 2026-27, Outstanding public debt is ₹3,88,554.47 crore (29.68% of GSDP)",
+    "information": "Bihar's outstanding public debt is estimated at ₹3,88,554.47 crore (approximately 34% of GSDP) for 2026-27 as per the budget. The 16th Finance Commission has noted Bihar's relatively high debt-to-GDP ratio as a concern.",
     "tags": ""
   },
   {
-    "qid": "Q02191",
-    "question": "What is the Capital Outlay for Bihar in 2026–27?",
+    "qid": "Q02852",
+    "question": "What is the Capital Outlay for Bihar in 2026-27?",
     "answer": "₹39,377.06 crore",
     "choices": [
       "₹39,377.06 crore",
       "₹25,000 crore",
-      "₹63,455 crore",
+      "₹63,455.84 crore",
       "₹1,22,155 crore"
     ],
-    "information": "According to Bihar Budget 2026-27, Capital outlay is ₹39,377.06 crore, representing investment in infrastructure and asset creation.",
+    "information": "Capital Outlay for 2026-27 is ₹39,377.06 crore, representing direct investment in infrastructure and asset creation. Note: Total Capital Expenditure is ₹63,455.84 crore (includes loans & advances). Scheme Expenditure is ₹1,22,155 crore.",
     "tags": ""
   },
   {
-    "qid": "Q02192",
-    "question": "Interest payment constitutes what percentage of total Revenue Receipts?",
-    "answer": "8.89 percent",
+    "qid": "Q02853",
+    "question": "Interest payments constitute what percentage of total Revenue Receipts in Bihar Budget 2026-27?",
+    "answer": "8.89%",
     "choices": [
-      "8.89 percent",
-      "9.89 percent",
-      "5.89 percent",
-      "7.89 percent"
+      "8.89%",
+      "9.89%",
+      "5.89%",
+      "7.89%"
     ],
-    "information": "According to Bihar Budget 2026-27, Interest payments are 8.89% of revenue receipts.",
+    "information": "Interest payments are 8.89% of revenue receipts in Bihar Budget 2026-27. A high interest burden limits developmental spending capacity — this is one of Bihar's key fiscal challenges.",
     "tags": ""
   },
   {
-    "qid": "Q02193",
-    "question": "Which department has the highest total expenditure share in Bihar Budget 2026-27?",
-    "answer": "Education",
-    "choices": [
-      "Education",
-      "Health",
-      "Rural Development",
-      "Urban Development and Housing"
-    ],
-    "information": "Education accounts for ₹60,204.61 crore (17.32%), the largest share, showing priority on human capital.",
-    "tags": ""
-  },
-  {
-    "qid": "Q02194",
-    "question": "Bihar is the first state to introduce which of the following?",
-    "answer": "Home delivery of seeds",
-    "choices": [
-      "Home delivery of seeds",
-      "Online Mandi system",
-      "AI-based farming",
-      "Drone Irrigation"
-    ],
-    "information": "Bihar became the first state to provide home delivery of seeds via Bihar Rajya Beej Nigam Ltd.",
-    "tags": ""
-  },
-  {
-    "qid": "Q02195",
-    "question": "What is the per capita energy consumption in Bihar?",
+    "qid": "Q02854",
+    "question": "What is the per capita energy consumption in Bihar as per Economic Survey 2025-26?",
     "answer": "374 kWh",
     "choices": [
       "374 kWh",
@@ -516,12 +542,12 @@
       "674 kWh",
       "274 kWh"
     ],
-    "information": "Per capita consumption is 374 kWh, which is relatively low compared to national average.",
+    "information": "Per capita energy consumption in Bihar increased to 374 kWh as per ES 2025-26. This is significantly below the national average, indicating low industrial activity and electrification challenges.",
     "tags": ""
   },
   {
-    "qid": "Q02196",
-    "question": "Which sector has the highest share in power demand?",
+    "qid": "Q02855",
+    "question": "Which sector has the highest share in power demand in Bihar?",
     "answer": "Domestic",
     "choices": [
       "Domestic",
@@ -529,12 +555,12 @@
       "Agricultural",
       "Industrial"
     ],
-    "information": "Domestic demand (47.78%) is highest, reflecting consumption-driven demand.",
+    "information": "Domestic sector accounts for 47.78% of Bihar's total power demand — the highest share. This reflects Bihar's consumption-driven demand structure rather than industrial or agricultural use.",
     "tags": ""
   },
   {
-    "qid": "Q02197",
-    "question": "Which source contributes the most to Bihar’s power capacity?",
+    "qid": "Q02856",
+    "question": "Which source contributes the most to Bihar's installed power capacity?",
     "answer": "Thermal",
     "choices": [
       "Thermal",
@@ -542,20 +568,20 @@
       "Wind",
       "Hydro"
     ],
-    "information": "Thermal power (7,743 MW) is the backbone of Bihar’s energy sector.",
+    "information": "Thermal power (approximately 7,743 MW) is the dominant source of Bihar's power capacity. As of April-September 2025, Bihar's total installed capacity was 8,339.08 MW (including central, state and private utilities).",
     "tags": ""
   },
   {
-    "qid": "Q02198",
-    "question": "What is the Credit-Deposit (CD) ratio of Bihar?",
-    "answer": "53.50 percent",
+    "qid": "Q02857",
+    "question": "What is the Credit-Deposit (CD) ratio of Bihar as per Economic Survey 2024-25?",
+    "answer": "56.3%",
     "choices": [
-      "53.50 percent",
-      "63.50 percent",
-      "50 percent",
-      "30.50 percent"
+      "56.3%",
+      "63.50%",
+      "50%",
+      "53.50%"
     ],
-    "information": "The CD ratio is 53.5%, indicating moderate credit utilisation compared to deposits.",
+    "information": "As per Economic Survey 2024-25, total deposits in Bihar stood at ₹5.27 lakh crore, with ₹2.97 lakh crore disbursed as loans — giving a CD ratio of 56.3%. Note: An earlier figure of 53.5% has been superseded by the latest survey data.",
     "tags": ""
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "qid": "Q01780",
+    "qid": "Q01870",
     "question": "When is World Earth Day celebrated",
     "answer": "22nd April",
     "choices": [
@@ -13,7 +13,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01781",
+    "qid": "Q01871",
     "question": "When is World Environment Day celebrated?",
     "answer": "5th June",
     "choices": [
@@ -26,7 +26,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01782",
+    "qid": "Q01872",
     "question": "Who is considered the founder of ISRO?",
     "answer": "Dr Vikram Sarabhai",
     "choices": [
@@ -39,7 +39,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01783",
+    "qid": "Q01873",
     "question": "Where is the headquarters of ISRO located?",
     "answer": "Bengaluru",
     "choices": [
@@ -52,7 +52,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01784",
+    "qid": "Q01874",
     "question": "Name the first President of India",
     "answer": "Rajendra Prasad",
     "choices": [
@@ -65,7 +65,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01785",
+    "qid": "Q01875",
     "question": "Name the first female President of India",
     "answer": "Pratibha Patil",
     "choices": [
@@ -78,7 +78,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01786",
+    "qid": "Q01876",
     "question": "Name the first President of India belonging to minority religon",
     "answer": "Zakir Hussain",
     "choices": [
@@ -91,7 +91,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01787",
+    "qid": "Q01877",
     "question": "Name the first President of India belonging to tribal community",
     "answer": "Draupadi Murmu",
     "choices": [
@@ -104,7 +104,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01788",
+    "qid": "Q01878",
     "question": "Name the longest serving president of India till now?",
     "answer": "Rajendra Prasad",
     "choices": [
@@ -117,7 +117,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01789",
+    "qid": "Q01879",
     "question": "When is National Space Day celebrated in India?",
     "answer": "23rd August",
     "choices": [
@@ -130,7 +130,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01790",
+    "qid": "Q01880",
     "question": "Which mission's successful landing on the lunar south pole led to the declaration of National Space Day?",
     "answer": "Chandrayaan-3",
     "choices": [
@@ -143,7 +143,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01791",
+    "qid": "Q01881",
     "question": "The landing site of the Chandrayaan-3 lander has been named:",
     "answer": "Shiv Shakti Point",
     "choices": [
@@ -156,7 +156,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01792",
+    "qid": "Q01882",
     "question": "What was the name of the lander in the Chandrayaan-3 mission?",
     "answer": "Vikram",
     "choices": [
@@ -169,7 +169,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01793",
+    "qid": "Q01883",
     "question": "What is the name of the rover that was deployed from the Chandrayaan-3 lander?",
     "answer": "Pragyan",
     "choices": [
@@ -182,7 +182,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01794",
+    "qid": "Q01884",
     "question": "Which country became the first to successfully land a spacecraft on the lunar south pole?",
     "answer": "India",
     "choices": [
@@ -195,7 +195,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01795",
+    "qid": "Q01885",
     "question": "The headquarters of International Court of Justice is situated at",
     "answer": "The Hague, Netherland",
     "choices": [
@@ -208,7 +208,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01796",
+    "qid": "Q01886",
     "question": "Border Security Force came into existence in",
     "answer": "1965",
     "choices": [
@@ -221,7 +221,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01797",
+    "qid": "Q01887",
     "question": "Montesquieu proposed a division of powers within the government between legislature, executive, and judiciary in which of the following books by him?",
     "answer": "The Spirit of the Laws",
     "choices": [
@@ -234,7 +234,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01798",
+    "qid": "Q01888",
     "question": "Who wrote our national song Vande Mataram?",
     "answer": "Bankim Chandra Chattopadhyay",
     "choices": [
@@ -247,7 +247,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01799",
+    "qid": "Q01889",
     "question": "Who wrote our National Anthem?",
     "answer": "Rabindranath Thakur",
     "choices": [
@@ -260,7 +260,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01800",
+    "qid": "Q01890",
     "question": "Which of Bankim Chandra Chattopadhyay's novels contains original version of our National Song - Vande Mataram?",
     "answer": "Anandamath",
     "choices": [
@@ -273,7 +273,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01801",
+    "qid": "Q01891",
     "question": "How many Indian Languages are accorded the satus of Classical Language?",
     "answer": "Eleven",
     "choices": [
@@ -286,7 +286,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01802",
+    "qid": "Q01892",
     "question": "Which of the following was not established on 1st January?",
     "answer": "World Health Organisation (WHO)",
     "choices": [
@@ -299,7 +299,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01803",
+    "qid": "Q01893",
     "question": "Which Indian organisation, established on 1 January 1851, is one of the oldest scientific institutions in the world?",
     "answer": "Geological Survey of India",
     "choices": [
@@ -312,7 +312,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01804",
+    "qid": "Q01894",
     "question": "Which is the first country in the world to celebrate New Year?",
     "answer": "Kiribati",
     "choices": [
@@ -325,7 +325,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01805",
+    "qid": "Q01895",
     "question": "Which time zone is the first to enter the New Year?",
     "answer": "UTC +14",
     "choices": [
@@ -338,7 +338,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01806",
+    "qid": "Q01896",
     "question": "Which place celebrates New Year last?",
     "answer": "Howland and Baker Islands",
     "choices": [
@@ -351,7 +351,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01807",
+    "qid": "Q01897",
     "question": "The Gregorian Calendar was introduced by",
     "answer": "Pope Gregory XIII",
     "choices": [
@@ -364,7 +364,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01808",
+    "qid": "Q01898",
     "question": "The Gregorian Calendar was introduced in the year",
     "answer": "1582 CE",
     "choices": [
@@ -377,7 +377,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01809",
+    "qid": "Q01899",
     "question": "The headquarters of the European Central Bank, which manages monetary policy for the Eurozone, is located in which city?",
     "answer": "Frankfurt am Main",
     "choices": [
@@ -390,7 +390,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01810",
+    "qid": "Q01900",
     "question": "Which specific region is historically and geographically referred to as the 'Rice Bowl of India'?",
     "answer": "Krishna-Godavari Delta",
     "choices": [
@@ -403,7 +403,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01811",
+    "qid": "Q01901",
     "question": "Which Indian state is often called the 'Bowl of Rice' (Dhan ka Katora) due to its vast diversity of traditional rice varieties (over 20,000)?",
     "answer": "Chhattisgarh",
     "choices": [
@@ -416,7 +416,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01812",
+    "qid": "Q01902",
     "question": "Which Indian city is the permanent host of the 'WHO Global Centre for Traditional Medicine' (GCTM)?",
     "answer": "Jamnagar",
     "choices": [
@@ -429,7 +429,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01813",
+    "qid": "Q01903",
     "question": "The Kimberley Process Certification Scheme (KPCS) primarily aims to",
     "answer": "Prevent trade in conflict diamonds that finance armed conflicts",
     "choices": [
@@ -442,7 +442,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01814",
+    "qid": "Q01904",
     "question": "How many Under-19 World Cup titles has India won with their 2026 victory?",
     "answer": "Six",
     "choices": [

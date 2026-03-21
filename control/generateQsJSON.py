@@ -165,7 +165,14 @@ def mode_convert():
 
             def cell(col):
                 v = ws.cell(row, col_map.get(col, 0)).value if col_map.get(col) else None
-                return str(v).strip() if v is not None else ''
+                if v is None:
+                    return ''
+                # Fix 1: whole numbers stored as floats (943.0 → "943")
+                if isinstance(v, float) and v == int(v):
+                    v = int(v)
+                # Fix 2: Excel %-formatted cells stored as decimals (0.7404 → keep as-is,
+                # but warn — you can't auto-detect intent. Best fix is to type % as text in Excel.)
+                return str(v).strip()
 
             question = cell('Question')
             answer   = cell('Answer')

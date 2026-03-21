@@ -1,6 +1,6 @@
 [
   {
-    "qid": "Q01815",
+    "qid": "Q02059",
     "question": "Bihar State Formation Day",
     "answer": "22nd March 1912",
     "choices": [
@@ -13,7 +13,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01816",
+    "qid": "Q02060",
     "question": "North most latitude of Bihar",
     "answer": "27 deg 31 min 15 sec N",
     "choices": [
@@ -26,7 +26,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01817",
+    "qid": "Q02061",
     "question": "South most latitude of Bihar",
     "answer": "24 deg 20 min 10 sec N",
     "choices": [
@@ -39,7 +39,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01818",
+    "qid": "Q02062",
     "question": "East most longitude of Bihar",
     "answer": "88 deg 17 min 40 sec E",
     "choices": [
@@ -52,7 +52,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01819",
+    "qid": "Q02063",
     "question": "West most longitude of Bihar",
     "answer": "83 deg 19 min 50 sec E",
     "choices": [
@@ -65,7 +65,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01820",
+    "qid": "Q02064",
     "question": "North-South extent of Bihar",
     "answer": "345 km",
     "choices": [
@@ -78,7 +78,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01821",
+    "qid": "Q02065",
     "question": "East-West extent of Bihar",
     "answer": "483 km",
     "choices": [
@@ -91,7 +91,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01822",
+    "qid": "Q02066",
     "question": "Total area of Bihar",
     "answer": "94,163 sq km",
     "choices": [
@@ -104,7 +104,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01823",
+    "qid": "Q02067",
     "question": "Area of Bihar compared to area of India",
     "answer": "2.86 percent",
     "choices": [
@@ -117,7 +117,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01824",
+    "qid": "Q02068",
     "question": "Height of Bihar above mean sea-level in feet",
     "answer": "173 ft",
     "choices": [
@@ -130,7 +130,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01825",
+    "qid": "Q02069",
     "question": "Height of Bihar above mean sea-level in meters",
     "answer": "53 m",
     "choices": [
@@ -143,7 +143,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01826",
+    "qid": "Q02070",
     "question": "Total number of Divisions in Bihar",
     "answer": "9",
     "choices": [
@@ -156,7 +156,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01827",
+    "qid": "Q02071",
     "question": "Total number of Districts in Bihar",
     "answer": "38",
     "choices": [
@@ -169,7 +169,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01828",
+    "qid": "Q02072",
     "question": "Total number of Sub-Divisions in Bihar",
     "answer": "101",
     "choices": [
@@ -182,7 +182,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01829",
+    "qid": "Q02073",
     "question": "Total number of Blocks in Bihar",
     "answer": "534",
     "choices": [
@@ -195,7 +195,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01830",
+    "qid": "Q02074",
     "question": "Total number of Panchayat in Bihar",
     "answer": "8406",
     "choices": [
@@ -208,7 +208,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01831",
+    "qid": "Q02075",
     "question": "How many district of Bihar shares international boundary with Nepal",
     "answer": "7",
     "choices": [
@@ -221,7 +221,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01832",
+    "qid": "Q02076",
     "question": "Northern-most district of Bihar",
     "answer": "West Champaran",
     "choices": [
@@ -234,7 +234,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01833",
+    "qid": "Q02077",
     "question": "Southern-most district of Bihar",
     "answer": "Gaya",
     "choices": [
@@ -247,7 +247,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01834",
+    "qid": "Q02078",
     "question": "Eastern-most district of Bihar",
     "answer": "Kishanganj",
     "choices": [
@@ -260,7 +260,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01835",
+    "qid": "Q02079",
     "question": "Western-most district of Bihar",
     "answer": "Kaimur",
     "choices": [
@@ -273,7 +273,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01836",
+    "qid": "Q02080",
     "question": "Area wise largest district of Bihar",
     "answer": "West Champaran",
     "choices": [
@@ -286,7 +286,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01837",
+    "qid": "Q02081",
     "question": "Area wise smallest district of Bihar",
     "answer": "Sheohar",
     "choices": [
@@ -299,7 +299,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01838",
+    "qid": "Q02082",
     "question": "District with highest rainfall in Bihar",
     "answer": "Kishanganj",
     "choices": [
@@ -312,7 +312,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01839",
+    "qid": "Q02083",
     "question": "District with least rainfall in Bihar",
     "answer": "Kaimur",
     "choices": [
@@ -325,7 +325,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01840",
+    "qid": "Q02084",
     "question": "Average number of rainy days in Bihar in a year",
     "answer": "52.5 days",
     "choices": [
@@ -338,7 +338,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01841",
+    "qid": "Q02085",
     "question": "Official language of Bihar",
     "answer": "Hindi",
     "choices": [
@@ -351,7 +351,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01842",
+    "qid": "Q02086",
     "question": "In which constitutional amendment Maithili was included in the 8th Schedule of Constitution",
     "answer": "92nd",
     "choices": [
@@ -364,7 +364,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01843",
+    "qid": "Q02087",
     "question": "What is the population percentage of Bihar compared to India according to Census 2011",
     "answer": "8.6 percent",
     "choices": [
@@ -377,7 +377,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01844",
+    "qid": "Q02088",
     "question": "What is the population percentage density of Bihar according to Census 2011",
     "answer": "1,106 person per sq km",
     "choices": [
@@ -390,7 +390,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01845",
+    "qid": "Q02089",
     "question": "District with highest population density in Bihar",
     "answer": "Sheohar",
     "choices": [
@@ -403,7 +403,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01846",
+    "qid": "Q02090",
     "question": "District with least population density in Bihar",
     "answer": "Kaimur",
     "choices": [
@@ -416,7 +416,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01847",
+    "qid": "Q02091",
     "question": "Most populated district of Bihar",
     "answer": "Patna",
     "choices": [
@@ -429,7 +429,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01848",
+    "qid": "Q02092",
     "question": "Least populated district of Bihar",
     "answer": "Sheikhpura",
     "choices": [
@@ -442,7 +442,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01849",
+    "qid": "Q02093",
     "question": "Sex Ratio of Bihar according to Census 2011",
     "answer": "918",
     "choices": [
@@ -455,7 +455,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01850",
+    "qid": "Q02094",
     "question": "Child Sex Ratio of Bihar according to Census 2011",
     "answer": "935",
     "choices": [
@@ -468,7 +468,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01851",
+    "qid": "Q02095",
     "question": "District with highest sex ratio in Bihar",
     "answer": "Gopalganj",
     "choices": [
@@ -481,7 +481,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01852",
+    "qid": "Q02096",
     "question": "District with least sex ratio in Bihar",
     "answer": "Munger",
     "choices": [
@@ -494,7 +494,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01853",
+    "qid": "Q02097",
     "question": "Literacy rate of Bihar according to Census 2011",
     "answer": "61.80 percent",
     "choices": [
@@ -507,7 +507,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01854",
+    "qid": "Q02098",
     "question": "District with highest literacy rate in Bihar",
     "answer": "Rohtas",
     "choices": [
@@ -520,7 +520,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01855",
+    "qid": "Q02099",
     "question": "District with lowest literacy rate in Bihar",
     "answer": "Purnea",
     "choices": [
@@ -533,7 +533,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01856",
+    "qid": "Q02100",
     "question": "What is the urbanisation rate of Bihar according to Census 2011",
     "answer": "11.29 percent",
     "choices": [
@@ -546,7 +546,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01857",
+    "qid": "Q02101",
     "question": "Most urbanised district of Bihar",
     "answer": "Patna",
     "choices": [
@@ -559,7 +559,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01858",
+    "qid": "Q02102",
     "question": "Least urbanised district of Bihar",
     "answer": "Munger",
     "choices": [
@@ -572,7 +572,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01859",
+    "qid": "Q02103",
     "question": "What is the tribal population of Bihar compared to India according to Census 2011",
     "answer": "1.30 percent",
     "choices": [
@@ -585,7 +585,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01860",
+    "qid": "Q02104",
     "question": "What is the tribal population of Bihar compared to India according to Caste Survey 2022",
     "answer": "1.68 percent",
     "choices": [
@@ -598,7 +598,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01861",
+    "qid": "Q02105",
     "question": "Rank of Bihar among all state & UTs of India in terms of Population",
     "answer": "3rd",
     "choices": [
@@ -611,7 +611,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01862",
+    "qid": "Q02106",
     "question": "Rank of Bihar among all state & UTs of India in terms of Area",
     "answer": "12th",
     "choices": [
@@ -624,7 +624,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01863",
+    "qid": "Q02107",
     "question": "Decadal population growth of Bihar till 2011",
     "answer": "25.42 percent",
     "choices": [
@@ -637,7 +637,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01864",
+    "qid": "Q02108",
     "question": "Total seats in Bihar Vidhan Shabha (Legislative Assembly)",
     "answer": "243",
     "choices": [
@@ -650,7 +650,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01865",
+    "qid": "Q02109",
     "question": "Total seats in Bihar Vidhan Parishad (Legislative Council)",
     "answer": "75",
     "choices": [
@@ -663,7 +663,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01866",
+    "qid": "Q02110",
     "question": "Total Lok Shabha seats from Bihar",
     "answer": "40",
     "choices": [
@@ -676,7 +676,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01867",
+    "qid": "Q02111",
     "question": "Total Rajya Shabha seats from Bihar",
     "answer": "16",
     "choices": [
@@ -689,7 +689,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01868",
+    "qid": "Q02112",
     "question": "Who was the first Governor of Bihar post independence",
     "answer": "Shri Jairam Daulatram",
     "choices": [
@@ -702,7 +702,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01869",
+    "qid": "Q02113",
     "question": "Who was the first Chief Minister of Bihar",
     "answer": "Shri Krishna Sinha",
     "choices": [
@@ -715,7 +715,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01870",
+    "qid": "Q02114",
     "question": "In which district of Bihar Dharwad period rocks are found",
     "answer": "All of these",
     "choices": [
@@ -728,7 +728,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01871",
+    "qid": "Q02115",
     "question": "In which district of Bihar Vindhyan series rocks are found",
     "answer": "Kaimur & Rohtas",
     "choices": [
@@ -741,7 +741,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01872",
+    "qid": "Q02116",
     "question": "When were rocks of Vindhyan series formed",
     "answer": "Pre-Cambrian Period",
     "choices": [
@@ -754,7 +754,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01873",
+    "qid": "Q02117",
     "question": "When were rocks of Dharwad series formed",
     "answer": "Archeon",
     "choices": [
@@ -767,7 +767,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01874",
+    "qid": "Q02118",
     "question": "Tertiary rocks are found in which Himalayan series",
     "answer": "Shivalik",
     "choices": [
@@ -780,7 +780,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01875",
+    "qid": "Q02119",
     "question": "The Kaimur or Rohtas plateau is part of",
     "answer": "Vindhya",
     "choices": [
@@ -793,7 +793,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01876",
+    "qid": "Q02120",
     "question": "Kaimur plateau is seperated from Chhota-Nagpur plateau by which river",
     "answer": "Son",
     "choices": [
@@ -806,7 +806,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01877",
+    "qid": "Q02121",
     "question": "New Alluvium soil is also known as",
     "answer": "Khadar",
     "choices": [
@@ -819,7 +819,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01878",
+    "qid": "Q02122",
     "question": "Terai Soil is found along which border of Bihar",
     "answer": "Northern",
     "choices": [
@@ -832,7 +832,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01879",
+    "qid": "Q02123",
     "question": "Peidmont Swamp soil is found in which district of Bihar",
     "answer": "West Champaran",
     "choices": [
@@ -845,7 +845,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01880",
+    "qid": "Q02124",
     "question": "What do we extract from Pyrite mineral",
     "answer": "Sulphur",
     "choices": [
@@ -858,7 +858,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01881",
+    "qid": "Q02125",
     "question": "Pyrite is mainly found in which district of Bihar",
     "answer": "Rohtas",
     "choices": [
@@ -871,7 +871,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01882",
+    "qid": "Q02126",
     "question": "Which mineral is also known as Fool's Gold",
     "answer": "Pyrite",
     "choices": [
@@ -884,7 +884,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01883",
+    "qid": "Q02127",
     "question": "Where is Gold reserve of Bihar",
     "answer": "Jamui",
     "choices": [
@@ -897,7 +897,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01884",
+    "qid": "Q02128",
     "question": "According to Koppen climate classification, Bihar falls under which category",
     "answer": "Cwa",
     "choices": [
@@ -910,7 +910,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01885",
+    "qid": "Q02129",
     "question": "The most famous river for changing its route in Bihar is",
     "answer": "Kosi",
     "choices": [
@@ -923,7 +923,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01886",
+    "qid": "Q02130",
     "question": "Which river flows from west to east in the middle of Bihar",
     "answer": "Ganga",
     "choices": [
@@ -936,7 +936,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01887",
+    "qid": "Q02131",
     "question": "State the total length of Ganga in kms",
     "answer": "2525 km",
     "choices": [
@@ -949,7 +949,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01888",
+    "qid": "Q02132",
     "question": "What is the length of Ganga within territory of Bihar",
     "answer": "445 km",
     "choices": [
@@ -962,7 +962,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01889",
+    "qid": "Q02133",
     "question": "Where is the origin of the river Ganga",
     "answer": "Uttrakhand",
     "choices": [
@@ -975,7 +975,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01890",
+    "qid": "Q02134",
     "question": "Ganga river first enters in which district of Bihar from Uttar Pradesh",
     "answer": "Buxar",
     "choices": [
@@ -988,7 +988,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01891",
+    "qid": "Q02135",
     "question": "Which of the following rivers decide the borders of Bihar and Uttar Pradesh",
     "answer": "All of these",
     "choices": [
@@ -1001,7 +1001,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01892",
+    "qid": "Q02136",
     "question": "The river Ganga touches how many districts of Bihar",
     "answer": "12",
     "choices": [
@@ -1014,7 +1014,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01893",
+    "qid": "Q02137",
     "question": "Which district of Bihar touches the river Ganga the longest",
     "answer": "Patna",
     "choices": [
@@ -1027,7 +1027,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01894",
+    "qid": "Q02138",
     "question": "The river Ganga terminates in",
     "answer": "Bay of Bengal",
     "choices": [
@@ -1040,7 +1040,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01895",
+    "qid": "Q02139",
     "question": "Which river enters into Ganga 10 kms away from Danapur near west Maner",
     "answer": "Son",
     "choices": [
@@ -1053,7 +1053,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01896",
+    "qid": "Q02140",
     "question": "Origin of river Ghagra",
     "answer": "Nepal",
     "choices": [
@@ -1066,7 +1066,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01897",
+    "qid": "Q02141",
     "question": "Which of the following rivers is also known as Saryu",
     "answer": "Ghaghra",
     "choices": [
@@ -1079,7 +1079,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01898",
+    "qid": "Q02142",
     "question": "Ghaghra river merges with Ganga in which district of Bihar",
     "answer": "Saran",
     "choices": [
@@ -1092,7 +1092,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01899",
+    "qid": "Q02143",
     "question": "The river Gandak enters in which district of Bihar first",
     "answer": "West Champaran",
     "choices": [
@@ -1105,7 +1105,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01900",
+    "qid": "Q02144",
     "question": "In which district Valmiki Nagar Barrage has been built",
     "answer": "West Champaran",
     "choices": [
@@ -1118,7 +1118,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01901",
+    "qid": "Q02145",
     "question": "Valmiki Nagar Barrage is built upon which river",
     "answer": "Gandak",
     "choices": [
@@ -1131,7 +1131,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01902",
+    "qid": "Q02146",
     "question": "Name of the world famous fair held at the confluence of Gandak river",
     "answer": "Harihar Kshetra Mela",
     "choices": [
@@ -1144,7 +1144,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01903",
+    "qid": "Q02147",
     "question": "World's largest cattle fair is organised at confluence of which river",
     "answer": "Gandak",
     "choices": [
@@ -1157,7 +1157,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01904",
+    "qid": "Q02148",
     "question": "Which river flows in the eastern part parallel to the river Gandak",
     "answer": "Budhi Gandak",
     "choices": [
@@ -1170,7 +1170,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01905",
+    "qid": "Q02149",
     "question": "Which river has it's origin in Chautarva Chaur near Vishambharpur under Someshwar series hills",
     "answer": "Budhi Gandak",
     "choices": [
@@ -1183,7 +1183,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01906",
+    "qid": "Q02150",
     "question": "Which of the following rivers has shifted 150 kms from east to west in the last 200 years",
     "answer": "Kosi",
     "choices": [
@@ -1196,7 +1196,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01907",
+    "qid": "Q02151",
     "question": "At which place the river Kosi forms a delta before merging with river Ganga",
     "answer": "Kursela",
     "choices": [
@@ -1209,7 +1209,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01908",
+    "qid": "Q02152",
     "question": "Which of the following is the major tributary of Budhi-Gandak",
     "answer": "Bagmati",
     "choices": [
@@ -1222,7 +1222,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01909",
+    "qid": "Q02153",
     "question": "The origin of Bagmati has occurred in Nepal from which mountain range",
     "answer": "Mahabharat",
     "choices": [
@@ -1235,7 +1235,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01910",
+    "qid": "Q02154",
     "question": "Which river enters in Terai area after passing through Mahabharat range in Nepal",
     "answer": "Budhi-Gandak",
     "choices": [
@@ -1248,7 +1248,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01911",
+    "qid": "Q02155",
     "question": "Ancient name of river Kosi",
     "answer": "Kaushiki",
     "choices": [
@@ -1261,7 +1261,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01912",
+    "qid": "Q02156",
     "question": "All the seven currents of Kosi merge at which place where it also known as Sapta Kosi",
     "answer": "Triveni (Nepal)",
     "choices": [
@@ -1274,7 +1274,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01913",
+    "qid": "Q02157",
     "question": "Which of the following river is also known as Bihar ka shok",
     "answer": "Kosi",
     "choices": [
@@ -1287,7 +1287,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01914",
+    "qid": "Q02158",
     "question": "Mount Everest and Kanchenjunga falls under catchement area of which river",
     "answer": "Kosi",
     "choices": [
@@ -1300,7 +1300,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01915",
+    "qid": "Q02159",
     "question": "Which of the following rivers is a river of the east following through North Bihar",
     "answer": "Mahananda",
     "choices": [
@@ -1313,7 +1313,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01916",
+    "qid": "Q02160",
     "question": "Which river determines the borders of Bengal & Bihar",
     "answer": "Mahananda",
     "choices": [
@@ -1326,7 +1326,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01917",
+    "qid": "Q02161",
     "question": "Origin of which river lies in Amarkantak in Madhya Pradesh",
     "answer": "Son",
     "choices": [
@@ -1339,7 +1339,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01918",
+    "qid": "Q02162",
     "question": "Which river is the longest flowing tributary of the Ganga in Southern Bihar",
     "answer": "Son",
     "choices": [
@@ -1352,7 +1352,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01919",
+    "qid": "Q02163",
     "question": "Son river first enters in which district of Bihar",
     "answer": "Rohtas",
     "choices": [
@@ -1365,7 +1365,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01920",
+    "qid": "Q02164",
     "question": "On which of the following rivers Indrapuri Barrage is located",
     "answer": "Son",
     "choices": [
@@ -1378,7 +1378,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01921",
+    "qid": "Q02165",
     "question": "On the riverbed of which of the following rivers, Gautam Buddha attained awakening",
     "answer": "Falgu",
     "choices": [
@@ -1391,7 +1391,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01922",
+    "qid": "Q02166",
     "question": "Where in Bihar, Pitrapaksha Mela is held",
     "answer": "Gaya",
     "choices": [
@@ -1404,7 +1404,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01923",
+    "qid": "Q02167",
     "question": "In which of the following rivers, the ritual of Pind-dan is performed",
     "answer": "Falgu",
     "choices": [
@@ -1417,7 +1417,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01924",
+    "qid": "Q02168",
     "question": "Which river gets divided in two parts in Jehanabad district near Barabar Hills",
     "answer": "Falgu",
     "choices": [
@@ -1430,7 +1430,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01925",
+    "qid": "Q02169",
     "question": "Origin of the river Punpun",
     "answer": "Chhota-Nagpur Plataeu",
     "choices": [
@@ -1443,7 +1443,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01926",
+    "qid": "Q02170",
     "question": "At which place Punpun river merges with Ganga",
     "answer": "Fatuha",
     "choices": [
@@ -1456,7 +1456,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01927",
+    "qid": "Q02171",
     "question": "Which river has its ancient name as Hiranyavah",
     "answer": "Son",
     "choices": [
@@ -1469,7 +1469,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01928",
+    "qid": "Q02172",
     "question": "Which art form of Bihar has a sequential representation of stories, hence also known as scroll painting",
     "answer": "Manjusha Art",
     "choices": [
@@ -1482,7 +1482,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01929",
+    "qid": "Q02173",
     "question": "Bihula-Bishahari Gatha is related to with art form of Bihar",
     "answer": "Manjusha Art",
     "choices": [
@@ -1495,7 +1495,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01930",
+    "qid": "Q02174",
     "question": "Origin of Manjusha Art",
     "answer": "Bhagalpur",
     "choices": [
@@ -1508,7 +1508,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01931",
+    "qid": "Q02175",
     "question": "Origin of Tikuli Art",
     "answer": "Patna",
     "choices": [
@@ -1521,7 +1521,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01932",
+    "qid": "Q02176",
     "question": "Which art form is also know as Firangi Kalam or as the white man's art",
     "answer": "Patna Kalam",
     "choices": [
@@ -1534,7 +1534,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01933",
+    "qid": "Q02177",
     "question": "The subject of these paintings were common man and their mundane routines, name the art form",
     "answer": "Patna Kalam",
     "choices": [
@@ -1547,7 +1547,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01934",
+    "qid": "Q02178",
     "question": "Where is Kakolat Waterfall located in Bihar",
     "answer": "Nawada",
     "choices": [
@@ -1560,7 +1560,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01935",
+    "qid": "Q02179",
     "question": "Where is Tutla Bhawani Waterfall located in Bihar",
     "answer": "Rohtas",
     "choices": [
@@ -1573,7 +1573,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01936",
+    "qid": "Q02180",
     "question": "Where is Telhar Kund Waterfall located in Bihar",
     "answer": "Kaimur",
     "choices": [
@@ -1586,7 +1586,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01937",
+    "qid": "Q02181",
     "question": "Where is Karakat Waterfall located in Bihar",
     "answer": "Kaimur",
     "choices": [
@@ -1599,7 +1599,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01938",
+    "qid": "Q02182",
     "question": "Where is Manjhar Kund located in Bihar",
     "answer": "Rohtas",
     "choices": [
@@ -1612,7 +1612,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01939",
+    "qid": "Q02183",
     "question": "Where is Dhua Kund located in Bihar",
     "answer": "Rohtas",
     "choices": [
@@ -1625,7 +1625,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01940",
+    "qid": "Q02184",
     "question": "Where is Kanwar Lake located in Bihar",
     "answer": "Begusarai",
     "choices": [
@@ -1638,7 +1638,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01941",
+    "qid": "Q02185",
     "question": "How may Ramsar sites are there in Bihar as of 2026",
     "answer": "Six",
     "choices": [
@@ -1651,7 +1651,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01942",
+    "qid": "Q02186",
     "question": "Where is Muchalinda Lake in Bihar",
     "answer": "Bodhgaya",
     "choices": [
@@ -1664,7 +1664,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01943",
+    "qid": "Q02187",
     "question": "Where is Sarai Man Lake in Bihar",
     "answer": "West Champaran",
     "choices": [
@@ -1677,7 +1677,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01944",
+    "qid": "Q02188",
     "question": "Where is Moti Jheel located in Bihar",
     "answer": "East Champaran",
     "choices": [
@@ -1690,7 +1690,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01945",
+    "qid": "Q02189",
     "question": "Where is Pandu Pokhar located in Bihar",
     "answer": "Rajgir",
     "choices": [
@@ -1703,7 +1703,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01946",
+    "qid": "Q02190",
     "question": "Where is Ghorakatora Lake located in Bihar",
     "answer": "Rajgir",
     "choices": [
@@ -1716,7 +1716,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01947",
+    "qid": "Q02191",
     "question": "Which type of forest is found in Bihar",
     "answer": "Moist Deciduos",
     "choices": [
@@ -1729,7 +1729,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01948",
+    "qid": "Q02192",
     "question": "Which is most abundantly found in forests of Bihar",
     "answer": "Sal",
     "choices": [
@@ -1742,7 +1742,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01949",
+    "qid": "Q02193",
     "question": "How much is the natural forest cover in Bihar",
     "answer": "7.27 percent",
     "choices": [
@@ -1755,7 +1755,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01950",
+    "qid": "Q02194",
     "question": "How many National Parks are there in Bihar",
     "answer": "One",
     "choices": [
@@ -1768,7 +1768,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01951",
+    "qid": "Q02195",
     "question": "Valmiki National Park is located in",
     "answer": "West Champaran",
     "choices": [
@@ -1781,7 +1781,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01952",
+    "qid": "Q02196",
     "question": "Vikramshila Gangetic Dolphin Wildlife Sanctuary is located in",
     "answer": "Bhagalpur",
     "choices": [
@@ -1794,7 +1794,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01953",
+    "qid": "Q02197",
     "question": "Where is Bhimbandh Wildlife Sanctuary located in Bihar",
     "answer": "Munger",
     "choices": [
@@ -1807,7 +1807,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01954",
+    "qid": "Q02198",
     "question": "Where is Gautam Buddha Wildlife Sanctuary located in Bihar",
     "answer": "Gaya",
     "choices": [
@@ -1820,7 +1820,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01955",
+    "qid": "Q02199",
     "question": "Where is Udaypur Wildlife Sanctuary located in Bihar",
     "answer": "West Champaran",
     "choices": [
@@ -1833,7 +1833,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01956",
+    "qid": "Q02200",
     "question": "Where is Nakti Dam located in Bihar",
     "answer": "Jamui",
     "choices": [
@@ -1846,7 +1846,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01957",
+    "qid": "Q02201",
     "question": "Where is Nagi Dam located in Bihar",
     "answer": "Jamui",
     "choices": [
@@ -1859,7 +1859,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01958",
+    "qid": "Q02202",
     "question": "The name of the Hindi weekly which was the mouthpiece of the agrarian and peasant movements in Bihar in 1940 was",
     "answer": "Hunkar",
     "choices": [
@@ -1872,7 +1872,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01959",
+    "qid": "Q02203",
     "question": "Who was author of Hunkar - a Hindi weekly voicing for peasants in Bihar",
     "answer": "Swami Sahajanand Saraswati",
     "choices": [
@@ -1885,7 +1885,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01960",
+    "qid": "Q02204",
     "question": "Who was the first provisional premier of Bihar under Provincial Autonomy in 1937",
     "answer": "Mohammad Yunus",
     "choices": [
@@ -1898,7 +1898,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01961",
+    "qid": "Q02205",
     "question": "Who was the first premier of Bihar under Provincial Autonomy in 1937",
     "answer": "Shri Krishna Sinha",
     "choices": [
@@ -1911,7 +1911,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01962",
+    "qid": "Q02206",
     "question": "The first Indian National Congress session in Bihar after bcoming a separate province was held in",
     "answer": "Patna, 1912",
     "choices": [
@@ -1924,7 +1924,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01963",
+    "qid": "Q02207",
     "question": "The Indian National Congress Session of 1922 was held at which place in Bihar?",
     "answer": "Gaya",
     "choices": [
@@ -1937,7 +1937,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01964",
+    "qid": "Q02208",
     "question": "Who organised the Hindu Mela",
     "answer": "Nabagopal Mitra",
     "choices": [
@@ -1950,7 +1950,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01965",
+    "qid": "Q02209",
     "question": "Who was the commissioner of Patna divison during the revolt of 1857?",
     "answer": "William Taylor",
     "choices": [
@@ -1963,7 +1963,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01966",
+    "qid": "Q02210",
     "question": "Kunwar Singh returned to Jagdishpur Palace on",
     "answer": "23rd April 1858",
     "choices": [
@@ -1976,7 +1976,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01967",
+    "qid": "Q02211",
     "question": "When did Kunwar Singh, leader of revolt of 1857 in Bihar, breathed his last?",
     "answer": "26th April 1858",
     "choices": [
@@ -1989,7 +1989,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01968",
+    "qid": "Q02212",
     "question": "Veer Kunwar Singh was the king of",
     "answer": "Jagadishpur",
     "choices": [
@@ -2002,7 +2002,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01969",
+    "qid": "Q02213",
     "question": "Who fought bravely against the British troops under Brigadier Douglas on 21 April, 1858 in Bihar?",
     "answer": "Kunwar Singh",
     "choices": [
@@ -2015,7 +2015,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01970",
+    "qid": "Q02214",
     "question": "Name the revolutionary from Bihar who attended the meeting of Hindustan Socialist Republican Army in September, 1928",
     "answer": "Phanindra Nath Ghosh",
     "choices": [
@@ -2028,7 +2028,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01971",
+    "qid": "Q02215",
     "question": "Patna was made capital of his state by",
     "answer": "Shershah Suri",
     "choices": [
@@ -2041,7 +2041,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01972",
+    "qid": "Q02216",
     "question": "Who was the mentor of Birsa Munda?",
     "answer": "Anand Pandey",
     "choices": [
@@ -2054,7 +2054,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01973",
+    "qid": "Q02217",
     "question": "When was Birsa Munda born",
     "answer": "15th November 1875",
     "choices": [
@@ -2067,7 +2067,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01974",
+    "qid": "Q02218",
     "question": "Birsa Munda was captured in Chakradharpur, while asleep on",
     "answer": "3rd February 1900",
     "choices": [
@@ -2080,7 +2080,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01975",
+    "qid": "Q02219",
     "question": "Identify the region where Santhals declared their government in 1855-56",
     "answer": "Bhagalpur-Rajmahal",
     "choices": [
@@ -2093,7 +2093,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01976",
+    "qid": "Q02220",
     "question": "The Bihar Herald was started in 1872 by",
     "answer": "Babu Guru Prasad Sen",
     "choices": [
@@ -2106,7 +2106,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01977",
+    "qid": "Q02221",
     "question": "Which was the first English newspaper published from Patna?",
     "answer": "The Bihar Herald",
     "choices": [
@@ -2119,7 +2119,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01978",
+    "qid": "Q02222",
     "question": "The revolt of 1857 affected many towns of Bihar, Which of the following is the correct sequence of the occurrence of revolt in various town of Bihar?",
     "answer": "Rohini > Patna > Muzaffarpur > Jagdishpur",
     "choices": [
@@ -2132,7 +2132,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01979",
+    "qid": "Q02223",
     "question": "Which leader of Bihar along with Mahatma Gandhi led the farmer's movement?",
     "answer": "Raj Kumar Shukla",
     "choices": [
@@ -2145,7 +2145,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01980",
+    "qid": "Q02224",
     "question": "Raj Kumar Shukla was a resident of which village?",
     "answer": "Murali Bharahwa",
     "choices": [
@@ -2158,7 +2158,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01981",
+    "qid": "Q02225",
     "question": "Who highlighted the plight of the peasants of Champaran by writing psedonyms like Dukhi, Dukhi Atma, Dukhi Hriday?",
     "answer": "Pir Mohaammed Munis",
     "choices": [
@@ -2171,7 +2171,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01982",
+    "qid": "Q02226",
     "question": "Who was the author of Biography of Kunwar Singh and Amar Singh",
     "answer": "Kalikinkar Datta",
     "choices": [
@@ -2184,7 +2184,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01983",
+    "qid": "Q02227",
     "question": "Swami Sahajanand Saraswati published a magazine named",
     "answer": "Hunkar",
     "choices": [
@@ -2197,7 +2197,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01984",
+    "qid": "Q02228",
     "question": "One of the popular beliefs in Bihar during the Non-Cooperation Movement of 1920-22 was that they would be victorious because Gandhi",
     "answer": "was an accomplished politician",
     "choices": [
@@ -2210,7 +2210,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01985",
+    "qid": "Q02229",
     "question": "On which date Linlithgow ordered to fire on the mob of Patna and its surrounding during the August Revolution, 1942?",
     "answer": "11th August 1942",
     "choices": [
@@ -2223,7 +2223,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01986",
+    "qid": "Q02230",
     "question": "Dr. Rajendra Prasad, who was the first President of India, earlier held the position of",
     "answer": "Chairman of Patna Municipality",
     "choices": [
@@ -2236,7 +2236,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01987",
+    "qid": "Q02231",
     "question": "Where was the first Zila School of Bihar opened in 1835",
     "answer": "Patna",
     "choices": [
@@ -2249,7 +2249,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01988",
+    "qid": "Q02232",
     "question": "Who left Patna College with just 20 days remaining for his examination during the Non-Cooperation movement?",
     "answer": "Jai Prakash Narayan",
     "choices": [
@@ -2262,7 +2262,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01989",
+    "qid": "Q02233",
     "question": "Jubba Sahni, a freedom fighter belonged to which district of Bihar?",
     "answer": "Muzaffarpur",
     "choices": [
@@ -2275,7 +2275,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01990",
+    "qid": "Q02234",
     "question": "Who led cultivators in Bihar during the Non-Cooperation Movement?",
     "answer": "Swami Vidyanand",
     "choices": [
@@ -2288,7 +2288,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01991",
+    "qid": "Q02235",
     "question": "Who led the peasant movement in the region of Darbhanga Raj?",
     "answer": "Swami Vidyanand",
     "choices": [
@@ -2301,7 +2301,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01992",
+    "qid": "Q02236",
     "question": "During Salt Satyagraha, in Bihar, in addition to making salt, the people choose to oppose the government by opposing which tax?",
     "answer": "Chowkidari",
     "choices": [
@@ -2314,7 +2314,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01993",
+    "qid": "Q02237",
     "question": "When was the Salt Movement started in Bihar?",
     "answer": "12th March 1930",
     "choices": [
@@ -2327,7 +2327,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01994",
+    "qid": "Q02238",
     "question": "Famous sufi saint of Bihar Sharfuddin Maneri is related to which Sufi order?",
     "answer": "Firdausi",
     "choices": [
@@ -2340,7 +2340,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01995",
+    "qid": "Q02239",
     "question": "Who was the first Muslim conqueror of Bihar?",
     "answer": "Bakhtiyar Khalji",
     "choices": [
@@ -2353,7 +2353,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01996",
+    "qid": "Q02240",
     "question": "Baba Thakur Das established which society in Patna?",
     "answer": "Ramakrishna Mission Society",
     "choices": [
@@ -2366,7 +2366,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01997",
+    "qid": "Q02241",
     "question": "Who established the branch of Anushila Samiti at Patna in 1913",
     "answer": "Sachindra Nath Sanyal",
     "choices": [
@@ -2379,7 +2379,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01998",
+    "qid": "Q02242",
     "question": "Who established Swaraj Dal in Bihar",
     "answer": "Shri Krishna Sinha",
     "choices": [
@@ -2392,7 +2392,7 @@
     "tags": ""
   },
   {
-    "qid": "Q01999",
+    "qid": "Q02243",
     "question": "Bihar Congress Socialist Party was formed in",
     "answer": "1934",
     "choices": [
@@ -2405,7 +2405,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02000",
+    "qid": "Q02244",
     "question": "Bihar Socialist party was born in 1934 with its secretary",
     "answer": "Jayaprakash Narayan",
     "choices": [
@@ -2418,7 +2418,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02001",
+    "qid": "Q02245",
     "question": "Who formed the Bihar Samajwadi Party in 1931",
     "answer": "Phoolan Prasad Verma & Jayaprakash Narayan",
     "choices": [
@@ -2431,7 +2431,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02002",
+    "qid": "Q02246",
     "question": "When was Bihar Samajwadi Party formed",
     "answer": "1931",
     "choices": [
@@ -2444,7 +2444,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02003",
+    "qid": "Q02247",
     "question": "Bihar Provincial Kisan Sabha was formed in",
     "answer": "1929",
     "choices": [
@@ -2457,7 +2457,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02004",
+    "qid": "Q02248",
     "question": "Who started the Kisan Sabha Movement in Bihar in 1929?",
     "answer": "Swami Sahajanand Saraswati",
     "choices": [
@@ -2470,7 +2470,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02005",
+    "qid": "Q02249",
     "question": "Name the left-wing leader of Bihar Provincial Kisan Sabha who popularised this in Bihar?",
     "answer": "karyanand Sharma",
     "choices": [
@@ -2483,7 +2483,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02006",
+    "qid": "Q02250",
     "question": "The first Indian Ministry in Bihar in 1937 came into existence under whose leadership?",
     "answer": "Md. Yunus",
     "choices": [
@@ -2496,7 +2496,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02007",
+    "qid": "Q02251",
     "question": "The elected Government of Bihar resigned in February 1938 for which reason?",
     "answer": "For the release of political prisoners",
     "choices": [
@@ -2509,7 +2509,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02008",
+    "qid": "Q02252",
     "question": "Who led the Ambari Satyagraha in 1939 in Bihar",
     "answer": "Rahul Sankrityayan",
     "choices": [
@@ -2522,7 +2522,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02009",
+    "qid": "Q02253",
     "question": "Who among the following was the leader of the first Congress Ministry in Bihar?",
     "answer": "Shri Krishna Sinha",
     "choices": [
@@ -2535,7 +2535,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02010",
+    "qid": "Q02254",
     "question": "Gandhiji's Non-Cooperation movement urged people to avoid alcohol. This resulted in a serious loss of revenue for the government. The government of a province circulated a list of prominent individuals who drank alcohol as a device to persuade people to start drinking again. Name the province",
     "answer": "Bihar",
     "choices": [
@@ -2548,7 +2548,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02011",
+    "qid": "Q02255",
     "question": "Which of the following statement is correct about the Maharajas of Dumrao, Darbhanga and Hatwa during the revolt of 1857",
     "answer": "They helped the English with men and money",
     "choices": [
@@ -2561,7 +2561,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02012",
+    "qid": "Q02256",
     "question": "The word Bihar originally means",
     "answer": "Buddhist Monastery",
     "choices": [
@@ -2574,7 +2574,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02013",
+    "qid": "Q02257",
     "question": "According to following districts, which one has larger area under dense deciduous forest cover?",
     "answer": "Paschim Champaran",
     "choices": [
@@ -2587,7 +2587,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02014",
+    "qid": "Q02258",
     "question": "How many UNESCO World Heritage site is there in Bihar?",
     "answer": "Two",
     "choices": [
@@ -2600,7 +2600,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02015",
+    "qid": "Q02259",
     "question": "Which river divides the northern plain area of Bihar into two parts?",
     "answer": "Bagmati",
     "choices": [
@@ -2613,7 +2613,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02016",
+    "qid": "Q02260",
     "question": "Which one of the following soils in not found in the Northern Gangetic Plain of Bihar?",
     "answer": "Balthar Mitti",
     "choices": [
@@ -2626,7 +2626,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02017",
+    "qid": "Q02261",
     "question": "The most predominant type of soil found in Bihar is",
     "answer": "Alluvial Soil",
     "choices": [
@@ -2639,7 +2639,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02018",
+    "qid": "Q02262",
     "question": "Which river system is primarily responsible for the formation of the alluvial soils in Bihar?",
     "answer": "Ganga",
     "choices": [
@@ -2652,7 +2652,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02019",
+    "qid": "Q02263",
     "question": "Which district of Bihar is known for patches of laterite soil?",
     "answer": "Gaya",
     "choices": [
@@ -2665,7 +2665,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02020",
+    "qid": "Q02264",
     "question": "Red and yellow soils in Bihar are mainly found in:",
     "answer": "South Bihar Plateau region",
     "choices": [
@@ -2678,7 +2678,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02021",
+    "qid": "Q02265",
     "question": "The soil in the Kosi river basin of Bihar is often less fertile due to:",
     "answer": "Sand Deposition",
     "choices": [
@@ -2691,7 +2691,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02022",
+    "qid": "Q02266",
     "question": "The Harha Valley in Bihar lies between which two geographical features?",
     "answer": "Someshwar Range and Ramnagar Dun",
     "choices": [
@@ -2704,7 +2704,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02023",
+    "qid": "Q02267",
     "question": "The Harha Valley is also known as:",
     "answer": "Doon Valley",
     "choices": [
@@ -2717,7 +2717,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02024",
+    "qid": "Q02268",
     "question": "The Harha River is located in which physical division of Bihar?",
     "answer": "Northwestern Shivalik–Terai Region",
     "choices": [
@@ -2730,7 +2730,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02025",
+    "qid": "Q02269",
     "question": "Which of the following rivers does not make boundary between Uttar Pradesh and Bihar?",
     "answer": "Son",
     "choices": [
@@ -2743,7 +2743,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02026",
+    "qid": "Q02270",
     "question": "From which river water comes in Triveni Canal?",
     "answer": "Gandak",
     "choices": [
@@ -2756,7 +2756,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02027",
+    "qid": "Q02271",
     "question": "Where does the Budhi Gandak river meet the Ganga river?",
     "answer": "Khagaria",
     "choices": [
@@ -2769,7 +2769,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02028",
+    "qid": "Q02272",
     "question": "Mohana and Lilajan rivers are related to which river?",
     "answer": "Falgu River",
     "choices": [
@@ -2782,7 +2782,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02029",
+    "qid": "Q02273",
     "question": "With which district is Chandan river related to in Bihar?",
     "answer": "Banka",
     "choices": [
@@ -2795,7 +2795,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02030",
+    "qid": "Q02274",
     "question": "Where is Baraila Salim Ali-Zubba Sahni Bird Sanctuary located?",
     "answer": "Vaishali",
     "choices": [
@@ -2808,7 +2808,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02031",
+    "qid": "Q02275",
     "question": "When is Bihar Prithvi Divas celebrated?",
     "answer": "9th August",
     "choices": [
@@ -2821,7 +2821,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02032",
+    "qid": "Q02276",
     "question": "The Someshwar Range is a part of which major Himalayan foothills?",
     "answer": "Shiwaliks",
     "choices": [
@@ -2834,7 +2834,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02033",
+    "qid": "Q02277",
     "question": "Which district of Bihar is home to the Someshwar Range?",
     "answer": "West Champaran",
     "choices": [
@@ -2847,7 +2847,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02034",
+    "qid": "Q02278",
     "question": "What is the name of the highest peak in the Someshwar Range, which is also the highest point in Bihar?",
     "answer": "Someshwar Fort",
     "choices": [
@@ -2860,7 +2860,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02035",
+    "qid": "Q02279",
     "question": "The Someshwar Range forms a natural border between Bihar and which neighboring country?",
     "answer": "Nepal",
     "choices": [
@@ -2873,7 +2873,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02036",
+    "qid": "Q02280",
     "question": "Which river flows through the Valmiki National Park and forms the western boundary of the Valmiki Wildlife Sanctuary, located near the Sumeshwar Range?",
     "answer": "Gandak",
     "choices": [
@@ -2886,7 +2886,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02037",
+    "qid": "Q02281",
     "question": "What type of rocks primarily make up the Sumeshwar Range?",
     "answer": "Sedimentory Rocks",
     "choices": [
@@ -2899,7 +2899,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02038",
+    "qid": "Q02282",
     "question": "Apart from the Sumeshwar Range, which of the following is another major hill range in Bihar?",
     "answer": "Vindhya",
     "choices": [
@@ -2912,7 +2912,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02039",
+    "qid": "Q02283",
     "question": "The Valmiki National Park is contiguous with which national park in Nepal?",
     "answer": "Chitwan National Park",
     "choices": [
@@ -2925,7 +2925,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02040",
+    "qid": "Q02284",
     "question": "The Kanti Thermal Power Station is located near which city in Bihar?",
     "answer": "Muzaffarpur",
     "choices": [
@@ -2938,7 +2938,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02041",
+    "qid": "Q02285",
     "question": "Which power plant, located in the Bhagalpur district of Bihar, is a major source of power for the eastern region of India?",
     "answer": "Kahalgaon Super Thermal Power Station",
     "choices": [
@@ -2951,7 +2951,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02042",
+    "qid": "Q02286",
     "question": "In which district of Bihar is the Nabinagar Super Thermal Power Project located?",
     "answer": "Aurangabad",
     "choices": [
@@ -2964,7 +2964,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02043",
+    "qid": "Q02287",
     "question": "The Barauni Thermal Power Station, one of the oldest power plants in Bihar, is located in which district?",
     "answer": "Begusarai",
     "choices": [
@@ -2977,7 +2977,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02044",
+    "qid": "Q02288",
     "question": "Where is NTPC Barh Super Thermal Power Plant located in Bihar?",
     "answer": "Patna",
     "choices": [
@@ -2990,7 +2990,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02045",
+    "qid": "Q02289",
     "question": "Which city in Bihar is famously known as the 'Silk City' for its textile manufacturing?",
     "answer": "Bhagalpur",
     "choices": [
@@ -3003,7 +3003,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02046",
+    "qid": "Q02290",
     "question": "The famous Tussar silk is a specialty of which city in Bihar?",
     "answer": "Bhagalpur",
     "choices": [
@@ -3016,7 +3016,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02047",
+    "qid": "Q02291",
     "question": "The silk industry in Bihar primarily focuses on which aspect of textile production?",
     "answer": "Weaving and Manufacturing",
     "choices": [
@@ -3029,7 +3029,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02048",
+    "qid": "Q02292",
     "question": "Where were the two main manufacturing plants of Bharat Wagon & Engineering Company Limited (BWEL) located in Bihar?",
     "answer": "Muzaffarpur & Mokama",
     "choices": [
@@ -3042,7 +3042,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02049",
+    "qid": "Q02293",
     "question": "The Electric Locomotive Factory in Madhepura is a joint venture between Indian Railways and which company?",
     "answer": "Alstom SA",
     "choices": [
@@ -3055,7 +3055,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02050",
+    "qid": "Q02294",
     "question": "Dalmianagar, a major industrial hub in its prime, is located in which district of Bihar?",
     "answer": "Rohtas",
     "choices": [
@@ -3068,7 +3068,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02051",
+    "qid": "Q02295",
     "question": "Dalmianagar in Bihar is known for",
     "answer": "Cement",
     "choices": [
@@ -3081,7 +3081,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02052",
+    "qid": "Q02296",
     "question": "What river is Dalmiyanagar situated on the banks of?",
     "answer": "Son",
     "choices": [
@@ -3094,7 +3094,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02053",
+    "qid": "Q02297",
     "question": "Mica, a mineral used in electrical insulation and electronics, is primarily found in which two districts of Bihar?",
     "answer": "Nawada & Jamui",
     "choices": [
@@ -3107,7 +3107,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02054",
+    "qid": "Q02298",
     "question": "Limestone, a crucial raw material for the cement industry, is abundant in which part of Bihar?",
     "answer": "Southern Plateau region",
     "choices": [
@@ -3120,7 +3120,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02055",
+    "qid": "Q02299",
     "question": "Which district of Bihar is a known source of Quartzite, a mineral used in the production of glass and ceramics?",
     "answer": "Munger",
     "choices": [
@@ -3133,7 +3133,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02056",
+    "qid": "Q02300",
     "question": "Which mineral found in Bihar is used in the manufacture of ceramics and is often referred to as 'kaolin'?",
     "answer": "China Clay",
     "choices": [
@@ -3146,7 +3146,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02057",
+    "qid": "Q02301",
     "question": "The Amjhore area in the Rohtas district is particularly famous for the mining of which mineral?",
     "answer": "Pyrites",
     "choices": [
@@ -3159,7 +3159,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02058",
+    "qid": "Q02302",
     "question": "Steatite, also known as soapstone, which is used for talcum powder and carvings, is found in which of the following regions of Bihar?",
     "answer": "Gaya",
     "choices": [
@@ -3172,7 +3172,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02059",
+    "qid": "Q02303",
     "question": "Gold deposits have been discovered in which district of Bihar, leading to significant geological interest?",
     "answer": "Jamui",
     "choices": [
@@ -3185,7 +3185,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02060",
+    "qid": "Q02304",
     "question": "Which district in Bihar is home to the Barauni Refinery?",
     "answer": "Begusarai",
     "choices": [
@@ -3198,7 +3198,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02061",
+    "qid": "Q02305",
     "question": "The Barauni Refinery was established as a result of a collaboration between India and which other country?",
     "answer": "Soviet Union",
     "choices": [
@@ -3211,7 +3211,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02062",
+    "qid": "Q02306",
     "question": "Which type of soil is predominantly found in the northern part of Bihar and is known for its high fertility?",
     "answer": "Alluvial Soil",
     "choices": [
@@ -3224,7 +3224,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02063",
+    "qid": "Q02307",
     "question": "The older alluvial soil found in Bihar's plains is locally known by which of the following names?",
     "answer": "Bangur",
     "choices": [
@@ -3237,7 +3237,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02064",
+    "qid": "Q02308",
     "question": "The 'Tal' soil, found in the southern Gangetic plain of Bihar, is best suited for the cultivation of which crop?",
     "answer": "Wheat & Pulses",
     "choices": [
@@ -3250,7 +3250,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02065",
+    "qid": "Q02309",
     "question": "Karail-Kewal soil is a type of soil that is dark in color and has a heavy texture. Where is this soil primarily found?",
     "answer": "Southern part of Gangetic plain",
     "choices": [
@@ -3263,7 +3263,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02066",
+    "qid": "Q02310",
     "question": "The Red and Yellow soils in Bihar are found in the southern plateau region. What is the primary reason for their color?",
     "answer": "Oxidation of Iron Compounds",
     "choices": [
@@ -3276,7 +3276,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02067",
+    "qid": "Q02311",
     "question": "Which of the following soil types is formed by wind-blown deposits, is light in texture, and is found along the banks of the Ganges River?",
     "answer": "Bal Sundari Soil",
     "choices": [
@@ -3289,7 +3289,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02068",
+    "qid": "Q02312",
     "question": "The soils in the floodplains of the Kosi River are often sandy and have a high pH. What is this soil type called?",
     "answer": "Dhira Soil",
     "choices": [
@@ -3302,7 +3302,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02069",
+    "qid": "Q02313",
     "question": "Soil in Bihar is often deficient in which two essential nutrients for plant growth?",
     "answer": "Nitrogen and Phosphorus",
     "choices": [
@@ -3315,7 +3315,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02070",
+    "qid": "Q02314",
     "question": "Which soil type in Bihar is characterized by its reddish-yellow color, is found in the transitional zone between the plains and the plateau, and is often less fertile?",
     "answer": "Balthar Soil",
     "choices": [
@@ -3328,7 +3328,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02071",
+    "qid": "Q02315",
     "question": "Which state in India is the largest producer of litchi?",
     "answer": "Bihar",
     "choices": [
@@ -3341,7 +3341,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02072",
+    "qid": "Q02316",
     "question": "Which city is famously known as the “Litchi Capital of India”?",
     "answer": "Muzaffarpur",
     "choices": [
@@ -3354,7 +3354,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02073",
+    "qid": "Q02317",
     "question": "What is the name of the special variety of litchi from Muzaffarpur that has a GI tag?",
     "answer": "Shahi Litchi",
     "choices": [
@@ -3367,7 +3367,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02074",
+    "qid": "Q02318",
     "question": "Which of the following is the largest freshwater oxbow lake in Asia and is located in Bihar?",
     "answer": "Kabar Taal (Kanwar Lake)",
     "choices": [
@@ -3380,7 +3380,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02075",
+    "qid": "Q02319",
     "question": "Which lake in Bihar is a declared bird sanctuary and is famous for attracting a large number of migratory birds during the winter?",
     "answer": "Kusheshwar Asthan Bird Sanctuary",
     "choices": [
@@ -3393,7 +3393,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02076",
+    "qid": "Q02320",
     "question": "Which of the following is a prominent man-made reservoir in Bihar, created for irrigation and power generation?",
     "answer": "Indrapuri Barrage",
     "choices": [
@@ -3406,7 +3406,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02077",
+    "qid": "Q02321",
     "question": "Kusheshwar Asthan, a famous bird sanctuary, is located in which district of Bihar?",
     "answer": "Darbhanga",
     "choices": [
@@ -3419,7 +3419,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02078",
+    "qid": "Q02322",
     "question": "The 'Ghogha Lake' is an important wetland for migratory birds and is located in which district?",
     "answer": "Bhagalpur",
     "choices": [
@@ -3432,7 +3432,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02079",
+    "qid": "Q02323",
     "question": "The monsoon season in Bihar is primarily influenced by which branch of the Indian Monsoon?",
     "answer": "Bay of Bengal branch",
     "choices": [
@@ -3445,7 +3445,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02080",
+    "qid": "Q02324",
     "question": "Which district in Bihar has the highest forest cover by area?",
     "answer": "Kaimur (Bhabua)",
     "choices": [
@@ -3458,7 +3458,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02081",
+    "qid": "Q02325",
     "question": "Which wildlife sanctuary is currently being proposed to become Bihar's second tiger reserve?",
     "answer": "Kaimur Wildlife Sanctuary",
     "choices": [
@@ -3471,7 +3471,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02082",
+    "qid": "Q02326",
     "question": "Which wildlife sanctuary is the largest in Bihar by area?",
     "answer": "Kaimur Wildlife Sanctuary",
     "choices": [
@@ -3484,7 +3484,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02083",
+    "qid": "Q02327",
     "question": "Which major river, known as the 'Sorrow of Bihar,' is infamous for its frequent changes in course and devastating floods?",
     "answer": "Kosi",
     "choices": [
@@ -3497,7 +3497,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02084",
+    "qid": "Q02328",
     "question": "At which of the following locations does the Gandak River join the Ganga?",
     "answer": "Sonpur",
     "choices": [
@@ -3510,7 +3510,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02085",
+    "qid": "Q02329",
     "question": "Which river originates from the Chota Nagpur Plateau and flows into South Bihar?",
     "answer": "Falgu",
     "choices": [
@@ -3523,7 +3523,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02086",
+    "qid": "Q02330",
     "question": "Where is Bihar's first inland container depot (ICD) located?",
     "answer": "Bihta (Patna)",
     "choices": [
@@ -3536,7 +3536,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02087",
+    "qid": "Q02331",
     "question": "JEEViKA was initially supported by which international organization?",
     "answer": "World Bank",
     "choices": [
@@ -3549,7 +3549,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02088",
+    "qid": "Q02332",
     "question": "Which of the following parks/sanctuaries come under the project tiger in Bihar?",
     "answer": "Valmiki National Park",
     "choices": [
@@ -3562,7 +3562,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02089",
+    "qid": "Q02333",
     "question": "Which of the following is the state animal of Bihar?",
     "answer": "Bull (Gaur)",
     "choices": [
@@ -3575,7 +3575,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02090",
+    "qid": "Q02334",
     "question": "In which year, the Nalanda University was re-established in Bihar?",
     "answer": "2014",
     "choices": [
@@ -3588,7 +3588,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02091",
+    "qid": "Q02335",
     "question": "Karmanasa river originates in",
     "answer": "Kaimur",
     "choices": [
@@ -3601,7 +3601,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02092",
+    "qid": "Q02336",
     "question": "Most of the Bihar comes under which of the following climate type?",
     "answer": "Subtropical Monsoon",
     "choices": [
@@ -3614,7 +3614,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02093",
+    "qid": "Q02337",
     "question": "Which Congress leader visited Bihar in 1918 in order to strengthen the activities of Home Rule League?",
     "answer": "Annie Besant",
     "choices": [
@@ -3627,7 +3627,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02094",
+    "qid": "Q02338",
     "question": "Champaran Agrarian Committee was appointed in agreement between",
     "answer": "Indian Government and Gandhiji",
     "choices": [
@@ -3640,7 +3640,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02095",
+    "qid": "Q02339",
     "question": "Who was the prominent leader of Kisan Sabha movement in Bihar?",
     "answer": "Sahajanand Saraswati",
     "choices": [
@@ -3653,7 +3653,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02096",
+    "qid": "Q02340",
     "question": "Who was murdered while hoisting the national flag under the area of Bikram Police Station?",
     "answer": "Raghunath Sharma",
     "choices": [
@@ -3666,7 +3666,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02097",
+    "qid": "Q02341",
     "question": "Which districts in Bihar will benefit from the Kosi Mechi Link Project?",
     "answer": "Araria, Purnea, Kishanganj, Katihar",
     "choices": [
@@ -3679,7 +3679,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02098",
+    "qid": "Q02342",
     "question": "Which organisation recognised the Nagi Bird Sanctuary site as an Important Bird and Biodiversity Area (IBA)?",
     "answer": "Bird Life International",
     "choices": [
@@ -3692,7 +3692,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02099",
+    "qid": "Q02343",
     "question": "With reference to Bihar's agriculture, which aromatic rice variety from the West Champaran district was awarded the GI (Geographical Indication) tag recently?",
     "answer": "Marcha Rice",
     "choices": [
@@ -3705,7 +3705,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02100",
+    "qid": "Q02344",
     "question": "In which district is Bihar's largest battery-based solar power plant located?",
     "answer": "Lakhisarai",
     "choices": [
@@ -3718,7 +3718,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02101",
+    "qid": "Q02345",
     "question": "On which date is the Bihar Legislative Assembly Foundation Day celebrated every year?",
     "answer": "7th February",
     "choices": [
@@ -3731,7 +3731,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02304",
+    "qid": "Q02346",
     "question": "Which is the oldest Neolithic settlement site discovered in Bihar?",
     "answer": "Chirand, Saran",
     "choices": [
@@ -3744,7 +3744,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02305",
+    "qid": "Q02347",
     "question": "Where were the earliest Palaeolithic tools found in Bihar?",
     "answer": "Munger and Nalanda",
     "choices": [
@@ -3757,7 +3757,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02306",
+    "qid": "Q02348",
     "question": "The 16 Mahajanapadas are first mentioned in which ancient text?",
     "answer": "Anguttara Nikaya",
     "choices": [
@@ -3770,7 +3770,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02307",
+    "qid": "Q02349",
     "question": "Which of the following correctly matches all three Bihar Mahajanapadas with their capitals?",
     "answer": "Magadha-Rajagriha, Vajji-Vaishali, Anga-Champa",
     "choices": [
@@ -3783,7 +3783,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02308",
+    "qid": "Q02350",
     "question": "The Vajji Confederacy is historically significant because it was:",
     "answer": "One of the world's earliest Gana-Sanghas (republican confederacy)",
     "choices": [
@@ -3796,7 +3796,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02309",
+    "qid": "Q02351",
     "question": "Mahavira, the 24th Jain Tirthankara, was born at Kundagrama. Kundagrama was located in which Mahajanapada?",
     "answer": "Vajji",
     "choices": [
@@ -3809,7 +3809,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02310",
+    "qid": "Q02352",
     "question": "Which was the ONLY Mahajanapada located south of the Vindhya mountains?",
     "answer": "Asmaka",
     "choices": [
@@ -3822,7 +3822,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02311",
+    "qid": "Q02353",
     "question": "Which among the following was NOT a factor in the rise of Magadha as the dominant Mahajanapada?",
     "answer": "Access to sea trade routes",
     "choices": [
@@ -3835,7 +3835,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02312",
+    "qid": "Q02354",
     "question": "Ajatashatru used two new weapons to defeat the Vajji Confederacy after a 16-year war. Which pair is correct?",
     "answer": "Rathamusala and Mahashilakantaka",
     "choices": [
@@ -3848,7 +3848,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02313",
+    "qid": "Q02355",
     "question": "The fort at Pataligrama was built by Ajatashatru. Who later formally shifted the Magadhan capital to Pataliputra?",
     "answer": "Udayin",
     "choices": [
@@ -3861,7 +3861,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02314",
+    "qid": "Q02356",
     "question": "Megasthenes described Pataliputra as the world's greatest city. He visited during the reign of which ruler?",
     "answer": "Chandragupta Maurya",
     "choices": [
@@ -3874,7 +3874,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02315",
+    "qid": "Q02357",
     "question": "The Chalcolithic site of Taradih in Bihar is located in which district, near which famous site?",
     "answer": "Gaya district, near Bodh Gaya",
     "choices": [
@@ -3887,7 +3887,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02316",
+    "qid": "Q02358",
     "question": "Which of the following statements about the Vajji Confederacy is INCORRECT?",
     "answer": "Vajji was destroyed by Bimbisara of the Haryanka dynasty",
     "choices": [
@@ -3900,7 +3900,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02317",
+    "qid": "Q02359",
     "question": "Iron ore deposits which gave Magadha military superiority were located in which geographical region?",
     "answer": "Chhota Nagpur Plateau (south Bihar — now Jharkhand)",
     "choices": [
@@ -3913,7 +3913,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02318",
+    "qid": "Q02360",
     "question": "Which of the following Mahajanapadas had its capital at Taxila (in modern Pakistan)?",
     "answer": "Gandhara",
     "choices": [
@@ -3926,7 +3926,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02319",
+    "qid": "Q02361",
     "question": "Vaishali is called a 'cradle of democracy'. Which two religious figures have their strongest connections to Vaishali?",
     "answer": "Mahavira (born here) and Buddha (delivered key sermons here)",
     "choices": [
@@ -3939,7 +3939,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02320",
+    "qid": "Q02362",
     "question": "The text that also mentions the 16 Mahajanapadas alongside the Anguttara Nikaya is:",
     "answer": "Chhandogya Upanishad",
     "choices": [
@@ -3952,7 +3952,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02321",
+    "qid": "Q02363",
     "question": "The capital of Magadha before Pataliputra was Rajagriha. Rajagriha is the modern-day:",
     "answer": "Rajgir, Nalanda district",
     "choices": [
@@ -3965,7 +3965,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02322",
+    "qid": "Q02364",
     "question": "The Haryanka dynasty is considered the first historically verified ruling dynasty of Magadha. Our primary sources for this dynasty are which texts?",
     "answer": "Mahavamsa and Dipavamsa (Sri Lankan Buddhist chronicles)",
     "choices": [
@@ -3978,7 +3978,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02323",
+    "qid": "Q02365",
     "question": "Bimbisara ascended the throne of Magadha at what age?",
     "answer": "15 years",
     "choices": [
@@ -3991,7 +3991,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02324",
+    "qid": "Q02366",
     "question": "Bimbisara married Kosala Devi, sister of King Prasenjit of Kosala. What did he receive as her dowry?",
     "answer": "Kashi",
     "choices": [
@@ -4004,7 +4004,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02325",
+    "qid": "Q02367",
     "question": "Which wife of Bimbisara belonged to the Licchavi clan of the Vajji Confederacy?",
     "answer": "Chellana",
     "choices": [
@@ -4017,7 +4017,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02326",
+    "qid": "Q02368",
     "question": "The first territory ever annexed by Magadha under Bimbisara was:",
     "answer": "Anga",
     "choices": [
@@ -4030,7 +4030,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02327",
+    "qid": "Q02369",
     "question": "Who was the royal physician of Bimbisara who also treated Gautama Buddha?",
     "answer": "Jivaka",
     "choices": [
@@ -4043,7 +4043,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02328",
+    "qid": "Q02370",
     "question": "Bimbisara donated which garden/grove to Gautama Buddha — making it the first ever land donation to the Buddhist Sangha?",
     "answer": "Veluvana (Bamboo Grove) at Rajagriha",
     "choices": [
@@ -4056,7 +4056,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02329",
+    "qid": "Q02371",
     "question": "Bimbisara is called \"Shrenika\" in which religious tradition's texts?",
     "answer": "Jain texts",
     "choices": [
@@ -4069,7 +4069,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02330",
+    "qid": "Q02372",
     "question": "Ajatashatru is called \"Kunika\" in which religious texts?",
     "answer": "Jain texts",
     "choices": [
@@ -4082,7 +4082,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02331",
+    "qid": "Q02373",
     "question": "Ajatashatru killed his father Bimbisara. According to Buddhist texts, who instigated Ajatashatru against his father?",
     "answer": "Devadatta",
     "choices": [
@@ -4095,7 +4095,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02332",
+    "qid": "Q02374",
     "question": "After Bimbisara's death, King Prasenjit of Kosala withdrew Kashi from Magadha. How did Ajatashatru resolve this conflict ultimately?",
     "answer": "Made peace with Prasenjit and married his daughter Vajira",
     "choices": [
@@ -4108,7 +4108,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02333",
+    "qid": "Q02375",
     "question": "The 16-year war fought by Ajatashatru against the Vajji Confederacy ended with:",
     "answer": "Complete destruction and annexation of Vajji",
     "choices": [
@@ -4121,7 +4121,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02334",
+    "qid": "Q02376",
     "question": "The First Buddhist Council was held at which location, in which cave specifically?",
     "answer": "Rajagriha, in Sattapanni Cave",
     "choices": [
@@ -4134,7 +4134,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02335",
+    "qid": "Q02377",
     "question": "The First Buddhist Council was held to achieve which purpose?",
     "answer": "Compile and preserve Buddha's teachings — Sutta Pitaka and Vinaya Pitaka",
     "choices": [
@@ -4147,7 +4147,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02336",
+    "qid": "Q02378",
     "question": "Who presided over the First Buddhist Council at Rajagriha (483 BCE)?",
     "answer": "Mahakassapa",
     "choices": [
@@ -4160,7 +4160,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02337",
+    "qid": "Q02379",
     "question": "During whose reign was the First Buddhist Council held at Rajagriha?",
     "answer": "Ajatashatru",
     "choices": [
@@ -4173,7 +4173,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02338",
+    "qid": "Q02380",
     "question": "Ajatashatru built a fort at Pataligrama. Who later formally made Pataliputra the capital of Magadha?",
     "answer": "Udayin",
     "choices": [
@@ -4186,7 +4186,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02339",
+    "qid": "Q02381",
     "question": "Pataliputra is known by which other ancient name that occasionally appears in BPSC questions?",
     "answer": "Kusumapura",
     "choices": [
@@ -4199,7 +4199,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02340",
+    "qid": "Q02382",
     "question": "The Haryanka dynasty ended because of which reason?",
     "answer": "People's revolt against patricidal kings — minister Shishunaga placed on throne",
     "choices": [
@@ -4212,7 +4212,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02341",
+    "qid": "Q02383",
     "question": "Shishunaga's greatest political achievement was the destruction of which rival kingdom that had contested with Magadha for over a century?",
     "answer": "Avanti (Pradyota dynasty)",
     "choices": [
@@ -4225,7 +4225,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02342",
+    "qid": "Q02384",
     "question": "The Second Buddhist Council was held at Vaishali in 383 BCE. Under whose royal patronage was it held?",
     "answer": "Kalashoka (Kakavarna)",
     "choices": [
@@ -4238,7 +4238,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02343",
+    "qid": "Q02385",
     "question": "Who presided over the Second Buddhist Council at Vaishali?",
     "answer": "Sarvakamani (Sabbakami)",
     "choices": [
@@ -4251,7 +4251,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02344",
+    "qid": "Q02386",
     "question": "The Second Buddhist Council at Vaishali was called because of which issue?",
     "answer": "Eastern monks practising 10 controversial acts (Dasa Vatthuni) violating Vinaya rules",
     "choices": [
@@ -4264,7 +4264,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02345",
+    "qid": "Q02387",
     "question": "The Second Buddhist Council resulted in the first major split in Buddhism. Which were the two sects formed?",
     "answer": "Sthaviravada (orthodox) and Mahasanghika (liberal)",
     "choices": [
@@ -4277,7 +4277,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02346",
+    "qid": "Q02388",
     "question": "How did Kalashoka, the last significant Shishunaga ruler, die?",
     "answer": "Assassinated by Mahapadma Nanda",
     "choices": [
@@ -4290,7 +4290,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02347",
+    "qid": "Q02389",
     "question": "Which of the following is the correct chronological order of the first three Buddhist Councils?",
     "answer": "Rajagriha (483 BCE) → Vaishali (383 BCE) → Pataliputra (250 BCE)",
     "choices": [
@@ -4303,7 +4303,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02348",
+    "qid": "Q02390",
     "question": "Match the following Buddhist Councils with their presiding monks: 1. First Council 2. Second Council 3. Third Council — A. Moggaliputta Tissa B. Mahakassapa C. Sarvakamani",
     "answer": "1-B, 2-C, 3-A",
     "choices": [
@@ -4316,7 +4316,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02349",
+    "qid": "Q02391",
     "question": "Which of the following statements about the Haryanka dynasty is INCORRECT?",
     "answer": "Bimbisara was the last ruler of the Haryanka dynasty",
     "choices": [
@@ -4329,7 +4329,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02350",
+    "qid": "Q02392",
     "question": "Shishunaga temporarily shifted the capital of Magadha from Pataliputra to which city?",
     "answer": "Vaishali",
     "choices": [
@@ -4342,7 +4342,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02351",
+    "qid": "Q02393",
     "question": "The Sthaviravada sect that emerged from the Second Buddhist Council later evolved into which major branch of Buddhism still prevalent today?",
     "answer": "Theravada Buddhism (practised in Sri Lanka, Myanmar, Thailand)",
     "choices": [
@@ -4355,7 +4355,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02352",
+    "qid": "Q02394",
     "question": "The Nanda dynasty is historically significant as the first dynasty of which kind to rule Magadha and North India?",
     "answer": "First non-Kshatriya (low-born) rulers",
     "choices": [
@@ -4368,7 +4368,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02353",
+    "qid": "Q02395",
     "question": "According to the Puranas, who was the mother of Mahapadma Nanda?",
     "answer": "A Shudra woman (mother of low varna)",
     "choices": [
@@ -4381,7 +4381,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02354",
+    "qid": "Q02396",
     "question": "Buddhist texts refer to the Nanda dynasty by which phrase indicating their low/unknown origin?",
     "answer": "Annata-kula (unknown lineage)",
     "choices": [
@@ -4394,7 +4394,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02355",
+    "qid": "Q02397",
     "question": "According to Jain and Greco-Roman (Greek/Latin) sources, the founder of the Nanda dynasty was the son of which profession?",
     "answer": "Barber",
     "choices": [
@@ -4407,7 +4407,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02356",
+    "qid": "Q02398",
     "question": "Which of the following titles was NOT given to Mahapadma Nanda?",
     "answer": "Priyadarshi",
     "choices": [
@@ -4420,7 +4420,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02357",
+    "qid": "Q02399",
     "question": "\"Nava Nandas\" refers to which group of rulers?",
     "answer": "Mahapadma Nanda + his 8 sons = 9 Nanda rulers total",
     "choices": [
@@ -4433,7 +4433,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02358",
+    "qid": "Q02400",
     "question": "Nanda control over Kalinga is historically confirmed by which inscription?",
     "answer": "Hathigumpha inscription of King Kharavela",
     "choices": [
@@ -4446,7 +4446,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02359",
+    "qid": "Q02401",
     "question": "The characteristic pottery type associated with the Nanda period and the broader late-Mahajanapada era is:",
     "answer": "Northern Black Polished Ware (NBPW)",
     "choices": [
@@ -4459,7 +4459,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02360",
+    "qid": "Q02402",
     "question": "The administrative and taxation system built by the Nanda dynasty had which long-term significance?",
     "answer": "It was directly inherited and continued by the Maurya dynasty",
     "choices": [
@@ -4472,7 +4472,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02361",
+    "qid": "Q02403",
     "question": "Mahapadma Nanda's empire extended from which region in the north to which river in the south?",
     "answer": "Kuru country (Haryana-Delhi) to Godavari valley",
     "choices": [
@@ -4485,7 +4485,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02362",
+    "qid": "Q02404",
     "question": "Dhana Nanda, the last Nanda king, was known by which name(s) in Greek/Roman sources?",
     "answer": "Agrammes or Xandrames",
     "choices": [
@@ -4498,7 +4498,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02363",
+    "qid": "Q02405",
     "question": "According to Greek sources, the army of the Nanda empire (under Dhana Nanda) consisted of how many infantry soldiers?",
     "answer": "2,00,000 (two lakh)",
     "choices": [
@@ -4511,7 +4511,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02364",
+    "qid": "Q02406",
     "question": "Alexander the Great defeated which Indian king at the Battle of Hydaspes (326 BCE)?",
     "answer": "Porus (Puru) of Punjab",
     "choices": [
@@ -4524,7 +4524,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02365",
+    "qid": "Q02407",
     "question": "The Battle of Hydaspes (326 BCE) was fought on which river?",
     "answer": "Jhelum (Hydaspes)",
     "choices": [
@@ -4537,7 +4537,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02366",
+    "qid": "Q02408",
     "question": "At which river did Alexander's army mutiny and refuse to march further into India (326 BCE)?",
     "answer": "Beas (Hyphasis)",
     "choices": [
@@ -4550,7 +4550,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02367",
+    "qid": "Q02409",
     "question": "Which Greek general spoke on behalf of Alexander's mutinying soldiers at the Beas river, convincing Alexander to turn back?",
     "answer": "Coenus",
     "choices": [
@@ -4563,7 +4563,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02368",
+    "qid": "Q02410",
     "question": "Alexander died in which city and in which year?",
     "answer": "Babylon, 323 BCE",
     "choices": [
@@ -4576,7 +4576,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02369",
+    "qid": "Q02411",
     "question": "After Alexander's death, who inherited control of the eastern (Asian) part of his empire and later confronted Chandragupta Maurya?",
     "answer": "Seleucus Nicator",
     "choices": [
@@ -4589,7 +4589,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02370",
+    "qid": "Q02412",
     "question": "What was the primary reason Alexander's soldiers refused to cross the Beas river to fight the Nanda empire?",
     "answer": "Fear of the enormous Nanda army + battle fatigue after 8+ years of campaigning",
     "choices": [
@@ -4602,7 +4602,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02371",
+    "qid": "Q02413",
     "question": "The event that triggered Chanakya's determination to destroy the Nanda dynasty was:",
     "answer": "Dhana Nanda insulted Chanakya for his ugly appearance at a royal assembly in Pataliputra",
     "choices": [
@@ -4615,7 +4615,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02372",
+    "qid": "Q02414",
     "question": "Why did Chanakya's first attempt to overthrow the Nanda dynasty fail?",
     "answer": "He directly attacked Pataliputra (capital) instead of capturing surrounding territories first",
     "choices": [
@@ -4628,7 +4628,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02373",
+    "qid": "Q02415",
     "question": "The Nanda dynasty ruled Magadha for approximately how long, according to Buddhist tradition?",
     "answer": "22 years",
     "choices": [
@@ -4641,7 +4641,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02374",
+    "qid": "Q02416",
     "question": "Which of the following statements about the Nanda dynasty is INCORRECT?",
     "answer": "Nanda dynasty introduced the Painted Grey Ware pottery",
     "choices": [
@@ -4654,7 +4654,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02375",
+    "qid": "Q02417",
     "question": "After defeating Porus at Hydaspes, what did Alexander do with Porus's kingdom?",
     "answer": "Restored it to Porus, impressed by his bravery",
     "choices": [
@@ -4667,7 +4667,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02376",
+    "qid": "Q02418",
     "question": "King Ambhi (Taxiles) of Taxila had which relationship with Alexander during his Indian campaign?",
     "answer": "Ambhi allied with Alexander against Porus",
     "choices": [
@@ -4680,7 +4680,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02377",
+    "qid": "Q02419",
     "question": "The decline of the Nanda dynasty was primarily caused by which combination of factors?",
     "answer": "Excessive taxation causing popular discontent + rise of Chandragupta with Chanakya's guidance",
     "choices": [
@@ -4693,7 +4693,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02378",
+    "qid": "Q02420",
     "question": "The Nanda dynasty's legacy in terms of territorial expansion is best summarised as:",
     "answer": "They created the largest empire in Indian history before the Mauryas, paving the way for Mauryan unification",
     "choices": [
@@ -4706,7 +4706,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02379",
+    "qid": "Q02421",
     "question": "Chanakya is known by three names. Which of the following is NOT one of his names?",
     "answer": "Devanampiya",
     "choices": [
@@ -4719,7 +4719,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02380",
+    "qid": "Q02422",
     "question": "The Arthashastra was rediscovered in 1905 by which scholar, after being lost since the 12th century?",
     "answer": "R. Shamasastry",
     "choices": [
@@ -4732,7 +4732,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02381",
+    "qid": "Q02423",
     "question": "The Arthashastra consists of how many books (Adhikaranas) and chapters (Prakaranas)?",
     "answer": "15 books and 180 chapters",
     "choices": [
@@ -4745,7 +4745,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02382",
+    "qid": "Q02424",
     "question": "Chanakya is called the \"Indian Machiavelli.\" Who was Machiavelli, and what is the basis of this comparison?",
     "answer": "Italian political philosopher known for pragmatic/realpolitik statecraft — similar to Chanakya's Arthashastra",
     "choices": [
@@ -4758,7 +4758,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02383",
+    "qid": "Q02425",
     "question": "The play Mudrarakshasa, which describes how Chandragupta overthrew the Nandas, was written by which author?",
     "answer": "Vishakhadatta (during Gupta period)",
     "choices": [
@@ -4771,7 +4771,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02384",
+    "qid": "Q02426",
     "question": "Chandragupta Maurya is known by which name in Greek and Roman sources?",
     "answer": "Sandrokottos / Sandracottus",
     "choices": [
@@ -4784,7 +4784,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02385",
+    "qid": "Q02427",
     "question": "The identification of \"Sandrokottos\" in Greek sources with Chandragupta Maurya — a discovery crucial for Indian chronology — was made by which scholar and in which year?",
     "answer": "Sir William Jones, 1793",
     "choices": [
@@ -4797,7 +4797,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02386",
+    "qid": "Q02428",
     "question": "According to Buddhist sources, Chandragupta's origin was from which clan/group?",
     "answer": "Moriya (Maurya) clan — Kshatriya origin",
     "choices": [
@@ -4810,7 +4810,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02387",
+    "qid": "Q02429",
     "question": "The Himalayan king who allied with Chandragupta and Chanakya against the Nanda dynasty was:",
     "answer": "Parvatka (Parvata)",
     "choices": [
@@ -4823,7 +4823,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02388",
+    "qid": "Q02430",
     "question": "In the first attempt to capture Pataliputra, Chandragupta and Chanakya failed. What strategic lesson caused Chanakya to change his approach?",
     "answer": "Overheard a woman saying — attack from edges/periphery, not directly from centre",
     "choices": [
@@ -4836,7 +4836,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02389",
+    "qid": "Q02431",
     "question": "After Alexander's death in 323 BCE, Chandragupta first liberated which region from Greek/Macedonian control before turning toward Magadha?",
     "answer": "Punjab and northwest India",
     "choices": [
@@ -4849,7 +4849,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02390",
+    "qid": "Q02432",
     "question": "The war between Chandragupta Maurya and Seleucus Nicator took place in which year, and what was its outcome?",
     "answer": "305 BCE — Chandragupta won; Seleucus ceded 4 territories + gave daughter in exchange for 500 elephants",
     "choices": [
@@ -4862,7 +4862,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02391",
+    "qid": "Q02433",
     "question": "Which four territories did Seleucus Nicator cede to Chandragupta Maurya after his defeat in 305 BCE?",
     "answer": "Aria, Arachosia, Gedrosia, Paropanisadae",
     "choices": [
@@ -4875,7 +4875,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02392",
+    "qid": "Q02434",
     "question": "What did Chandragupta Maurya give to Seleucus Nicator in exchange for the four territories under the 305 BCE treaty?",
     "answer": "500 war elephants",
     "choices": [
@@ -4888,7 +4888,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02393",
+    "qid": "Q02435",
     "question": "The Greek ambassador Megasthenes, who was sent to Chandragupta's court, was sent by whom?",
     "answer": "Seleucus Nicator",
     "choices": [
@@ -4901,7 +4901,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02394",
+    "qid": "Q02436",
     "question": "According to Megasthenes, Chandragupta Maurya employed which unusual type of personal bodyguard?",
     "answer": "Women bodyguards",
     "choices": [
@@ -4914,7 +4914,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02395",
+    "qid": "Q02437",
     "question": "Megasthenes divided Indian society into how many classes in his Indica?",
     "answer": "7",
     "choices": [
@@ -4927,7 +4927,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02396",
+    "qid": "Q02438",
     "question": "The Mauryan War Office was organised into how many committees, with how many members each?",
     "answer": "6 committees of 5 members each (30 total)",
     "choices": [
@@ -4940,7 +4940,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02397",
+    "qid": "Q02439",
     "question": "In the Mauryan administrative hierarchy, what was the term for the district-level officer who toured the district every 5 years?",
     "answer": "Pradeshika",
     "choices": [
@@ -4953,7 +4953,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02398",
+    "qid": "Q02440",
     "question": "What was the term for the Chief Revenue Collector in the Mauryan administrative system?",
     "answer": "Samaharta",
     "choices": [
@@ -4966,7 +4966,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02399",
+    "qid": "Q02441",
     "question": "Two types of spies mentioned in the Arthashastra's intelligence system are:",
     "answer": "Sanstha (stationary) and Sanchara (wandering/roving)",
     "choices": [
@@ -4979,7 +4979,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02400",
+    "qid": "Q02442",
     "question": "Chandragupta Maurya converted to which religion towards the end of his life, under whose influence?",
     "answer": "Jainism — under monk Bhadrabahu",
     "choices": [
@@ -4992,7 +4992,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02401",
+    "qid": "Q02443",
     "question": "Chandragupta Maurya spent his final days and died at which location?",
     "answer": "Shravanabelagola, Karnataka",
     "choices": [
@@ -5005,7 +5005,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02402",
+    "qid": "Q02444",
     "question": "Chandragupta's death at Shravanabelagola was by Sallekhana. What is Sallekhana?",
     "answer": "Voluntary fasting unto death — a Jain practice of consciously ending life",
     "choices": [
@@ -5018,7 +5018,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02403",
+    "qid": "Q02445",
     "question": "Chandragupta abdicated in favour of which son, and in approximately which year?",
     "answer": "Bindusara, ~297 BCE",
     "choices": [
@@ -5031,7 +5031,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02404",
+    "qid": "Q02446",
     "question": "Bindusara is known by which name in Greek/Roman sources?",
     "answer": "Amitrochates / Allitrochades",
     "choices": [
@@ -5044,7 +5044,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02405",
+    "qid": "Q02447",
     "question": "Which Greek ambassador was stationed at Bindusara's court in Pataliputra?",
     "answer": "Deimachus",
     "choices": [
@@ -5057,7 +5057,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02406",
+    "qid": "Q02448",
     "question": "Bindusara sent a famous request to Seleucid king Antiochus I asking for three items. Which was the item the Greeks said they could not send?",
     "answer": "A philosopher (sophist) — \"philosophers are not for sale\"",
     "choices": [
@@ -5070,7 +5070,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02407",
+    "qid": "Q02449",
     "question": "Bindusara is associated with which religious sect according to some sources?",
     "answer": "Ajivika sect",
     "choices": [
@@ -5083,7 +5083,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02408",
+    "qid": "Q02450",
     "question": "Which of the following statements about Chandragupta Maurya's administration is INCORRECT?",
     "answer": "Chandragupta established a completely centralised administration with no provincial system",
     "choices": [
@@ -5096,7 +5096,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02409",
+    "qid": "Q02451",
     "question": "Who deciphered Ashokan inscriptions for the first time, and in which year?",
     "answer": "James Prinsep, 1837",
     "choices": [
@@ -5109,7 +5109,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02410",
+    "qid": "Q02452",
     "question": "In most of his edicts, Ashoka refers to himself by two titles rather than his name. Which two titles?",
     "answer": "Devanampiya (Beloved of Gods) and Piyadasi (He who regards amiably)",
     "choices": [
@@ -5122,7 +5122,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02411",
+    "qid": "Q02453",
     "question": "In which specific edicts does Ashoka explicitly use his own name \"Ashoka\"?",
     "answer": "Maski edict (Karnataka) and Gurjara edict (MP)",
     "choices": [
@@ -5135,7 +5135,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02412",
+    "qid": "Q02454",
     "question": "Ashoka's personal Buddhist faith is directly expressed in which edict?",
     "answer": "Bhabru (Bairat) edict, Rajasthan",
     "choices": [
@@ -5148,7 +5148,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02413",
+    "qid": "Q02455",
     "question": "The Kalinga War was fought in which year and during which year of Ashoka's reign?",
     "answer": "261 BCE, 8th year of reign",
     "choices": [
@@ -5161,7 +5161,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02414",
+    "qid": "Q02456",
     "question": "According to Major Rock Edict XIII, how many people were killed and how many were deported in the Kalinga War?",
     "answer": "1,00,000 killed; 1,50,000 deported",
     "choices": [
@@ -5174,7 +5174,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02415",
+    "qid": "Q02457",
     "question": "What does Dhammaghosha mean, and what did it replace after the Kalinga War?",
     "answer": "Sound of Dhamma proclamation — replaced Bherighosha (sound of war drums)",
     "choices": [
@@ -5187,7 +5187,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02416",
+    "qid": "Q02458",
     "question": "Which Major Rock Edict specifically mentions the Kalinga War and Ashoka's remorse?",
     "answer": "Major Rock Edict XIII",
     "choices": [
@@ -5200,7 +5200,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02417",
+    "qid": "Q02459",
     "question": "Which Major Rock Edict mentions the appointment of Dhamma Mahamattas?",
     "answer": "Major Rock Edict V",
     "choices": [
@@ -5213,7 +5213,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02418",
+    "qid": "Q02460",
     "question": "Which Major Rock Edict mentions medical facilities for both humans and animals, and planting of medicinal herbs?",
     "answer": "Major Rock Edict II",
     "choices": [
@@ -5226,7 +5226,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02419",
+    "qid": "Q02461",
     "question": "The replacement of Ashoka's \"Vihara Yatras\" (pleasure hunting tours) with \"Dhamma Yatras\" (pilgrimages) is mentioned in which edict?",
     "answer": "Major Rock Edict VIII",
     "choices": [
@@ -5239,7 +5239,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02420",
+    "qid": "Q02462",
     "question": "How many Major Rock Edicts and Major Pillar Edicts did Ashoka issue?",
     "answer": "14 Major Rock Edicts and 7 Major Pillar Edicts",
     "choices": [
@@ -5252,7 +5252,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02421",
+    "qid": "Q02463",
     "question": "Ashoka's edicts in most of India were inscribed in which language and script?",
     "answer": "Prakrit language in Brahmi script",
     "choices": [
@@ -5265,7 +5265,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02422",
+    "qid": "Q02464",
     "question": "Which script was used for Ashokan edicts in the northwest (modern Pakistan) region?",
     "answer": "Kharosthi",
     "choices": [
@@ -5278,7 +5278,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02423",
+    "qid": "Q02465",
     "question": "The Kandahar Bilingual inscription of Ashoka was written in which two languages?",
     "answer": "Greek and Aramaic",
     "choices": [
@@ -5291,7 +5291,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02424",
+    "qid": "Q02466",
     "question": "Which Ashokan pillar is located in Bihar and is best known for being well-preserved with an intact lion capital?",
     "answer": "Lauriya Nandangarh, West Champaran",
     "choices": [
@@ -5304,7 +5304,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02425",
+    "qid": "Q02467",
     "question": "The Vaishali Ashokan pillar is unique because it has which distinctive feature compared to other pillar capitals?",
     "answer": "Single lion capital (facing north — direction of Buddha's Mahaparinirvana)",
     "choices": [
@@ -5317,7 +5317,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02426",
+    "qid": "Q02468",
     "question": "The Lion Capital of Ashoka at Sarnath became India's National Emblem. The abacus (circular base below the lions) has which four animals depicted on it?",
     "answer": "Lion, Elephant, Horse, Bull",
     "choices": [
@@ -5330,7 +5330,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02427",
+    "qid": "Q02469",
     "question": "How many spokes does the Ashoka Chakra (on India's National Flag) have?",
     "answer": "24",
     "choices": [
@@ -5343,7 +5343,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02428",
+    "qid": "Q02470",
     "question": "Ashoka's edicts mention that he planted shade trees along roads. Which specific trees are mentioned?",
     "answer": "Banyan and mango trees",
     "choices": [
@@ -5356,7 +5356,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02429",
+    "qid": "Q02471",
     "question": "Ashokan pillars were made from monolithic sandstone quarried at which location?",
     "answer": "Chunar, near Varanasi (UP)",
     "choices": [
@@ -5369,7 +5369,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02430",
+    "qid": "Q02472",
     "question": "The Third Buddhist Council was held at Pataliputra in 250 BCE under Ashoka's patronage. Which Buddhist text (Pitaka) was compiled at this council?",
     "answer": "Abhidhamma Pitaka",
     "choices": [
@@ -5382,7 +5382,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02431",
+    "qid": "Q02473",
     "question": "Who presided over the Third Buddhist Council held at Pataliputra (250 BCE)?",
     "answer": "Moggaliputta Tissa",
     "choices": [
@@ -5395,7 +5395,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02432",
+    "qid": "Q02474",
     "question": "After the Third Buddhist Council, Ashoka sent his son and daughter as Buddhist missionaries to which country?",
     "answer": "Sri Lanka",
     "choices": [
@@ -5408,7 +5408,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02433",
+    "qid": "Q02475",
     "question": "The Buddhist mission to Southeast Asia (Suvannabhumi — modern Myanmar/Thailand) was led by which two missionaries?",
     "answer": "Sona and Uttara",
     "choices": [
@@ -5421,7 +5421,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02434",
+    "qid": "Q02476",
     "question": "The Rummindei Minor Pillar Edict of Ashoka is significant because it proves:",
     "answer": "Ashoka visited Lumbini (Buddha's birthplace) and exempted it from tax",
     "choices": [
@@ -5434,7 +5434,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02435",
+    "qid": "Q02477",
     "question": "The Dhauli and Jaugada edicts in Odisha are special compared to other Major Rock Edicts because:",
     "answer": "They are Kalinga-specific edicts with special instructions for Kalinga province — replacing MRE XI, XII, XIII",
     "choices": [
@@ -5447,7 +5447,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02436",
+    "qid": "Q02478",
     "question": "Which of the following Ashokan pillar capitals is found in Bihar and features a bull (not lion)?",
     "answer": "Rampurva, West Champaran",
     "choices": [
@@ -5460,7 +5460,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02437",
+    "qid": "Q02479",
     "question": "Major Pillar Edict VII is significant because it is found only on one specific pillar. Which pillar?",
     "answer": "Delhi-Topra Pillar (originally from Topra, Haryana)",
     "choices": [
@@ -5473,7 +5473,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02438",
+    "qid": "Q02480",
     "question": "Who was the last Mauryan emperor and who overthrew him, ending the Maurya dynasty?",
     "answer": "Brihadratha — killed by his army chief Pushyamitra Shunga in 185 BCE",
     "choices": [
@@ -5486,7 +5486,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02439",
+    "qid": "Q02481",
     "question": "Ashoka's immediate successor was which ruler?",
     "answer": "Dasharatha",
     "choices": [
@@ -5499,7 +5499,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02440",
+    "qid": "Q02482",
     "question": "Which of the following best explains the rapid decline of the Mauryan Empire after Ashoka?",
     "answer": "Multiple factors — weak successors + financial strain from welfare works + pacifism weakening military + Brahmanical reaction",
     "choices": [
@@ -5512,7 +5512,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02441",
+    "qid": "Q02483",
     "question": "What did Sanghamitra bring to Sri Lanka along with Buddhism?",
     "answer": "A branch of the original Bodhi tree from Bodh Gaya",
     "choices": [
@@ -5525,7 +5525,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02442",
+    "qid": "Q02484",
     "question": "The Nigalisagar Minor Pillar Edict in Nepal records which specific act of Ashoka?",
     "answer": "Ashoka enlarged the stupa of Kanakamuni (Konagamana) Buddha and visited the site in person",
     "choices": [
@@ -5538,7 +5538,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02443",
+    "qid": "Q02485",
     "question": "Which of the following statements about Ashoka's Dhamma is INCORRECT?",
     "answer": "Ashoka's Dhamma was exclusively a Buddhist policy meant to spread Buddhism",
     "choices": [
@@ -5551,7 +5551,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02444",
+    "qid": "Q02486",
     "question": "After the fall of the Mauryan Empire, which dynasty controlled Magadha (Bihar) first?",
     "answer": "Shunga dynasty",
     "choices": [
@@ -5564,7 +5564,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02445",
+    "qid": "Q02487",
     "question": "Pushyamitra Shunga's assassination of Brihadratha is described as taking place during which occasion?",
     "answer": "Military parade/review (army inspection)",
     "choices": [
@@ -5577,7 +5577,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02446",
+    "qid": "Q02488",
     "question": "Which Purana is the primary source for information about the Shunga dynasty?",
     "answer": "Matsya Purana",
     "choices": [
@@ -5590,7 +5590,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02447",
+    "qid": "Q02489",
     "question": "The interpretation that Pushyamitra Shunga's coup was a \"Brahmanical reaction\" against Mauryan Buddhist patronage is challenged by which archaeological evidence?",
     "answer": "Sanchi and Bharhut stupas were expanded and built during the Shunga period",
     "choices": [
@@ -5603,7 +5603,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02448",
+    "qid": "Q02490",
     "question": "Pushyamitra Shunga performed two Ashvamedha Yajnas (horse sacrifices). Who was the protector of the sacrificial horse who fought off a Greek cavalry attack?",
     "answer": "Vasumitra (Pushyamitra's grandson)",
     "choices": [
@@ -5616,7 +5616,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02449",
+    "qid": "Q02491",
     "question": "Patanjali, who wrote the Mahabhashya and Yoga Sutras, was a contemporary of which ruler?",
     "answer": "Pushyamitra Shunga",
     "choices": [
@@ -5629,7 +5629,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02450",
+    "qid": "Q02492",
     "question": "Patanjali's Mahabhashya is a commentary on which earlier Sanskrit grammar text?",
     "answer": "Panini's Ashtadhyayi",
     "choices": [
@@ -5642,7 +5642,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02451",
+    "qid": "Q02493",
     "question": "The Greek ambassador Heliodorus erected a famous pillar at Besnagar (Vidisha). What is notable about this pillar?",
     "answer": "Heliodorus, a Greek, converted to Vaishnavism — calling himself a Bhagavata — making it first known foreign conversion to Vaishnavism",
     "choices": [
@@ -5655,7 +5655,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02452",
+    "qid": "Q02494",
     "question": "Heliodorus visited the court of which Shunga ruler?",
     "answer": "Bhagabhadra",
     "choices": [
@@ -5668,7 +5668,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02453",
+    "qid": "Q02495",
     "question": "The hero of Kalidasa's play Malavikagnimitra was which Shunga ruler?",
     "answer": "Agnimitra",
     "choices": [
@@ -5681,7 +5681,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02454",
+    "qid": "Q02496",
     "question": "Which architectural innovation is credited to the Shunga dynasty in the context of Buddhist stupas?",
     "answer": "Stone railings (vedika) and decorated gateways (toranas) replacing wooden structures",
     "choices": [
@@ -5694,7 +5694,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02455",
+    "qid": "Q02497",
     "question": "The Kanva dynasty was founded by Vasudeva Kanva who killed the last Shunga ruler Devabhuti. The last Kanva ruler Susarman was killed by which ruler of which dynasty?",
     "answer": "Simuka of the Satavahana dynasty",
     "choices": [
@@ -5707,7 +5707,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02456",
+    "qid": "Q02498",
     "question": "How many rulers did the Kanva dynasty have, and for approximately how many years did they rule?",
     "answer": "4 rulers, approximately 45 years (73–27 BCE)",
     "choices": [
@@ -5720,7 +5720,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02457",
+    "qid": "Q02499",
     "question": "The most famous Indo-Greek ruler Menander (Milinda) is associated with which Buddhist text that records his philosophical dialogue with monk Nagasena?",
     "answer": "Milindapanho (Questions of King Milinda)",
     "choices": [
@@ -5733,7 +5733,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02458",
+    "qid": "Q02500",
     "question": "The capital of Menander (Milinda), the greatest Indo-Greek ruler, was located at which city?",
     "answer": "Sagala (modern Sialkot, Pakistan)",
     "choices": [
@@ -5746,7 +5746,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02459",
+    "qid": "Q02501",
     "question": "Indo-Greeks are credited with which significant monetary innovation in Indian history?",
     "answer": "First rulers to mint gold coins in India (also first bilingual coins)",
     "choices": [
@@ -5759,7 +5759,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02460",
+    "qid": "Q02502",
     "question": "The practice of military governorship (satrapy system) in India was introduced by which foreign dynasty?",
     "answer": "Indo-Greeks (governors called Strategos/Satraps)",
     "choices": [
@@ -5772,7 +5772,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02461",
+    "qid": "Q02503",
     "question": "The Junagarh (Girnar) Rock Inscription of Rudradaman is historically significant because it is:",
     "answer": "The first major inscription written in pure classical Sanskrit",
     "choices": [
@@ -5785,7 +5785,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02462",
+    "qid": "Q02504",
     "question": "Rudradaman's Junagarh inscription mentions the repair of which famous reservoir/lake originally built during the Mauryan period?",
     "answer": "Sudarshana Lake (Sudarsana Lake)",
     "choices": [
@@ -5798,7 +5798,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02463",
+    "qid": "Q02505",
     "question": "Vikrama Samvat, which began in 58 BCE, is associated with which event in ancient Indian history?",
     "answer": "Victory of king Vikramaditya of Ujjain over the Shakas",
     "choices": [
@@ -5811,7 +5811,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02464",
+    "qid": "Q02506",
     "question": "The Kushana dynasty was originally which branch of which Central Asian tribe?",
     "answer": "One of the 5 branches (Yuezhi confederation) of the Yuezhi tribe from northwestern China",
     "choices": [
@@ -5824,7 +5824,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02465",
+    "qid": "Q02507",
     "question": "Vima Kadphises (Kadphises II) of the Kushana dynasty is known for which monetary achievement?",
     "answer": "Issued the first large-scale gold coins in India",
     "choices": [
@@ -5837,7 +5837,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02466",
+    "qid": "Q02508",
     "question": "Kanishka the Great is called the \"Second Ashoka.\" His reign is associated with which era still in official use in India today?",
     "answer": "Shaka Era (78 CE) — used as the National Calendar of India",
     "choices": [
@@ -5850,7 +5850,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02467",
+    "qid": "Q02509",
     "question": "The Fourth Buddhist Council held under Kanishka's patronage was presided over by which monk? With which monk as vice-chairman?",
     "answer": "Vasumitra (chairman) and Ashvaghosha (vice-chairman)",
     "choices": [
@@ -5863,7 +5863,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02468",
+    "qid": "Q02510",
     "question": "The Fourth Buddhist Council held under Kanishka is historically significant because it:",
     "answer": "Formalized the division between Hinayana and Mahayana Buddhism",
     "choices": [
@@ -5876,7 +5876,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02469",
+    "qid": "Q02511",
     "question": "Ashvaghosha, the court philosopher of Kanishka, wrote the first Sanskrit biography of Buddha. What was it called?",
     "answer": "Buddhacharita",
     "choices": [
@@ -5889,7 +5889,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02470",
+    "qid": "Q02512",
     "question": "Kanishka's primary capital was Purushapura. What is its modern name?",
     "answer": "Peshawar (Pakistan)",
     "choices": [
@@ -5902,7 +5902,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02471",
+    "qid": "Q02513",
     "question": "Which of the following correctly differentiates Gandhara art from Mathura art?",
     "answer": "Gandhara = grey schist stone + Greek features; Mathura = red sandstone + Indian features",
     "choices": [
@@ -5915,7 +5915,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02472",
+    "qid": "Q02514",
     "question": "The Kushana coins found across Bihar historically prove which fact?",
     "answer": "Kushana empire extended to Magadha/Bihar region including Pataliputra and Bodh Gaya",
     "choices": [
@@ -5928,7 +5928,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02473",
+    "qid": "Q02515",
     "question": "Which of the following is the correct sequence of foreign dynasties that ruled northwest India after the Mauryas?",
     "answer": "Indo-Greeks → Shakas → Parthians → Kushanas",
     "choices": [
@@ -5941,7 +5941,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02474",
+    "qid": "Q02516",
     "question": "The Bharhut stupa, whose railings depict Jataka stories and are associated with Shunga patronage, is located in which state?",
     "answer": "Madhya Pradesh (Satna district)",
     "choices": [
@@ -5954,7 +5954,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02475",
+    "qid": "Q02517",
     "question": "After the fall of the Kanva dynasty (~27 BCE), approximately how many years passed before any major empire was again centred in Bihar/Magadha?",
     "answer": "~350 years — until Gupta dynasty founded in 320 CE",
     "choices": [
@@ -5967,7 +5967,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02476",
+    "qid": "Q02518",
     "question": "Which soil type covers the largest area of Bihar (~70%)?",
     "answer": "Alluvial soil (Khadar + Bhangar)",
     "choices": [
@@ -5980,7 +5980,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02477",
+    "qid": "Q02519",
     "question": "The key distinguishing feature of Bhangar soil compared to Khadar is:",
     "answer": "Presence of kankar (calcareous nodules)",
     "choices": [
@@ -5993,7 +5993,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02478",
+    "qid": "Q02520",
     "question": "'Tal' soil in Bihar is associated with which type of land use?",
     "answer": "Makhana cultivation and fish farming",
     "choices": [
@@ -6006,7 +6006,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02479",
+    "qid": "Q02521",
     "question": "Red laterite soil in Bihar is primarily found in which districts?",
     "answer": "Jamui, Nawada, Banka, Munger",
     "choices": [
@@ -6019,7 +6019,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02480",
+    "qid": "Q02522",
     "question": "Which soil is described as 'self-ploughing' and why?",
     "answer": "Black soil (regur) — expands when wet, cracks when dry",
     "choices": [
@@ -6032,7 +6032,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02481",
+    "qid": "Q02523",
     "question": "The local term for riverbank erosion in Bihar is:",
     "answer": "Kataan",
     "choices": [
@@ -6045,7 +6045,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02482",
+    "qid": "Q02524",
     "question": "Terai soil is richest in which property compared to other Bihar soils?",
     "answer": "Organic matter (humus) content",
     "choices": [
@@ -6058,7 +6058,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02483",
+    "qid": "Q02525",
     "question": "'Usar' land in Bihar refers to:",
     "answer": "Alkaline/saline land unsuitable for normal crops",
     "choices": [
@@ -6071,7 +6071,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02484",
+    "qid": "Q02526",
     "question": "Which district of Bihar is known for tea cultivation, and what makes its soil suitable?",
     "answer": "Kishanganj — moist Khadar soil + high rainfall (1800mm)",
     "choices": [
@@ -6084,7 +6084,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02485",
+    "qid": "Q02527",
     "question": "Shahi Litchi (GI tagged) from Muzaffarpur grows specifically due to which soil-climate combination?",
     "answer": "Khadar soil of the Gandak-Bagmati doab + moderate climate",
     "choices": [
@@ -6097,7 +6097,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02486",
+    "qid": "Q02528",
     "question": "The Kosi embankment has paradoxically increased which problem in Bihar?",
     "answer": "Waterlogging between embankments",
     "choices": [
@@ -6110,7 +6110,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02487",
+    "qid": "Q02529",
     "question": "Which soil reclamation method is used for acid (laterite) soil in Bihar?",
     "answer": "Application of lime (CaO / CaCO₃)",
     "choices": [
@@ -6123,7 +6123,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02488",
+    "qid": "Q02530",
     "question": "'Diara' land in Bihar is best described as:",
     "answer": "Sandy riverbank land suitable for seasonal vegetable cultivation",
     "choices": [
@@ -6136,7 +6136,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02489",
+    "qid": "Q02531",
     "question": "Which statement is INCORRECT about red laterite soil in Bihar?",
     "answer": "It is highly fertile and suited for paddy cultivation",
     "choices": [
@@ -6149,7 +6149,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02490",
+    "qid": "Q02532",
     "question": "The fertility of North Bihar's Khadar soil is renewed annually by:",
     "answer": "Flood deposits of fresh silt from Himalayan rivers",
     "choices": [
@@ -6162,7 +6162,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02491",
+    "qid": "Q02533",
     "question": "Aryabhata was born in which year CE?",
     "answer": "476 CE",
     "choices": [
@@ -6175,7 +6175,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02492",
+    "qid": "Q02534",
     "question": "Which of the following did Aryabhata NOT contribute?",
     "answer": "Rules for arithmetic operations on zero",
     "choices": [
@@ -6188,7 +6188,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02493",
+    "qid": "Q02535",
     "question": "Aryabhata calculated Earth's circumference as approximately:",
     "answer": "39,968 km (actual = 40,075 km, error 0.2%)",
     "choices": [
@@ -6201,7 +6201,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02494",
+    "qid": "Q02536",
     "question": "India's first satellite was named Aryabhata and launched in:",
     "answer": "April 19, 1975",
     "choices": [
@@ -6214,7 +6214,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02495",
+    "qid": "Q02537",
     "question": "Nalanda University was destroyed in 1193 CE by:",
     "answer": "Bakhtiyar Khilji",
     "choices": [
@@ -6227,7 +6227,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02496",
+    "qid": "Q02538",
     "question": "The library of Nalanda University was called:",
     "answer": "Dharmaganja",
     "choices": [
@@ -6240,7 +6240,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02497",
+    "qid": "Q02539",
     "question": "Vikramshila University was founded by which Pala dynasty king?",
     "answer": "Dharmapala",
     "choices": [
@@ -6253,7 +6253,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02498",
+    "qid": "Q02540",
     "question": "The Chinese pilgrim who visited Nalanda during Harsha's reign and spent 5 years studying there was:",
     "answer": "Xuanzang (Hiuen Tsang)",
     "choices": [
@@ -6266,7 +6266,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02499",
+    "qid": "Q02541",
     "question": "Brahmagupta is most significant for:",
     "answer": "Formalising arithmetic rules for zero (628 CE)",
     "choices": [
@@ -6279,7 +6279,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02500",
+    "qid": "Q02542",
     "question": "Which school of Indian philosophy is associated with Vatsyayana of Pataliputra?",
     "answer": "Nyaya school (Logic)",
     "choices": [
@@ -6292,7 +6292,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02501",
+    "qid": "Q02543",
     "question": "Chanakya's \"Mandala Theory\" in the Arthashastra refers to:",
     "answer": "The king's immediate neighbours are natural enemies; neighbours' neighbours are natural allies",
     "choices": [
@@ -6305,7 +6305,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02502",
+    "qid": "Q02544",
     "question": "Sushruta, the father of surgery, is associated with which ancient text?",
     "answer": "Sushruta Samhita",
     "choices": [
@@ -6318,7 +6318,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02503",
+    "qid": "Q02545",
     "question": "The Gupta period is called the \"Golden Age of India\" partly because it produced:",
     "answer": "Aryabhata, Varahamihira, Kalidasa — scientific and literary giants",
     "choices": [
@@ -6331,7 +6331,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02504",
+    "qid": "Q02546",
     "question": "Modern Nalanda University (re-established) had which Nobel laureate as its first Chancellor?",
     "answer": "Amartya Sen",
     "choices": [
@@ -6344,7 +6344,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02505",
+    "qid": "Q02547",
     "question": "Atisha Dipankara, who revived Buddhism in Tibet, was a scholar of which ancient Bihar university?",
     "answer": "Vikramshila University (Bhagalpur)",
     "choices": [
@@ -6357,7 +6357,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02506",
+    "qid": "Q02548",
     "question": "The concept of zero as a number (shunya) in ancient India was influenced by:",
     "answer": "Buddhist philosophy of emptiness (shunyata) from Bihar's dominant religion",
     "choices": [
@@ -6370,7 +6370,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02507",
+    "qid": "Q02549",
     "question": "Panini's Ashtadhyayi contains how many grammatical rules?",
     "answer": "3,959 rules in 8 chapters",
     "choices": [
@@ -6383,7 +6383,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02508",
+    "qid": "Q02550",
     "question": "Which is INCORRECT about Aryabhata's contributions?",
     "answer": "He proved that the Earth revolves around the Sun (heliocentric system)",
     "choices": [
@@ -6396,7 +6396,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02509",
+    "qid": "Q02551",
     "question": "Odantapuri University, another ancient university of Bihar, was located in:",
     "answer": "Magadha region (Bihar)",
     "choices": [
@@ -6409,7 +6409,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02510",
+    "qid": "Q02552",
     "question": "The play \"Mudrarakshasa\" is set in which ancient city and is about which historical figure?",
     "answer": "Pataliputra; Chanakya's political strategy to establish Maurya empire",
     "choices": [
@@ -6422,7 +6422,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02511",
+    "qid": "Q02553",
     "question": "Madhubani painting is also called:",
     "answer": "Mithila painting — from the Mithila region of Bihar",
     "choices": [
@@ -6435,7 +6435,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02512",
+    "qid": "Q02554",
     "question": "Which style of Madhubani painting is traditionally done in the wedding chamber (Kohbar Ghar)?",
     "answer": "Kohbar — featuring lotus and bamboo fertility symbols",
     "choices": [
@@ -6448,7 +6448,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02513",
+    "qid": "Q02555",
     "question": "The first Madhubani artist to receive the Padma Shri was:",
     "answer": "Jagdamba Devi (1970)",
     "choices": [
@@ -6461,7 +6461,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02514",
+    "qid": "Q02556",
     "question": "Manjusha art, associated with Bhagalpur, depicts which folk story?",
     "answer": "Behula-Lakhindar — wife's devotion after husband's snakebite",
     "choices": [
@@ -6474,7 +6474,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02515",
+    "qid": "Q02557",
     "question": "Kesaria Stupa in East Champaran is significant because it is:",
     "answer": "World's largest Buddhist stupa by base circumference",
     "choices": [
@@ -6487,7 +6487,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02516",
+    "qid": "Q02558",
     "question": "The Golghar in Patna was built in which year and by whom?",
     "answer": "1786 by Captain John Garstin (British engineer)",
     "choices": [
@@ -6500,7 +6500,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02517",
+    "qid": "Q02559",
     "question": "Sher Shah Suri's tomb at Sasaram is an example of which architectural style?",
     "answer": "Afghan (Lodi) architecture — octagonal dome set in artificial lake",
     "choices": [
@@ -6513,7 +6513,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02518",
+    "qid": "Q02560",
     "question": "Bhikhari Thakur, creator of Bidesia folk theatre, was from which district?",
     "answer": "Saran district (Kutubpur village)",
     "choices": [
@@ -6526,7 +6526,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02519",
+    "qid": "Q02561",
     "question": "Ramdhari Singh Dinkar, called \"Rashtra Kavi,\" was from which district of Bihar?",
     "answer": "Begusarai (Simaria village)",
     "choices": [
@@ -6539,7 +6539,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02520",
+    "qid": "Q02562",
     "question": "Vidyapati, Bihar's greatest medieval poet, wrote primarily in which language?",
     "answer": "Maithili",
     "choices": [
@@ -6552,7 +6552,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02521",
+    "qid": "Q02563",
     "question": "The Didarganj Yakshi, considered a masterpiece of ancient Indian sculpture, is housed in:",
     "answer": "Patna Museum (Jadu Ghar)",
     "choices": [
@@ -6565,7 +6565,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02522",
+    "qid": "Q02564",
     "question": "Bhagalpur is called \"Silk City\" for producing which type of silk?",
     "answer": "Tussar (Tasar) silk — from wild Antheraea mylitta silkworm",
     "choices": [
@@ -6578,7 +6578,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02523",
+    "qid": "Q02565",
     "question": "The Vaishali Ashokan pillar is unique because:",
     "answer": "It is the only Ashokan pillar still standing in its original (in situ) location with lion capital",
     "choices": [
@@ -6591,7 +6591,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02524",
+    "qid": "Q02566",
     "question": "Thekua is most associated with which Bihar festival?",
     "answer": "Chhath Puja — it is the main prasad offered to the Sun",
     "choices": [
@@ -6604,7 +6604,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02525",
+    "qid": "Q02567",
     "question": "Phaniswarnath Renu's novel \"Maila Aanchal\" (1954) is set in which region of Bihar?",
     "answer": "Purnea district (northeast Bihar, Renu's home region)",
     "choices": [
@@ -6617,7 +6617,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02526",
+    "qid": "Q02568",
     "question": "Mahabodhi Temple in Bodh Gaya received UNESCO World Heritage status in:",
     "answer": "2002",
     "choices": [
@@ -6630,7 +6630,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02527",
+    "qid": "Q02569",
     "question": "Sikki craft, the golden grass weaving tradition, is primarily associated with which Bihar region?",
     "answer": "North Bihar — Sitamarhi, Madhubani, Darbhanga",
     "choices": [
@@ -6643,7 +6643,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02528",
+    "qid": "Q02570",
     "question": "Rohtasgarh Fort in Rohtas district is notable for having:",
     "answer": "83 gates — making it one of India's largest forts",
     "choices": [
@@ -6656,7 +6656,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02529",
+    "qid": "Q02571",
     "question": "Jat-Jatin is a folk dance of Bihar performed during:",
     "answer": "Monsoon season — a love-story themed dance by young couples",
     "choices": [
@@ -6669,7 +6669,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02530",
+    "qid": "Q02572",
     "question": "Which GI-tagged product from Bihar is associated with Nalanda and Aurangabad districts?",
     "answer": "Magahi Paan (betel leaf)",
     "choices": [
@@ -6682,7 +6682,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02531",
+    "qid": "Q02573",
     "question": "The Jhijhiya dance of Mithila involves women:",
     "answer": "Balancing an earthen pot with holes and a lamp inside while dancing",
     "choices": [
@@ -6695,7 +6695,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02532",
+    "qid": "Q02574",
     "question": "Bihar's UNESCO World Heritage Sites are:",
     "answer": "Mahabodhi Temple (2002) and Nalanda (2016) — both in Bihar",
     "choices": [
@@ -6708,7 +6708,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02533",
+    "qid": "Q02575",
     "question": "Sharda Sinha, called \"Bihar Kokila,\" was famous for singing:",
     "answer": "Chhath Puja songs and Maithili/Bhojpuri folk music",
     "choices": [
@@ -6721,7 +6721,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02534",
+    "qid": "Q02576",
     "question": "Mahavira's birthplace and nirvana place are both in Bihar. They are respectively:",
     "answer": "Vaishali (birthplace) and Pawapuri, Nalanda (nirvana)",
     "choices": [
@@ -6734,7 +6734,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02535",
+    "qid": "Q02577",
     "question": "Sujni embroidery from Muzaffarpur is unique because:",
     "answer": "Made from layered old saris embroidered with running stitch",
     "choices": [
@@ -6747,7 +6747,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02536",
+    "qid": "Q02578",
     "question": "Karpoori Thakur received the Bharat Ratna posthumously in which year?",
     "answer": "2024",
     "choices": [
@@ -6760,7 +6760,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02537",
+    "qid": "Q02579",
     "question": "Veer Kunwar Singh, who led the 1857 revolt in Bihar, was from which district?",
     "answer": "Jagdishpur, Bhojpur (Arrah) district",
     "choices": [
@@ -6773,7 +6773,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02538",
+    "qid": "Q02580",
     "question": "Which Sikh Guru was born in Patna, Bihar?",
     "answer": "Guru Gobind Singh (10th Guru)",
     "choices": [
@@ -6786,7 +6786,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02539",
+    "qid": "Q02581",
     "question": "Ramdhari Singh Dinkar received the Jnanpith Award for which work?",
     "answer": "Urvashi (1972)",
     "choices": [
@@ -6799,7 +6799,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02540",
+    "qid": "Q02582",
     "question": "Phaniswarnath Renu's \"Maila Aanchal\" pioneered which genre of Hindi literature?",
     "answer": "Aanchalik (regional) literature",
     "choices": [
@@ -6812,7 +6812,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02541",
+    "qid": "Q02583",
     "question": "Jayaprakash Narayan's dramatic escape during the Quit India Movement (1942) was from which jail?",
     "answer": "Hazaribagh Central Jail",
     "choices": [
@@ -6825,7 +6825,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02542",
+    "qid": "Q02584",
     "question": "Sher Shah Suri died at which fort in 1545?",
     "answer": "Kalinjar Fort (gunpowder explosion)",
     "choices": [
@@ -6838,7 +6838,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02543",
+    "qid": "Q02585",
     "question": "The \"Karpoori Formula\" for OBC reservation in Bihar was significant because:",
     "answer": "It divided OBC into sub-categories before the Mandal Commission",
     "choices": [
@@ -6851,7 +6851,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02544",
+    "qid": "Q02586",
     "question": "Mahavira's complete Bihar connection is:",
     "answer": "Born Vaishali; attained nirvana at Pawapuri (Nalanda)",
     "choices": [
@@ -6864,7 +6864,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02545",
+    "qid": "Q02587",
     "question": "Jagjivan Ram (\"Babuji\") holds the record for:",
     "answer": "Longest-serving Cabinet minister in Indian history (1946–1979)",
     "choices": [
@@ -6877,7 +6877,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02546",
+    "qid": "Q02588",
     "question": "Swami Sahajanand Saraswati founded which organisation in Bihar?",
     "answer": "Bihar Provincial Kisan Sabha (1929)",
     "choices": [
@@ -6890,7 +6890,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02547",
+    "qid": "Q02589",
     "question": "Which personality was simultaneously an Olympic gold medallist (1928 hockey) and the political father of the Jharkhand movement?",
     "answer": "Jaipal Singh Munda",
     "choices": [
@@ -6903,7 +6903,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02548",
+    "qid": "Q02590",
     "question": "Birsa Munda's movement \"Ulgulan\" was primarily against:",
     "answer": "British land policies, Christian missionaries, and moneylender exploitation of tribals",
     "choices": [
@@ -6916,7 +6916,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02549",
+    "qid": "Q02591",
     "question": "Nagarjun (Vaidyanath Mishra), called \"Janakavi,\" wrote in which languages?",
     "answer": "Both Hindi AND Maithili — rare bilingual achievement",
     "choices": [
@@ -6929,7 +6929,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02550",
+    "qid": "Q02592",
     "question": "Dr. Rajendra Prasad's book \"India Divided\" (1946) argued for:",
     "answer": "Opposing the partition of India — warning against dividing the country",
     "choices": [
@@ -6942,7 +6942,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02551",
+    "qid": "Q02593",
     "question": "The three Bihar-born recipients of Bharat Ratna in correct chronological order are:",
     "answer": "Rajendra Prasad (1962), JP (1999), Karpoori Thakur (2024)",
     "choices": [
@@ -6955,7 +6955,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02552",
+    "qid": "Q02594",
     "question": "Sharda Sinha, \"Bihar Kokila,\" passed away in November 2024 while being treated at:",
     "answer": "AIIMS, New Delhi",
     "choices": [
@@ -6968,7 +6968,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02553",
+    "qid": "Q02595",
     "question": "Vidyapati's birthplace Bisfi is in which district of Bihar?",
     "answer": "Madhubani district",
     "choices": [
@@ -6981,7 +6981,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02554",
+    "qid": "Q02596",
     "question": "Sher Shah Suri's GT Road was called \"Sadak-e-Azam\" and stretched approximately:",
     "answer": "From Chittagong (Bangladesh) to Kabul (Afghanistan) — ~2,500 km",
     "choices": [
@@ -6994,7 +6994,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02555",
+    "qid": "Q02597",
     "question": "Which Bihar personality is associated with the turnaround of Indian Railways as Union Railway Minister (2004–2009)?",
     "answer": "Lalu Prasad Yadav",
     "choices": [

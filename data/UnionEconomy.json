@@ -1,332 +1,566 @@
 [
   {
-    "qid": "Q02105",
-    "question": "Which type of economy does India have?",
-    "answer": "Mixed",
+    "qid": "Q01905",
+    "question": "GDP stands for Gross Domestic Product. It measures:",
+    "answer": "Total market value of all final goods and services produced within a country in one year",
     "choices": [
-      "Mixed",
-      "Socialist",
-      "Gandhian",
-      "Free"
+      "Total market value of all final goods and services produced within a country in one year",
+      "Total income of a country's citizens wherever they are in the world",
+      "Total exports of a country",
+      "Total savings of households and businesses"
     ],
-    "information": "India has mixed economic model, defined by the coexistence of both the private sector (market-driven) and the public sector (state-driven). This ensures a balance between economic efficiency and social justice.",
+    "information": "GDP = Total market value of all FINAL goods and services produced WITHIN the geographic boundary of a country in a given year, regardless of who produces it (Indian or foreigner). GNP measures output by a country's NATIONALS anywhere in the world.",
     "tags": ""
   },
   {
-    "qid": "Q02106",
-    "question": "The main source of national income of India is",
-    "answer": "Service",
+    "qid": "Q01906",
+    "question": "GNP (Gross National Product) is calculated as:",
+    "answer": "GDP + Net Factor Income from Abroad (NFIA)",
     "choices": [
-      "Service",
-      "Manufacturing",
-      "Agriculture",
-      "Foreign Remittances"
+      "GDP + Net Factor Income from Abroad (NFIA)",
+      "GDP - Depreciation",
+      "GDP + Exports",
+      "GDP - Imports"
     ],
-    "information": "",
+    "information": "GNP = GDP + Net Factor Income from Abroad (NFIA). NFIA = income earned by a country's nationals abroad MINUS income earned by foreigners within the country. If NFIA is positive, GNP > GDP (e.g., USA). India's NFIA is usually negative (more foreigners earning in India).",
     "tags": ""
   },
   {
-    "qid": "Q02107",
-    "question": "As the economy develops, the national income share of tertiary sector",
-    "answer": "goes on increasing",
+    "qid": "Q01907",
+    "question": "National Income is calculated as:",
+    "answer": "NNP at Factor Cost (NNP - Net Indirect Taxes)",
     "choices": [
-      "goes on increasing",
-      "first decreases, then increase",
-      "first increase, then decrease",
-      "goes on decreasing"
+      "NNP at Factor Cost (NNP - Net Indirect Taxes)",
+      "GDP at market prices",
+      "GNP at market prices",
+      "Total household income"
     ],
-    "information": "",
+    "information": "National Income = NNP at Factor Cost = NNP at Market Price - Net Indirect Taxes (Indirect Taxes - Subsidies). This removes the distortion of taxes and subsidies to show actual factor incomes (wages, rent, interest, profit).",
     "tags": ""
   },
   {
-    "qid": "Q02108",
-    "question": "One of the problems in calculating National Income in India is",
-    "answer": "non-organised sector",
+    "qid": "Q01908",
+    "question": "Real GDP is different from Nominal GDP because:",
+    "answer": "Real GDP is adjusted for inflation (at constant prices)",
     "choices": [
-      "non-organised sector",
-      "under-employment",
-      "inflation",
-      "low level of savings"
+      "Real GDP is adjusted for inflation (at constant prices)",
+      "Real GDP includes only exports",
+      "Real GDP excludes government spending",
+      "Real GDP uses current year prices"
     ],
-    "information": "",
+    "information": "Nominal GDP uses current market prices (includes inflation effect). Real GDP uses constant base year prices — removes the effect of price changes. Real GDP growth is the true measure of economic output growth. India's base year: 2011-12.",
     "tags": ""
   },
   {
-    "qid": "Q02109",
-    "question": "Which of the following is not a method to calculate the Gross Domestic Product (GDP)?",
-    "answer": "Diminishing Cost Method",
+    "qid": "Q01909",
+    "question": "The Human Development Index (HDI) is published by:",
+    "answer": "UNDP (United Nations Development Programme)",
     "choices": [
-      "Diminishing Cost Method",
-      "Product Method",
-      "Income Method",
-      "Expenditure Method"
+      "UNDP (United Nations Development Programme)",
+      "World Bank",
+      "IMF",
+      "WTO"
     ],
-    "information": "",
+    "information": "HDI is published annually by UNDP in the Human Development Report. It combines three dimensions: (1) Long and healthy life — life expectancy; (2) Knowledge — mean years of schooling & expected years of schooling; (3) Decent standard of living — per capita GNI. Note: The Human Capital Index (HCI) is different — published by World Bank.",
     "tags": ""
   },
   {
-    "qid": "Q02110",
-    "question": "Which one does not come under economic infrastructure?",
-    "answer": "Education or Health",
+    "qid": "Q01910",
+    "question": "Per capita income of a country is calculated as:",
+    "answer": "National Income / Total Population",
     "choices": [
-      "Education or Health",
-      "Energy",
-      "Roads",
-      "Railway"
+      "National Income / Total Population",
+      "GDP / Number of working people",
+      "Total exports / Population",
+      "GDP x Population"
     ],
-    "information": "",
+    "information": "Per Capita Income = National Income ÷ Total Population. It measures average income per person and is widely used to compare living standards. India is classified as a lower-middle income country by World Bank (GNI per capita threshold: $1,146–$4,515).",
     "tags": ""
   },
   {
-    "qid": "Q02111",
-    "question": "Hindu growth is related to",
-    "answer": "GDP",
+    "qid": "Q01911",
+    "question": "The best index of economic development can be provided by:",
+    "answer": "Increase in per capita real income per year",
     "choices": [
-      "GDP",
-      "Money",
-      "Population",
-      "GNP"
+      "Increase in per capita real income per year",
+      "Increase in national income at current prices",
+      "Increase in savings ratio",
+      "Improvement in balance of payment position"
     ],
-    "information": "",
+    "information": "Per capita real income (income adjusted for inflation and population) is the most accurate indicator of economic development as it captures both growth and distributional aspects. Nominal income figures are distorted by inflation.",
     "tags": ""
   },
   {
-    "qid": "Q02112",
-    "question": "What is money?",
-    "answer": "Commodity",
+    "qid": "Q01912",
+    "question": "Which sector of the Indian economy contributes the most to India's GDP?",
+    "answer": "Tertiary (Services) sector",
     "choices": [
-      "Commodity",
-      "Income",
-      "Wealth",
-      "Savings"
+      "Tertiary (Services) sector",
+      "Primary (Agriculture) sector",
+      "Secondary (Industry) sector",
+      "All three contribute equally"
     ],
-    "information": "",
+    "information": "The Tertiary (Services) sector is the largest contributor to India's GDP (approximately 56% of GVA in FY26 per Economic Survey 2025-26), including IT, banking, trade, transport, education, and health. Agriculture (Primary) employs the most people but contributes only 15-17% to GDP.",
     "tags": ""
   },
   {
-    "qid": "Q02113",
-    "question": "The economist who for the first time scientifically determined National Income in India?",
-    "answer": "V K R V Rao",
+    "qid": "Q01913",
+    "question": "Which sector employs the maximum number of people in India?",
+    "answer": "Primary sector (Agriculture, fishing, mining)",
     "choices": [
-      "V K R V Rao",
-      "D R Gadgil",
-      "Manmohan Singh",
-      "Y V Alagh"
+      "Primary sector (Agriculture, fishing, mining)",
+      "Secondary sector (Industry)",
+      "Tertiary sector (Services)",
+      "Quaternary sector (IT/Research)"
     ],
-    "information": "",
+    "information": "The Primary sector (mainly agriculture) employs approximately 45% of India's workforce — the most of any sector. However, it contributes only 15-17% of GDP, showing very low productivity. This structural imbalance is a key challenge for India's economy.",
     "tags": ""
   },
   {
-    "qid": "Q02114",
-    "question": "Who was the remarkable person who took the action for calculating the national income of India before Independence?",
-    "answer": "Dadabhai Naoroji",
+    "qid": "Q01914",
+    "question": "One of the major problems in calculating National Income in India is:",
+    "answer": "The large non-organised (informal) sector",
     "choices": [
-      "Dadabhai Naoroji",
-      "Jawaharlal Nehru",
-      "Mahatma Gandhi",
-      "Surendranath Banerjee"
+      "The large non-organised (informal) sector",
+      "Under-employment",
+      "Inflation",
+      "Low level of savings"
     ],
-    "information": "",
+    "information": "India's large informal/unorganised sector is very difficult to measure — transactions are often in cash, unrecorded, and outside formal accounting. This leads to significant under-estimation of national income. Approximately 80-85% of India's workforce is in the informal sector.",
     "tags": ""
   },
   {
-    "qid": "Q02115",
-    "question": "Which of the following offices or institutes releases data of the National Income in India?",
+    "qid": "Q01915",
+    "question": "Which office/institute releases data on National Income in India?",
     "answer": "National Statistical Office (NSO)",
     "choices": [
       "National Statistical Office (NSO)",
       "National Sample Survey Office (NSSO)",
       "Central Statistical Office (CSO)",
-      "NITI Ayog"
+      "NITI Aayog"
     ],
-    "information": "",
+    "information": "The National Statistical Office (NSO), under MoSPI, releases national income data including GDP estimates. The CSO was merged into NSO in 2019. NSSO conducts sample surveys but not national income estimation.",
     "tags": ""
   },
   {
-    "qid": "Q02116",
-    "question": "Which organisation carries out the survey for determining the poverty line?",
-    "answer": "National Statistical Office (NSO)",
+    "qid": "Q01916",
+    "question": "Which ministry is responsible for calculating GDP in India?",
+    "answer": "Ministry of Statistics and Programme Implementation (MoSPI)",
     "choices": [
-      "National Statistical Office (NSO)",
-      "National Sample Survey Office (NSSO)",
-      "Reserve Bank of India (RBI)",
-      "NITI Ayog"
-    ],
-    "information": "",
-    "tags": ""
-  },
-  {
-    "qid": "Q02117",
-    "question": "Which ministry is responsible for calculating GDP of India?",
-    "answer": "Ministry of Central Statistical and Program Implementation",
-    "choices": [
-      "Ministry of Central Statistical and Program Implementation",
+      "Ministry of Statistics and Programme Implementation (MoSPI)",
       "Ministry of Commerce and Industry",
       "Ministry of Finance",
       "Ministry of Consumer Affairs"
     ],
-    "information": "",
+    "information": "GDP is calculated and released by the National Statistical Office (NSO) under MoSPI (Ministry of Statistics and Programme Implementation). NITI Aayog sets policy targets, and RBI analyses data, but the official estimation is done by NSO/MoSPI.",
     "tags": ""
   },
   {
-    "qid": "Q02118",
-    "question": "The best index of economic income can be provided by",
-    "answer": "increase in per capita real income per year",
+    "qid": "Q01917",
+    "question": "Which organisation publishes the global Sustainable Development Report (SDR)?",
+    "answer": "UN Sustainable Development Solutions Network (SDSN)",
     "choices": [
-      "increase in per capita real income per year",
-      "increase in national income at current price",
-      "increase in savings ration",
-      "improvement in balance of payment position"
-    ],
-    "information": "",
-    "tags": ""
-  },
-  {
-    "qid": "Q02119",
-    "question": "Per Capita income of a country is obtained from",
-    "answer": "both National Income and Population",
-    "choices": [
-      "both National Income and Population",
-      "Population",
-      "National Income",
-      "GDP"
-    ],
-    "information": "",
-    "tags": ""
-  },
-  {
-    "qid": "Q02120",
-    "question": "Which sector of Indian economy contributes the most to the Gross National Product (GNP)?",
-    "answer": "Tertiary Sector",
-    "choices": [
-      "Tertiary Sector",
-      "Secondary Sector",
-      "Primary Sector",
-      "Public Sector"
-    ],
-    "information": "",
-    "tags": ""
-  },
-  {
-    "qid": "Q02121",
-    "question": "Which organization publishes the global Sustainable Development Report (SDR)?",
-    "answer": "UN Sustainable Development Solutions Network",
-    "choices": [
-      "UN Sustainable Development Solutions Network",
+      "UN Sustainable Development Solutions Network (SDSN)",
       "NITI Aayog",
-      "United Nations Development Programme (UNDP)",
+      "UNDP",
       "World Bank"
     ],
-    "information": "",
+    "information": "The Sustainable Development Report (SDR) is published annually by the UN Sustainable Development Solutions Network (SDSN). It tracks progress of all countries towards the 17 SDGs. India's SDG India Index is separately published by NITI Aayog.",
     "tags": ""
   },
   {
-    "qid": "Q02122",
-    "question": "Which Indian organization is responsible for monitoring the progress of SDGs at the sub-national level (States and UTs)?",
+    "qid": "Q01918",
+    "question": "Which Indian organisation monitors SDG progress at the sub-national level?",
     "answer": "NITI Aayog",
     "choices": [
       "NITI Aayog",
       "Ministry of Finance",
-      "Reserve Bank of India (RBI)",
-      "Ministry of Statistics and Programme Implementation (MoSPI)"
+      "Reserve Bank of India",
+      "MoSPI"
     ],
-    "information": "",
+    "information": "NITI Aayog is the nodal agency for SDG implementation and monitoring in India. It publishes the SDG India Index to track state and UT-level progress on all 17 SDGs annually.",
     "tags": ""
   },
   {
-    "qid": "Q02123",
-    "question": "The SDG Index measures a country's progress towards which set of goals?",
-    "answer": "17 goals",
-    "choices": [
-      "17 goals",
-      "10 goals",
-      "15 goals",
-      "20 goals"
-    ],
-    "information": "",
-    "tags": ""
-  },
-  {
-    "qid": "Q02124",
-    "question": "The Human Capital Index (HCI) is published by which of the following international organizations?",
+    "qid": "Q01919",
+    "question": "The Human Capital Index (HCI) is published by:",
     "answer": "World Bank",
     "choices": [
       "World Bank",
-      "United Nations Development Programme (UNDP)",
-      "World Health Organisation (WHO)",
-      "International Monetary Fund (IMF)"
+      "UNDP",
+      "WHO",
+      "IMF"
     ],
-    "information": "",
+    "information": "The Human Capital Index (HCI) is published by the World Bank. It measures the amount of human capital a child born today can expect to attain by age 18, combining health and education outcomes. Note: HDI (Human Development Index) is a different index published by UNDP.",
     "tags": ""
   },
   {
-    "qid": "Q02125",
-    "question": "In India, the agricultural crop year period is",
-    "answer": "1st July to 30th June",
+    "qid": "Q01920",
+    "question": "India follows which type of economic system?",
+    "answer": "Mixed Economy (both public and private sectors)",
     "choices": [
-      "1st July to 30th June",
-      "1st June to 31st May",
-      "1st April to 31st March",
-      "1st January to 31st December"
+      "Mixed Economy (both public and private sectors)",
+      "Capitalist economy (fully private)",
+      "Socialist economy (fully government controlled)",
+      "Command economy"
     ],
-    "information": "",
+    "information": "India follows a Mixed Economy where both public sector (government enterprises: Railways, defence, PSBs) and private sector (Tata, Reliance, Infosys) co-exist. The government controls strategic sectors while the private sector operates in others. Enshrined in the Preamble ('Socialist') and Directive Principles.",
     "tags": ""
   },
   {
-    "qid": "Q02126",
-    "question": "What is the fiscal deficit target for the FY 2026–27 as per the latest Union Budget?",
-    "answer": "4.5% of GDP",
+    "qid": "Q01921",
+    "question": "The Planning Commission of India was established in:",
+    "answer": "1950",
     "choices": [
-      "4.5% of GDP",
+      "1950",
+      "1947",
+      "1952",
+      "1956"
+    ],
+    "information": "The Planning Commission was established in March 1950 by PM Jawaharlal Nehru through an executive resolution (not by an Act of Parliament). Its Chairman was the Prime Minister. It was dissolved in December 2014 by PM Modi and replaced by NITI Aayog on January 1, 2015.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01922",
+    "question": "NITI Aayog replaced the Planning Commission in:",
+    "answer": "January 2015",
+    "choices": [
+      "January 2015",
+      "December 2014",
+      "January 2016",
+      "March 2015"
+    ],
+    "information": "NITI Aayog (National Institution for Transforming India) was established on January 1, 2015. The PM is its Chairman. Key difference: Planning Commission followed a top-down approach; NITI Aayog follows bottom-up cooperative federalism — states are active partners.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01923",
+    "question": "Which Five Year Plan is associated with the Mahalanobis model and heavy industrialisation?",
+    "answer": "Second Five Year Plan (1956-61)",
+    "choices": [
+      "Second Five Year Plan (1956-61)",
+      "First Five Year Plan (1951-56)",
+      "Third Five Year Plan (1961-66)",
+      "Fourth Five Year Plan (1969-74)"
+    ],
+    "information": "The Second Five Year Plan (1956-61) was based on the Harrod-Domar model modified by P.C. Mahalanobis. It emphasised heavy industry — steel plants at Bhilai (USSR), Rourkela (Germany), Durgapur (UK) were established. It also introduced 'Socialistic Pattern of Society'.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01924",
+    "question": "The LPG reforms (Liberalisation, Privatisation, Globalisation) were introduced in India in:",
+    "answer": "1991",
+    "choices": [
+      "1991",
+      "1985",
+      "1980",
+      "1997"
+    ],
+    "information": "The 1991 economic reforms were triggered when India's forex reserves fell to just 2 weeks of imports. PM P.V. Narasimha Rao and Finance Minister Dr Manmohan Singh implemented industrial delicensing, FDI liberalisation, and trade reforms. India mortgaged gold to RBI of England and Japan to avoid default.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01925",
+    "question": "Which was the LAST Five Year Plan of India?",
+    "answer": "12th Five Year Plan (2012-17)",
+    "choices": [
+      "12th Five Year Plan (2012-17)",
+      "11th Five Year Plan (2007-12)",
+      "10th Five Year Plan (2002-07)",
+      "13th Five Year Plan"
+    ],
+    "information": "The 12th Five Year Plan (2012-17) was India's last. Theme: 'Faster, More Inclusive and Sustainable Growth' with a target growth rate of 8%. After this, NITI Aayog replaced the Planning Commission and Five Year Plans were replaced by 3-year Action Plans, 7-year Strategy, and 15-year Vision documents.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01926",
+    "question": "'Hindu Rate of Growth' is associated with which economic indicator?",
+    "answer": "GDP",
+    "choices": [
+      "GDP",
+      "Money supply",
+      "Population",
+      "GNP"
+    ],
+    "information": "The 'Hindu Rate of Growth' refers to India's GDP growth rate of approximately 3.5% per annum during 1950-1980, a term coined by economist Raj Krishna. It reflected India's slow economic growth in the early post-Independence decades due to the mixed economy model and heavy public sector dominance.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01927",
+    "question": "As per the Economic Survey 2025-26, India's real GDP growth in FY26 is estimated at approximately:",
+    "answer": "7.4%",
+    "choices": [
+      "7.4%",
+      "6.1%",
+      "6.4%",
+      "7.8%"
+    ],
+    "information": "The Economic Survey 2025-26 estimates India's real GDP growth at 7.4% in FY26, making India the fastest-growing major economy globally for the fourth consecutive year. This compares to 6.5% in FY25. Projected range for FY27: 6.8-7.2%.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01928",
+    "question": "The projected GDP growth range for FY27, as per the Economic Survey 2025-26, is:",
+    "answer": "6.8% to 7.2%",
+    "choices": [
+      "6.8% to 7.2%",
+      "5.8% to 6.2%",
+      "6.0% to 6.5%",
+      "7.8% to 8.2%"
+    ],
+    "information": "The Economic Survey 2025-26 projects India's real GDP growth for FY27 in the range of 6.8% to 7.2%. India's medium-term growth potential has been revised upward to ~7% from ~6.5% earlier, reflecting the cumulative impact of structural reforms.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01929",
+    "question": "The Reserve Bank of India (RBI) was established in:",
+    "answer": "1935",
+    "choices": [
+      "1935",
+      "1949",
+      "1947",
+      "1951"
+    ],
+    "information": "RBI was established on April 1, 1935 under the Reserve Bank of India Act, 1934. It was initially privately owned and was nationalised on January 1, 1949. HQ: Mumbai. It is India's central bank — 'Bank of Banks' — and the monetary authority.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01930",
+    "question": "Who issues currency notes (except Re. 1 coin and Re. 1 note) in India?",
+    "answer": "Reserve Bank of India (RBI)",
+    "choices": [
+      "Reserve Bank of India (RBI)",
+      "Ministry of Finance",
+      "State Bank of India",
+      "SEBI"
+    ],
+    "information": "RBI issues all currency notes of Rs. 2, 5, 10, 20, 50, 100, 200, 500 denominations. The Re. 1 coin and Re. 1 note are issued by the Ministry of Finance (Government of India). All currency notes are printed at Security Printing presses (Nashik, Dewas, Mysuru, Salboni).",
+    "tags": ""
+  },
+  {
+    "qid": "Q01931",
+    "question": "Repo Rate is:",
+    "answer": "Rate at which RBI lends money to commercial banks",
+    "choices": [
+      "Rate at which RBI lends money to commercial banks",
+      "Rate at which banks lend to each other",
+      "Rate at which RBI borrows from banks",
+      "Rate at which banks lend to customers"
+    ],
+    "information": "Repo Rate (Repurchase Rate) = rate at which RBI lends short-term funds to commercial banks against government securities. If Repo Rate rises, loans become costlier, less money in economy, inflation falls. The reverse (RBI borrowing from banks) is called Reverse Repo Rate.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01932",
+    "question": "CRR (Cash Reserve Ratio) means:",
+    "answer": "Percentage of total deposits banks must keep with RBI as cash",
+    "choices": [
+      "Percentage of total deposits banks must keep with RBI as cash",
+      "Percentage of deposits invested in gold",
+      "Minimum capital a bank must have",
+      "Percentage of deposits given as farm loans"
+    ],
+    "information": "CRR = percentage of a bank's Net Demand and Time Liabilities (NDTL) that must be kept with RBI in cash (earns no interest). If CRR rises, banks have less money to lend, credit decreases, money supply falls, inflation is controlled. SLR is different — kept in liquid assets (gold, govt securities).",
+    "tags": ""
+  },
+  {
+    "qid": "Q01933",
+    "question": "Which price index is primarily used by RBI for its inflation targeting?",
+    "answer": "CPI-C (Consumer Price Index Combined)",
+    "choices": [
+      "CPI-C (Consumer Price Index Combined)",
+      "WPI (Wholesale Price Index)",
+      "GDP Deflator",
+      "PPI (Producer Price Index)"
+    ],
+    "information": "RBI uses CPI-C (Consumer Price Index Combined — covering both urban and rural) for inflation targeting under the flexible inflation targeting framework. The inflation target is 4% with a tolerance band of ±2% (i.e., 2% to 6%), set after the Urjit Patel Committee recommendations (2014).",
+    "tags": ""
+  },
+  {
+    "qid": "Q01934",
+    "question": "RBI's Monetary Policy Committee (MPC) consists of how many members?",
+    "answer": "6 members (3 from RBI + 3 external experts)",
+    "choices": [
+      "6 members (3 from RBI + 3 external experts)",
+      "5 members",
+      "4 members (all from RBI)",
+      "7 members"
+    ],
+    "information": "MPC has 6 members: Governor of RBI (Chairperson) + 2 Deputy Governors/Officers of RBI + 3 external members appointed by the Central Government. It meets 6 times a year (bi-monthly) to decide the policy repo rate by majority vote. Governor has casting vote in case of tie.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01935",
+    "question": "Stagflation refers to:",
+    "answer": "Simultaneous occurrence of stagnant growth and high inflation",
+    "choices": [
+      "Simultaneous occurrence of stagnant growth and high inflation",
+      "Very high inflation (above 100%)",
+      "Falling prices combined with high growth",
+      "Inflation only in the service sector"
+    ],
+    "information": "Stagflation = Stagnation (economic slowdown/recession) + Inflation simultaneously. This is the worst economic situation because the usual remedy for recession (increasing money supply) worsens inflation, and the remedy for inflation (reducing money supply) worsens recession. First widely seen in 1970s during oil crisis.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01936",
+    "question": "WPI (Wholesale Price Index) is published by which ministry?",
+    "answer": "Ministry of Commerce and Industry",
+    "choices": [
+      "Ministry of Commerce and Industry",
+      "Ministry of Finance",
+      "RBI",
+      "Ministry of Agriculture"
+    ],
+    "information": "WPI is published by the Office of the Economic Adviser under the Ministry of Commerce and Industry. Base year: 2011-12. It measures price changes at wholesale (producer/trader) level and covers goods only, not services. CPI covers both goods and services.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01937",
+    "question": "NABARD (National Bank for Agriculture and Rural Development) was established in:",
+    "answer": "1982",
+    "choices": [
+      "1982",
+      "1969",
+      "1975",
+      "1991"
+    ],
+    "information": "NABARD was established in 1982 as the apex institution for rural credit and development, based on the recommendations of the B. Sivaraman Committee. It refinances Regional Rural Banks (RRBs) and cooperative banks. HQ: Mumbai. It also supervises RRBs and cooperative banks.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01938",
+    "question": "14 major commercial banks were nationalised in India in:",
+    "answer": "1969",
+    "choices": [
+      "1969",
+      "1947",
+      "1955",
+      "1980"
+    ],
+    "information": "In July 1969, PM Indira Gandhi nationalised 14 major commercial banks with deposits above Rs. 50 crore. In 1980, 6 more banks were nationalised (total: 20). The aim was to ensure credit reached agriculture, small industries, and rural population under social banking policy.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01939",
+    "question": "Small Finance Banks in India are different from regular banks because they:",
+    "answer": "Focus on serving small borrowers and underserved segments",
+    "choices": [
+      "Focus on serving small borrowers and underserved segments",
+      "Can only accept deposits, not give loans",
+      "Are owned by state governments",
+      "Are only for agricultural lending"
+    ],
+    "information": "Small Finance Banks can perform most banking functions but focus on financial inclusion — small businesses, marginal farmers, micro enterprises. Examples: Ujjivan SFB, Jana SFB, AU SFB. They cannot set up overseas branches. Payment Banks (different) can accept deposits but cannot give loans at all.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01940",
+    "question": "The Economic Survey 2025-26 noted a multi-decade low in Gross NPA ratio. What was the ratio achieved?",
+    "answer": "2.2%",
+    "choices": [
+      "2.2%",
+      "2.8%",
+      "5.5%",
+      "8.2%"
+    ],
+    "information": "The Gross NPA ratio of Scheduled Commercial Banks declined to 2.2% (September 2025), a multi-decade low, as per Economic Survey 2025-26. Net NPA also reached a record low of 0.5%. This reflects successful resolution under IBC and SARFAESI frameworks.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01941",
+    "question": "Average retail inflation (CPI) during April–December FY26 was approximately:",
+    "answer": "1.7%",
+    "choices": [
+      "1.7%",
+      "7.1%",
+      "2.7%",
+      "3.1%"
+    ],
+    "information": "India recorded its lowest-ever average CPI inflation of 1.7% during April–December FY26, driven primarily by food price disinflation — vegetables, pulses, and spices. This is the lowest since the CPI series began in 2012.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01942",
+    "question": "Fiscal Deficit is defined as:",
+    "answer": "Total Expenditure minus Total Receipts (excluding borrowings)",
+    "choices": [
+      "Total Expenditure minus Total Receipts (excluding borrowings)",
+      "Revenue Deficit + Capital Deficit",
+      "Trade Deficit",
+      "Difference between exports and imports"
+    ],
+    "information": "Fiscal Deficit = Total Government Expenditure - Total Government Receipts (excluding borrowings). It represents the government's total borrowing requirement. A high fiscal deficit means more government borrowing, which can crowd out private investment and be inflationary.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01943",
+    "question": "The Union Budget is normally presented in Parliament on:",
+    "answer": "1st February",
+    "choices": [
+      "1st February",
+      "31st March",
+      "1st January",
+      "Last working day of February"
+    ],
+    "information": "Since 2017, the Union Budget is presented on February 1 (changed by Finance Minister Arun Jaitley). This allows earlier implementation before the financial year starts on April 1. It was traditionally presented on the last working day of February — a colonial-era practice.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01944",
+    "question": "Which constitutional provision mandates the presentation of the Union Budget?",
+    "answer": "Article 112",
+    "choices": [
+      "Article 112",
+      "Article 110",
+      "Article 290",
+      "Article 266"
+    ],
+    "information": "Article 112 of the Indian Constitution requires the President to lay before both Houses of Parliament the Annual Financial Statement (Union Budget), detailing estimated receipts and expenditures. Article 110 defines Money Bills. Article 266 defines the Consolidated Fund.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01945",
+    "question": "Consolidated Fund of India is defined under which Article?",
+    "answer": "Article 266",
+    "choices": [
+      "Article 266",
+      "Article 267",
+      "Article 280",
+      "Article 112"
+    ],
+    "information": "Article 266 establishes the Consolidated Fund of India and Consolidated Fund of States. ALL government revenues, loans received, and loan repayments go into this fund. ALL government expenditure must be drawn from here. Parliament must authorise all withdrawals by voting on the Appropriation Bill.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01946",
+    "question": "The Contingency Fund of India is at the disposal of:",
+    "answer": "President of India",
+    "choices": [
+      "President of India",
+      "Prime Minister",
+      "Finance Minister",
+      "Parliament"
+    ],
+    "information": "Article 267 establishes the Contingency Fund of India, which is at the disposal of the President for unforeseen/urgent expenditure. Currently Rs. 30,000 crore. After spending, Parliament must authorise replenishment through supplementary demands for grants.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01947",
+    "question": "What is the fiscal deficit target for FY 2026-27 as per Union Budget 2026-27?",
+    "answer": "4.3% of GDP",
+    "choices": [
+      "4.3% of GDP",
       "3.0% of GDP",
       "3.8% of GDP",
-      "4.3% of GDP"
+      "4.5% of GDP"
     ],
-    "information": "Fiscal deficit represents the gap between total expenditure and total non-debt receipts.\nBudget 2026–27 pegs it at 4.3% of GDP, continuing the medium-term fiscal consolidation path aimed at reaching ~4.5% or below without compromising growth.",
+    "information": "The fiscal deficit for 2026-27 is targeted at 4.3% of GDP (₹16.95 lakh crore), down from 4.4% in RE 2025-26. This continues the medium-term fiscal consolidation path aimed at reaching ~3.5% by 2030-31 as recommended by the 16th Finance Commission.",
     "tags": ""
   },
   {
-    "qid": "Q02127",
-    "question": "Public capital expenditure in Union Budget 2026–27 was increased to approximately",
-    "answer": "₹12.2 lakh crore",
-    "choices": [
-      "₹12.2 lakh crore",
-      "₹8 lakh crore",
-      "₹10.2 lakh crore",
-      "₹11.2 lakh crore"
-    ],
-    "information": "",
-    "tags": ""
-  },
-  {
-    "qid": "Q02128",
-    "question": "What is a “Vote on Account”?",
-    "answer": "Temporary approval of expenditures until full Budget is passed",
-    "choices": [
-      "Temporary approval of expenditures until full Budget is passed",
-      "Approval for non-budget expenditures",
-      "Legal permission for tax changes",
-      "Emergency budget announcement"
-    ],
-    "information": "A Vote on Account is a temporary measure that allows the government to withdraw funds from the Consolidated Fund of India to meet essential expenditures when the full Budget has not yet been passed.",
-    "tags": ""
-  },
-  {
-    "qid": "Q02129",
-    "question": "Which ministry continues to receive the highest allocation in Union Budget 2026–27?",
-    "answer": "Ministry of Defence",
-    "choices": [
-      "Ministry of Defence",
-      "Ministry of Railways",
-      "Ministry of Tourism",
-      "Ministry of Education"
-    ],
-    "information": "Defence continued to be among the top recipients with a major allocation of approximately ₹5.94 lakh crore, reflecting priority on national security and modernization.",
-    "tags": ""
-  },
-  {
-    "qid": "Q02130",
-    "question": "What is the total estimated expenditure in the Union Budget 2026–27?",
+    "qid": "Q01948",
+    "question": "What is the total estimated expenditure in the Union Budget 2026-27?",
     "answer": "₹53.5 lakh crore",
     "choices": [
       "₹53.5 lakh crore",
@@ -334,11 +568,89 @@
       "₹50.5 lakh crore",
       "₹35.5 lakh crore"
     ],
-    "information": "Total expenditure includes revenue + capital expenditure. In Union Budget 2026–27 it was estimated at ₹53.5 lakh crore",
+    "information": "Total expenditure in Union Budget 2026-27 is estimated at ₹53,47,315 crore (approximately ₹53.5 lakh crore), an increase of ~7.7% over the revised estimate of 2025-26 (₹49.6 lakh crore).",
     "tags": ""
   },
   {
-    "qid": "Q02131",
+    "qid": "Q01949",
+    "question": "Public capital expenditure in Union Budget 2026-27 was increased to approximately:",
+    "answer": "₹12.2 lakh crore",
+    "choices": [
+      "₹12.2 lakh crore",
+      "₹8 lakh crore",
+      "₹10.2 lakh crore",
+      "₹11.2 lakh crore"
+    ],
+    "information": "Public capital expenditure (capex) was increased to ₹12.2 lakh crore in FY 2026-27, which is 4.4% of GDP — reflecting the government's continued focus on infrastructure-led growth (roads, railways, ports).",
+    "tags": ""
+  },
+  {
+    "qid": "Q01950",
+    "question": "Which ministry continued to receive the highest allocation in Union Budget 2026-27?",
+    "answer": "Ministry of Defence",
+    "choices": [
+      "Ministry of Defence",
+      "Ministry of Railways",
+      "Ministry of Tourism",
+      "Ministry of Education"
+    ],
+    "information": "The Ministry of Defence received approximately ₹6.81 lakh crore in 2026-27, the highest among all ministries, reflecting India's focus on national security, military modernisation, and border infrastructure.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01951",
+    "question": "Which department received the highest scheme outlay in Bihar Budget 2026-27?",
+    "answer": "Rural Development (₹22,392.47 crore)",
+    "choices": [
+      "Rural Development (₹22,392.47 crore)",
+      "Education",
+      "Health",
+      "Urban Development"
+    ],
+    "information": "Rural Development Department received the highest scheme outlay in Bihar Budget 2026-27, reflecting focus on rural infrastructure given that ~90% of Bihar's population lives in rural areas. Note: Education has the highest TOTAL expenditure (₹60,204 crore).",
+    "tags": ""
+  },
+  {
+    "qid": "Q01952",
+    "question": "In the 'Rupee Comes From' chart of Budget 2026-27, which is the largest source of receipts?",
+    "answer": "Borrowings and Other Liabilities",
+    "choices": [
+      "Borrowings and Other Liabilities",
+      "Non-Tax Receipts",
+      "Income Tax",
+      "Corporation Tax"
+    ],
+    "information": "Borrowings and Other Liabilities represent the largest single source in the 'Rupee Comes From' chart. Net market borrowings for 2026-27 are estimated at ₹11.7 lakh crore (₹17.2 lakh crore gross). This borrowing bridges the fiscal deficit.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01953",
+    "question": "What is a 'Vote on Account'?",
+    "answer": "Temporary approval of expenditures until full Budget is passed",
+    "choices": [
+      "Temporary approval of expenditures until full Budget is passed",
+      "Approval for non-budget expenditures",
+      "Legal permission for tax changes",
+      "Emergency budget announcement"
+    ],
+    "information": "A Vote on Account (Article 116) allows the government to withdraw funds from the Consolidated Fund for essential expenditures when the full Budget has not been passed — typically used in election years or when the full Budget is delayed. It cannot be used for new policy changes.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01954",
+    "question": "Who is primarily responsible for preparing the Economic Survey of India?",
+    "answer": "Chief Economic Adviser (CEA), Ministry of Finance",
+    "choices": [
+      "Chief Economic Adviser (CEA), Ministry of Finance",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Prime Minister's Office"
+    ],
+    "information": "The Economic Survey is prepared under the leadership of the Chief Economic Adviser (CEA) in the Department of Economic Affairs, Ministry of Finance. It is tabled in Parliament a day before the Union Budget and gives a comprehensive review of the economy.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01955",
     "question": "Which department prepares the Union Budget under the guidance of the Finance Minister?",
     "answer": "Department of Economic Affairs (DEA)",
     "choices": [
@@ -347,89 +659,115 @@
       "Department of Revenue",
       "Home Department"
     ],
-    "information": "The Department of Economic Affairs (DEA) under the Finance Ministry is the central coordinating body for budget preparation, integrating inputs from all ministries and finalising the budget documents for tabling in Parliament.",
+    "information": "The Department of Economic Affairs (DEA) under the Ministry of Finance is the central coordinating body for budget preparation. It integrates inputs from all ministries and finalises the budget documents for tabling in Parliament.",
     "tags": ""
   },
   {
-    "qid": "Q02132",
-    "question": "Which constitutional provision mandates the presentation of the Union Budget (Annual Financial Statement)?",
-    "answer": "Article 112",
+    "qid": "Q01956",
+    "question": "GST (Goods and Services Tax) replaced how many taxes?",
+    "answer": "17 taxes",
     "choices": [
-      "Article 112",
-      "Article 110",
-      "Article 290",
-      "Article 266"
+      "17 taxes",
+      "5 taxes",
+      "10 taxes",
+      "25 taxes"
     ],
-    "information": "Article 112 of the Indian Constitution requires the President to lay before Parliament the Annual Financial Statement, commonly known as the Union Budget, detailing the estimates of revenue and expenditure for the coming fiscal year.",
+    "information": "GST replaced 17 taxes: Central taxes (Central Excise, Service Tax, CVD, SAD, etc.) + State taxes (VAT, Entry Tax, Octroi, CST, Entertainment Tax, etc.). Introduced on July 1, 2017 through the 101st Constitutional Amendment Act (2016).",
     "tags": ""
   },
   {
-    "qid": "Q02133",
-    "question": "When is the Union Budget of India typically presented?",
-    "answer": "1st February",
+    "qid": "Q01957",
+    "question": "Which article of the Indian Constitution was amended to introduce GST?",
+    "answer": "Article 246A (via 101st Constitutional Amendment Act, 2016)",
     "choices": [
-      "1st February",
-      "28th February",
-      "15th January",
-      "31st December"
+      "Article 246A (via 101st Constitutional Amendment Act, 2016)",
+      "Article 73rd Amendment",
+      "Article 44th Amendment",
+      "Article 86th Amendment"
     ],
-    "information": "Since 2017, the Union Budget of India has been presented on 1st February each year (or around that date) to allow sufficient time for Parliamentary scrutiny before the new financial year begins on 1st April. This replaced the earlier tradition of presenting it on 28th February.",
+    "information": "The 101st Constitutional Amendment Act (2016) inserted Article 246A, giving both Parliament and State Legislatures concurrent power to make laws on GST. It also established the GST Council (Article 279A). GST was implemented from July 1, 2017.",
     "tags": ""
   },
   {
-    "qid": "Q02134",
-    "question": "What is the “Blue Sheet” in the context of Union Budget preparation?",
-    "answer": "Confidential internal document containing key financial figures and estimates",
+    "qid": "Q01958",
+    "question": "Income Tax in India is collected by:",
+    "answer": "Central Government (through CBDT)",
     "choices": [
-      "Confidential internal document containing key financial figures and estimates",
-      "Budget announcement document",
-      "Finance Bill summary",
-      "State government budget format"
+      "Central Government (through CBDT)",
+      "State Governments",
+      "Local Bodies",
+      "RBI"
     ],
-    "information": "The Blue Sheet is a highly confidential worksheet used within the Finance Ministry. It contains the core numerical estimates and projections that underpin the entire Budget and is restricted to a select group of officials until the budget is presented.",
+    "information": "Income Tax is a direct tax collected by the Central Government through CBDT (Central Board of Direct Taxes) under the Ministry of Finance. Property Tax is collected by local bodies. GST is shared between Centre (CGST) and States (SGST). State excise on alcohol goes to state revenue.",
     "tags": ""
   },
   {
-    "qid": "Q02135",
-    "question": "Who is primarily responsible for preparing the Economic Survey of India?",
-    "answer": "Chief Economic Adviser, Ministry of Finance",
+    "qid": "Q01959",
+    "question": "GST on essential food items like unprocessed cereals, vegetables, and milk is:",
+    "answer": "0% (exempt from GST)",
     "choices": [
-      "Chief Economic Adviser, Ministry of Finance",
-      "NITI Aayog",
-      "Reserve Bank of India",
-      "Prime Minister’s Office"
+      "0% (exempt from GST)",
+      "5%",
+      "12%",
+      "18%"
     ],
-    "information": "The Survey is prepared under the leadership of the Chief Economic Adviser (CEA) in the Department of Economic Affairs.",
+    "information": "Basic food essentials — unprocessed/unbranded cereals, vegetables, fruits, milk, eggs — are exempt (0% GST) or in the 5% slab. This keeps food affordable. Luxury goods and sin goods (tobacco, aerated drinks) attract 28% GST + cess.",
     "tags": ""
   },
   {
-    "qid": "Q02136",
-    "question": "As per the Economic Survey 2025–26, India’s real GDP growth in FY26 is estimated at approximately:",
-    "answer": "7.4 percent",
+    "qid": "Q01960",
+    "question": "Which tax currently provides the highest revenue share to the Union Government?",
+    "answer": "Goods and Services Tax (GST)",
     "choices": [
-      "7.4 percent",
-      "6.1 percent",
-      "6.4 percent",
-      "7.8 percent"
+      "Goods and Services Tax (GST)",
+      "Corporate Tax",
+      "Union Excise Duties",
+      "Customs Duty"
     ],
-    "information": "The Survey estimates ~7.4% real GDP growth, keeping India the fastest-growing major economy globally.",
+    "information": "GST is the single largest source of indirect tax revenue. Gross GST collections during April-December 2025 were ₹17.4 lakh crore (6.7% YoY growth). Note: In terms of direct taxes alone, Personal Income Tax now exceeds Corporate Tax. For BPSC purposes, GST is the answer for 'indirect tax'.",
     "tags": ""
   },
   {
-    "qid": "Q02137",
-    "question": "Which sector contributes the largest share to India’s Gross Value Added (GVA)?",
-    "answer": "Services",
+    "qid": "Q01961",
+    "question": "WTO (World Trade Organisation) was founded in:",
+    "answer": "1995 (replaced GATT)",
     "choices": [
-      "Services",
-      "Manufacturing",
-      "Agriculture",
-      "Tourism"
+      "1995 (replaced GATT)",
+      "1945",
+      "1975",
+      "2001"
     ],
-    "information": "The services sector contributes over 50% of GVA, making it the backbone of India’s economy.",
+    "information": "WTO was founded on January 1, 1995, replacing GATT (General Agreement on Tariffs and Trade, established 1948). HQ: Geneva, Switzerland. It governs international trade rules and dispute resolution. India is a founding member of WTO.",
     "tags": ""
   },
   {
-    "qid": "Q02138",
+    "qid": "Q01962",
+    "question": "Which country remains India's largest trading partner as per 2025-26 data?",
+    "answer": "USA",
+    "choices": [
+      "USA",
+      "UAE",
+      "Saudi Arabia",
+      "Russia"
+    ],
+    "information": "The United States remained India's largest trading partner in FY26, with bilateral trade exceeding USD 190 billion. The US is India's top export destination. UAE is the largest source of imports (oil) but not the largest overall trading partner.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01963",
+    "question": "Which item accounts for the highest share in India's import basket?",
+    "answer": "Petroleum, Oil, and Lubricants (POL)",
+    "choices": [
+      "Petroleum, Oil, and Lubricants (POL)",
+      "Electronic Goods",
+      "Machinery",
+      "Gold"
+    ],
+    "information": "POL (Petroleum, Oil, and Lubricants) is the single largest component of India's imports, typically constituting 25-30% of total merchandise imports. It is the primary drain on India's foreign exchange reserves. India imports ~85% of its crude oil requirement.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01964",
     "question": "Current Account Deficit (CAD) in H1 FY26 was close to:",
     "answer": "0.8% of GDP",
     "choices": [
@@ -438,142 +776,116 @@
       "1.8% of GDP",
       "8.0% of GDP"
     ],
-    "information": "",
+    "information": "India's CAD in H1 FY26 was 0.8% of GDP — significantly lower than 1.3% in H1 FY25. The improvement was supported by strong services exports, record remittances of USD 135.4 billion, and rising forex reserves to USD 701.4 billion.",
     "tags": ""
   },
   {
-    "qid": "Q02139",
-    "question": "Average retail inflation (CPI) during April–December FY26 was approximately:",
-    "answer": "1.7 percent",
-    "choices": [
-      "1.7 percent",
-      "7.1 percent",
-      "2.7 percent",
-      "3.1 percent"
-    ],
-    "information": "",
-    "tags": ""
-  },
-  {
-    "qid": "Q02140",
-    "question": "Private Final Consumption Expenditure (PFCE) as a share of GDP stood at around:",
-    "answer": "61.5 percent",
-    "choices": [
-      "61.5 percent",
-      "67 percent",
-      "56.1 percent",
-      "62.5 percent"
-    ],
-    "information": "PFCE at 61.5% of GDP reflects strong domestic demand recovery.",
-    "tags": ""
-  },
-  {
-    "qid": "Q02141",
-    "question": "The projected GDP growth range for FY27, as per Economic Survey, is:",
-    "answer": "6.8 to 7.2 %",
-    "choices": [
-      "6.8 to 7.2 %",
-      "5.8 to 6.2 %",
-      "6.0 to 6.5 %",
-      "7.8 to 8.2 %"
-    ],
-    "information": "",
-    "tags": ""
-  },
-  {
-    "qid": "Q02142",
-    "question": "According to the Economic Survey 2025-26, which sector recorded the highest estimated growth rate for the current fiscal year?",
-    "answer": "Service Sector",
-    "choices": [
-      "Service Sector",
-      "Agriculture and Allied Sectors",
-      "Mining and Quarrying",
-      "Industrial Sector"
-    ],
-    "information": "The tertiary sector continues to be the fastest-growing segment, estimated at over 9% for FY26.",
-    "tags": ""
-  },
-  {
-    "qid": "Q02143",
-    "question": "Which component of the Gross Domestic Product (GDP) accounts for the highest share in the Indian economy as per the latest survey?",
-    "answer": "Private Final Consumption Expenditure (PFCE)",
-    "choices": [
-      "Private Final Consumption Expenditure (PFCE)",
-      "Government Final Consumption Expenditure",
-      "Gross Fixed Capital Formation",
-      "Net Exports"
-    ],
-    "information": "PFCE accounts for nearly 60% of the GDP, making it the largest driver of economic activity.",
-    "tags": ""
-  },
-  {
-    "qid": "Q02144",
-    "question": "Which Indian state has the lowest Per Capita Income at constant prices according to the comparative data in the Survey?",
-    "answer": "Bihar",
-    "choices": [
-      "Bihar",
-      "Uttar Pradesh",
-      "Jharkhand",
-      "Odisha"
-    ],
-    "information": "Despite high growth rates, Bihar consistently records the lowest per capita income among Indian states.",
-    "tags": ""
-  },
-  {
-    "qid": "Q02145",
-    "question": "Regarding India's external trade, which country remains India's largest trading partner as per the 2025-26 data?",
-    "answer": "USA",
-    "choices": [
-      "USA",
-      "United Arab Emirates (UAE)",
-      "Saudi Arabia",
-      "Russia"
-    ],
-    "information": "The United States remains India's top trading partner, reflecting strong bilateral trade and investment ties.",
-    "tags": ""
-  },
-  {
-    "qid": "Q02146",
-    "question": "Which sector received the highest amount of Foreign Direct Investment (FDI) inflows in the first half of the current fiscal year?",
+    "qid": "Q01965",
+    "question": "Which sector received the highest amount of FDI inflows in India?",
     "answer": "Computer Software and Hardware",
     "choices": [
       "Computer Software and Hardware",
-      "Construction (Infrastructure) Activities",
+      "Construction (Infrastructure)",
       "Automobile Industry",
       "Pharmaceuticals"
     ],
-    "information": "This sector traditionally attracts the highest FDI due to India's global IT dominance.",
+    "information": "Computer Software and Hardware has consistently attracted the highest FDI in India, reflecting India's dominance in global IT services and software exports. Gross FDI inflows were USD 81 billion in FY25.",
     "tags": ""
   },
   {
-    "qid": "Q02147",
-    "question": "Which item accounts for the highest share in India's import basket in terms of value?",
-    "answer": "Petroleum, Oil, and Lubricants (POL)",
+    "qid": "Q01966",
+    "question": "In India, the agricultural crop year period is:",
+    "answer": "1st July to 30th June",
     "choices": [
-      "Petroleum, Oil, and Lubricants (POL)",
-      "Electronic Goods",
-      "Machinery",
-      "Gold"
+      "1st July to 30th June",
+      "1st June to 31st May",
+      "1st April to 31st March",
+      "1st January to 31st December"
     ],
-    "information": "Energy imports remain the single largest drain on India's foreign exchange reserves.",
+    "information": "India's agricultural crop year runs from July 1 to June 30, covering both the Kharif season (June-November) and the Rabi season (October-March). This is different from the financial year (April-March) and calendar year (January-December).",
     "tags": ""
   },
   {
-    "qid": "Q02148",
-    "question": "Which of the following has the lowest weightage in the Consumer Price Index (Combined) used for inflation targeting?",
-    "answer": "Pan, Tobacco, and Intoxicants",
+    "qid": "Q01967",
+    "question": "MGNREGA guarantees:",
+    "answer": "100 days of employment per household per year in rural areas",
     "choices": [
-      "Pan, Tobacco, and Intoxicants",
-      "Food and Beverages",
-      "Housing",
-      "Miscellaneous"
+      "100 days of employment per household per year in rural areas",
+      "50 days employment",
+      "200 days employment",
+      "Employment to all citizens"
     ],
-    "information": "Pan, Tobacco, and Intoxicants has the lowest weightage (approx 2.73%) in the overall CPI(C) basket.",
+    "information": "MGNREGA (enacted 2005, implemented 2006) guarantees 100 days of wage employment per financial year to every rural household whose adult members are willing to do unskilled manual work. Wages must be paid within 15 days. Failure triggers unemployment allowance.",
     "tags": ""
   },
   {
-    "qid": "Q02149",
-    "question": "In the context of the Primary Sector, which Indian state is currently the largest producer of Foodgrains?",
+    "qid": "Q01968",
+    "question": "PM-KISAN scheme provides:",
+    "answer": "Rs. 6,000 per year to farmer families in 3 instalments of Rs. 2,000 each",
+    "choices": [
+      "Rs. 6,000 per year to farmer families in 3 instalments of Rs. 2,000 each",
+      "Free seeds to farmers",
+      "Crop insurance at zero premium",
+      "Rs. 10,000 loan to farmers at 0% interest"
+    ],
+    "information": "PM-KISAN (PM Kisan Samman Nidhi) provides Rs. 6,000 per year as direct income support to all farmer families in 3 equal instalments of Rs. 2,000 every 4 months directly into bank accounts. Launched February 24, 2019 by PM Modi.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01969",
+    "question": "MSP (Minimum Support Price) is recommended by:",
+    "answer": "CACP (Commission for Agricultural Costs and Prices)",
+    "choices": [
+      "CACP (Commission for Agricultural Costs and Prices)",
+      "RBI",
+      "NABARD",
+      "Finance Commission"
+    ],
+    "information": "MSP is the government-assured price for farmers' crops. It is recommended by CACP (Commission for Agricultural Costs and Prices) — an attached office of the Ministry of Agriculture and Farmers Welfare. Currently covers 23 crops including cereals, pulses, oilseeds, and commercial crops.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01970",
+    "question": "Who is called the 'Father of White Revolution' in India?",
+    "answer": "Dr Verghese Kurien",
+    "choices": [
+      "Dr Verghese Kurien",
+      "M.S. Swaminathan",
+      "Norman Borlaug",
+      "C. Subramaniam"
+    ],
+    "information": "Dr Verghese Kurien is called the Father of White Revolution (Operation Flood — 1970-1996). He revolutionised India's dairy industry through the cooperative model (AMUL, Gujarat). M.S. Swaminathan is called the Father of Green Revolution in India. Norman Borlaug is Father of Green Revolution globally.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01971",
+    "question": "FCI (Food Corporation of India) was established in:",
+    "answer": "1965",
+    "choices": [
+      "1965",
+      "1950",
+      "1947",
+      "1972"
+    ],
+    "information": "FCI was established in 1965 under the Food Corporations Act, 1964. It is responsible for procurement of food grains at MSP, maintenance of buffer stocks, and distribution through PDS (Public Distribution System) across India. HQ: New Delhi.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01972",
+    "question": "PMFBY stands for:",
+    "answer": "Pradhan Mantri Fasal Bima Yojana — crop insurance scheme",
+    "choices": [
+      "Pradhan Mantri Fasal Bima Yojana — crop insurance scheme",
+      "Pradhan Mantri Free Bijli Yojana",
+      "Pradhan Mantri Farmer Benefit Yojana",
+      "Pradhan Mantri Fisheries Benefit Yojana"
+    ],
+    "information": "PMFBY (Pradhan Mantri Fasal Bima Yojana) is India's crop insurance scheme launched in 2016 replacing NAIS. Farmers pay low premiums: 2% for Kharif, 1.5% for Rabi, 5% for horticulture. The balance is shared between Central and State governments.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01973",
+    "question": "Which Indian state is currently the largest producer of foodgrains?",
     "answer": "Uttar Pradesh",
     "choices": [
       "Uttar Pradesh",
@@ -581,85 +893,358 @@
       "Madhya Pradesh",
       "Punjab"
     ],
-    "information": "Due to its vast geographical area and fertile plains, UP is the largest producer of foodgrains in India.",
+    "information": "Uttar Pradesh is the largest producer of foodgrains in India, owing to its vast fertile Indo-Gangetic plains. It leads in wheat and sugarcane production. Punjab leads in productivity (yield per hectare) but not in total volume.",
     "tags": ""
   },
   {
-    "qid": "Q02150",
-    "question": "Which tax currently provides the highest revenue share to the Union Government as per the latest budget and survey estimations?",
-    "answer": "Goods and Services Tax (GST)",
+    "qid": "Q01974",
+    "question": "The Tendulkar Committee (2009) was associated with:",
+    "answer": "Estimating the poverty line in India",
     "choices": [
-      "Goods and Services Tax (GST)",
-      "Corporate Tax",
-      "Union Excise Duties",
-      "Customs Duty"
+      "Estimating the poverty line in India",
+      "Recommending bank reforms",
+      "Planning Commission restructuring",
+      "Tax reforms"
     ],
-    "information": "GST is the single largest source of indirect tax revenue for the government.",
+    "information": "The Tendulkar Committee (chaired by Prof. Suresh Tendulkar) reviewed India's poverty line and recommended Rs. 27/day rural and Rs. 33/day urban (2011-12 prices). The Rangarajan Committee (2014) later suggested a higher poverty line of Rs. 32/day rural and Rs. 47/day urban.",
     "tags": ""
   },
   {
-    "qid": "Q02151",
-    "question": "Which of the following states recorded the lowest Unemployment Rate (UR) as per the Periodic Labour Force Survey (PLFS) data cited in the Survey?",
-    "answer": "Chhattisgarh",
+    "qid": "Q01975",
+    "question": "Which of the following best describes 'Seasonal Unemployment'?",
+    "answer": "Unemployment that occurs only during certain seasons of the year",
     "choices": [
-      "Chhattisgarh",
-      "Kerala",
-      "Bihar",
-      "Haryana"
+      "Unemployment that occurs only during certain seasons of the year",
+      "Permanent loss of job due to technology",
+      "Unemployment during economic recession",
+      "Unemployment while switching between jobs"
     ],
-    "information": "Chhattisgarh has consistently reported very low unemployment rates in recent labor surveys.",
+    "information": "Seasonal unemployment: work available only in certain seasons. Agricultural workers face it between harvesting and sowing seasons. Other types: Structural (due to technology change), Cyclical (due to recession), Frictional (while switching jobs), Disguised (excess workers in agriculture).",
     "tags": ""
   },
   {
-    "qid": "Q02152",
-    "question": "According to the latest survey data, which state is the leader in 'Start-up' registrations under the 'Startup India' initiative?",
-    "answer": "Maharashtra",
+    "qid": "Q01976",
+    "question": "'Disguised unemployment' is mainly found in which sector in India?",
+    "answer": "Agriculture (Primary sector)",
     "choices": [
-      "Maharashtra",
-      "Karnataka",
-      "Tamil Nadu",
-      "Delhi"
+      "Agriculture (Primary sector)",
+      "IT services sector",
+      "Manufacturing sector",
+      "Banking sector"
     ],
-    "information": "Maharashtra continues to lead the country in the absolute number of recognized startups.",
+    "information": "Disguised unemployment occurs when more workers are employed than actually needed — marginal productivity of labour is zero or near-zero. Most common in Indian agriculture (family farms). If some workers are removed, total production does not fall. Bihar's agriculture is a classic example.",
     "tags": ""
   },
   {
-    "qid": "Q02153",
-    "question": "The Union Budget 2026-27 announced a significant push for 'Urban Rejuvenation'. Which scheme is the primary vehicle for this goal?",
-    "answer": "AMRUT 2.0",
+    "qid": "Q01977",
+    "question": "Which organisation carries out surveys for determining the poverty line in India?",
+    "answer": "National Statistical Office (NSO)",
     "choices": [
-      "AMRUT 2.0",
-      "MGNREGA",
-      "PM-Kisan",
-      "PM-Awas Yojana (Gramin)"
+      "National Statistical Office (NSO)",
+      "Reserve Bank of India",
+      "NITI Aayog",
+      "Ministry of Finance"
     ],
-    "information": "AMRUT (Atal Mission for Rejuvenation and Urban Transformation) is the flagship scheme for urban infrastructure and water security.",
+    "information": "The NSO (formerly NSSO) conducts the Household Consumption Expenditure Survey (HCES) used to determine poverty estimates and the poverty line in India. The most recent major HCES was conducted in 2022-23 after a gap of 11 years.",
     "tags": ""
   },
   {
-    "qid": "Q02154",
-    "question": "In the 'Rupee Comes From' chart of the Budget 2026-27, which of the following is the largest source of receipts?",
-    "answer": "Borrowings and Other Liabilities",
+    "qid": "Q01978",
+    "question": "What is the unemployment rate in Bihar for 2023-24?",
+    "answer": "3%",
     "choices": [
-      "Borrowings and Other Liabilities",
-      "Non-Tax Receipts",
-      "Income Tax",
-      "Corporation Tax"
+      "3%",
+      "4.3%",
+      "4.5%",
+      "5.4%"
     ],
-    "information": "Borrowings traditionally represent the largest 'source' of funds (often 27-30%) to bridge the fiscal deficit.",
+    "information": "Bihar's unemployment rate was 3% in 2023-24, lower than the national average. However, underemployment and seasonal unemployment remain significant challenges, especially in the rural agricultural sector which employs ~70% of Bihar's workforce.",
     "tags": ""
   },
   {
-    "qid": "Q02155",
-    "question": "The Economic Survey 2025-26 notes a record low in the 'Non-Performing Assets' (NPA) ratio of Scheduled Commercial Banks. Which ratio was achieved?",
-    "answer": "Gross NPA of 2.8%",
+    "qid": "Q01979",
+    "question": "SEBI (Securities and Exchange Board of India) regulates:",
+    "answer": "Stock markets, mutual funds, brokers and listed companies",
     "choices": [
-      "Gross NPA of 2.8%",
-      "Gross NPA of 5.5%",
-      "Gross NPA of 10.1%",
-      "Gross NPA of 8.2%"
+      "Stock markets, mutual funds, brokers and listed companies",
+      "Banks and NBFCs",
+      "Insurance companies",
+      "Pension funds"
     ],
-    "information": "Reflecting a clean-up of bank balance sheets, the GNPA ratio has dropped to a multi-year low of around 2.8% to 3%.",
+    "information": "SEBI (established 1988, given statutory powers by SEBI Act 1992) regulates Indian capital markets — stock exchanges (BSE, NSE), mutual funds, brokers, depositories, listed companies. Banks are regulated by RBI. Insurance by IRDAI. Pensions by PFRDA.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01980",
+    "question": "BSE (Bombay Stock Exchange) is significant because:",
+    "answer": "It is the oldest stock exchange in Asia, established in 1875",
+    "choices": [
+      "It is the oldest stock exchange in Asia, established in 1875",
+      "It is the largest by trading volume",
+      "It was founded by the government",
+      "It only trades government bonds"
+    ],
+    "information": "BSE was established in 1875 making it the oldest stock exchange in Asia. Located on Dalal Street, Mumbai. Its benchmark index is SENSEX comprising 30 companies. NSE (established 1992) is larger by trading volume and houses NIFTY 50.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01981",
+    "question": "SENSEX is an index of the Bombay Stock Exchange comprising:",
+    "answer": "30 largest and most actively traded companies",
+    "choices": [
+      "30 largest and most actively traded companies",
+      "50 companies",
+      "100 companies",
+      "All listed companies"
+    ],
+    "information": "SENSEX (Sensitive Index) tracks the performance of 30 financially sound, well-established companies listed on BSE. It is the benchmark indicator for the Indian stock market. NIFTY 50 (NSE) tracks 50 companies. The base year of SENSEX is 1978-79 (base value 100).",
+    "tags": ""
+  },
+  {
+    "qid": "Q01982",
+    "question": "'Make in India' initiative was launched in which year?",
+    "answer": "2014",
+    "choices": [
+      "2014",
+      "2015",
+      "2016",
+      "2013"
+    ],
+    "information": "Make in India was launched on September 25, 2014 by PM Narendra Modi. It aims to transform India into a global manufacturing hub. It focuses on 25 key sectors (later expanded to 27). The campaign uses the image of a lion made of cogs and gears.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01983",
+    "question": "PLI stands for:",
+    "answer": "Production Linked Incentive",
+    "choices": [
+      "Production Linked Incentive",
+      "Public Lending Initiative",
+      "Private Labour Incentive",
+      "Poverty Linked Income"
+    ],
+    "information": "PLI (Production Linked Incentive) scheme offers financial incentives to manufacturers for incremental sales from products manufactured in India over a base year. Launched for 14 key sectors including mobile phones, pharmaceuticals, textiles, automobiles, and food processing.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01984",
+    "question": "Which sector contributes the largest share to India's GVA as per Economic Survey 2025-26?",
+    "answer": "Services sector (56.4% of GVA)",
+    "choices": [
+      "Services sector (56.4% of GVA)",
+      "Manufacturing",
+      "Agriculture",
+      "Tourism"
+    ],
+    "information": "The Services sector contributes approximately 56.4% of India's GVA as per Economic Survey 2025-26 — a historic high. Services GVA grew at an estimated 9.1% in FY26. Financial, Real Estate, and Professional Services grew even faster at 9.9%.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01985",
+    "question": "Private Final Consumption Expenditure (PFCE) as a share of GDP stood at around:",
+    "answer": "61.5%",
+    "choices": [
+      "61.5%",
+      "67%",
+      "56.1%",
+      "62.5%"
+    ],
+    "information": "PFCE reached 61.5% of GDP in FY26, the highest since FY12, as per Economic Survey 2025-26. PFCE grew by 7% in FY26, supported by low inflation, stable employment, and rising real incomes — making private consumption the single largest driver of GDP.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01986",
+    "question": "According to the Economic Survey 2025-26, which sector recorded the highest growth rate in FY26?",
+    "answer": "Services sector (9.1%)",
+    "choices": [
+      "Services sector (9.1%)",
+      "Agriculture and allied sectors",
+      "Industry",
+      "Manufacturing"
+    ],
+    "information": "The Services sector grew at 9.1% in FY26, the highest among all sectors. Financial, Real Estate, and Professional Services within the tertiary sector grew even faster at 9.9%. Services' share in GVA reached a historic high of 56.4%.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01987",
+    "question": "Which component of GDP accounts for the highest share in the Indian economy?",
+    "answer": "Private Final Consumption Expenditure (PFCE) — ~61.5%",
+    "choices": [
+      "Private Final Consumption Expenditure (PFCE) — ~61.5%",
+      "Government Final Consumption Expenditure — ~11%",
+      "Gross Fixed Capital Formation — ~30%",
+      "Net Exports"
+    ],
+    "information": "PFCE at 61.5% of GDP is the largest component from the demand side (Economic Survey 2025-26). GFCF stands at ~30%, GFCE at ~11%, and Net Exports are actually negative (India has a trade deficit).",
+    "tags": ""
+  },
+  {
+    "qid": "Q01988",
+    "question": "Bihar's economy is primarily dependent on:",
+    "answer": "Agriculture — employs about 70% of population",
+    "choices": [
+      "Agriculture — employs about 70% of population",
+      "Mining and industry",
+      "IT services",
+      "Tourism"
+    ],
+    "information": "Bihar's economy is predominantly agrarian. Agriculture and allied activities employ approximately 70% of Bihar's workforce and contribute about 25% to GSDP. After Jharkhand bifurcation in 2000, Bihar lost most of its mineral resources (coal, iron ore), making agriculture even more dominant.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01989",
+    "question": "The JEEViKA (Bihar Rural Livelihoods Project) programme was launched in which year?",
+    "answer": "2006",
+    "choices": [
+      "2006",
+      "2005",
+      "2010",
+      "2018"
+    ],
+    "information": "JEEViKA was launched in Bihar in 2006 with World Bank support. It focuses on forming and strengthening women's Self-Help Groups (SHGs) for rural livelihoods — providing credit, skill training, and market linkages. Bihar's JEEViKA is one of India's most successful SHG programmes.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01990",
+    "question": "Bihar became a prohibition (alcohol ban) state in:",
+    "answer": "April 2016",
+    "choices": [
+      "April 2016",
+      "January 2015",
+      "October 2014",
+      "August 2017"
+    ],
+    "information": "Bihar Chief Minister Nitish Kumar implemented a complete ban on the manufacture, sale, and consumption of alcohol from April 5, 2016 under the Bihar Prohibition and Excise Act, 2016. Bihar is currently one of the few states with total prohibition.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01991",
+    "question": "'Kanya Utthan Yojana' of Bihar government aims to:",
+    "answer": "Provide financial incentives to girls at birth, during education, and at graduation",
+    "choices": [
+      "Provide financial incentives to girls at birth, during education, and at graduation",
+      "Build schools for girls only",
+      "Provide free health insurance to girl children",
+      "Give Rs. 1 lakh to girls at marriage"
+    ],
+    "information": "Mukhyamantri Kanya Utthan Yojana provides financial incentives to girls at multiple life stages: at birth, on vaccination, at passing Class 10 and 12, and at graduation. Total incentive up to Rs. 50,000 per girl. Aims to reduce female foeticide, improve sex ratio, and promote girls' education.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01992",
+    "question": "BSDM stands for:",
+    "answer": "Bihar Skill Development Mission",
+    "choices": [
+      "Bihar Skill Development Mission",
+      "Bihar State Development Ministry",
+      "Bihar Social Development Mission",
+      "Bihar Scheduled District Mission"
+    ],
+    "information": "BSDM (Bihar Skill Development Mission) was established to provide skill training to Bihar's youth in various trades to enhance employability. It operates through training centres across Bihar and coordinates with industry for placement. Part of the government's effort to address Bihar's unemployment challenge.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01993",
+    "question": "The 7 Nischay programme of Bihar government includes:",
+    "answer": "Har Ghar Bijli, Har Ghar Nal Ka Jal, Arakshit Rozgaar, Mahila Shakti",
+    "choices": [
+      "Har Ghar Bijli, Har Ghar Nal Ka Jal, Arakshit Rozgaar, Mahila Shakti",
+      "Only road construction",
+      "Only power supply",
+      "Agricultural loan waiver"
+    ],
+    "information": "7 Nischay (7 Resolutions) by CM Nitish Kumar includes: Har Ghar Bijli (electricity to all homes), Har Ghar Nal Ka Jal (tap water), Arakshit Rozgaar (secure employment), Mahila Shakti (women empowerment), youth schemes, road connectivity, and internet connectivity. 7 Nischay-2 was launched in 2020 with a new set of commitments.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01994",
+    "question": "According to the Economic Survey of Bihar 2025-26, what is the GSDP growth rate at current prices for 2024-25?",
+    "answer": "13.1%",
+    "choices": [
+      "13.1%",
+      "9.2%",
+      "14.5%",
+      "8.6%"
+    ],
+    "information": "As per Economic Survey 2025-26, Bihar's GSDP at current prices grew by 13.1% in 2024-25, exceeding India's GDP growth of 9.8%. The GSDP at current prices reached ₹9,91,997 crore.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01995",
+    "question": "According to the Economic Survey of Bihar 2025-26, what is the GSDP growth rate at constant prices for 2024-25?",
+    "answer": "8.6%",
+    "choices": [
+      "8.6%",
+      "14.5%",
+      "7.2%",
+      "6.5%"
+    ],
+    "information": "Bihar's GSDP at constant (2011-12) prices grew by 8.6% in 2024-25, exceeding India's real GDP growth of 6.5%. Real growth excludes inflation effects.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01996",
+    "question": "According to the Economic Survey of Bihar 2025-26, which sector has shown an increase in its share in Bihar's GSVA?",
+    "answer": "Secondary",
+    "choices": [
+      "Secondary",
+      "Primary",
+      "Tertiary",
+      "Tourism"
+    ],
+    "information": "The Secondary sector's share in Bihar's GSVA increased from 21.1% (2020-21) to 26.8% (2024-25). Both Primary and Tertiary sectors' shares declined, reflecting industrial growth in construction and manufacturing.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01997",
+    "question": "According to the Economic Survey of Bihar 2025-26, what is the per capita income at constant prices for 2024-25?",
+    "answer": "₹40,973",
+    "choices": [
+      "₹40,973",
+      "₹76,490",
+      "₹36,333",
+      "₹66,828"
+    ],
+    "information": "Bihar's per capita GSDP at constant (2011-12) prices rose to ₹40,973 in 2024-25. ₹36,333 is the 2023-24 constant price figure; ₹76,490 is the 2024-25 current price figure — common confusion in exams.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01998",
+    "question": "Who presented the Bihar Budget 2026-27?",
+    "answer": "Bijendra Prasad Yadav",
+    "choices": [
+      "Bijendra Prasad Yadav",
+      "Vijay Kumar Chaudhary",
+      "Nirmala Sitharaman",
+      "Nitish Kumar"
+    ],
+    "information": "Bihar Budget 2026-27 was presented on 3 February 2026 by Bijendra Prasad Yadav, the Finance Minister of Bihar. It was the largest budget in Bihar's history at ₹3,47,589.76 crore.",
+    "tags": ""
+  },
+  {
+    "qid": "Q01999",
+    "question": "What is the total expenditure estimated in Bihar Budget 2026-27?",
+    "answer": "₹3,47,589.76 crore",
+    "choices": [
+      "₹3,47,589.76 crore",
+      "₹2,85,000 crore",
+      "₹3,16,000 crore",
+      "₹3,95,000 crore"
+    ],
+    "information": "The total budget size for 2026-27 is ₹3,47,589.76 crore — the largest in Bihar's history, an increase of ~₹30,694 crore over 2025-26.",
+    "tags": ""
+  },
+  {
+    "qid": "Q02000",
+    "question": "According to Bihar Budget 2026-27, what is the fiscal deficit as percentage of GSDP?",
+    "answer": "2.99%",
+    "choices": [
+      "2.99%",
+      "3.50%",
+      "4.20%",
+      "2.15%"
+    ],
+    "information": "Bihar's Fiscal Deficit for 2026-27 is estimated at ₹39,111.80 crore (2.99% of GSDP) — within the FRBM limit of 3%. Bihar also maintains a Revenue Surplus of ₹1,143.19 crore (0.09% of GSDP).",
     "tags": ""
   }
 ]

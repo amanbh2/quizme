@@ -1676,7 +1676,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02237",
+    "qid": "Q00504",
     "question": "The 2026 ICC Men's T20 World Cup was which edition of the tournament?",
     "answer": "10th edition",
     "choices": [
@@ -1689,7 +1689,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02238",
+    "qid": "Q00505",
     "question": "The ICC Men's T20 World Cup 2026 was co-hosted by which two nations?",
     "answer": "India and Sri Lanka",
     "choices": [
@@ -1702,7 +1702,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02239",
+    "qid": "Q00506",
     "question": "India defeated which team in the final of the 2026 ICC Men's T20 World Cup?",
     "answer": "New Zealand",
     "choices": [
@@ -1715,7 +1715,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02240",
+    "qid": "Q00507",
     "question": "By how many runs did India win the ICC T20 World Cup 2026 final?",
     "answer": "96 runs",
     "choices": [
@@ -1728,7 +1728,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02241",
+    "qid": "Q00508",
     "question": "India's score of 255/5 in the 2026 T20 World Cup final set which record?",
     "answer": "Highest total in a T20 World Cup final",
     "choices": [
@@ -1741,7 +1741,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02242",
+    "qid": "Q00509",
     "question": "The 2026 T20 World Cup final was played at which venue?",
     "answer": "Narendra Modi Stadium, Ahmedabad",
     "choices": [
@@ -1754,7 +1754,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02243",
+    "qid": "Q00510",
     "question": "Who was the Player of the Final in the ICC T20 World Cup 2026?",
     "answer": "Jasprit Bumrah",
     "choices": [
@@ -1767,7 +1767,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02244",
+    "qid": "Q00511",
     "question": "Who won the Player of the Tournament award at the ICC T20 World Cup 2026?",
     "answer": "Sanju Samson",
     "choices": [
@@ -1780,7 +1780,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02245",
+    "qid": "Q00512",
     "question": "India's 2026 T20 World Cup win made them the first team to achieve which feat?",
     "answer": "Defend the T20 World Cup title",
     "choices": [
@@ -1793,7 +1793,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02246",
+    "qid": "Q00513",
     "question": "Who led India as captain in the 2026 ICC Men's T20 World Cup?",
     "answer": "Suryakumar Yadav",
     "choices": [
@@ -1806,7 +1806,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02247",
+    "qid": "Q00514",
     "question": "Who was India's head coach during the ICC T20 World Cup 2026 victory?",
     "answer": "Gautam Gambhir",
     "choices": [
@@ -1819,7 +1819,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02248",
+    "qid": "Q00515",
     "question": "Sushila Karki made which historic first in Nepal's political history?",
     "answer": "First woman to become Prime Minister",
     "choices": [
@@ -1832,7 +1832,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02249",
+    "qid": "Q00516",
     "question": "Which party won a landslide victory in Nepal's 2026 general elections?",
     "answer": "Rastriya Swatantra Party (RSP)",
     "choices": [
@@ -1845,7 +1845,7 @@
     "tags": ""
   },
   {
-    "qid": "Q02250",
+    "qid": "Q00517",
     "question": "Who is the leader and Prime Ministerial candidate of the Rastriya Swatantra Party (RSP) that won Nepal's 2026 elections?",
     "answer": "Balendra Shah",
     "choices": [
@@ -1855,6 +1855,97 @@
       "Pushpa Kamal Dahal"
     ],
     "information": "Balendra Shah — Widely known as \"Balen\", he is a civil engineer and former rapper who became Kathmandu Mayor in 2022. He was a leading figure in the 2025 uprising and led RSP to a landslide in 2026.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00518",
+    "question": "At the 98th Academy Awards (2026), which film won the Best Picture award?",
+    "answer": "One Battle After Another",
+    "choices": [
+      "One Battle After Another",
+      "Sinners",
+      "Hamnet",
+      "Frankenstein"
+    ],
+    "information": "Directed by Paul Thomas Anderson, it won 6 Oscars total including Best Picture, Best Director, and Best Supporting Actor.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00519",
+    "question": "The 98th Academy Awards were held at which venue?",
+    "answer": "Dolby Theatre, Los Angeles",
+    "choices": [
+      "Dolby Theatre, Los Angeles",
+      "Madison Square Garden, New York",
+      "Kodak Theatre, Hollywood",
+      "Lincoln Center, New York"
+    ],
+    "information": "The Academy Awards are traditionally held at the Dolby Theatre in Hollywood, Los Angeles.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00520",
+    "question": "Who hosted the 98th Academy Awards in 2026?",
+    "answer": "Conan O'Brien",
+    "choices": [
+      "Conan O'Brien",
+      "Jimmy Kimmel",
+      "John Mulaney",
+      "Ellen DeGeneres"
+    ],
+    "information": "Conan O'Brien hosted for the second consecutive year.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00521",
+    "question": "Michael B. Jordan won Best Actor at the 98th Oscars for which film?",
+    "answer": "Sinners",
+    "choices": [
+      "Sinners",
+      "One Battle After Another",
+      "Marty Supreme",
+      "Hamnet"
+    ],
+    "information": "He played dual roles (Smoke and Stack) in the film Sinners (2025).",
+    "tags": ""
+  },
+  {
+    "qid": "Q00522",
+    "question": "Jessie Buckley won Best Actress at the 2026 Oscars for which film, also becoming the first Irishwoman to win the prize?",
+    "answer": "Hamnet",
+    "choices": [
+      "Hamnet",
+      "Sentimental Value",
+      "Bugonia",
+      "Weapons"
+    ],
+    "information": "Jessie Buckley became the first Irish woman to win the Best Actress Oscar.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00523",
+    "question": "Which new award category was introduced at the 98th Academy Awards — the first new category since Best Animated Feature in 2001?",
+    "answer": "Best Casting",
+    "choices": [
+      "Best Casting",
+      "Best Stunt Coordination",
+      "Best Voice Performance",
+      "Best Original Podcast Score"
+    ],
+    "information": "First winner was Cassandra Kulukundis for One Battle After Another.",
+    "tags": ""
+  },
+  {
+    "qid": "Q00524",
+    "question": "Autumn Durald Arkapaw made history at the 98th Oscars by becoming the first woman to win which award?",
+    "answer": "Best Cinematography",
+    "choices": [
+      "Best Cinematography",
+      "Best Director",
+      "Best Film Editing",
+      "Best Visual Effects"
+    ],
+    "information": "She won for the film Sinners — first woman ever to win this Oscar.",
     "tags": ""
   }
 ]
