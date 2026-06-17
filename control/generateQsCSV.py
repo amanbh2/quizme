@@ -1,40 +1,38 @@
 # ═══════════════════════════════════════════════════════════════
-#  generateQsJSON.py  —  QuizMe v5.0
-#  Merges: generateQs.py + createManifestFile.py
+#  generateQsCSV.py  —  QuizMe v5.0 (CSV-Only Edition)
 #  Modes: convert | autotag | stats | qid-report | renumber
 # ═══════════════════════════════════════════════════════════════
 
-import os, json, re, sys
-from collections import Counter
-
-try:
-    import openpyxl
-except ImportError:
-    print("Missing dependency. Run: pip install openpyxl")
-    sys.exit(1)
+import os
+import csv
+import json
+import re
+import sys
 
 # ── Paths ──────────────────────────────────────────────────────
 BASE_DIR      = os.path.dirname(os.path.abspath(__file__))
-EXCEL_PATH    = os.path.abspath(os.path.join(BASE_DIR, 'symlinks', 'ObjectiveQuestions.xlsx'))
-DATA_DIR      = os.path.join(BASE_DIR, '..', 'data')
 CONTROL_DIR   = BASE_DIR
+SYMLINKS_DIR  = os.path.join(CONTROL_DIR, 'symlinks')
+DATA_DIR      = os.path.abspath(os.path.join(BASE_DIR, '..', 'data'))
 MANIFEST_PATH = os.path.join(CONTROL_DIR, 'manifest.json')
 COUNTER_PATH  = os.path.join(CONTROL_DIR, 'qid_counter.json')
 TAG_RULES_PATH= os.path.join(CONTROL_DIR, 'tag_rules.json')
 
-# ── QID helpers ────────────────────────────────────────────────
-QID_PATTERN = re.compile(r'^Q\d{5}$')
+# ── Expected Columns ───────────────────────────────────────────
+EXPECTED_COLS = ['QID', 'Question', 'Answer', 'Choice1', 'Choice2', 'Choice3', 'Information', 'Tags']
+QID_PATTERN   = re.compile(r'^Q\d{5}$')
 
+# ── QID helpers ────────────────────────────────────────────────
 def is_valid_qid(val):
     return bool(val and QID_PATTERN.match(str(val).strip()))
 
 def format_qid(n):
     return f"Q{n:05d}"
 
-def load_counter(wb_qids):
-    """Load counter — always rebuild from Excel max to be safe."""
-    existing_nums = [int(q[1:]) for q in wb_qids if is_valid_qid(q)]
-    max_from_excel = max(existing_nums, default=0)
+def load_counter(existing_qids):
+    """Load counter — always rebuild from CSV files max to be safe."""
+    existing_nums = [int(q[1:]) for q in existing_qids if is_valid_qid(q)]
+    max_from_csv = max(existing_nums, default=0)
     if os.path.exists(COUNTER_PATH):
         try:
             saved = json.load(open(COUNTER_PATH))
@@ -43,10 +41,51 @@ def load_counter(wb_qids):
             max_from_file = 0
     else:
         max_from_file = 0
-    return max(max_from_excel, max_from_file)
+    return max(max_from_csv, max_from_file)
 
 def save_counter(n):
     json.dump({'last': n}, open(COUNTER_PATH, 'w'))
+
+# ── CSV File Helpers ───────────────────────────────────────────
+def read_csv_file(path):
+    """Reads a CSV file returning list of headers and list of dict rows."""
+    if not os.path.exists(path):
+        return [], []
+    with open(path, mode='r', encoding='utf-8-sig') as f:
+        reader = csv.reader(f)
+        try:
+            headers = next(reader)
+        except StopIteration:
+            return [], []
+        
+        # Normalize headers (strip whitespace)
+        headers = [h.strip() for h in headers]
+        
+        rows = []
+        for row in reader:
+            if len(row) < len(headers):
+                row = row + [''] * (len(headers) - len(row))
+            elif len(row) > len(headers):
+                row = row[:len(headers)]
+            rows.append(dict(zip(headers, row)))
+        return headers, rows
+
+def write_csv_file(path, headers, rows):
+    """Writes list of dict rows to a CSV file."""
+    with open(path, mode='w', encoding='utf-8-sig', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=headers)
+        writer.writeheader()
+        for row in rows:
+            row_to_write = {h: row.get(h, '') for h in headers}
+            writer.writerow(row_to_write)
+
+def ensure_headers(headers):
+    """Ensures all EXPECTED_COLS are in the list of headers."""
+    new_headers = list(headers)
+    for col in EXPECTED_COLS:
+        if col not in new_headers:
+            new_headers.append(col)
+    return new_headers
 
 # ── Tag helpers ────────────────────────────────────────────────
 def load_tag_rules():
@@ -66,34 +105,6 @@ def auto_tag_question(text, info, tag_rules):
                 break
     return ','.join(matched)
 
-# ── Excel helpers ──────────────────────────────────────────────
-EXPECTED_COLS = ['QID', 'Question', 'Answer', 'Choice1', 'Choice2', 'Choice3', 'Information', 'Tags']
-
-def get_col_map(sheet):
-    """Return dict of col_name → col_index (1-based) from header row."""
-    headers = [str(sheet.cell(1, c).value).strip() if sheet.cell(1, c).value else ''
-               for c in range(1, sheet.max_column + 1)]
-    return {h: i+1 for i, h in enumerate(headers)}
-
-def ensure_columns(sheet):
-    """Add any missing columns to header row."""
-    col_map = get_col_map(sheet)
-    for col_name in EXPECTED_COLS:
-        if col_name not in col_map:
-            new_col = sheet.max_column + 1
-            sheet.cell(1, new_col).value = col_name
-            col_map[col_name] = new_col
-            print(f"  ℹ  Added missing column: {col_name}")
-    return get_col_map(sheet)
-
-def is_blank_row(sheet, row, col_map):
-    """True if Question column is blank — skip this row."""
-    q_col = col_map.get('Question')
-    if not q_col:
-        return True
-    val = sheet.cell(row, q_col).value
-    return not val or str(val).strip() == ''
-
 # ── MANIFEST ───────────────────────────────────────────────────
 def create_manifest():
     files = [f for f in os.listdir(DATA_DIR)
@@ -104,84 +115,73 @@ def create_manifest():
     json.dump({"files": files}, open(MANIFEST_PATH, 'w', encoding='utf-8'), indent=2)
     print(f"  ✓  Manifest updated — {len(files)} file(s)")
 
+# ── List CSV Files Helper ──────────────────────────────────────
+def get_csv_files():
+    """Lists CSV files in symlinks directory."""
+    if not os.path.exists(SYMLINKS_DIR):
+        return []
+    return sorted([f for f in os.listdir(SYMLINKS_DIR) if f.endswith('.csv')])
+
 # ═══════════════════════════════════════════════════════════════
 #  MODE: CONVERT
 # ═══════════════════════════════════════════════════════════════
 def mode_convert():
     print("\n── CONVERT ────────────────────────────────────────────")
-    if not os.path.exists(EXCEL_PATH):
-        print(f"  ✗  Excel not found: {EXCEL_PATH}"); return
+    csv_files = get_csv_files()
+    if not csv_files:
+        print(f"  ✗  No CSV files found in {SYMLINKS_DIR}")
+        return
 
-    wb = openpyxl.load_workbook(EXCEL_PATH)
     os.makedirs(DATA_DIR, exist_ok=True)
 
-    # Collect all existing QIDs across workbook first
+    # Collect all existing QIDs across all CSV files first
     all_existing_qids = set()
-    for ws in wb.worksheets:
-        cm = get_col_map(ws)
-        if 'QID' not in cm: continue
-        for row in range(2, ws.max_row + 1):
-            val = ws.cell(row, cm['QID']).value
+    for f in csv_files:
+        path = os.path.join(SYMLINKS_DIR, f)
+        _, rows = read_csv_file(path)
+        for r in rows:
+            val = r.get('QID', '')
             if is_valid_qid(val):
                 all_existing_qids.add(str(val).strip())
 
     counter = load_counter(all_existing_qids)
-    sheet_data = {}   # sheet_name → list of question dicts
-    assigned   = 0
+    all_questions = []
+    assigned = 0
     duplicates = 0
-    seen_qids  = set()
+    seen_qids = set()
 
-    for ws in wb.worksheets:
-        sheet_name = ws.title.strip()
-        col_map    = ensure_columns(ws)
-        questions  = []
+    for f in csv_files:
+        subject_name = f.replace('.csv', '')
+        path = os.path.join(SYMLINKS_DIR, f)
+        headers, rows = read_csv_file(path)
+        if not rows: continue
+        headers = ensure_headers(headers)
+        updated_rows = []
+        questions = []
 
-        for row in range(2, ws.max_row + 1):
-            if is_blank_row(ws, row, col_map):
-                continue
+        for r in rows:
+            question = r.get('Question', '').strip()
+            answer = r.get('Answer', '').strip()
+            if not question: continue
 
-            # Read QID
-            raw_qid = ws.cell(row, col_map['QID']).value
-            raw_qid = str(raw_qid).strip() if raw_qid else ''
-
-            # Validate / normalise
-            if not is_valid_qid(raw_qid):
-                raw_qid = ''  # treat as blank
-
-            # Duplicate detection
+            raw_qid = r.get('QID', '').strip()
+            if not is_valid_qid(raw_qid): raw_qid = ''
             if raw_qid and raw_qid in seen_qids:
-                print(f"  ⚠  Duplicate QID {raw_qid} in sheet '{sheet_name}' row {row} — reassigning")
+                print(f"  ⚠  Duplicate QID {raw_qid} in '{f}' — reassigning")
                 raw_qid = ''
                 duplicates += 1
 
-            # Assign new QID if blank
             if not raw_qid:
                 counter += 1
-                raw_qid  = format_qid(counter)
-                ws.cell(row, col_map['QID']).value = raw_qid
+                raw_qid = format_qid(counter)
+                r['QID'] = raw_qid
                 assigned += 1
 
             seen_qids.add(raw_qid)
-
-            def cell(col):
-                v = ws.cell(row, col_map.get(col, 0)).value if col_map.get(col) else None
-                if v is None:
-                    return ''
-                # Fix 1: whole numbers stored as floats (943.0 → "943")
-                if isinstance(v, float) and v == int(v):
-                    v = int(v)
-                # Fix 2: Excel %-formatted cells stored as decimals (0.7404 → keep as-is,
-                # but warn — you can't auto-detect intent. Best fix is to type % as text in Excel.)
-                return str(v).strip()
-
-            question = cell('Question')
-            answer   = cell('Answer')
-            choices  = [answer] + [c for c in [cell('Choice1'), cell('Choice2'),
-                                     cell('Choice3')] if c]
-            info     = cell('Information')
-            tags     = cell('Tags')
-
-            if not question or not answer:
+            choices = [answer] + [r.get(c, '').strip() for c in ['Choice1', 'Choice2', 'Choice3'] if r.get(c)]
+            
+            if not answer:
+                updated_rows.append(r)
                 continue
 
             questions.append({
@@ -189,34 +189,27 @@ def mode_convert():
                 "question":    question,
                 "answer":      answer,
                 "choices":     choices,
-                "information": info,
-                "tags":        tags
+                "information": r.get('Information', '').strip(),
+                "tags":        r.get('Tags', '').strip()
             })
+            updated_rows.append(r)
 
-        sheet_data[sheet_name] = questions
+        write_csv_file(path, headers, updated_rows)
+        if questions:
+            fname = subject_name + '.json'
+            json.dump(questions, open(os.path.join(DATA_DIR, fname), 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+            all_questions.extend(questions)
+            print(f"  ✓  {fname} — {len(questions)} questions")
 
     # Save counter
     save_counter(counter)
 
-    # Write JSON files
-    all_questions = []
-    for sheet_name, questions in sheet_data.items():
-        if not questions: continue
-        fname = sheet_name.replace(' ', '') + '.json'
-        fpath = os.path.join(DATA_DIR, fname)
-        json.dump(questions, open(fpath, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
-        all_questions.extend(questions)
-        print(f"  ✓  {fname} — {len(questions)} questions")
-
     # Write all.json
     if all_questions:
-        json.dump(all_questions,
-                  open(os.path.join(DATA_DIR, 'all.json'), 'w', encoding='utf-8'),
-                  ensure_ascii=False, indent=2)
+        all_json_path = os.path.join(DATA_DIR, 'all.json')
+        json.dump(all_questions, open(all_json_path, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
         print(f"  ✓  all.json — {len(all_questions)} questions total")
 
-    # Save workbook (QIDs written back)
-    wb.save(EXCEL_PATH)
     print(f"\n  ✓  {assigned} new QID(s) assigned")
     if duplicates:
         print(f"  ⚠  {duplicates} duplicate QID(s) detected and reassigned")
@@ -229,45 +222,50 @@ def mode_convert():
 # ═══════════════════════════════════════════════════════════════
 def mode_autotag():
     print("\n── AUTOTAG ─────────────────────────────────────────────")
-    if not os.path.exists(EXCEL_PATH):
-        print(f"  ✗  Excel not found: {EXCEL_PATH}"); return
-
     tag_rules = load_tag_rules()
     if not tag_rules:
-        print("  ✗  No tag rules loaded. Check tag_rules.json"); return
+        print("  ✗  No tag rules loaded. Check tag_rules.json")
+        return
 
-    wb      = openpyxl.load_workbook(EXCEL_PATH)
+    csv_files = get_csv_files()
+    if not csv_files:
+        print(f"  ✗  No CSV files found in {SYMLINKS_DIR}")
+        return
+
     tagged  = 0
     skipped = 0
 
-    for ws in wb.worksheets:
-        col_map = ensure_columns(ws)
-        if 'Tags' not in col_map or 'Question' not in col_map:
-            continue
+    for f in csv_files:
+        path = os.path.join(SYMLINKS_DIR, f)
+        headers, rows = read_csv_file(path)
+        if not rows: continue
+        headers = ensure_headers(headers)
+        updated_rows = []
 
-        for row in range(2, ws.max_row + 1):
-            if is_blank_row(ws, row, col_map):
+        for r in rows:
+            question = r.get('Question', '').strip()
+            if not question:
+                updated_rows.append(r)
                 continue
 
-            existing_tag = ws.cell(row, col_map['Tags']).value
-            # Never overwrite manually set tags
-            if existing_tag and str(existing_tag).strip():
+            existing_tag = r.get('Tags', '').strip()
+            if existing_tag:
                 skipped += 1
+                updated_rows.append(r)
                 continue
 
-            question = ws.cell(row, col_map['Question']).value or ''
-            info     = ws.cell(row, col_map.get('Information', 0)).value or '' \
-                       if col_map.get('Information') else ''
-
+            info = r.get('Information', '').strip()
             new_tags = auto_tag_question(question, info, tag_rules)
             if new_tags:
-                ws.cell(row, col_map['Tags']).value = new_tags
+                r['Tags'] = new_tags
                 tagged += 1
+            updated_rows.append(r)
 
-    wb.save(EXCEL_PATH)
+        write_csv_file(path, headers, updated_rows)
+
     print(f"  ✓  {tagged} question(s) tagged")
     print(f"  ℹ  {skipped} question(s) skipped (already have tags)")
-    print("\n  ✓  Autotag complete — review tags in Excel before running convert\n")
+    print("\n  ✓  Autotag complete — review tags in CSV files before running convert\n")
 
 # ═══════════════════════════════════════════════════════════════
 #  MODE: STATS
@@ -275,11 +273,13 @@ def mode_autotag():
 def mode_stats():
     print("\n── STATS ───────────────────────────────────────────────")
     if not os.path.exists(DATA_DIR):
-        print("  ✗  data/ folder not found. Run convert first."); return
+        print("  ✗  data/ folder not found. Run convert first.")
+        return
 
     total = 0
     for f in sorted(os.listdir(DATA_DIR)):
-        if not f.endswith('.json') or f == 'all.json': continue
+        if not f.endswith('.json') or f == 'all.json':
+            continue
         path = os.path.join(DATA_DIR, f)
         try:
             data = json.load(open(path, encoding='utf-8'))
@@ -294,22 +294,23 @@ def mode_stats():
 # ═══════════════════════════════════════════════════════════════
 def mode_qid_report():
     print("\n── QID REPORT ──────────────────────────────────────────")
-    if not os.path.exists(EXCEL_PATH):
-        print(f"  ✗  Excel not found: {EXCEL_PATH}"); return
+    csv_files = get_csv_files()
+    if not csv_files:
+        print(f"  ✗  No CSV files found in {SYMLINKS_DIR}")
+        return
 
-    wb   = openpyxl.load_workbook(EXCEL_PATH)
     qids = []
-
-    for ws in wb.worksheets:
-        col_map = get_col_map(ws)
-        if 'QID' not in col_map: continue
-        for row in range(2, ws.max_row + 1):
-            val = ws.cell(row, col_map['QID']).value
+    for f in csv_files:
+        path = os.path.join(SYMLINKS_DIR, f)
+        _, rows = read_csv_file(path)
+        for r in rows:
+            val = r.get('QID', '')
             if is_valid_qid(val):
                 qids.append(str(val).strip())
 
     if not qids:
-        print("  ℹ  No valid QIDs found. Run convert first.\n"); return
+        print("  ℹ  No valid QIDs found. Run convert first.\n")
+        return
 
     nums    = sorted([int(q[1:]) for q in qids])
     max_num = nums[-1]
@@ -324,7 +325,7 @@ def mode_qid_report():
 
     # Visual bar
     bar_len    = 40
-    filled     = round((active / max_num) * bar_len)
+    filled     = round((active / max_num) * bar_len) if max_num > 0 else 0
     gap_filled = bar_len - filled
     print(f"\n  Q00001 {'█' * filled}{'░' * gap_filled} Q{max_num:05d}")
     print(f"         ■ {active} Active   □ {len(gaps)} Gaps\n")
@@ -343,7 +344,7 @@ def mode_qid_report():
 def mode_renumber():
     print("\n── RENUMBER ────────────────────────────────────────────")
     print("""
-  ⚠  FULL RENUMBER — this will change ALL QIDs in your Excel file.
+  ⚠  FULL RENUMBER — this will change ALL QIDs in your CSV files.
   ─────────────────────────────────────────────────────────────────
   All existing QIDs will be reassigned sequentially from Q00001.
 
@@ -356,25 +357,34 @@ def mode_renumber():
     """)
     confirm = input("  Type YES to proceed (anything else cancels): ").strip()
     if confirm != 'YES':
-        print("  Cancelled.\n"); return
+        print("  Cancelled.\n")
+        return
 
-    if not os.path.exists(EXCEL_PATH):
-        print(f"  ✗  Excel not found: {EXCEL_PATH}"); return
+    csv_files = get_csv_files()
+    if not csv_files:
+        print(f"  ✗  No CSV files found in {SYMLINKS_DIR}")
+        return
 
-    wb      = openpyxl.load_workbook(EXCEL_PATH)
     counter = 0
+    for f in csv_files:
+        path = os.path.join(SYMLINKS_DIR, f)
+        headers, rows = read_csv_file(path)
+        if not rows: continue
+        headers = ensure_headers(headers)
+        updated_rows = []
 
-    for ws in wb.worksheets:
-        col_map = ensure_columns(ws)
-        if 'QID' not in col_map: continue
-
-        for row in range(2, ws.max_row + 1):
-            if is_blank_row(ws, row, col_map): continue
+        for r in rows:
+            question = r.get('Question', '').strip()
+            if not question:
+                updated_rows.append(r)
+                continue
             counter += 1
-            ws.cell(row, col_map['QID']).value = format_qid(counter)
+            r['QID'] = format_qid(counter)
+            updated_rows.append(r)
+
+        write_csv_file(path, headers, updated_rows)
 
     save_counter(counter)
-    wb.save(EXCEL_PATH)
 
     print(f"\n  ✓  Renumber complete — {counter} questions renumbered Q00001–Q{counter:05d}")
     print("""
@@ -386,7 +396,6 @@ def mode_renumber():
      The app will detect and prompt you automatically.
   ══════════════════════════════════════════════════════
     """)
-    # Re-run convert automatically
     run_convert = input("  Run convert now to update JSONs? (y/n): ").strip().lower()
     if run_convert == 'y':
         mode_convert()
@@ -397,15 +406,15 @@ def mode_renumber():
 def main():
     print("""
 ╔═══════════════════════════════════════╗
-║       generateQsJSON.py  v5.0         ║
-║       QuizMe Question Manager         ║
+║       generateQsCSV.py   v5.0         ║
+║  QuizMe Question Manager (CSV-Only)   ║
 ╚═══════════════════════════════════════╝
 
   What would you like to do?
 
   convert     →  Assign QIDs + export JSONs + update manifest
   autotag     →  Auto-tag untagged questions using tag_rules.json
-  stats       →  Show question counts per sheet
+  stats       →  Show question counts per CSV file
   qid-report  →  Show QID health (max, active, gaps)
   renumber    →  Full renumber all QIDs from Q00001 (needs stats reset)
     """)

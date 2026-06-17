@@ -23,13 +23,18 @@ quizme/
 │
 ├── control/                    # Developer CLI Toolchain (Python)
 │   ├── generateQsJSON.py       # Excel -> JSON conversion script
+│   ├── generateQsCSV.py        # CSV -> JSON conversion script
 │   ├── manifest.json           # Registry of data JSONs
 │   ├── qid_counter.json        # Counter tracking QIDs
-│   └── tag_rules.json          # Keyword -> Tag mappings for autotagging
+│   ├── tag_rules.json          # Keyword -> Tag mappings for autotagging
+│   └── symlinks/               # Subject spreadsheets and CSV databases (symlinked here)
+│       ├── ObjectiveQuestions.xlsx
+│       └── History_Timelines_2026.xlsx
 │
 └── knowledge-base/             # Subject-wise study notes (Markdown)
     ├── bihar-specific/         # Geography, History, Economy of Bihar
     ├── history/                # Ancient, Medieval, and Modern Indian History
+    │   └── ancient-history/    # Ancient history checklist & notes
     ├── geography/              # Physical & Indian Geography
     ├── polity/                 # Indian Constitution & Governance
     └── economy/                # Economics core, Budget & Economic Survey
@@ -39,7 +44,7 @@ quizme/
 
 ## 📊 BPSC CCE Prelims Syllabus & Quiz Database Map
 
-Your Excel sheet currently maps to the following JSON counts (from [database.txt](file:///c:/Users/amanb/Dev/quizme/data/database.txt)):
+Your CSV files currently map to the following JSON counts (from [database.txt](file:///c:/Users/amanb/Dev/quizme/data/database.txt)):
 
 | Subject Area / JSON | MCQ Count | Tag Rule in `control/tag_rules.json` | Study Notes Status |
 | :--- | :---: | :--- | :---: |
@@ -63,6 +68,7 @@ Your Excel sheet currently maps to the following JSON counts (from [database.txt
 ## 🎯 Active Checklist & Progress Tracker
 
 - [x] Create the `knowledge-base/history/ancient-history/` directory structure and [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/history/ancient-history/topics.md).
+- [x] Move all symlinks and CSV files to `control/` directory and create the new CSV conversion script.
 - [ ] Align tags in `control/tag_rules.json` with the structure of your notes.
 
 ---
