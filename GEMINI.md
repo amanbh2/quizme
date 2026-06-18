@@ -34,7 +34,9 @@ quizme/
 └── knowledge-base/             # Subject-wise study notes (Markdown)
     ├── bihar-specific/         # Geography, History, Economy of Bihar
     ├── history/                # Ancient, Medieval, and Modern Indian History
-    │   └── ancient-history/    # Ancient history checklist & notes
+    │   ├── ancient-history/    # Ancient history checklist & notes
+    │   ├── medieval-history/   # Medieval history checklist & notes
+    │   └── modern-history/     # Modern history checklist & notes
     ├── geography/              # Physical & Indian Geography
     ├── polity/                 # Indian Constitution & Governance
     └── economy/                # Economics core, Budget & Economic Survey
@@ -69,6 +71,8 @@ Your CSV files currently map to the following JSON counts (from [database.txt](f
 
 - [x] Create the `knowledge-base/history/ancient-history/` directory structure and [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/history/ancient-history/topics.md).
 - [x] Move all symlinks and CSV files to `control/` directory and create the new CSV conversion script.
+- [x] Create directory structures and templates for `medieval-history` and `modern-history`.
+- [x] Align and integrate ancient/prehistoric PYQs into the ancient [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/history/ancient-history/topics.md) checklist in chronological order.
 - [ ] Align tags in `control/tag_rules.json` with the structure of your notes.
 
 ---
