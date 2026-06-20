@@ -38,10 +38,23 @@ quizme/
     │   ├── medieval-history/   # Medieval history checklist & notes
     │   └── modern-history/     # Modern history checklist & notes
     ├── geography/              # Physical & Indian Geography
+    │   └── topics.md           # Geography topic checklist & tracker (with NCERT refs)
     ├── polity/                 # Indian Constitution & Governance
+    │   └── topics.md           # Polity topic checklist & tracker
     ├── economy/                # Economics core, Budget & Economic Survey
     ├── science-tech/           # General Science & Technology notes
-    └── current-affairs/        # Monthly & Subject-wise current affairs notes
+    ├── current-affairs/        # Monthly & Subject-wise current affairs notes
+    └── reports-surveys/        # Reports, Surveys, and Censuses (India & Bihar)
+        ├── README.md           # Reports Index README
+        ├── census/             # Census checklists and notes
+        │   ├── topics.md       # Census topic checklist & PYQ tracker
+        │   └── notes/          # India & Bihar Census 2011 notes
+        ├── economic-survey/    # Economic Survey reports (India & Bihar)
+        │   └── notes/          # India & Bihar Economic Survey 2025-26 notes
+        ├── nfhs-6/             # National Family Health Survey 6
+        │   └── notes/          # NFHS-6 health survey notes
+        └── budget/             # Budgets (Union & Bihar)
+            └── notes/          # Union & Bihar Budget 2026-27 notes
 ```
 
 ---
@@ -58,10 +71,10 @@ Your CSV files currently map to the following JSON counts (from [database.txt](f
 | **Science & Tech** ([Science.json](file:///c:/Users/amanb/Dev/quizme/data/Science.json)) | **160** | `science`, `technology` | `[ ]` Not Started |
 | **Ancient History** ([HistoryAncient.json](file:///c:/Users/amanb/Dev/quizme/data/HistoryAncient.json)) | **158** | `ancientHistory` | `[ ]` Not Started |
 | **Medieval History** ([HistoryMedieval.json](file:///c:/Users/amanb/Dev/quizme/data/HistoryMedieval.json)) | **117** | `medievalHistory` | `[ ]` Not Started |
-| **Geography** ([Geography.json](file:///c:/Users/amanb/Dev/quizme/data/Geography.json)) | **91** | `rivers`, `mountains`, `climate` | `[ ]` Not Started |
+| **Geography** ([Geography.json](file:///c:/Users/amanb/Dev/quizme/data/Geography.json)) | **91** | `rivers`, `mountains`, `climate` | `[x]` Complete |
 | **Union Economy** ([UnionEconomy.json](file:///c:/Users/amanb/Dev/quizme/data/UnionEconomy.json)) | **51** | `economy`, `banking` | `[ ]` Not Started |
-| **Bihar Economy** ([BiharEconomy.json](file:///c:/Users/amanb/Dev/quizme/data/BiharEconomy.json)) | **43** | `biharStats` (or explicit economy tags) | `[ ]` Not Started |
-| **Census** ([Census.json](file:///c:/Users/amanb/Dev/quizme/data/Census.json)) | **38** | `census2011` | `[ ]` Not Started |
+| **Bihar Economy** ([BiharEconomy.json](file:///c:/Users/amanb/Dev/quizme/data/BiharEconomy.json)) | **43** | `biharStats` (or explicit economy tags) | `[x]` Complete |
+| **Census** ([Census.json](file:///c:/Users/amanb/Dev/quizme/data/Census.json)) | **38** | `census2011` | `[x]` Complete |
 | **General Knowledge** ([GeneralKnowledge.json](file:///c:/Users/amanb/Dev/quizme/data/GeneralKnowledge.json)) | **35** | General keywords | `[ ]` Not Started |
 | **Current Affairs 2025** ([Recent2025.json](file:///c:/Users/amanb/Dev/quizme/data/Recent2025.json)) | **373** | `currentAffairs` | `[ ]` Not Started |
 | **Current Affairs 2026** ([Recent2026.json](file:///c:/Users/amanb/Dev/quizme/data/Recent2026.json)) | **128** | `currentAffairs` | `[ ]` Not Started |
@@ -78,10 +91,31 @@ Your CSV files currently map to the following JSON counts (from [database.txt](f
 - [x] Create directory structures and template READMEs for `bihar-specific`, `geography`, `polity`, `economy`, `science-tech`, and `current-affairs` notes.
 - [ ] Align tags in `control/tag_rules.json` with the structure of your notes.
 - [ ] Split checklist index files from detailed study notes (use `notes/` subfolders for modularity).
+- [x] Create the `reports-surveys/` directory structure, fact-check the Census notes, and establish modular notes for India and Bihar Census 2011.
+- [x] Create comprehensive Geography [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/geography/topics.md) checklist (14 sections, ~249 topics, with NCERT chapter-level references).
+
+---
+
+## 📚 Personal Book Library & Reference Preferences
+
+These are the primary books owned/preferred by the user. When generating references for the topics checklist, prioritize referencing these books first. If a topic is not covered in these books, fallback to other standard books (like Tamil Nadu Board for Ancient/Medieval history) or NCERT/Internet/AI.
+
+| Subject Area | Book Title | Author / Source | Citation Prefix |
+| :--- | :--- | :--- | :--- |
+| **Ancient History** | *India's Ancient Past* (Preferred over TN Board) | R.S. Sharma | `RS Sharma` (e.g., `RS Sharma Ch.5`) |
+| **Medieval History** | *History of Medieval India* (Preferred over TN Board) | Satish Chandra | `Satish Chandra` (e.g., `Satish Chandra Ch.8`) |
+| **Modern History** | *A Brief History of Modern India* | Spectrum | `Spectrum` (e.g., `Spectrum Ch.12`) |
+| **Polity** | *Indian Polity* | M. Laxmikanth | `Laxmikanth` (e.g., `Laxmikanth Ch.5`) |
+| **Geography** | NCERT (Class 6-12) | NCERT | `FPG Ch.4`, `IPE Ch.3`, etc. |
+| **Economy** | *Indian Economy* / NCERT | Ramesh Singh / NCERT | `Ramesh Singh` / `NCERT` |
+| **Environment** | *Environment* | Shankar IAS | `Shankar IAS` |
+| **Bihar-Specific** | State Board / Govt sources / Internet | Various | `Internet / AI` |
 
 ---
 
 ## 🧠 Memory & Context Protocol
+
+> **Short Name**: This file can be referred to as **"cockpit"** in conversation (e.g., *"update the cockpit"*, *"check cockpit"*).
 
 * **Proactive Reorganization Suggestions:** If any note files, checklists, or directories grow too large or unmanageable, Gemini will proactively recommend cleaner organizational methods (such as splitting files or creating subfolders).
 * **Integrity & Synchronization:** During study sessions and edits, Gemini will check if updates impact other `.md` files (like checklist indexes, cross-references, or syllabus maps) and update them so that links and references do not become stale or broken.
@@ -92,4 +126,11 @@ Your CSV files currently map to the following JSON counts (from [database.txt](f
   2. Filter out questions that are too random or vague to fit logically into the syllabus.
   3. Integrate the missing topics into the checklist, ensuring they are placed in strict chronological/logical order.
   4. Avoid duplicating existing topics and preserve existing details.
+* **Book References in Topic Checklists:** When adding a Book Reference column to topic checklists:
+  - **Prioritize the Personal Book Library** (listed under the "Personal Book Library & Reference Preferences" section). Specifically, use **R.S. Sharma** (`RS Sharma`) for Ancient History and **Satish Chandra** (`Satish Chandra`) for Medieval History.
+  - If a topic is not covered in the preferred books but is covered in **Tamil Nadu Board** books, use Tamil Nadu Board as a fallback.
+  - If no standard book/NCERT reference exists for a topic (e.g., Bihar-specific facts, current affairs, or niche topics), use `Internet / AI` as the reference.
+  - Provide **chapter-level references** wherever possible (e.g., `RS Sharma Ch.5`, `Laxmikanth Ch.5`, `Spectrum Ch.12`). Chapter numbers may vary across editions — the user will verify against book contents manually.
+  - The goal is to give the user a **direct pointer** to what to read for each topic.
+
 
