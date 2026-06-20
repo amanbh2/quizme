@@ -39,7 +39,9 @@ quizme/
     │   └── modern-history/     # Modern history checklist & notes
     ├── geography/              # Physical & Indian Geography
     ├── polity/                 # Indian Constitution & Governance
-    └── economy/                # Economics core, Budget & Economic Survey
+    ├── economy/                # Economics core, Budget & Economic Survey
+    ├── science-tech/           # General Science & Technology notes
+    └── current-affairs/        # Monthly & Subject-wise current affairs notes
 ```
 
 ---
@@ -73,12 +75,21 @@ Your CSV files currently map to the following JSON counts (from [database.txt](f
 - [x] Move all symlinks and CSV files to `control/` directory and create the new CSV conversion script.
 - [x] Create directory structures and templates for `medieval-history` and `modern-history`.
 - [x] Align and integrate ancient/prehistoric PYQs into the ancient [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/history/ancient-history/topics.md) checklist in chronological order.
+- [x] Create directory structures and template READMEs for `bihar-specific`, `geography`, `polity`, `economy`, `science-tech`, and `current-affairs` notes.
 - [ ] Align tags in `control/tag_rules.json` with the structure of your notes.
+- [ ] Split checklist index files from detailed study notes (use `notes/` subfolders for modularity).
 
 ---
 
 ## 🧠 Memory & Context Protocol
 
-* If Gemini identifies any context, architecture decisions, study progress, or critical information that needs to be persisted for future reference, Gemini will automatically update the relevant `.md` files (such as this one) or other documentation files.
-* All updates will be highlighted and presented to the user for review.
+* **Proactive Reorganization Suggestions:** If any note files, checklists, or directories grow too large or unmanageable, Gemini will proactively recommend cleaner organizational methods (such as splitting files or creating subfolders).
+* **Integrity & Synchronization:** During study sessions and edits, Gemini will check if updates impact other `.md` files (like checklist indexes, cross-references, or syllabus maps) and update them so that links and references do not become stale or broken.
+* **Modular Notes Structure:** Detailed study notes must be kept in separate directories (e.g., in a `notes/` subfolder under each subject area) rather than directly in the checklists, keeping index files clean.
+* **Persistent Updates:** If Gemini identifies any context, architecture decisions, study progress, or critical information that needs to be persisted for future reference, Gemini will automatically update the relevant coordination files (such as this one) or other documentation files and present the updates for review.
+* **Analyzing and Integrating PYQs:** When the user shares Previous Year Questions (PYQs) to update topic checklists (like [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/history/ancient-history/topics.md)), Gemini will:
+  1. Analyze the questions to identify missing sub-topics or conceptual areas.
+  2. Filter out questions that are too random or vague to fit logically into the syllabus.
+  3. Integrate the missing topics into the checklist, ensuring they are placed in strict chronological/logical order.
+  4. Avoid duplicating existing topics and preserve existing details.
 
