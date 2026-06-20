@@ -89,7 +89,7 @@ Your CSV files currently map to the following JSON counts (from [database.txt](f
 - [x] Create directory structures and templates for `medieval-history` and `modern-history`.
 - [x] Align and integrate ancient/prehistoric PYQs into the ancient [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/history/ancient-history/topics.md) checklist in chronological order.
 - [x] Create directory structures and template READMEs for `bihar-specific`, `geography`, `polity`, `economy`, `science-tech`, and `current-affairs` notes.
-- [ ] Align tags in `control/tag_rules.json` with the structure of your notes.
+- [x] Align tags in `control/tag_rules.json` with the structure of your notes.
 - [ ] Split checklist index files from detailed study notes (use `notes/` subfolders for modularity).
 - [x] Create the `reports-surveys/` directory structure, fact-check the Census notes, and establish modular notes for India and Bihar Census 2011.
 - [x] Create comprehensive Geography [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/geography/topics.md) checklist (14 sections, ~249 topics, with NCERT chapter-level references).
@@ -132,5 +132,6 @@ These are the primary books owned/preferred by the user. When generating referen
   - If no standard book/NCERT reference exists for a topic (e.g., Bihar-specific facts, current affairs, or niche topics), use `Internet / AI` as the reference.
   - Provide **chapter-level references** wherever possible (e.g., `RS Sharma Ch.5`, `Laxmikanth Ch.5`, `Spectrum Ch.12`). Chapter numbers may vary across editions — the user will verify against book contents manually.
   - The goal is to give the user a **direct pointer** to what to read for each topic.
+* **Proactive Tag Rule Alignment:** When new topics, subjects, or checklist sections are added, edited, or restructured in the knowledge base, Gemini will proactively check and update the corresponding auto-tagging keys and keyword rules in `control/tag_rules.json` to keep them perfectly aligned.
 
 
