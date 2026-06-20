@@ -30,7 +30,10 @@
         <span class="brand-quiz">Quiz</span><span class="brand-me">Me</span>
     </div>
     <nav class="sidebar-nav">
-        <button class="nav-item active" data-tab="quiz">
+        <button class="nav-item active" data-tab="dashboard">
+            <i class="fa-solid fa-gauge-high"></i><span>Dashboard</span>
+        </button>
+        <button class="nav-item" data-tab="quiz">
             <i class="fa-solid fa-circle-question"></i><span>Quiz</span>
         </button>
         <button class="nav-item" data-tab="stats">
@@ -97,11 +100,49 @@
 ════════════════════════════════════════════════════════ -->
 <main id="main-content">
 
+    <!-- ── TAB: DASHBOARD ─────────────────────────────── -->
+    <div id="tab-dashboard" class="tab-page active">
+        <div class="dashboard-hero">
+            <h1>Welcome back, study master</h1>
+            <p>Your BPSC / UPSC Prelims study progress at a glance.</p>
+            <div class="db-summary-grid">
+                <div class="db-summary-card">
+                    <span class="db-summary-val" id="db-total-questions">0</span>
+                    <span class="db-summary-lbl">Database Questions</span>
+                </div>
+                <div class="db-summary-card">
+                    <span class="db-summary-val" id="db-total-accuracy">0%</span>
+                    <span class="db-summary-lbl">Average Accuracy</span>
+                </div>
+                <div class="db-summary-card">
+                    <span class="db-summary-val" id="db-srs-count">0</span>
+                    <span class="db-summary-lbl">SRS Review Queue</span>
+                </div>
+            </div>
+            <div class="db-actions">
+                <button class="db-action-btn primary" id="db-btn-start">
+                    <i class="fa-solid fa-play"></i> Start Quiz Session
+                </button>
+                <button class="db-action-btn" id="db-btn-srs">
+                    <i class="fa-solid fa-clock-rotate-left"></i> Run SRS Review
+                </button>
+            </div>
+        </div>
+
+        <div class="dashboard-section">
+            <h2 class="db-section-title"><i class="fa-solid fa-folder-open"></i> Subject Database</h2>
+            <div class="db-subject-grid" id="db-subject-grid"></div>
+        </div>
+    </div>
+
     <!-- ── TAB: QUIZ ──────────────────────────────────── -->
-    <div id="tab-quiz" class="tab-page active">
+    <div id="tab-quiz" class="tab-page">
 
         <div class="quiz-controls">
             <div id="subject"></div>
+            <div id="subtopic-wrap" style="display:none">
+                <select id="subtopic-select"></select>
+            </div>
         </div>
 
         <div id="mode-label" class="mode-label"></div>
@@ -260,7 +301,10 @@
      MOBILE BOTTOM NAV
 ════════════════════════════════════════════════════════ -->
 <nav id="bottom-nav">
-    <button class="bottom-nav-item active" data-tab="quiz">
+    <button class="bottom-nav-item active" data-tab="dashboard">
+        <i class="fa-solid fa-gauge-high"></i><span>Dashboard</span>
+    </button>
+    <button class="bottom-nav-item" data-tab="quiz">
         <i class="fa-solid fa-circle-question"></i><span>Quiz</span>
     </button>
     <button class="bottom-nav-item" data-tab="stats">
@@ -298,6 +342,7 @@
                 <button class="mode-btn active" id="mode-normal">Normal</button>
                 <button class="mode-btn" id="mode-weak">Weak</button>
                 <button class="mode-btn" id="mode-unseen">Unseen</button>
+                <button class="mode-btn" id="mode-srs">SRS</button>
                 <button class="mode-btn" id="mode-revision">Revision</button>
             </div>
             <div id="mode-desc" class="mode-desc">Weighted random — weak questions appear more often</div>

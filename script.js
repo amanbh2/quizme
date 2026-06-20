@@ -21,6 +21,7 @@ function saveFlagged() { localStorage.setItem('qm-flagged', JSON.stringify(flagg
 /* ── Persistent state ────────────────────────────────────────── */
 let questionStats = safeParseJSON('qm-stats-v2',   {});
 let flaggedQ      = safeParseJSON('qm-flagged',     {});
+let srsReviews    = safeParseJSON('qm-srs',         {});
 let gistConfig    = safeParseJSON('qm-gist-config', { token:'', gistId:'' });
 let syncQueue     = safeParseJSON('qm-sync-queue',  []);
 let examConfig    = safeParseJSON('qm-exam',        { name:'', date:'' });
@@ -29,13 +30,16 @@ let soundEnabled  = localStorage.getItem('qm-sound') !== 'false'; // default on
 
 /* ── Runtime state ───────────────────────────────────────────── */
 let questions            = [];
+let allQuestions         = [];
+let subjectQuestionCounts = {};
+let subjectQuestions     = {};
 let usedIndexes          = new Set();
 let currentQuestionIndex = 0;
 let dataUrl              = 'data/all.json';
 let currentSubject       = 'all';
 let availableSheets      = [];
 let quizMode             = localStorage.getItem('qm-mode') || 'normal';
-let activeTab            = localStorage.getItem('qm-tab')  || 'quiz';
+let activeTab            = localStorage.getItem('qm-tab')  || 'dashboard';
 let filteredIndexes      = [];
 let sessionAnswered      = 0;
 let sessionCorrect       = 0;
@@ -160,6 +164,25 @@ function recordAnswer(subject, qid, isCorrect) {
 
     saveStats();
     queueSync({ q:qid, s:subject, r:isCorrect?1:0, t:s.t });
+
+    // --- SRS Spaced Repetition Logic ---
+    const now = Math.floor(Date.now() / 1000);
+    if (!isCorrect) {
+        srsReviews[qid] = {
+            box: 1,
+            nextReview: now + 86400
+        };
+    } else {
+        if (srsReviews[qid]) {
+            const currentBox = srsReviews[qid].box || 1;
+            const nextBox = Math.min(currentBox + 1, 5);
+            srsReviews[qid] = {
+                box: nextBox,
+                nextReview: now + SRS_INTERVALS[nextBox - 1]
+            };
+        }
+    }
+    localStorage.setItem('qm-srs', JSON.stringify(srsReviews));
 }
 
 function getAttempts(qid)  { return questionStats[qid]?.a ?? 0; }
@@ -456,14 +479,37 @@ function setSyncUI(status) {
 
 function buildFiltered() {
     filteredIndexes = [];
+    const now = Math.floor(Date.now() / 1000);
+    const subSelect = document.getElementById('subtopic-select');
+    const selectedSubtopic = subSelect ? subSelect.value : 'all';
+
     for (let i = 0; i < questions.length; i++) {
-        const qid = questions[i].qid;
+        const q = questions[i];
+        const qid = q.qid;
+
+        // Sub-topic Filter
+        if (selectedSubtopic !== 'all') {
+            const qtags = q.tags ? q.tags.split(',').map(t => t.trim()) : [];
+            if (!qtags.includes(selectedSubtopic)) {
+                continue;
+            }
+        }
+
         const acc = getAccuracy(qid);
         const m   = getMastery(qid);
-        if      (quizMode === 'weak')     { if (acc === null || acc < 60) filteredIndexes.push(i); }
-        else if (quizMode === 'unseen')   { if (getAttempts(qid) === 0)   filteredIndexes.push(i); }
-        else if (quizMode === 'revision') { if (m === 'mastered')          filteredIndexes.push(i); }
-        else filteredIndexes.push(i);
+        if (quizMode === 'weak') {
+            if (acc === null || acc < 60) filteredIndexes.push(i);
+        } else if (quizMode === 'unseen') {
+            if (getAttempts(qid) === 0) filteredIndexes.push(i);
+        } else if (quizMode === 'revision') {
+            if (m === 'mastered') filteredIndexes.push(i);
+        } else if (quizMode === 'srs') {
+            if (srsReviews[qid] && srsReviews[qid].nextReview <= now) {
+                filteredIndexes.push(i);
+            }
+        } else {
+            filteredIndexes.push(i);
+        }
     }
 }
 
@@ -500,8 +546,259 @@ function switchTab(tab) {
     document.querySelectorAll('.nav-item, .bottom-nav-item').forEach(b => {
         b.classList.toggle('active', b.dataset.tab === tab);
     });
+    if (tab === 'dashboard') renderDashboard();
     if (tab === 'stats') renderStatsTab();
     if (tab === 'info')  renderInfoTab();
+}
+
+/* ── BPSC Prelims Upgrade: SRS, Sub-topics & Dashboard Helpers ── */
+
+const TAG_LABELS = {
+    // Polity
+    polityBackground: "Polity: Historical Background",
+    polityMaking: "Polity: Making of the Constitution",
+    polityPreamble: "Polity: Preamble",
+    polityFR: "Polity: Fundamental Rights",
+    polityDPSP: "Polity: DPSP",
+    polityDuties: "Polity: Fundamental Duties",
+    polityUnionExec: "Polity: Union Executive",
+    polityParliament: "Polity: Parliament",
+    polityJudiciary: "Polity: Judiciary",
+    polityStateGov: "Polity: State Government",
+    polityRelations: "Polity: Centre-State Relations",
+    polityEmergency: "Polity: Emergency Provisions",
+    polityBodies: "Polity: Constitutional/Non-Constitutional Bodies",
+    polityLocalGov: "Polity: Local Government",
+    polityAmendments: "Polity: Amendments",
+    polityJudgements: "Polity: Landmark Judgements",
+
+    // Ancient History
+    ancientIVC: "Ancient: IVC & Prehistory",
+    ancientVedic: "Ancient: Vedic Age",
+    ancientMahajanapadas: "Ancient: Mahajanapadas",
+    ancientMauryan: "Ancient: Mauryan Empire",
+    ancientPostMauryan: "Ancient: Post-Mauryan Period",
+    ancientGupta: "Ancient: Gupta Empire",
+    ancientPostGupta: "Ancient: Post-Gupta Period",
+    ancientSangam: "Ancient: Sangam Age",
+    ancientBuddhismJainism: "Ancient: Buddhism & Jainism",
+    ancientSouthIndia: "Ancient: Early South India",
+
+    // Medieval History
+    medievalRajputsCholas: "Medieval: Rajputs & Cholas",
+    medievalInvasions: "Medieval: Early Invasions",
+    medievalSultanate: "Medieval: Delhi Sultanate",
+    medievalDeccan: "Medieval: Vijayanagar & Bahmani",
+    medievalMughal: "Medieval: Mughal Empire & Sher Shah",
+    medievalBhaktiSufi: "Medieval: Bhakti & Sufi Movements",
+
+    // Modern History
+    modernEuropeans: "Modern: Advent of Europeans",
+    modernConsolidation1857: "Modern: British Consolidation & 1857",
+    modernNationalism: "Modern: Rise of Nationalism (1858-1905)",
+    modernSwadeshiSurat: "Modern: Swadeshi & Extremism (1905-1918)",
+    modernMassMovements: "Modern: Gandhian Era & Mass Movements",
+    modernIndependence: "Modern: Towards Independence (1940-1947)",
+
+    // Geography
+    geoPhysical: "Geography: Physical",
+    geoIndiaPhysiography: "Geography: Indian Physiography",
+    geoIndiaEconomic: "Geography: Indian Economic Geography",
+    geoBihar: "Geography: Bihar Geography",
+    geoWorld: "Geography: World Geography",
+    geoEnvironment: "Geography: Environment & Ecology",
+
+    // Economy
+    econCore: "Economy: Core Concepts",
+    econBihar: "Economy: Bihar Economy",
+    census2011: "Census: 2011 Data",
+    budgetSurvey: "Budget & Surveys"
+};
+
+const SRS_INTERVALS = [
+    86400,          // Box 1: 1 day
+    3 * 86400,      // Box 2: 3 days
+    7 * 86400,      // Box 3: 7 days
+    14 * 86400,     // Box 4: 14 days
+    30 * 86400      // Box 5: 30 days
+];
+
+function getSRSDueCount() {
+    const now = Math.floor(Date.now() / 1000);
+    let count = 0;
+    const validQids = new Set(allQuestions.map(q => q.qid));
+    for (const qid in srsReviews) {
+        if (validQids.has(qid) && srsReviews[qid] && srsReviews[qid].nextReview <= now) {
+            count++;
+        }
+    }
+    return count;
+}
+
+function getMasteryPercent(sheet) {
+    const subject = sheet.replace('.json', '');
+    const qs = subjectQuestions[subject] || [];
+    if (!qs.length) return 0;
+    
+    let mastered = 0, familiar = 0, learning = 0;
+    qs.forEach(q => {
+        const qid = q.qid;
+        if (qid && questionStats[qid]) {
+            const m = getMastery(qid);
+            if (m === 'mastered') mastered++;
+            else if (m === 'familiar') familiar++;
+            else if (m === 'learning') learning++;
+        }
+    });
+    
+    return Math.round((mastered * 100 + familiar * 60 + learning * 30) / qs.length);
+}
+
+async function loadAllSubjectData() {
+    try {
+        const subjectsToLoad = availableSheets.filter(s => s !== 'all.json');
+        
+        const promises = subjectsToLoad.map(sheet => 
+            fetch('data/' + sheet)
+                .then(r => r.json())
+                .then(qs => {
+                    const subName = sheet.replace('.json', '');
+                    qs.forEach(q => { q.subject = subName; });
+                    subjectQuestions[subName] = qs;
+                    subjectQuestionCounts[subName] = qs.length;
+                    return qs;
+                })
+        );
+        
+        const results = await Promise.all(promises);
+        allQuestions = results.flat();
+        subjectQuestions['all'] = allQuestions;
+        subjectQuestionCounts['all'] = allQuestions.length;
+
+        // Render dashboard
+        renderDashboard();
+        
+        // Initialise subtopic dropdown for the current subject
+        updateSubtopicDropdown();
+
+        // If the user's active tab is quiz, load and start the quiz
+        if (activeTab === 'quiz') {
+            questions = subjectQuestions[currentSubject] || allQuestions;
+            startQuiz();
+        }
+    } catch (e) {
+        console.error('Error loading subject data:', e);
+    }
+}
+
+function renderDashboard() {
+    const totalQ = allQuestions.length;
+    const overallAcc = getOverall().accuracy;
+    const srsDue = getSRSDueCount();
+    
+    const totalQEl = document.getElementById('db-total-questions');
+    const accEl = document.getElementById('db-total-accuracy');
+    const srsEl = document.getElementById('db-srs-count');
+    
+    if (totalQEl) totalQEl.textContent = totalQ.toLocaleString();
+    if (accEl) accEl.textContent = overallAcc + '%';
+    if (srsEl) srsEl.textContent = srsDue;
+    
+    const grid = document.getElementById('db-subject-grid');
+    if (!grid) return;
+    grid.innerHTML = '';
+    
+    const subjects = availableSheets.filter(s => s !== 'all.json');
+    subjects.forEach(sheet => {
+        const subName = sheet.replace('.json', '');
+        const title = formatSubject(subName);
+        const count = subjectQuestionCounts[subName] || 0;
+        const stats = getSubjectStats(sheet);
+        const accuracy = stats.accuracy !== null ? stats.accuracy + '%' : 'New';
+        const mastery = getMasteryPercent(sheet);
+        
+        const card = document.createElement('div');
+        card.className = 'db-subject-card';
+        card.innerHTML = `
+            <h3 class="db-subject-title">${title}</h3>
+            <div class="db-subject-stats">
+                <span class="db-subject-meta">${count} Qs</span>
+                <span class="db-subject-cov ${classifyAcc(stats.accuracy)}">${accuracy} Accuracy</span>
+            </div>
+            <div class="db-subject-progress-track">
+                <div class="db-subject-progress-fill" style="width: ${mastery}%"></div>
+            </div>
+            <div style="font-size: 11px; color: var(--text-muted); margin-top: 6px; text-align: right;">
+                ${mastery}% Mastery
+            </div>
+        `;
+        card.addEventListener('click', () => {
+            startSubjectQuiz(sheet);
+        });
+        grid.appendChild(card);
+    });
+}
+
+function startSubjectQuiz(sheet) {
+    dataUrl = 'data/' + sheet;
+    currentSubject = sheet.replace('.json', '');
+    const select = document.getElementById('subject-select');
+    if (select) select.value = sheet;
+    
+    // Update subtopic dropdown for this subject
+    updateSubtopicDropdown();
+    
+    // Load and start
+    questions = subjectQuestions[currentSubject] || [];
+    switchTab('quiz');
+    startQuiz();
+}
+
+function updateSubtopicDropdown() {
+    const wrap = document.getElementById('subtopic-wrap');
+    const select = document.getElementById('subtopic-select');
+    if (!wrap || !select) return;
+    
+    select.innerHTML = '';
+    
+    if (currentSubject === 'all') {
+        wrap.style.display = 'none';
+        return;
+    }
+    
+    const qs = subjectQuestions[currentSubject] || [];
+    const uniqueTags = new Set();
+    qs.forEach(q => {
+        if (q.tags) {
+            q.tags.split(',').forEach(t => {
+                const cleanTag = t.trim();
+                if (cleanTag && TAG_LABELS[cleanTag]) {
+                    uniqueTags.add(cleanTag);
+                }
+            });
+        }
+    });
+    
+    if (uniqueTags.size === 0) {
+        wrap.style.display = 'none';
+        return;
+    }
+    
+    wrap.style.display = 'block';
+    
+    const optAll = document.createElement('option');
+    optAll.value = 'all';
+    optAll.textContent = 'ALL SUB-TOPICS';
+    select.appendChild(optAll);
+    
+    Array.from(uniqueTags).sort().forEach(tag => {
+        const opt = document.createElement('option');
+        opt.value = tag;
+        opt.textContent = TAG_LABELS[tag].toUpperCase();
+        select.appendChild(opt);
+    });
+    
+    select.value = 'all';
 }
 
 // ═══════════════════════════════════════════════════════════════
@@ -955,13 +1252,14 @@ document.addEventListener('DOMContentLoaded', () => {
         normal:   'Weighted random — weak questions appear more often',
         weak:     'Only questions below 60% accuracy or never attempted',
         unseen:   'Only questions you have never attempted before',
+        srs:      'Spaced Repetition System — only review questions due now',
         revision: 'Mastered questions only — stats not recorded'
     };
     function updateModeDesc() {
         const el = document.getElementById('mode-desc');
         if (el) el.textContent = modeDescs[quizMode] || '';
     }
-    ['normal','weak','unseen','revision'].forEach(mode => {
+    ['normal','weak','unseen','srs','revision'].forEach(mode => {
         document.getElementById('mode-' + mode)?.addEventListener('click', () => {
             quizMode = mode;
             localStorage.setItem('qm-mode', mode);
@@ -1053,13 +1351,34 @@ document.addEventListener('DOMContentLoaded', () => {
     // ── Go to quiz from stats empty state ─────────────────────
     document.getElementById('go-quiz-btn')?.addEventListener('click', () => switchTab('quiz'));
 
+    // ── Sub-topic selector & Dashboard click handlers ──────────
+    document.getElementById('subtopic-select')?.addEventListener('change', () => {
+        startQuiz();
+    });
+    document.getElementById('db-btn-start')?.addEventListener('click', () => {
+        quizMode = 'normal';
+        localStorage.setItem('qm-mode', 'normal');
+        document.querySelectorAll('.mode-btn').forEach(btn => {
+            btn.classList.toggle('active', btn.id === 'mode-normal');
+        });
+        startSubjectQuiz('all.json');
+    });
+    document.getElementById('db-btn-srs')?.addEventListener('click', () => {
+        quizMode = 'srs';
+        localStorage.setItem('qm-mode', 'srs');
+        document.querySelectorAll('.mode-btn').forEach(btn => {
+            btn.classList.toggle('active', btn.id === 'mode-srs');
+        });
+        startSubjectQuiz('all.json');
+    });
+
     // ── Load manifest ─────────────────────────────────────────
     fetch('control/manifest.json')
         .then(r => r.json())
         .then(data => {
             availableSheets = data.files;
             createSubjectDropdown();
-            loadQuestions();
+            loadAllSubjectData();
         })
         .catch(e => console.error('Manifest load failed:', e));
 
@@ -1088,20 +1407,26 @@ function createSubjectDropdown() {
     select.onchange = () => {
         dataUrl        = 'data/' + select.value;
         currentSubject = select.value.replace('.json','');
+        updateSubtopicDropdown();
         loadQuestions();
     };
     el.appendChild(select);
 }
 
 function loadQuestions() {
-    fetch(dataUrl)
-        .then(r => r.json())
-        .then(data => {
-            questions      = data;
-            currentSubject = dataUrl.split('/').pop().replace('.json','');
-            startQuiz();
-        })
-        .catch(e => console.error('Error loading JSON:', e));
+    if (subjectQuestions[currentSubject]) {
+        questions = subjectQuestions[currentSubject];
+        startQuiz();
+    } else {
+        fetch(dataUrl)
+            .then(r => r.json())
+            .then(data => {
+                questions      = data;
+                currentSubject = dataUrl.split('/').pop().replace('.json','');
+                startQuiz();
+            })
+            .catch(e => console.error('Error loading JSON:', e));
+    }
 }
 
 function startQuiz() {
@@ -1366,6 +1691,21 @@ function showAskAI(question, answer) {
 function showSessionComplete() {
     const qc = document.getElementById('quiz-container');
     if (!qc) return;
+    
+    if (quizMode === 'srs' && sessionAnswered === 0) {
+        qc.innerHTML = `
+            <div class="session-complete">
+                <h2>All Reviewed! 🎉</h2>
+                <p>No questions are currently due for spaced repetition review.</p>
+                <div style="margin-top:20px;">
+                    <button class="btn" onclick="switchTab('dashboard')" style="padding:10px 20px; background:var(--accent); color:#fff; border:none; border-radius:8px; cursor:pointer; font-family:'DM Sans',sans-serif;">
+                        Go to Dashboard
+                    </button>
+                </div>
+            </div>`;
+        return;
+    }
+    
     const accuracy = sessionAnswered ? Math.round((sessionCorrect / sessionAnswered) * 100) : 0;
     const focus    = getFocusToday();
 
