@@ -2,3 +2,5 @@
 *.xlsx
 try.json
 .obsidian
+.vscode
+.env

@@ -64,6 +64,14 @@ python generateQsCSV.py
 ```
 This toolchain targets any `control/symlinks/*.csv` files.
 
+### For AI Enrichment (Gemini API):
+```bash
+cd control
+$env:GEMINI_API_KEY="your_api_key_here"
+python enrichQuestions.py
+```
+This script automates filling in missing answers, options, and explanations in your Excel sheet using Google's Gemini API. It targets the `control/symlinks/ObjectiveQuestions.xlsx` file.
+
 ---
 
 ## Command Modes
@@ -92,3 +100,7 @@ renumber    →  Full renumber all QIDs from Q00001 (requires resetting stats in
   pip install openpyxl
   ```
 - **CSV script (`generateQsCSV.py`)** has **no external dependencies** (uses standard Python libraries).
+- **AI Enricher script (`enrichQuestions.py`)** requires `openpyxl` and `google-generativeai`:
+  ```bash
+  pip install openpyxl google-generativeai
+  ```

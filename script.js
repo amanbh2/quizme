@@ -21,6 +21,7 @@ function saveFlagged() { localStorage.setItem('qm-flagged', JSON.stringify(flagg
 /* ── Persistent state ────────────────────────────────────────── */
 let questionStats = safeParseJSON('qm-stats-v2',   {});
 let flaggedQ      = safeParseJSON('qm-flagged',     {});
+let srsReviews    = safeParseJSON('qm-srs',         {});
 let gistConfig    = safeParseJSON('qm-gist-config', { token:'', gistId:'' });
 let syncQueue     = safeParseJSON('qm-sync-queue',  []);
 let examConfig    = safeParseJSON('qm-exam',        { name:'', date:'' });
@@ -29,13 +30,16 @@ let soundEnabled  = localStorage.getItem('qm-sound') !== 'false'; // default on
 
 /* ── Runtime state ───────────────────────────────────────────── */
 let questions            = [];
+let allQuestions         = [];
+let subjectQuestionCounts = {};
+let subjectQuestions     = {};
 let usedIndexes          = new Set();
 let currentQuestionIndex = 0;
 let dataUrl              = 'data/all.json';
 let currentSubject       = 'all';
 let availableSheets      = [];
 let quizMode             = localStorage.getItem('qm-mode') || 'normal';
-let activeTab            = localStorage.getItem('qm-tab')  || 'quiz';
+let activeTab            = localStorage.getItem('qm-tab')  || 'dashboard';
 let filteredIndexes      = [];
 let sessionAnswered      = 0;
 let sessionCorrect       = 0;
@@ -160,6 +164,25 @@ function recordAnswer(subject, qid, isCorrect) {
 
     saveStats();
     queueSync({ q:qid, s:subject, r:isCorrect?1:0, t:s.t });
+
+    // --- SRS Spaced Repetition Logic ---
+    const now = Math.floor(Date.now() / 1000);
+    if (!isCorrect) {
+        srsReviews[qid] = {
+            box: 1,
+            nextReview: now + 86400
+        };
+    } else {
+        if (srsReviews[qid]) {
+            const currentBox = srsReviews[qid].box || 1;
+            const nextBox = Math.min(currentBox + 1, 5);
+            srsReviews[qid] = {
+                box: nextBox,
+                nextReview: now + SRS_INTERVALS[nextBox - 1]
+            };
+        }
+    }
+    localStorage.setItem('qm-srs', JSON.stringify(srsReviews));
 }
 
 function getAttempts(qid)  { return questionStats[qid]?.a ?? 0; }
@@ -456,14 +479,37 @@ function setSyncUI(status) {
 
 function buildFiltered() {
     filteredIndexes = [];
+    const now = Math.floor(Date.now() / 1000);
+    const subSelect = document.getElementById('subtopic-select');
+    const selectedSubtopic = (subSelect && subSelect.value) ? subSelect.value : 'all';
+
     for (let i = 0; i < questions.length; i++) {
-        const qid = questions[i].qid;
+        const q = questions[i];
+        const qid = q.qid;
+
+        // Sub-topic Filter
+        if (selectedSubtopic !== 'all') {
+            const qtags = q.tags ? q.tags.split(',').map(t => t.trim()) : [];
+            if (!qtags.includes(selectedSubtopic)) {
+                continue;
+            }
+        }
+
         const acc = getAccuracy(qid);
         const m   = getMastery(qid);
-        if      (quizMode === 'weak')     { if (acc === null || acc < 60) filteredIndexes.push(i); }
-        else if (quizMode === 'unseen')   { if (getAttempts(qid) === 0)   filteredIndexes.push(i); }
-        else if (quizMode === 'revision') { if (m === 'mastered')          filteredIndexes.push(i); }
-        else filteredIndexes.push(i);
+        if (quizMode === 'weak') {
+            if (acc === null || acc < 60) filteredIndexes.push(i);
+        } else if (quizMode === 'unseen') {
+            if (getAttempts(qid) === 0) filteredIndexes.push(i);
+        } else if (quizMode === 'revision') {
+            if (m === 'mastered') filteredIndexes.push(i);
+        } else if (quizMode === 'srs') {
+            if (srsReviews[qid] && srsReviews[qid].nextReview <= now) {
+                filteredIndexes.push(i);
+            }
+        } else {
+            filteredIndexes.push(i);
+        }
     }
 }
 
@@ -500,8 +546,265 @@ function switchTab(tab) {
     document.querySelectorAll('.nav-item, .bottom-nav-item').forEach(b => {
         b.classList.toggle('active', b.dataset.tab === tab);
     });
+    if (tab === 'dashboard') renderDashboard();
     if (tab === 'stats') renderStatsTab();
     if (tab === 'info')  renderInfoTab();
+    
+    // Auto-start quiz if navigating to the tab and no questions are loaded yet
+    if (tab === 'quiz' && questions.length === 0 && Object.keys(subjectQuestions).length > 0) {
+        questions = subjectQuestions[currentSubject] || subjectQuestions['all'] || [];
+        startQuiz();
+    }
+}
+
+/* ── BPSC Prelims Upgrade: SRS, Sub-topics & Dashboard Helpers ── */
+
+const TAG_LABELS = {
+    // Polity
+    polityBackground: "Polity: Historical Background",
+    polityMaking: "Polity: Making of the Constitution",
+    polityPreamble: "Polity: Preamble",
+    polityFR: "Polity: Fundamental Rights",
+    polityDPSP: "Polity: DPSP",
+    polityDuties: "Polity: Fundamental Duties",
+    polityUnionExec: "Polity: Union Executive",
+    polityParliament: "Polity: Parliament",
+    polityJudiciary: "Polity: Judiciary",
+    polityStateGov: "Polity: State Government",
+    polityRelations: "Polity: Centre-State Relations",
+    polityEmergency: "Polity: Emergency Provisions",
+    polityBodies: "Polity: Constitutional/Non-Constitutional Bodies",
+    polityLocalGov: "Polity: Local Government",
+    polityAmendments: "Polity: Amendments",
+    polityJudgements: "Polity: Landmark Judgements",
+
+    // Ancient History
+    ancientIVC: "Ancient: IVC & Prehistory",
+    ancientVedic: "Ancient: Vedic Age",
+    ancientMahajanapadas: "Ancient: Mahajanapadas",
+    ancientMauryan: "Ancient: Mauryan Empire",
+    ancientPostMauryan: "Ancient: Post-Mauryan Period",
+    ancientGupta: "Ancient: Gupta Empire",
+    ancientPostGupta: "Ancient: Post-Gupta Period",
+    ancientSangam: "Ancient: Sangam Age",
+    ancientBuddhismJainism: "Ancient: Buddhism & Jainism",
+    ancientSouthIndia: "Ancient: Early South India",
+
+    // Medieval History
+    medievalRajputsCholas: "Medieval: Rajputs & Cholas",
+    medievalInvasions: "Medieval: Early Invasions",
+    medievalSultanate: "Medieval: Delhi Sultanate",
+    medievalDeccan: "Medieval: Vijayanagar & Bahmani",
+    medievalMughal: "Medieval: Mughal Empire & Sher Shah",
+    medievalBhaktiSufi: "Medieval: Bhakti & Sufi Movements",
+
+    // Modern History
+    modernEuropeans: "Modern: Advent of Europeans",
+    modernConsolidation1857: "Modern: British Consolidation & 1857",
+    modernNationalism: "Modern: Rise of Nationalism (1858-1905)",
+    modernSwadeshiSurat: "Modern: Swadeshi & Extremism (1905-1918)",
+    modernMassMovements: "Modern: Gandhian Era & Mass Movements",
+    modernIndependence: "Modern: Towards Independence (1940-1947)",
+
+    // Geography
+    geoPhysical: "Geography: Physical",
+    geoIndiaPhysiography: "Geography: Indian Physiography",
+    geoIndiaEconomic: "Geography: Indian Economic Geography",
+    geoBihar: "Geography: Bihar Geography",
+    geoWorld: "Geography: World Geography",
+    geoEnvironment: "Geography: Environment & Ecology",
+
+    // Economy
+    econCore: "Economy: Core Concepts",
+    econBihar: "Economy: Bihar Economy",
+    census2011: "Census: 2011 Data",
+    budgetSurvey: "Budget & Surveys"
+};
+
+const SRS_INTERVALS = [
+    86400,          // Box 1: 1 day
+    3 * 86400,      // Box 2: 3 days
+    7 * 86400,      // Box 3: 7 days
+    14 * 86400,     // Box 4: 14 days
+    30 * 86400      // Box 5: 30 days
+];
+
+function getSRSDueCount() {
+    const now = Math.floor(Date.now() / 1000);
+    let count = 0;
+    const validQids = new Set(allQuestions.map(q => q.qid));
+    for (const qid in srsReviews) {
+        if (validQids.has(qid) && srsReviews[qid] && srsReviews[qid].nextReview <= now) {
+            count++;
+        }
+    }
+    return count;
+}
+
+function getMasteryPercent(sheet) {
+    const subject = sheet.replace('.json', '');
+    const qs = subjectQuestions[subject] || [];
+    if (!qs.length) return 0;
+    
+    let mastered = 0, familiar = 0, learning = 0;
+    qs.forEach(q => {
+        const qid = q.qid;
+        if (qid && questionStats[qid]) {
+            const m = getMastery(qid);
+            if (m === 'mastered') mastered++;
+            else if (m === 'familiar') familiar++;
+            else if (m === 'learning') learning++;
+        }
+    });
+    
+    return Math.round((mastered * 100 + familiar * 60 + learning * 30) / qs.length);
+}
+
+async function loadAllSubjectData() {
+    try {
+        const subjectsToLoad = availableSheets.filter(s => s !== 'all.json');
+        
+        const promises = subjectsToLoad.map(sheet => 
+            fetch('data/' + sheet)
+                .then(r => r.json())
+                .then(qs => {
+                    const subName = sheet.replace('.json', '');
+                    qs.forEach(q => { q.subject = subName; });
+                    subjectQuestions[subName] = qs;
+                    subjectQuestionCounts[subName] = qs.length;
+                    return qs;
+                })
+        );
+        
+        const results = await Promise.all(promises);
+        allQuestions = results.flat();
+        subjectQuestions['all'] = allQuestions;
+        subjectQuestionCounts['all'] = allQuestions.length;
+
+        // Render dashboard
+        renderDashboard();
+        
+        // Initialise subtopic dropdown for the current subject
+        updateSubtopicDropdown();
+
+        // If the user's active tab is quiz, load and start the quiz
+        if (activeTab === 'quiz') {
+            questions = subjectQuestions[currentSubject] || allQuestions;
+            startQuiz();
+        }
+    } catch (e) {
+        console.error('Error loading subject data:', e);
+    }
+}
+
+function renderDashboard() {
+    const totalQ = allQuestions.length;
+    const overallAcc = getOverall().accuracy;
+    const srsDue = getSRSDueCount();
+    
+    const totalQEl = document.getElementById('db-total-questions');
+    const accEl = document.getElementById('db-total-accuracy');
+    const srsEl = document.getElementById('db-srs-count');
+    
+    if (totalQEl) totalQEl.textContent = totalQ.toLocaleString();
+    if (accEl) accEl.textContent = overallAcc + '%';
+    if (srsEl) srsEl.textContent = srsDue;
+    
+    const grid = document.getElementById('db-subject-grid');
+    if (!grid) return;
+    grid.innerHTML = '';
+    
+    const subjects = availableSheets.filter(s => s !== 'all.json');
+    subjects.forEach(sheet => {
+        const subName = sheet.replace('.json', '');
+        const title = formatSubject(subName);
+        const count = subjectQuestionCounts[subName] || 0;
+        const stats = getSubjectStats(sheet);
+        const accuracy = stats.accuracy !== null ? stats.accuracy + '%' : 'New';
+        const mastery = getMasteryPercent(sheet);
+        
+        const card = document.createElement('div');
+        card.className = 'db-subject-card';
+        card.innerHTML = `
+            <h3 class="db-subject-title">${title}</h3>
+            <div class="db-subject-stats">
+                <span class="db-subject-meta">${count} Qs</span>
+                <span class="db-subject-cov ${classifyAcc(stats.accuracy)}">${accuracy} Accuracy</span>
+            </div>
+            <div class="db-subject-progress-track">
+                <div class="db-subject-progress-fill" style="width: ${mastery}%"></div>
+            </div>
+            <div style="font-size: 11px; color: var(--text-muted); margin-top: 6px; text-align: right;">
+                ${mastery}% Mastery
+            </div>
+        `;
+        card.addEventListener('click', () => {
+            startSubjectQuiz(sheet);
+        });
+        grid.appendChild(card);
+    });
+}
+
+function startSubjectQuiz(sheet) {
+    dataUrl = 'data/' + sheet;
+    currentSubject = sheet.replace('.json', '');
+    const select = document.getElementById('subject-select');
+    if (select) select.value = sheet;
+    
+    // Update subtopic dropdown for this subject
+    updateSubtopicDropdown();
+    
+    // Load and start
+    questions = subjectQuestions[currentSubject] || [];
+    switchTab('quiz');
+    startQuiz();
+}
+
+function updateSubtopicDropdown() {
+    const wrap = document.getElementById('subtopic-wrap');
+    const select = document.getElementById('subtopic-select');
+    if (!wrap || !select) return;
+    
+    select.innerHTML = '';
+    
+    if (currentSubject === 'all') {
+        wrap.style.display = 'none';
+        return;
+    }
+    
+    const qs = subjectQuestions[currentSubject] || [];
+    const uniqueTags = new Set();
+    qs.forEach(q => {
+        if (q.tags) {
+            q.tags.split(',').forEach(t => {
+                const cleanTag = t.trim();
+                if (cleanTag && TAG_LABELS[cleanTag]) {
+                    uniqueTags.add(cleanTag);
+                }
+            });
+        }
+    });
+    
+    if (uniqueTags.size === 0) {
+        wrap.style.display = 'none';
+        return;
+    }
+    
+    wrap.style.display = 'block';
+    
+    const optAll = document.createElement('option');
+    optAll.value = 'all';
+    optAll.textContent = 'ALL SUB-TOPICS';
+    select.appendChild(optAll);
+    
+    Array.from(uniqueTags).sort().forEach(tag => {
+        const opt = document.createElement('option');
+        opt.value = tag;
+        opt.textContent = TAG_LABELS[tag].toUpperCase();
+        select.appendChild(opt);
+    });
+    
+    select.value = 'all';
 }
 
 // ═══════════════════════════════════════════════════════════════
@@ -773,122 +1076,207 @@ function renderQIDHealth() {
 //  INFO TAB RENDERER
 // ═══════════════════════════════════════════════════════════════
 
+function parseMarkdown(md) {
+    if (!md) return '';
+    const lines = md.replace(/\r\n/g, '\n').split('\n');
+    let html = [];
+    let inList = false;
+    let inBlockquote = false;
+    let inParagraph = false;
+
+    // Helper to close paragraphs
+    function closeParagraph() {
+        if (inParagraph) {
+            html.push('</p>');
+            inParagraph = false;
+        }
+    }
+
+    // Helper to close list
+    function closeList() {
+        if (inList) {
+            html.push('</ul>');
+            inList = false;
+        }
+    }
+
+    // Helper to close blockquote
+    function closeBlockquote() {
+        if (inBlockquote) {
+            html.push('</blockquote>');
+            inBlockquote = false;
+        }
+    }
+
+    for (let i = 0; i < lines.length; i++) {
+        let line = lines[i].trim();
+
+        // Check if raw HTML block (like table, span, etc.)
+        if (/^<\/?(table|thead|tbody|tr|td|th|span|div|i|footer|pre)/i.test(line)) {
+            closeParagraph();
+            closeList();
+            closeBlockquote();
+            html.push(line);
+            continue;
+        }
+
+        // Empty line
+        if (!line) {
+            closeParagraph();
+            closeList();
+            closeBlockquote();
+            continue;
+        }
+
+        // Horizontal Rule
+        if (line === '---') {
+            closeParagraph();
+            closeList();
+            closeBlockquote();
+            html.push('<hr>');
+            continue;
+        }
+
+        // Headings
+        if (line.startsWith('# ')) {
+            closeParagraph();
+            closeList();
+            closeBlockquote();
+            html.push(`<h1>${line.slice(2)}</h1>`);
+            continue;
+        }
+        if (line.startsWith('## ')) {
+            closeParagraph();
+            closeList();
+            closeBlockquote();
+            html.push(`<h2>${line.slice(3)}</h2>`);
+            continue;
+        }
+        if (line.startsWith('### ')) {
+            closeParagraph();
+            closeList();
+            closeBlockquote();
+            html.push(`<h3>${line.slice(4)}</h3>`);
+            continue;
+        }
+
+        // Blockquotes
+        if (line.startsWith('> ')) {
+            closeParagraph();
+            closeList();
+            if (!inBlockquote) {
+                html.push('<blockquote>');
+                inBlockquote = true;
+            }
+            let content = line.slice(2);
+            content = content.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+            content = content.replace(/\*(.*?)\*/g, '<em>$1</em>');
+            content = content.replace(/`(.*?)`/g, '<code>$1</code>');
+            content = content.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>');
+            html.push(`<p>${content}</p>`);
+            continue;
+        }
+
+        // List items
+        if (line.startsWith('- ')) {
+            closeParagraph();
+            closeBlockquote();
+            if (!inList) {
+                html.push('<ul>');
+                inList = true;
+            }
+            let content = line.slice(2);
+            content = content.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+            content = content.replace(/\*(.*?)\*/g, '<em>$1</em>');
+            content = content.replace(/`(.*?)`/g, '<code>$1</code>');
+            content = content.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>');
+            html.push(`<li>${content}</li>`);
+            continue;
+        }
+
+        // Standard text line
+        closeList();
+        closeBlockquote();
+        
+        line = line.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+        line = line.replace(/\*(.*?)\*/g, '<em>$1</em>');
+        line = line.replace(/`(.*?)`/g, '<code>$1</code>');
+        line = line.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>');
+
+        if (!inParagraph) {
+            html.push('<p>');
+            inParagraph = true;
+            html.push(line);
+        } else {
+            html.push('<br>' + line);
+        }
+    }
+
+    closeParagraph();
+    closeList();
+    closeBlockquote();
+
+    return html.join('\n');
+}
+
 function renderInfoTab() {
     const el = document.getElementById('info-content');
     if (!el || el.dataset.rendered) return;
     el.dataset.rendered = 'true';
 
-    const sections = [
-        { id:'how-to',   icon:'fa-circle-question', title:'How to Answer' },
-        { id:'modes',    icon:'fa-layer-group',      title:'Quiz Modes' },
-        { id:'stats',    icon:'fa-chart-bar',        title:'Your Stats' },
-        { id:'sync',     icon:'fa-brands fa-github', title:'Sync & Backup' },
-        { id:'version',  icon:'fa-circle-info',      title:'Version' },
-    ];
+    // Show loading indicator
+    el.innerHTML = '<p class="sp-empty" style="text-align:center;padding:40px 0;"><i class="fa-solid fa-spinner fa-spin"></i> Loading user guide...</p>';
 
-    const toc = `<div class="info-toc">
-        ${sections.map(s => `<button class="info-toc-btn" data-target="${s.id}">${s.title}</button>`).join('')}
-    </div>`;
+    fetch('README.md')
+        .then(res => {
+            if (!res.ok) throw new Error('Failed to load README.md');
+            return res.text();
+        })
+        .then(text => {
+            const htmlContent = parseMarkdown(text);
+            el.innerHTML = htmlContent;
 
-    el.innerHTML = toc + `
-    <div class="info-hero">
-        <span class="version-badge">QuizMe v5.1</span>
-        <h1>Welcome to QuizMe</h1>
-        <p>A personal MCQ revision tool built for BPSC exam preparation. Track accuracy, identify weak areas, build real mastery — question by question.</p>
-    </div>
+            // Build dynamic Table of Contents from h2 elements
+            const headings = el.querySelectorAll('h2');
+            if (headings.length > 0) {
+                const toc = document.createElement('div');
+                toc.className = 'info-toc';
 
-    <div class="info-section" id="how-to">
-        <h2><i class="fa-solid fa-circle-question"></i> How to Answer Questions</h2>
-        <p>Tap any option to answer. After a wrong answer you'll see an explanation (if available) and a link to ask Perplexity for more context. Correct answers auto-advance after 2.2 seconds (1.5s in Revision mode).</p>
-        <h3>Keyboard Shortcuts</h3>
-        <table class="kb-table">
-            <tr><th>Key</th><th>Action</th></tr>
-            <tr><td><span class="kb-key">A</span></td><td>Select option A</td></tr>
-            <tr><td><span class="kb-key">B</span></td><td>Select option B</td></tr>
-            <tr><td><span class="kb-key">C</span></td><td>Select option C</td></tr>
-            <tr><td><span class="kb-key">D</span></td><td>Select option D</td></tr>
-            <tr><td><span class="kb-key">R</span></td><td>Start new session</td></tr>
-        </table>
-        <h3>Flagging Questions</h3>
-        <p>Tap the ⚠ icon on any question to flag it for review. Manage flagged questions in the Stats tab.</p>
-    </div>
+                headings.forEach(heading => {
+                    if (!heading.id) {
+                        heading.id = heading.textContent
+                            .toLowerCase()
+                            .replace(/[^\w\s-]/g, '')
+                            .trim()
+                            .replace(/\s+/g, '-');
+                    }
 
-    <div class="info-section" id="modes">
-        <h2><i class="fa-solid fa-layer-group"></i> Quiz Modes</h2>
-        <h3>Normal</h3>
-        <p>Weighted random — weak questions appear more often than strong ones. Best for daily practice.</p>
-        <h3>Weak Mode</h3>
-        <p>Only questions with accuracy below 60%, or never attempted. Target your problem areas.</p>
-        <h3>Unseen Mode</h3>
-        <p>Only questions you've never answered. Good for first-pass coverage of a new subject.</p>
-        <h3>Revision Mode</h3>
-        <p>Only mastered questions (4+ consecutive correct). Rapid 1.5s auto-advance. Stats not recorded — pure revision.</p>
-        <p>Switch modes via <strong>⚙ Settings</strong>.</p>
-    </div>
+                    const btn = document.createElement('button');
+                    btn.className = 'info-toc-btn';
+                    // Strip emojis or non-word chars from the start for button label
+                    btn.textContent = heading.textContent.replace(/^[^\w\s]+/g, '').trim();
+                    btn.addEventListener('click', () => {
+                        heading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    });
+                    toc.appendChild(btn);
+                });
 
-    <div class="info-section" id="stats">
-        <h2><i class="fa-solid fa-chart-bar"></i> Understanding Your Stats</h2>
-        <h3>Mastery Levels</h3>
-        <ul>
-            <li><strong>Mastered</strong> — 4+ consecutive correct</li>
-            <li><strong>Familiar</strong> — 2–3 consecutive correct</li>
-            <li><strong>Learning</strong> — attempted, not on a streak</li>
-            <li><strong>Not seen</strong> — never attempted</li>
-        </ul>
-        <h3>Accuracy Badge on Card</h3>
-        <ul>
-            <li><strong>New</strong> (teal) — never attempted</li>
-            <li><strong>%</strong> (green) — strong ≥75%</li>
-            <li><strong>%</strong> (amber) — average 50–74%</li>
-            <li><strong>%</strong> (red) — weak &lt;50%</li>
-            <li><strong>⏰</strong> — mastered but not seen in 30+ days</li>
-        </ul>
-        <h3>Subject Heatmap</h3>
-        <p>Tap any heatmap tile or subject bar to instantly practice that subject in Weak mode.</p>
-        <h3>Stats not recorded when…</h3>
-        <ul>
-            <li>You are in <strong>All Subjects</strong> mode — switch to a specific subject for tracked stats</li>
-            <li>You are in <strong>Revision mode</strong> — revision is stats-free by design</li>
-        </ul>
-        <h3>Exam Readiness Score</h3>
-        <p>A combined 0–100% score based on accuracy across subjects and mastery level distribution. Target 75% before the exam.</p>
-    </div>
-
-    <div class="info-section" id="sync">
-        <h2><i class="fa-brands fa-github"></i> Sync & Backup</h2>
-        <p>Stats are saved locally on this device. Connect a free GitHub Gist to back them up and sync across devices. Each user uses their own Gist — your data stays private.</p>
-        <div class="info-step">
-            <div class="info-step-num">Step 1 — Create a GitHub token</div>
-            <p>Go to <code>github.com/settings/tokens</code> → Generate new token (classic) → select only the <code>gist</code> scope → copy the token.</p>
-        </div>
-        <div class="info-step">
-            <div class="info-step-num">Step 2 — Connect in QuizMe</div>
-            <p>Open <strong>⚙ Settings</strong> → paste your token → leave Gist ID blank → click <strong>Connect</strong>. A private Gist is auto-created.</p>
-        </div>
-        <div class="info-step">
-            <div class="info-step-num">Step 3 — Second device</div>
-            <p>On the new device, paste the same token + the Gist ID (from the Gist URL) → Connect. Stats sync automatically. Syncs are batched every 30 seconds to save bandwidth.</p>
-        </div>
-    </div>
-
-    <div class="info-section" id="version">
-        <h2><i class="fa-solid fa-circle-info"></i> Version & Credits</h2>
-        <span class="version-badge">QuizMe v5.1</span>
-        <p style="margin-top:12px">Built by <strong>Aman Bhaskar</strong> for BPSC exam preparation.</p>
-        <p>
-            <a href="https://github.com/amanbh2" target="_blank"><i class="fa-brands fa-github"></i> github.com/amanbh2</a>
-            &nbsp;·&nbsp;
-            <a href="https://www.linkedin.com/in/amanbh2/" target="_blank"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
-        </p>
-    </div>`;
-
-    // TOC scroll
-    el.querySelectorAll('.info-toc-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-            const target = document.getElementById(btn.dataset.target);
-            if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                el.insertBefore(toc, el.firstChild);
+            }
+        })
+        .catch(err => {
+            console.error(err);
+            el.dataset.rendered = ''; // Allow retry
+            el.innerHTML = `
+                <div class="stats-empty-wrap" style="padding: 40px 0; text-align: center;">
+                    <i class="fa-solid fa-circle-exclamation stats-empty-icon" style="color: var(--wrong); font-size: 32px; margin-bottom: 12px;"></i>
+                    <h3>Failed to load Info Guide</h3>
+                    <p style="color: var(--text-muted); margin-bottom: 16px;">Make sure README.md exists and is readable.</p>
+                    <button class="go-quiz-btn" onclick="renderInfoTab()" style="margin: 0 auto; display: inline-flex; align-items: center; gap: 8px;">
+                        <i class="fa-solid fa-rotate-right"></i> Retry
+                    </button>
+                </div>`;
         });
-    });
 }
 
 // ═══════════════════════════════════════════════════════════════
@@ -897,78 +1285,178 @@ function renderInfoTab() {
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    // ── Theme ─────────────────────────────────────────────────
-    function applyTheme(t) {
+    // ── Theme Engine ──────────────────────────────────────────
+    const presetColors = {
+        light: {
+            indigo: { accent: '#5d5fef', bg: '#f4f6f9', text: '#111827' },
+            scholar: { accent: '#2a7c6f', bg: '#f5f2eb', text: '#1a1f2e' },
+            pink: { accent: '#db2777', bg: '#fdf2f8', text: '#4c1d95' },
+            amber: { accent: '#d97706', bg: '#fffbeb', text: '#451a03' }
+        },
+        dark: {
+            indigo: { accent: '#818cf8', bg: '#0f111a', text: '#f3f4f6' },
+            scholar: { accent: '#3db89e', bg: '#141820', text: '#e8e4da' },
+            pink: { accent: '#f472b6', bg: '#1c0f18', text: '#fce7f3' },
+            amber: { accent: '#fbbf24', bg: '#1c1917', text: '#fef3c7' }
+        }
+    };
+
+    function applyThemeMode(isDark) {
+        const t = isDark ? 'dark' : 'light';
         document.documentElement.setAttribute('data-theme', t);
-        localStorage.setItem('quizme-theme', t);
-        const isDark = t === 'dark';
+        localStorage.setItem('quizme-theme-mode', t);
         const iconCls = isDark ? 'fa-solid fa-sun' : 'fa-solid fa-moon';
-        ['theme-icon','theme-icon-mobile'].forEach(id => {
+        ['theme-icon', 'theme-icon-mobile'].forEach(id => {
             const e = document.getElementById(id); if (e) e.className = iconCls;
         });
         const tl = document.getElementById('theme-label'); if (tl) tl.textContent = isDark ? 'Dark' : 'Light';
-    }
-    applyTheme(document.documentElement.getAttribute('data-theme') || 'light');
-    document.getElementById('theme-toggle')?.addEventListener('click', () =>
-        applyTheme(document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark'));
-    document.getElementById('theme-toggle-mobile')?.addEventListener('click', () =>
-        applyTheme(document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark'));
+        
+        const dmToggle = document.getElementById('settings-dark-mode-toggle');
+        if (dmToggle) dmToggle.checked = isDark;
 
-    // ── Navigation ────────────────────────────────────────────
+        const activePreset = localStorage.getItem('quizme-color-theme') || 'scholar';
+        if (activePreset !== 'custom') {
+            const colors = presetColors[t][activePreset] || presetColors[t]['scholar'];
+            const ca = document.getElementById('custom-color-accent'); if (ca) ca.value = colors.accent;
+            const cb = document.getElementById('custom-color-bg'); if (cb) cb.value = colors.bg;
+            const ct = document.getElementById('custom-color-text'); if (ct) ct.value = colors.text;
+        }
+    }
+    
+    function applyColorTheme(preset, customColors = null) {
+        if (preset === 'custom' && customColors) {
+            document.documentElement.removeAttribute('data-color-theme');
+            document.documentElement.style.setProperty('--accent', customColors.accent);
+            document.documentElement.style.setProperty('--bg', customColors.bg);
+            document.documentElement.style.setProperty('--text', customColors.text);
+            localStorage.setItem('quizme-color-theme', 'custom');
+            localStorage.setItem('quizme-custom-colors', JSON.stringify(customColors));
+        } else {
+            document.documentElement.style.removeProperty('--accent');
+            document.documentElement.style.removeProperty('--bg');
+            document.documentElement.style.removeProperty('--text');
+            document.documentElement.setAttribute('data-color-theme', preset);
+            localStorage.setItem('quizme-color-theme', preset);
+            
+            // Update preset active state
+            document.querySelectorAll('.theme-preset-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.preset === preset);
+            });
+            
+            // Sync custom pickers to reflect this preset
+            const mode = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+            const colors = presetColors[mode][preset] || presetColors[mode]['scholar'];
+            const ca = document.getElementById('custom-color-accent'); if (ca) ca.value = colors.accent;
+            const cb = document.getElementById('custom-color-bg'); if (cb) cb.value = colors.bg;
+            const ct = document.getElementById('custom-color-text'); if (ct) ct.value = colors.text;
+        }
+    }
+
+    // Initialize themes
+    const savedMode = localStorage.getItem('quizme-theme-mode') || 'light';
+    applyThemeMode(savedMode === 'dark');
+    
+    const savedColorTheme = localStorage.getItem('quizme-color-theme') || 'scholar';
+    if (savedColorTheme === 'custom') {
+        const custom = safeParseJSON('quizme-custom-colors', {accent: '#2a7c6f', bg: '#f5f2eb', text: '#1a1f2e'});
+        applyColorTheme('custom', custom);
+        const ca = document.getElementById('custom-color-accent'); if (ca) ca.value = custom.accent;
+        const cb = document.getElementById('custom-color-bg'); if (cb) cb.value = custom.bg;
+        const ct = document.getElementById('custom-color-text'); if (ct) ct.value = custom.text;
+    } else {
+        applyColorTheme(savedColorTheme);
+    }
+
+    // Theme Event Listeners
+    document.getElementById('theme-toggle')?.addEventListener('click', () => {
+        applyThemeMode(document.documentElement.getAttribute('data-theme') !== 'dark');
+    });
+    document.getElementById('theme-toggle-mobile')?.addEventListener('click', () => {
+        applyThemeMode(document.documentElement.getAttribute('data-theme') !== 'dark');
+    });
+    document.getElementById('settings-dark-mode-toggle')?.addEventListener('change', (e) => {
+        applyThemeMode(e.target.checked);
+    });
+
+    document.querySelectorAll('.theme-preset-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            applyColorTheme(btn.dataset.preset);
+        });
+    });
+
+    document.getElementById('apply-custom-theme-btn')?.addEventListener('click', () => {
+        const accent = document.getElementById('custom-color-accent').value;
+        const bg = document.getElementById('custom-color-bg').value;
+        const text = document.getElementById('custom-color-text').value;
+        applyColorTheme('custom', { accent, bg, text });
+        document.querySelectorAll('.theme-preset-btn').forEach(btn => btn.classList.remove('active'));
+        
+        const b = document.getElementById('apply-custom-theme-btn');
+        b.textContent = 'Applied ✓';
+        setTimeout(() => b.textContent = 'Apply Custom Theme', 2000);
+    });
+
+    // ── Navigation & Sidebar ───────────────────────────────────
     document.querySelectorAll('.nav-item, .bottom-nav-item').forEach(btn =>
         btn.addEventListener('click', () => switchTab(btn.dataset.tab)));
     switchTab(activeTab);
 
-    // ── Settings panel ────────────────────────────────────────
-    function openSettings() {
-        document.getElementById('settings-panel').classList.add('show');
-        document.getElementById('overlay').classList.add('show');
-        // Populate fields
-        const ti = document.getElementById('gist-token');
-        const gi = document.getElementById('gist-id-input');
-        if (ti) ti.value = gistConfig.token  || '';
-        if (gi) gi.value = gistConfig.gistId || '';
-        const ni = document.getElementById('exam-name-input');
-        const di = document.getElementById('exam-date-input');
-        if (ni) ni.value = examConfig.name || '';
-        if (di) di.value = examConfig.date || '';
-        // Mode buttons
-        document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
-        document.getElementById('mode-' + quizMode)?.classList.add('active');
-        updateModeDesc();
-        // Toggles
-        const nm = document.getElementById('neg-marking-toggle'); if (nm) nm.checked = negMarking;
-        const st = document.getElementById('sound-toggle');       if (st) st.checked = soundEnabled;
-        setSyncUI(gistConfig.token && gistConfig.gistId ? 'ok' : 'idle');
+    const sidebar = document.getElementById('sidebar');
+    const mainContent = document.getElementById('main-content');
+    const collapseBtn = document.getElementById('sidebar-collapse-btn');
+    
+    if (localStorage.getItem('quizme-sidebar-collapsed') === 'true') {
+        sidebar?.classList.add('collapsed');
+        mainContent?.classList.add('collapsed');
     }
-    function closeSettings() {
-        document.getElementById('settings-panel').classList.remove('show');
-        document.getElementById('overlay').classList.remove('show');
-    }
-    document.getElementById('settings-btn')?.addEventListener('click', openSettings);
-    document.getElementById('settings-btn-mobile')?.addEventListener('click', openSettings);
-    document.getElementById('close-settings')?.addEventListener('click', closeSettings);
-    document.getElementById('overlay')?.addEventListener('click', closeSettings);
+    
+    collapseBtn?.addEventListener('click', () => {
+        sidebar?.classList.toggle('collapsed');
+        mainContent?.classList.toggle('collapsed');
+        localStorage.setItem('quizme-sidebar-collapsed', sidebar?.classList.contains('collapsed'));
+    });
 
-    // ── Mode buttons ──────────────────────────────────────────
+    // ── Settings Initialization ───────────────────────────────
+    // Populate fields
+    const ti = document.getElementById('gist-token');
+    const gi = document.getElementById('gist-id-input');
+    if (ti) ti.value = gistConfig.token  || '';
+    if (gi) gi.value = gistConfig.gistId || '';
+    const ni = document.getElementById('exam-name-input');
+    const di = document.getElementById('exam-date-input');
+    if (ni) ni.value = examConfig.name || '';
+    if (di) di.value = examConfig.date || '';
+    
+    // Mode buttons
     const modeDescs = {
         normal:   'Weighted random — weak questions appear more often',
         weak:     'Only questions below 60% accuracy or never attempted',
         unseen:   'Only questions you have never attempted before',
+        srs:      'Spaced Repetition System — only review questions due now',
         revision: 'Mastered questions only — stats not recorded'
     };
     function updateModeDesc() {
         const el = document.getElementById('mode-desc');
         if (el) el.textContent = modeDescs[quizMode] || '';
     }
-    ['normal','weak','unseen','revision'].forEach(mode => {
+
+    document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById('mode-' + quizMode)?.classList.add('active');
+    updateModeDesc();
+    
+    // Toggles
+    const nm = document.getElementById('neg-marking-toggle'); if (nm) nm.checked = negMarking;
+    const st = document.getElementById('sound-toggle');       if (st) st.checked = soundEnabled;
+    setSyncUI(gistConfig.token && gistConfig.gistId ? 'ok' : 'idle');
+
+    // ── Mode buttons ──────────────────────────────────────────
+    ['normal','weak','unseen','srs','revision'].forEach(mode => {
         document.getElementById('mode-' + mode)?.addEventListener('click', () => {
             quizMode = mode;
             localStorage.setItem('qm-mode', mode);
             document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
             document.getElementById('mode-' + mode)?.classList.add('active');
             updateModeDesc();
-            closeSettings();
             loadQuestions();
         });
     });
@@ -1031,7 +1519,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // ── Go to sync in Info ────────────────────────────────────
     document.getElementById('go-to-info-sync')?.addEventListener('click', () => {
-        closeSettings(); switchTab('info');
+        switchTab('info');
         setTimeout(() => document.getElementById('sync')?.scrollIntoView({ behavior:'smooth' }), 150);
     });
 
@@ -1053,13 +1541,34 @@ document.addEventListener('DOMContentLoaded', () => {
     // ── Go to quiz from stats empty state ─────────────────────
     document.getElementById('go-quiz-btn')?.addEventListener('click', () => switchTab('quiz'));
 
+    // ── Sub-topic selector & Dashboard click handlers ──────────
+    document.getElementById('subtopic-select')?.addEventListener('change', () => {
+        startQuiz();
+    });
+    document.getElementById('db-btn-start')?.addEventListener('click', () => {
+        quizMode = 'normal';
+        localStorage.setItem('qm-mode', 'normal');
+        document.querySelectorAll('.mode-btn').forEach(btn => {
+            btn.classList.toggle('active', btn.id === 'mode-normal');
+        });
+        startSubjectQuiz('all.json');
+    });
+    document.getElementById('db-btn-srs')?.addEventListener('click', () => {
+        quizMode = 'srs';
+        localStorage.setItem('qm-mode', 'srs');
+        document.querySelectorAll('.mode-btn').forEach(btn => {
+            btn.classList.toggle('active', btn.id === 'mode-srs');
+        });
+        startSubjectQuiz('all.json');
+    });
+
     // ── Load manifest ─────────────────────────────────────────
     fetch('control/manifest.json')
         .then(r => r.json())
         .then(data => {
             availableSheets = data.files;
             createSubjectDropdown();
-            loadQuestions();
+            loadAllSubjectData();
         })
         .catch(e => console.error('Manifest load failed:', e));
 
@@ -1088,20 +1597,26 @@ function createSubjectDropdown() {
     select.onchange = () => {
         dataUrl        = 'data/' + select.value;
         currentSubject = select.value.replace('.json','');
+        updateSubtopicDropdown();
         loadQuestions();
     };
     el.appendChild(select);
 }
 
 function loadQuestions() {
-    fetch(dataUrl)
-        .then(r => r.json())
-        .then(data => {
-            questions      = data;
-            currentSubject = dataUrl.split('/').pop().replace('.json','');
-            startQuiz();
-        })
-        .catch(e => console.error('Error loading JSON:', e));
+    if (subjectQuestions[currentSubject]) {
+        questions = subjectQuestions[currentSubject];
+        startQuiz();
+    } else {
+        fetch(dataUrl)
+            .then(r => r.json())
+            .then(data => {
+                questions      = data;
+                currentSubject = dataUrl.split('/').pop().replace('.json','');
+                startQuiz();
+            })
+            .catch(e => console.error('Error loading JSON:', e));
+    }
 }
 
 function startQuiz() {
@@ -1366,6 +1881,21 @@ function showAskAI(question, answer) {
 function showSessionComplete() {
     const qc = document.getElementById('quiz-container');
     if (!qc) return;
+    
+    if (quizMode === 'srs' && sessionAnswered === 0) {
+        qc.innerHTML = `
+            <div class="session-complete">
+                <h2>All Reviewed! 🎉</h2>
+                <p>No questions are currently due for spaced repetition review.</p>
+                <div style="margin-top:20px;">
+                    <button class="btn" onclick="switchTab('dashboard')" style="padding:10px 20px; background:var(--accent); color:#fff; border:none; border-radius:8px; cursor:pointer; font-family:'DM Sans',sans-serif;">
+                        Go to Dashboard
+                    </button>
+                </div>
+            </div>`;
+        return;
+    }
+    
     const accuracy = sessionAnswered ? Math.round((sessionCorrect / sessionAnswered) * 100) : 0;
     const focus    = getFocusToday();
 
