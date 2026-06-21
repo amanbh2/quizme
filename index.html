@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="light" data-color-theme="scholar">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,484 +19,503 @@
     <meta name="theme-color" content="#2a7c6f">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=DM+Sans:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=DM+Sans:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
     <script src="https://kit.fontawesome.com/d7b86548bd.js" crossorigin="anonymous"></script>
 </head>
+
 <body>
 
-<!-- ═══════════════════════════════════════════════════════
+    <!-- ═══════════════════════════════════════════════════════
      DESKTOP SIDEBAR
 ════════════════════════════════════════════════════════ -->
-<aside id="sidebar">
-    <div class="sidebar-brand">
-        <div class="brand-text">
-            <span class="brand-quiz">Quiz</span><span class="brand-me">Me</span>
-        </div>
-        <button id="sidebar-collapse-btn" class="sidebar-icon-btn collapse-btn" aria-label="Toggle Sidebar" data-tooltip="Toggle Sidebar">
-            <i class="fa-solid fa-bars"></i>
-        </button>
-    </div>
-    <nav class="sidebar-nav">
-        <button class="nav-item active" data-tab="prep" data-tooltip="Prep">
-            <i class="fa-solid fa-graduation-cap"></i><span>Prep</span>
-            <span class="nav-badge" id="prep-nav-badge" style="display:none"></span>
-        </button>
-        <button class="nav-item" data-tab="timeline" data-tooltip="Timeline">
-            <i class="fa-solid fa-timeline"></i><span>Timeline</span>
-        </button>
-        <button class="nav-item" data-tab="quiz" data-tooltip="Quiz">
-            <i class="fa-solid fa-list-check"></i><span>Quiz</span>
-        </button>
-        <button class="nav-item" data-tab="settings" data-tooltip="Settings">
-            <i class="fa-solid fa-gears"></i><span>Settings</span>
-        </button>
-        <button class="nav-item" data-tab="info" data-tooltip="Info">
-            <i class="fa-solid fa-circle-info"></i><span>Info</span>
-        </button>
-    </nav>
-    <div class="sidebar-bottom">
-        <button class="sidebar-icon-btn" id="theme-toggle" data-tooltip="Toggle Theme">
-            <i class="fa-solid fa-moon" id="theme-icon"></i>
-            <span id="theme-label">Light</span>
-        </button>
-        <div class="sidebar-footer">
-            <a href="https://github.com/amanbh2" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
-            <a href="https://www.linkedin.com/in/amanbh2/" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-            <span>Aman Bhaskar</span>
-        </div>
-    </div>
-</aside>
-
-<!-- ═══════════════════════════════════════════════════════
-     MOBILE HEADER
-════════════════════════════════════════════════════════ -->
-<header id="mobile-header">
-    <div class="header-spacer"></div>
-    <div class="mobile-brand">
-        <span class="brand-quiz">Quiz</span><span class="brand-me">Me</span>
-    </div>
-    <button class="header-icon-btn" id="theme-toggle-mobile">
-        <i class="fa-solid fa-moon" id="theme-icon-mobile"></i>
-    </button>
-</header>
-
-<!-- ═══════════════════════════════════════════════════════
-     INSTALL PROMPT BANNER
-════════════════════════════════════════════════════════ -->
-<div id="install-banner" style="display:none">
-    <div class="install-banner-inner">
-        <div class="install-banner-left">
-            <img src="res/web-app-manifest-192x192.png" class="install-banner-icon" alt="">
-            <div>
-                <span class="install-banner-title">Add QuizMe to home screen</span>
-                <span class="install-banner-sub">Works offline · No app store needed</span>
+    <aside id="sidebar">
+        <div class="sidebar-brand">
+            <div class="brand-text">
+                <span class="brand-quiz">Quiz</span><span class="brand-me">Me</span>
             </div>
-        </div>
-        <div class="install-banner-actions">
-            <button id="install-btn">Install</button>
-            <button id="install-dismiss">✕</button>
-        </div>
-    </div>
-</div>
-<div id="offline-pill">⚡ Offline — using cached questions</div>
-
-<!-- ═══════════════════════════════════════════════════════
-     MAIN CONTENT
-════════════════════════════════════════════════════════ -->
-<main id="main-content">
-
-
-
-    <!-- ── TAB: QUIZ ──────────────────────────────────── -->
-    <div id="tab-quiz" class="tab-page">
-
-        <div class="quiz-controls">
-            <div id="subject"></div>
-            <div id="subtopic-wrap" style="display:none">
-                <select id="subtopic-select"></select>
-            </div>
-        </div>
-
-        <div id="mode-label" class="mode-label"></div>
-
-        <div id="progress-wrap">
-            <div id="progress-bar-container">
-                <div id="progress-bar"></div>
-            </div>
-            <span id="progress-label">0/0</span>
-            <span id="streak"><i class="fa-solid fa-fire"></i> 0</span>
-        </div>
-
-        <div class="container">
-            <div id="quiz-container"></div>
-        </div>
-
-        <button id="restart-btn">
-            <i class="fa-solid fa-rotate-right"></i> New Session
-        </button>
-
-    </div>
-
-    <!-- ── TAB: TIMELINE ───────────────────────────────── -->
-    <div id="tab-timeline" class="tab-page">
-        <div class="timeline-hero">
-            <h1><i class="fa-solid fa-timeline"></i> History Timeline</h1>
-            <p>Chronological events from prehistory to modern India</p>
-            <div class="timeline-controls">
-                <div class="timeline-toggle" data-active-era="bce">
-                    <div class="tl-toggle-slider"></div>
-                    <button class="tl-toggle-btn active" data-era="bce">BCE</button>
-                    <button class="tl-toggle-btn" data-era="ce">CE</button>
-                </div>
-                <span class="tl-event-count" id="tl-event-count"></span>
-            </div>
-            <div class="timeline-jump-bar" id="timeline-jump-bar"></div>
-        </div>
-        <div id="timeline-container" class="timeline-container"></div>
-        <div class="tl-load-more-wrap" id="tl-load-more-wrap" style="display:none">
-            <button id="tl-load-more-btn" class="tl-load-more-btn">
-                <i class="fa-solid fa-angles-down"></i> Load More Events
+            <button id="sidebar-collapse-btn" class="sidebar-icon-btn collapse-btn" aria-label="Toggle Sidebar"
+                data-tooltip="Toggle Sidebar">
+                <i class="fa-solid fa-bars"></i>
             </button>
         </div>
-    </div>
-
-    <!-- ── TAB: PREP (STUDY HUB) ───────────────────────── -->
-    <div id="tab-prep" class="tab-page active">
-        <div class="prep-hero">
-            <div class="prep-hero-text">
-                <h1>Welcome back, study master</h1>
-                <p>Track your syllabus progress, review study notes, and practice MCQs.</p>
+        <nav class="sidebar-nav">
+            <button class="nav-item active" data-tab="prep" data-tooltip="Prep">
+                <i class="fa-solid fa-graduation-cap"></i><span>Prep</span>
+                <span class="nav-badge" id="prep-nav-badge" style="display:none"></span>
+            </button>
+            <button class="nav-item" data-tab="timeline" data-tooltip="Timeline">
+                <i class="fa-solid fa-timeline"></i><span>Timeline</span>
+            </button>
+            <button class="nav-item" data-tab="quiz" data-tooltip="Quiz">
+                <i class="fa-solid fa-list-check"></i><span>Quiz</span>
+            </button>
+            <button class="nav-item" data-tab="settings" data-tooltip="Settings">
+                <i class="fa-solid fa-gears"></i><span>Settings</span>
+            </button>
+            <button class="nav-item" data-tab="info" data-tooltip="Info">
+                <i class="fa-solid fa-circle-info"></i><span>Info</span>
+            </button>
+        </nav>
+        <div class="sidebar-bottom">
+            <button class="sidebar-icon-btn" id="theme-toggle" data-tooltip="Toggle Theme">
+                <i class="fa-solid fa-moon" id="theme-icon"></i>
+                <span id="theme-label">Light</span>
+            </button>
+            <div class="sidebar-footer">
+                <a href="https://github.com/amanbh2" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/amanbh2/" aria-label="LinkedIn"><i
+                        class="fa-brands fa-linkedin"></i></a>
+                <span>Aman Bhaskar</span>
             </div>
-            
-            <div class="prep-overview-cards">
-                <!-- Syllabus Master Progress Card -->
-                <div class="prep-master-progress-card">
-                    <div class="master-progress-ring-container">
-                        <div class="progress-ring" id="prep-master-ring" style="background: conic-gradient(var(--accent) 0%, var(--border-soft) 0%);">
-                            <div class="progress-ring-inner">
-                                <span id="prep-master-percent">0%</span>
+        </div>
+    </aside>
+
+    <!-- ═══════════════════════════════════════════════════════
+     MOBILE HEADER
+════════════════════════════════════════════════════════ -->
+    <header id="mobile-header">
+        <div class="header-spacer"></div>
+        <div class="mobile-brand">
+            <span class="brand-quiz">Quiz</span><span class="brand-me">Me</span>
+        </div>
+        <button class="header-icon-btn" id="theme-toggle-mobile">
+            <i class="fa-solid fa-moon" id="theme-icon-mobile"></i>
+        </button>
+    </header>
+
+    <!-- ═══════════════════════════════════════════════════════
+     INSTALL PROMPT BANNER
+════════════════════════════════════════════════════════ -->
+    <div id="install-banner" style="display:none">
+        <div class="install-banner-inner">
+            <div class="install-banner-left">
+                <img src="res/web-app-manifest-192x192.png" class="install-banner-icon" alt="">
+                <div>
+                    <span class="install-banner-title">Add QuizMe to home screen</span>
+                    <span class="install-banner-sub">Works offline · No app store needed</span>
+                </div>
+            </div>
+            <div class="install-banner-actions">
+                <button id="install-btn">Install</button>
+                <button id="install-dismiss">✕</button>
+            </div>
+        </div>
+    </div>
+    <div id="offline-pill">⚡ Offline — using cached questions</div>
+
+    <!-- ═══════════════════════════════════════════════════════
+     MAIN CONTENT
+════════════════════════════════════════════════════════ -->
+    <main id="main-content">
+
+
+
+        <!-- ── TAB: QUIZ ──────────────────────────────────── -->
+        <div id="tab-quiz" class="tab-page">
+
+            <div class="quiz-controls">
+                <div id="subject"></div>
+                <div id="subtopic-wrap" style="display:none">
+                    <select id="subtopic-select"></select>
+                </div>
+            </div>
+
+            <div id="mode-label" class="mode-label"></div>
+
+            <div id="progress-wrap">
+                <div id="progress-bar-container">
+                    <div id="progress-bar"></div>
+                </div>
+                <span id="progress-label">0/0</span>
+                <span id="streak"><i class="fa-solid fa-fire"></i> 0</span>
+            </div>
+
+            <div class="container">
+                <div id="quiz-container"></div>
+            </div>
+
+            <button id="restart-btn">
+                <i class="fa-solid fa-rotate-right"></i> New Session
+            </button>
+
+        </div>
+
+        <!-- ── TAB: TIMELINE ───────────────────────────────── -->
+        <div id="tab-timeline" class="tab-page">
+            <div class="timeline-hero">
+                <h1><i class="fa-solid fa-timeline"></i> History Timeline</h1>
+                <p>Chronological events from prehistory to modern India</p>
+                <div class="timeline-controls">
+                    <div class="timeline-toggle" data-active-era="bce">
+                        <div class="tl-toggle-slider"></div>
+                        <button class="tl-toggle-btn active" data-era="bce">BCE</button>
+                        <button class="tl-toggle-btn" data-era="ce">CE</button>
+                    </div>
+                    <span class="tl-event-count" id="tl-event-count"></span>
+                </div>
+                <div class="timeline-jump-bar" id="timeline-jump-bar"></div>
+            </div>
+            <div id="timeline-container" class="timeline-container"></div>
+            <div class="tl-load-more-wrap" id="tl-load-more-wrap" style="display:none">
+                <button id="tl-load-more-btn" class="tl-load-more-btn">
+                    <i class="fa-solid fa-angles-down"></i> Load More Events
+                </button>
+            </div>
+        </div>
+
+        <!-- ── TAB: PREP (STUDY HUB) ───────────────────────── -->
+        <div id="tab-prep" class="tab-page active">
+            <div class="prep-hero">
+                <div class="prep-hero-text">
+                    <h1>Welcome back, study master</h1>
+                    <p>Track your syllabus progress, review study notes, and practice MCQs.</p>
+                </div>
+
+                <div class="prep-overview-cards">
+                    <!-- Syllabus Master Progress Card -->
+                    <div class="prep-master-progress-card">
+                        <div class="master-progress-ring-container">
+                            <div class="progress-ring" id="prep-master-ring"
+                                style="background: conic-gradient(var(--accent) 0%, var(--border-soft) 0%);">
+                                <div class="progress-ring-inner">
+                                    <span id="prep-master-percent">0%</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="master-progress-details">
+                            <h3 class="master-progress-title">Syllabus Progress</h3>
+                            <p class="master-progress-meta" id="prep-master-meta">0 of 0 topics completed</p>
+                            <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+                                <button class="prep-export-btn" id="prep-export-btn"
+                                    title="Copy checklist git patch or markdown updates">
+                                    <i class="fa-solid fa-file-export"></i> Export Progress
+                                </button>
+                                <button class="prep-reset-btn" id="prep-clear-btn"
+                                    title="Reset all checked/unchecked topic progress">
+                                    <i class="fa-solid fa-trash-can"></i> Reset Progress
+                                </button>
                             </div>
                         </div>
                     </div>
-                    <div class="master-progress-details">
-                        <h3 class="master-progress-title">Syllabus Progress</h3>
-                        <p class="master-progress-meta" id="prep-master-meta">0 of 0 topics completed</p>
-                        <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-                            <button class="prep-export-btn" id="prep-export-btn" title="Copy checklist git patch or markdown updates">
-                                <i class="fa-solid fa-file-export"></i> Export Progress
+
+                    <!-- MCQ Stats Overview Card -->
+                    <div class="prep-mcq-overview-card">
+                        <div class="prep-mcq-stats-grid">
+                            <div class="prep-mcq-stat-item">
+                                <span class="prep-mcq-val" id="db-total-questions">0</span>
+                                <span class="prep-mcq-lbl">Database Qs</span>
+                            </div>
+                            <div class="prep-mcq-stat-item">
+                                <span class="prep-mcq-val" id="db-total-accuracy">0%</span>
+                                <span class="prep-mcq-lbl">Avg Accuracy</span>
+                            </div>
+                            <div class="prep-mcq-stat-item">
+                                <span class="prep-mcq-val" id="db-srs-count">0</span>
+                                <span class="prep-mcq-lbl">SRS Due</span>
+                            </div>
+                        </div>
+                        <div class="prep-mcq-actions">
+                            <button class="db-action-btn primary" id="db-btn-start">
+                                <i class="fa-solid fa-play"></i> Start Quiz Session
                             </button>
-                            <button class="prep-reset-btn" id="prep-clear-btn" title="Reset all checked/unchecked topic progress">
-                                <i class="fa-solid fa-trash-can"></i> Reset Progress
+                            <button class="db-action-btn" id="db-btn-srs">
+                                <i class="fa-solid fa-clock-rotate-left"></i> Run SRS Review
                             </button>
                         </div>
                     </div>
                 </div>
+            </div>
 
-                <!-- MCQ Stats Overview Card -->
-                <div class="prep-mcq-overview-card">
-                    <div class="prep-mcq-stats-grid">
-                        <div class="prep-mcq-stat-item">
-                            <span class="prep-mcq-val" id="db-total-questions">0</span>
-                            <span class="prep-mcq-lbl">Database Qs</span>
-                        </div>
-                        <div class="prep-mcq-stat-item">
-                            <span class="prep-mcq-val" id="db-total-accuracy">0%</span>
-                            <span class="prep-mcq-lbl">Avg Accuracy</span>
-                        </div>
-                        <div class="prep-mcq-stat-item">
-                            <span class="prep-mcq-val" id="db-srs-count">0</span>
-                            <span class="prep-mcq-lbl">SRS Due</span>
-                        </div>
-                    </div>
-                    <div class="prep-mcq-actions">
-                        <button class="db-action-btn primary" id="db-btn-start">
-                            <i class="fa-solid fa-play"></i> Start Quiz Session
-                        </button>
-                        <button class="db-action-btn" id="db-btn-srs">
-                            <i class="fa-solid fa-clock-rotate-left"></i> Run SRS Review
-                        </button>
+            <!-- Health check alerts are rendered here dynamically -->
+            <div id="stats-health-alert" style="display:none; margin-bottom: 20px;"></div>
+
+            <!-- SUBJECT CARDS GRID (DASHBOARD) -->
+            <div class="prep-dashboard-view" id="prep-dashboard-view">
+                <div class="prep-subject-grid" id="prep-subject-grid"></div>
+            </div>
+
+            <!-- SUBJECT TOPICS CHECKLIST VIEW (DRILLDOWN, HIDDEN BY DEFAULT) -->
+            <div class="prep-checklist-view" id="prep-checklist-view" style="display:none">
+                <div class="checklist-header">
+                    <button class="checklist-back-btn" id="prep-back-btn">
+                        <i class="fa-solid fa-arrow-left"></i> Back to Hub
+                    </button>
+                    <div class="checklist-subject-title-wrap">
+                        <span class="checklist-subject-icon" id="prep-subject-icon">🏺</span>
+                        <h2 class="checklist-subject-title" id="prep-subject-title">Ancient History</h2>
                     </div>
                 </div>
+
+                <!-- Horizontal swipeable section jumper -->
+                <div class="checklist-jump-wrapper">
+                    <div class="checklist-jump-bar" id="prep-jump-bar"></div>
+                </div>
+
+                <!-- Controls (Search & Filter) -->
+                <div class="checklist-controls">
+                    <div class="checklist-search-wrap">
+                        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                        <input type="text" id="prep-search-input" placeholder="Search topics...">
+                    </div>
+                    <div class="checklist-filters-wrap">
+                        <select id="prep-filter-status" class="prep-select">
+                            <option value="all">All Status</option>
+                            <option value="checked">Completed</option>
+                            <option value="unchecked">Incomplete</option>
+                        </select>
+                        <select id="prep-filter-importance" class="prep-select">
+                            <option value="all">All Importance</option>
+                            <option value="veryhigh">Very High</option>
+                            <option value="high">High</option>
+                            <option value="medium">Medium</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Topics List Container -->
+                <div class="prep-topics-container" id="prep-topics-container"></div>
             </div>
         </div>
-        
-        <!-- Health check alerts are rendered here dynamically -->
-        <div id="stats-health-alert" style="display:none; margin-bottom: 20px;"></div>
 
-        <!-- SUBJECT CARDS GRID (DASHBOARD) -->
-        <div class="prep-dashboard-view" id="prep-dashboard-view">
-            <div class="prep-subject-grid" id="prep-subject-grid"></div>
+        <!-- ── TAB: INFO ──────────────────────────────────── -->
+        <div id="tab-info" class="tab-page">
+            <div id="info-content"></div>
         </div>
 
-        <!-- SUBJECT TOPICS CHECKLIST VIEW (DRILLDOWN, HIDDEN BY DEFAULT) -->
-        <div class="prep-checklist-view" id="prep-checklist-view" style="display:none">
-            <div class="checklist-header">
-                <button class="checklist-back-btn" id="prep-back-btn">
-                    <i class="fa-solid fa-arrow-left"></i> Back to Hub
-                </button>
-                <div class="checklist-subject-title-wrap">
-                    <span class="checklist-subject-icon" id="prep-subject-icon">🏺</span>
-                    <h2 class="checklist-subject-title" id="prep-subject-title">Ancient History</h2>
+        <!-- ── TAB: SETTINGS ──────────────────────────────── -->
+        <div id="tab-settings" class="tab-page">
+            <div class="settings-content-wrapper">
+                <div class="settings-hero">
+                    <h1>Settings</h1>
+                    <p>Customize your learning experience</p>
                 </div>
-            </div>
 
-            <!-- Horizontal swipeable section jumper -->
-            <div class="checklist-jump-wrapper">
-                <div class="checklist-jump-bar" id="prep-jump-bar"></div>
-            </div>
+                <!-- Appearance & Themes -->
+                <div class="settings-section-page">
+                    <h3 class="settings-section-title"><i class="fa-solid fa-palette"></i> Appearance & Themes</h3>
 
-            <!-- Controls (Search & Filter) -->
-            <div class="checklist-controls">
-                <div class="checklist-search-wrap">
-                    <i class="fa-solid fa-magnifying-glass search-icon"></i>
-                    <input type="text" id="prep-search-input" placeholder="Search topics...">
+                    <div class="theme-mode-row">
+                        <span>Dark Mode</span>
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="settings-dark-mode-toggle">
+                            <span class="toggle-slider"></span>
+                        </label>
+                    </div>
+
+                    <p class="settings-subsection-label">PRESET THEMES</p>
+                    <div class="theme-presets-grid">
+                        <button class="theme-preset-btn" data-preset="indigo" title="Deep Indigo & Lavender">
+                            <div class="swatch swatch-bg" style="background:#f4f6f9">
+                                <div class="swatch-accent" style="background:#5d5fef"></div>
+                            </div>
+                        </button>
+                        <button class="theme-preset-btn active" data-preset="scholar" title="Warm Scholar">
+                            <div class="swatch swatch-bg" style="background:#f5f2eb">
+                                <div class="swatch-accent" style="background:#2a7c6f"></div>
+                            </div>
+                        </button>
+                        <button class="theme-preset-btn" data-preset="pink" title="Modern Pink">
+                            <div class="swatch swatch-bg" style="background:#fdf2f8">
+                                <div class="swatch-accent" style="background:#db2777"></div>
+                            </div>
+                        </button>
+                        <button class="theme-preset-btn" data-preset="amber" title="Sunset Amber">
+                            <div class="swatch swatch-bg" style="background:#fffbeb">
+                                <div class="swatch-accent" style="background:#d97706"></div>
+                            </div>
+                        </button>
+                    </div>
+
+                    <div class="custom-theme-wrap">
+                        <p class="settings-subsection-label">CUSTOM COLORS</p>
+                        <div class="color-picker-grid">
+                            <label class="color-picker-item">
+                                <input type="color" id="custom-color-accent" value="#5d5fef">
+                                <span>Accent</span>
+                            </label>
+                            <label class="color-picker-item">
+                                <input type="color" id="custom-color-bg" value="#f4f6f9">
+                                <span>Background</span>
+                            </label>
+                            <label class="color-picker-item">
+                                <input type="color" id="custom-color-text" value="#111827">
+                                <span>Text</span>
+                            </label>
+                        </div>
+                        <button id="apply-custom-theme-btn" class="settings-save-btn" style="margin-top:10px">Apply
+                            Custom Theme</button>
+                    </div>
                 </div>
-                <div class="checklist-filters-wrap">
-                    <select id="prep-filter-status" class="prep-select">
-                        <option value="all">All Status</option>
-                        <option value="checked">Completed</option>
-                        <option value="unchecked">Incomplete</option>
-                    </select>
-                    <select id="prep-filter-importance" class="prep-select">
-                        <option value="all">All Importance</option>
-                        <option value="veryhigh">Very High</option>
-                        <option value="high">High</option>
-                        <option value="medium">Medium</option>
-                    </select>
-                </div>
-            </div>
 
-            <!-- Topics List Container -->
-            <div class="prep-topics-container" id="prep-topics-container"></div>
-        </div>
-    </div>
+                <!-- Quiz Configuration -->
+                <div class="settings-section-page">
+                    <h3 class="settings-section-title"><i class="fa-solid fa-sliders"></i> Quiz Configuration</h3>
+                    <p class="settings-subsection-label">QUIZ MODE</p>
+                    <div class="mode-btn-group">
+                        <button class="mode-btn active" id="mode-normal">Normal</button>
+                        <button class="mode-btn" id="mode-weak">Weak</button>
+                        <button class="mode-btn" id="mode-unseen">Unseen</button>
+                        <button class="mode-btn" id="mode-srs">SRS</button>
+                        <button class="mode-btn" id="mode-revision">Revision</button>
+                    </div>
+                    <div id="mode-desc" class="mode-desc" style="margin-bottom:16px">Weighted random — weak questions
+                        appear more often</div>
 
-    <!-- ── TAB: INFO ──────────────────────────────────── -->
-    <div id="tab-info" class="tab-page">
-        <div id="info-content"></div>
-    </div>
-
-    <!-- ── TAB: SETTINGS ──────────────────────────────── -->
-    <div id="tab-settings" class="tab-page">
-        <div class="settings-content-wrapper">
-            <div class="settings-hero">
-                <h1>Settings</h1>
-                <p>Customize your learning experience</p>
-            </div>
-
-            <!-- Appearance & Themes -->
-            <div class="settings-section-page">
-                <h3 class="settings-section-title"><i class="fa-solid fa-palette"></i> Appearance & Themes</h3>
-                
-                <div class="theme-mode-row">
-                    <span>Dark Mode</span>
-                    <label class="toggle-switch">
-                        <input type="checkbox" id="settings-dark-mode-toggle">
-                        <span class="toggle-slider"></span>
+                    <p class="settings-subsection-label">EXAM SIMULATION</p>
+                    <label class="toggle-row">
+                        <span class="toggle-label">Negative marking (−⅓)</span>
+                        <div class="toggle-switch">
+                            <input type="checkbox" id="neg-marking-toggle">
+                            <span class="toggle-slider"></span>
+                        </div>
+                    </label>
+                    <label class="toggle-row" style="margin-top:10px">
+                        <span class="toggle-label">Sound effects</span>
+                        <div class="toggle-switch">
+                            <input type="checkbox" id="sound-toggle" checked>
+                            <span class="toggle-slider"></span>
+                        </div>
+                    </label>
+                    <label class="toggle-row" style="margin-top:10px">
+                        <span class="toggle-label">Exclude flagged questions</span>
+                        <div class="toggle-switch">
+                            <input type="checkbox" id="exclude-flagged-toggle" checked>
+                            <span class="toggle-slider"></span>
+                        </div>
                     </label>
                 </div>
 
-                <p class="settings-subsection-label">PRESET THEMES</p>
-                <div class="theme-presets-grid">
-                    <button class="theme-preset-btn" data-preset="indigo" title="Deep Indigo & Lavender">
-                        <div class="swatch swatch-bg" style="background:#f4f6f9">
-                            <div class="swatch-accent" style="background:#5d5fef"></div>
+                <!-- Exam Setup -->
+                <div class="settings-section-page">
+                    <h3 class="settings-section-title"><i class="fa-solid fa-calendar-check"></i> Exam Setup</h3>
+                    <p class="settings-subsection-label">TARGET EXAM & DATE</p>
+                    <input type="text" id="exam-name-input" placeholder="Exam name (e.g. 72nd BPSC CCE)"
+                        class="settings-input">
+                    <input type="date" id="exam-date-input" class="settings-input">
+                    <div class="exam-save-row">
+                        <button id="exam-date-save" class="settings-save-btn">Save</button>
+                        <span class="save-confirm" id="exam-save-confirm"></span>
+                    </div>
+                </div>
+
+
+
+                <!-- Data Management -->
+                <div class="settings-section-page">
+                    <h3 class="settings-section-title"><i class="fa-solid fa-database"></i> Data Management</h3>
+
+                    <div class="settings-group">
+                        <p class="settings-subsection-label" style="margin-top: 0;">FLAGGED QUESTIONS</p>
+                        <p class="settings-hint" style="margin-bottom: 12px;">Review questions you have flagged. You can
+                            copy individual questions, copy the whole list of IDs, or unflag them.</p>
+
+                        <div id="settings-flagged-list" class="settings-flagged-list-container">
+                            <!-- Flagged questions will be rendered here dynamically -->
                         </div>
-                    </button>
-                    <button class="theme-preset-btn active" data-preset="scholar" title="Warm Scholar">
-                        <div class="swatch swatch-bg" style="background:#f5f2eb">
-                            <div class="swatch-accent" style="background:#2a7c6f"></div>
-                        </div>
-                    </button>
-                    <button class="theme-preset-btn" data-preset="pink" title="Modern Pink">
-                        <div class="swatch swatch-bg" style="background:#fdf2f8">
-                            <div class="swatch-accent" style="background:#db2777"></div>
-                        </div>
-                    </button>
-                    <button class="theme-preset-btn" data-preset="amber" title="Sunset Amber">
-                        <div class="swatch swatch-bg" style="background:#fffbeb">
-                            <div class="swatch-accent" style="background:#d97706"></div>
-                        </div>
-                    </button>
-                </div>
 
-                <div class="custom-theme-wrap">
-                    <p class="settings-subsection-label">CUSTOM COLORS</p>
-                    <div class="color-picker-grid">
-                        <label class="color-picker-item">
-                            <input type="color" id="custom-color-accent" value="#5d5fef">
-                            <span>Accent</span>
-                        </label>
-                        <label class="color-picker-item">
-                            <input type="color" id="custom-color-bg" value="#f4f6f9">
-                            <span>Background</span>
-                        </label>
-                        <label class="color-picker-item">
-                            <input type="color" id="custom-color-text" value="#111827">
-                            <span>Text</span>
-                        </label>
+                        <button id="sp-copy-flagged" class="settings-save-btn">
+                            <i class="fa-solid fa-clipboard-list"></i> Copy All Flagged IDs
+                        </button>
                     </div>
-                    <button id="apply-custom-theme-btn" class="settings-save-btn" style="margin-top:10px">Apply Custom Theme</button>
                 </div>
-            </div>
 
-            <!-- Quiz Configuration -->
-            <div class="settings-section-page">
-                <h3 class="settings-section-title"><i class="fa-solid fa-sliders"></i> Quiz Configuration</h3>
-                <p class="settings-subsection-label">QUIZ MODE</p>
-                <div class="mode-btn-group">
-                    <button class="mode-btn active" id="mode-normal">Normal</button>
-                    <button class="mode-btn" id="mode-weak">Weak</button>
-                    <button class="mode-btn" id="mode-unseen">Unseen</button>
-                    <button class="mode-btn" id="mode-srs">SRS</button>
-                    <button class="mode-btn" id="mode-revision">Revision</button>
-                </div>
-                <div id="mode-desc" class="mode-desc" style="margin-bottom:16px">Weighted random — weak questions appear more often</div>
+                <!-- Danger Zone -->
+                <div class="settings-section-page settings-danger-zone">
+                    <h3 class="settings-section-title"><i class="fa-solid fa-radiation"></i> Danger Zone</h3>
 
-                <p class="settings-subsection-label">EXAM SIMULATION</p>
-                <label class="toggle-row">
-                    <span class="toggle-label">Negative marking (−⅓)</span>
-                    <div class="toggle-switch">
-                        <input type="checkbox" id="neg-marking-toggle">
-                        <span class="toggle-slider"></span>
+                    <div class="settings-group" style="margin-bottom: 24px;">
+                        <p class="settings-subsection-label" style="margin-top: 0; color: var(--wrong);">Reset MCQ
+                            Statistics</p>
+                        <p class="settings-hint danger-hint" style="margin-bottom: 12px;">Wipe all practice history
+                            (accuracies, attempts, SRS reviews). Your syllabus checklist progress and themes are
+                            preserved.</p>
+                        <button id="sp-reset-btn" class="settings-wipe-btn outline">
+                            <i class="fa-solid fa-trash-can"></i> Reset MCQ Statistics
+                        </button>
                     </div>
-                </label>
-                <label class="toggle-row" style="margin-top:10px">
-                    <span class="toggle-label">Sound effects</span>
-                    <div class="toggle-switch">
-                        <input type="checkbox" id="sound-toggle" checked>
-                        <span class="toggle-slider"></span>
+
+                    <div class="settings-group">
+                        <p class="settings-subsection-label" style="margin-top: 0; color: var(--wrong);">App Wipe &
+                            Cache Reset</p>
+                        <p class="settings-hint danger-hint" style="margin-bottom: 12px;">Complete reset: wipes all
+                            local storage (stats, checklists, themes, credentials), unregisters service workers, clears
+                            cached databases, and reloads from the network.</p>
+                        <button id="settings-wipe-btn" class="settings-wipe-btn">
+                            <i class="fa-solid fa-trash-can"></i> Wipe App & Clear Cache
+                        </button>
                     </div>
-                </label>
-                <label class="toggle-row" style="margin-top:10px">
-                    <span class="toggle-label">Exclude flagged questions</span>
-                    <div class="toggle-switch">
-                        <input type="checkbox" id="exclude-flagged-toggle" checked>
-                        <span class="toggle-slider"></span>
-                    </div>
-                </label>
-            </div>
-
-            <!-- Exam Setup -->
-            <div class="settings-section-page">
-                <h3 class="settings-section-title"><i class="fa-solid fa-calendar-check"></i> Exam Setup</h3>
-                <p class="settings-subsection-label">TARGET EXAM & DATE</p>
-                <input type="text" id="exam-name-input" placeholder="Exam name (e.g. BPSC AEDO)" class="settings-input">
-                <input type="date" id="exam-date-input" class="settings-input">
-                <div class="exam-save-row">
-                    <button id="exam-date-save" class="settings-save-btn">Save</button>
-                    <span class="save-confirm" id="exam-save-confirm"></span>
                 </div>
+
             </div>
-
-
-
-            <!-- Data Management -->
-            <div class="settings-section-page">
-                <h3 class="settings-section-title"><i class="fa-solid fa-database"></i> Data Management</h3>
-                
-                <div class="settings-group">
-                    <p class="settings-subsection-label" style="margin-top: 0;">FLAGGED QUESTIONS</p>
-                    <p class="settings-hint" style="margin-bottom: 12px;">Review questions you have flagged. You can copy individual questions, copy the whole list of IDs, or unflag them.</p>
-                    
-                    <div id="settings-flagged-list" class="settings-flagged-list-container">
-                        <!-- Flagged questions will be rendered here dynamically -->
-                    </div>
-                    
-                    <button id="sp-copy-flagged" class="settings-save-btn">
-                        <i class="fa-solid fa-clipboard-list"></i> Copy All Flagged IDs
-                    </button>
-                </div>
-            </div>
-
-            <!-- Danger Zone -->
-            <div class="settings-section-page settings-danger-zone">
-                <h3 class="settings-section-title"><i class="fa-solid fa-radiation"></i> Danger Zone</h3>
-                
-                <div class="settings-group" style="margin-bottom: 24px;">
-                    <p class="settings-subsection-label" style="margin-top: 0; color: var(--wrong);">Reset MCQ Statistics</p>
-                    <p class="settings-hint danger-hint" style="margin-bottom: 12px;">Wipe all practice history (accuracies, attempts, SRS reviews). Your syllabus checklist progress and themes are preserved.</p>
-                    <button id="sp-reset-btn" class="settings-wipe-btn outline">
-                        <i class="fa-solid fa-trash-can"></i> Reset MCQ Statistics
-                    </button>
-                </div>
-                
-                <div class="settings-group">
-                    <p class="settings-subsection-label" style="margin-top: 0; color: var(--wrong);">App Wipe & Cache Reset</p>
-                    <p class="settings-hint danger-hint" style="margin-bottom: 12px;">Complete reset: wipes all local storage (stats, checklists, themes, credentials), unregisters service workers, clears cached databases, and reloads from the network.</p>
-                    <button id="settings-wipe-btn" class="settings-wipe-btn">
-                        <i class="fa-solid fa-trash-can"></i> Wipe App & Clear Cache
-                    </button>
-                </div>
-            </div>
-
         </div>
-    </div>
 
-</main>
+    </main>
 
-<!-- ═══════════════════════════════════════════════════════
+    <!-- ═══════════════════════════════════════════════════════
      MOBILE BOTTOM NAV
 ════════════════════════════════════════════════════════ -->
-<nav id="bottom-nav">
-    <div class="bottom-nav-scrollable">
-        <button class="bottom-nav-item active" data-tab="prep">
-            <i class="fa-solid fa-graduation-cap"></i><span>Prep</span>
-            <span class="nav-badge" id="prep-bottom-badge" style="display:none"></span>
-        </button>
-        <button class="bottom-nav-item" data-tab="timeline">
-            <i class="fa-solid fa-timeline"></i><span>Timeline</span>
-        </button>
-        <button class="bottom-nav-item" data-tab="quiz">
-            <i class="fa-solid fa-list-check"></i><span>Quiz</span>
-        </button>
-        <button class="bottom-nav-item" data-tab="settings">
-            <i class="fa-solid fa-gears"></i><span>Settings</span>
-        </button>
-        <button class="bottom-nav-item" data-tab="info">
-            <i class="fa-solid fa-circle-info"></i><span>Info</span>
-        </button>
-    </div>
-</nav>
-
-<!-- ═══════════════════════════════════════════════════════
-     MOBILE FOOTER
-════════════════════════════════════════════════════════ -->
-<footer id="mobile-footer">
-    <a href="https://github.com/amanbh2" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
-    <a href="https://www.linkedin.com/in/amanbh2/" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-    <span>Aman Bhaskar</span>
-</footer>
-
-<!-- Removed overlay settings panel -->
-
-<!-- ── STUDY NOTES SLIDE-OVER DRAWER ────────────────────── -->
-<div id="prep-notes-drawer" class="notes-drawer">
-    <div class="notes-drawer-backdrop" id="prep-drawer-backdrop"></div>
-    <div class="notes-drawer-content">
-        <div class="notes-drawer-header">
-            <h3 class="notes-drawer-title" id="prep-drawer-title">Study Notes</h3>
-            <button class="notes-drawer-close" id="prep-drawer-close" aria-label="Close notes">
-                <i class="fa-solid fa-xmark"></i>
+    <nav id="bottom-nav">
+        <div class="bottom-nav-scrollable">
+            <button class="bottom-nav-item active" data-tab="prep">
+                <i class="fa-solid fa-graduation-cap"></i><span>Prep</span>
+                <span class="nav-badge" id="prep-bottom-badge" style="display:none"></span>
+            </button>
+            <button class="bottom-nav-item" data-tab="timeline">
+                <i class="fa-solid fa-timeline"></i><span>Timeline</span>
+            </button>
+            <button class="bottom-nav-item" data-tab="quiz">
+                <i class="fa-solid fa-list-check"></i><span>Quiz</span>
+            </button>
+            <button class="bottom-nav-item" data-tab="settings">
+                <i class="fa-solid fa-gears"></i><span>Settings</span>
+            </button>
+            <button class="bottom-nav-item" data-tab="info">
+                <i class="fa-solid fa-circle-info"></i><span>Info</span>
             </button>
         </div>
-        <div class="notes-drawer-body" id="prep-drawer-body">
-            <!-- Dynamically rendered markdown content goes here -->
+    </nav>
+
+    <!-- ═══════════════════════════════════════════════════════
+     MOBILE FOOTER
+════════════════════════════════════════════════════════ -->
+    <footer id="mobile-footer">
+        <a href="https://github.com/amanbh2" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/amanbh2/" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+        <span>Aman Bhaskar</span>
+    </footer>
+
+    <!-- Removed overlay settings panel -->
+
+    <!-- ── STUDY NOTES SLIDE-OVER DRAWER ────────────────────── -->
+    <div id="prep-notes-drawer" class="notes-drawer">
+        <div class="notes-drawer-backdrop" id="prep-drawer-backdrop"></div>
+        <div class="notes-drawer-content">
+            <div class="notes-drawer-header">
+                <h3 class="notes-drawer-title" id="prep-drawer-title">Study Notes</h3>
+                <button class="notes-drawer-close" id="prep-drawer-close" aria-label="Close notes">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+            <div class="notes-drawer-body" id="prep-drawer-body">
+                <!-- Dynamically rendered markdown content goes here -->
+            </div>
         </div>
     </div>
-</div>
 
-<script src="script.js"></script>
-<script>
-    if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-            const isLocal = location.hostname === 'localhost' || location.hostname === '127.0.0.1';
-            const swPath = isLocal ? 'sw.js' : '/quizme/sw.js';
-            navigator.serviceWorker.register(swPath)
-                .then(r => console.log('SW registered:', r.scope))
-                .catch(e => console.log('SW failed:', e));
-        });
-    }
-</script>
+    <script src="script.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                const isLocal = location.hostname === 'localhost' || location.hostname === '127.0.0.1';
+                const swPath = isLocal ? 'sw.js' : '/quizme/sw.js';
+                navigator.serviceWorker.register(swPath)
+                    .then(r => console.log('SW registered:', r.scope))
+                    .catch(e => console.log('SW failed:', e));
+            });
+        }
+    </script>
 </body>
+
 </html>

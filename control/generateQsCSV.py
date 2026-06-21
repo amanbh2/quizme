@@ -94,13 +94,36 @@ def load_tag_rules():
         return {}
     return json.load(open(TAG_RULES_PATH, encoding='utf-8'))
 
+def is_boundary_match(combined, kw):
+    kw_len = len(kw)
+    if kw_len == 0:
+        return False
+    idx = 0
+    while True:
+        idx = combined.find(kw, idx)
+        if idx == -1:
+            return False
+        # Check character before
+        if idx > 0:
+            char_before = combined[idx - 1]
+            if char_before.isalnum() or char_before == '_':
+                idx += 1
+                continue
+        # Check character after
+        if idx + kw_len < len(combined):
+            char_after = combined[idx + kw_len]
+            if char_after.isalnum() or char_after == '_':
+                idx += 1
+                continue
+        return True
+
 def auto_tag_question(text, info, tag_rules):
     """Return comma-separated tags for a question based on rules."""
     combined = (str(text) + ' ' + str(info)).lower()
     matched  = []
     for tag, keywords in tag_rules.items():
         for kw in keywords:
-            if kw.lower() in combined:
+            if is_boundary_match(combined, kw.lower()):
                 matched.append(tag)
                 break
     return ','.join(matched)
@@ -121,6 +144,57 @@ def get_csv_files():
     if not os.path.exists(SYMLINKS_DIR):
         return []
     return sorted([f for f in os.listdir(SYMLINKS_DIR) if f.endswith('.csv')])
+
+# ── CSV File Selection Helpers ─────────────────────────────────
+def parse_range_selection(input_str, max_val):
+    """
+    Parses inputs like 'all', '1', '1,2', '3-5', '1-3,5,7-9'
+    Returns a set of 1-based indices.
+    """
+    input_str = input_str.strip().lower()
+    if not input_str or input_str == 'all':
+        return set(range(1, max_val + 1))
+    
+    selected = set()
+    parts = input_str.split(',')
+    for part in parts:
+        part = part.strip()
+        if '-' in part:
+            subparts = part.split('-')
+            if len(subparts) == 2:
+                try:
+                    start = int(subparts[0].strip())
+                    end = int(subparts[1].strip())
+                    if 1 <= start <= max_val and 1 <= end <= max_val:
+                        selected.update(range(min(start, end), max(start, end) + 1))
+                except ValueError:
+                    pass
+        else:
+            try:
+                val = int(part)
+                if 1 <= val <= max_val:
+                    selected.add(val)
+            except ValueError:
+                pass
+    return selected
+
+def select_files(files, prompt_message="Select CSV files"):
+    while True:
+        print(f"\n{prompt_message}:")
+        for i, f in enumerate(files, 1):
+            print(f"  {i:<2} → {f}")
+        print()
+        print("  Options: 'all', indices (e.g. '1,3'), ranges (e.g. '2-5'), or combined (e.g. '1-3,5')")
+        choice = input("  Enter selection: ").strip()
+        if not choice:
+            choice = "all"
+        selected_indices = parse_range_selection(choice, len(files))
+        if selected_indices:
+            selected_files = [files[i-1] for i in sorted(selected_indices)]
+            print(f"  Selected: {', '.join(selected_files)}")
+            return selected_files
+        else:
+            print("  ⚠ Invalid selection. Please try again.")
 
 # ═══════════════════════════════════════════════════════════════
 #  MODE: CONVERT
@@ -145,6 +219,10 @@ def mode_convert():
                 all_existing_qids.add(str(val).strip())
 
     counter = load_counter(all_existing_qids)
+
+    active_files = select_files(csv_files, "Select CSV files to CONVERT & INCLUDE")
+    active_file_names = set(active_files)
+
     all_questions = []
     assigned = 0
     duplicates = 0
@@ -153,6 +231,19 @@ def mode_convert():
     for f in csv_files:
         subject_name = f.replace('.csv', '')
         path = os.path.join(SYMLINKS_DIR, f)
+        fname = subject_name + '.json'
+        fpath = os.path.join(DATA_DIR, fname)
+
+        if f not in active_file_names:
+            # If not active, delete the JSON file if it exists so it is excluded from manifest
+            if os.path.exists(fpath):
+                try:
+                    os.remove(fpath)
+                    print(f"  🗑  Removed excluded CSV JSON: {fname}")
+                except Exception as e:
+                    print(f"  ⚠  Could not remove {fname}: {e}")
+            continue
+
         headers, rows = read_csv_file(path)
         if not rows: continue
         headers = ensure_headers(headers)
@@ -196,8 +287,7 @@ def mode_convert():
 
         write_csv_file(path, headers, updated_rows)
         if questions:
-            fname = subject_name + '.json'
-            json.dump(questions, open(os.path.join(DATA_DIR, fname), 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+            json.dump(questions, open(fpath, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
             all_questions.extend(questions)
             print(f"  ✓  {fname} — {len(questions)} questions")
 
@@ -210,9 +300,12 @@ def mode_convert():
         json.dump(all_questions, open(all_json_path, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
         print(f"  ✓  all.json — {len(all_questions)} questions total")
 
-    print(f"\n  ✓  {assigned} new QID(s) assigned")
-    if duplicates:
-        print(f"  ⚠  {duplicates} duplicate QID(s) detected and reassigned")
+    if assigned > 0 or duplicates > 0:
+        print(f"\n  ✓  {assigned} new QID(s) assigned")
+        if duplicates:
+            print(f"  ⚠  {duplicates} duplicate QID(s) detected and reassigned")
+    else:
+        print("\n  ✓  No QID changes, CSV saves complete")
 
     create_manifest()
     print("\n  ✓  Convert complete\n")
@@ -232,15 +325,22 @@ def mode_autotag():
         print(f"  ✗  No CSV files found in {SYMLINKS_DIR}")
         return
 
+    active_files = select_files(csv_files, "Select CSV files to AUTOTAG")
+    active_file_names = set(active_files)
+
     tagged  = 0
     skipped = 0
 
     for f in csv_files:
+        if f not in active_file_names:
+            continue
+
         path = os.path.join(SYMLINKS_DIR, f)
         headers, rows = read_csv_file(path)
         if not rows: continue
         headers = ensure_headers(headers)
         updated_rows = []
+        modified = False
 
         for r in rows:
             question = r.get('Question', '').strip()
@@ -259,11 +359,16 @@ def mode_autotag():
             if new_tags:
                 r['Tags'] = new_tags
                 tagged += 1
+                modified = True
             updated_rows.append(r)
 
-        write_csv_file(path, headers, updated_rows)
+        if modified:
+            write_csv_file(path, headers, updated_rows)
 
-    print(f"  ✓  {tagged} question(s) tagged")
+    if tagged > 0:
+        print(f"  ✓  {tagged} question(s) tagged")
+    else:
+        print("  ✓  No new questions tagged")
     print(f"  ℹ  {skipped} question(s) skipped (already have tags)")
     print("\n  ✓  Autotag complete — review tags in CSV files before running convert\n")
 
@@ -344,7 +449,7 @@ def mode_qid_report():
 def mode_renumber():
     print("\n── RENUMBER ────────────────────────────────────────────")
     print("""
-  ⚠  FULL RENUMBER — this will change ALL QIDs in your CSV files.
+  ⚠  FULL RENUMBER — this will change ALL QIDs in selected CSV files.
   ─────────────────────────────────────────────────────────────────
   All existing QIDs will be reassigned sequentially from Q00001.
 
@@ -365,8 +470,13 @@ def mode_renumber():
         print(f"  ✗  No CSV files found in {SYMLINKS_DIR}")
         return
 
+    active_files = select_files(csv_files, "Select CSV files to RENUMBER")
+    active_file_names = set(active_files)
+
     counter = 0
     for f in csv_files:
+        if f not in active_file_names:
+            continue
         path = os.path.join(SYMLINKS_DIR, f)
         headers, rows = read_csv_file(path)
         if not rows: continue

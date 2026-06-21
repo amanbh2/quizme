@@ -542,7 +542,15 @@ const TAG_LABELS = {
     econCore: "Economy: Core Concepts",
     econBihar: "Economy: Bihar Economy",
     census2011: "Census: 2011 Data",
-    budgetSurvey: "Budget & Surveys"
+    budgetSurvey: "Budget & Surveys",
+
+    // Census (Aligned Tag-Based Syllabus)
+    censusCoreConcepts: "Census: Core Concepts",
+    censusHistory: "Census: History & Legal Framework",
+    censusNationalProfile: "Census: National Profile & State/UT Data",
+    censusBiharSpecific: "Census: Bihar Specific Data",
+    census2027: "Census: 2027 & Developments",
+    censusBiharCasteSurvey: "Census: Bihar Caste Survey 2023"
 };
 
 const SRS_INTERVALS = [
@@ -1630,7 +1638,10 @@ function renderTagsHTML(tags) {
     if (!list.length) return '';
     const visible = list.slice(0, 2);
     const extra   = list.length - 2;
-    const pills   = visible.map(t => `<span class="q-tag">#${t}</span>`).join('');
+    const pills   = visible.map(t => {
+        const label = TAG_LABELS[t] || t;
+        return `<span class="q-tag" title="${label}">${label}</span>`;
+    }).join('');
     const more    = extra > 0 ? `<span class="q-tag-more">+${extra}</span>` : '';
     return `<div class="q-tags">${pills}${more}</div>`;
 }
@@ -2046,6 +2057,23 @@ async function loadPrepSubject(subjectId) {
         if (!res.ok) throw new Error('Failed to load topic checklist');
         const text = await res.text();
         const parsed = parseMarkdownChecklist(text);
+        
+        // Append dynamic Miscellaneous topic for reports-census
+        if (subjectId === 'reports-census' && parsed.length > 0) {
+            const lastSec = parsed[parsed.length - 1];
+            lastSec.topics.push({
+                code: 'MISC',
+                title: 'Miscellaneous Questions',
+                description: 'Census questions that do not fit into any other defined topic tags.',
+                bookRef: 'Internet / AI',
+                importance: 'Medium',
+                defaultChecked: false,
+                notePath: '',
+                noteLabel: '',
+                tags: []
+            });
+        }
+        
         prepData[subjectId] = parsed;
         return parsed;
     } catch (e) {
@@ -2101,6 +2129,7 @@ function parseMarkdownChecklist(text) {
                     let refIdx = tableHeaders.findIndex(h => h.includes('reference') || h.includes('ref'));
                     let impIdx = tableHeaders.findIndex(h => h.includes('importance'));
                     let yearIdx = tableHeaders.findIndex(h => h.includes('year'));
+                    let tagIdx = tableHeaders.findIndex(h => h.includes('tag'));
                     
                     if (statusIdx === -1) statusIdx = 0;
                     if (idIdx === -1) idIdx = 1;
@@ -2154,6 +2183,7 @@ function parseMarkdownChecklist(text) {
                     const code = (cells[idIdx] || '').trim();
                     const bookRef = refIdx !== -1 && refIdx < cells.length ? cells[refIdx] : '';
                     const importance = impIdx !== -1 && impIdx < cells.length ? cells[impIdx] : 'Medium';
+                    const topicTags = tagIdx !== -1 && tagIdx < cells.length ? cells[tagIdx].split(',').map(t => t.trim()).filter(Boolean) : [];
                     
                     currentSection.topics.push({
                         code: code,
@@ -2164,6 +2194,7 @@ function parseMarkdownChecklist(text) {
                         defaultChecked: isChecked,
                         notePath: notePath,
                         noteLabel: noteLabel,
+                        tags: topicTags,
                         rawCells: cells
                     });
                 }
@@ -2611,7 +2642,7 @@ function renderFilteredChecklist(sections, subjectId) {
             
             const practiceBtn = row.querySelector('.prep-topic-practice-btn');
             practiceBtn.addEventListener('click', () => {
-                launchTopicPractice(subjectId, t.code, t.title);
+                launchTopicPractice(subjectId, t.code, t.title, t.tags || []);
             });
             
             tableBody.appendChild(row);
@@ -2659,91 +2690,153 @@ function renderMarkdownToHTML(markdown) {
         .replace(/>/g, '&gt;');
         
     const lines = html.split(/\r?\n/);
-    let inList = false;
+    let processedLines = [];
+    let listStack = [];
     let inTable = false;
     let tableRows = [];
-    let processedLines = [];
-    
+    let inBlockquote = false;
+    let bqLines = [];
+
+    function adjustListNesting(targetIndent, targetType) {
+        let output = '';
+        while (listStack.length > 0 && listStack[listStack.length - 1].indent > targetIndent) {
+            const popped = listStack.pop();
+            output += `</${popped.type}>\n`;
+        }
+        if (listStack.length > 0 && 
+            listStack[listStack.length - 1].indent === targetIndent && 
+            listStack[listStack.length - 1].type !== targetType) {
+            const popped = listStack.pop();
+            output += `</${popped.type}>\n`;
+        }
+        if (listStack.length === 0 || listStack[listStack.length - 1].indent < targetIndent) {
+            listStack.push({ type: targetType, indent: targetIndent });
+            output += `<${targetType}>\n`;
+        }
+        return output;
+    }
+
+    function closeAllLists() {
+        let output = '';
+        while (listStack.length > 0) {
+            const popped = listStack.pop();
+            output += `</${popped.type}>\n`;
+        }
+        return output;
+    }
+
+    function flushTable() {
+        if (!inTable) return '';
+        inTable = false;
+        const out = renderHTMLTable(tableRows);
+        tableRows = [];
+        return out;
+    }
+
+    function flushBlockquote() {
+        if (!inBlockquote) return '';
+        inBlockquote = false;
+        const fullContent = bqLines.join('\n');
+        bqLines = [];
+        
+        const alertMatch = fullContent.match(/^\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]\s*(?:\r?\n)?([\s\S]*)/i);
+        if (alertMatch) {
+            const type = alertMatch[1].toUpperCase();
+            const body = alertMatch[2];
+            const renderedBody = renderMarkdownToHTML(body);
+            return `<blockquote class="alert-block alert-${type.toLowerCase()}"><strong>${type}</strong><div class="alert-content">${renderedBody}</div></blockquote>\n`;
+        } else {
+            const renderedBody = renderMarkdownToHTML(fullContent);
+            return `<blockquote>${renderedBody}</blockquote>\n`;
+        }
+    }
+
     for (let i = 0; i < lines.length; i++) {
         let line = lines[i];
         let trimmed = line.trim();
         
-        const bqMatch = line.match(/^(&gt;)\s*(.*)/);
+        // Blockquote check
+        const bqMatch = line.match(/^(\s*)&gt;\s?(.*)/);
         if (bqMatch) {
-            let content = bqMatch[2].trim();
-            const alertMatch = content.match(/^\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]/i);
-            if (alertMatch) {
-                const type = alertMatch[1].toUpperCase();
-                content = content.replace(/^\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]/i, '').trim();
-                processedLines.push(`<blockquote class="alert-block alert-${type.toLowerCase()}"><strong>${type}</strong><p>`);
-            } else {
-                processedLines.push(`<blockquote><p>`);
+            if (inTable) { processedLines.push(flushTable()); }
+            if (listStack.length > 0) { processedLines.push(closeAllLists()); }
+            inBlockquote = true;
+            bqLines.push(bqMatch[2]);
+            continue;
+        } else {
+            if (inBlockquote) {
+                processedLines.push(flushBlockquote());
             }
-            processedLines.push(parseMarkdownInline(content) + `</p></blockquote>`);
-            continue;
         }
         
-        const hMatch = line.match(/^(#{1,6})\s+(.*)/);
-        if (hMatch) {
-            if (inList) { processedLines.push('</ul>'); inList = false; }
-            if (inTable) { processedLines.push(renderHTMLTable(tableRows)); inTable = false; tableRows = []; }
-            const level = hMatch[1].length;
-            processedLines.push(`<h${level}>${parseMarkdownInline(hMatch[2])}</h${level}>`);
-            continue;
-        }
-        
-        if (trimmed === '---') {
-            if (inList) { processedLines.push('</ul>'); inList = false; }
-            if (inTable) { processedLines.push(renderHTMLTable(tableRows)); inTable = false; tableRows = []; }
-            processedLines.push('<hr>');
-            continue;
-        }
-        
-        const listMatch = line.match(/^([-*])\s+(.*)/);
-        if (listMatch) {
-            if (inTable) { processedLines.push(renderHTMLTable(tableRows)); inTable = false; tableRows = []; }
-            if (!inList) {
-                processedLines.push('<ul>');
-                inList = true;
-            }
-            processedLines.push(`<li>${parseMarkdownInline(listMatch[2])}</li>`);
-            continue;
-        }
-        
+        // Table check
         if (trimmed.startsWith('|')) {
-            if (inList) { processedLines.push('</ul>'); inList = false; }
+            if (listStack.length > 0) { processedLines.push(closeAllLists()); }
             inTable = true;
             tableRows.push(trimmed);
             continue;
         } else {
             if (inTable) {
-                processedLines.push(renderHTMLTable(tableRows));
-                inTable = false;
-                tableRows = [];
+                processedLines.push(flushTable());
             }
         }
         
+        // Header check
+        const hMatch = line.match(/^(#{1,6})\s+(.*)/);
+        if (hMatch) {
+            if (listStack.length > 0) { processedLines.push(closeAllLists()); }
+            const level = hMatch[1].length;
+            processedLines.push(`<h${level}>${parseMarkdownInline(hMatch[2])}</h${level}>`);
+            continue;
+        }
+        
+        // Horizontal rule
+        if (trimmed === '---') {
+            if (listStack.length > 0) { processedLines.push(closeAllLists()); }
+            processedLines.push('<hr>');
+            continue;
+        }
+        
+        // List check
+        const ulMatch = line.match(/^(\s*)([-*])\s+(.*)/);
+        const olMatch = line.match(/^(\s*)(\d+)\.\s+(.*)/);
+        
+        if (ulMatch) {
+            const indent = ulMatch[1].length;
+            const content = ulMatch[3];
+            processedLines.push(adjustListNesting(indent, 'ul'));
+            processedLines.push(`<li>${parseMarkdownInline(content)}</li>`);
+            continue;
+        } else if (olMatch) {
+            const indent = olMatch[1].length;
+            const content = olMatch[3];
+            processedLines.push(adjustListNesting(indent, 'ol'));
+            processedLines.push(`<li>${parseMarkdownInline(content)}</li>`);
+            continue;
+        }
+        
         if (trimmed === '') {
-            if (inList) { processedLines.push('</ul>'); inList = false; }
+            if (listStack.length > 0) { processedLines.push(closeAllLists()); }
             processedLines.push('<br>');
         } else {
-            if (inList) { processedLines.push('</ul>'); inList = false; }
+            if (listStack.length > 0) { processedLines.push(closeAllLists()); }
             processedLines.push(`<p>${parseMarkdownInline(line)}</p>`);
         }
     }
     
-    if (inList) processedLines.push('</ul>');
-    if (inTable) processedLines.push(renderHTMLTable(tableRows));
+    if (inBlockquote) processedLines.push(flushBlockquote());
+    if (inTable) processedLines.push(flushTable());
+    if (listStack.length > 0) processedLines.push(closeAllLists());
     
     return processedLines.join('\n');
 }
 
 function parseMarkdownInline(text) {
     return text
-        .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-        .replace(/\*([^*]+)\*/g, '<em>$1</em>')
-        .replace(/`([^`]+)`/g, '<code>$1</code>')
-        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*(.*?)\*/g, '<em>$1</em>')
+        .replace(/`(.*?)`/g, '<code>$1</code>')
+        .replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>');
 }
 
 function renderHTMLTable(rows) {
@@ -2771,7 +2864,7 @@ function renderHTMLTable(rows) {
     return html;
 }
 
-function launchTopicPractice(subjectId, topicCode, topicTitle) {
+function launchTopicPractice(subjectId, topicCode, topicTitle, topicTags = []) {
     const sheetMap = {
         'history-ancient': 'HistoryAncient.json',
         'history-medieval': 'HistoryMedieval.json',
@@ -2791,65 +2884,91 @@ function launchTopicPractice(subjectId, topicCode, topicTitle) {
         return;
     }
     
-    const cleanTitle = topicTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '');
-    const keywords = cleanTitle.split(/\s+/).filter(w => w.length > 3);
+    let matchedQs = [];
     
-    let sectionTag = '';
-    const secChar = topicCode.charAt(0);
-    
-    if (subjectId === 'polity') {
-        const tagMap = {
-            'A': 'polityBackground', 'B': 'polityMaking', 'C': 'polityPreamble',
-            'D': 'polityFR', 'E': 'polityDPSP', 'F': 'polityUnionExec',
-            'G': 'polityParliament', 'H': 'polityJudiciary', 'I': 'polityStateGov',
-            'J': 'polityRelations', 'K': 'polityEmergency', 'L': 'polityBodies',
-            'M': 'polityLocalGov', 'N': 'polityAmendments', 'O': 'polityJudgements'
-        };
-        sectionTag = tagMap[secChar] || '';
-    } else if (subjectId === 'history-ancient') {
-        const tagMap = {
-            '0': 'ancientIVC', '1': 'ancientIVC', '2': 'ancientIVC',
-            '3': 'ancientVedic', '4': 'ancientMahajanapadas', '5': 'ancientMauryan',
-            '6': 'ancientPostMauryan', '7': 'ancientGupta', '8': 'ancientPostGupta',
-            '9': 'ancientSangam', '10': 'ancientBuddhismJainism'
-        };
-        sectionTag = tagMap[secChar] || '';
-    } else if (subjectId === 'geography') {
-        const tagMap = {
-            'A': 'geoPhysical', 'B': 'geoPhysical', 'C': 'geoPhysical', 'D': 'geoPhysical',
-            'E': 'geoIndiaPhysiography', 'F': 'geoIndiaPhysiography', 'G': 'geoIndiaPhysiography',
-            'H': 'geoIndiaPhysiography', 'I': 'geoIndiaEconomic', 'J': 'geoIndiaEconomic',
-            'K': 'geoIndiaEconomic', 'L': 'geoBihar', 'M': 'geoWorld', 'N': 'geoEnvironment'
-        };
-        sectionTag = tagMap[secChar] || '';
-    } else if (subjectId === 'reports-census') {
-        sectionTag = 'census2011';
-    }
-    
-    let matchedQs = dbQuestions.filter(q => {
-        const qtext = (q.q || '').toLowerCase();
-        const qtags = q.tags ? q.tags.split(',').map(t => t.trim().toLowerCase()) : [];
+    // Tag-based filtering for aligned subjects (Census)
+    if (subjectId === 'reports-census') {
+        if (topicCode === 'MISC') {
+            // Miscellaneous logic: gather all mapped tags from checklist
+            const allMappedTags = new Set();
+            const sections = prepData[subjectId] || [];
+            sections.forEach(sec => {
+                sec.topics.forEach(t => {
+                    if (t.tags) t.tags.forEach(tg => allMappedTags.add(tg.toLowerCase()));
+                });
+            });
+            
+            matchedQs = dbQuestions.filter(q => {
+                const qtags = q.tags ? q.tags.split(',').map(t => t.trim().toLowerCase()).filter(Boolean) : [];
+                return qtags.length === 0 || !qtags.some(tg => allMappedTags.has(tg));
+            });
+        } else if (topicTags && topicTags.length > 0) {
+            const cleanTopicTags = topicTags.map(t => t.toLowerCase());
+            matchedQs = dbQuestions.filter(q => {
+                const qtags = q.tags ? q.tags.split(',').map(t => t.trim().toLowerCase()).filter(Boolean) : [];
+                return qtags.some(tg => cleanTopicTags.includes(tg));
+            });
+        }
+    } else {
+        // Fallback fuzzy matching for unaligned subjects
+        const cleanTitle = topicTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '');
+        const keywords = cleanTitle.split(/\s+/).filter(w => w.length > 3);
         
-        if (sectionTag && qtags.includes(sectionTag.toLowerCase())) {
-            if (keywords.length > 0) {
-                const hasKeyword = keywords.some(w => qtext.includes(w));
-                if (hasKeyword) return true;
-            } else {
-                return true;
-            }
+        let sectionTag = '';
+        const secChar = topicCode.charAt(0);
+        
+        if (subjectId === 'polity') {
+            const tagMap = {
+                'A': 'polityBackground', 'B': 'polityMaking', 'C': 'polityPreamble',
+                'D': 'polityFR', 'E': 'polityDPSP', 'F': 'polityUnionExec',
+                'G': 'polityParliament', 'H': 'polityJudiciary', 'I': 'polityStateGov',
+                'J': 'polityRelations', 'K': 'polityEmergency', 'L': 'polityBodies',
+                'M': 'polityLocalGov', 'N': 'polityAmendments', 'O': 'polityJudgements'
+            };
+            sectionTag = tagMap[secChar] || '';
+        } else if (subjectId === 'history-ancient') {
+            const tagMap = {
+                '0': 'ancientIVC', '1': 'ancientIVC', '2': 'ancientIVC',
+                '3': 'ancientVedic', '4': 'ancientMahajanapadas', '5': 'ancientMauryan',
+                '6': 'ancientPostMauryan', '7': 'ancientGupta', '8': 'ancientPostGupta',
+                '9': 'ancientSangam', '10': 'ancientBuddhismJainism'
+            };
+            sectionTag = tagMap[secChar] || '';
+        } else if (subjectId === 'geography') {
+            const tagMap = {
+                'A': 'geoPhysical', 'B': 'geoPhysical', 'C': 'geoPhysical', 'D': 'geoPhysical',
+                'E': 'geoIndiaPhysiography', 'F': 'geoIndiaPhysiography', 'G': 'geoIndiaPhysiography',
+                'H': 'geoIndiaPhysiography', 'I': 'geoIndiaEconomic', 'J': 'geoIndiaEconomic',
+                'K': 'geoIndiaEconomic', 'L': 'geoBihar', 'M': 'geoWorld', 'N': 'geoEnvironment'
+            };
+            sectionTag = tagMap[secChar] || '';
         }
-        if (keywords.length > 0) {
-            const matchCount = keywords.filter(w => qtext.includes(w)).length;
-            if (matchCount >= Math.min(2, keywords.length)) return true;
-        }
-        return false;
-    });
-    
-    if (matchedQs.length === 0 && sectionTag) {
+        
         matchedQs = dbQuestions.filter(q => {
+            const qtext = (q.q || '').toLowerCase();
             const qtags = q.tags ? q.tags.split(',').map(t => t.trim().toLowerCase()) : [];
-            return qtags.includes(sectionTag.toLowerCase());
+            
+            if (sectionTag && qtags.includes(sectionTag.toLowerCase())) {
+                if (keywords.length > 0) {
+                    const hasKeyword = keywords.some(w => qtext.includes(w));
+                    if (hasKeyword) return true;
+                } else {
+                    return true;
+                }
+            }
+            if (keywords.length > 0) {
+                const matchCount = keywords.filter(w => qtext.includes(w)).length;
+                if (matchCount >= Math.min(2, keywords.length)) return true;
+            }
+            return false;
         });
+        
+        if (matchedQs.length === 0 && sectionTag) {
+            matchedQs = dbQuestions.filter(q => {
+                const qtags = q.tags ? q.tags.split(',').map(t => t.trim().toLowerCase()) : [];
+                return qtags.includes(sectionTag.toLowerCase());
+            });
+        }
     }
     
     if (matchedQs.length === 0) {

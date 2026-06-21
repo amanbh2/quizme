@@ -55,13 +55,36 @@ def load_tag_rules():
         return {}
     return json.load(open(TAG_RULES_PATH, encoding='utf-8'))
 
+def is_boundary_match(combined, kw):
+    kw_len = len(kw)
+    if kw_len == 0:
+        return False
+    idx = 0
+    while True:
+        idx = combined.find(kw, idx)
+        if idx == -1:
+            return False
+        # Check character before
+        if idx > 0:
+            char_before = combined[idx - 1]
+            if char_before.isalnum() or char_before == '_':
+                idx += 1
+                continue
+        # Check character after
+        if idx + kw_len < len(combined):
+            char_after = combined[idx + kw_len]
+            if char_after.isalnum() or char_after == '_':
+                idx += 1
+                continue
+        return True
+
 def auto_tag_question(text, info, tag_rules):
     """Return comma-separated tags for a question based on rules."""
     combined = (str(text) + ' ' + str(info)).lower()
     matched  = []
     for tag, keywords in tag_rules.items():
         for kw in keywords:
-            if kw.lower() in combined:
+            if is_boundary_match(combined, kw.lower()):
                 matched.append(tag)
                 break
     return ','.join(matched)
@@ -104,6 +127,57 @@ def create_manifest():
     json.dump({"files": files}, open(MANIFEST_PATH, 'w', encoding='utf-8'), indent=2)
     print(f"  ✓  Manifest updated — {len(files)} file(s)")
 
+# ── Sheet Selection Helpers ────────────────────────────────────
+def parse_range_selection(input_str, max_val):
+    """
+    Parses inputs like 'all', '1', '1,2', '3-5', '1-3,5,7-9'
+    Returns a set of 1-based indices.
+    """
+    input_str = input_str.strip().lower()
+    if not input_str or input_str == 'all':
+        return set(range(1, max_val + 1))
+    
+    selected = set()
+    parts = input_str.split(',')
+    for part in parts:
+        part = part.strip()
+        if '-' in part:
+            subparts = part.split('-')
+            if len(subparts) == 2:
+                try:
+                    start = int(subparts[0].strip())
+                    end = int(subparts[1].strip())
+                    if 1 <= start <= max_val and 1 <= end <= max_val:
+                        selected.update(range(min(start, end), max(start, end) + 1))
+                except ValueError:
+                    pass
+        else:
+            try:
+                val = int(part)
+                if 1 <= val <= max_val:
+                    selected.add(val)
+            except ValueError:
+                pass
+    return selected
+
+def select_sheets(worksheets, prompt_message="Select worksheets"):
+    while True:
+        print(f"\n{prompt_message}:")
+        for i, ws in enumerate(worksheets, 1):
+            print(f"  {i:<2} → {ws.title}")
+        print()
+        print("  Options: 'all', indices (e.g. '1,3'), ranges (e.g. '2-5'), or combined (e.g. '1-3,5')")
+        choice = input("  Enter selection: ").strip()
+        if not choice:
+            choice = "all"
+        selected_indices = parse_range_selection(choice, len(worksheets))
+        if selected_indices:
+            selected_sheets = [worksheets[i-1] for i in sorted(selected_indices)]
+            print(f"  Selected: {', '.join([s.title for s in selected_sheets])}")
+            return selected_sheets
+        else:
+            print("  ⚠ Invalid selection. Please try again.")
+
 # ═══════════════════════════════════════════════════════════════
 #  MODE: CONVERT
 # ═══════════════════════════════════════════════════════════════
@@ -126,6 +200,10 @@ def mode_convert():
                 all_existing_qids.add(str(val).strip())
 
     counter = load_counter(all_existing_qids)
+
+    active_sheets = select_sheets(wb.worksheets, "Select worksheets to CONVERT & INCLUDE")
+    active_sheet_names = {ws.title.strip() for ws in active_sheets}
+
     sheet_data = {}   # sheet_name → list of question dicts
     assigned   = 0
     duplicates = 0
@@ -133,6 +211,19 @@ def mode_convert():
 
     for ws in wb.worksheets:
         sheet_name = ws.title.strip()
+        fname = sheet_name.replace(' ', '') + '.json'
+        fpath = os.path.join(DATA_DIR, fname)
+
+        if sheet_name not in active_sheet_names:
+            # If not active, delete the JSON file if it exists so it is excluded from manifest
+            if os.path.exists(fpath):
+                try:
+                    os.remove(fpath)
+                    print(f"  🗑  Removed excluded sheet JSON: {fname}")
+                except Exception as e:
+                    print(f"  ⚠  Could not remove {fname}: {e}")
+            continue
+
         col_map    = ensure_columns(ws)
         questions  = []
 
@@ -216,10 +307,13 @@ def mode_convert():
         print(f"  ✓  all.json — {len(all_questions)} questions total")
 
     # Save workbook (QIDs written back)
-    wb.save(EXCEL_PATH)
-    print(f"\n  ✓  {assigned} new QID(s) assigned")
-    if duplicates:
-        print(f"  ⚠  {duplicates} duplicate QID(s) detected and reassigned")
+    if assigned > 0 or duplicates > 0:
+        wb.save(EXCEL_PATH)
+        print(f"\n  ✓  {assigned} new QID(s) assigned")
+        if duplicates:
+            print(f"  ⚠  {duplicates} duplicate QID(s) detected and reassigned")
+    else:
+        print("\n  ✓  No QID changes, workbook save skipped")
 
     create_manifest()
     print("\n  ✓  Convert complete\n")
@@ -237,10 +331,17 @@ def mode_autotag():
         print("  ✗  No tag rules loaded. Check tag_rules.json"); return
 
     wb      = openpyxl.load_workbook(EXCEL_PATH)
+    active_sheets = select_sheets(wb.worksheets, "Select worksheets to AUTOTAG")
+    active_sheet_names = {ws.title.strip() for ws in active_sheets}
+
     tagged  = 0
     skipped = 0
 
     for ws in wb.worksheets:
+        sheet_name = ws.title.strip()
+        if sheet_name not in active_sheet_names:
+            continue
+
         col_map = ensure_columns(ws)
         if 'Tags' not in col_map or 'Question' not in col_map:
             continue
@@ -264,8 +365,11 @@ def mode_autotag():
                 ws.cell(row, col_map['Tags']).value = new_tags
                 tagged += 1
 
-    wb.save(EXCEL_PATH)
-    print(f"  ✓  {tagged} question(s) tagged")
+    if tagged > 0:
+        wb.save(EXCEL_PATH)
+        print(f"  ✓  {tagged} question(s) tagged")
+    else:
+        print("  ✓  No new questions tagged")
     print(f"  ℹ  {skipped} question(s) skipped (already have tags)")
     print("\n  ✓  Autotag complete — review tags in Excel before running convert\n")
 
@@ -343,7 +447,7 @@ def mode_qid_report():
 def mode_renumber():
     print("\n── RENUMBER ────────────────────────────────────────────")
     print("""
-  ⚠  FULL RENUMBER — this will change ALL QIDs in your Excel file.
+  ⚠  FULL RENUMBER — this will change ALL QIDs in selected worksheets.
   ─────────────────────────────────────────────────────────────────
   All existing QIDs will be reassigned sequentially from Q00001.
 
@@ -359,9 +463,15 @@ def mode_renumber():
         print(f"  ✗  Excel not found: {EXCEL_PATH}"); return
 
     wb      = openpyxl.load_workbook(EXCEL_PATH)
+    active_sheets = select_sheets(wb.worksheets, "Select worksheets to RENUMBER")
+    active_sheet_names = {ws.title.strip() for ws in active_sheets}
+
     counter = 0
 
     for ws in wb.worksheets:
+        sheet_name = ws.title.strip()
+        if sheet_name not in active_sheet_names:
+            continue
         col_map = ensure_columns(ws)
         if 'QID' not in col_map: continue
 

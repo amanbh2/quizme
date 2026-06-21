@@ -64,20 +64,20 @@ quizme/
 
 Your CSV files currently map to the following JSON counts (from [database.txt](file:///c:/Users/amanb/Dev/quizme/data/database.txt)):
 
-| Subject Area / JSON | MCQ Count | Tag Rule in `control/tag_rules.json` | Study Notes Status |
-| :--- | :---: | :--- | :---: |
-| **Modern History** ([HistoryModern.json](file:///c:/Users/amanb/Dev/quizme/data/HistoryModern.json)) | **530** | `modernHistory` | `[ ]` Not Started |
-| **Bihar Specific** ([BiharSpecific.json](file:///c:/Users/amanb/Dev/quizme/data/BiharSpecific.json)) | **287** | `biharHistory`, `biharCulture` | `[ ]` Not Started |
-| **Polity** ([Polity.json](file:///c:/Users/amanb/Dev/quizme/data/Polity.json)) | **217** | `constitution`, `parliament`, etc. | `[ ]` Not Started |
-| **Ancient History** ([HistoryAncient.json](file:///c:/Users/amanb/Dev/quizme/data/HistoryAncient.json)) | **158** | `ancientHistory` | `[ ]` Not Started |
-| **Medieval History** ([HistoryMedieval.json](file:///c:/Users/amanb/Dev/quizme/data/HistoryMedieval.json)) | **117** | `medievalHistory` | `[ ]` Not Started |
-| **Geography** ([Geography.json](file:///c:/Users/amanb/Dev/quizme/data/Geography.json)) | **91** | `rivers`, `mountains`, `climate` | `[x]` Complete |
-| **Union Economy** ([UnionEconomy.json](file:///c:/Users/amanb/Dev/quizme/data/UnionEconomy.json)) | **51** | `economy`, `banking` | `[ ]` Not Started |
-| **Bihar Economy** ([BiharEconomy.json](file:///c:/Users/amanb/Dev/quizme/data/BiharEconomy.json)) | **43** | `biharStats` (or explicit economy tags) | `[x]` Complete |
-| **Census** ([Census.json](file:///c:/Users/amanb/Dev/quizme/data/Census.json)) | **38** | `census2011` | `[x]` Complete |
-| **General Knowledge** ([GeneralKnowledge.json](file:///c:/Users/amanb/Dev/quizme/data/GeneralKnowledge.json)) | **35** | General keywords | `[ ]` Not Started |
-| **History Timeline** ([timeline/timeline.json](file:///c:/Users/amanb/Dev/quizme/data/timeline/timeline.json)) | **635 (events)** | — | `[x]` Complete (Timeline Engine) |
-| **Total Database** | **1570** | — | — |
+| Subject Area / JSON | MCQ Count | Tag Rule in `control/tag_rules.json` | Study Notes Status | Syllabus Tag Alignment |
+| :--- | :---: | :--- | :---: | :---: |
+| **Modern History** ([HistoryModern.json](file:///c:/Users/amanb/Dev/quizme/data/HistoryModern.json)) | **530** | `modernHistory` | `[ ]` Not Started | `[ ]` Pending |
+| **Bihar Specific** ([BiharSpecific.json](file:///c:/Users/amanb/Dev/quizme/data/BiharSpecific.json)) | **539** | `biharHistory`, `biharCulture` | `[ ]` Not Started | `[ ]` Pending |
+| **Polity** ([Polity.json](file:///c:/Users/amanb/Dev/quizme/data/Polity.json)) | **243** | `constitution`, `parliament`, etc. | `[ ]` Not Started | `[ ]` Pending |
+| **Ancient History** ([HistoryAncient.json](file:///c:/Users/amanb/Dev/quizme/data/HistoryAncient.json)) | **158** | `ancientHistory` | `[ ]` Not Started | `[ ]` Pending |
+| **Medieval History** ([HistoryMedieval.json](file:///c:/Users/amanb/Dev/quizme/data/HistoryMedieval.json)) | **117** | `medievalHistory` | `[ ]` Not Started | `[ ]` Pending |
+| **Geography** ([Geography.json](file:///c:/Users/amanb/Dev/quizme/data/Geography.json)) | **91** | `rivers`, `mountains`, `climate` | `[x]` Complete | `[ ]` Pending |
+| **Union Economy** ([UnionEconomy.json](file:///c:/Users/amanb/Dev/quizme/data/UnionEconomy.json)) | **96** | `economy`, `banking` | `[ ]` Not Started | `[ ]` Pending |
+| **Bihar Economy** ([BiharEconomy.json](file:///c:/Users/amanb/Dev/quizme/data/BiharEconomy.json)) | **45** | `biharStats` (or explicit economy tags) | `[x]` Complete | `[ ]` Pending |
+| **Census** ([Census.json](file:///c:/Users/amanb/Dev/quizme/data/Census.json)) | **57** | Specific topic tags | `[x]` Complete | `[x]` Aligned (Tag-Based) |
+| **General Knowledge** ([GeneralKnowledge.json](file:///c:/Users/amanb/Dev/quizme/data/GeneralKnowledge.json)) | **35** | General keywords | `[ ]` Not Started | `[ ]` Pending |
+| **History Timeline** ([timeline/timeline.json](file:///c:/Users/amanb/Dev/quizme/data/timeline/timeline.json)) | **635 (events)** | — | `[x]` Complete (Timeline Engine) | — |
+| **Total Database** | **2127** | — | — | — |
 
 ---
 
@@ -134,11 +134,21 @@ These are the primary books owned/preferred by the user. When generating referen
   - If no standard book/NCERT reference exists for a topic (e.g., Bihar-specific facts, current affairs, or niche topics), use `Internet / AI` as the reference.
   - Provide **chapter-level references** wherever possible (e.g., `RS Sharma Ch.5`, `Laxmikanth Ch.5`, `Spectrum Ch.12`). Chapter numbers may vary across editions — the user will verify against book contents manually.
   - The goal is to give the user a **direct pointer** to what to read for each topic.
+* **Tightly Linked Core Assets Alignment:** Study notes, MCQ questions, topics (syllabus checklists), and keyword tag rules are tightly linked. If any of these assets are updated, modified, or consolidated (e.g., combining syllabus topics), all related parts—including the tag mappings in `tag_rules.json`, column values in `topics.md`, and labels/logic in frontend code like `script.js`—must be proactively updated and aligned immediately to preserve system consistency.
 * **Proactive Tag Rule Alignment:** When new topics, subjects, or checklist sections are added, edited, or restructured in the knowledge base, Gemini will proactively check and update the corresponding auto-tagging keys and keyword rules in `control/tag_rules.json` to keep them perfectly aligned.
 * **History Timeline Management Protocol:** When updating the historical events spreadsheet and compiling it:
   - Run `python control/generateTimelineJSON.py` to compile the sheets.
   - Do NOT list `timeline.json` in `control/manifest.json`. It must remain isolated inside the `data/timeline/` folder so it does not interfere with the question databases.
   - The Service Worker pre-caches this file as a static shell asset via `STATIC_ASSETS` in `sw.js`. Bump the cache version (`CACHE_VERSION`) when changes occur.
 * **Storage Limit & Harm Prevention Protocol:** If any new feature or change will utilize substantial browser storage (e.g., extensive `localStorage` caching) or has any potential to cause data corruption, performance degradation, or security risks, Gemini must explicitly flag this risk to the user beforehand. If the resource usage is confirmed to be minimal and completely safe (well under standard limits), Gemini will explicitly provide a "green flag" in its proposal.
+* **Local Verification Preference:** Prefer not to verify changes by running a local server or using browser subagents (as it takes too much time). The agent should apply modifications and update the walkthrough, and the user will verify the changes manually and report back.
+* **Syllabus & Question Sync Drill:** When finalising questions for a subject:
+  1. The user will share the draft questions that cover the subject.
+  2. Gemini will analyze these questions and update/add missing syllabus topics in the corresponding `topics.md` checklist file as necessary.
+  3. The user will review, modify, or merge the checklist topics to finalise them.
+  4. Once topics are finalised, Gemini will align keyword mappings in `tag_rules.json`, auto-tag the Excel/CSV database, and convert it to JSON.
+
+
+
 
 

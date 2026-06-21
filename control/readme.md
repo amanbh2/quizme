@@ -74,9 +74,9 @@ This script automates filling in missing answers, options, and explanations in y
 
 ---
 
-## Command Modes
+## Command Modes & Selection
 
-Both scripts present an interactive menu with the same commands:
+Both scripts present an interactive menu with the same command modes:
 
 ```
 convert     →  Assign QIDs + export JSONs + update manifest
@@ -86,11 +86,30 @@ qid-report  →  Show QID health (max, active, gaps)  [read-only]
 renumber    →  Full renumber all QIDs from Q00001 (requires resetting stats in app)
 ```
 
-### Typical Workflow
-1. Add/edit questions in your Excel sheets or CSV files inside `control/symlinks/`.
-2. Run the corresponding script (`python generateQsJSON.py` or `python generateQsCSV.py`) and enter `convert`.
-3. Optionally run `autotag` to auto-tag questions, then run `convert` again to build them into the final JSON files.
-4. Git commit the updated code and files, then push!
+### Selective Sheet & File Processing
+When running `convert`, `autotag`, or `renumber`, the script will list all available worksheets (Excel) or CSV files (CSV) and prompt for selection.
+
+#### Selection Syntax:
+* **All sheets/files:** Press Enter or type `all`.
+* **Single sheet/file:** Type a single index number (e.g. `3`).
+* **Specific list:** Type comma-separated numbers (e.g. `1,3,5`).
+* **Continuous range:** Type start and end indices separated by a hyphen (e.g. `2-5`).
+* **Combined selection:** Mix list items and ranges (e.g. `1-3,5,7-9`).
+
+#### Excluding Sheets/Files (e.g. `AncientHistoryPYQ`):
+* If a sheet/file is **not selected** in `convert` mode, any previously compiled JSON file for it is deleted from the `data/` directory.
+* The script then regenerates `all.json` and the `manifest.json` referencing ONLY the active, selected sheets.
+* This allows you to temporarily or permanently exclude unready sheets (like `AncientHistoryPYQ` by selecting ranges like `1-2,4-14` in the Excel workflow menu) without deleting the original data from your spreadsheet.
+
+---
+
+## Typical Workflow
+1. Add or edit questions in your master spreadsheet (e.g., in your Documents folder `C:\Users\amanb\OneDrive\Documents\ObjectiveQuestions.xlsx`, which is hard-linked to `control/symlinks/ObjectiveQuestions.xlsx`).
+2. Run `python generateQsJSON.py`.
+3. Choose `convert` and enter the sheets you want to compile (excluding any unready sheets by omitting their index).
+4. If you have added new questions, you can optionally run `autotag` (supplying the selected sheet indices) to auto-tag them using `control/tag_rules.json`, then run `convert` again to generate updated database JSONs.
+5. In QuizMe, if QIDs were renumbered, reset statistics under Settings.
+6. Git commit the updated files and push!
 
 ---
 
