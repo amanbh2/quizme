@@ -543,7 +543,17 @@ a:hover { color: var(--accent); }
 ════════════════════════════════════════════════════════════ */
 
 /* Subject dropdown */
-.quiz-controls { margin-bottom: 0; }
+.quiz-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: flex-start;
+    margin-bottom: 0;
+}
+#subject {
+    flex: 1 1 320px;
+    min-width: 180px;
+}
 #subject select,
 select#subject-select {
     appearance: none; -webkit-appearance: none;
@@ -1523,20 +1533,27 @@ select#subject-select {
 
 /* ── SUB-TOPIC FILTER UI ── */
 #subtopic-wrap {
-    margin-left: 10px;
+    margin-left: 0;
+    display: inline-flex;
+    align-items: stretch;
+    min-width: 200px;
 }
 #subtopic-select {
-    padding: 6px 14px 6px 8px;
+    appearance: none; -webkit-appearance: none;
+    width: 100%;
+    padding: 9px 36px 9px 13px;
     font-family: 'DM Mono', monospace;
-    font-size: 11px;
-    font-weight: 500;
-    color: var(--text-muted);
-    background-color: var(--card);
+    font-size: 12px;
+    letter-spacing: 0.5px;
+    color: var(--text-body);
+    background: var(--surface)
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='7' viewBox='0 0 10 7'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%236b7186' stroke-width='1.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")
+        no-repeat right 13px center;
     border: 1px solid var(--border);
-    border-radius: 6px;
+    border-radius: 9px;
     cursor: pointer;
     outline: none;
-    max-width: 200px;
+    max-width: 260px;
 }
 #subtopic-select:focus {
     border-color: var(--accent);
@@ -3010,4 +3027,4 @@ select#subject-select {
     background: var(--wrong-bg);
 }
 
-
+

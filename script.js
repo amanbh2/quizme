@@ -660,11 +660,16 @@ function updateSubtopicDropdown() {
     
     const qs = subjectQuestions[currentSubject] || [];
     const uniqueTags = new Set();
+    const subjectTagFilter = {
+        Census: tag => tag.startsWith('census'),
+    };
+    const keepTag = subjectTagFilter[currentSubject] || (() => true);
+
     qs.forEach(q => {
         if (q.tags) {
             q.tags.split(',').forEach(t => {
                 const cleanTag = t.trim();
-                if (cleanTag && TAG_LABELS[cleanTag]) {
+                if (cleanTag && TAG_LABELS[cleanTag] && keepTag(cleanTag)) {
                     uniqueTags.add(cleanTag);
                 }
             });
@@ -3225,4 +3230,4 @@ function renderSettingsFlaggedList() {
             updateFlagOnCard(qid);
         });
     });
-}
+}
