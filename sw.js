@@ -1,5 +1,5 @@
 // ── QuizMe Service Worker ─────────────────────────────────────
-const CACHE_VERSION = 'quizme-v5.9';
+const CACHE_VERSION = 'quizme-v6.4';
 const scopePath    = new URL(self.registration.scope).pathname;
 const BASE         = scopePath.endsWith('/') ? scopePath.slice(0, -1) : scopePath;
 
@@ -11,10 +11,16 @@ const STATIC_ASSETS = [
   `${BASE}/README.md`,
   `${BASE}/manifest.json`,
   `${BASE}/res/favicon.ico`,
-  `${BASE}/res/icon-192.png`,
-  `${BASE}/res/icon-512.png`,
+  `${BASE}/res/web-app-manifest-192x192.png`,
+  `${BASE}/res/web-app-manifest-512x512.png`,
   `${BASE}/control/manifest.json`,
   `${BASE}/data/timeline/timeline.json`,
+  `${BASE}/knowledge-base/history/ancient-history/topics.md`,
+  `${BASE}/knowledge-base/history/medieval-history/topics.md`,
+  `${BASE}/knowledge-base/history/modern-history/topics.md`,
+  `${BASE}/knowledge-base/polity/topics.md`,
+  `${BASE}/knowledge-base/geography/topics.md`,
+  `${BASE}/knowledge-base/reports-surveys/census/topics.md`,
   'https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=DM+Sans:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap',
 ];
 

@@ -94,11 +94,18 @@ Your CSV files currently map to the following JSON counts (from [database.txt](f
 - [x] Align and integrate ancient/prehistoric PYQs into the ancient [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/history/ancient-history/topics.md) checklist in chronological order.
 - [x] Create directory structures and template READMEs for `bihar-specific`, `geography`, `polity`, `economy`, `science-tech`, and `current-affairs` notes.
 - [x] Align tags in `control/tag_rules.json` with the structure of your notes.
-- [ ] Split checklist index files from detailed study notes (use `notes/` subfolders for modularity).
+- [x] Split checklist index files from detailed study notes (use `notes/` subfolders for modularity).
 - [x] Create the `reports-surveys/` directory structure, fact-check the Census notes, and establish modular notes for India and Bihar Census 2011.
 - [x] Create comprehensive Geography [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/geography/topics.md) checklist (14 sections, ~249 topics, with NCERT chapter-level references).
 - [x] Create the History Timeline tab featuring BCE/CE toggle, milestone quick jump bar, compressed layout, and offline support.
 - [x] Isolate timeline database inside `data/timeline/` and update Python generator script.
+- [x] Add the interactive Study & Prep Hub tab to the web application shell (featuring dynamic markdown checklists, status/importance filtering, notes drawer, and MCQ practice quiz links).
+- [x] Merge the legacy Dashboard and Study & Prep Hub into a unified Study & Prep Hub home screen. Reorder tabs to: Prep, Timeline, Quiz, Stats, Settings, Info and update the Quiz icon to fa-graduation-cap.
+- [x] Exchange Prep and Quiz icons (Prep = fa-graduation-cap, Quiz = fa-list-check), update Stats icon to fa-chart-line, and add sliding slider transitions to Timeline era selection.
+- [x] Verify Stats page dynamic alignment with all active databases (using dynamic availableSheets mapping).
+- [x] Add a Danger Zone panel in the Settings tab to wipe local storage, unregister Service Workers, delete CacheStorage caches, and reload the application from the network.
+
+
 
 ---
 
@@ -143,5 +150,6 @@ These are the primary books owned/preferred by the user. When generating referen
   - Run `python control/generateTimelineJSON.py` to compile the sheets.
   - Do NOT list `timeline.json` in `control/manifest.json`. It must remain isolated inside the `data/timeline/` folder so it does not interfere with the question databases.
   - The Service Worker pre-caches this file as a static shell asset via `STATIC_ASSETS` in `sw.js`. Bump the cache version (`CACHE_VERSION`) when changes occur.
+* **Storage Limit & Harm Prevention Protocol:** If any new feature or change will utilize substantial browser storage (e.g., extensive `localStorage` caching) or has any potential to cause data corruption, performance degradation, or security risks, Gemini must explicitly flag this risk to the user beforehand. If the resource usage is confirmed to be minimal and completely safe (well under standard limits), Gemini will explicitly provide a "green flag" in its proposal.
 
 

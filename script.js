@@ -39,7 +39,7 @@ let dataUrl              = 'data/all.json';
 let currentSubject       = 'all';
 let availableSheets      = [];
 let quizMode             = localStorage.getItem('qm-mode') || 'normal';
-let activeTab            = localStorage.getItem('qm-tab')  || 'dashboard';
+let activeTab            = localStorage.getItem('qm-tab')  || 'prep';
 let filteredIndexes      = [];
 let sessionAnswered      = 0;
 let sessionCorrect       = 0;
@@ -386,6 +386,7 @@ function doReset() {
         const e = document.getElementById(id); if (e) e.style.display = 'none';
     });
     renderStatsTab(true);
+    renderPrepTab();
 }
 
 // ═══════════════════════════════════════════════════════════════
@@ -550,9 +551,9 @@ function switchTab(tab) {
             b.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'nearest' });
         }
     });
-    if (tab === 'dashboard') renderDashboard();
     if (tab === 'stats') renderStatsTab();
     if (tab === 'info')  renderInfoTab();
+    if (tab === 'prep')  renderPrepTab();
     if (tab === 'timeline') {
         if (!timelineData) initTimeline();
         else renderTimeline();
@@ -689,8 +690,8 @@ async function loadAllSubjectData() {
         subjectQuestions['all'] = allQuestions;
         subjectQuestionCounts['all'] = allQuestions.length;
 
-        // Render dashboard
-        renderDashboard();
+        // Render Prep Hub dashboard
+        renderPrepTab();
         
         // Initialise subtopic dropdown for the current subject
         updateSubtopicDropdown();
@@ -705,53 +706,7 @@ async function loadAllSubjectData() {
     }
 }
 
-function renderDashboard() {
-    const totalQ = allQuestions.length;
-    const overallAcc = getOverall().accuracy;
-    const srsDue = getSRSDueCount();
-    
-    const totalQEl = document.getElementById('db-total-questions');
-    const accEl = document.getElementById('db-total-accuracy');
-    const srsEl = document.getElementById('db-srs-count');
-    
-    if (totalQEl) totalQEl.textContent = totalQ.toLocaleString();
-    if (accEl) accEl.textContent = overallAcc + '%';
-    if (srsEl) srsEl.textContent = srsDue;
-    
-    const grid = document.getElementById('db-subject-grid');
-    if (!grid) return;
-    grid.innerHTML = '';
-    
-    const subjects = availableSheets.filter(s => s !== 'all.json');
-    subjects.forEach(sheet => {
-        const subName = sheet.replace('.json', '');
-        const title = formatSubject(subName);
-        const count = subjectQuestionCounts[subName] || 0;
-        const stats = getSubjectStats(sheet);
-        const accuracy = stats.accuracy !== null ? stats.accuracy + '%' : 'New';
-        const mastery = getMasteryPercent(sheet);
-        
-        const card = document.createElement('div');
-        card.className = 'db-subject-card';
-        card.innerHTML = `
-            <h3 class="db-subject-title">${title}</h3>
-            <div class="db-subject-stats">
-                <span class="db-subject-meta">${count} Qs</span>
-                <span class="db-subject-cov ${classifyAcc(stats.accuracy)}">${accuracy} Accuracy</span>
-            </div>
-            <div class="db-subject-progress-track">
-                <div class="db-subject-progress-fill" style="width: ${mastery}%"></div>
-            </div>
-            <div style="font-size: 11px; color: var(--text-muted); margin-top: 6px; text-align: right;">
-                ${mastery}% Mastery
-            </div>
-        `;
-        card.addEventListener('click', () => {
-            startSubjectQuiz(sheet);
-        });
-        grid.appendChild(card);
-    });
-}
+
 
 function startSubjectQuiz(sheet) {
     dataUrl = 'data/' + sheet;
@@ -1545,6 +1500,11 @@ function renderTimeline(era) {
         btn.classList.toggle('active', btn.dataset.era === tlCurrentEra);
     });
 
+    const toggleContainer = document.querySelector('.timeline-toggle');
+    if (toggleContainer) {
+        toggleContainer.setAttribute('data-active-era', tlCurrentEra);
+    }
+
     setSpineColors(tlCurrentEra);
     renderJumpBar();
 
@@ -1731,6 +1691,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // ── Navigation & Sidebar ───────────────────────────────────
     document.querySelectorAll('.nav-item, .bottom-nav-item').forEach(btn =>
         btn.addEventListener('click', () => switchTab(btn.dataset.tab)));
+    if (activeTab === 'dashboard') activeTab = 'prep';
     switchTab(activeTab);
 
     const sidebar = document.getElementById('sidebar');
@@ -1858,6 +1819,40 @@ document.addEventListener('DOMContentLoaded', () => {
     // ── Stats reset ───────────────────────────────────────────
     document.getElementById('sp-reset-btn')?.addEventListener('click', doReset);
 
+    // ── Wipe App & Clear Cache ────────────────────────────────
+    document.getElementById('settings-wipe-btn')?.addEventListener('click', async () => {
+        if (!confirm('Are you absolutely sure you want to WIPE the application?\n\nThis will delete all study statistics, syllabus checklists progress, custom theme preferences, Gist sync tokens, and offline cached data. This cannot be undone!')) return;
+        if (!confirm('Double check: Wiping will clear everything and force-download from the server. Proceed?')) return;
+        
+        try {
+            // 1. Clear LocalStorage
+            localStorage.clear();
+            
+            // 2. Unregister Service Workers
+            if ('serviceWorker' in navigator) {
+                const regs = await navigator.serviceWorker.getRegistrations();
+                for (let r of regs) {
+                    await r.unregister();
+                }
+            }
+            
+            // 3. Delete Caches
+            if ('caches' in window) {
+                const keys = await caches.keys();
+                for (let k of keys) {
+                    await caches.delete(k);
+                }
+            }
+            
+            // 4. Force Reload
+            window.location.reload();
+        } catch (e) {
+            console.error('App wipe failed:', e);
+            alert('Wipe completed with some cache errors. Reloading...');
+            window.location.reload();
+        }
+    });
+
     // ── Timeline toggle & Load More ──────────────────────────
     document.querySelectorAll('.tl-toggle-btn').forEach(btn => {
         btn.addEventListener('click', () => {
@@ -1914,6 +1909,9 @@ document.addEventListener('DOMContentLoaded', () => {
             loadAllSubjectData();
         })
         .catch(e => console.error('Manifest load failed:', e));
+
+    // Initialize Prep Hub event listeners
+    initPrepListeners();
 
     // ── Online: flush queue ───────────────────────────────────
     window.addEventListener('online', flushSync);
@@ -2377,3 +2375,1048 @@ if ('serviceWorker' in navigator) {
         });
     });
 }
+
+// ═══════════════════════════════════════════════════════════════
+//  STUDY & PREP HUB LOGIC
+// ═══════════════════════════════════════════════════════════════
+
+const PREP_SUBJECTS = [
+    { id: 'history-ancient', title: 'Ancient History', icon: '🏺', path: 'knowledge-base/history/ancient-history/topics.md', sheet: 'HistoryAncient.json' },
+    { id: 'history-medieval', title: 'Medieval History', icon: '🏰', path: 'knowledge-base/history/medieval-history/topics.md', sheet: 'HistoryMedieval.json' },
+    { id: 'history-modern', title: 'Modern History', icon: '📜', path: 'knowledge-base/history/modern-history/topics.md', sheet: 'HistoryModern.json' },
+    { id: 'polity', title: 'Indian Polity', icon: '⚖️', path: 'knowledge-base/polity/topics.md', sheet: 'Polity.json' },
+    { id: 'geography', title: 'Geography', icon: '🗺️', path: 'knowledge-base/geography/topics.md', sheet: 'Geography.json' },
+    { id: 'reports-census', title: 'Census & Reports', icon: '📊', path: 'knowledge-base/reports-surveys/census/topics.md', sheet: 'Census.json' },
+    { id: 'bihar-specific', title: 'Bihar Specific', icon: '🦁', path: '', sheet: 'BiharSpecific.json' },
+    { id: 'bihar-economy', title: 'Bihar Economy', icon: '🌾', path: '', sheet: 'BiharEconomy.json' },
+    { id: 'union-economy', title: 'Union Economy', icon: '📈', path: '', sheet: 'UnionEconomy.json' },
+    { id: 'science', title: 'Science & Tech', icon: '🧪', path: '', sheet: 'Science.json' },
+    { id: 'recent-2025', title: 'Current Affairs 2025', icon: '📅', path: '', sheet: 'Recent2025.json' },
+    { id: 'recent-2026', title: 'Current Affairs 2026', icon: '⚡', path: '', sheet: 'Recent2026.json' },
+    { id: 'general-knowledge', title: 'General Knowledge', icon: '🧠', path: '', sheet: 'GeneralKnowledge.json' },
+    { id: 'bihar-geography', title: 'Bihar Geography', icon: '🏞️', path: '', sheet: 'BiharGeography.json' },
+    { id: 'bihar-polity', title: 'Bihar Polity', icon: '🏛️', path: '', sheet: 'BiharPolity.json' }
+];
+
+let prepData = {}; // subjectId -> parsed topics data
+let activePrepSubject = null;
+let activePrepSection = 'all'; // active section filter (e.g., 'all' or section ID)
+let prepProgress = {}; // topicId -> boolean (checked/unchecked)
+
+function loadPrepProgress() {
+    try {
+        const raw = localStorage.getItem('qm-prep-progress');
+        prepProgress = raw ? JSON.parse(raw) : {};
+    } catch (e) {
+        prepProgress = {};
+    }
+}
+
+function savePrepProgress() {
+    localStorage.setItem('qm-prep-progress', JSON.stringify(prepProgress));
+}
+
+async function loadPrepSubject(subjectId) {
+    const subject = PREP_SUBJECTS.find(s => s.id === subjectId);
+    if (!subject) return null;
+    if (prepData[subjectId]) return prepData[subjectId];
+    
+    try {
+        const res = await fetch(subject.path);
+        if (!res.ok) throw new Error('Failed to load topic checklist');
+        const text = await res.text();
+        const parsed = parseMarkdownChecklist(text);
+        prepData[subjectId] = parsed;
+        return parsed;
+    } catch (e) {
+        console.error('Error fetching/parsing prep subject:', e);
+        return null;
+    }
+}
+
+function parseMarkdownChecklist(text) {
+    const lines = text.split(/\r?\n/);
+    const sections = [];
+    let currentSection = null;
+    let inTable = false;
+    let tableHeaders = [];
+    
+    for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        
+        // Detect section header: **SECTION X — Title** or Here is **Era X: Title**
+        const sectionMatch = line.match(/^(?:\*\*SECTION\s+([A-Z0-9]+)\s*—\s*(.*?)\*\*|Here is \*\*Era\s+([A-Z0-9]+)\s*:\s*(.*?)\*\*)/i);
+        if (sectionMatch) {
+            currentSection = {
+                id: sectionMatch[1] || sectionMatch[3],
+                title: (sectionMatch[2] || sectionMatch[4] || '').trim(),
+                rawLine: line,
+                topics: []
+            };
+            sections.push(currentSection);
+            inTable = false;
+            continue;
+        }
+        
+        // Detect table rows: starts and ends with |
+        if (line.startsWith('|')) {
+            if (line.match(/^\|(?:\s*[:-]+\s*\|)+$/)) {
+                if (currentSection) {
+                    currentSection.separatorLine = line;
+                }
+                continue;
+            }
+            const cells = line.split('|').map(c => c.trim()).slice(1, -1);
+            if (!inTable) {
+                tableHeaders = cells.map(c => c.toLowerCase());
+                if (currentSection) {
+                    currentSection.headerLine = line;
+                }
+                inTable = true;
+            } else {
+                if (currentSection && cells.length >= 3) {
+                    let statusIdx = tableHeaders.findIndex(h => h.includes('status'));
+                    let idIdx = tableHeaders.findIndex(h => h.includes('#'));
+                    let topicIdx = tableHeaders.findIndex(h => h.includes('topic') || h.includes('source') || h.includes('event'));
+                    let refIdx = tableHeaders.findIndex(h => h.includes('reference') || h.includes('ref'));
+                    let impIdx = tableHeaders.findIndex(h => h.includes('importance'));
+                    let yearIdx = tableHeaders.findIndex(h => h.includes('year'));
+                    
+                    if (statusIdx === -1) statusIdx = 0;
+                    if (idIdx === -1) idIdx = 1;
+                    if (topicIdx === -1) topicIdx = 2;
+                    if (refIdx === -1) {
+                        refIdx = cells.findIndex(c => c.match(/(RS Sharma|Laxmikanth|NCERT|FPG|IPE|Spectrum|Satish Chandra)/i));
+                    }
+                    if (impIdx === -1) {
+                        impIdx = cells.length - 1; // default to last column
+                    }
+                    
+                    const rawTopic = cells[topicIdx] || '';
+                    let topicTitle = rawTopic.replace(/\*\*/g, '').trim();
+                    let topicDesc = '';
+                    
+                    const sepIndex = topicTitle.search(/\s*(?:—|–|-)\s+/);
+                    if (sepIndex !== -1) {
+                        topicDesc = topicTitle.slice(sepIndex).replace(/^\s*(?:—|–|-)\s+/, '').trim();
+                        topicTitle = topicTitle.slice(0, sepIndex).trim();
+                    }
+                    
+                    if (!topicDesc) {
+                        const detailIdx = tableHeaders.findIndex(h => h.includes('tells') || h.includes('detail') || h.includes('figure') || h.includes('fact') || h.includes('ranking') || h.includes('context'));
+                        if (detailIdx !== -1 && detailIdx !== topicIdx) {
+                            topicDesc = cells[detailIdx] || '';
+                        }
+                    }
+                    
+                    let yearVal = yearIdx !== -1 && yearIdx < cells.length ? cells[yearIdx].trim() : '';
+                    if (yearVal) {
+                        if (topicDesc) {
+                            topicDesc = `Year: ${yearVal} · ${topicDesc}`;
+                        } else {
+                            topicDesc = `Year: ${yearVal}`;
+                        }
+                    }
+                    
+                    let notePath = '';
+                    let noteLabel = '';
+                    for (let c = 0; c < cells.length; c++) {
+                        const linkMatch = cells[c].match(/\[([^\]]+)\]\(([^)]*notes\/[^)]+)\)/i);
+                        if (linkMatch) {
+                            noteLabel = linkMatch[1];
+                            notePath = linkMatch[2];
+                            break;
+                        }
+                    }
+                    
+                    const statusCell = cells[statusIdx] || '';
+                    const isChecked = statusCell.includes('x') || statusCell.includes('X');
+                    const code = (cells[idIdx] || '').trim();
+                    const bookRef = refIdx !== -1 && refIdx < cells.length ? cells[refIdx] : '';
+                    const importance = impIdx !== -1 && impIdx < cells.length ? cells[impIdx] : 'Medium';
+                    
+                    currentSection.topics.push({
+                        code: code,
+                        title: topicTitle,
+                        description: topicDesc.replace(/\*\*/g, '').trim(),
+                        bookRef: bookRef.replace(/\*\*/g, '').trim(),
+                        importance: importance.replace(/\*\*/g, '').trim(),
+                        defaultChecked: isChecked,
+                        notePath: notePath,
+                        noteLabel: noteLabel,
+                        rawCells: cells
+                    });
+                }
+            }
+        } else {
+            inTable = false;
+        }
+    }
+    
+    return sections;
+}
+
+async function renderPrepTab() {
+    loadPrepProgress();
+    const dashboardView = document.getElementById('prep-dashboard-view');
+    const checklistView = document.getElementById('prep-checklist-view');
+    if (!dashboardView || !checklistView) return;
+    
+    if (activePrepSubject) {
+        dashboardView.style.display = 'none';
+        checklistView.style.display = 'block';
+        await renderSubjectChecklist(activePrepSubject);
+    } else {
+        dashboardView.style.display = 'block';
+        checklistView.style.display = 'none';
+        await renderPrepDashboard();
+    }
+}
+
+async function renderPrepDashboard() {
+    const grid = document.getElementById('prep-subject-grid');
+    if (!grid) return;
+    grid.innerHTML = '<div class="tl-loading"><i class="fa-solid fa-spinner fa-spin"></i> Loading Prep Hub...</div>';
+    
+    // Update global MCQ stats (from old dashboard overview)
+    const totalQ = allQuestions.length;
+    const overallAcc = getOverall().accuracy;
+    const srsDue = getSRSDueCount();
+    
+    const totalQEl = document.getElementById('db-total-questions');
+    const accEl = document.getElementById('db-total-accuracy');
+    const srsEl = document.getElementById('db-srs-count');
+    
+    if (totalQEl) totalQEl.textContent = totalQ.toLocaleString();
+    if (accEl) accEl.textContent = overallAcc + '%';
+    if (srsEl) srsEl.textContent = srsDue;
+
+    const promises = PREP_SUBJECTS.map(async (subj) => {
+        let data = null;
+        if (subj.path) {
+            data = await loadPrepSubject(subj.id);
+        }
+        return { subject: subj, data: data };
+    });
+    
+    const results = await Promise.all(promises);
+    grid.innerHTML = '';
+    
+    let totalTopics = 0;
+    let completedTopics = 0;
+    
+    results.forEach(({ subject, data }) => {
+        // 1. Calculate Checklist Progress
+        const hasChecklist = !!subject.path;
+        let subjTotal = 0;
+        let subjCompleted = 0;
+        let checklistPercent = 0;
+
+        if (hasChecklist && data) {
+            data.forEach(sec => {
+                sec.topics.forEach(t => {
+                    subjTotal++;
+                    const key = `${subject.id}-${t.code}`;
+                    const isChecked = prepProgress[key] !== undefined ? prepProgress[key] : t.defaultChecked;
+                    if (isChecked) subjCompleted++;
+                });
+            });
+            totalTopics += subjTotal;
+            completedTopics += subjCompleted;
+            checklistPercent = subjTotal > 0 ? Math.round((subjCompleted / subjTotal) * 100) : 0;
+        }
+
+        // 2. Fetch MCQ Stats
+        const sheet = subject.sheet;
+        const hasMCQ = !!sheet;
+        let qCount = 0;
+        let mcqAccuracy = 'New';
+        let mcqMastery = 0;
+        let accClass = 'untouched';
+
+        if (hasMCQ) {
+            const subName = sheet.replace('.json', '');
+            qCount = subjectQuestionCounts[subName] || 0;
+            const stats = getSubjectStats(sheet);
+            mcqAccuracy = stats.accuracy !== null ? stats.accuracy + '%' : 'New';
+            mcqMastery = getMasteryPercent(sheet);
+            accClass = classifyAcc(stats.accuracy);
+        }
+
+        // 3. Render Card HTML
+        const card = document.createElement('div');
+        card.className = 'prep-card';
+        if (!hasChecklist) card.classList.add('no-checklist');
+        
+        let checklistHTML = '';
+        if (hasChecklist) {
+            checklistHTML = `
+                <div class="prep-card-checklist-section" title="Click to view checklist details">
+                    <div class="prep-card-section-label">
+                        <span>Checklist Progress</span>
+                        <span class="prep-card-percent">${checklistPercent}%</span>
+                    </div>
+                    <div class="prep-card-progress-track">
+                        <div class="prep-card-progress-fill" style="width: ${checklistPercent}%"></div>
+                    </div>
+                    <div class="prep-card-stats">
+                        <span>${subjCompleted} / ${subjTotal} completed</span>
+                        <span>${subjTotal - subjCompleted} remaining</span>
+                    </div>
+                </div>
+            `;
+        } else {
+            checklistHTML = `
+                <div class="prep-card-checklist-section empty-checklist">
+                    <span class="checklist-placeholder-text">Syllabus checklist not linked</span>
+                </div>
+            `;
+        }
+
+        let mcqHTML = '';
+        if (hasMCQ) {
+            mcqHTML = `
+                <div class="prep-card-mcq-section" title="Click to practice these MCQs">
+                    <div class="prep-card-section-label">
+                        <span>MCQ Practice</span>
+                        <span class="prep-card-mastery">${mcqMastery}% Mastery</span>
+                    </div>
+                    <div class="prep-card-progress-track mastery-track">
+                        <div class="prep-card-progress-fill mastery-fill" style="width: ${mcqMastery}%"></div>
+                    </div>
+                    <div class="prep-card-stats">
+                        <span>${qCount} Questions</span>
+                        <span class="cov-badge ${accClass}">${mcqAccuracy} Accuracy</span>
+                    </div>
+                </div>
+            `;
+        } else {
+            mcqHTML = `
+                <div class="prep-card-mcq-section empty-mcq">
+                    <span class="checklist-placeholder-text">MCQ database not linked</span>
+                </div>
+            `;
+        }
+
+        let actionsHTML = `
+            <div class="prep-card-actions">
+                ${hasChecklist ? `
+                    <button class="prep-card-btn checklist-btn" data-action="checklist">
+                        <i class="fa-solid fa-list-check"></i> Checklist
+                    </button>
+                ` : `
+                    <button class="prep-card-btn checklist-btn disabled" disabled>
+                        <i class="fa-solid fa-list-check"></i> Checklist
+                    </button>
+                `}
+                ${hasMCQ ? `
+                    <button class="prep-card-btn practice-btn" data-action="practice">
+                        <i class="fa-solid fa-crosshairs"></i> Practice MCQs
+                    </button>
+                ` : ''}
+            </div>
+        `;
+
+        card.innerHTML = `
+            <div class="prep-card-header">
+                <div class="prep-card-title-wrap">
+                    <span class="prep-card-icon">${subject.icon}</span>
+                    <h3 class="prep-card-title">${subject.title}</h3>
+                </div>
+            </div>
+            <div class="prep-card-body">
+                ${checklistHTML}
+                ${mcqHTML}
+            </div>
+            ${actionsHTML}
+        `;
+
+        // Event bindings
+        if (hasChecklist) {
+            const chkBtn = card.querySelector('[data-action="checklist"]');
+            if (chkBtn) {
+                chkBtn.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    openChecklist(subject.id);
+                });
+            }
+            const chkSec = card.querySelector('.prep-card-checklist-section');
+            if (chkSec) {
+                chkSec.addEventListener('click', () => {
+                    openChecklist(subject.id);
+                });
+            }
+        }
+        
+        if (hasMCQ) {
+            const pracBtn = card.querySelector('[data-action="practice"]');
+            if (pracBtn) {
+                pracBtn.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    startSubjectQuiz(sheet);
+                });
+            }
+            const mcqSec = card.querySelector('.prep-card-mcq-section');
+            if (mcqSec) {
+                mcqSec.addEventListener('click', () => {
+                    startSubjectQuiz(sheet);
+                });
+            }
+        }
+
+        grid.appendChild(card);
+    });
+    
+    const masterPercent = totalTopics > 0 ? Math.round((completedTopics / totalTopics) * 100) : 0;
+    const ring = document.getElementById('prep-master-ring');
+    const percentSpan = document.getElementById('prep-master-percent');
+    const metaP = document.getElementById('prep-master-meta');
+    
+    if (ring) {
+        ring.style.background = `conic-gradient(var(--accent) ${masterPercent}%, var(--border-soft) ${masterPercent}%)`;
+    }
+    if (percentSpan) percentSpan.textContent = masterPercent + '%';
+    if (metaP) metaP.textContent = `${completedTopics} of ${totalTopics} topics completed`;
+}
+
+function openChecklist(subjectId) {
+    activePrepSubject = subjectId;
+    activePrepSection = 'all';
+    const dashboardView = document.getElementById('prep-dashboard-view');
+    const checklistView = document.getElementById('prep-checklist-view');
+    if (dashboardView && checklistView) {
+        dashboardView.style.display = 'none';
+        checklistView.style.display = 'block';
+        renderSubjectChecklist(subjectId);
+    }
+}
+
+function updateMasterProgressCard() {
+    let totalTopics = 0;
+    let completedTopics = 0;
+    
+    PREP_SUBJECTS.forEach(subject => {
+        if (!subject.path) return;
+        const data = prepData[subject.id];
+        if (!data) return;
+        data.forEach(sec => {
+            sec.topics.forEach(t => {
+                totalTopics++;
+                const key = `${subject.id}-${t.code}`;
+                const isChecked = prepProgress[key] !== undefined ? prepProgress[key] : t.defaultChecked;
+                if (isChecked) completedTopics++;
+            });
+        });
+    });
+    
+    const masterPercent = totalTopics > 0 ? Math.round((completedTopics / totalTopics) * 100) : 0;
+    const ring = document.getElementById('prep-master-ring');
+    const percentSpan = document.getElementById('prep-master-percent');
+    const metaP = document.getElementById('prep-master-meta');
+    
+    if (ring) {
+        ring.style.background = `conic-gradient(var(--accent) ${masterPercent}%, var(--border-soft) ${masterPercent}%)`;
+    }
+    if (percentSpan) percentSpan.textContent = masterPercent + '%';
+    if (metaP) metaP.textContent = `${completedTopics} of ${totalTopics} topics completed`;
+}
+
+async function renderSubjectChecklist(subjectId) {
+    const subject = PREP_SUBJECTS.find(s => s.id === subjectId);
+    if (!subject) return;
+    
+    const iconEl = document.getElementById('prep-subject-icon');
+    const titleEl = document.getElementById('prep-subject-title');
+    if (iconEl) iconEl.textContent = subject.icon;
+    if (titleEl) titleEl.textContent = subject.title;
+    
+    const container = document.getElementById('prep-topics-container');
+    if (!container) return;
+    container.innerHTML = '<div class="tl-loading"><i class="fa-solid fa-spinner fa-spin"></i> Loading checklist...</div>';
+    
+    const sections = await loadPrepSubject(subjectId);
+    if (!sections) {
+        container.innerHTML = '<p class="sp-empty">Failed to load checklist details.</p>';
+        return;
+    }
+    
+    // Safety check: if activePrepSection doesn't exist in this subject's sections, reset to 'all'
+    if (activePrepSection !== 'all' && !sections.some(s => s.id === activePrepSection)) {
+        activePrepSection = 'all';
+    }
+    
+    const jumpBar = document.getElementById('prep-jump-bar');
+    if (jumpBar) {
+        jumpBar.innerHTML = '';
+        const btnAll = document.createElement('button');
+        btnAll.className = `checklist-jump-btn${activePrepSection === 'all' ? ' active' : ''}`;
+        btnAll.textContent = 'ALL SECTIONS';
+        btnAll.addEventListener('click', () => {
+            activePrepSection = 'all';
+            jumpBar.querySelectorAll('.checklist-jump-btn').forEach(b => b.classList.remove('active'));
+            btnAll.classList.add('active');
+            renderFilteredChecklist(sections, subjectId);
+        });
+        jumpBar.appendChild(btnAll);
+        
+        sections.forEach(sec => {
+            const btn = document.createElement('button');
+            btn.className = `checklist-jump-btn${activePrepSection === sec.id ? ' active' : ''}`;
+            btn.textContent = `SEC ${sec.id}`;
+            btn.title = sec.title;
+            btn.addEventListener('click', () => {
+                activePrepSection = sec.id;
+                jumpBar.querySelectorAll('.checklist-jump-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                renderFilteredChecklist(sections, subjectId);
+            });
+            jumpBar.appendChild(btn);
+        });
+    }
+    
+    renderFilteredChecklist(sections, subjectId);
+}
+
+function renderFilteredChecklist(sections, subjectId) {
+    const container = document.getElementById('prep-topics-container');
+    if (!container) return;
+    
+    const searchVal = (document.getElementById('prep-search-input')?.value || '').toLowerCase().trim();
+    const statusVal = document.getElementById('prep-filter-status')?.value || 'all';
+    const importanceVal = document.getElementById('prep-filter-importance')?.value || 'all';
+    
+    container.innerHTML = '';
+    let renderedAny = false;
+    
+    sections.forEach(sec => {
+        if (activePrepSection !== 'all' && sec.id !== activePrepSection) return;
+        const filteredTopics = sec.topics.filter(t => {
+            const matchesSearch = !searchVal || 
+                t.code.toLowerCase().includes(searchVal) || 
+                t.title.toLowerCase().includes(searchVal) || 
+                t.description.toLowerCase().includes(searchVal) || 
+                t.bookRef.toLowerCase().includes(searchVal);
+            if (!matchesSearch) return false;
+            
+            const key = `${subjectId}-${t.code}`;
+            const isChecked = prepProgress[key] !== undefined ? prepProgress[key] : t.defaultChecked;
+            const matchesStatus = statusVal === 'all' || 
+                (statusVal === 'checked' && isChecked) || 
+                (statusVal === 'unchecked' && !isChecked);
+            if (!matchesStatus) return false;
+            
+            const cleanImp = t.importance.toLowerCase().replace(/\s+/g, '');
+            const matchesImportance = importanceVal === 'all' || cleanImp === importanceVal;
+            return matchesImportance;
+        });
+        
+        if (filteredTopics.length === 0) return;
+        renderedAny = true;
+        
+        const secGroup = document.createElement('div');
+        secGroup.className = 'prep-section-group';
+        secGroup.id = `prep-sec-${sec.id}`;
+        secGroup.innerHTML = `
+            <div class="prep-section-header">
+                <span>SECTION ${sec.id} — ${sec.title}</span>
+                <span class="prep-section-badge">${filteredTopics.length} topics</span>
+            </div>
+            <div class="prep-section-table" id="prep-sec-table-${sec.id}"></div>
+        `;
+        
+        const tableBody = secGroup.querySelector(`#prep-sec-table-${sec.id}`);
+        
+        filteredTopics.forEach(t => {
+            const key = `${subjectId}-${t.code}`;
+            const isChecked = prepProgress[key] !== undefined ? prepProgress[key] : t.defaultChecked;
+            
+            const row = document.createElement('div');
+            row.className = 'prep-topic-row';
+            
+            const impClass = t.importance.toLowerCase() === 'very high' ? 'imp-very-high' 
+                           : t.importance.toLowerCase() === 'high' ? 'imp-high' 
+                           : 'imp-medium';
+                           
+            const bookBadge = t.bookRef ? `<span class="prep-pill book">${t.bookRef}</span>` : '';
+            
+            let noteBtn = '';
+            if (t.notePath) {
+                noteBtn = `<button class="prep-note-link" data-path="${t.notePath}"><i class="fa-solid fa-file-lines"></i> Notes</button>`;
+            } else {
+                if (subjectId === 'reports-census') {
+                    if (t.code.startsWith('2.')) {
+                        noteBtn = `<button class="prep-note-link" data-path="notes/india-census-2011.md"><i class="fa-solid fa-file-lines"></i> Notes</button>`;
+                    } else if (t.code.startsWith('3.')) {
+                        noteBtn = `<button class="prep-note-link" data-path="notes/bihar-census-2011.md"><i class="fa-solid fa-file-lines"></i> Notes</button>`;
+                    }
+                }
+            }
+            
+            row.innerHTML = `
+                <div class="prep-topic-chk-wrap">
+                    <input type="checkbox" id="chk-${key}" ${isChecked ? 'checked' : ''}>
+                </div>
+                <div class="prep-topic-id">${t.code}</div>
+                <div class="prep-topic-body">
+                    <strong>${t.title}</strong>
+                    ${t.description ? `<br><span style="color:var(--text-muted);font-size:12px">${t.description}</span>` : ''}
+                    <div class="prep-topic-meta-row">
+                        <span class="prep-pill ${impClass}">${t.importance}</span>
+                        ${bookBadge}
+                        ${noteBtn}
+                    </div>
+                </div>
+                <button class="prep-topic-practice-btn" title="Practice MCQs for this topic" data-title="${t.title}" data-code="${t.code}">
+                    <i class="fa-solid fa-crosshairs"></i> Practice
+                </button>
+            `;
+            
+            const chk = row.querySelector('input[type="checkbox"]');
+            chk.addEventListener('change', (e) => {
+                prepProgress[key] = e.target.checked;
+                savePrepProgress();
+                updateMasterProgressCard();
+            });
+            
+            const noteEl = row.querySelector('.prep-note-link');
+            if (noteEl) {
+                noteEl.addEventListener('click', () => {
+                    const relativePath = noteEl.dataset.path;
+                    const subject = PREP_SUBJECTS.find(s => s.id === subjectId);
+                    const folderPath = subject.path.substring(0, subject.path.lastIndexOf('/'));
+                    const fullNotePath = `${folderPath}/${relativePath}`;
+                    openPrepNoteDrawer(t.title, fullNotePath);
+                });
+            }
+            
+            const practiceBtn = row.querySelector('.prep-topic-practice-btn');
+            practiceBtn.addEventListener('click', () => {
+                launchTopicPractice(subjectId, t.code, t.title);
+            });
+            
+            tableBody.appendChild(row);
+        });
+        container.appendChild(secGroup);
+    });
+    
+    if (!renderedAny) {
+        container.innerHTML = '<p class="sp-empty">No topics match the active filters.</p>';
+    }
+}
+
+function scrollToSection(sectionId) {
+    if (sectionId === 'all') {
+        const container = document.getElementById('prep-topics-container');
+        if (container) container.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    } else {
+        const el = document.getElementById(`prep-sec-${sectionId}`);
+        if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+}
+
+async function openPrepNoteDrawer(title, notePath) {
+    const drawer = document.getElementById('prep-notes-drawer');
+    const drawerTitle = document.getElementById('prep-drawer-title');
+    const drawerBody = document.getElementById('prep-drawer-body');
+    if (!drawer || !drawerTitle || !drawerBody) return;
+    
+    drawerTitle.textContent = title;
+    drawerBody.innerHTML = '<div class="tl-loading"><i class="fa-solid fa-spinner fa-spin"></i> Loading note content...</div>';
+    drawer.classList.add('open');
+    
+    try {
+        const res = await fetch(notePath);
+        if (!res.ok) throw new Error('Note file not found');
+        const markdown = await res.text();
+        drawerBody.innerHTML = renderMarkdownToHTML(markdown);
+    } catch (e) {
+        console.error('Error loading study notes:', e);
+        drawerBody.innerHTML = `
+            <div style="text-align:center;padding:40px 20px;color:var(--wrong);">
+                <i class="fa-solid fa-triangle-exclamation" style="font-size:24px;margin-bottom:12px;"></i>
+                <p>Failed to load study notes file.</p>
+                <code style="font-size:11px;color:var(--text-muted)">${notePath}</code>
+            </div>
+        `;
+    }
+}
+
+function renderMarkdownToHTML(markdown) {
+    let html = markdown
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+        
+    const lines = html.split(/\r?\n/);
+    let inList = false;
+    let inTable = false;
+    let tableRows = [];
+    let processedLines = [];
+    
+    for (let i = 0; i < lines.length; i++) {
+        let line = lines[i];
+        let trimmed = line.trim();
+        
+        const bqMatch = line.match(/^(&gt;)\s*(.*)/);
+        if (bqMatch) {
+            let content = bqMatch[2].trim();
+            const alertMatch = content.match(/^\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]/i);
+            if (alertMatch) {
+                const type = alertMatch[1].toUpperCase();
+                content = content.replace(/^\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]/i, '').trim();
+                processedLines.push(`<blockquote class="alert-block alert-${type.toLowerCase()}"><strong>${type}</strong><p>`);
+            } else {
+                processedLines.push(`<blockquote><p>`);
+            }
+            processedLines.push(parseMarkdownInline(content) + `</p></blockquote>`);
+            continue;
+        }
+        
+        const hMatch = line.match(/^(#{1,6})\s+(.*)/);
+        if (hMatch) {
+            if (inList) { processedLines.push('</ul>'); inList = false; }
+            if (inTable) { processedLines.push(renderHTMLTable(tableRows)); inTable = false; tableRows = []; }
+            const level = hMatch[1].length;
+            processedLines.push(`<h${level}>${parseMarkdownInline(hMatch[2])}</h${level}>`);
+            continue;
+        }
+        
+        if (trimmed === '---') {
+            if (inList) { processedLines.push('</ul>'); inList = false; }
+            if (inTable) { processedLines.push(renderHTMLTable(tableRows)); inTable = false; tableRows = []; }
+            processedLines.push('<hr>');
+            continue;
+        }
+        
+        const listMatch = line.match(/^([-*])\s+(.*)/);
+        if (listMatch) {
+            if (inTable) { processedLines.push(renderHTMLTable(tableRows)); inTable = false; tableRows = []; }
+            if (!inList) {
+                processedLines.push('<ul>');
+                inList = true;
+            }
+            processedLines.push(`<li>${parseMarkdownInline(listMatch[2])}</li>`);
+            continue;
+        }
+        
+        if (trimmed.startsWith('|')) {
+            if (inList) { processedLines.push('</ul>'); inList = false; }
+            inTable = true;
+            tableRows.push(trimmed);
+            continue;
+        } else {
+            if (inTable) {
+                processedLines.push(renderHTMLTable(tableRows));
+                inTable = false;
+                tableRows = [];
+            }
+        }
+        
+        if (trimmed === '') {
+            if (inList) { processedLines.push('</ul>'); inList = false; }
+            processedLines.push('<br>');
+        } else {
+            if (inList) { processedLines.push('</ul>'); inList = false; }
+            processedLines.push(`<p>${parseMarkdownInline(line)}</p>`);
+        }
+    }
+    
+    if (inList) processedLines.push('</ul>');
+    if (inTable) processedLines.push(renderHTMLTable(tableRows));
+    
+    return processedLines.join('\n');
+}
+
+function parseMarkdownInline(text) {
+    return text
+        .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*([^*]+)\*/g, '<em>$1</em>')
+        .replace(/`([^`]+)`/g, '<code>$1</code>')
+        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+}
+
+function renderHTMLTable(rows) {
+    if (rows.length === 0) return '';
+    let html = '<table>';
+    
+    const headerCells = rows[0].split('|').map(c => c.trim()).slice(1, -1);
+    html += '<thead><tr>';
+    headerCells.forEach(cell => {
+        html += `<th>${parseMarkdownInline(cell)}</th>`;
+    });
+    html += '</tr></thead><tbody>';
+    
+    for (let i = 1; i < rows.length; i++) {
+        const row = rows[i];
+        if (row.match(/^\|(?:\s*[:-]+\s*\|)+$/)) continue;
+        const cells = row.split('|').map(c => c.trim()).slice(1, -1);
+        html += '<tr>';
+        cells.forEach(cell => {
+            html += `<td>${parseMarkdownInline(cell)}</td>`;
+        });
+        html += '</tr>';
+    }
+    html += '</tbody></table>';
+    return html;
+}
+
+function launchTopicPractice(subjectId, topicCode, topicTitle) {
+    const sheetMap = {
+        'history-ancient': 'HistoryAncient.json',
+        'history-medieval': 'HistoryMedieval.json',
+        'history-modern': 'HistoryModern.json',
+        'polity': 'Polity.json',
+        'geography': 'Geography.json',
+        'reports-census': 'Census.json'
+    };
+    
+    const sheetName = sheetMap[subjectId];
+    if (!sheetName) return;
+    
+    const subjectKey = sheetName.replace('.json', '');
+    let dbQuestions = subjectQuestions[subjectKey];
+    if (!dbQuestions || !dbQuestions.length) {
+        alert('Please load the quiz questions first by starting a session.');
+        return;
+    }
+    
+    const cleanTitle = topicTitle.toLowerCase().replace(/[^a-z0-9\s]/g, '');
+    const keywords = cleanTitle.split(/\s+/).filter(w => w.length > 3);
+    
+    let sectionTag = '';
+    const secChar = topicCode.charAt(0);
+    
+    if (subjectId === 'polity') {
+        const tagMap = {
+            'A': 'polityBackground', 'B': 'polityMaking', 'C': 'polityPreamble',
+            'D': 'polityFR', 'E': 'polityDPSP', 'F': 'polityUnionExec',
+            'G': 'polityParliament', 'H': 'polityJudiciary', 'I': 'polityStateGov',
+            'J': 'polityRelations', 'K': 'polityEmergency', 'L': 'polityBodies',
+            'M': 'polityLocalGov', 'N': 'polityAmendments', 'O': 'polityJudgements'
+        };
+        sectionTag = tagMap[secChar] || '';
+    } else if (subjectId === 'history-ancient') {
+        const tagMap = {
+            '0': 'ancientIVC', '1': 'ancientIVC', '2': 'ancientIVC',
+            '3': 'ancientVedic', '4': 'ancientMahajanapadas', '5': 'ancientMauryan',
+            '6': 'ancientPostMauryan', '7': 'ancientGupta', '8': 'ancientPostGupta',
+            '9': 'ancientSangam', '10': 'ancientBuddhismJainism'
+        };
+        sectionTag = tagMap[secChar] || '';
+    } else if (subjectId === 'geography') {
+        const tagMap = {
+            'A': 'geoPhysical', 'B': 'geoPhysical', 'C': 'geoPhysical', 'D': 'geoPhysical',
+            'E': 'geoIndiaPhysiography', 'F': 'geoIndiaPhysiography', 'G': 'geoIndiaPhysiography',
+            'H': 'geoIndiaPhysiography', 'I': 'geoIndiaEconomic', 'J': 'geoIndiaEconomic',
+            'K': 'geoIndiaEconomic', 'L': 'geoBihar', 'M': 'geoWorld', 'N': 'geoEnvironment'
+        };
+        sectionTag = tagMap[secChar] || '';
+    } else if (subjectId === 'reports-census') {
+        sectionTag = 'census2011';
+    }
+    
+    let matchedQs = dbQuestions.filter(q => {
+        const qtext = (q.q || '').toLowerCase();
+        const qtags = q.tags ? q.tags.split(',').map(t => t.trim().toLowerCase()) : [];
+        
+        if (sectionTag && qtags.includes(sectionTag.toLowerCase())) {
+            if (keywords.length > 0) {
+                const hasKeyword = keywords.some(w => qtext.includes(w));
+                if (hasKeyword) return true;
+            } else {
+                return true;
+            }
+        }
+        if (keywords.length > 0) {
+            const matchCount = keywords.filter(w => qtext.includes(w)).length;
+            if (matchCount >= Math.min(2, keywords.length)) return true;
+        }
+        return false;
+    });
+    
+    if (matchedQs.length === 0 && sectionTag) {
+        matchedQs = dbQuestions.filter(q => {
+            const qtags = q.tags ? q.tags.split(',').map(t => t.trim().toLowerCase()) : [];
+            return qtags.includes(sectionTag.toLowerCase());
+        });
+    }
+    
+    if (matchedQs.length === 0) {
+        alert(`No specific practice questions found for topic: ${topicTitle}. Practicing all questions for this subject instead.`);
+        matchedQs = dbQuestions;
+    }
+    
+    currentSubject = subjectKey;
+    const select = document.getElementById('subject-select');
+    if (select) select.value = sheetName;
+    
+    questions = matchedQs;
+    switchTab('quiz');
+    
+    const modeLabel = document.getElementById('mode-label');
+    if (modeLabel) {
+        modeLabel.textContent = `PRACTICE: ${topicTitle} (${matchedQs.length} Qs)`.toUpperCase();
+        modeLabel.style.display = 'block';
+    }
+    startQuiz();
+}
+
+function generateUpdatedMarkdown() {
+    if (!activePrepSubject) {
+        alert('Please open a subject checklist first.');
+        return;
+    }
+    
+    const subject = PREP_SUBJECTS.find(s => s.id === activePrepSubject);
+    const sections = prepData[activePrepSubject];
+    if (!sections) return;
+    
+    let output = [];
+    output.push(`# 📚 ${subject.title} - Master Progress & Topics Checklist\n`);
+    
+    sections.forEach(sec => {
+        output.push(sec.rawLine || `**SECTION ${sec.id} — ${sec.title}**\n`);
+        
+        if (sec.headerLine) output.push(sec.headerLine);
+        if (sec.separatorLine) output.push(sec.separatorLine);
+        
+        // If headerLine wasn't stored, use fallback
+        if (!sec.headerLine) {
+            let headerLine = '';
+            let separatorLine = '';
+            if (activePrepSubject === 'history-ancient') {
+                headerLine = '| Status | # | Source | Type | Created By / Period | What It Tells Us | Book Reference | Importance |';
+                separatorLine = '| :---: | :---: | --- | --- | --- | --- | --- | --- |';
+            } else if (activePrepSubject === 'geography') {
+                headerLine = '| Status | # | Topic | Region/Context | NCERT Reference | Category | Importance |';
+                separatorLine = '| :---: | --- | --- | --- | --- | --- | --- |';
+            } else if (activePrepSubject === 'polity') {
+                headerLine = '| Status | # | Topic | Article/Amendment/Case | Section | Book Reference | Category | Importance |';
+                separatorLine = '| :---: | :---: | --- | --- | :---: | --- | --- | --- |';
+            } else {
+                headerLine = '| Status | # | Topic | Key Details | Importance |';
+                separatorLine = '| :---: | --- | --- | --- | --- |';
+            }
+            output.push(headerLine);
+            output.push(separatorLine);
+        }
+        
+        sec.topics.forEach(t => {
+            const key = `${activePrepSubject}-${t.code}`;
+            const isChecked = prepProgress[key] !== undefined ? prepProgress[key] : t.defaultChecked;
+            const chkStr = isChecked ? '[x]' : '[ ]';
+            
+            if (t.rawCells && t.rawCells.length > 0) {
+                const cellsCopy = [...t.rawCells];
+                cellsCopy[0] = chkStr;
+                output.push(`| ${cellsCopy.join(' | ')} |`);
+            } else {
+                let rowCells = [];
+                rowCells.push(` ${chkStr} `);
+                rowCells.push(` ${t.code} `);
+                
+                let topicCell = t.title;
+                if (t.description) {
+                    topicCell = ` **${t.title}** — ${t.description} `;
+                }
+                
+                if (activePrepSubject === 'history-ancient') {
+                    rowCells.push(` ${t.title} `);
+                    rowCells.push(' ');
+                    rowCells.push(' ');
+                    rowCells.push(` ${t.description} `);
+                    rowCells.push(` ${t.bookRef} `);
+                    rowCells.push(` ${t.importance} `);
+                } else if (activePrepSubject === 'geography') {
+                    rowCells.push(` ${topicCell} `);
+                    rowCells.push(' ');
+                    rowCells.push(` ${t.bookRef} `);
+                    rowCells.push(' ');
+                    rowCells.push(` ${t.importance} `);
+                } else if (activePrepSubject === 'polity') {
+                    rowCells.push(` ${topicCell} `);
+                    rowCells.push(' ');
+                    rowCells.push(' ');
+                    rowCells.push(` ${t.bookRef} `);
+                    rowCells.push(' ');
+                    rowCells.push(` ${t.importance} `);
+                } else {
+                    rowCells.push(` ${t.title} `);
+                    rowCells.push(` ${t.description} `);
+                    rowCells.push(` ${t.importance} `);
+                }
+                output.push(`|${rowCells.join('|')}|`);
+            }
+        });
+        output.push('');
+    });
+    
+    const mdText = output.join('\n');
+    navigator.clipboard.writeText(mdText).then(() => {
+        alert('Updated markdown checklist tables copied to clipboard! You can paste this directly to overwrite your topics.md file.');
+    }).catch(e => {
+        console.error('Failed to copy markdown:', e);
+        alert('Failed to copy to clipboard. Showing content in notes reader instead.');
+        openPrepNoteDrawer('Sync Markdown Content', '');
+        const db = document.getElementById('prep-drawer-body');
+        if (db) {
+            db.innerHTML = `
+                <p>Copy the text below to update your checklist file:</p>
+                <textarea style="width:100%;height:300px;font-family:monospace;font-size:11px;background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:6px;padding:8px;" readonly>${mdText}</textarea>
+            `;
+        }
+    });
+}
+
+function initPrepListeners() {
+    document.getElementById('prep-back-btn')?.addEventListener('click', () => {
+        activePrepSubject = null;
+        const dashboardView = document.getElementById('prep-dashboard-view');
+        const checklistView = document.getElementById('prep-checklist-view');
+        if (dashboardView && checklistView) {
+            dashboardView.style.display = 'block';
+            checklistView.style.display = 'none';
+        }
+        renderPrepDashboard();
+    });
+    
+    document.getElementById('prep-search-input')?.addEventListener('input', () => {
+        if (activePrepSubject && prepData[activePrepSubject]) {
+            renderFilteredChecklist(prepData[activePrepSubject], activePrepSubject);
+        }
+    });
+    
+    document.getElementById('prep-filter-status')?.addEventListener('change', () => {
+        if (activePrepSubject && prepData[activePrepSubject]) {
+            renderFilteredChecklist(prepData[activePrepSubject], activePrepSubject);
+        }
+    });
+    
+    document.getElementById('prep-filter-importance')?.addEventListener('change', () => {
+        if (activePrepSubject && prepData[activePrepSubject]) {
+            renderFilteredChecklist(prepData[activePrepSubject], activePrepSubject);
+        }
+    });
+    
+    const drawer = document.getElementById('prep-notes-drawer');
+    const closeBtn = document.getElementById('prep-drawer-close');
+    const backdrop = document.getElementById('prep-drawer-backdrop');
+    if (drawer && closeBtn && backdrop) {
+        const closeDrawer = () => drawer.classList.remove('open');
+        closeBtn.addEventListener('click', closeDrawer);
+        backdrop.addEventListener('click', closeDrawer);
+    }
+    
+    document.getElementById('prep-export-btn')?.addEventListener('click', () => {
+        generateUpdatedMarkdown();
+    });
+    
+    document.getElementById('prep-clear-btn')?.addEventListener('click', () => {
+        if (confirm('Are you sure you want to reset all syllabus topic progress? This will uncheck all completed topics across all subjects.')) {
+            prepProgress = {};
+            savePrepProgress();
+            renderPrepTab();
+            alert('Syllabus progress reset successfully!');
+        }
+    });
+}
