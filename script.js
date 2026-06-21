@@ -2183,7 +2183,7 @@ function parseMarkdownChecklist(text) {
                     const code = (cells[idIdx] || '').trim();
                     const bookRef = refIdx !== -1 && refIdx < cells.length ? cells[refIdx] : '';
                     const importance = impIdx !== -1 && impIdx < cells.length ? cells[impIdx] : 'Medium';
-                    const topicTags = tagIdx !== -1 && tagIdx < cells.length ? cells[tagIdx].split(',').map(t => t.trim()).filter(Boolean) : [];
+                    const topicTags = tagIdx !== -1 && tagIdx < cells.length ? cells[tagIdx].replace(/`/g, '').split(',').map(t => t.trim()).filter(Boolean) : [];
                     
                     currentSection.topics.push({
                         code: code,
