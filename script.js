@@ -544,7 +544,11 @@ function switchTab(tab) {
     const page = document.getElementById('tab-' + tab);
     if (page) page.classList.add('active');
     document.querySelectorAll('.nav-item, .bottom-nav-item').forEach(b => {
-        b.classList.toggle('active', b.dataset.tab === tab);
+        const isActive = b.dataset.tab === tab;
+        b.classList.toggle('active', isActive);
+        if (isActive && b.classList.contains('bottom-nav-item') && !b.classList.contains('bottom-nav-fixed')) {
+            b.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'nearest' });
+        }
     });
     if (tab === 'dashboard') renderDashboard();
     if (tab === 'stats') renderStatsTab();

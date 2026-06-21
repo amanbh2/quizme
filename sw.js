@@ -1,5 +1,5 @@
 // ── QuizMe Service Worker ─────────────────────────────────────
-const CACHE_VERSION = 'quizme-v5.5';
+const CACHE_VERSION = 'quizme-v5.9';
 const scopePath    = new URL(self.registration.scope).pathname;
 const BASE         = scopePath.endsWith('/') ? scopePath.slice(0, -1) : scopePath;
 
