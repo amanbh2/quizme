@@ -6,9 +6,12 @@ This directory serves as the centralized repository for highly statistical, comp
 
 ### 1. 👥 [Census (India & Bihar)](file:///c:/Users/amanb/Dev/quizme/knowledge-base/reports-surveys/census/)
 - **[Syllabus Topics & PYQ Tracker](file:///c:/Users/amanb/Dev/quizme/knowledge-base/reports-surveys/census/topics.md)**
-- **[India Census 2011 Notes](file:///c:/Users/amanb/Dev/quizme/knowledge-base/reports-surveys/census/notes/india-census-2011.md)**
-- **[Bihar Census 2011 Notes](file:///c:/Users/amanb/Dev/quizme/knowledge-base/reports-surveys/census/notes/bihar-census-2011.md)**
-- **[Census Updates (2026 Houselisting / Census 2027)](file:///c:/Users/amanb/Dev/quizme/knowledge-base/reports-surveys/census/notes/census-updates.md)**
+- **[Topic 1.1: Core Concepts & Definitions Notes](file:///c:/Users/amanb/Dev/quizme/knowledge-base/reports-surveys/census/notes/1.1-core-concepts.md)**
+- **[Topic 1.2: Census History & Legal Framework Notes](file:///c:/Users/amanb/Dev/quizme/knowledge-base/reports-surveys/census/notes/1.2-census-history.md)**
+- **[Topic 1.3: Census 2011 - National Profile Notes](file:///c:/Users/amanb/Dev/quizme/knowledge-base/reports-surveys/census/notes/1.3-national-profile.md)**
+- **[Topic 1.4: Bihar Specific Census 2011 Notes](file:///c:/Users/amanb/Dev/quizme/knowledge-base/reports-surveys/census/notes/1.4-bihar-profile.md)**
+- **[Topic 1.5: Census 2027 & Developments Notes](file:///c:/Users/amanb/Dev/quizme/knowledge-base/reports-surveys/census/notes/1.5-census-2027.md)**
+- **[Topic 1.6: Bihar Caste-Based Survey 2023 Notes](file:///c:/Users/amanb/Dev/quizme/knowledge-base/reports-surveys/census/notes/1.6-bihar-caste-survey.md)**
 
 ### 2. 🩺 [NFHS-6 (Health Survey)](file:///c:/Users/amanb/Dev/quizme/knowledge-base/reports-surveys/nfhs-6/)
 - **[NFHS-6 Study Notes (May 2026)](file:///c:/Users/amanb/Dev/quizme/knowledge-base/reports-surveys/nfhs-6/notes/nfhs-6.md)**

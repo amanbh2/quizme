@@ -147,8 +147,4 @@ These are the primary books owned/preferred by the user. When generating referen
   2. Gemini will analyze these questions and update/add missing syllabus topics in the corresponding `topics.md` checklist file as necessary.
   3. The user will review, modify, or merge the checklist topics to finalise them.
   4. Once topics are finalised, Gemini will align keyword mappings in `tag_rules.json`, auto-tag the Excel/CSV database, and convert it to JSON.
-
-
-
-
-
+* **Concise & High-Yield Study Notes Protocol:** Study notes must be kept concise, crisp, and optimized for quick exam review. Avoid bulky or wordy blocks of text that hamper readability, but ensure no essential details, data points, or tables are skipped. For comparative or highly statistical data, prefer structured comparison tables rather than long paragraphs.
