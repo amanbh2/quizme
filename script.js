@@ -14,7 +14,7 @@ function safeParseJSON(key, fallback) {
     try { const v = localStorage.getItem(key); return v ? JSON.parse(v) : fallback; }
     catch(e) { return fallback; }
 }
-function saveStats()   { localStorage.setItem('qm-stats-v2',  JSON.stringify(questionStats)); statsDirty = true; }
+function saveStats()   { localStorage.setItem('qm-stats-v2',  JSON.stringify(questionStats)); }
 function saveFlagged() { localStorage.setItem('qm-flagged', JSON.stringify(flaggedQ)); }
 
 /* ── Persistent state ────────────────────────────────────────── */
@@ -46,9 +46,6 @@ let sessionCurrentStreak = 0;
 let sessionNewMastered   = 0;
 let simScore             = 0;  // for negative marking display
 let healthCheckDone      = false;
-let statsDirty           = false;        // for render caching
-let statsLastRendered    = -1;           // timestamp of last render
-let syncTimer            = null;         // batched sync timer
 let advanceTimer         = null;         // auto-advance timer
 
 /* ── Theme (before DOMContentLoaded) ────────────────────────── */
@@ -385,7 +382,7 @@ function doReset() {
     renderPrepTab();
 }
 
-// Gist sync removed
+
 
 // ═══════════════════════════════════════════════════════════════
 //  QUIZ MODES
@@ -1390,7 +1387,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const nm = document.getElementById('neg-marking-toggle'); if (nm) nm.checked = negMarking;
     const st = document.getElementById('sound-toggle');       if (st) st.checked = soundEnabled;
     const ef = document.getElementById('exclude-flagged-toggle'); if (ef) ef.checked = excludeFlagged;
-    // Gist sync settings display removed
+
 
     // ── Mode buttons ──────────────────────────────────────────
     ['normal','weak','unseen','srs','revision'].forEach(mode => {
@@ -1433,7 +1430,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // Gist connect listeners removed
+
 
     // ── Stats reset ───────────────────────────────────────────
     document.getElementById('sp-reset-btn')?.addEventListener('click', doReset);
@@ -1495,8 +1492,6 @@ document.addEventListener('DOMContentLoaded', () => {
             .catch(()  => alert('Copy failed — try manually.'));
     });
 
-    // ── Go to quiz from stats empty state ─────────────────────
-    document.getElementById('go-quiz-btn')?.addEventListener('click', () => switchTab('quiz'));
 
     // ── Sub-topic selector & Dashboard click handlers ──────────
     document.getElementById('subtopic-select')?.addEventListener('change', () => {
@@ -1532,7 +1527,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initialize Prep Hub event listeners
     initPrepListeners();
 
-    // Gist sync listeners removed
 });
 
 // ═══════════════════════════════════════════════════════════════
@@ -1894,8 +1888,6 @@ function showSessionComplete() {
             </div>` : ''}
         </div>`;
 
-    // Mark stats dirty so next Stats tab open re-renders
-    statsDirty = true;
 }
 
 document.getElementById('restart-btn')?.addEventListener('click', startQuiz);
@@ -2635,15 +2627,6 @@ function renderFilteredChecklist(sections, subjectId) {
     }
 }
 
-function scrollToSection(sectionId) {
-    if (sectionId === 'all') {
-        const container = document.getElementById('prep-topics-container');
-        if (container) container.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    } else {
-        const el = document.getElementById(`prep-sec-${sectionId}`);
-        if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }
-}
 
 async function openPrepNoteDrawer(title, notePath) {
     const drawer = document.getElementById('prep-notes-drawer');

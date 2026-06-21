@@ -347,11 +347,8 @@ def mode_renumber():
   ─────────────────────────────────────────────────────────────────
   All existing QIDs will be reassigned sequentially from Q00001.
 
-  YOU MUST manually reset statistics after this operation:
-    → Open QuizMe → Stats tab → Reset All Statistics
-    OR the app will detect orphaned stats and prompt you.
-
-  Your Gist backup will also be outdated after renumber.
+  All accumulated statistics (accuracy, SRS, mastery) will be
+  orphaned. The app will detect this and prompt you to reset.
   ─────────────────────────────────────────────────────────────────
     """)
     confirm = input("  Type YES to proceed (anything else cancels): ").strip()
@@ -382,8 +379,8 @@ def mode_renumber():
   ⚠  ACTION REQUIRED IN QUIZME:
      Your statistics are now outdated.
 
-     Open QuizMe → Stats tab → Reset All Statistics
-     The app will detect and prompt you automatically.
+     Open QuizMe → Settings → Danger Zone → Reset MCQ Statistics
+     OR the app will detect orphaned stats and prompt you.
   ══════════════════════════════════════════════════════
     """)
     # Re-run convert automatically
