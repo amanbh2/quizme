@@ -481,7 +481,7 @@ function buildFiltered() {
     filteredIndexes = [];
     const now = Math.floor(Date.now() / 1000);
     const subSelect = document.getElementById('subtopic-select');
-    const selectedSubtopic = subSelect ? subSelect.value : 'all';
+    const selectedSubtopic = (subSelect && subSelect.value) ? subSelect.value : 'all';
 
     for (let i = 0; i < questions.length; i++) {
         const q = questions[i];
@@ -549,6 +549,12 @@ function switchTab(tab) {
     if (tab === 'dashboard') renderDashboard();
     if (tab === 'stats') renderStatsTab();
     if (tab === 'info')  renderInfoTab();
+    
+    // Auto-start quiz if navigating to the tab and no questions are loaded yet
+    if (tab === 'quiz' && questions.length === 0 && Object.keys(subjectQuestions).length > 0) {
+        questions = subjectQuestions[currentSubject] || subjectQuestions['all'] || [];
+        startQuiz();
+    }
 }
 
 /* ── BPSC Prelims Upgrade: SRS, Sub-topics & Dashboard Helpers ── */

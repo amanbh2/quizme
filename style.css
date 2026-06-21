@@ -340,13 +340,14 @@ a:hover { color: var(--accent); }
     margin: 0 auto;
     padding: 20px 16px 0;
 }
-#tab-stats, #tab-info {
+#tab-dashboard, #tab-stats, #tab-info {
     max-width: 760px;
     margin: 0 auto;
     padding: 24px 16px 0;
 }
 @media (min-width: 768px) {
     #tab-quiz  { padding: 28px 20px 0; }
+    #tab-dashboard,
     #tab-stats,
     #tab-info  { padding: 28px 28px 0; }
 }
@@ -1143,16 +1144,18 @@ select#subject-select {
     margin-bottom: 30px;
 }
 .db-section-title {
-    font-size: 14px;
-    font-family: 'DM Mono', monospace;
-    letter-spacing: 1.2px;
-    text-transform: uppercase;
-    color: var(--text-dim);
+    font-family: 'Fraunces', serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text);
     margin-bottom: 16px;
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 9px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border-soft);
 }
+.db-section-title i { color: var(--accent); font-size: 14px; }
 .db-subject-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));

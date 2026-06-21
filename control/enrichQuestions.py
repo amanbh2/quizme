@@ -36,7 +36,13 @@ def main():
     print("[QuizMe Question Enricher - Gemini AI Studio Free Tier]")
     print("=========================================================")
 
-    # Get API Key
+    # Get API Key (supports .env files via python-dotenv)
+    try:
+        from dotenv import load_dotenv
+        load_dotenv(os.path.join(BASE_DIR, '.env'))
+    except ImportError:
+        pass
+
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("GEMINI_API_KEY environment variable not set.")
