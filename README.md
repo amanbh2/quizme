@@ -1,4 +1,4 @@
-<span class="version-badge">QuizMe v5.3</span>
+<span class="version-badge">QuizMe v6.0</span>
 
 # 🧠 Welcome to QuizMe
 
@@ -44,8 +44,8 @@ Tap any option to submit your answer. Correct answers will automatically advance
   </tbody>
 </table>
 
-### Flagging Questions
-Tap the warning button `⚠` on any question card to flag it for manual review. Flagged questions are grouped and displayed inside the **Stats** tab, where they can be copied or individually reviewed.
+### Bookmarking Questions
+Tap the bookmark button `🔖` on any question card to bookmark it for manual review. Bookmarked questions are grouped and displayed inside the **Settings** tab under **Data Management**, where you can copy individual question texts, copy all bookmarked question details, or remove them.
 
 ---
 
@@ -54,14 +54,14 @@ Tap the warning button `⚠` on any question card to flag it for manual review. 
 You can change practice modes instantly via the **⚙️ Settings** tab:
 
 - **Normal Mode**: Uses weighted random selection where weaker questions (lower accuracy) appear more frequently.
-- **Weak Mode**: Filters the database to only practice questions with accuracy below 60%, or questions never attempted.
+- **Weak Mode**: Filters the database to practice only questions with accuracy below 60%, or questions never attempted.
 - **Unseen Mode**: Practice only questions you have never attempted.
 - **SRS Mode (Spaced Repetition System)**: Schedules questions dynamically based on memory retention intervals.
 - **Revision Mode**: Rapid-fire practice containing only mastered questions (4+ consecutive correct). Auto-advances in 1.5 seconds. Stats are not recorded in this mode.
 
 ---
 
-## <i class="fa-solid fa-chart-bar"></i> Understanding Your Stats
+## <i class="fa-solid fa-chart-line"></i> Understanding Your Stats
 
 QuizMe aggregates attempts locally to calculate mastery metrics:
 
@@ -78,9 +78,6 @@ QuizMe aggregates attempts locally to calculate mastery metrics:
 - **Weak** (Red): Accuracy < 50%.
 - **Stale** (Clock icon): Mastered, but not reviewed in 30+ days.
 
-### Exam Readiness Score
-A combined metric based on subject-wise coverage and mastery distribution. Target an readiness score of **75%** before exam day.
-
 ---
 
 ## <i class="fa-solid fa-palette"></i> Customize & Themes
@@ -94,18 +91,3 @@ Personalize your workspace with the built-in Theme Engine:
   - **Modern Pink**: Contemporary rose-pink accent.
 - **Custom Theme**: Pick custom **Accent**, **Background**, and **Text** colors using native color pickers under Settings.
 - **Retractable Sidebar**: Collapse the left sidebar on desktop for a distraction-free view. Hovering over sidebar icons reveals tooltip labels.
-
----
-
-## <i class="fa-solid fa-cloud-arrow-up"></i> Sync & Backup
-
-Your statistics are saved locally on your device. Connect a free private **GitHub Gist** to back up and sync stats across devices safely:
-
-> **Step 1 — Create a GitHub Token**  
-> Visit `github.com/settings/tokens`, click *Generate new token (classic)*, check ONLY the `gist` scope, and copy your token.
-
-> **Step 2 — Connect Gist in QuizMe**  
-> Go to the **⚙️ Settings** tab inside QuizMe, paste your token, leave Gist ID blank, and click *Connect*. A private Gist is automatically created.
-
-> **Step 3 — Add to Other Devices**  
-> On your second device, paste the same token and the generated Gist ID to sync stats automatically. Syncing occurs in the background every 30 seconds.

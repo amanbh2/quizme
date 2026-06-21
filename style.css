@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════════
-   QUIZME v5.1 — Scholar's Notebook
+   QUIZME v6.0 — Scholar's Notebook
    Responsive: Left sidebar (≥768px) · Bottom nav (<768px)
    ═══════════════════════════════════════════════════════════════ */
 
@@ -673,7 +673,7 @@ select#subject-select {
 .badge-strong { background: var(--correct-bg);   color: var(--correct);     border: 1px solid var(--correct); }
 .badge-stale  { background: var(--warn-bg);      color: var(--warn);        border: 1px solid var(--warn); }
 
-/* Bookmark/flag button */
+/* Bookmark button */
 .flag-btn {
     background: transparent; border: none;
     color: var(--text-dim); font-size: 14px;
@@ -682,6 +682,16 @@ select#subject-select {
 }
 .flag-btn:hover  { color: var(--warn); }
 .flag-btn.flagged { color: var(--warn); }
+
+/* Copy card button */
+.copy-btn-card {
+    background: transparent; border: none;
+    color: var(--text-dim); font-size: 14px;
+    cursor: pointer; padding: 2px 4px; border-radius: 5px; line-height: 1;
+    flex-shrink: 0;
+    transition: color 0.15s;
+}
+.copy-btn-card:hover { color: var(--accent); }
 
 /* Question text */
 .question {
@@ -2825,6 +2835,92 @@ select#subject-select {
 .settings-wipe-btn:hover {
     background: transparent;
     color: var(--wrong);
+}
+.settings-wipe-btn.outline {
+    background: transparent;
+    color: var(--wrong);
+    border: 1.5px solid var(--wrong);
+}
+.settings-wipe-btn.outline:hover {
+    background: var(--wrong);
+    color: #fff;
+}
+
+/* Settings Flagged List Styles */
+.settings-flagged-list-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    max-height: 280px;
+    overflow-y: auto;
+    border: 1px solid var(--border-soft);
+    border-radius: 10px;
+    padding: 10px;
+    background: var(--bg-alt);
+    margin-bottom: 12px;
+}
+.flagged-list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 14px;
+    background: var(--surface);
+    border: 1px solid var(--border-soft);
+    border-radius: 8px;
+    transition: transform 0.15s, border-color 0.15s;
+}
+.flagged-list-item:hover {
+    border-color: var(--accent);
+}
+.flagged-item-body {
+    flex: 1;
+    min-width: 0;
+}
+.flagged-item-meta {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    color: var(--text-dim);
+    display: block;
+    margin-bottom: 2px;
+}
+.flagged-item-question {
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.4;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 0;
+}
+.flagged-item-actions {
+    display: flex;
+    gap: 6px;
+    flex-shrink: 0;
+}
+.flagged-action-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    background: var(--bg-alt);
+    border: 1px solid var(--border-soft);
+    border-radius: 6px;
+    color: var(--text-muted);
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.15s;
+}
+.flagged-action-btn:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+    background: var(--accent-light);
+}
+.flagged-action-btn.unflag-q-btn:hover {
+    color: var(--wrong);
+    border-color: var(--wrong);
+    background: var(--wrong-bg);
 }
 
 

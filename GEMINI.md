@@ -11,7 +11,7 @@ We propose organizing the repository using a **Hybrid Layout** (keeping frontend
 ```
 quizme/
 ├── index.html                  # Frontend Shell
-├── script.js                   # Application Logic (Stats, Gist Sync, Audio)
+├── script.js                   # Application Logic (Stats, Bookmarks, Audio)
 ├── style.css                   # Custom Vanilla Styles
 ├── sw.js                       # Offline Caching Service Worker
 ├── manifest.json               # Web App Manifest
@@ -88,22 +88,16 @@ Your CSV files currently map to the following JSON counts (from [database.txt](f
 
 ## 🎯 Active Checklist & Progress Tracker
 
-- [x] Create the `knowledge-base/history/ancient-history/` directory structure and [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/history/ancient-history/topics.md).
-- [x] Move all symlinks and CSV files to `control/` directory and create the new CSV conversion script.
-- [x] Create directory structures and templates for `medieval-history` and `modern-history`.
-- [x] Align and integrate ancient/prehistoric PYQs into the ancient [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/history/ancient-history/topics.md) checklist in chronological order.
-- [x] Create directory structures and template READMEs for `bihar-specific`, `geography`, `polity`, `economy`, `science-tech`, and `current-affairs` notes.
-- [x] Align tags in `control/tag_rules.json` with the structure of your notes.
-- [x] Split checklist index files from detailed study notes (use `notes/` subfolders for modularity).
-- [x] Create the `reports-surveys/` directory structure, fact-check the Census notes, and establish modular notes for India and Bihar Census 2011.
-- [x] Create comprehensive Geography [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/geography/topics.md) checklist (14 sections, ~249 topics, with NCERT chapter-level references).
-- [x] Create the History Timeline tab featuring BCE/CE toggle, milestone quick jump bar, compressed layout, and offline support.
-- [x] Isolate timeline database inside `data/timeline/` and update Python generator script.
-- [x] Add the interactive Study & Prep Hub tab to the web application shell (featuring dynamic markdown checklists, status/importance filtering, notes drawer, and MCQ practice quiz links).
 - [x] Merge the legacy Dashboard and Study & Prep Hub into a unified Study & Prep Hub home screen. Reorder tabs to: Prep, Timeline, Quiz, Stats, Settings, Info and update the Quiz icon to fa-graduation-cap.
 - [x] Exchange Prep and Quiz icons (Prep = fa-graduation-cap, Quiz = fa-list-check), update Stats icon to fa-chart-line, and add sliding slider transitions to Timeline era selection.
-- [x] Verify Stats page dynamic alignment with all active databases (using dynamic availableSheets mapping).
 - [x] Add a Danger Zone panel in the Settings tab to wipe local storage, unregister Service Workers, delete CacheStorage caches, and reload the application from the network.
+- [x] Drop the separate Stats tab completely, relocating stats health alerts to the Prep hub and data management/reset options to the Settings tab.
+- [x] Add the "Exclude Flagged Questions" toggle under settings to prevent flagged questions (typos/irrelevant) from appearing in active quiz sessions.
+- [x] Replace the flagging button exclamation icon with standard regular/solid bookmark (fa-bookmark) state changes.
+- [x] Add a dynamic flagged questions list in the Settings tab (complete with individual question copy-text and unflag actions).
+- [x] Regroup Reset MCQ Statistics and Wipe App buttons under a unified Danger Zone card with clear descriptive differences and outline button styling.
+- [x] Add a copy button to quiz question cards to easily copy the MCQ question text.
+- [x] Remove Gist sync and backup functionality completely from the application and settings panel.
 
 
 

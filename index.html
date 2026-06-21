@@ -38,16 +38,13 @@
     <nav class="sidebar-nav">
         <button class="nav-item active" data-tab="prep" data-tooltip="Prep">
             <i class="fa-solid fa-graduation-cap"></i><span>Prep</span>
+            <span class="nav-badge" id="prep-nav-badge" style="display:none"></span>
         </button>
         <button class="nav-item" data-tab="timeline" data-tooltip="Timeline">
             <i class="fa-solid fa-timeline"></i><span>Timeline</span>
         </button>
         <button class="nav-item" data-tab="quiz" data-tooltip="Quiz">
             <i class="fa-solid fa-list-check"></i><span>Quiz</span>
-        </button>
-        <button class="nav-item" data-tab="stats" data-tooltip="Stats">
-            <i class="fa-solid fa-chart-line"></i><span>Stats</span>
-            <span class="nav-badge" id="stats-nav-badge" style="display:none"></span>
         </button>
         <button class="nav-item" data-tab="settings" data-tooltip="Settings">
             <i class="fa-solid fa-gears"></i><span>Settings</span>
@@ -139,131 +136,6 @@
 
     </div>
 
-    <!-- ── TAB: STATS ─────────────────────────────────── -->
-    <div id="tab-stats" class="tab-page">
-
-        <div id="stats-health-alert" style="display:none"></div>
-
-        <!-- Empty state -->
-        <div id="stats-empty" style="display:none">
-            <div class="stats-empty-wrap">
-                <i class="fa-solid fa-chart-line stats-empty-icon"></i>
-                <h3>No stats yet</h3>
-                <p>Start answering questions to see your performance data here.</p>
-                <button class="go-quiz-btn" id="go-quiz-btn">
-                    <i class="fa-solid fa-list-check"></i> Go to Quiz
-                </button>
-            </div>
-        </div>
-
-        <!-- Stats content (hidden until data exists) -->
-        <div id="stats-content">
-
-            <div id="exam-countdown-card" class="exam-card" style="display:none">
-                <div class="exam-card-left">
-                    <span class="exam-days" id="exam-days-left">—</span>
-                    <span class="exam-days-label">days to exam</span>
-                </div>
-                <div class="exam-card-right">
-                    <span class="exam-name" id="exam-name-display">BPSC</span>
-                    <span class="exam-target" id="exam-daily-target"></span>
-                </div>
-            </div>
-
-            <div class="sp-section">
-                <h3 class="sp-section-title"><i class="fa-solid fa-bullseye"></i> Exam Readiness</h3>
-                <div class="readiness-wrap">
-                    <div class="readiness-score-row">
-                        <span class="readiness-score" id="readiness-score">0%</span>
-                        <span class="readiness-target">Target: 75%</span>
-                    </div>
-                    <div class="readiness-bar-track">
-                        <div class="readiness-bar-fill" id="readiness-bar"></div>
-                        <div class="readiness-target-line"></div>
-                    </div>
-                    <div class="readiness-breakdown" id="readiness-breakdown"></div>
-                </div>
-            </div>
-
-            <div class="sp-section">
-                <h3 class="sp-section-title"><i class="fa-solid fa-chart-pie"></i> Overview</h3>
-                <div class="sp-overview-grid">
-                    <div class="sp-stat-card"><span class="sp-stat-val" id="ov-attempts">0</span><span class="sp-stat-lbl">Attempts</span></div>
-                    <div class="sp-stat-card"><span class="sp-stat-val sp-correct" id="ov-correct">0</span><span class="sp-stat-lbl">Correct</span></div>
-                    <div class="sp-stat-card"><span class="sp-stat-val sp-wrong" id="ov-wrong">0</span><span class="sp-stat-lbl">Wrong</span></div>
-                    <div class="sp-stat-card"><span class="sp-stat-val sp-accent" id="ov-accuracy">0%</span><span class="sp-stat-lbl">Accuracy</span></div>
-                    <div class="sp-stat-card sp-wide">
-                        <span class="sp-stat-val" id="ov-unique">0</span>
-                        <span class="sp-stat-lbl">Unique Questions Attempted</span>
-                    </div>
-                </div>
-                <div class="sp-best-worst">
-                    <div class="sp-bw-card">
-                        <span class="sp-bw-label"><i class="fa-solid fa-trophy"></i> Strongest</span>
-                        <span class="sp-bw-subject" id="strongest-subject">—</span>
-                        <span class="sp-bw-pct" id="strongest-pct">—</span>
-                    </div>
-                    <div class="sp-bw-card">
-                        <span class="sp-bw-label"><i class="fa-solid fa-triangle-exclamation"></i> Weakest</span>
-                        <span class="sp-bw-subject" id="weakest-subject">—</span>
-                        <span class="sp-bw-pct" id="weakest-pct">—</span>
-                    </div>
-                </div>
-            </div>
-
-            <div class="sp-section">
-                <h3 class="sp-section-title"><i class="fa-solid fa-layer-group"></i> Mastery</h3>
-                <div class="mastery-bar-wrap" id="mastery-bar-wrap"></div>
-                <div class="mastery-legend" id="mastery-legend"></div>
-            </div>
-
-            <div class="sp-section">
-                <h3 class="sp-section-title"><i class="fa-solid fa-map-pin"></i> Focus Today</h3>
-                <div id="sp-focus-list"></div>
-            </div>
-
-            <div class="sp-section">
-                <h3 class="sp-section-title"><i class="fa-solid fa-fire"></i> Subject Heatmap</h3>
-                <div class="sp-legend">
-                    <span class="pill-strong">Strong ≥75%</span>
-                    <span class="pill-avg">Average 50–74%</span>
-                    <span class="pill-weak">Weak &lt;50%</span>
-                    <span class="pill-untouched">Untouched</span>
-                </div>
-                <p class="sp-hint">Tap a subject to practice it in Weak mode</p>
-                <div class="sp-heatmap" id="sp-heatmap"></div>
-            </div>
-
-            <div class="sp-section">
-                <h3 class="sp-section-title"><i class="fa-solid fa-bars"></i> Subject Breakdown</h3>
-                <div class="sp-bars" id="sp-bars"></div>
-            </div>
-
-            <div class="sp-section">
-                <h3 class="sp-section-title"><i class="fa-solid fa-flag"></i> Flagged for Review</h3>
-                <div id="sp-flagged-list"></div>
-                <button class="sp-copy-btn" id="sp-copy-flagged" style="display:none">
-                    <i class="fa-solid fa-clipboard"></i> Copy all flagged
-                </button>
-            </div>
-
-            <div class="sp-section">
-                <h3 class="sp-section-title"><i class="fa-solid fa-fingerprint"></i> QID Health</h3>
-                <div id="sp-qid-health"></div>
-            </div>
-
-            <div class="sp-section sp-reset-section">
-                <button id="sp-reset-btn" class="sp-reset-btn">
-                    <i class="fa-solid fa-trash-can"></i> Reset All Statistics
-                </button>
-                <p class="sp-hint" style="margin-top:8px;text-align:center">
-                    Gist backup is not affected by reset.
-                </p>
-            </div>
-
-        </div>
-    </div>
-
     <!-- ── TAB: TIMELINE ───────────────────────────────── -->
     <div id="tab-timeline" class="tab-page">
         <div class="timeline-hero">
@@ -310,7 +182,7 @@
                         <p class="master-progress-meta" id="prep-master-meta">0 of 0 topics completed</p>
                         <div style="display: flex; gap: 8px; flex-wrap: wrap;">
                             <button class="prep-export-btn" id="prep-export-btn" title="Copy checklist git patch or markdown updates">
-                                <i class="fa-solid fa-file-export"></i> Sync Progress File
+                                <i class="fa-solid fa-file-export"></i> Export Progress
                             </button>
                             <button class="prep-reset-btn" id="prep-clear-btn" title="Reset all checked/unchecked topic progress">
                                 <i class="fa-solid fa-trash-can"></i> Reset Progress
@@ -346,6 +218,9 @@
                 </div>
             </div>
         </div>
+        
+        <!-- Health check alerts are rendered here dynamically -->
+        <div id="stats-health-alert" style="display:none; margin-bottom: 20px;"></div>
 
         <!-- SUBJECT CARDS GRID (DASHBOARD) -->
         <div class="prep-dashboard-view" id="prep-dashboard-view">
@@ -492,6 +367,13 @@
                         <span class="toggle-slider"></span>
                     </div>
                 </label>
+                <label class="toggle-row" style="margin-top:10px">
+                    <span class="toggle-label">Exclude flagged questions</span>
+                    <div class="toggle-switch">
+                        <input type="checkbox" id="exclude-flagged-toggle" checked>
+                        <span class="toggle-slider"></span>
+                    </div>
+                </label>
             </div>
 
             <!-- Exam Setup -->
@@ -506,30 +388,45 @@
                 </div>
             </div>
 
-            <!-- Sync & Backup -->
+
+
+            <!-- Data Management -->
             <div class="settings-section-page">
-                <h3 class="settings-section-title"><i class="fa-solid fa-cloud-arrow-up"></i> Sync & Backup</h3>
-                <div class="sync-status-row">
-                    <span class="sync-dot" id="sync-dot"></span>
-                    <span class="sync-status-badge" id="sync-status">Not connected</span>
+                <h3 class="settings-section-title"><i class="fa-solid fa-database"></i> Data Management</h3>
+                
+                <div class="settings-group">
+                    <p class="settings-subsection-label" style="margin-top: 0;">FLAGGED QUESTIONS</p>
+                    <p class="settings-hint" style="margin-bottom: 12px;">Review questions you have flagged. You can copy individual questions, copy the whole list of IDs, or unflag them.</p>
+                    
+                    <div id="settings-flagged-list" class="settings-flagged-list-container">
+                        <!-- Flagged questions will be rendered here dynamically -->
+                    </div>
+                    
+                    <button id="sp-copy-flagged" class="settings-save-btn">
+                        <i class="fa-solid fa-clipboard-list"></i> Copy All Flagged IDs
+                    </button>
                 </div>
-                <input type="password" id="gist-token" placeholder="GitHub Personal Access Token" class="settings-input" autocomplete="off">
-                <input type="text" id="gist-id-input" placeholder="Gist ID (auto-created if blank)" class="settings-input">
-                <div class="sync-btn-row">
-                    <button id="gist-connect-btn" class="settings-save-btn">Connect</button>
-                    <button id="gist-disconnect-btn" class="settings-ghost-btn">Disconnect</button>
-                </div>
-                <p class="settings-hint">Need help? See <button class="link-btn" id="go-to-info-sync">Sync Setup guide</button> in Info tab.</p>
             </div>
 
-            <!-- Danger Zone / Wipe App -->
+            <!-- Danger Zone -->
             <div class="settings-section-page settings-danger-zone">
                 <h3 class="settings-section-title"><i class="fa-solid fa-radiation"></i> Danger Zone</h3>
-                <p class="settings-subsection-label">APP WIPE & CACHE RESET</p>
-                <p class="settings-hint danger-hint">This will wipe all statistics, syllabus checklist progress, configuration, custom themes, and offline cache, then reload the application from the network.</p>
-                <button id="settings-wipe-btn" class="settings-wipe-btn">
-                    <i class="fa-solid fa-trash-can"></i> Wipe App & Clear Cache
-                </button>
+                
+                <div class="settings-group" style="margin-bottom: 24px;">
+                    <p class="settings-subsection-label" style="margin-top: 0; color: var(--wrong);">Reset MCQ Statistics</p>
+                    <p class="settings-hint danger-hint" style="margin-bottom: 12px;">Wipe all practice history (accuracies, attempts, SRS reviews). Your syllabus checklist progress, themes, and Gist sync credentials are preserved.</p>
+                    <button id="sp-reset-btn" class="settings-wipe-btn outline">
+                        <i class="fa-solid fa-trash-can"></i> Reset MCQ Statistics
+                    </button>
+                </div>
+                
+                <div class="settings-group">
+                    <p class="settings-subsection-label" style="margin-top: 0; color: var(--wrong);">App Wipe & Cache Reset</p>
+                    <p class="settings-hint danger-hint" style="margin-bottom: 12px;">Complete reset: wipes all local storage (stats, checklists, themes, credentials), unregisters service workers, clears cached databases, and reloads from the network.</p>
+                    <button id="settings-wipe-btn" class="settings-wipe-btn">
+                        <i class="fa-solid fa-trash-can"></i> Wipe App & Clear Cache
+                    </button>
+                </div>
             </div>
 
         </div>
@@ -544,16 +441,13 @@
     <div class="bottom-nav-scrollable">
         <button class="bottom-nav-item active" data-tab="prep">
             <i class="fa-solid fa-graduation-cap"></i><span>Prep</span>
+            <span class="nav-badge" id="prep-bottom-badge" style="display:none"></span>
         </button>
         <button class="bottom-nav-item" data-tab="timeline">
             <i class="fa-solid fa-timeline"></i><span>Timeline</span>
         </button>
         <button class="bottom-nav-item" data-tab="quiz">
             <i class="fa-solid fa-list-check"></i><span>Quiz</span>
-        </button>
-        <button class="bottom-nav-item" data-tab="stats">
-            <i class="fa-solid fa-chart-line"></i><span>Stats</span>
-            <span class="nav-badge" id="stats-bottom-badge" style="display:none"></span>
         </button>
         <button class="bottom-nav-item" data-tab="settings">
             <i class="fa-solid fa-gears"></i><span>Settings</span>

@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════════════
-//  QuizMe  script.js  v5.1
-//  Stats engine · Mastery · Gist sync (differential) · Audio
+//  QuizMe  script.js  v6.0
+//  Stats engine · Mastery · Bookmarks · Audio
 //  Optimised storage · Health checks · Info TOC · Heatmap drill
 // ═══════════════════════════════════════════════════════════════
 
@@ -15,18 +15,16 @@ function safeParseJSON(key, fallback) {
     catch(e) { return fallback; }
 }
 function saveStats()   { localStorage.setItem('qm-stats-v2',  JSON.stringify(questionStats)); statsDirty = true; }
-function saveConfig()  { localStorage.setItem('qm-gist-config', JSON.stringify(gistConfig)); }
 function saveFlagged() { localStorage.setItem('qm-flagged', JSON.stringify(flaggedQ)); }
 
 /* ── Persistent state ────────────────────────────────────────── */
 let questionStats = safeParseJSON('qm-stats-v2',   {});
 let flaggedQ      = safeParseJSON('qm-flagged',     {});
 let srsReviews    = safeParseJSON('qm-srs',         {});
-let gistConfig    = safeParseJSON('qm-gist-config', { token:'', gistId:'' });
-let syncQueue     = safeParseJSON('qm-sync-queue',  []);
 let examConfig    = safeParseJSON('qm-exam',        { name:'', date:'' });
 let negMarking    = localStorage.getItem('qm-neg-marking') === 'true';
 let soundEnabled  = localStorage.getItem('qm-sound') !== 'false'; // default on
+let excludeFlagged = localStorage.getItem('qm-exclude-flagged') !== 'false'; // default on
 
 /* ── Runtime state ───────────────────────────────────────────── */
 let questions            = [];
@@ -163,7 +161,6 @@ function recordAnswer(subject, qid, isCorrect) {
     else           { s.w++; s.k = 0; }
 
     saveStats();
-    queueSync({ q:qid, s:subject, r:isCorrect?1:0, t:s.t });
 
     // --- SRS Spaced Repetition Logic ---
     const now = Math.floor(Date.now() / 1000);
@@ -342,7 +339,7 @@ function runHealthCheck() {
             [
                 { label:'Clean up', cls:'btn-cleanup', action: () => {
                     orphans.forEach(k => delete questionStats[k]);
-                    saveStats(); hideHealthAlert(); renderStatsTab(true);
+                    saveStats(); hideHealthAlert(); renderPrepTab();
                 }},
                 { label:'Dismiss', cls:'btn-dismiss', action: hideHealthAlert }
             ]);
@@ -373,7 +370,7 @@ function hideHealthAlert() {
     if (el) el.style.display = 'none';
 }
 function showHealthBadge() {
-    ['stats-nav-badge','stats-bottom-badge'].forEach(id => {
+    ['prep-nav-badge','prep-bottom-badge'].forEach(id => {
         const e = document.getElementById(id); if (e) e.style.display = 'inline-block';
     });
 }
@@ -382,97 +379,13 @@ function doReset() {
     questionStats = {};
     saveStats();
     hideHealthAlert();
-    ['stats-nav-badge','stats-bottom-badge'].forEach(id => {
+    ['prep-nav-badge','prep-bottom-badge'].forEach(id => {
         const e = document.getElementById(id); if (e) e.style.display = 'none';
     });
-    renderStatsTab(true);
     renderPrepTab();
 }
 
-// ═══════════════════════════════════════════════════════════════
-//  GIST SYNC  (differential — sends only changed QID)
-// ═══════════════════════════════════════════════════════════════
-
-const SYNC_BATCH_INTERVAL = 30000; // 30s
-const SYNC_QUEUE_CAP      = 500;
-
-function queueSync(entry) {
-    if (!gistConfig.token || !gistConfig.gistId) return;
-    syncQueue.push(entry);
-    if (syncQueue.length > SYNC_QUEUE_CAP) syncQueue = syncQueue.slice(-SYNC_QUEUE_CAP);
-    localStorage.setItem('qm-sync-queue', JSON.stringify(syncQueue));
-    // Batch: debounce to avoid hammering API
-    clearTimeout(syncTimer);
-    syncTimer = setTimeout(flushSync, SYNC_BATCH_INTERVAL);
-}
-
-async function flushSync() {
-    if (!gistConfig.token || !gistConfig.gistId || !syncQueue.length) return;
-    clearTimeout(syncTimer);
-    try {
-        setSyncUI('busy');
-        // Fetch existing gist
-        const res = await fetch(`https://api.github.com/gists/${gistConfig.gistId}`,
-            { headers: { Authorization: `token ${gistConfig.token}`, Accept: 'application/vnd.github.v3+json' } });
-        if (!res.ok) throw new Error('fetch');
-        const gist     = await res.json();
-        const existing = gist.files['quizme-stats.json']
-            ? JSON.parse(gist.files['quizme-stats.json'].content)
-            : { stats:{}, history:[], flagged:{} };
-
-        // Differential merge: only update changed QIDs from syncQueue
-        const changedQIDs = [...new Set(syncQueue.map(e => e.q).filter(Boolean))];
-        changedQIDs.forEach(qid => {
-            if (questionStats[qid]) existing.stats[qid] = questionStats[qid];
-            else delete existing.stats[qid];
-        });
-        existing.flagged  = flaggedQ;
-        existing.history  = [...(existing.history||[]), ...syncQueue].slice(-500);
-        existing.lastSync = Math.floor(Date.now()/1000);
-
-        const upd = await fetch(`https://api.github.com/gists/${gistConfig.gistId}`,
-            { method: 'PATCH',
-              headers: { Authorization: `token ${gistConfig.token}`,
-                         'Content-Type': 'application/json',
-                         Accept: 'application/vnd.github.v3+json' },
-              body: JSON.stringify({ files: { 'quizme-stats.json': {
-                  content: JSON.stringify(existing, null, 2)
-              }}})
-            });
-        if (!upd.ok) throw new Error('update');
-        syncQueue = [];
-        localStorage.setItem('qm-sync-queue', '[]');
-        setSyncUI('ok');
-    } catch(e) { setSyncUI('err'); }
-}
-
-async function createGist(token) {
-    const res = await fetch('https://api.github.com/gists',
-        { method: 'POST',
-          headers: { Authorization: `token ${token}`, 'Content-Type': 'application/json',
-                     Accept: 'application/vnd.github.v3+json' },
-          body: JSON.stringify({
-              description: 'QuizMe Statistics Backup', public: false,
-              files: { 'quizme-stats.json': {
-                  content: JSON.stringify({ stats: questionStats, flagged: flaggedQ,
-                                            history: [], lastSync: Math.floor(Date.now()/1000) }, null, 2)
-              }}
-          })
-        });
-    if (!res.ok) throw new Error('Failed to create Gist');
-    return (await res.json()).id;
-}
-
-function setSyncUI(status) {
-    const dot   = document.getElementById('sync-dot');
-    const badge = document.getElementById('sync-status');
-    if (!dot || !badge) return;
-    const map = { ok:['ok','✓ Synced'], busy:['busy','↻ Syncing…'], err:['err','⚠ Failed'], idle:['idle','Not connected'] };
-    const [cls, txt] = map[status] || map.idle;
-    dot.className     = `sync-dot ${cls}`;
-    badge.textContent = txt;
-    badge.className   = `sync-status-badge sync-${cls}`;
-}
+// Gist sync removed
 
 // ═══════════════════════════════════════════════════════════════
 //  QUIZ MODES
@@ -487,6 +400,11 @@ function buildFiltered() {
     for (let i = 0; i < questions.length; i++) {
         const q = questions[i];
         const qid = q.qid;
+
+        // Exclude Flagged Filter
+        if (excludeFlagged && flaggedQ[qid]) {
+            continue;
+        }
 
         // Sub-topic Filter
         if (selectedSubtopic !== 'all') {
@@ -551,9 +469,9 @@ function switchTab(tab) {
             b.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'nearest' });
         }
     });
-    if (tab === 'stats') renderStatsTab();
     if (tab === 'info')  renderInfoTab();
     if (tab === 'prep')  renderPrepTab();
+    if (tab === 'settings') renderSettingsFlaggedList();
     if (tab === 'timeline') {
         if (!timelineData) initTimeline();
         else renderTimeline();
@@ -768,271 +686,6 @@ function updateSubtopicDropdown() {
     });
     
     select.value = 'all';
-}
-
-// ═══════════════════════════════════════════════════════════════
-//  STATS TAB RENDERER  (with caching)
-// ═══════════════════════════════════════════════════════════════
-
-function renderStatsTab(force = false) {
-    const now = Date.now();
-    // Only re-render if stats changed or forced or 60s passed
-    if (!force && !statsDirty && (now - statsLastRendered) < 60000) return;
-    statsLastRendered = now;
-    statsDirty = false;
-
-    // Toggle empty state vs content
-    const empty   = document.getElementById('stats-empty');
-    const content = document.getElementById('stats-content');
-    if (empty && content) {
-        const hasData = hasAnyStats();
-        empty.style.display   = hasData ? 'none'  : 'block';
-        content.style.display = hasData ? 'block' : 'none';
-        if (!hasData) return;
-    }
-
-    renderExamCountdown();
-    renderReadiness();
-    renderOverview();
-    renderMastery();
-    renderFocusToday();
-    renderHeatmap();
-    renderBars();
-    renderFlagged();
-    renderQIDHealth();
-    runHealthCheck();
-}
-
-function renderExamCountdown() {
-    const card = document.getElementById('exam-countdown-card');
-    if (!examConfig.date) { if(card) card.style.display = 'none'; return; }
-    const days    = Math.max(0, Math.ceil((new Date(examConfig.date) - Date.now()) / 86400000));
-    const gap     = Math.max(0, 75 - getExamReadiness());
-    const daily   = days > 0 ? Math.ceil(gap / days * 3) : 0;
-    const set = (id,v) => { const e=document.getElementById(id); if(e) e.textContent=v; };
-    set('exam-days-left',    days);
-    set('exam-name-display', examConfig.name || 'Exam');
-    set('exam-daily-target', days > 0 ? `~${daily} questions/day to reach 75%` : 'Exam day!');
-    if (card) card.style.display = 'flex';
-}
-
-function renderReadiness() {
-    const score = getExamReadiness();
-    const el    = document.getElementById('readiness-score');
-    const bar   = document.getElementById('readiness-bar');
-    const bd    = document.getElementById('readiness-breakdown');
-    if (el)  el.textContent  = score + '%';
-    if (bar) bar.style.width = Math.min(score, 100) + '%';
-    if (bd) {
-        const subjects  = availableSheets.filter(s => s !== 'all.json');
-        const strong    = subjects.filter(s => { const st=getSubjectStats(s); return st.accuracy!==null&&st.accuracy>=75; }).length;
-        const weak      = subjects.filter(s => { const st=getSubjectStats(s); return st.accuracy!==null&&st.accuracy<50;  }).length;
-        const unseen    = subjects.filter(s => getSubjectStats(s).accuracy === null).length;
-        const {mastered} = getMasteryBreakdown();
-        bd.innerHTML = `
-            <span class="rb-item">💪 <span>${strong}</span> strong</span>
-            <span class="rb-item">⚠ <span>${weak}</span> weak</span>
-            <span class="rb-item">👁 <span>${unseen}</span> untouched</span>
-            <span class="rb-item">🎯 <span>${mastered}</span> mastered</span>`;
-    }
-}
-
-function renderOverview() {
-    const o   = getOverall();
-    const set = (id,v) => { const e=document.getElementById(id); if(e) e.textContent=v; };
-    set('ov-attempts', o.attempts);
-    set('ov-correct',  o.correct);
-    set('ov-wrong',    o.wrong);
-    set('ov-accuracy', o.accuracy + '%');
-    set('ov-unique',   o.uniqueQ);
-
-    const subjects = availableSheets.filter(s => s !== 'all.json')
-        .map(s => ({ name: formatSubject(s.replace('.json','')), ...getSubjectStats(s) }))
-        .filter(s => s.accuracy !== null);
-    if (subjects.length) {
-        const best  = subjects.reduce((a,b) => b.accuracy > a.accuracy ? b : a);
-        const worst = subjects.reduce((a,b) => b.accuracy < a.accuracy ? b : a);
-        set('strongest-subject', best.name);  set('strongest-pct', best.accuracy + '%');
-        set('weakest-subject',   worst.name); set('weakest-pct',   worst.accuracy + '%');
-    }
-}
-
-function renderMastery() {
-    const { mastered, familiar, learning } = getMasteryBreakdown();
-    const total  = Object.keys(questionStats).length;
-    const newQ   = Math.max(0, questions.length - total);
-    const grand  = total + newQ || 1;
-    const wrap   = document.getElementById('mastery-bar-wrap');
-    const leg    = document.getElementById('mastery-legend');
-    if (wrap) wrap.innerHTML = `
-        <div class="mastery-seg seg-mastered" style="width:${mastered/grand*100}%"></div>
-        <div class="mastery-seg seg-familiar" style="width:${familiar/grand*100}%"></div>
-        <div class="mastery-seg seg-learning" style="width:${learning/grand*100}%"></div>
-        <div class="mastery-seg seg-new"      style="width:${newQ/grand*100}%"></div>`;
-    if (leg) leg.innerHTML = [
-        ['seg-mastered', 'Mastered', mastered],
-        ['seg-familiar', 'Familiar', familiar],
-        ['seg-learning', 'Learning', learning],
-        ['seg-new',      'Not seen', newQ],
-    ].map(([seg,label,n]) =>
-        `<span class="mastery-leg-item"><span class="mastery-dot ${seg}"></span>${label} ${n}</span>`
-    ).join('');
-}
-
-function renderFocusToday() {
-    const list = getFocusToday();
-    const el   = document.getElementById('sp-focus-list');
-    if (!el) return;
-    if (!list.length) {
-        el.innerHTML = '<p class="sp-empty">All subjects looking good!</p>'; return;
-    }
-    el.innerHTML = list.map(f => `
-        <div class="focus-item">
-            <span class="focus-item-name">${f.name}</span>
-            <span class="focus-item-pct ${classifyAcc(f.accuracy)}">${f.accuracy!==null?f.accuracy+'%':'New'}</span>
-            <span class="focus-item-reason">${f.reason}</span>
-        </div>`).join('');
-}
-
-function renderHeatmap() {
-    const el = document.getElementById('sp-heatmap');
-    if (!el) return;
-    const subjects = availableSheets.filter(s => s !== 'all.json');
-    if (!subjects.length) { el.innerHTML = '<p class="sp-empty">No subjects loaded.</p>'; return; }
-    el.innerHTML = subjects.map(s => {
-        const st  = getSubjectStats(s);
-        const cls = classifyAcc(st.accuracy);
-        const name = formatSubject(s.replace('.json',''));
-        return `<div class="sp-heatmap-tile ${cls}" data-file="${s}" title="Tap to practice in Weak mode">
-            <span class="sp-tile-name">${name}</span>
-            <span class="sp-tile-acc">${st.accuracy!==null?st.accuracy+'%':'—'}</span>
-            <span class="sp-tile-att">${st.attempts} tries</span>
-            <span class="sp-tile-cov">${st.tracked} tracked</span>
-            <span class="tile-tap-hint">Practice →</span>
-        </div>`;
-    }).join('');
-    // Tap to practice
-    el.querySelectorAll('.sp-heatmap-tile').forEach(tile => {
-        tile.addEventListener('click', () => {
-            const file = tile.dataset.file;
-            if (!file) return;
-            // Switch to that subject in Weak mode
-            dataUrl        = 'data/' + file;
-            currentSubject = file.replace('.json','');
-            quizMode       = 'weak';
-            localStorage.setItem('qm-mode', 'weak');
-            // Update subject dropdown
-            const sel = document.getElementById('subject-select');
-            if (sel) sel.value = file;
-            // Update mode button in settings
-            document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
-            document.getElementById('mode-weak')?.classList.add('active');
-            updateModeDesc();
-            loadQuestions();
-            switchTab('quiz');
-        });
-    });
-}
-
-function renderBars() {
-    const el = document.getElementById('sp-bars');
-    if (!el) return;
-    const subjects = availableSheets
-        .filter(s => s !== 'all.json')
-        .map(s => ({ name: formatSubject(s.replace('.json','')), file: s, cls: classifyAcc(getSubjectStats(s).accuracy), accuracy: getSubjectStats(s).accuracy }))
-        .sort((a,b) => (a.accuracy??-1) - (b.accuracy??-1));
-    el.innerHTML = subjects.map(s => `
-        <div class="sp-bar-row" data-file="${s.file}">
-            <span class="sp-bar-label" title="${s.name}">${s.name}</span>
-            <div class="sp-bar-track">
-                <div class="sp-bar-fill ${s.cls}" style="width:${s.accuracy??0}%"></div>
-            </div>
-            <span class="sp-bar-pct">${s.accuracy!==null?s.accuracy+'%':'New'}</span>
-        </div>`).join('');
-    // Tap to practice
-    el.querySelectorAll('.sp-bar-row').forEach(row => {
-        row.addEventListener('click', () => {
-            const file = row.dataset.file;
-            if (!file) return;
-            dataUrl = 'data/' + file;
-            currentSubject = file.replace('.json','');
-            quizMode = 'weak';
-            localStorage.setItem('qm-mode', 'weak');
-            const sel = document.getElementById('subject-select');
-            if (sel) sel.value = file;
-            document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
-            document.getElementById('mode-weak')?.classList.add('active');
-            updateModeDesc();
-            loadQuestions();
-            switchTab('quiz');
-        });
-    });
-}
-
-function renderFlagged() {
-    const el    = document.getElementById('sp-flagged-list');
-    const cpBtn = document.getElementById('sp-copy-flagged');
-    if (!el) return;
-    const entries = Object.entries(flaggedQ);
-    if (!entries.length) {
-        el.innerHTML = '<p class="sp-empty">No flagged questions. Use the ⚠ button on any question to flag it.</p>';
-        if (cpBtn) cpBtn.style.display = 'none';
-        return;
-    }
-    if (cpBtn) cpBtn.style.display = 'flex';
-    el.innerHTML = entries.map(([qid, f]) => {
-        // Look up question text from loaded questions array
-        const q = questions.find(q => q.qid === qid);
-        const qText = q ? q.question : qid;
-        const subjectName = formatSubject(f.s || '');
-        const dateStr = f.t ? new Date(f.t * 1000).toLocaleDateString() : '';
-        return `<div class="sp-flagged-item">
-            <div>
-                <p class="sp-flagged-q">${qText}</p>
-                <span class="sp-flagged-meta">${qid} · ${subjectName} · ${dateStr}</span>
-            </div>
-            <button class="unflag-btn" data-qid="${qid}">Unflag</button>
-        </div>`;
-    }).join('');
-    el.querySelectorAll('.unflag-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-            delete flaggedQ[btn.dataset.qid];
-            saveFlagged();
-            renderFlagged();
-            // Update flag icon on card if visible
-            updateFlagOnCard(btn.dataset.qid);
-        });
-    });
-}
-
-function renderQIDHealth() {
-    const el = document.getElementById('sp-qid-health');
-    if (!el) return;
-    const allQIDs = questions.map(q => q.qid).filter(Boolean);
-    if (!allQIDs.length) {
-        el.innerHTML = '<p class="sp-empty">Run generateQsJSON.py convert to assign QIDs.</p>'; return;
-    }
-    const nums   = allQIDs.map(q => parseInt(q.slice(1))).filter(n => !isNaN(n));
-    const maxNum = Math.max(...nums);
-    const active = nums.length;
-    const full   = new Set(Array.from({length:maxNum}, (_,i) => i+1));
-    const gaps   = [...full].filter(n => !nums.includes(n));
-    const pct    = Math.round((active / maxNum) * 100);
-    el.innerHTML = `
-        <div class="qid-health-bar">
-            <span>Q00001</span>
-            <div class="qid-bar-track"><div class="qid-bar-fill" style="width:${pct}%"></div></div>
-            <span>Q${String(maxNum).padStart(5,'0')}</span>
-        </div>
-        <div class="qid-stats-row">
-            <div class="qid-stat"><strong>Q${String(maxNum).padStart(5,'0')}</strong>Max QID</div>
-            <div class="qid-stat"><strong>${active}</strong>Active</div>
-            <div class="qid-stat"><strong>${gaps.length}</strong>Gaps</div>
-        </div>
-        ${gaps.length
-            ? `<p class="qid-gaps-label">Gap QIDs:</p>
-               <div class="qid-gaps-wrap">${gaps.slice(0,20).map(n=>`<span class="qid-gap-pill">Q${String(n).padStart(5,'0')}</span>`).join('')}${gaps.length>20?`<span class="qid-gap-pill">+${gaps.length-20} more</span>`:''}</div>`
-            : '<p class="sp-empty" style="margin:0">No gaps — all QIDs active ✓</p>'}`;
 }
 
 // ═══════════════════════════════════════════════════════════════
@@ -1691,7 +1344,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // ── Navigation & Sidebar ───────────────────────────────────
     document.querySelectorAll('.nav-item, .bottom-nav-item').forEach(btn =>
         btn.addEventListener('click', () => switchTab(btn.dataset.tab)));
-    if (activeTab === 'dashboard') activeTab = 'prep';
+    if (activeTab === 'dashboard' || activeTab === 'stats') activeTab = 'prep';
     switchTab(activeTab);
 
     const sidebar = document.getElementById('sidebar');
@@ -1711,10 +1364,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // ── Settings Initialization ───────────────────────────────
     // Populate fields
-    const ti = document.getElementById('gist-token');
-    const gi = document.getElementById('gist-id-input');
-    if (ti) ti.value = gistConfig.token  || '';
-    if (gi) gi.value = gistConfig.gistId || '';
     const ni = document.getElementById('exam-name-input');
     const di = document.getElementById('exam-date-input');
     if (ni) ni.value = examConfig.name || '';
@@ -1740,7 +1389,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Toggles
     const nm = document.getElementById('neg-marking-toggle'); if (nm) nm.checked = negMarking;
     const st = document.getElementById('sound-toggle');       if (st) st.checked = soundEnabled;
-    setSyncUI(gistConfig.token && gistConfig.gistId ? 'ok' : 'idle');
+    const ef = document.getElementById('exclude-flagged-toggle'); if (ef) ef.checked = excludeFlagged;
+    // Gist sync settings display removed
 
     // ── Mode buttons ──────────────────────────────────────────
     ['normal','weak','unseen','srs','revision'].forEach(mode => {
@@ -1764,6 +1414,10 @@ document.addEventListener('DOMContentLoaded', () => {
         localStorage.setItem('qm-sound', soundEnabled);
         if (soundEnabled) { unlockAudio(); playSound('flag'); }
     });
+    document.getElementById('exclude-flagged-toggle')?.addEventListener('change', e => {
+        excludeFlagged = e.target.checked;
+        localStorage.setItem('qm-exclude-flagged', excludeFlagged);
+    });
 
     // ── Exam date ─────────────────────────────────────────────
     document.getElementById('exam-date-save')?.addEventListener('click', () => {
@@ -1777,51 +1431,16 @@ document.addEventListener('DOMContentLoaded', () => {
             confirm.classList.add('show');
             setTimeout(() => confirm.classList.remove('show'), 2000);
         }
-        if (activeTab === 'stats') renderExamCountdown();
     });
 
-    // ── Gist connect ──────────────────────────────────────────
-    document.getElementById('gist-connect-btn')?.addEventListener('click', async () => {
-        const token  = document.getElementById('gist-token')?.value.trim();
-        const gistId = document.getElementById('gist-id-input')?.value.trim();
-        const btn    = document.getElementById('gist-connect-btn');
-        if (!token) { alert('Please enter a GitHub Personal Access Token.'); return; }
-        btn.textContent = 'Connecting…'; btn.disabled = true;
-        try {
-            const finalId = gistId || await createGist(token);
-            if (!gistId) { const el = document.getElementById('gist-id-input'); if (el) el.value = finalId; }
-            gistConfig = { token, gistId: finalId };
-            saveConfig();
-            setSyncUI('ok');
-            btn.textContent = 'Connected ✓';
-        } catch(e) {
-            alert('Connection failed: ' + e.message);
-            setSyncUI('err');
-            btn.textContent = 'Connect'; btn.disabled = false;
-        }
-    });
-    document.getElementById('gist-disconnect-btn')?.addEventListener('click', () => {
-        if (!confirm('Disconnect sync? Local stats are kept.')) return;
-        gistConfig = { token:'', gistId:'' };
-        localStorage.removeItem('qm-gist-config');
-        ['gist-token','gist-id-input'].forEach(id => { const e=document.getElementById(id); if(e) e.value=''; });
-        setSyncUI('idle');
-        const cb = document.getElementById('gist-connect-btn');
-        if (cb) { cb.textContent = 'Connect'; cb.disabled = false; }
-    });
-
-    // ── Go to sync in Info ────────────────────────────────────
-    document.getElementById('go-to-info-sync')?.addEventListener('click', () => {
-        switchTab('info');
-        setTimeout(() => document.getElementById('sync')?.scrollIntoView({ behavior:'smooth' }), 150);
-    });
+    // Gist connect listeners removed
 
     // ── Stats reset ───────────────────────────────────────────
     document.getElementById('sp-reset-btn')?.addEventListener('click', doReset);
 
     // ── Wipe App & Clear Cache ────────────────────────────────
     document.getElementById('settings-wipe-btn')?.addEventListener('click', async () => {
-        if (!confirm('Are you absolutely sure you want to WIPE the application?\n\nThis will delete all study statistics, syllabus checklists progress, custom theme preferences, Gist sync tokens, and offline cached data. This cannot be undone!')) return;
+        if (!confirm('Are you absolutely sure you want to WIPE the application?\n\nThis will delete all study statistics, syllabus checklists progress, custom theme preferences, and offline cached data. This cannot be undone!')) return;
         if (!confirm('Double check: Wiping will clear everything and force-download from the server. Proceed?')) return;
         
         try {
@@ -1868,11 +1487,11 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('sp-copy-flagged')?.addEventListener('click', () => {
         const entries = Object.entries(flaggedQ);
         const lines   = entries.map(([qid, f]) => {
-            const q = questions.find(q => q.qid === qid);
+            const q = allQuestions.find(q => q.qid === qid);
             return `${qid} — ${formatSubject(f.s||'')} — ${q ? q.question : qid}`;
         });
         navigator.clipboard.writeText(lines.join('\n'))
-            .then(()  => alert('Copied to clipboard!'))
+            .then(()  => alert('Copied all flagged details to clipboard!'))
             .catch(()  => alert('Copy failed — try manually.'));
     });
 
@@ -1913,9 +1532,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initialize Prep Hub event listeners
     initPrepListeners();
 
-    // ── Online: flush queue ───────────────────────────────────
-    window.addEventListener('online', flushSync);
-    if (gistConfig.token && gistConfig.gistId && syncQueue.length) flushSync();
+    // Gist sync listeners removed
 });
 
 // ═══════════════════════════════════════════════════════════════
@@ -2058,15 +1675,29 @@ function showQuestion() {
         <div class="question-header">
             ${renderTagsHTML(q.tags)}
             <span class="q-acc-badge ${badgeCls}">${badgeTxt}</span>
+            <button class="copy-btn-card" id="copy-btn-card" data-qid="${qid}" title="Copy question text to clipboard">
+                <i class="fa-regular fa-copy"></i>
+            </button>
             <button class="flag-btn${isFlagged?' flagged':''}" id="flag-btn-card" data-qid="${qid}"
-                title="${isFlagged?'Unflag':'Flag for review'}">
-                <i class="fa-solid fa-triangle-exclamation" ${!isFlagged?'style="opacity: 0.6"':''}></i>
+                title="${isFlagged?'Remove bookmark':'Bookmark for review'}">
+                <i class="${isFlagged?'fa-solid':'fa-regular'} fa-bookmark" ${!isFlagged?'style="opacity: 0.6"':''}></i>
             </button>
         </div>
         <p class="question"></p>
         <div class="choices"></div>`;
 
     div.querySelector('.question').textContent = q.question;
+
+    // Copy handler
+    div.querySelector('#copy-btn-card')?.addEventListener('click', function() {
+        navigator.clipboard.writeText(q.question)
+            .then(() => {
+                const icon = this.querySelector('i');
+                icon.className = 'fa-solid fa-check';
+                setTimeout(() => icon.className = 'fa-regular fa-copy', 1500);
+            })
+            .catch(e => console.error('Copy failed:', e));
+    });
 
     // Flag handler
     div.querySelector('.flag-btn')?.addEventListener('click', function() {
@@ -2076,15 +1707,15 @@ function showQuestion() {
         if (flaggedQ[qidBtn]) {
             delete flaggedQ[qidBtn];
             this.classList.remove('flagged');
-            this.querySelector('i').className = 'fa-solid fa-triangle-exclamation';
+            this.querySelector('i').className = 'fa-regular fa-bookmark';
             this.querySelector('i').style.opacity = '0.6';
-            this.title = 'Flag for review';
+            this.title = 'Bookmark for review';
         } else {
             flaggedQ[qidBtn] = { s: currentSubject, t: Math.floor(Date.now()/1000) };
             this.classList.add('flagged');
-            this.querySelector('i').className = 'fa-solid fa-triangle-exclamation';
+            this.querySelector('i').className = 'fa-solid fa-bookmark';
             this.querySelector('i').style.opacity = '1';
-            this.title = 'Unflag';
+            this.title = 'Remove bookmark';
         }
         saveFlagged();
     });
@@ -2124,7 +1755,7 @@ function updateFlagOnCard(qid) {
     const isFlagged = !!flaggedQ[qid];
     btn.classList.toggle('flagged', isFlagged);
     const icon = btn.querySelector('i');
-    icon.className = 'fa-solid fa-triangle-exclamation';
+    icon.className = isFlagged ? 'fa-solid fa-bookmark' : 'fa-regular fa-bookmark';
     icon.style.opacity = isFlagged ? '1' : '0.6';
 }
 
@@ -3418,5 +3049,81 @@ function initPrepListeners() {
             renderPrepTab();
             alert('Syllabus progress reset successfully!');
         }
+    });
+}
+
+function escapeHTML(str) {
+    if (!str) return '';
+    return str
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+}
+
+function renderSettingsFlaggedList() {
+    const container = document.getElementById('settings-flagged-list');
+    if (!container) return;
+    
+    const entries = Object.entries(flaggedQ);
+    if (!entries.length) {
+        container.innerHTML = '<div class="sp-empty">No flagged questions.</div>';
+        return;
+    }
+    
+    entries.sort((a,b) => (b[1].t || 0) - (a[1].t || 0));
+    
+    let html = '';
+    entries.forEach(([qid, meta]) => {
+        const q = allQuestions.find(x => x.qid === qid);
+        const qText = q ? q.question : `[QID: ${qid}]`;
+        const subjName = formatSubject(meta.s || q?.subject || '');
+        
+        html += `
+            <div class="flagged-list-item" data-qid="${qid}">
+                <div class="flagged-item-body">
+                    <span class="flagged-item-meta">${subjName} (${qid})</span>
+                    <p class="flagged-item-question">${escapeHTML(qText)}</p>
+                </div>
+                <div class="flagged-item-actions">
+                    <button class="flagged-action-btn copy-q-btn" data-qtext="${escapeHTML(qText)}" title="Copy question text only">
+                        <i class="fa-solid fa-copy"></i>
+                    </button>
+                    <button class="flagged-action-btn unflag-q-btn" data-qid="${qid}" title="Unflag question">
+                        <i class="fa-solid fa-trash-can"></i>
+                    </button>
+                </div>
+            </div>
+        `;
+    });
+    
+    container.innerHTML = html;
+    
+    // Bind copy buttons
+    container.querySelectorAll('.copy-q-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const qtext = btn.dataset.qtext;
+            navigator.clipboard.writeText(qtext)
+                .then(() => {
+                    const icon = btn.querySelector('i');
+                    icon.className = 'fa-solid fa-check';
+                    setTimeout(() => icon.className = 'fa-solid fa-copy', 1500);
+                })
+                .catch(e => console.error('Copy failed:', e));
+        });
+    });
+    
+    // Bind unflag buttons
+    container.querySelectorAll('.unflag-q-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const qid = btn.dataset.qid;
+            delete flaggedQ[qid];
+            saveFlagged();
+            renderSettingsFlaggedList();
+            
+            // Also update the active quiz card flag state
+            updateFlagOnCard(qid);
+        });
     });
 }
