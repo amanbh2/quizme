@@ -1,0 +1,4393 @@
+{
+  "bce": [
+    {
+      "year": -115000,
+      "yearEnd": null,
+      "event": "Appearance of Homo Sapiens Sapiens",
+      "id": "T00001"
+    },
+    {
+      "year": -50000,
+      "yearEnd": null,
+      "event": "Earliest modern human arrived in India from the south because of an early coastal migration from Africa, however the Bori artefacts found in Pune, Maharashtra pushes the date further back to 14 lakh BCE",
+      "id": "T00002"
+    },
+    {
+      "year": -21000,
+      "yearEnd": null,
+      "event": "Invention of Sewing Needles",
+      "id": "T00003"
+    },
+    {
+      "year": -12000,
+      "yearEnd": -2000000,
+      "event": "Pleistocene - Period of Ice age on earth",
+      "id": "T00004"
+    },
+    {
+      "year": -10000,
+      "yearEnd": -35000,
+      "event": "Late or Upper Palaeolithic Age; Paintings in caves/rock shelters (27,500); Cave paintings at Bhimbetka (Madhya Pradesh); Homo sapiens fossils (25,500, Sri Lanka);",
+      "id": "T00005"
+    },
+    {
+      "year": -7000,
+      "yearEnd": null,
+      "event": "Earliest sign of Neolithic settlement in Indian Subconitent",
+      "id": "T00006"
+    },
+    {
+      "year": -6000,
+      "yearEnd": -7000,
+      "event": "Earliest sign of cultivation in India; Domestication of cattle and dogs in Africa",
+      "id": "T00007"
+    },
+    {
+      "year": -5000,
+      "yearEnd": null,
+      "event": "Pure Iron extracted in Mesopotamia",
+      "id": "T00008"
+    },
+    {
+      "year": -5000,
+      "yearEnd": null,
+      "event": "Earliest sign of domestication in India",
+      "id": "T00009"
+    },
+    {
+      "year": -4500,
+      "yearEnd": null,
+      "event": "Earliest sign of pottery",
+      "id": "T00010"
+    },
+    {
+      "year": -3500,
+      "yearEnd": null,
+      "event": "Earliest sign of Wheel - potter's wheel",
+      "id": "T00011"
+    },
+    {
+      "year": -3000,
+      "yearEnd": -4000,
+      "event": "Use of Copper in Indian sub-continent",
+      "id": "T00012"
+    },
+    {
+      "year": -2000,
+      "yearEnd": -3000,
+      "event": "Urban Harrappan Period - Cities of the Harappan Civilisation, Use of script",
+      "id": "T00013"
+    },
+    {
+      "year": -1400,
+      "yearEnd": -1500,
+      "event": "Composition of Rig Veda",
+      "id": "T00014"
+    },
+    {
+      "year": -950,
+      "yearEnd": null,
+      "event": "Mahabharata - War between brothers of kuru clan - Kauravas and Pandavs",
+      "id": "T00015"
+    },
+    {
+      "year": -800,
+      "yearEnd": null,
+      "event": "Use of Iron weapon becomes common in Upper Gangetic Plains",
+      "id": "T00016"
+    },
+    {
+      "year": -776,
+      "yearEnd": null,
+      "event": "First Olympic game in Greece",
+      "id": "T00017"
+    },
+    {
+      "year": -600,
+      "yearEnd": -1000,
+      "event": "Later Vedic Period",
+      "id": "T00018"
+    },
+    {
+      "year": -580,
+      "yearEnd": null,
+      "event": "Keezhadi Civilisation - An urban settlement in Tamil Nadu",
+      "id": "T00019"
+    },
+    {
+      "year": -567,
+      "yearEnd": null,
+      "event": "Birth of Gautam Buddha in Lumbini, Nepal",
+      "id": "T00020"
+    },
+    {
+      "year": -550,
+      "yearEnd": null,
+      "event": "Cyrus establishes the Persian Empire; Achaemenid Dynasty",
+      "id": "T00021"
+    },
+    {
+      "year": -544,
+      "yearEnd": null,
+      "event": "Bimbisara became ruler of Magadh, Bihar; establishing Hariyanka Dynasty",
+      "id": "T00022"
+    },
+    {
+      "year": -540,
+      "yearEnd": null,
+      "event": "Birth of Mahavir in Vaishali, Bihar",
+      "id": "T00023"
+    },
+    {
+      "year": -522,
+      "yearEnd": null,
+      "event": "Dairus becomes the emperor of the Persian Empire",
+      "id": "T00024"
+    },
+    {
+      "year": -516,
+      "yearEnd": null,
+      "event": "Dairus annexed the Punjab, west of the Indus river",
+      "id": "T00025"
+    },
+    {
+      "year": -500,
+      "yearEnd": null,
+      "event": "Pali, a form of Prakrit language began to be used",
+      "id": "T00026"
+    },
+    {
+      "year": -492,
+      "yearEnd": null,
+      "event": "Ajatashatru becomes ruler of Magadh after killing his father Bimbisara",
+      "id": "T00027"
+    },
+    {
+      "year": -483,
+      "yearEnd": null,
+      "event": "Death of Buddha in Khushi Nagar, Uttar Pradesh at 80 years of age",
+      "id": "T00028"
+    },
+    {
+      "year": -483,
+      "yearEnd": null,
+      "event": "First Buddhist Council presided by Mahakashyap, under Ajatshatru rule",
+      "id": "T00029"
+    },
+    {
+      "year": -468,
+      "yearEnd": null,
+      "event": "Death of Mahavir in Pavapuri, Rajgir",
+      "id": "T00030"
+    },
+    {
+      "year": -460,
+      "yearEnd": null,
+      "event": "Udayin becomes ruler of Magadh",
+      "id": "T00031"
+    },
+    {
+      "year": -413,
+      "yearEnd": null,
+      "event": "Shishunaga becomes the ruler of Magadh, establishing Shishunag dynasty",
+      "id": "T00032"
+    },
+    {
+      "year": -394,
+      "yearEnd": null,
+      "event": "Kalashoka (Shishunaga Dynasty) becomes ruler of Magadh",
+      "id": "T00033"
+    },
+    {
+      "year": -383,
+      "yearEnd": null,
+      "event": "Second Buddhist Council; presided by Sarvakami; under Kalashoka (Shishunaga Dynasty)",
+      "id": "T00034"
+    },
+    {
+      "year": -375,
+      "yearEnd": null,
+      "event": "Birth of Kautilya {Chanakya}",
+      "id": "T00035"
+    },
+    {
+      "year": -344,
+      "yearEnd": null,
+      "event": "Mahapadma Nand becomes ruler of Magadh; establishing Nanda Dynasty",
+      "id": "T00036"
+    },
+    {
+      "year": -336,
+      "yearEnd": null,
+      "event": "Alexander becomes the king of Macedon {Greece}",
+      "id": "T00037"
+    },
+    {
+      "year": -334,
+      "yearEnd": null,
+      "event": "Alexander begins campaign after defeating Persia",
+      "id": "T00038"
+    },
+    {
+      "year": -329,
+      "yearEnd": null,
+      "event": "Dhananand (Nand Dynasty) became ruler of Magadh",
+      "id": "T00039"
+    },
+    {
+      "year": -327,
+      "yearEnd": null,
+      "event": "Alexander, the ruler of Macedon, crossed Hindu Kush and invaded Indian western frontier",
+      "id": "T00040"
+    },
+    {
+      "year": -326,
+      "yearEnd": null,
+      "event": "Battle of Hydaspes (Jhelum river) — Alexander defeats King Porus (Puru) of Punjab",
+      "id": "T00041"
+    },
+    {
+      "year": -324,
+      "yearEnd": -334,
+      "event": "Alexander destroyed Persian Empire and established Macedonian empire",
+      "id": "T00042"
+    },
+    {
+      "year": -323,
+      "yearEnd": null,
+      "event": "Death of Alexander in Babylon {Iraq}; leaving no successor for his empire",
+      "id": "T00043"
+    },
+    {
+      "year": -320,
+      "yearEnd": null,
+      "event": "Chandragupta Maurya defeats Dhanand and establishes Maurya empire with capital at Patliputra {Patna}",
+      "id": "T00044"
+    },
+    {
+      "year": -312,
+      "yearEnd": null,
+      "event": "Seleucus I Nicator estabilshed Seleucid Empire following division of Macedonian Empire",
+      "id": "T00045"
+    },
+    {
+      "year": -303,
+      "yearEnd": -305,
+      "event": "Seleucid - Mauryan War; Chandragupta Maurya wins over terriotries west of Indus and marries daughter of Seleucid",
+      "id": "T00046"
+    },
+    {
+      "year": -298,
+      "yearEnd": null,
+      "event": "Bindusar became ruler of Maurayan empire",
+      "id": "T00047"
+    },
+    {
+      "year": -283,
+      "yearEnd": null,
+      "event": "Death of Chanakya",
+      "id": "T00048"
+    },
+    {
+      "year": -276,
+      "yearEnd": null,
+      "event": "Eratosthenese, a Greek scholar coined the word \"Geography\"",
+      "id": "T00049"
+    },
+    {
+      "year": -273,
+      "yearEnd": null,
+      "event": "Ashoka becam emperor of Maurya Empire",
+      "id": "T00050"
+    },
+    {
+      "year": -261,
+      "yearEnd": null,
+      "event": "Kalinga War - Ashoka vs Kalinga Empire",
+      "id": "T00051"
+    },
+    {
+      "year": -249,
+      "yearEnd": null,
+      "event": "Third Buddhist Council; presided by Mogaliputta Tissa; under Ashoka",
+      "id": "T00052"
+    },
+    {
+      "year": -232,
+      "yearEnd": null,
+      "event": "Death of Ashoka",
+      "id": "T00053"
+    },
+    {
+      "year": -228,
+      "yearEnd": null,
+      "event": "Simuk established the Satvahana Empire",
+      "id": "T00054"
+    },
+    {
+      "year": -220,
+      "yearEnd": null,
+      "event": "Chinese ruler Shih Huang constructed the Great Wall of China to protect his empire from nomadic tribes {Scythians}",
+      "id": "T00055"
+    },
+    {
+      "year": -165,
+      "yearEnd": null,
+      "event": "Rule or Meander (Indo-Greek ruler) who coverted to Buddhism",
+      "id": "T00056"
+    },
+    {
+      "year": -130,
+      "yearEnd": null,
+      "event": "Death of Meander",
+      "id": "T00057"
+    },
+    {
+      "year": -57,
+      "yearEnd": null,
+      "event": "Vikaramaditya, king of Ujjain wins over the Shaka; starting a new calender era called Vikram Samvat",
+      "id": "T00058"
+    }
+  ],
+  "ce": [
+    {
+      "year": 0,
+      "day": null,
+      "month": null,
+      "event": "Birth of Jesus",
+      "id": "T00059"
+    },
+    {
+      "year": 27,
+      "day": null,
+      "month": null,
+      "event": "Gaius Octavius {Augustus} establishes the Roman Empire",
+      "id": "T00060"
+    },
+    {
+      "year": 30,
+      "day": null,
+      "month": null,
+      "event": "Kujula Kadphises founded the Kushan Empire",
+      "id": "T00061"
+    },
+    {
+      "year": 100,
+      "day": null,
+      "month": null,
+      "event": "Fourth Buddhist Council was held at Kundalvana (Kashmir) under Kanishka rule; presided by Vasumitra & Ashvaghosh",
+      "id": "T00062"
+    },
+    {
+      "year": 127,
+      "day": null,
+      "month": null,
+      "event": "Kanishka I becomes the ruler of Kushan Empire",
+      "id": "T00063"
+    },
+    {
+      "year": 130,
+      "day": null,
+      "month": null,
+      "event": "Rudradaman becomes the ruler of western strapas of Shakas",
+      "id": "T00064"
+    },
+    {
+      "year": 240,
+      "day": null,
+      "month": null,
+      "event": "Gupta establishes the Gupta Empire",
+      "id": "T00065"
+    },
+    {
+      "year": 306,
+      "day": null,
+      "month": null,
+      "event": "Constantine became the ruler of the Roman Empire",
+      "id": "T00066"
+    },
+    {
+      "year": 319,
+      "day": null,
+      "month": null,
+      "event": "Chandragupta I becomes the ruler of Gupta Empire",
+      "id": "T00067"
+    },
+    {
+      "year": 330,
+      "day": 11,
+      "month": "May",
+      "event": "Constantinople became the capital city of Roman Empire under emperor Constantine {first christian emperor}",
+      "id": "T00068"
+    },
+    {
+      "year": 335,
+      "day": null,
+      "month": null,
+      "event": "Samudragputa becomes the ruler of Gupta Empire",
+      "id": "T00069"
+    },
+    {
+      "year": 380,
+      "day": null,
+      "month": null,
+      "event": "Chandragupta II {Vikramaditya} became the ruler of the Gupta Empire",
+      "id": "T00070"
+    },
+    {
+      "year": 399,
+      "day": null,
+      "month": null,
+      "event": "Fa-Hien / Faxian {Chinese Pilgrim} visited India during reign of Chandragupta II - Vikaramaditya",
+      "id": "T00071"
+    },
+    {
+      "year": 476,
+      "day": null,
+      "month": null,
+      "event": "Birth of Aryabhata in Kusumpur (Patna), Bihar",
+      "id": "T00072"
+    },
+    {
+      "year": 499,
+      "day": null,
+      "month": null,
+      "event": "Arybhata composed Aryabhatiyam at age of 23",
+      "id": "T00073"
+    },
+    {
+      "year": 518,
+      "day": null,
+      "month": null,
+      "event": "Song Yun and Hui Sheng {Chinese Pilgrims} visited India",
+      "id": "T00074"
+    },
+    {
+      "year": 570,
+      "day": null,
+      "month": null,
+      "event": "Muhammad was born in Mecca, Saudi Arabia",
+      "id": "T00075"
+    },
+    {
+      "year": 590,
+      "day": null,
+      "month": null,
+      "event": "Harshavardhan becomes the ruler of thanesar {Haryana}; He made Kannuaj {Uttar Pradesh} as his capital",
+      "id": "T00076"
+    },
+    {
+      "year": 610,
+      "day": null,
+      "month": null,
+      "event": "Muhammad started preaching Islam",
+      "id": "T00077"
+    },
+    {
+      "year": 629,
+      "day": null,
+      "month": null,
+      "event": "Xuanzang {Hsuan Tsang} , the chinese pilgrim visited India during reign of Harsha",
+      "id": "T00078"
+    },
+    {
+      "year": 630,
+      "day": null,
+      "month": null,
+      "event": "Narsimhavarman becomes the ruler of Pallava Kingdom",
+      "id": "T00079"
+    },
+    {
+      "year": 632,
+      "day": 8,
+      "month": "June",
+      "event": "Death of Muhammad, Abu Bakr (Father-in-law of Muhammad) becomes the first Caliph (Khalifa - Ruler) of Rashidun Caliphate (Islamic Empire)",
+      "id": "T00080"
+    },
+    {
+      "year": 671,
+      "day": null,
+      "month": null,
+      "event": "Yijing / I-Tsing {Chinese Pilgrim} visited India",
+      "id": "T00081"
+    },
+    {
+      "year": 680,
+      "day": 10,
+      "month": "October",
+      "event": "Battle of Karbala - Death of Husayn Ibn Ali, for which Ashura {10th day of Muharram} is practiced by Shia Muslims",
+      "id": "T00082"
+    },
+    {
+      "year": 700,
+      "day": null,
+      "month": null,
+      "event": "Earlies use of Gunpowder in China",
+      "id": "T00083"
+    },
+    {
+      "year": 735,
+      "day": null,
+      "month": null,
+      "event": "Dantidurga establishes the Rashtrakuta Empire",
+      "id": "T00084"
+    },
+    {
+      "year": 750,
+      "day": null,
+      "month": null,
+      "event": "Gopala establishes the Pala empire; He was an elected ruler",
+      "id": "T00085"
+    },
+    {
+      "year": 770,
+      "day": null,
+      "month": null,
+      "event": "Dharampala became the ruler of Pala empire",
+      "id": "T00086"
+    },
+    {
+      "year": 810,
+      "day": null,
+      "month": null,
+      "event": "Devapala becomes the ruler of the Pala Empire",
+      "id": "T00087"
+    },
+    {
+      "year": 848,
+      "day": null,
+      "month": null,
+      "event": "Vijayala Chola establishes the Chola Empire",
+      "id": "T00088"
+    },
+    {
+      "year": 977,
+      "day": null,
+      "month": null,
+      "event": "Sabuk-tigin establishes the Ghaznavid Empire with Ghazni as its capital",
+      "id": "T00089"
+    },
+    {
+      "year": 985,
+      "day": null,
+      "month": null,
+      "event": "Rajaraja becomes the ruler of Chola Empire",
+      "id": "T00090"
+    },
+    {
+      "year": 998,
+      "day": null,
+      "month": null,
+      "event": "Mahmud becomes the ruler of Ghaznavid Empire",
+      "id": "T00091"
+    },
+    {
+      "year": 1014,
+      "day": null,
+      "month": null,
+      "event": "Rajendra I becomes the ruler of the Chola Empire",
+      "id": "T00092"
+    },
+    {
+      "year": 1025,
+      "day": null,
+      "month": null,
+      "event": "Mahmud raides Somnath temple and breaks the Shivalingam",
+      "id": "T00093"
+    },
+    {
+      "year": 1173,
+      "day": null,
+      "month": null,
+      "event": "Shahabuddin (Muizzuddin) Muhammad ascends the throne of Ghazni",
+      "id": "T00094"
+    },
+    {
+      "year": 1177,
+      "day": null,
+      "month": null,
+      "event": "Prithviraj Chauhan becomes the ruler of Sapadalakshya with capital at Ajmer",
+      "id": "T00095"
+    },
+    {
+      "year": 1191,
+      "day": null,
+      "month": null,
+      "event": "First battle of Taraori (Tarain)(Haryana); Won by Prithviraj Chauhan against Muizzuddin",
+      "id": "T00096"
+    },
+    {
+      "year": 1192,
+      "day": null,
+      "month": null,
+      "event": "Second battle of Taraori; Won by Muizzuddin against Prithviraj Chauhan",
+      "id": "T00097"
+    },
+    {
+      "year": 1199,
+      "day": null,
+      "month": null,
+      "event": "Qutb Ud-Din Aibak started construction of Qutb Minar (Victory Tower) in Delhi",
+      "id": "T00098"
+    },
+    {
+      "year": 1200,
+      "day": null,
+      "month": null,
+      "event": "Invention of Compass in China",
+      "id": "T00099"
+    },
+    {
+      "year": 1200,
+      "day": null,
+      "month": null,
+      "event": "Bakhtiyar Khalji invaded Bihar; Destroying Nalanda, Vikramshila",
+      "id": "T00100"
+    },
+    {
+      "year": 1206,
+      "day": null,
+      "month": null,
+      "event": "Qutb Ud-Din Aibak establised the Mameluk Sultanate (The Slave Dynasty) with capital at Lahore",
+      "id": "T00101"
+    },
+    {
+      "year": 1206,
+      "day": null,
+      "month": null,
+      "event": "Ghengis Khan establishes the Mongol Empire",
+      "id": "T00102"
+    },
+    {
+      "year": 1211,
+      "day": null,
+      "month": null,
+      "event": "Shams Ud-Din Iltutmish succeded Qutb Ud-Din Aibak and shifts the capital to Delhi establishing the Delhi Sultante",
+      "id": "T00103"
+    },
+    {
+      "year": 1227,
+      "day": null,
+      "month": null,
+      "event": "Death of Ghengis Khan also known as Changez Khan; leading to division of Mongol Empire",
+      "id": "T00104"
+    },
+    {
+      "year": 1236,
+      "day": null,
+      "month": null,
+      "event": "Raziya Sultana becomes the ruler of Delhi Sultanate",
+      "id": "T00105"
+    },
+    {
+      "year": 1238,
+      "day": null,
+      "month": null,
+      "event": "Birth of sufi saint Nizamuddin Auliya",
+      "id": "T00106"
+    },
+    {
+      "year": 1266,
+      "day": null,
+      "month": null,
+      "event": "Balban becomes the sultan of Delhi",
+      "id": "T00107"
+    },
+    {
+      "year": 1286,
+      "day": null,
+      "month": null,
+      "event": "Death of Balban",
+      "id": "T00108"
+    },
+    {
+      "year": 1296,
+      "day": null,
+      "month": null,
+      "event": "Alaudin Khalji becomes the sultan of Delhi",
+      "id": "T00109"
+    },
+    {
+      "year": 1299,
+      "day": null,
+      "month": null,
+      "event": "Osman Ghazi founded Ottoman Empire, capital at Sogut, Turkiye",
+      "id": "T00110"
+    },
+    {
+      "year": 1320,
+      "day": null,
+      "month": null,
+      "event": "Ghiyasuddin Tuglaq becomes the sultan of Delhi",
+      "id": "T00111"
+    },
+    {
+      "year": 1324,
+      "day": null,
+      "month": null,
+      "event": "Muhammad bin Tughlaq becomes the sultan of Delhi; Delhi Sultanate reached its zenith during his rule",
+      "id": "T00112"
+    },
+    {
+      "year": 1325,
+      "day": null,
+      "month": null,
+      "event": "Death of sufi saint Nizamuddin Auliya & Amir Khusaru",
+      "id": "T00113"
+    },
+    {
+      "year": 1333,
+      "day": null,
+      "month": null,
+      "event": "Ibn Battuta, a traveller from Morocco visited India; He wrote about India in his book Rihla",
+      "id": "T00114"
+    },
+    {
+      "year": 1336,
+      "day": null,
+      "month": null,
+      "event": "Harihara I establishes the Vijayanagra Kingdom at present day Hampi, Karnataka",
+      "id": "T00115"
+    },
+    {
+      "year": 1347,
+      "day": null,
+      "month": null,
+      "event": "Bahman Shah establishes the Bahamani Kingdom with Gulbarg (Karnataka) as its capital",
+      "id": "T00116"
+    },
+    {
+      "year": 1398,
+      "day": null,
+      "month": null,
+      "event": "Timur Invasion of India, he destroyed Delhi Sultanate under Tughlaq dynasty",
+      "id": "T00117"
+    },
+    {
+      "year": 1450,
+      "day": null,
+      "month": null,
+      "event": "Invention of Printing Press by Johannes Gutenberg in Germany",
+      "id": "T00118"
+    },
+    {
+      "year": 1451,
+      "day": 19,
+      "month": "April",
+      "event": "Bahlul Lodi establishes the fifth and the last dynasty of Delhi Sultanate, the Lodi Dynasty",
+      "id": "T00119"
+    },
+    {
+      "year": 1453,
+      "day": 29,
+      "month": "May",
+      "event": "Fall of Constantinople {Ottoman Empire vs Byzantine Empire}",
+      "id": "T00120"
+    },
+    {
+      "year": 1469,
+      "day": 15,
+      "month": "April",
+      "event": "Birth of Guru Nanak",
+      "id": "T00121"
+    },
+    {
+      "year": 1478,
+      "day": 7,
+      "month": "May",
+      "event": "Birth of Vallabhacharya",
+      "id": "T00122"
+    },
+    {
+      "year": 1488,
+      "day": null,
+      "month": null,
+      "event": "Bartolomeu Dias became the first European navigator to round the southern tip of Africa",
+      "id": "T00123"
+    },
+    {
+      "year": 1489,
+      "day": 15,
+      "month": "July",
+      "event": "Sikandar Lodi ascends the throne of Delhi",
+      "id": "T00124"
+    },
+    {
+      "year": 1492,
+      "day": 12,
+      "month": "October",
+      "event": "Christopher Columbus landed in Bahamas {North America}, hence finding sea route from Europe to North America",
+      "id": "T00125"
+    },
+    {
+      "year": 1494,
+      "day": 7,
+      "month": "June",
+      "event": "Treaty of Tordesillias between Spain & Portugal",
+      "id": "T00126"
+    },
+    {
+      "year": 1497,
+      "day": null,
+      "month": "July",
+      "event": "First Portugeese Armada was sent to India, funded by crown of Portugal under command of Vasco Da Gama",
+      "id": "T00127"
+    },
+    {
+      "year": 1498,
+      "day": 20,
+      "month": "May",
+      "event": "Vasco da Gama, a Portuguese explorer, landed on Calicut, hence discovering the sea route to India",
+      "id": "T00128"
+    },
+    {
+      "year": 1500,
+      "day": null,
+      "month": null,
+      "event": "Second Portugeese Armada was sent to India, under command of Pedro Alvarez Cabrel",
+      "id": "T00129"
+    },
+    {
+      "year": 1505,
+      "day": null,
+      "month": null,
+      "event": "Sikandar Lodi rebuilt the city of Agra",
+      "id": "T00130"
+    },
+    {
+      "year": 1505,
+      "day": null,
+      "month": null,
+      "event": "Seventh Portugeese Armada was sent to India, under command of Dom Francisco De Almeida",
+      "id": "T00131"
+    },
+    {
+      "year": 1505,
+      "day": 12,
+      "month": "September",
+      "event": "Dom Francisco De Almeida became the first Governor and Viceroy of Portugese territory in India",
+      "id": "T00132"
+    },
+    {
+      "year": 1509,
+      "day": 3,
+      "month": "February",
+      "event": "Battle of Diu {Portugese Empire vs Kingdom of Calicut and its allies} - Almeida the Portugese commander became victorius",
+      "id": "T00133"
+    },
+    {
+      "year": 1509,
+      "day": 24,
+      "month": "May",
+      "event": "Rana Sanga ascends the throne of Mewar",
+      "id": "T00134"
+    },
+    {
+      "year": 1509,
+      "day": 26,
+      "month": "July",
+      "event": "Krishnadevaraya became ruler of Vijayanagara Empire",
+      "id": "T00135"
+    },
+    {
+      "year": 1509,
+      "day": 4,
+      "month": "November",
+      "event": "Afonso de Albuquerque becomes the second Viceroy of Portugese India",
+      "id": "T00136"
+    },
+    {
+      "year": 1510,
+      "day": 25,
+      "month": "November",
+      "event": "Alfonso D'Albuquerque, a Portugese Commander captured Goa from Bijapur Sultanate",
+      "id": "T00137"
+    },
+    {
+      "year": 1517,
+      "day": null,
+      "month": null,
+      "event": "Ibrahim Lodi ascends the throne of Delhi",
+      "id": "T00138"
+    },
+    {
+      "year": 1526,
+      "day": 20,
+      "month": "April",
+      "event": "First Battle of Panipat {Babur vs Ibrahim Lodi} - Lodi died in battle and it marked start of reign of Mughal Empire.",
+      "id": "T00139"
+    },
+    {
+      "year": 1527,
+      "day": 16,
+      "month": "March",
+      "event": "Battle of Khanwa {Babur vs Rana Sanga} - Babur wins",
+      "id": "T00140"
+    },
+    {
+      "year": 1530,
+      "day": 26,
+      "month": "December",
+      "event": "Babur died, Humayun became the second Mughal Emperor",
+      "id": "T00141"
+    },
+    {
+      "year": 1532,
+      "day": null,
+      "month": null,
+      "event": "Battle of Devara - Humayun defeated Afghan rebels",
+      "id": "T00142"
+    },
+    {
+      "year": 1534,
+      "day": null,
+      "month": "March",
+      "event": "Battle of Surajgarh - Sher Shah Suri controlled Bihar.",
+      "id": "T00143"
+    },
+    {
+      "year": 1538,
+      "day": 17,
+      "month": "May",
+      "event": "Sher Shah Suri establishes Sur Empire in Delhi",
+      "id": "T00144"
+    },
+    {
+      "year": 1539,
+      "day": 26,
+      "month": "June",
+      "event": "Battle of Chausa - Sher Shah Suri defeated Humayun",
+      "id": "T00145"
+    },
+    {
+      "year": 1539,
+      "day": 7,
+      "month": "September",
+      "event": "Guru Angad became the second Sikh Guru",
+      "id": "T00146"
+    },
+    {
+      "year": 1539,
+      "day": 22,
+      "month": "September",
+      "event": "Death of Guru Nanak",
+      "id": "T00147"
+    },
+    {
+      "year": 1540,
+      "day": 17,
+      "month": "May",
+      "event": "Battle of Kanauj - Shehr Shah Suri again defeated Humayun",
+      "id": "T00148"
+    },
+    {
+      "year": 1545,
+      "day": 22,
+      "month": "May",
+      "event": "Death of Sher Shah Suri while attempt to capture Kalinjar Fort",
+      "id": "T00149"
+    },
+    {
+      "year": 1555,
+      "day": 22,
+      "month": "June",
+      "event": "Battle of Sirhind {Humayun vs Suri Empire} - Sikandar Shah Suri was defeated, Mughal Empire re-established.",
+      "id": "T00150"
+    },
+    {
+      "year": 1556,
+      "day": 27,
+      "month": "January",
+      "event": "Death of Humayun",
+      "id": "T00151"
+    },
+    {
+      "year": 1556,
+      "day": 14,
+      "month": "February",
+      "event": "Akbar became the third Mughal Emperor",
+      "id": "T00152"
+    },
+    {
+      "year": 1556,
+      "day": 5,
+      "month": "November",
+      "event": "Second Battle of Panipat; Akbar vs Hemchandra Vikramaditya; Akbar victory",
+      "id": "T00153"
+    },
+    {
+      "year": 1558,
+      "day": 17,
+      "month": "November",
+      "event": "Queen Elizabeth I becomes the English Monarch",
+      "id": "T00154"
+    },
+    {
+      "year": 1565,
+      "day": 26,
+      "month": "January",
+      "event": "Battle of Talikota; Vijayanagar empire vs Deccan Sultante; Defeat and decline of Vijayanagara empire",
+      "id": "T00155"
+    },
+    {
+      "year": 1600,
+      "day": 31,
+      "month": "December",
+      "event": "The East India Company acquired a charter from the ruler of England, Queen Elizabeth I, granting it the sole right to trade with the East.",
+      "id": "T00156"
+    },
+    {
+      "year": 1602,
+      "day": 20,
+      "month": "March",
+      "event": "Dutch East India Company was established in Amsterdam, Netherlands",
+      "id": "T00157"
+    },
+    {
+      "year": 1603,
+      "day": 24,
+      "month": "March",
+      "event": "Queen Elizabeth dies, James VI of Scotland ascends the English Throne as James I of England",
+      "id": "T00158"
+    },
+    {
+      "year": 1605,
+      "day": 27,
+      "month": "October",
+      "event": "Death of Akbar",
+      "id": "T00159"
+    },
+    {
+      "year": 1605,
+      "day": 3,
+      "month": "November",
+      "event": "Jahangir ascends the Mughal Throne",
+      "id": "T00160"
+    },
+    {
+      "year": 1606,
+      "day": 30,
+      "month": "May",
+      "event": "Jahangir executed 5th Sikh Guru - Guru Arjan Dev on charge of supporting prince Khusrau",
+      "id": "T00161"
+    },
+    {
+      "year": 1608,
+      "day": null,
+      "month": null,
+      "event": "Captain Hawkins of English Company got farman from Jahangir to open factory on the west cost of India.",
+      "id": "T00162"
+    },
+    {
+      "year": 1608,
+      "day": 24,
+      "month": "August",
+      "event": "First English East India Company ship, the Hector, arrived in Surat, Gujarat",
+      "id": "T00163"
+    },
+    {
+      "year": 1612,
+      "day": 29,
+      "month": "November",
+      "event": "Battle of Suvali/Swally; Portuguese vs British",
+      "id": "T00164"
+    },
+    {
+      "year": 1613,
+      "day": null,
+      "month": null,
+      "event": "British East India Company established its first factory in Surat",
+      "id": "T00165"
+    },
+    {
+      "year": 1615,
+      "day": null,
+      "month": null,
+      "event": "Sir Thomas Roe got Mughal farman to trade and set up factories in different parts of Mughal Empire",
+      "id": "T00166"
+    },
+    {
+      "year": 1616,
+      "day": null,
+      "month": null,
+      "event": "British East India Company established its second factory at Masulipatnam",
+      "id": "T00167"
+    },
+    {
+      "year": 1627,
+      "day": 28,
+      "month": "October",
+      "event": "Death of Jahangir due to illness.",
+      "id": "T00168"
+    },
+    {
+      "year": 1628,
+      "day": 14,
+      "month": "February",
+      "event": "Shah-Jahan ascends to throne of Mughal Empire",
+      "id": "T00169"
+    },
+    {
+      "year": 1632,
+      "day": null,
+      "month": null,
+      "event": "Dutch established a factory in the north building of Patna college.",
+      "id": "T00170"
+    },
+    {
+      "year": 1658,
+      "day": 31,
+      "month": "July",
+      "event": "Aurangzeb ascends to the throne of Mughal Empire",
+      "id": "T00171"
+    },
+    {
+      "year": 1664,
+      "day": 20,
+      "month": "March",
+      "event": "Guru Tegh Bahadur becomes the 9th Sikh Guru",
+      "id": "T00172"
+    },
+    {
+      "year": 1664,
+      "day": 1,
+      "month": "September",
+      "event": "French East India Company was established by french king Louis XIV",
+      "id": "T00173"
+    },
+    {
+      "year": 1666,
+      "day": 22,
+      "month": "January",
+      "event": "Death of Shah Jahan",
+      "id": "T00174"
+    },
+    {
+      "year": 1666,
+      "day": 22,
+      "month": "December",
+      "event": "Birth of Guru Gobind Singh, the 10th Sikh Guru, in Patna, Bihar",
+      "id": "T00175"
+    },
+    {
+      "year": 1674,
+      "day": null,
+      "month": null,
+      "event": "Martin (French) established Pondicherry.",
+      "id": "T00176"
+    },
+    {
+      "year": 1674,
+      "day": 6,
+      "month": "June",
+      "event": "Chhatrapati Shivaji Maharaj established Maratha empire",
+      "id": "T00177"
+    },
+    {
+      "year": 1675,
+      "day": 11,
+      "month": "November",
+      "event": "Aurangzeb executes Guru Tegh Bahadur (9th Sikh Guru)",
+      "id": "T00178"
+    },
+    {
+      "year": 1680,
+      "day": 3,
+      "month": "April",
+      "event": "Death of Chhatrapati Shivaji",
+      "id": "T00179"
+    },
+    {
+      "year": 1681,
+      "day": 16,
+      "month": "January",
+      "event": "Sambhaji became second Chhatrapati of Maratha Empire",
+      "id": "T00180"
+    },
+    {
+      "year": 1689,
+      "day": 11,
+      "month": "March",
+      "event": "Sambhaji was captured and executed on order of Mughal Emperor, His son Sahu was also captured by Mughals",
+      "id": "T00181"
+    },
+    {
+      "year": 1696,
+      "day": null,
+      "month": null,
+      "event": "Company started fortification around factory settlements",
+      "id": "T00182"
+    },
+    {
+      "year": 1698,
+      "day": null,
+      "month": null,
+      "event": "Company bribed Mughal officials and got zamindari rights of three villages, one of them was kalikata which later developed to modern day Kolkata",
+      "id": "T00183"
+    },
+    {
+      "year": 1699,
+      "day": null,
+      "month": null,
+      "event": "Guru Gobind Singh established the Khalsa - Sikh Warriors",
+      "id": "T00184"
+    },
+    {
+      "year": 1699,
+      "day": 5,
+      "month": "March",
+      "event": "Sawai Raja Jai Singh accended the throne of Amber",
+      "id": "T00185"
+    },
+    {
+      "year": 1700,
+      "day": null,
+      "month": null,
+      "event": "Murshid Quli Khan becomes diwan of Bengal.",
+      "id": "T00186"
+    },
+    {
+      "year": 1704,
+      "day": null,
+      "month": null,
+      "event": "Murshid Quli Khan establishes city named Murshidabad.",
+      "id": "T00187"
+    },
+    {
+      "year": 1707,
+      "day": 12,
+      "month": "January",
+      "event": "Sahu becomes the 5th Chhatrapati of Maratha Empire",
+      "id": "T00188"
+    },
+    {
+      "year": 1707,
+      "day": 3,
+      "month": "March",
+      "event": "Death of Aurangzeb",
+      "id": "T00189"
+    },
+    {
+      "year": 1707,
+      "day": 1,
+      "month": "May",
+      "event": "Treaty of Union - The Kingdom of England {including Wales} united with the Kingdom of Scotland to form the kingdom of Great Britain",
+      "id": "T00190"
+    },
+    {
+      "year": 1707,
+      "day": 20,
+      "month": "June",
+      "event": "Battle of Jajau, Uttar Pradesh; Bahadur Shah I defeats Azam Shah and ascends to the Mughal throne",
+      "id": "T00191"
+    },
+    {
+      "year": 1708,
+      "day": 7,
+      "month": "October",
+      "event": "Death of Guru Gobind Singh",
+      "id": "T00192"
+    },
+    {
+      "year": 1712,
+      "day": 27,
+      "month": "February",
+      "event": "Death of Bahadur Shah I or Shah Alam I",
+      "id": "T00193"
+    },
+    {
+      "year": 1712,
+      "day": 29,
+      "month": "March",
+      "event": "Jahandar Shah assumed Mughal Throne with help of his wazir Zulfiqar Khan",
+      "id": "T00194"
+    },
+    {
+      "year": 1713,
+      "day": 10,
+      "month": "January",
+      "event": "Battle in Agra between Jahandar Shah and Farrukh Siyar, Jahandar Shah was defeated",
+      "id": "T00195"
+    },
+    {
+      "year": 1713,
+      "day": 11,
+      "month": "January",
+      "event": "Farrukh Siyar assumed the throne with help of sayyid brothers.",
+      "id": "T00196"
+    },
+    {
+      "year": 1713,
+      "day": 11,
+      "month": "February",
+      "event": "Jahandar Shah was executed by Farrukh Siyar",
+      "id": "T00197"
+    },
+    {
+      "year": 1713,
+      "day": 16,
+      "month": "November",
+      "event": "Balaji Vishwanath became Peshwa of Maratha Empire",
+      "id": "T00198"
+    },
+    {
+      "year": 1714,
+      "day": 1,
+      "month": "August",
+      "event": "George I becomes British Monarch",
+      "id": "T00199"
+    },
+    {
+      "year": 1716,
+      "day": 9,
+      "month": "June",
+      "event": "Brutal death of Banda Singh Bahadur, leader of Sikh warriors",
+      "id": "T00200"
+    },
+    {
+      "year": 1717,
+      "day": null,
+      "month": null,
+      "event": "Murshid Quli Khan becomes Nawab of Bengal",
+      "id": "T00201"
+    },
+    {
+      "year": 1717,
+      "day": null,
+      "month": null,
+      "event": "British East India Company secured a royal farman granting freedom to export and import their goods in Bengal without paying taxes and the right to issue passes or dastaks for the movement of such goods.",
+      "id": "T00202"
+    },
+    {
+      "year": 1719,
+      "day": 28,
+      "month": "February",
+      "event": "Farrukh Siyar was killed by Sayyid Brothers",
+      "id": "T00203"
+    },
+    {
+      "year": 1719,
+      "day": 29,
+      "month": "September",
+      "event": "Muhammad Shah was enthroned by Sayyid Brothers",
+      "id": "T00204"
+    },
+    {
+      "year": 1720,
+      "day": null,
+      "month": null,
+      "event": "British government passed the Calico act in England",
+      "id": "T00205"
+    },
+    {
+      "year": 1720,
+      "day": 12,
+      "month": "April",
+      "event": "Death of Balaji Vishwanath",
+      "id": "T00206"
+    },
+    {
+      "year": 1720,
+      "day": 17,
+      "month": "April",
+      "event": "Bajai Rao I become Peshwa of Maratha Empire",
+      "id": "T00207"
+    },
+    {
+      "year": 1720,
+      "day": 8,
+      "month": "October",
+      "event": "Hussain Ali khan, younger Sayyid Brother was assissinated by Muhammad Shah",
+      "id": "T00208"
+    },
+    {
+      "year": 1721,
+      "day": null,
+      "month": null,
+      "event": "British government passed the Calico act in England, aimed to ban sale of cotton textiles in britain.",
+      "id": "T00209"
+    },
+    {
+      "year": 1721,
+      "day": null,
+      "month": null,
+      "event": "Ghalzai chief of Qandhar, Mahmud, invaded Persia and occupied the capital Isfahan.",
+      "id": "T00210"
+    },
+    {
+      "year": 1722,
+      "day": 26,
+      "month": "January",
+      "event": "Saadat Ali Khan become Nawab of Awadh (Oudh)",
+      "id": "T00211"
+    },
+    {
+      "year": 1722,
+      "day": 12,
+      "month": "October",
+      "event": "Abdula Khan, older Sayyid Brother was poisoned to death",
+      "id": "T00212"
+    },
+    {
+      "year": 1724,
+      "day": 31,
+      "month": "July",
+      "event": "Asaf Jah founded the state of Hyderabad.",
+      "id": "T00213"
+    },
+    {
+      "year": 1727,
+      "day": 11,
+      "month": "June",
+      "event": "George II becomes the British Monarch",
+      "id": "T00214"
+    },
+    {
+      "year": 1727,
+      "day": 30,
+      "month": "June",
+      "event": "Death of Murshid Quli Khan",
+      "id": "T00215"
+    },
+    {
+      "year": 1729,
+      "day": null,
+      "month": null,
+      "event": "Nader Shah won back Herat after defeating the Abdalis and expelled the Ghalzais from Isfahan and central and southern Persia.",
+      "id": "T00216"
+    },
+    {
+      "year": 1734,
+      "day": null,
+      "month": null,
+      "event": "French built a warehouse at Patna.",
+      "id": "T00217"
+    },
+    {
+      "year": 1736,
+      "day": null,
+      "month": null,
+      "event": "Nader Shah became the ruler of Persia (Iran)",
+      "id": "T00218"
+    },
+    {
+      "year": 1738,
+      "day": null,
+      "month": null,
+      "event": "Nader Shah entered Indian Territory and plundered India.",
+      "id": "T00219"
+    },
+    {
+      "year": 1739,
+      "day": 24,
+      "month": "February",
+      "event": "Battle of Karnal; Invasion of Nader Shah Afshar; Plunder of Delhi",
+      "id": "T00220"
+    },
+    {
+      "year": 1739,
+      "day": 19,
+      "month": "March",
+      "event": "Death of Saadat Ali Khan, Safda Jang becomes Nawab of Oudh",
+      "id": "T00221"
+    },
+    {
+      "year": 1740,
+      "day": 28,
+      "month": "April",
+      "event": "Death of Baji Rao I, Nana Saheb {Balaji Bajirao} his son was made Peshwa of Maratha Kingdom",
+      "id": "T00222"
+    },
+    {
+      "year": 1740,
+      "day": 29,
+      "month": "April",
+      "event": "Alivardi Khan become Nawab of Bengal",
+      "id": "T00223"
+    },
+    {
+      "year": 1743,
+      "day": null,
+      "month": null,
+      "event": "Robert Clive reached Madras (Modern day Chennai) from England at age of 18",
+      "id": "T00224"
+    },
+    {
+      "year": 1743,
+      "day": 21,
+      "month": "September",
+      "event": "Death of Sawai Raja Jai Singh",
+      "id": "T00225"
+    },
+    {
+      "year": 1746,
+      "day": null,
+      "month": null,
+      "event": "Beginning of Austrian war of succession;Carnatic War I - British vs French",
+      "id": "T00226"
+    },
+    {
+      "year": 1747,
+      "day": 20,
+      "month": "June",
+      "event": "Nader Shah was stabbed to death",
+      "id": "T00227"
+    },
+    {
+      "year": 1747,
+      "day": null,
+      "month": "July",
+      "event": "Ahmed Shah Abdali became ruler of Afghanistan",
+      "id": "T00228"
+    },
+    {
+      "year": 1748,
+      "day": null,
+      "month": null,
+      "event": "Ahmed Shah Abdali invaded and plundered India 8 times",
+      "id": "T00229"
+    },
+    {
+      "year": 1748,
+      "day": null,
+      "month": null,
+      "event": "Treaty of Aix-la-Chapelle; End of Carnatic War I; French Victory",
+      "id": "T00230"
+    },
+    {
+      "year": 1748,
+      "day": 26,
+      "month": "April",
+      "event": "Death of Muhammad Shah; Ahmed Shah Bahadur ascends to the Mughal throne",
+      "id": "T00231"
+    },
+    {
+      "year": 1748,
+      "day": 1,
+      "month": "June",
+      "event": "Death of Asaf Jah due to cold and flu.",
+      "id": "T00232"
+    },
+    {
+      "year": 1754,
+      "day": 5,
+      "month": "October",
+      "event": "Death of Safdar Jung",
+      "id": "T00233"
+    },
+    {
+      "year": 1756,
+      "day": 9,
+      "month": "April",
+      "event": "Siraj Ud-Daulah became the Nawab of Bengal",
+      "id": "T00234"
+    },
+    {
+      "year": 1757,
+      "day": 23,
+      "month": "June",
+      "event": "Battle of Plassey {Robert Clive vs Sirajuddaulah}, Bengal",
+      "id": "T00235"
+    },
+    {
+      "year": 1757,
+      "day": 2,
+      "month": "July",
+      "event": "Execution of Siraj Ud-Daulah, Mir Jafar became the Nawab of Bengal",
+      "id": "T00236"
+    },
+    {
+      "year": 1758,
+      "day": null,
+      "month": null,
+      "event": "British East India Company secured exclusive rights over saltpetre trade in Bihar.",
+      "id": "T00237"
+    },
+    {
+      "year": 1759,
+      "day": null,
+      "month": null,
+      "event": "Battle of Bedra, Dutch were defeated by British.",
+      "id": "T00238"
+    },
+    {
+      "year": 1760,
+      "day": 22,
+      "month": "January",
+      "event": "Battle of Wandiwash (Tamil Nadu); British vs French; British decisive victory; Ended French military power in India",
+      "id": "T00239"
+    },
+    {
+      "year": 1760,
+      "day": 10,
+      "month": "October",
+      "event": "Shah Alam II became Mughal emperor",
+      "id": "T00240"
+    },
+    {
+      "year": 1760,
+      "day": 20,
+      "month": "October",
+      "event": "Mir Jafar abdicated throne of Bengal and Mir Qasim became the Nawab of Bengal",
+      "id": "T00241"
+    },
+    {
+      "year": 1760,
+      "day": 25,
+      "month": "October",
+      "event": "George III becomes the British Monarch",
+      "id": "T00242"
+    },
+    {
+      "year": 1761,
+      "day": null,
+      "month": null,
+      "event": "Haider Ali ruled Mysore",
+      "id": "T00243"
+    },
+    {
+      "year": 1761,
+      "day": null,
+      "month": null,
+      "event": "Hyder Ali become sultan of Mysore",
+      "id": "T00244"
+    },
+    {
+      "year": 1761,
+      "day": 14,
+      "month": "January",
+      "event": "Third Battle of Panipat {Marthas vs Allies of Delhi}",
+      "id": "T00245"
+    },
+    {
+      "year": 1761,
+      "day": 23,
+      "month": "June",
+      "event": "Death of Nana Saheb {Balaji Baji Rao}, Madhav Rao becomes the 9th Peshwa of Maratha Kingdom",
+      "id": "T00246"
+    },
+    {
+      "year": 1764,
+      "day": null,
+      "month": null,
+      "event": "Robert Clive appointed as governor of Bengal",
+      "id": "T00247"
+    },
+    {
+      "year": 1764,
+      "day": null,
+      "month": null,
+      "event": "Invention of Spinning Jenny by John Kaye",
+      "id": "T00248"
+    },
+    {
+      "year": 1764,
+      "day": 22,
+      "month": "October",
+      "event": "Battle of Buxar {Combined forces of Mughal Emperor Shah Alam II, Mir Qasim of Bengal, Shuja-Ud-Daula of Awadh against British East India Company}",
+      "id": "T00249"
+    },
+    {
+      "year": 1765,
+      "day": 5,
+      "month": "February",
+      "event": "Death of Mir Jafar - Puppet Nawab of Bengal, his second son Najm-ud-daulah becomes the nawab of bengal",
+      "id": "T00250"
+    },
+    {
+      "year": 1765,
+      "day": 12,
+      "month": "August",
+      "event": "Company got Diwani rights of Bengal, Bihar and Orissa from Mughal Emperor Shah Alam II",
+      "id": "T00251"
+    },
+    {
+      "year": 1767,
+      "day": 1,
+      "month": "December",
+      "event": "Ahilyabai Holkar became the Maharani of Indore",
+      "id": "T00252"
+    },
+    {
+      "year": 1769,
+      "day": 4,
+      "month": "April",
+      "event": "Treaty of Madras; First Anglo-Mysore war; Haider Ali wins against East India Company",
+      "id": "T00253"
+    },
+    {
+      "year": 1770,
+      "day": null,
+      "month": null,
+      "event": "1 crore people died due to Bengal Famine",
+      "id": "T00254"
+    },
+    {
+      "year": 1772,
+      "day": 13,
+      "month": "April",
+      "event": "Warren Hastings became the Governor of Fort William, Bengal",
+      "id": "T00255"
+    },
+    {
+      "year": 1772,
+      "day": 22,
+      "month": "May",
+      "event": "Birth of Raja Ram Mohun Roy in Radhanagar, Bengal Presidency",
+      "id": "T00256"
+    },
+    {
+      "year": 1773,
+      "day": 10,
+      "month": "June",
+      "event": "Regulating act of 1773; established a new supreme court",
+      "id": "T00257"
+    },
+    {
+      "year": 1773,
+      "day": 20,
+      "month": "October",
+      "event": "Warren Hastings appointed as the first Governor-general of Bengal",
+      "id": "T00258"
+    },
+    {
+      "year": 1775,
+      "day": null,
+      "month": null,
+      "event": "Eleven pandits compiled a digest of Hindu laws which was later translated into English by N. B. Halhed",
+      "id": "T00259"
+    },
+    {
+      "year": 1776,
+      "day": 4,
+      "month": "July",
+      "event": "Thirteen American Colonies declared their independence from British rule",
+      "id": "T00260"
+    },
+    {
+      "year": 1778,
+      "day": null,
+      "month": null,
+      "event": "A code of Muslims laws was compiled",
+      "id": "T00261"
+    },
+    {
+      "year": 1781,
+      "day": null,
+      "month": null,
+      "event": "A madrasa was set up in culcutta to promote the study of Arabic, Persian and Islamic law",
+      "id": "T00262"
+    },
+    {
+      "year": 1781,
+      "day": null,
+      "month": null,
+      "event": "Amending Act of 1781",
+      "id": "T00263"
+    },
+    {
+      "year": 1782,
+      "day": null,
+      "month": null,
+      "event": "Treaty of Salbai; First Anglo-Maratha war",
+      "id": "T00264"
+    },
+    {
+      "year": 1782,
+      "day": 6,
+      "month": "December",
+      "event": "Hyder Ali dies of cancer on his back",
+      "id": "T00265"
+    },
+    {
+      "year": 1782,
+      "day": 10,
+      "month": "December",
+      "event": "Tipu Sultan assumed throne of Mysore",
+      "id": "T00266"
+    },
+    {
+      "year": 1783,
+      "day": null,
+      "month": null,
+      "event": "William Jones arrived culcutta as a junior judge of supreme court",
+      "id": "T00267"
+    },
+    {
+      "year": 1783,
+      "day": null,
+      "month": null,
+      "event": "Tamar Revolt - Oraon tribe of Chhotanagpur region revolted against British; Being earlies attempt to oust colonisers",
+      "id": "T00268"
+    },
+    {
+      "year": 1783,
+      "day": 19,
+      "month": "December",
+      "event": "William Pitt - The Younger becomes the youngest Prime Minister of Great Britain.",
+      "id": "T00269"
+    },
+    {
+      "year": 1784,
+      "day": null,
+      "month": null,
+      "event": "Treaty of Mangalore; Second Anglo-Mysore War",
+      "id": "T00270"
+    },
+    {
+      "year": 1784,
+      "day": 15,
+      "month": "January",
+      "event": "William Jones established The Asiatick Society of Bengal",
+      "id": "T00271"
+    },
+    {
+      "year": 1784,
+      "day": 13,
+      "month": "August",
+      "event": "Pitt's India Act of 1784",
+      "id": "T00272"
+    },
+    {
+      "year": 1785,
+      "day": 8,
+      "month": "February",
+      "event": "Warren Hastings resigned as Governor-General of Bengal",
+      "id": "T00273"
+    },
+    {
+      "year": 1786,
+      "day": null,
+      "month": null,
+      "event": "Invention of Steam Engine by Richard Arkwright",
+      "id": "T00274"
+    },
+    {
+      "year": 1786,
+      "day": null,
+      "month": null,
+      "event": "Amending Act of 1786 for Lord Cornwallis",
+      "id": "T00275"
+    },
+    {
+      "year": 1786,
+      "day": 12,
+      "month": "September",
+      "event": "Charles Cornwallis becomes the Governor-General of Bengal",
+      "id": "T00276"
+    },
+    {
+      "year": 1788,
+      "day": 18,
+      "month": "July",
+      "event": "Ghulam Kadir takes control of Delhi",
+      "id": "T00277"
+    },
+    {
+      "year": 1788,
+      "day": 31,
+      "month": "July",
+      "event": "Shah Alam II was deposed by Ghulam Qadir, Shah Jahan IV becomes the Mughal Emperor",
+      "id": "T00278"
+    },
+    {
+      "year": 1788,
+      "day": 11,
+      "month": "October",
+      "event": "Shah Jahan IV was deposed by Mahadji Shinde",
+      "id": "T00279"
+    },
+    {
+      "year": 1788,
+      "day": 16,
+      "month": "October",
+      "event": "Shah Alam II becomes the puppet Mughal ruler of Maratha Empire",
+      "id": "T00280"
+    },
+    {
+      "year": 1790,
+      "day": null,
+      "month": null,
+      "event": "Beginning of Anglo-Mysore War III - British vs Tipu Sultan;",
+      "id": "T00281"
+    },
+    {
+      "year": 1791,
+      "day": null,
+      "month": null,
+      "event": "Benaras Sanskrit college was set up to study ancient sanskrit texts",
+      "id": "T00282"
+    },
+    {
+      "year": 1792,
+      "day": null,
+      "month": null,
+      "event": "Treaty of Seringapatnam; Third Anglo-Mysore War; Half of Mysore kingdom went to the Company",
+      "id": "T00283"
+    },
+    {
+      "year": 1793,
+      "day": null,
+      "month": null,
+      "event": "Charles Conrwallis introduced Permanent Selttlement in Bengal and Bihar province",
+      "id": "T00284"
+    },
+    {
+      "year": 1793,
+      "day": 11,
+      "month": "June",
+      "event": "Charter Act of 1793",
+      "id": "T00285"
+    },
+    {
+      "year": 1795,
+      "day": 13,
+      "month": "August",
+      "event": "Death of Ahilyabai Holkar",
+      "id": "T00286"
+    },
+    {
+      "year": 1798,
+      "day": 18,
+      "month": "May",
+      "event": "Richard Wellesly appointed as Governor-general of Bengal",
+      "id": "T00287"
+    },
+    {
+      "year": 1799,
+      "day": null,
+      "month": null,
+      "event": "Battle of Serringapatam {Company and its allies vs Kingdom of Mysore}",
+      "id": "T00288"
+    },
+    {
+      "year": 1799,
+      "day": 4,
+      "month": "May",
+      "event": "Tipu Sultan died defending his capital serringapatam from British forces.",
+      "id": "T00289"
+    },
+    {
+      "year": 1800,
+      "day": null,
+      "month": null,
+      "event": "Chero Revolt - Chero farmer revolted against British under leadership of Chero Sardar Bhushan Singh",
+      "id": "T00290"
+    },
+    {
+      "year": 1801,
+      "day": null,
+      "month": null,
+      "event": "the Nawab of Awadh Shujauddaulah was forced to give over half of his territory to the Company in 1801, as he failed to pay for the “subsidiary forces”.",
+      "id": "T00291"
+    },
+    {
+      "year": 1801,
+      "day": 1,
+      "month": "January",
+      "event": "The kingdom of Great Britain and kingdom of Ireland merged to form United Kingdom of Great Britain and Ireland",
+      "id": "T00292"
+    },
+    {
+      "year": 1801,
+      "day": 12,
+      "month": "April",
+      "event": "Maharaja Ranjit Singh established the Sikh empire",
+      "id": "T00293"
+    },
+    {
+      "year": 1802,
+      "day": null,
+      "month": null,
+      "event": "Chero Sardar Bhushan Singh hanged to death.",
+      "id": "T00294"
+    },
+    {
+      "year": 1802,
+      "day": 25,
+      "month": "October",
+      "event": "Battle of Poona; Yeshwanth Rao Holkar defeats Baji Rao II",
+      "id": "T00295"
+    },
+    {
+      "year": 1802,
+      "day": 31,
+      "month": "December",
+      "event": "Treaty of Bassein; Peshwa Baji Rao II accepted British Subsidiary Alliance for the first time",
+      "id": "T00296"
+    },
+    {
+      "year": 1803,
+      "day": null,
+      "month": null,
+      "event": "Second Anglo Maratha war",
+      "id": "T00297"
+    },
+    {
+      "year": 1803,
+      "day": null,
+      "month": null,
+      "event": "Delhi was occupied by British Army and Mughal Emperor reduced to a mere pensioner of British.",
+      "id": "T00298"
+    },
+    {
+      "year": 1806,
+      "day": 19,
+      "month": "November",
+      "event": "Shah Alam II dies, Akbar Shah II becomes the puppet Mughal ruler under East India Company",
+      "id": "T00299"
+    },
+    {
+      "year": 1807,
+      "day": 31,
+      "month": "July",
+      "event": "Lord Minto become the Governor-General of Bengal",
+      "id": "T00300"
+    },
+    {
+      "year": 1812,
+      "day": 8,
+      "month": "June",
+      "event": "Robert Jenkinson becomes the Prime Minister of UK",
+      "id": "T00301"
+    },
+    {
+      "year": 1813,
+      "day": 21,
+      "month": "July",
+      "event": "Charter Act of 1813",
+      "id": "T00302"
+    },
+    {
+      "year": 1813,
+      "day": 4,
+      "month": "October",
+      "event": "Lord Hasting appointed as Governor-general",
+      "id": "T00303"
+    },
+    {
+      "year": 1817,
+      "day": null,
+      "month": null,
+      "event": "Third Anglo Maratha war",
+      "id": "T00304"
+    },
+    {
+      "year": 1817,
+      "day": null,
+      "month": null,
+      "event": "James Mill, published a massive three-volume work, A History of British India. In this he divided Indian history into three periods – Hindu, Muslim and British.",
+      "id": "T00305"
+    },
+    {
+      "year": 1817,
+      "day": 20,
+      "month": "January",
+      "event": "Hindu College was established in Kolkata by David Hare, Rammohun Roy and others",
+      "id": "T00306"
+    },
+    {
+      "year": 1820,
+      "day": null,
+      "month": null,
+      "event": "Hoz or Ho Tribal Revolt led by Raja of Parahat in Singhbhum, Jharkhand",
+      "id": "T00307"
+    },
+    {
+      "year": 1820,
+      "day": 29,
+      "month": "January",
+      "event": "George IV becomes the British Monarch",
+      "id": "T00308"
+    },
+    {
+      "year": 1822,
+      "day": null,
+      "month": null,
+      "event": "Holt Mackenzie introduced Mahalwari system to collect land revenues in Bengal province",
+      "id": "T00309"
+    },
+    {
+      "year": 1824,
+      "day": null,
+      "month": null,
+      "event": "Rani Channamma, queen of Kitoor (Karnataka) was arrested by british",
+      "id": "T00310"
+    },
+    {
+      "year": 1825,
+      "day": 4,
+      "month": "September",
+      "event": "Birth of Dadabhai Naoroji",
+      "id": "T00311"
+    },
+    {
+      "year": 1827,
+      "day": null,
+      "month": null,
+      "event": "Death of Rani Channamma",
+      "id": "T00312"
+    },
+    {
+      "year": 1827,
+      "day": 9,
+      "month": "April",
+      "event": "Robert Jenkinson resigns from the office of Prime Minister in UK",
+      "id": "T00313"
+    },
+    {
+      "year": 1828,
+      "day": 4,
+      "month": "July",
+      "event": "William Bentinck became the Governor-General of Fort Williams, Bengal",
+      "id": "T00314"
+    },
+    {
+      "year": 1828,
+      "day": 20,
+      "month": "August",
+      "event": "Brahmo Samaj was established by Raja Ram Mohun Roy & Debendranath Tagore",
+      "id": "T00315"
+    },
+    {
+      "year": 1829,
+      "day": 4,
+      "month": "December",
+      "event": "William Bentinck declares Sati illegal in Bengal",
+      "id": "T00316"
+    },
+    {
+      "year": 1830,
+      "day": null,
+      "month": null,
+      "event": "Company allowed christian missionary to function freely in its domain and even own land and property.",
+      "id": "T00317"
+    },
+    {
+      "year": 1830,
+      "day": 26,
+      "month": "June",
+      "event": "William IV becomes the British Monarch",
+      "id": "T00318"
+    },
+    {
+      "year": 1830,
+      "day": 22,
+      "month": "November",
+      "event": "Charles Grey becomes the Prime Minister of United Kingdom",
+      "id": "T00319"
+    },
+    {
+      "year": 1831,
+      "day": null,
+      "month": null,
+      "event": "Tribal revolt - Kols",
+      "id": "T00320"
+    },
+    {
+      "year": 1833,
+      "day": 28,
+      "month": "August",
+      "event": "Charter Act of 1833",
+      "id": "T00321"
+    },
+    {
+      "year": 1833,
+      "day": 27,
+      "month": "September",
+      "event": "Death of Raja Ram Mohun Roy in England",
+      "id": "T00322"
+    },
+    {
+      "year": 1834,
+      "day": 22,
+      "month": "April",
+      "event": "William Bentinck becomes the first Governor-General of India",
+      "id": "T00323"
+    },
+    {
+      "year": 1835,
+      "day": null,
+      "month": null,
+      "event": "English Education Act was introduced",
+      "id": "T00324"
+    },
+    {
+      "year": 1835,
+      "day": 20,
+      "month": "March",
+      "event": "William Bentinck returns to England",
+      "id": "T00325"
+    },
+    {
+      "year": 1837,
+      "day": null,
+      "month": null,
+      "event": "Invention of Telgraph by Samuel Morse",
+      "id": "T00326"
+    },
+    {
+      "year": 1837,
+      "day": 20,
+      "month": "June",
+      "event": "Queen Victoria becomes the British Monarch",
+      "id": "T00327"
+    },
+    {
+      "year": 1837,
+      "day": 28,
+      "month": "September",
+      "event": "Akbar Shah II dies, Bahadur Shah II becomes the Mughal Emperor",
+      "id": "T00328"
+    },
+    {
+      "year": 1839,
+      "day": 27,
+      "month": "June",
+      "event": "Death of Maharaja Ranjit Singh, ruler of Punjab",
+      "id": "T00329"
+    },
+    {
+      "year": 1845,
+      "day": 11,
+      "month": "December",
+      "event": "Anglo Sikh War I - British EIC defeats Sikh Empire",
+      "id": "T00330"
+    },
+    {
+      "year": 1846,
+      "day": null,
+      "month": null,
+      "event": "Treaty of Amritsar between British EIC and Raja Gulab Singh of Jammu; Jammu & Kashmir became a separate princely state establishing Dogra rule",
+      "id": "T00331"
+    },
+    {
+      "year": 1848,
+      "day": null,
+      "month": null,
+      "event": "Dalhousie appointed as Governor-general",
+      "id": "T00332"
+    },
+    {
+      "year": 1848,
+      "day": null,
+      "month": null,
+      "event": "Satara was annexed on the basis of the doctrine of lapse",
+      "id": "T00333"
+    },
+    {
+      "year": 1848,
+      "day": 12,
+      "month": "January",
+      "event": "Lord Dalhousie appointed as Governor-general of India",
+      "id": "T00334"
+    },
+    {
+      "year": 1848,
+      "day": 10,
+      "month": "November",
+      "event": "Birth of Surendranath Banarjee",
+      "id": "T00335"
+    },
+    {
+      "year": 1849,
+      "day": null,
+      "month": null,
+      "event": "British annexed Punjab",
+      "id": "T00336"
+    },
+    {
+      "year": 1849,
+      "day": 1,
+      "month": "August",
+      "event": "The Great Indian Peninsula Railway Company was incorporated on by the Great Indian Peninsula Railway Company Act 1849 of the Parliament of the United Kingdom.",
+      "id": "T00337"
+    },
+    {
+      "year": 1850,
+      "day": null,
+      "month": null,
+      "event": "Sambalpur was annexed on the basis of the doctrine of lapse",
+      "id": "T00338"
+    },
+    {
+      "year": 1851,
+      "day": 1,
+      "month": "January",
+      "event": "Geological Survey of India established",
+      "id": "T00339"
+    },
+    {
+      "year": 1852,
+      "day": null,
+      "month": null,
+      "event": "Udaipur was annexed on the basis of the doctrine of lapse",
+      "id": "T00340"
+    },
+    {
+      "year": 1853,
+      "day": null,
+      "month": null,
+      "event": "Nagpur was annexed on the basis of the doctrine of lapse",
+      "id": "T00341"
+    },
+    {
+      "year": 1853,
+      "day": 16,
+      "month": "April",
+      "event": "India's first passenger train, operated by the Great Indian Peninsula Railway, ran between Mumbai & Thane",
+      "id": "T00342"
+    },
+    {
+      "year": 1853,
+      "day": 20,
+      "month": "August",
+      "event": "Charter Act of 1853; Provided for open competitive examination for Civil Services in India",
+      "id": "T00343"
+    },
+    {
+      "year": 1854,
+      "day": null,
+      "month": null,
+      "event": "Jhansi was annexed on the basis of the doctrine of lapse",
+      "id": "T00344"
+    },
+    {
+      "year": 1854,
+      "day": null,
+      "month": null,
+      "event": "First cotton mill was set up in Bombay",
+      "id": "T00345"
+    },
+    {
+      "year": 1854,
+      "day": 19,
+      "month": "July",
+      "event": "Woods' Dispatch from Charles Wood was sent to Dalhousie regarding Education in India",
+      "id": "T00346"
+    },
+    {
+      "year": 1855,
+      "day": null,
+      "month": null,
+      "event": "Tribal revolt - Santhals",
+      "id": "T00347"
+    },
+    {
+      "year": 1856,
+      "day": null,
+      "month": null,
+      "event": "Awadh was annexed",
+      "id": "T00348"
+    },
+    {
+      "year": 1856,
+      "day": null,
+      "month": null,
+      "event": "Governor-General Canning decided that Bahadur Shah Zafar would be the last Mughal king and after his death none of his descendants would be recognised as kings – they would just be called princes.",
+      "id": "T00349"
+    },
+    {
+      "year": 1856,
+      "day": null,
+      "month": null,
+      "event": "Widow remarriage act was passed.",
+      "id": "T00350"
+    },
+    {
+      "year": 1856,
+      "day": 28,
+      "month": "February",
+      "event": "Charles Canning becomes the Governor-General of India",
+      "id": "T00351"
+    },
+    {
+      "year": 1856,
+      "day": 23,
+      "month": "July",
+      "event": "Birth of Bal Gangadhar Tilak",
+      "id": "T00352"
+    },
+    {
+      "year": 1857,
+      "day": 8,
+      "month": "April",
+      "event": "Mangal Pandey was hanged",
+      "id": "T00353"
+    },
+    {
+      "year": 1857,
+      "day": null,
+      "month": "May",
+      "event": "Sepoy Mutiny - The Revolt of 1857 - First War of Independence",
+      "id": "T00354"
+    },
+    {
+      "year": 1857,
+      "day": null,
+      "month": "September",
+      "event": "Company recaptured Delhi from rebels",
+      "id": "T00355"
+    },
+    {
+      "year": 1858,
+      "day": null,
+      "month": null,
+      "event": "Government of India Act 1858",
+      "id": "T00356"
+    },
+    {
+      "year": 1858,
+      "day": 23,
+      "month": "April",
+      "event": "Veer Kunwar Singh recaptured Jagadishpur from British",
+      "id": "T00357"
+    },
+    {
+      "year": 1858,
+      "day": 26,
+      "month": "April",
+      "event": "Death of Veer Kunwar Singh",
+      "id": "T00358"
+    },
+    {
+      "year": 1858,
+      "day": 18,
+      "month": "June",
+      "event": "Rani Lakshmibai was defeated and killed in Gwalior, Madhya Pradesh",
+      "id": "T00359"
+    },
+    {
+      "year": 1858,
+      "day": 2,
+      "month": "August",
+      "event": "Edward Henry Stanley becomes the first Secretary of State for India in British Parliament",
+      "id": "T00360"
+    },
+    {
+      "year": 1858,
+      "day": 1,
+      "month": "November",
+      "event": "Charles Canning becomes the first Viceroy & Governor-General of India",
+      "id": "T00361"
+    },
+    {
+      "year": 1859,
+      "day": null,
+      "month": null,
+      "event": "British set up Peel Commission to reorganise army post revolt of 1857",
+      "id": "T00362"
+    },
+    {
+      "year": 1859,
+      "day": null,
+      "month": "March",
+      "event": "The Blue Rebellion, Bengal",
+      "id": "T00363"
+    },
+    {
+      "year": 1859,
+      "day": 18,
+      "month": "June",
+      "event": "Charles Wood becomes the Secretary of State for India",
+      "id": "T00364"
+    },
+    {
+      "year": 1859,
+      "day": 24,
+      "month": "November",
+      "event": "Charles Darwin published Origin of Species",
+      "id": "T00365"
+    },
+    {
+      "year": 1861,
+      "day": null,
+      "month": null,
+      "event": "Archaelogical Survey of India was established by Alexander Cunningham",
+      "id": "T00366"
+    },
+    {
+      "year": 1861,
+      "day": 12,
+      "month": "April",
+      "event": "American Civil War started leading to rise in cotton exports from India to UK",
+      "id": "T00367"
+    },
+    {
+      "year": 1861,
+      "day": 1,
+      "month": "August",
+      "event": "Indian Councils Act of 1861 passed by British Parliament",
+      "id": "T00368"
+    },
+    {
+      "year": 1862,
+      "day": 1,
+      "month": "January",
+      "event": "Indian Penal Code (IPC) came into effect",
+      "id": "T00369"
+    },
+    {
+      "year": 1862,
+      "day": 21,
+      "month": "March",
+      "event": "Charles Canning returned to England",
+      "id": "T00370"
+    },
+    {
+      "year": 1863,
+      "day": 12,
+      "month": "January",
+      "event": "Birth of Swami Vivekananda (Narendranath Datta) in Calcutta",
+      "id": "T00371"
+    },
+    {
+      "year": 1865,
+      "day": 28,
+      "month": "January",
+      "event": "Birth of Lala Lajpat Rai {Punjab Kesari}",
+      "id": "T00372"
+    },
+    {
+      "year": 1865,
+      "day": 26,
+      "month": "May",
+      "event": "End of American Civil War",
+      "id": "T00373"
+    },
+    {
+      "year": 1866,
+      "day": null,
+      "month": null,
+      "event": "Dadabhai Naoroji established the East India Association in London",
+      "id": "T00374"
+    },
+    {
+      "year": 1866,
+      "day": 9,
+      "month": "May",
+      "event": "Birth of Gopal Krishna Gokhale (Political Mentor of MK Gandhi) at Ratnagiri district (Present day Maharastra)",
+      "id": "T00375"
+    },
+    {
+      "year": 1867,
+      "day": null,
+      "month": null,
+      "event": "Hindu Mela (Chaitra Mela) was organised for the first time in Kolkata by Nabagopal Mitra",
+      "id": "T00376"
+    },
+    {
+      "year": 1869,
+      "day": 2,
+      "month": "October",
+      "event": "Birth of MK Gandhi at Porbandar (Present day Gujarat)",
+      "id": "T00377"
+    },
+    {
+      "year": 1869,
+      "day": 17,
+      "month": "November",
+      "event": "Opening of Suez Canal",
+      "id": "T00378"
+    },
+    {
+      "year": 1870,
+      "day": 2,
+      "month": "April",
+      "event": "Poona Sarvajanik Sabha was founded by Mahadev Govind Ranade",
+      "id": "T00379"
+    },
+    {
+      "year": 1875,
+      "day": 10,
+      "month": "April",
+      "event": "Arya Samaj was founded by Dayanand Saraswati",
+      "id": "T00380"
+    },
+    {
+      "year": 1875,
+      "day": 15,
+      "month": "November",
+      "event": "Birth of Birsa Munda in Ranchi, Bengal Presidency",
+      "id": "T00381"
+    },
+    {
+      "year": 1876,
+      "day": null,
+      "month": null,
+      "event": "Invention of Telephone by Alexander Graham Bell",
+      "id": "T00382"
+    },
+    {
+      "year": 1876,
+      "day": 27,
+      "month": "April",
+      "event": "Royal Titles Act; Queen Victoria assumed the title of Empress of India",
+      "id": "T00383"
+    },
+    {
+      "year": 1876,
+      "day": 26,
+      "month": "July",
+      "event": "Indian Association was founded by Surendranath Banarjee & Anand Mohan Bose",
+      "id": "T00384"
+    },
+    {
+      "year": 1877,
+      "day": 7,
+      "month": "January",
+      "event": "Syed Ahmed Khan founded the Muhammadan Anglo-Oriental College in Aligarh that would later become Aligarh Muslim University",
+      "id": "T00385"
+    },
+    {
+      "year": 1878,
+      "day": null,
+      "month": null,
+      "event": "Arms act was passed",
+      "id": "T00386"
+    },
+    {
+      "year": 1878,
+      "day": 14,
+      "month": "March",
+      "event": "Vernacular Press Act was passed under Lytton",
+      "id": "T00387"
+    },
+    {
+      "year": 1879,
+      "day": null,
+      "month": null,
+      "event": "Deccan Agriculturists Relief Act of 1879",
+      "id": "T00388"
+    },
+    {
+      "year": 1879,
+      "day": null,
+      "month": null,
+      "event": "Invention of Electric Light Bulb by Thomas Edison",
+      "id": "T00389"
+    },
+    {
+      "year": 1881,
+      "day": null,
+      "month": null,
+      "event": "First complete census conducted in India",
+      "id": "T00390"
+    },
+    {
+      "year": 1883,
+      "day": 9,
+      "month": "February",
+      "event": "Illbert Bill was introduced in Imperial Legislative Council of India head by Ripon",
+      "id": "T00391"
+    },
+    {
+      "year": 1883,
+      "day": 28,
+      "month": "May",
+      "event": "Birth of Vinayak Damodar Savarkar",
+      "id": "T00392"
+    },
+    {
+      "year": 1884,
+      "day": null,
+      "month": null,
+      "event": "Madras Mahajan Sabha was established by M. Veeraraghavachariar, G. Subramania Iyer, P. Ananda Charlu",
+      "id": "T00393"
+    },
+    {
+      "year": 1885,
+      "day": null,
+      "month": null,
+      "event": "Invention of Internal Combustion Engine giving rise to automobiles",
+      "id": "T00394"
+    },
+    {
+      "year": 1885,
+      "day": null,
+      "month": null,
+      "event": "Bengal Tenancy Act; To protect the rights of tenant farmers (ryots) in Bengal from exploitation by zamindars.",
+      "id": "T00395"
+    },
+    {
+      "year": 1885,
+      "day": null,
+      "month": "January",
+      "event": "Bombay Presidency Association was established by Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji",
+      "id": "T00396"
+    },
+    {
+      "year": 1885,
+      "day": null,
+      "month": "December",
+      "event": "Formation of Indian National Congress",
+      "id": "T00397"
+    },
+    {
+      "year": 1888,
+      "day": 29,
+      "month": "September",
+      "event": "MK Gandhi reached England for studies",
+      "id": "T00398"
+    },
+    {
+      "year": 1889,
+      "day": 15,
+      "month": "May",
+      "event": "Eiffel Tower in Paris was open to Public",
+      "id": "T00399"
+    },
+    {
+      "year": 1890,
+      "day": null,
+      "month": null,
+      "event": "Kadambini Bose Ganguli became first woman to address INC session in Mumbai",
+      "id": "T00400"
+    },
+    {
+      "year": 1891,
+      "day": 14,
+      "month": "April",
+      "event": "Birth of Bhimrao Ramji Ambedkar",
+      "id": "T00401"
+    },
+    {
+      "year": 1892,
+      "day": 20,
+      "month": "June",
+      "event": "The Indian Councils Act, 1892 passed",
+      "id": "T00402"
+    },
+    {
+      "year": 1893,
+      "day": 18,
+      "month": "May",
+      "event": "MK Gandhi went to South Africa to represent a private firm \"Dada Abdulla & Co\" in a business dispute case",
+      "id": "T00403"
+    },
+    {
+      "year": 1893,
+      "day": 10,
+      "month": "August",
+      "event": "Rudolf Diesel’s successfully ran a diesel engine on peanut oil; First use of Biofuel",
+      "id": "T00404"
+    },
+    {
+      "year": 1893,
+      "day": 11,
+      "month": "September",
+      "event": "The first World's Parliament of Religion was held at Chicago, USA where Swami Vivekananda delivered his famous speech",
+      "id": "T00405"
+    },
+    {
+      "year": 1894,
+      "day": 22,
+      "month": "August",
+      "event": "Formation of Natal Indian Congress by MK Gandhi in Durban, South Africa",
+      "id": "T00406"
+    },
+    {
+      "year": 1895,
+      "day": null,
+      "month": null,
+      "event": "Discovery of X-rays by Wilhelm Roentgen",
+      "id": "T00407"
+    },
+    {
+      "year": 1895,
+      "day": null,
+      "month": null,
+      "event": "Welby Commission; To examine and report on how British India’s revenues were spent, especially focusing on home charges (money remitted to Britain); Chaired by Welby; Dadabhai Naraoji was member of this Commission",
+      "id": "T00408"
+    },
+    {
+      "year": 1897,
+      "day": 23,
+      "month": "January",
+      "event": "Birth of Subhas Chandra Bose",
+      "id": "T00409"
+    },
+    {
+      "year": 1897,
+      "day": 1,
+      "month": "May",
+      "event": "Ramkrishna Mission founded by Swami Vivekanand",
+      "id": "T00410"
+    },
+    {
+      "year": 1899,
+      "day": null,
+      "month": null,
+      "event": "Munda Rebellion - Ulgulan -Great Tumult {कोलाहल} led by Birsa Munda",
+      "id": "T00411"
+    },
+    {
+      "year": 1902,
+      "day": null,
+      "month": null,
+      "event": "University Commission set up by Charles Curzon, the then viceroy of India; headed by Thomas Raleigh to asses and reform university education",
+      "id": "T00412"
+    },
+    {
+      "year": 1902,
+      "day": 4,
+      "month": "July",
+      "event": "Death of Swami Vivekananda",
+      "id": "T00413"
+    },
+    {
+      "year": 1903,
+      "day": null,
+      "month": null,
+      "event": "Invention of Aeroplane by Wright Brothers",
+      "id": "T00414"
+    },
+    {
+      "year": 1904,
+      "day": null,
+      "month": null,
+      "event": "Indian University Act",
+      "id": "T00415"
+    },
+    {
+      "year": 1904,
+      "day": null,
+      "month": null,
+      "event": "V. D. Savarkar organised Abhinav Bharat as a secret society of revolutionaries",
+      "id": "T00416"
+    },
+    {
+      "year": 1904,
+      "day": null,
+      "month": null,
+      "event": "The Golden League was established in Deoghar to boycott British Goods and to advance Swadeshi Movement in Bihar",
+      "id": "T00417"
+    },
+    {
+      "year": 1905,
+      "day": 19,
+      "month": "July",
+      "event": "Decision of Partition of Bengal was announced",
+      "id": "T00418"
+    },
+    {
+      "year": 1905,
+      "day": 6,
+      "month": "August",
+      "event": "Swadesh Bandhav Samiti founded by Ashwini Kumar Dutta",
+      "id": "T00419"
+    },
+    {
+      "year": 1905,
+      "day": 16,
+      "month": "October",
+      "event": "Partition of Bengal by Charles Curzon on communal lines - West Bengal (Hindu majority) & East Bengal (Muslim majority); Sparked Swadeshi movement",
+      "id": "T00420"
+    },
+    {
+      "year": 1905,
+      "day": 18,
+      "month": "November",
+      "event": "4th Earl of Minto became the Viceroy of India",
+      "id": "T00421"
+    },
+    {
+      "year": 1905,
+      "day": 10,
+      "month": "December",
+      "event": "John Morley became the Secretary of State for India",
+      "id": "T00422"
+    },
+    {
+      "year": 1906,
+      "day": null,
+      "month": null,
+      "event": "Revolt of Songram Sangma",
+      "id": "T00423"
+    },
+    {
+      "year": 1906,
+      "day": null,
+      "month": null,
+      "event": "All India Muslim League was formed",
+      "id": "T00424"
+    },
+    {
+      "year": 1906,
+      "day": 15,
+      "month": "August",
+      "event": "Establishment of National Council of Education - Bengal",
+      "id": "T00425"
+    },
+    {
+      "year": 1907,
+      "day": 22,
+      "month": "August",
+      "event": "Bhikaiji Rustom Cama raised the flag of Indian Independence, designed by her, at the International Socialist Conference in Stuttgart, Germany",
+      "id": "T00426"
+    },
+    {
+      "year": 1907,
+      "day": 26,
+      "month": "August",
+      "event": "Tata Iron and Steel Company - TISCO was established by Dorabji Tata",
+      "id": "T00427"
+    },
+    {
+      "year": 1907,
+      "day": null,
+      "month": "December",
+      "event": "Split in Congress at Surat Session - Moderates and Extremists",
+      "id": "T00428"
+    },
+    {
+      "year": 1908,
+      "day": null,
+      "month": null,
+      "event": "Satyendra Prasanna Sinha becomes the first Indian to become the Advocate General of Bengal",
+      "id": "T00429"
+    },
+    {
+      "year": 1908,
+      "day": 30,
+      "month": "April",
+      "event": "Failed assissination attempt on Douglas H Kingsford, a British Judge by Khudiram Bose and Prafulla Chaki in Muzaffarpur, Bihar",
+      "id": "T00430"
+    },
+    {
+      "year": 1909,
+      "day": null,
+      "month": null,
+      "event": "Satyendra Prasanna Sinha becomes the first Indian member of Viceroy's executive Council",
+      "id": "T00431"
+    },
+    {
+      "year": 1909,
+      "day": 12,
+      "month": "March",
+      "event": "The Indian Councils Act, 1909 passed also known as the Morley-Minto Reforms",
+      "id": "T00432"
+    },
+    {
+      "year": 1909,
+      "day": 1,
+      "month": "July",
+      "event": "Madan Lal Dhingra assassinated Curzon Wyllie, a British Indian Army Officer",
+      "id": "T00433"
+    },
+    {
+      "year": 1911,
+      "day": null,
+      "month": null,
+      "event": "Italo-Turkish War ( Italy vs Ottoman Empire of Turkey)",
+      "id": "T00434"
+    },
+    {
+      "year": 1911,
+      "day": 12,
+      "month": "December",
+      "event": "Delhi Durbar; George V became the first British Monarch to visit India; Western & Eastern Bengal were re-united; Capital was shited from Kolkata to Delhi",
+      "id": "T00435"
+    },
+    {
+      "year": 1912,
+      "day": 16,
+      "month": "February",
+      "event": "Tata Iron and Steel Company - TISCO began producing steels in Jamshedpur",
+      "id": "T00436"
+    },
+    {
+      "year": 1912,
+      "day": 22,
+      "month": "March",
+      "event": "Bihar and Orissa were separated from Bengal, forming a new province \"Bihar and Orissa\" with Patna as capital",
+      "id": "T00437"
+    },
+    {
+      "year": 1912,
+      "day": 23,
+      "month": "December",
+      "event": "Rash Behari Bose planned assassination of Hardinge, viceroy of India in during Delhi Durbar",
+      "id": "T00438"
+    },
+    {
+      "year": 1913,
+      "day": 15,
+      "month": "July",
+      "event": "Ghadar Party was established in USA and Canada by Lala Har Dayal and Sohan Singh Bhakna",
+      "id": "T00439"
+    },
+    {
+      "year": 1914,
+      "day": 3,
+      "month": "July",
+      "event": "Simla Convention; A tripartite conference, invited by Henry McMahon between British India, Tibet, and China aimed at settling the status and boundaries of Tibet; McMohan Line demarcated to be boundary between Tibet and British India; China refused to sign the convention",
+      "id": "T00440"
+    },
+    {
+      "year": 1914,
+      "day": 28,
+      "month": "July",
+      "event": "World War I; Allied [ France, Britain, USA etc ] vs Central [ Germany, Austria, Ottoman Empire etc]",
+      "id": "T00441"
+    },
+    {
+      "year": 1915,
+      "day": null,
+      "month": "January",
+      "event": "Gandhiji arrived India from South Africa",
+      "id": "T00442"
+    },
+    {
+      "year": 1915,
+      "day": null,
+      "month": "April",
+      "event": "Hindu Mahashabha was founded by Madan Mohan Malviya in Haridwar",
+      "id": "T00443"
+    },
+    {
+      "year": 1916,
+      "day": 3,
+      "month": "February",
+      "event": "Patna High Court established",
+      "id": "T00444"
+    },
+    {
+      "year": 1916,
+      "day": 4,
+      "month": "April",
+      "event": "Chlemsford becomes the Governor-General {Viceroy} of India",
+      "id": "T00445"
+    },
+    {
+      "year": 1916,
+      "day": null,
+      "month": "December",
+      "event": "Lucknow Congress Session; Indian National Congress re-united its Moderate and the revolutionary nationalist members; Lucknow Pact was agreed between Indian National Congress and All India Muslim League",
+      "id": "T00446"
+    },
+    {
+      "year": 1917,
+      "day": null,
+      "month": null,
+      "event": "Russian Revolution",
+      "id": "T00447"
+    },
+    {
+      "year": 1917,
+      "day": null,
+      "month": "April",
+      "event": "Champaran Satyagraha; Mahatma Gandhi visits Champaran, Bihar",
+      "id": "T00448"
+    },
+    {
+      "year": 1917,
+      "day": 17,
+      "month": "July",
+      "event": "Edwin Montagu becomes the Secretary of State for India",
+      "id": "T00449"
+    },
+    {
+      "year": 1917,
+      "day": null,
+      "month": "December",
+      "event": "Annie Besant became first female and foreigner to become president of Indian National Congress",
+      "id": "T00450"
+    },
+    {
+      "year": 1918,
+      "day": null,
+      "month": null,
+      "event": "Montague-Chelmsford Reforms were announced which formed the basis of Government of India Act 1919",
+      "id": "T00451"
+    },
+    {
+      "year": 1918,
+      "day": null,
+      "month": null,
+      "event": "Kheda Satyagraha in Gujarat; Due to crop failure, farmers protested under guidance of Mahatma Gandhi againts British for remission of taxes",
+      "id": "T00452"
+    },
+    {
+      "year": 1919,
+      "day": null,
+      "month": null,
+      "event": "Khilafat Committee was formed",
+      "id": "T00453"
+    },
+    {
+      "year": 1919,
+      "day": null,
+      "month": null,
+      "event": "Nai-Dhobi Band - A social boycott to deprive landlords of basic emenities were organised by peasants of Partapgarh distict {Uttar Pradesh}",
+      "id": "T00454"
+    },
+    {
+      "year": 1919,
+      "day": 18,
+      "month": "March",
+      "event": "Rowlatt Act was passed by Imperial Legislative Council of India",
+      "id": "T00455"
+    },
+    {
+      "year": 1919,
+      "day": 11,
+      "month": "April",
+      "event": "Foundation of International Labour Organisation",
+      "id": "T00456"
+    },
+    {
+      "year": 1919,
+      "day": 13,
+      "month": "April",
+      "event": "Jallianwala Bagh Massacre in Amritsar, Punjab",
+      "id": "T00457"
+    },
+    {
+      "year": 1919,
+      "day": 28,
+      "month": "June",
+      "event": "End of World War I; Treaty of Versailles signed between Germany and Allied Powers [ USA, Russia, UK, France, Italy, Japan ]",
+      "id": "T00458"
+    },
+    {
+      "year": 1919,
+      "day": 7,
+      "month": "September",
+      "event": "First issue of Navjeeven (Gujarati Newspaper) with MK Gandhi as editor was published",
+      "id": "T00459"
+    },
+    {
+      "year": 1919,
+      "day": 8,
+      "month": "October",
+      "event": "First issue of Young India (English Newspaper) with MK Gandhi as editor was published",
+      "id": "T00460"
+    },
+    {
+      "year": 1919,
+      "day": 23,
+      "month": "December",
+      "event": "Government of India Act 1919 passed by UK Parliament",
+      "id": "T00461"
+    },
+    {
+      "year": 1920,
+      "day": null,
+      "month": null,
+      "event": "Muhammadan Anglo-Oriental College was transformed to Aligarh Muslim University",
+      "id": "T00462"
+    },
+    {
+      "year": 1920,
+      "day": 31,
+      "month": "August",
+      "event": "The Khilafat Committee launched Non-Cooperation Movement",
+      "id": "T00463"
+    },
+    {
+      "year": 1920,
+      "day": 31,
+      "month": "October",
+      "event": "Foundation All India Trade Union Congress",
+      "id": "T00464"
+    },
+    {
+      "year": 1920,
+      "day": 29,
+      "month": "December",
+      "event": "Satyendra Prasanna Sinha becomes the first Governor of Bihar & Odisha Presidency",
+      "id": "T00465"
+    },
+    {
+      "year": 1921,
+      "day": null,
+      "month": null,
+      "event": "Moplah or Mapillah or Malabar Rebellion; Muslim peasants of Kerala rebelled against British and Hindu Landlords",
+      "id": "T00466"
+    },
+    {
+      "year": 1921,
+      "day": 27,
+      "month": "January",
+      "event": "Three presidency banks merged to create Imperial Bank of India",
+      "id": "T00467"
+    },
+    {
+      "year": 1922,
+      "day": null,
+      "month": null,
+      "event": "Sarabandi (No-Tax) campaign led by Sardar Vallabhbhai Patel",
+      "id": "T00468"
+    },
+    {
+      "year": 1922,
+      "day": null,
+      "month": null,
+      "event": "Southern Ireland seceded from United Kingdom to form United Kingdom of Great Britain and Northern Island",
+      "id": "T00469"
+    },
+    {
+      "year": 1922,
+      "day": 5,
+      "month": "February",
+      "event": "Chauri Chaura incident; Gandhi called off Non-Cooperation Movement",
+      "id": "T00470"
+    },
+    {
+      "year": 1922,
+      "day": 26,
+      "month": "December",
+      "event": "Indian National Congress - Gaya Session, chaired by Chittaranjan Das; Showcased ideological differences between Gandhian and Swarajists",
+      "id": "T00471"
+    },
+    {
+      "year": 1923,
+      "day": 1,
+      "month": "January",
+      "event": "Foundation of Swaraj Party by Chittaranjan Das and Motilal Nehru",
+      "id": "T00472"
+    },
+    {
+      "year": 1923,
+      "day": null,
+      "month": "February",
+      "event": "Swaraj Dal in Bihar was established by Krishna Sinha",
+      "id": "T00473"
+    },
+    {
+      "year": 1924,
+      "day": null,
+      "month": null,
+      "event": "Hindustan Republican Association (HRA) was formed by revolutionary nationalists to organise armed revolution",
+      "id": "T00474"
+    },
+    {
+      "year": 1924,
+      "day": 30,
+      "month": "March",
+      "event": "Vaikom Satyagraha in present day Kerala; People belonging to low-caste were not allowed to walk on the roads leading to Vaikom Mahadev Temple; They led a peaceful non-violent protest against this castiest ban.",
+      "id": "T00475"
+    },
+    {
+      "year": 1924,
+      "day": null,
+      "month": "December",
+      "event": "Mahatma Gandhi presided Belgaum INC session; Only INC session presided by Gandhi",
+      "id": "T00476"
+    },
+    {
+      "year": 1925,
+      "day": null,
+      "month": null,
+      "event": "Kakori Conspiracy - Train carrying revenue money were looted by HRA members",
+      "id": "T00477"
+    },
+    {
+      "year": 1925,
+      "day": 23,
+      "month": "September",
+      "event": "Maharaja Hari Singh ascends to the throne of Jammu & Kashmir",
+      "id": "T00478"
+    },
+    {
+      "year": 1925,
+      "day": 27,
+      "month": "September",
+      "event": "Foundation of RSS - Rashtriya Swayamsevak Sangh by Dr. Keshav Baliram Hedgewar",
+      "id": "T00479"
+    },
+    {
+      "year": 1927,
+      "day": null,
+      "month": null,
+      "event": "The Butler Committee, officially known as the Indian States Committee, was appointed to review and define the relationship between the Indian princely states and the British Crown.",
+      "id": "T00480"
+    },
+    {
+      "year": 1927,
+      "day": null,
+      "month": null,
+      "event": "All India State People Conference was set up by Princely Sates",
+      "id": "T00481"
+    },
+    {
+      "year": 1928,
+      "day": null,
+      "month": null,
+      "event": "Foundation of HSRA - Hindustan Socialist Republican Association; Chandra Shekhar Azad remaned HRA",
+      "id": "T00482"
+    },
+    {
+      "year": 1928,
+      "day": 12,
+      "month": "February",
+      "event": "Vallabhbhai Patel led Bardoli Satyagraha against unjustified tax hike; Earned the title - Sardar",
+      "id": "T00483"
+    },
+    {
+      "year": 1928,
+      "day": 28,
+      "month": "February",
+      "event": "Raman Effect discovered by CV Raman",
+      "id": "T00484"
+    },
+    {
+      "year": 1928,
+      "day": 28,
+      "month": "August",
+      "event": "Motilal Nehru presented Nehru Report as a response to Simon Commission; It was the first Indian effort to draft a constitution for India, led by Indians themselves",
+      "id": "T00485"
+    },
+    {
+      "year": 1928,
+      "day": 30,
+      "month": "October",
+      "event": "Lala Lajpat Rai led a protest against Simon Commission giving slogan - Simon Go Back; He got fatally injured due to police lathicharge ordered by Superintendent James Scott",
+      "id": "T00486"
+    },
+    {
+      "year": 1928,
+      "day": 17,
+      "month": "December",
+      "event": "Bhagat Singh, Sukhdev and Rajguru killed John P. Saunders instead of James Scott",
+      "id": "T00487"
+    },
+    {
+      "year": 1929,
+      "day": null,
+      "month": null,
+      "event": "Swami Sahajanand Saraswati founder Bihar Provincial Kisan Shabha (BPKS) to mobilise peasants agains zamindari system in Bihar",
+      "id": "T00488"
+    },
+    {
+      "year": 1929,
+      "day": null,
+      "month": null,
+      "event": "Child Marriage restraint act was passed",
+      "id": "T00489"
+    },
+    {
+      "year": 1929,
+      "day": null,
+      "month": null,
+      "event": "The Great Depression",
+      "id": "T00490"
+    },
+    {
+      "year": 1929,
+      "day": null,
+      "month": null,
+      "event": "Kameshwar Singh became the last ruling Maharaja of Darbhanga",
+      "id": "T00491"
+    },
+    {
+      "year": 1929,
+      "day": 8,
+      "month": "April",
+      "event": "Bhagat Singh and Batukeshwar Dutt threw a bomb in the central legislative assembly",
+      "id": "T00492"
+    },
+    {
+      "year": 1929,
+      "day": 31,
+      "month": "December",
+      "event": "Lahore Session of Congress; Jawaharlal Nehru was made president of INC, replacing his father Motilal Nehru as president; Poorna Swaraj was declared as objective of Congress; Jawaharlal Nehru hoisted Tri-Colour Flag of India's Independence; 26 January 1930 was to be clebrated as Poorna Swaraj Day",
+      "id": "T00493"
+    },
+    {
+      "year": 1930,
+      "day": null,
+      "month": null,
+      "event": "Forest Satyagraha",
+      "id": "T00494"
+    },
+    {
+      "year": 1930,
+      "day": null,
+      "month": null,
+      "event": "First Round Table Conference in London to discuss Simon Commission Report",
+      "id": "T00495"
+    },
+    {
+      "year": 1930,
+      "day": 26,
+      "month": "January",
+      "event": "Purna Swaraj Day; Independence Day was observed all over India",
+      "id": "T00496"
+    },
+    {
+      "year": 1930,
+      "day": 12,
+      "month": "March",
+      "event": "MK Gandhi started Civil Disobedience Movement with Dandi March {From Sabarmati to Dandi} to break Salt Law",
+      "id": "T00497"
+    },
+    {
+      "year": 1930,
+      "day": 6,
+      "month": "April",
+      "event": "MK Gandhi reached Dandi, covering 241 miles in 24 days",
+      "id": "T00498"
+    },
+    {
+      "year": 1931,
+      "day": null,
+      "month": null,
+      "event": "The Indian Nation - A nationalist newspaper began its publication in Patna, Bihar launched by Maharaja Kameshwar Singh of Darbhanga",
+      "id": "T00499"
+    },
+    {
+      "year": 1931,
+      "day": null,
+      "month": null,
+      "event": "Economist Dr. V. K. R. V. Rao made first scientific and systematic attempt to estimate India’s national income",
+      "id": "T00500"
+    },
+    {
+      "year": 1931,
+      "day": 5,
+      "month": "March",
+      "event": "The Gandhi-Irwin Pact (also called the Delhi Pact) was a political agreement signed between Mahatma Gandhi and Irwin, the Viceroy of India.",
+      "id": "T00501"
+    },
+    {
+      "year": 1931,
+      "day": 23,
+      "month": "March",
+      "event": "Bhagat Singh, Sukhdev and Rajguru were executed.",
+      "id": "T00502"
+    },
+    {
+      "year": 1931,
+      "day": 26,
+      "month": "March",
+      "event": "Karachi Session of INC presided by Vallabhbhai Patel; Adoption of Karachi Resolution on Fundamental Rights and Economic Policies",
+      "id": "T00503"
+    },
+    {
+      "year": 1931,
+      "day": 13,
+      "month": "July",
+      "event": "Dogra soldiers of Maharaja Hari Singh of Kashmir shot 22 muslim protestors; Observed as Kashmir Martyrs' Day",
+      "id": "T00504"
+    },
+    {
+      "year": 1931,
+      "day": null,
+      "month": "September",
+      "event": "Gandhi went to Englad to attend Second Round Table Conference in London, according to Gandhi-Irwin Pact",
+      "id": "T00505"
+    },
+    {
+      "year": 1932,
+      "day": null,
+      "month": null,
+      "event": "Third Round Table Conference was held in England that would later influence Government of India Act 1935",
+      "id": "T00506"
+    },
+    {
+      "year": 1932,
+      "day": 16,
+      "month": "August",
+      "event": "The Communal Award was announced by British Prime Minister Ramsay MacDonald to grant separate electorates to various religious and social communities in British India, including Dalits (Depressed Classes)",
+      "id": "T00507"
+    },
+    {
+      "year": 1932,
+      "day": 20,
+      "month": "September",
+      "event": "The All India Harijan Sevak Sangh was founded by Mahatma Gandhi to work for the upliftment of the Dalits (then called Harijans) and to eradicate untouchability",
+      "id": "T00508"
+    },
+    {
+      "year": 1932,
+      "day": 24,
+      "month": "September",
+      "event": "Poona Pact; Between Ambedkar and Gandhi; Separate electorates for Dalits were replaced with reserved seats in joint electorates",
+      "id": "T00509"
+    },
+    {
+      "year": 1933,
+      "day": 28,
+      "month": "January",
+      "event": "Rahmat Ali proposed a separate homeland for the Muslims of north-western India in his pamphlet - Now or Never: Are We to Live or Perish Forever?; First public use of the term \"Pakstan\" (without the \"i\")",
+      "id": "T00510"
+    },
+    {
+      "year": 1934,
+      "day": null,
+      "month": "May",
+      "event": "Civil Disobedience Movement was called off by Congress",
+      "id": "T00511"
+    },
+    {
+      "year": 1934,
+      "day": 17,
+      "month": "May",
+      "event": "Formation of Congress Socialist Party by Acharya Narendra Dev, Jayaprakash Naryan, Ram Manohar Lohia and others",
+      "id": "T00512"
+    },
+    {
+      "year": 1935,
+      "day": 1,
+      "month": "April",
+      "event": "Reserve Bank of India Act was enacted to constitute RBI; First RBI Governor - Sir Osborne Smith",
+      "id": "T00513"
+    },
+    {
+      "year": 1935,
+      "day": 2,
+      "month": "August",
+      "event": "Government of India Act 1935 passed by UK Parliament",
+      "id": "T00514"
+    },
+    {
+      "year": 1936,
+      "day": 1,
+      "month": "April",
+      "event": "Odisha (then Orissa) carved out of Bihar and Orissa based on language (Odia-speaking areas).",
+      "id": "T00515"
+    },
+    {
+      "year": 1936,
+      "day": 11,
+      "month": "April",
+      "event": "All India Kisan Shabha (AIKS) was established with Sahajanand Sarasawati as it's first president",
+      "id": "T00516"
+    },
+    {
+      "year": 1937,
+      "day": null,
+      "month": null,
+      "event": "Indian Provincial Election was conducted",
+      "id": "T00517"
+    },
+    {
+      "year": 1938,
+      "day": null,
+      "month": null,
+      "event": "Discovery of Nuclear Fission",
+      "id": "T00518"
+    },
+    {
+      "year": 1938,
+      "day": null,
+      "month": null,
+      "event": "INC Haripura (Gujarat Session); Subhash Chandra Bose elected as president for the first time",
+      "id": "T00519"
+    },
+    {
+      "year": 1939,
+      "day": null,
+      "month": null,
+      "event": "INC Tripuri (Madhya Pradesh) Session; Subhash re-elected as president of congress against Pattabhi Sitaramaiya, supported by Gandhi",
+      "id": "T00520"
+    },
+    {
+      "year": 1939,
+      "day": null,
+      "month": null,
+      "event": "Rajkot Satyagraha in Gujarat; Mahatma Gandhi kept fast-unto-death against autocratic rule of Rajkot ruler",
+      "id": "T00521"
+    },
+    {
+      "year": 1939,
+      "day": 22,
+      "month": "June",
+      "event": "Subhash Chandra Bose founded Forward Bloc within Congress after his resignation as President",
+      "id": "T00522"
+    },
+    {
+      "year": 1939,
+      "day": 1,
+      "month": "September",
+      "event": "World War II; Allies [UK, Soviet Union, USA, France] vs Axis [Germany, Italy, Japan]",
+      "id": "T00523"
+    },
+    {
+      "year": 1940,
+      "day": 13,
+      "month": "March",
+      "event": "Sardar Uddham Singh assassinated Micheal O'Dwyer as a retaliation against Jallianwala Bagh Massacre",
+      "id": "T00524"
+    },
+    {
+      "year": 1940,
+      "day": 8,
+      "month": "August",
+      "event": "The August Proposal - commonly referred to as the August Offer—was made by the British Viceroy of India, Linlithgow, during World War II. Its main aim was to secure Indian cooperation for the British war effort by promising certain constitutional reforms after the end of the war.",
+      "id": "T00525"
+    },
+    {
+      "year": 1941,
+      "day": null,
+      "month": "January",
+      "event": "Subhash Chandra Bose left culcutta went Singapore via Germany",
+      "id": "T00526"
+    },
+    {
+      "year": 1942,
+      "day": null,
+      "month": "March",
+      "event": "The Cripps Proposal put by Sir Stafford Cripps. The goal was to secure Indian support for the British war effort by making post war political concessions.",
+      "id": "T00527"
+    },
+    {
+      "year": 1942,
+      "day": null,
+      "month": "June",
+      "event": "Indian Independence League officially formed at the Bangkok Conference by Rash Behari Bose",
+      "id": "T00528"
+    },
+    {
+      "year": 1942,
+      "day": 9,
+      "month": "August",
+      "event": "Quit India Movement; Formation of Indian National Army; Revolt of 1942; MK Gandhi gave his historic call - Do or Die",
+      "id": "T00529"
+    },
+    {
+      "year": 1942,
+      "day": 11,
+      "month": "August",
+      "event": "Viceroy Lilinthgow ordered to fire on the unarmed protestors in and around Patna",
+      "id": "T00530"
+    },
+    {
+      "year": 1943,
+      "day": 11,
+      "month": "August",
+      "event": "C. D. Deshmukh became first Indian to be RBI Governor",
+      "id": "T00531"
+    },
+    {
+      "year": 1943,
+      "day": 1,
+      "month": "October",
+      "event": "Archibald Wavell became the Governor-General {Viceroy} of India",
+      "id": "T00532"
+    },
+    {
+      "year": 1943,
+      "day": 21,
+      "month": "October",
+      "event": "Subhash Chandra Bose declared formation of Azad Hind Fauz in Singapore",
+      "id": "T00533"
+    },
+    {
+      "year": 1943,
+      "day": 30,
+      "month": "December",
+      "event": "Bose's historic visit to Port Blair as the Head of the Provisional Government of Azad Hind; Subhas Chandra Bose renamed the Andman Islands as \"Shaheed Dweep\" and the Nicobar Islands as \"Swaraj Dweep\"",
+      "id": "T00534"
+    },
+    {
+      "year": 1944,
+      "day": 1,
+      "month": "July",
+      "event": "Bretton Woods Agreement (1944) was an international monetary agreement aimed at creating a stable post-World War II economic order",
+      "id": "T00535"
+    },
+    {
+      "year": 1945,
+      "day": null,
+      "month": null,
+      "event": "Invention of ENIAC- the first electronic, General-Purpose Computer",
+      "id": "T00536"
+    },
+    {
+      "year": 1945,
+      "day": 1,
+      "month": "January",
+      "event": "International Monetary Fund (IMF) established based on Bretton Woods Agreement.",
+      "id": "T00537"
+    },
+    {
+      "year": 1945,
+      "day": 8,
+      "month": "May",
+      "event": "End of WWII in Europe; Victory in Europe Day",
+      "id": "T00538"
+    },
+    {
+      "year": 1945,
+      "day": 26,
+      "month": "June",
+      "event": "Formation of United Nations",
+      "id": "T00539"
+    },
+    {
+      "year": 1945,
+      "day": 26,
+      "month": "July",
+      "event": "Clement Attlee of Labour Party became Prime Minister of the United Kingdom",
+      "id": "T00540"
+    },
+    {
+      "year": 1945,
+      "day": 6,
+      "month": "August",
+      "event": "USA dropped an uranium-based atomic bomb (Little Boy) on Hiroshima, Japan",
+      "id": "T00541"
+    },
+    {
+      "year": 1945,
+      "day": 9,
+      "month": "August",
+      "event": "USA dropped a plutonium-based atomic bomb (Fat Man) on Nagasaki, Japan",
+      "id": "T00542"
+    },
+    {
+      "year": 1945,
+      "day": 15,
+      "month": "August",
+      "event": "End of WWII in Japan; Victory in Japan Day",
+      "id": "T00543"
+    },
+    {
+      "year": 1945,
+      "day": 2,
+      "month": "September",
+      "event": "End of World War II",
+      "id": "T00544"
+    },
+    {
+      "year": 1946,
+      "day": 18,
+      "month": "February",
+      "event": "Royal Indian Navy Revolt; Sailors at HMIS Talwar in Bombay strike against British officers",
+      "id": "T00545"
+    },
+    {
+      "year": 1946,
+      "day": 24,
+      "month": "March",
+      "event": "Cabinet Mission arrived Delhi; British Cabinet led by Clement Attlee sent three member mission to delhi to negotiate terms of power transfer",
+      "id": "T00546"
+    },
+    {
+      "year": 1946,
+      "day": null,
+      "month": "July",
+      "event": "Election of Constituent Assembly of India (undivided) completed",
+      "id": "T00547"
+    },
+    {
+      "year": 1946,
+      "day": 16,
+      "month": "August",
+      "event": "Direct Action Day called by All India Muslim League led by Muhammad Ali Jinnah to demand creation of Pakistan",
+      "id": "T00548"
+    },
+    {
+      "year": 1946,
+      "day": 2,
+      "month": "September",
+      "event": "Interim Government of India formed under Cabinet Mission plan until new Constitution is ready",
+      "id": "T00549"
+    },
+    {
+      "year": 1946,
+      "day": 9,
+      "month": "December",
+      "event": "The first session of Constituent Assembly of India temporarily presided by Sachchidanand Sinha",
+      "id": "T00550"
+    },
+    {
+      "year": 1946,
+      "day": 11,
+      "month": "December",
+      "event": "Rajendra Prasad elected as permanent Chairman of Constituent Assembly",
+      "id": "T00551"
+    },
+    {
+      "year": 1947,
+      "day": 21,
+      "month": "February",
+      "event": "Lord Mountbatten becomes the Governor-General {Viceroy} of India",
+      "id": "T00552"
+    },
+    {
+      "year": 1947,
+      "day": 17,
+      "month": "April",
+      "event": "William Francis Hare becomes the last Secretary of State for India",
+      "id": "T00553"
+    },
+    {
+      "year": 1947,
+      "day": 18,
+      "month": "July",
+      "event": "Indian Independence Act 1947 passed",
+      "id": "T00554"
+    },
+    {
+      "year": 1947,
+      "day": 15,
+      "month": "August",
+      "event": "India became Independent",
+      "id": "T00555"
+    },
+    {
+      "year": 1947,
+      "day": null,
+      "month": "October",
+      "event": "First war between India & Pakistan - War of Kashmir",
+      "id": "T00556"
+    },
+    {
+      "year": 1948,
+      "day": null,
+      "month": null,
+      "event": "Employee State Insuarance Act passed to provide social security to employees in case of sickness, maternity, disability, or death due to employment injury",
+      "id": "T00557"
+    },
+    {
+      "year": 1948,
+      "day": 30,
+      "month": "January",
+      "event": "Assassination of MK Gandhi by Nathuram Godse",
+      "id": "T00558"
+    },
+    {
+      "year": 1948,
+      "day": null,
+      "month": "February",
+      "event": "India annexed Junagadh province",
+      "id": "T00559"
+    },
+    {
+      "year": 1948,
+      "day": 4,
+      "month": "February",
+      "event": "Ceylon became an independent dominion under the British Commonwealth; D.S. Senanayake became the first Prime Minister.",
+      "id": "T00560"
+    },
+    {
+      "year": 1948,
+      "day": 13,
+      "month": "September",
+      "event": "India invaded state of Hyderabad - Operation Polo",
+      "id": "T00561"
+    },
+    {
+      "year": 1948,
+      "day": 23,
+      "month": "September",
+      "event": "THE RESERVE BANK (TRANSFER TO PUBLIC OWNERSHIP) ACT, I948",
+      "id": "T00562"
+    },
+    {
+      "year": 1949,
+      "day": 1,
+      "month": "January",
+      "event": "RBI was nationalised.",
+      "id": "T00563"
+    },
+    {
+      "year": 1949,
+      "day": 10,
+      "month": "March",
+      "event": "Banking Regulation Act was enacted to increase power of RBI",
+      "id": "T00564"
+    },
+    {
+      "year": 1949,
+      "day": 1,
+      "month": "October",
+      "event": "Mao Zedong, leader of Communist Party of China established People's Republic of China",
+      "id": "T00565"
+    },
+    {
+      "year": 1949,
+      "day": 26,
+      "month": "November",
+      "event": "Constitutent Assembly ratified Constitution of India",
+      "id": "T00566"
+    },
+    {
+      "year": 1950,
+      "day": 25,
+      "month": "January",
+      "event": "Election Commission of India established",
+      "id": "T00567"
+    },
+    {
+      "year": 1950,
+      "day": 26,
+      "month": "January",
+      "event": "Indian Constitution came into effect",
+      "id": "T00568"
+    },
+    {
+      "year": 1950,
+      "day": 15,
+      "month": "March",
+      "event": "Government set up Planning Commission",
+      "id": "T00569"
+    },
+    {
+      "year": 1950,
+      "day": null,
+      "month": "October",
+      "event": "Battle of Chamdo; PLA (People’s Liberation Army) invades eastern Tibet (Chamdo)",
+      "id": "T00570"
+    },
+    {
+      "year": 1950,
+      "day": 7,
+      "month": "October",
+      "event": "Mother Teresa founded the Missionaries of Charity in Kolkata",
+      "id": "T00571"
+    },
+    {
+      "year": 1951,
+      "day": null,
+      "month": null,
+      "event": "First Five Year Plan launched",
+      "id": "T00572"
+    },
+    {
+      "year": 1952,
+      "day": null,
+      "month": "February",
+      "event": "First General Election concluded",
+      "id": "T00573"
+    },
+    {
+      "year": 1952,
+      "day": 15,
+      "month": "December",
+      "event": "Potti Sriramulu died of fasting - fighting for separate Andhra State",
+      "id": "T00574"
+    },
+    {
+      "year": 1953,
+      "day": 1,
+      "month": "October",
+      "event": "A new state Andhra was formed",
+      "id": "T00575"
+    },
+    {
+      "year": 1954,
+      "day": 2,
+      "month": "January",
+      "event": "Two civilian awards - Bharat Ratna and Padma Vibhushan were created",
+      "id": "T00576"
+    },
+    {
+      "year": 1954,
+      "day": 29,
+      "month": "April",
+      "event": "Panchsheel Agreement; Between India and China to guide peaceful coexistence - based on five principles (Panchsheel) of mutual respect and non-aggression.",
+      "id": "T00577"
+    },
+    {
+      "year": 1954,
+      "day": 11,
+      "month": "August",
+      "event": "Dadra and Nagar Haveli integrated in India",
+      "id": "T00578"
+    },
+    {
+      "year": 1955,
+      "day": null,
+      "month": null,
+      "event": "Leaders of Asian and African countries met at Bandung, Indonesia to discuss how they could continue to oppsose colonialism",
+      "id": "T00579"
+    },
+    {
+      "year": 1955,
+      "day": 1,
+      "month": "July",
+      "event": "Imperial Bank nationalised to create SBI",
+      "id": "T00580"
+    },
+    {
+      "year": 1956,
+      "day": null,
+      "month": null,
+      "event": "The state reorganisation commission submitted its report",
+      "id": "T00581"
+    },
+    {
+      "year": 1956,
+      "day": null,
+      "month": null,
+      "event": "Second Five Year Plan",
+      "id": "T00582"
+    },
+    {
+      "year": 1956,
+      "day": null,
+      "month": "April",
+      "event": "Second Industrial Policy",
+      "id": "T00583"
+    },
+    {
+      "year": 1956,
+      "day": 1,
+      "month": "September",
+      "event": "The Life Insurance Corporation of India was established, when the Parliament of India passed the Life Insurance of India Act, nationalizing the insurance industry in India.",
+      "id": "T00584"
+    },
+    {
+      "year": 1957,
+      "day": null,
+      "month": null,
+      "event": "Balwantrai Mehta Committee; Recommended 3-tier Panchayati Raj system.",
+      "id": "T00585"
+    },
+    {
+      "year": 1959,
+      "day": null,
+      "month": null,
+      "event": "Bhilai Steel Plant was set up with the help of soviet union",
+      "id": "T00586"
+    },
+    {
+      "year": 1959,
+      "day": 17,
+      "month": "March",
+      "event": "14th Dalai Lama flees Tibet, crosses into India on 31 March and is given asylum. Establishes Tibetan government-in-exile in Dharamshala, Himachal Pradesh.",
+      "id": "T00587"
+    },
+    {
+      "year": 1959,
+      "day": 2,
+      "month": "October",
+      "event": "Three-tier Panchayati Raj first implemented in Nagaur, Rajasthan",
+      "id": "T00588"
+    },
+    {
+      "year": 1961,
+      "day": 12,
+      "month": "April",
+      "event": "Yuri Gagrin of USSR became the first person in the world to travel in space",
+      "id": "T00589"
+    },
+    {
+      "year": 1961,
+      "day": 17,
+      "month": "December",
+      "event": "India invaded Goa - Operation Vijay - Liberation of Goa",
+      "id": "T00590"
+    },
+    {
+      "year": 1962,
+      "day": 20,
+      "month": "October",
+      "event": "Indo-China War; China overpowered India",
+      "id": "T00591"
+    },
+    {
+      "year": 1963,
+      "day": 1,
+      "month": "April",
+      "event": "Central Bureau of Investigation (CBI) was set up",
+      "id": "T00592"
+    },
+    {
+      "year": 1964,
+      "day": null,
+      "month": null,
+      "event": "In late 1960s GOI introduced HYV seeds to Indian farmers - Onset Green Revolution in India",
+      "id": "T00593"
+    },
+    {
+      "year": 1965,
+      "day": 5,
+      "month": "August",
+      "event": "Second India-Pakistan War",
+      "id": "T00594"
+    },
+    {
+      "year": 1965,
+      "day": 1,
+      "month": "December",
+      "event": "Border Security Force (BSF) established for a specialized border-guarding force",
+      "id": "T00595"
+    },
+    {
+      "year": 1968,
+      "day": 21,
+      "month": "September",
+      "event": "Research and Analysis Wing (RAW) was established to safeguard national interests through foreign intelligence, strategic monitoring, and covert operations.",
+      "id": "T00596"
+    },
+    {
+      "year": 1969,
+      "day": 19,
+      "month": "July",
+      "event": "The Government of India issued the Banking Companies (Acquisition and Transfer of Undertakings) Ordinance and 14 major banks operating in India were nationalised. Eg - PNB, BOB etc",
+      "id": "T00597"
+    },
+    {
+      "year": 1969,
+      "day": 15,
+      "month": "August",
+      "event": "Indian Space Research Organisation (ISRO) was established by Government of India",
+      "id": "T00598"
+    },
+    {
+      "year": 1971,
+      "day": 26,
+      "month": "March",
+      "event": "Bangladesh Liberation War",
+      "id": "T00599"
+    },
+    {
+      "year": 1973,
+      "day": null,
+      "month": null,
+      "event": "GOI launched Project Tiger",
+      "id": "T00600"
+    },
+    {
+      "year": 1973,
+      "day": 24,
+      "month": "April",
+      "event": "Kesavananda Bharati vs State of Kerala; Established Basic Structure Doctrine – Parliament can amend Constitution but not its basic structure",
+      "id": "T00601"
+    },
+    {
+      "year": 1974,
+      "day": 18,
+      "month": "May",
+      "event": "India conducted it's first successful nuclear weapon test in Pokhran - Smiling Buddha",
+      "id": "T00602"
+    },
+    {
+      "year": 1974,
+      "day": 5,
+      "month": "June",
+      "event": "Jayaprakash Narayan called for a Total Revolution (Sampoorna Kranti) against Indira Gandhi Government",
+      "id": "T00603"
+    },
+    {
+      "year": 1975,
+      "day": 16,
+      "month": "May",
+      "event": "Sikkim became a full-fledged state of the Union of India",
+      "id": "T00604"
+    },
+    {
+      "year": 1975,
+      "day": 25,
+      "month": "June",
+      "event": "President Fakhruddin Ali Ahmed, on the advice of PM Indira Gandhi, declares a State of Emergency under Article 352 due to \"internal disturbances\"",
+      "id": "T00605"
+    },
+    {
+      "year": 1976,
+      "day": null,
+      "month": null,
+      "event": "42nd Amendment enacted; Added the words “Socialist,” “Secular,” and “Integrity” to the Preamble; Added Fundamental Duties;",
+      "id": "T00606"
+    },
+    {
+      "year": 1977,
+      "day": null,
+      "month": "March",
+      "event": "Emergency officially lifted by Indira Gandhi; Lok Sabha dissolved; general elections announced.",
+      "id": "T00607"
+    },
+    {
+      "year": 1977,
+      "day": 24,
+      "month": "March",
+      "event": "Morarji Desai of Janta Party becomes the first non-Congress Prime Minister of India.",
+      "id": "T00608"
+    },
+    {
+      "year": 1979,
+      "day": null,
+      "month": null,
+      "event": "Mandal Commission appointed to identify the Socially and Educationally Backward Classes (SEBCs) in India and recommend steps for their advancement",
+      "id": "T00609"
+    },
+    {
+      "year": 1981,
+      "day": 30,
+      "month": "December",
+      "event": "First Judges Case; S.P. Gupta vs President Of India; Gave primacy to Executive in judicial appointments, i.e. the opinion of the Chief Justice of India was to be considered but was not binding",
+      "id": "T00610"
+    },
+    {
+      "year": 1983,
+      "day": null,
+      "month": null,
+      "event": "Sarkaria Commission; To examine and review the working of existing arrangements between the Union and the States, and recommend changes for better cooperative federalism.",
+      "id": "T00611"
+    },
+    {
+      "year": 1984,
+      "day": 2,
+      "month": "April",
+      "event": "Rakesh Sharma became the first Indian to travel to space",
+      "id": "T00612"
+    },
+    {
+      "year": 1984,
+      "day": 1,
+      "month": "June",
+      "event": "Operation Blue Star",
+      "id": "T00613"
+    },
+    {
+      "year": 1991,
+      "day": 21,
+      "month": "June",
+      "event": "P. V. Narasimha Rao was sworn in as the Prime Minister of India",
+      "id": "T00614"
+    },
+    {
+      "year": 1992,
+      "day": 16,
+      "month": "November",
+      "event": "Mandal Commission Case; Indra Sawhney vs Union of India; Upheld 50% cap on total reservation, 27% OBC reservation, introduced creamy layer concept.",
+      "id": "T00615"
+    },
+    {
+      "year": 1993,
+      "day": 24,
+      "month": "April",
+      "event": "National Panchayati Raj Day; 73rd Constitutional Amendment Act 1992 for local self government (panchayati raj) became effective",
+      "id": "T00616"
+    },
+    {
+      "year": 1993,
+      "day": 6,
+      "month": "October",
+      "event": "Second Judges Case; Established Collegium System – primacy to CJI in judicial appointments.",
+      "id": "T00617"
+    },
+    {
+      "year": 1993,
+      "day": 12,
+      "month": "October",
+      "event": "National Human Rights Commission (NHRC) established",
+      "id": "T00618"
+    },
+    {
+      "year": 1995,
+      "day": 1,
+      "month": "January",
+      "event": "World Trade Organisation (WTO) established",
+      "id": "T00619"
+    },
+    {
+      "year": 1998,
+      "day": 28,
+      "month": "October",
+      "event": "Third Judges Case; Expanded Collegium to CJI + 4 senior-most judges.",
+      "id": "T00620"
+    },
+    {
+      "year": 1998,
+      "day": 20,
+      "month": "November",
+      "event": "International Space Station was launched",
+      "id": "T00621"
+    },
+    {
+      "year": 1999,
+      "day": 3,
+      "month": "May",
+      "event": "Third India-Pakistan War - Kargil War - Operation Vijay",
+      "id": "T00622"
+    },
+    {
+      "year": 2000,
+      "day": 15,
+      "month": "November",
+      "event": "A new state Jharkhand was carved out of Bihar on the day Birsa Munda was born",
+      "id": "T00623"
+    },
+    {
+      "year": 2004,
+      "day": null,
+      "month": "May",
+      "event": "Ministry of Panchayati Raj was created",
+      "id": "T00624"
+    },
+    {
+      "year": 2005,
+      "day": 12,
+      "month": "October",
+      "event": "The Right to Information Act passed",
+      "id": "T00625"
+    },
+    {
+      "year": 2006,
+      "day": null,
+      "month": null,
+      "event": "In Bihar JEEViKA was launched in 2006 under the Bihar Rural Livelihoods Promotion Society (BRLPS)",
+      "id": "T00626"
+    },
+    {
+      "year": 2006,
+      "day": null,
+      "month": null,
+      "event": "Bihar became the first state to take the lead by implementing 50% reservation for women (both in PRIs and urban local bodies)",
+      "id": "T00627"
+    },
+    {
+      "year": 2008,
+      "day": 28,
+      "month": "May",
+      "event": "Nepal became federal democratic republic",
+      "id": "T00628"
+    },
+    {
+      "year": 2010,
+      "day": 1,
+      "month": "April",
+      "event": "Right to Education included in Fundamental Rights",
+      "id": "T00629"
+    },
+    {
+      "year": 2015,
+      "day": 1,
+      "month": "January",
+      "event": "Niti Ayog was setup by GOI, replacing Planning Commission",
+      "id": "T00630"
+    },
+    {
+      "year": 2016,
+      "day": 8,
+      "month": "November",
+      "event": "GOI announced demonetisation of 500 and 1000 notes. New 500 and 2000 notes were issued.",
+      "id": "T00631"
+    },
+    {
+      "year": 2017,
+      "day": 1,
+      "month": "July",
+      "event": "GOI introduced Goods and Services Tax (GST)",
+      "id": "T00632"
+    },
+    {
+      "year": 2019,
+      "day": null,
+      "month": "December",
+      "event": "First case of Coronavirus disease registered in Wuhan, China that caused pandemic worldwide",
+      "id": "T00633"
+    },
+    {
+      "year": 2024,
+      "day": 1,
+      "month": "July",
+      "event": "Bhartiya Nyay Samhita (BNS) came into effect repealing Indian Penal Code (IPC)",
+      "id": "T00634"
+    },
+    {
+      "year": 2024,
+      "day": 1,
+      "month": "August",
+      "event": "State of Punjab v. Davinder Singh; The Court held that states are constitutionally allowed to sub-classify SC and ST categories for welfare/reservations under Articles 15(4) and 16(4)",
+      "id": "T00635"
+    }
+  ]
+}

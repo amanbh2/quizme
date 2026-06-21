@@ -20,11 +20,14 @@ quizme/
 │
 ├── res/                        # Web App Assets (Icons, favicons)
 ├── data/                       # Generated Subject JSONs (BiharEconomy.json, etc.)
+│   └── timeline/               # Isolated Timeline folder
+│       └── timeline.json       # Unified BCE and CE timeline database
 │
 ├── control/                    # Developer CLI Toolchain (Python)
 │   ├── generateQsJSON.py       # Excel -> JSON conversion script
 │   ├── generateQsCSV.py        # CSV -> JSON conversion script
-│   ├── manifest.json           # Registry of data JSONs
+│   ├── generateTimelineJSON.py # Excel -> Timeline JSON converter script
+│   ├── manifest.json           # Registry of data JSONs (excludes timeline.json)
 │   ├── qid_counter.json        # Counter tracking QIDs
 │   ├── tag_rules.json          # Keyword -> Tag mappings for autotagging
 │   └── symlinks/               # Subject spreadsheets and CSV databases (symlinked here)
@@ -78,6 +81,7 @@ Your CSV files currently map to the following JSON counts (from [database.txt](f
 | **General Knowledge** ([GeneralKnowledge.json](file:///c:/Users/amanb/Dev/quizme/data/GeneralKnowledge.json)) | **35** | General keywords | `[ ]` Not Started |
 | **Current Affairs 2025** ([Recent2025.json](file:///c:/Users/amanb/Dev/quizme/data/Recent2025.json)) | **373** | `currentAffairs` | `[ ]` Not Started |
 | **Current Affairs 2026** ([Recent2026.json](file:///c:/Users/amanb/Dev/quizme/data/Recent2026.json)) | **128** | `currentAffairs` | `[ ]` Not Started |
+| **History Timeline** ([timeline/timeline.json](file:///c:/Users/amanb/Dev/quizme/data/timeline/timeline.json)) | **635 (events)** | — | `[x]` Complete (Timeline Engine) |
 | **Total Database** | **2231** | — | — |
 
 ---
@@ -93,6 +97,8 @@ Your CSV files currently map to the following JSON counts (from [database.txt](f
 - [ ] Split checklist index files from detailed study notes (use `notes/` subfolders for modularity).
 - [x] Create the `reports-surveys/` directory structure, fact-check the Census notes, and establish modular notes for India and Bihar Census 2011.
 - [x] Create comprehensive Geography [topics.md](file:///c:/Users/amanb/Dev/quizme/knowledge-base/geography/topics.md) checklist (14 sections, ~249 topics, with NCERT chapter-level references).
+- [x] Create the History Timeline tab featuring BCE/CE toggle, milestone quick jump bar, compressed layout, and offline support.
+- [x] Isolate timeline database inside `data/timeline/` and update Python generator script.
 
 ---
 
@@ -133,5 +139,9 @@ These are the primary books owned/preferred by the user. When generating referen
   - Provide **chapter-level references** wherever possible (e.g., `RS Sharma Ch.5`, `Laxmikanth Ch.5`, `Spectrum Ch.12`). Chapter numbers may vary across editions — the user will verify against book contents manually.
   - The goal is to give the user a **direct pointer** to what to read for each topic.
 * **Proactive Tag Rule Alignment:** When new topics, subjects, or checklist sections are added, edited, or restructured in the knowledge base, Gemini will proactively check and update the corresponding auto-tagging keys and keyword rules in `control/tag_rules.json` to keep them perfectly aligned.
+* **History Timeline Management Protocol:** When updating the historical events spreadsheet and compiling it:
+  - Run `python control/generateTimelineJSON.py` to compile the sheets.
+  - Do NOT list `timeline.json` in `control/manifest.json`. It must remain isolated inside the `data/timeline/` folder so it does not interfere with the question databases.
+  - The Service Worker pre-caches this file as a static shell asset via `STATIC_ASSETS` in `sw.js`. Bump the cache version (`CACHE_VERSION`) when changes occur.
 
 

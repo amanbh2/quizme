@@ -549,6 +549,10 @@ function switchTab(tab) {
     if (tab === 'dashboard') renderDashboard();
     if (tab === 'stats') renderStatsTab();
     if (tab === 'info')  renderInfoTab();
+    if (tab === 'timeline') {
+        if (!timelineData) initTimeline();
+        else renderTimeline();
+    }
     
     // Auto-start quiz if navigating to the tab and no questions are loaded yet
     if (tab === 'quiz' && questions.length === 0 && Object.keys(subjectQuestions).length > 0) {
@@ -1280,6 +1284,330 @@ function renderInfoTab() {
 }
 
 // ═══════════════════════════════════════════════════════════════
+//  TIMELINE ENGINE
+// ═══════════════════════════════════════════════════════════════
+
+let timelineData     = null;   // { bce: [], ce: [] }
+let tlCurrentEra     = 'bce';  // 'bce' | 'ce'
+let tlLoadedCount    = 0;      // how many events rendered so far
+const TL_CHUNK_SIZE  = 100;    // events per "Load More"
+let tlObserver       = null;   // IntersectionObserver for scroll-reveal
+
+const BCE_JUMPS = [
+    { label: 'Prehistory', year: -115000 },
+    { label: 'Indus Valley', year: -3000 },
+    { label: 'Vedic Era', year: -1500 },
+    { label: 'Mahajanapadas', year: -600 },
+    { label: 'Mauryan', year: -322 },
+    { label: 'Post-Mauryan', year: -185 }
+];
+
+const CE_JUMPS = [
+    { label: 'Ancient (0–600)', year: 0 },
+    { label: 'Early Med (600–1200)', year: 600 },
+    { label: 'Sultanate (1200–1526)', year: 1200 },
+    { label: 'Mughals (1526–1707)', year: 1526 },
+    { label: 'Modern (1707–1947)', year: 1707 },
+    { label: 'Independent (1947+)', year: 1947 }
+];
+
+function jumpToTimelineYear(targetYear) {
+    if (!timelineData) return;
+    const events = timelineData[tlCurrentEra] || [];
+    let targetIdx = events.findIndex(e => e.year >= targetYear);
+    if (targetIdx === -1) {
+        targetIdx = events.length - 1;
+    }
+    if (targetIdx === -1) return;
+
+    if (targetIdx >= tlLoadedCount) {
+        const container = document.getElementById('timeline-container');
+        if (container) {
+            const targetLoadLimit = Math.min(targetIdx + 20, events.length);
+            renderTimelineChunk(events, tlLoadedCount, targetLoadLimit - tlLoadedCount, container);
+            updateLoadMoreButton(events);
+            updateEventCount(events);
+        }
+    }
+
+    const targetEvent = events[targetIdx];
+    if (!targetEvent) return;
+
+    const element = document.querySelector(`.tl-item[data-id="${targetEvent.id}"]`);
+    if (element) {
+        const card = element.querySelector('.tl-card');
+        if (card) {
+            card.classList.add('tl-card-highlight');
+            setTimeout(() => card.classList.remove('tl-card-highlight'), 2000);
+        }
+        element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+}
+
+function renderJumpBar() {
+    const bar = document.getElementById('timeline-jump-bar');
+    if (!bar) return;
+    bar.innerHTML = '';
+    const jumps = tlCurrentEra === 'bce' ? BCE_JUMPS : CE_JUMPS;
+    jumps.forEach(j => {
+        const btn = document.createElement('button');
+        btn.className = 'tl-jump-btn';
+        btn.textContent = j.label;
+        btn.addEventListener('click', () => jumpToTimelineYear(j.year));
+        bar.appendChild(btn);
+    });
+}
+
+function formatYearLabel(event) {
+    const y = event.year;
+    if (y < 0) {
+        const absY = Math.abs(y);
+        // Format large numbers with commas
+        const yearStr = absY >= 1000 ? absY.toLocaleString() : absY;
+        if (event.yearEnd != null && event.yearEnd !== y) {
+            const absEnd = Math.abs(event.yearEnd);
+            const endStr = absEnd >= 1000 ? absEnd.toLocaleString() : absEnd;
+            return `${endStr} – ${yearStr} BCE`;
+        }
+        return `${yearStr} BCE`;
+    }
+    return `${y} CE`;
+}
+
+function formatDateSub(event) {
+    const parts = [];
+    if (event.day) parts.push(event.day);
+    if (event.month) parts.push(event.month);
+    if (parts.length === 0) return '';
+    return parts.join(' ');
+}
+
+function computeYearsAgo(event) {
+    const now = new Date().getFullYear();
+    const y = event.year;
+    if (y < 0) {
+        return `~${(now + Math.abs(y)).toLocaleString()} years ago`;
+    }
+    const diff = now - y;
+    if (diff <= 0) return 'This year';
+    return `${diff} year${diff > 1 ? 's' : ''} ago`;
+}
+
+function getEraForYear(year) {
+    if (year < 0) return 'prehistoric';
+    if (year < 600) return 'ancient';
+    if (year < 1526) return 'medieval';
+    if (year <= 1947) return 'modern';
+    return 'postIndependence';
+}
+
+const ERA_LABELS = {
+    prehistoric: 'Pre-Historic & Ancient',
+    ancient: 'Ancient India (0–600 CE)',
+    medieval: 'Medieval India (600–1526)',
+    modern: 'Modern India (1526–1947)',
+    postIndependence: 'Post Independence (1947+)'
+};
+
+function createTimelineItem(event, index) {
+    const side = index % 2 === 0 ? 'tl-left' : 'tl-right';
+    const div = document.createElement('div');
+    div.className = `tl-item ${side}`;
+    div.dataset.id = event.id;
+
+    const yearLabel = formatYearLabel(event);
+    const dateSub = formatDateSub(event);
+    const ago = computeYearsAgo(event);
+
+    div.innerHTML = `
+        <div class="tl-card">
+            <div class="tl-year">${yearLabel}</div>
+            ${dateSub ? `<div class="tl-date-sub">${dateSub}</div>` : ''}
+            <p class="tl-event">${event.event}</p>
+            <button class="tl-expand-btn">Show more</button>
+            <span class="tl-ago">${ago}</span>
+        </div>
+    `;
+
+    return div;
+}
+
+function setupExpandButtons(container) {
+    // After DOM paint, check which events overflow and show expand buttons
+    requestAnimationFrame(() => {
+        container.querySelectorAll('.tl-item:not([data-expand-checked])').forEach(item => {
+            item.dataset.expandChecked = '1';
+            const eventEl = item.querySelector('.tl-event');
+            const btn = item.querySelector('.tl-expand-btn');
+            if (!eventEl || !btn) return;
+
+            // Check if text is truncated
+            if (eventEl.scrollHeight > eventEl.clientHeight + 2) {
+                btn.style.display = 'inline-block';
+                btn.addEventListener('click', () => {
+                    const expanded = eventEl.classList.toggle('tl-expanded');
+                    btn.textContent = expanded ? 'Show less' : 'Show more';
+                });
+            }
+        });
+    });
+}
+
+function renderTimelineChunk(events, startIdx, count, container) {
+    const end = Math.min(startIdx + count, events.length);
+    let lastEra = null;
+    let itemIndex = startIdx;
+
+    // Determine the last era of already-rendered items
+    if (startIdx > 0 && startIdx < events.length) {
+        lastEra = getEraForYear(events[startIdx - 1].year);
+    }
+
+    for (let i = startIdx; i < end; i++) {
+        const event = events[i];
+        const era = getEraForYear(event.year);
+
+        // Insert era divider if era changed (only for CE)
+        if (tlCurrentEra === 'ce' && era !== lastEra && lastEra !== null) {
+            const divider = document.createElement('div');
+            divider.className = 'tl-era-divider';
+            divider.innerHTML = `<span>${ERA_LABELS[era] || era}</span>`;
+            container.appendChild(divider);
+        }
+        lastEra = era;
+
+        const item = createTimelineItem(event, itemIndex);
+        container.appendChild(item);
+
+        // Observe for scroll-reveal
+        if (tlObserver) tlObserver.observe(item);
+        itemIndex++;
+    }
+
+    tlLoadedCount = end;
+    setupExpandButtons(container);
+}
+
+function updateLoadMoreButton(events) {
+    const wrap = document.getElementById('tl-load-more-wrap');
+    if (!wrap) return;
+    if (tlLoadedCount < events.length) {
+        wrap.style.display = 'block';
+        const remaining = events.length - tlLoadedCount;
+        const btn = document.getElementById('tl-load-more-btn');
+        if (btn) {
+            btn.innerHTML = `<i class="fa-solid fa-angles-down"></i> Load More (${remaining} remaining)`;
+        }
+    } else {
+        wrap.style.display = 'none';
+    }
+}
+
+function updateEventCount(events) {
+    const el = document.getElementById('tl-event-count');
+    if (!el) return;
+    const showing = Math.min(tlLoadedCount, events.length);
+    el.textContent = showing < events.length
+        ? `${showing} of ${events.length} events`
+        : `${events.length} events`;
+}
+
+function setSpineColors(era) {
+    const container = document.getElementById('timeline-container');
+    if (!container) return;
+    if (era === 'bce') {
+        container.style.setProperty('--tl-spine-start', '#c2956b');
+        container.style.setProperty('--tl-spine-mid', '#b8860b');
+        container.style.setProperty('--tl-spine-end', '#8b6c42');
+    } else {
+        container.style.setProperty('--tl-spine-start', '#b8860b');
+        container.style.setProperty('--tl-spine-mid', '#c0392b');
+        container.style.setProperty('--tl-spine-end', '#2a7c6f');
+    }
+}
+
+function renderTimeline(era) {
+    if (!timelineData) return;
+
+    tlCurrentEra = era || tlCurrentEra;
+    tlLoadedCount = 0;
+
+    const container = document.getElementById('timeline-container');
+    if (!container) return;
+    container.innerHTML = '';
+
+    // Update toggle buttons
+    document.querySelectorAll('.tl-toggle-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.era === tlCurrentEra);
+    });
+
+    setSpineColors(tlCurrentEra);
+    renderJumpBar();
+
+    const events = timelineData[tlCurrentEra] || [];
+    if (!events.length) {
+        container.innerHTML = '<div class="tl-loading">No events found for this era.</div>';
+        updateLoadMoreButton(events);
+        updateEventCount(events);
+        return;
+    }
+
+    // For BCE (small dataset), load all. For CE, load in chunks.
+    const initialLoad = tlCurrentEra === 'bce' ? events.length : TL_CHUNK_SIZE;
+    renderTimelineChunk(events, 0, initialLoad, container);
+    updateLoadMoreButton(events);
+    updateEventCount(events);
+}
+
+function loadMoreTimeline() {
+    if (!timelineData) return;
+    const events = timelineData[tlCurrentEra] || [];
+    const container = document.getElementById('timeline-container');
+    if (!container || tlLoadedCount >= events.length) return;
+
+    renderTimelineChunk(events, tlLoadedCount, TL_CHUNK_SIZE, container);
+    updateLoadMoreButton(events);
+    updateEventCount(events);
+}
+
+async function initTimeline() {
+    const container = document.getElementById('timeline-container');
+    if (!container) return;
+
+    // Show loading
+    container.innerHTML = '<div class="tl-loading"><i class="fa-solid fa-spinner fa-spin"></i>Loading timeline data...</div>';
+
+    // Setup IntersectionObserver for scroll-reveal
+    if ('IntersectionObserver' in window) {
+        tlObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('tl-visible');
+                    tlObserver.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+    }
+
+    try {
+        const res = await fetch('data/timeline/timeline.json');
+        if (!res.ok) throw new Error('Failed to fetch timeline.json');
+        timelineData = await res.json();
+        renderTimeline(tlCurrentEra);
+    } catch (err) {
+        console.error('Timeline load error:', err);
+        container.innerHTML = `
+            <div class="tl-loading">
+                <i class="fa-solid fa-circle-exclamation" style="color: var(--wrong)"></i>
+                Failed to load timeline data.
+                <br><button class="go-quiz-btn" onclick="initTimeline()" style="margin-top: 12px; display: inline-flex; align-items: center; gap: 6px;">
+                    <i class="fa-solid fa-rotate-right"></i> Retry
+                </button>
+            </div>`;
+    }
+}
+
+// ═══════════════════════════════════════════════════════════════
 //  DOM READY
 // ═══════════════════════════════════════════════════════════════
 
@@ -1525,6 +1853,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // ── Stats reset ───────────────────────────────────────────
     document.getElementById('sp-reset-btn')?.addEventListener('click', doReset);
+
+    // ── Timeline toggle & Load More ──────────────────────────
+    document.querySelectorAll('.tl-toggle-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            if (btn.dataset.era === tlCurrentEra) return;
+            renderTimeline(btn.dataset.era);
+            // Scroll to top of timeline
+            document.getElementById('tab-timeline')?.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    });
+    document.getElementById('tl-load-more-btn')?.addEventListener('click', loadMoreTimeline);
 
     // ── Copy flagged ──────────────────────────────────────────
     document.getElementById('sp-copy-flagged')?.addEventListener('click', () => {

@@ -5,7 +5,7 @@ DATA_FOLDER = os.path.join(os.path.dirname(__file__), '..', 'data')
 MANIFEST_PATH = os.path.join(os.path.dirname(__file__), 'manifest.json')
 
 def list_json_files(folder):
-    return [f for f in os.listdir(folder) if f.endswith('.json') and os.path.isfile(os.path.join(folder, f))]
+    return [f for f in os.listdir(folder) if f.endswith('.json') and f != 'timeline.json' and os.path.isfile(os.path.join(folder, f))]
 
 def create_manifest():
     # Delete the original manifest file if it exists

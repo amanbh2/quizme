@@ -11,6 +11,7 @@
     <link rel="icon" type="image/svg+xml" href="res/favicon.svg" />
     <link rel="shortcut icon" href="res/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="res/apple-touch-icon.png" />
+    <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-title" content="QuizMe" />
     <link rel="manifest" href="manifest.json">
@@ -44,6 +45,9 @@
         <button class="nav-item" data-tab="stats" data-tooltip="Stats">
             <i class="fa-solid fa-chart-bar"></i><span>Stats</span>
             <span class="nav-badge" id="stats-nav-badge" style="display:none"></span>
+        </button>
+        <button class="nav-item" data-tab="timeline" data-tooltip="Timeline">
+            <i class="fa-solid fa-timeline"></i><span>Timeline</span>
         </button>
         <button class="nav-item" data-tab="info" data-tooltip="Info">
             <i class="fa-solid fa-circle-info"></i><span>Info</span>
@@ -293,6 +297,28 @@
         </div>
     </div>
 
+    <!-- ── TAB: TIMELINE ───────────────────────────────── -->
+    <div id="tab-timeline" class="tab-page">
+        <div class="timeline-hero">
+            <h1><i class="fa-solid fa-timeline"></i> History Timeline</h1>
+            <p>Chronological events from prehistory to modern India</p>
+            <div class="timeline-controls">
+                <div class="timeline-toggle">
+                    <button class="tl-toggle-btn active" data-era="bce">BCE</button>
+                    <button class="tl-toggle-btn" data-era="ce">CE</button>
+                </div>
+                <span class="tl-event-count" id="tl-event-count"></span>
+            </div>
+            <div class="timeline-jump-bar" id="timeline-jump-bar"></div>
+        </div>
+        <div id="timeline-container" class="timeline-container"></div>
+        <div class="tl-load-more-wrap" id="tl-load-more-wrap" style="display:none">
+            <button id="tl-load-more-btn" class="tl-load-more-btn">
+                <i class="fa-solid fa-angles-down"></i> Load More Events
+            </button>
+        </div>
+    </div>
+
     <!-- ── TAB: INFO ──────────────────────────────────── -->
     <div id="tab-info" class="tab-page">
         <div id="info-content"></div>
@@ -439,6 +465,9 @@
         <i class="fa-solid fa-chart-bar"></i><span>Stats</span>
         <span class="nav-badge" id="stats-bottom-badge" style="display:none"></span>
     </button>
+    <button class="bottom-nav-item" data-tab="timeline">
+        <i class="fa-solid fa-timeline"></i><span>Timeline</span>
+    </button>
     <button class="bottom-nav-item" data-tab="info">
         <i class="fa-solid fa-circle-info"></i><span>Info</span>
     </button>
@@ -462,7 +491,9 @@
 <script>
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-            navigator.serviceWorker.register('/quizme/sw.js')
+            const isLocal = location.hostname === 'localhost' || location.hostname === '127.0.0.1';
+            const swPath = isLocal ? 'sw.js' : '/quizme/sw.js';
+            navigator.serviceWorker.register(swPath)
                 .then(r => console.log('SW registered:', r.scope))
                 .catch(e => console.log('SW failed:', e));
         });

@@ -108,7 +108,7 @@ def auto_tag_question(text, info, tag_rules):
 # ── MANIFEST ───────────────────────────────────────────────────
 def create_manifest():
     files = [f for f in os.listdir(DATA_DIR)
-             if f.endswith('.json') and os.path.isfile(os.path.join(DATA_DIR, f))]
+             if f.endswith('.json') and f != 'timeline.json' and os.path.isfile(os.path.join(DATA_DIR, f))]
     files.sort()
     if os.path.exists(MANIFEST_PATH):
         os.remove(MANIFEST_PATH)
