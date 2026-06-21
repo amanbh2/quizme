@@ -2152,7 +2152,7 @@ function parseMarkdownChecklist(text) {
                     }
                     
                     if (!topicDesc) {
-                        const detailIdx = tableHeaders.findIndex(h => h.includes('tells') || h.includes('detail') || h.includes('figure') || h.includes('fact') || h.includes('ranking') || h.includes('context'));
+                        const detailIdx = tableHeaders.findIndex(h => h.includes('tells') || h.includes('detail') || h.includes('description') || h.includes('desc') || h.includes('figure') || h.includes('fact') || h.includes('ranking') || h.includes('context'));
                         if (detailIdx !== -1 && detailIdx !== topicIdx) {
                             topicDesc = cells[detailIdx] || '';
                         }

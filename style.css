@@ -2443,6 +2443,7 @@ select#subject-select {
     align-items: center;
     justify-content: center;
     align-self: center;
+    gap: 5px;
 }
 .prep-topic-practice-btn:hover {
     color: var(--accent);
