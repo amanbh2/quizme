@@ -2013,9 +2013,6 @@ const PREP_SUBJECTS = [
     { id: 'bihar-specific', title: 'Bihar Specific', icon: '🦁', path: '', sheet: 'BiharSpecific.json' },
     { id: 'bihar-economy', title: 'Bihar Economy', icon: '🌾', path: '', sheet: 'BiharEconomy.json' },
     { id: 'union-economy', title: 'Union Economy', icon: '📈', path: '', sheet: 'UnionEconomy.json' },
-    { id: 'science', title: 'Science & Tech', icon: '🧪', path: '', sheet: 'Science.json' },
-    { id: 'recent-2025', title: 'Current Affairs 2025', icon: '📅', path: '', sheet: 'Recent2025.json' },
-    { id: 'recent-2026', title: 'Current Affairs 2026', icon: '⚡', path: '', sheet: 'Recent2026.json' },
     { id: 'general-knowledge', title: 'General Knowledge', icon: '🧠', path: '', sheet: 'GeneralKnowledge.json' },
     { id: 'bihar-geography', title: 'Bihar Geography', icon: '🏞️', path: '', sheet: 'BiharGeography.json' },
     { id: 'bihar-polity', title: 'Bihar Polity', icon: '🏛️', path: '', sheet: 'BiharPolity.json' }

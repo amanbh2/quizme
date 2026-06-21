@@ -45,8 +45,6 @@ quizme/
     ├── polity/                 # Indian Constitution & Governance
     │   └── topics.md           # Polity topic checklist & tracker
     ├── economy/                # Economics core, Budget & Economic Survey
-    ├── science-tech/           # General Science & Technology notes
-    ├── current-affairs/        # Monthly & Subject-wise current affairs notes
     └── reports-surveys/        # Reports, Surveys, and Censuses (India & Bihar)
         ├── README.md           # Reports Index README
         ├── census/             # Census checklists and notes
@@ -71,7 +69,6 @@ Your CSV files currently map to the following JSON counts (from [database.txt](f
 | **Modern History** ([HistoryModern.json](file:///c:/Users/amanb/Dev/quizme/data/HistoryModern.json)) | **530** | `modernHistory` | `[ ]` Not Started |
 | **Bihar Specific** ([BiharSpecific.json](file:///c:/Users/amanb/Dev/quizme/data/BiharSpecific.json)) | **287** | `biharHistory`, `biharCulture` | `[ ]` Not Started |
 | **Polity** ([Polity.json](file:///c:/Users/amanb/Dev/quizme/data/Polity.json)) | **217** | `constitution`, `parliament`, etc. | `[ ]` Not Started |
-| **Science & Tech** ([Science.json](file:///c:/Users/amanb/Dev/quizme/data/Science.json)) | **160** | `science`, `technology` | `[ ]` Not Started |
 | **Ancient History** ([HistoryAncient.json](file:///c:/Users/amanb/Dev/quizme/data/HistoryAncient.json)) | **158** | `ancientHistory` | `[ ]` Not Started |
 | **Medieval History** ([HistoryMedieval.json](file:///c:/Users/amanb/Dev/quizme/data/HistoryMedieval.json)) | **117** | `medievalHistory` | `[ ]` Not Started |
 | **Geography** ([Geography.json](file:///c:/Users/amanb/Dev/quizme/data/Geography.json)) | **91** | `rivers`, `mountains`, `climate` | `[x]` Complete |
@@ -79,10 +76,8 @@ Your CSV files currently map to the following JSON counts (from [database.txt](f
 | **Bihar Economy** ([BiharEconomy.json](file:///c:/Users/amanb/Dev/quizme/data/BiharEconomy.json)) | **43** | `biharStats` (or explicit economy tags) | `[x]` Complete |
 | **Census** ([Census.json](file:///c:/Users/amanb/Dev/quizme/data/Census.json)) | **38** | `census2011` | `[x]` Complete |
 | **General Knowledge** ([GeneralKnowledge.json](file:///c:/Users/amanb/Dev/quizme/data/GeneralKnowledge.json)) | **35** | General keywords | `[ ]` Not Started |
-| **Current Affairs 2025** ([Recent2025.json](file:///c:/Users/amanb/Dev/quizme/data/Recent2025.json)) | **373** | `currentAffairs` | `[ ]` Not Started |
-| **Current Affairs 2026** ([Recent2026.json](file:///c:/Users/amanb/Dev/quizme/data/Recent2026.json)) | **128** | `currentAffairs` | `[ ]` Not Started |
 | **History Timeline** ([timeline/timeline.json](file:///c:/Users/amanb/Dev/quizme/data/timeline/timeline.json)) | **635 (events)** | — | `[x]` Complete (Timeline Engine) |
-| **Total Database** | **2231** | — | — |
+| **Total Database** | **1570** | — | — |
 
 ---
 

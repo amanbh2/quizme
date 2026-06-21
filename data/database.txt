@@ -1,14 +1,11 @@
 Generated: 07 Mar 2026 22:42:40
 
 Question counts per sheet:
-  Recent2025: 373
-  Recent2026: 128
   HistoryModern: 530
   HistoryAncient: 158
   HistoryMedieval: 117
   Geography: 91
   Polity: 217
-  Science: 160
   GeneralKnowledge: 35
   BiharSpecific: 287
   EconomyTheory: 3
