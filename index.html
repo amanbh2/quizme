@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="light">
+<html lang="en" data-theme="light" data-color-theme="scholar">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -27,28 +27,33 @@
 ════════════════════════════════════════════════════════ -->
 <aside id="sidebar">
     <div class="sidebar-brand">
-        <span class="brand-quiz">Quiz</span><span class="brand-me">Me</span>
+        <div class="brand-text">
+            <span class="brand-quiz">Quiz</span><span class="brand-me">Me</span>
+        </div>
+        <button id="sidebar-collapse-btn" class="sidebar-icon-btn collapse-btn" aria-label="Toggle Sidebar" data-tooltip="Toggle Sidebar">
+            <i class="fa-solid fa-bars"></i>
+        </button>
     </div>
     <nav class="sidebar-nav">
-        <button class="nav-item active" data-tab="dashboard">
+        <button class="nav-item active" data-tab="dashboard" data-tooltip="Dashboard">
             <i class="fa-solid fa-gauge-high"></i><span>Dashboard</span>
         </button>
-        <button class="nav-item" data-tab="quiz">
+        <button class="nav-item" data-tab="quiz" data-tooltip="Quiz">
             <i class="fa-solid fa-circle-question"></i><span>Quiz</span>
         </button>
-        <button class="nav-item" data-tab="stats">
+        <button class="nav-item" data-tab="stats" data-tooltip="Stats">
             <i class="fa-solid fa-chart-bar"></i><span>Stats</span>
             <span class="nav-badge" id="stats-nav-badge" style="display:none"></span>
         </button>
-        <button class="nav-item" data-tab="info">
+        <button class="nav-item" data-tab="info" data-tooltip="Info">
             <i class="fa-solid fa-circle-info"></i><span>Info</span>
+        </button>
+        <button class="nav-item" data-tab="settings" data-tooltip="Settings">
+            <i class="fa-solid fa-gears"></i><span>Settings</span>
         </button>
     </nav>
     <div class="sidebar-bottom">
-        <button class="sidebar-icon-btn" id="settings-btn">
-            <i class="fa-solid fa-gears"></i><span>Settings</span>
-        </button>
-        <button class="sidebar-icon-btn" id="theme-toggle">
+        <button class="sidebar-icon-btn" id="theme-toggle" data-tooltip="Toggle Theme">
             <i class="fa-solid fa-moon" id="theme-icon"></i>
             <span id="theme-label">Light</span>
         </button>
@@ -64,9 +69,7 @@
      MOBILE HEADER
 ════════════════════════════════════════════════════════ -->
 <header id="mobile-header">
-    <button class="header-icon-btn" id="settings-btn-mobile">
-        <i class="fa-solid fa-gears"></i>
-    </button>
+    <div class="header-spacer"></div>
     <div class="mobile-brand">
         <span class="brand-quiz">Quiz</span><span class="brand-me">Me</span>
     </div>
@@ -295,6 +298,131 @@
         <div id="info-content"></div>
     </div>
 
+    <!-- ── TAB: SETTINGS ──────────────────────────────── -->
+    <div id="tab-settings" class="tab-page">
+        <div class="settings-content-wrapper">
+            <div class="settings-hero">
+                <h1>Settings</h1>
+                <p>Customize your learning experience</p>
+            </div>
+
+            <!-- Appearance & Themes -->
+            <div class="settings-section-page">
+                <h3 class="settings-section-title"><i class="fa-solid fa-palette"></i> Appearance & Themes</h3>
+                
+                <div class="theme-mode-row">
+                    <span>Dark Mode</span>
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="settings-dark-mode-toggle">
+                        <span class="toggle-slider"></span>
+                    </label>
+                </div>
+
+                <p class="settings-subsection-label">PRESET THEMES</p>
+                <div class="theme-presets-grid">
+                    <button class="theme-preset-btn" data-preset="indigo" title="Deep Indigo & Lavender">
+                        <div class="swatch swatch-bg" style="background:#f4f6f9">
+                            <div class="swatch-accent" style="background:#5d5fef"></div>
+                        </div>
+                    </button>
+                    <button class="theme-preset-btn active" data-preset="scholar" title="Warm Scholar">
+                        <div class="swatch swatch-bg" style="background:#f5f2eb">
+                            <div class="swatch-accent" style="background:#2a7c6f"></div>
+                        </div>
+                    </button>
+                    <button class="theme-preset-btn" data-preset="pink" title="Modern Pink">
+                        <div class="swatch swatch-bg" style="background:#fdf2f8">
+                            <div class="swatch-accent" style="background:#db2777"></div>
+                        </div>
+                    </button>
+                    <button class="theme-preset-btn" data-preset="amber" title="Sunset Amber">
+                        <div class="swatch swatch-bg" style="background:#fffbeb">
+                            <div class="swatch-accent" style="background:#d97706"></div>
+                        </div>
+                    </button>
+                </div>
+
+                <div class="custom-theme-wrap">
+                    <p class="settings-subsection-label">CUSTOM COLORS</p>
+                    <div class="color-picker-grid">
+                        <label class="color-picker-item">
+                            <input type="color" id="custom-color-accent" value="#5d5fef">
+                            <span>Accent</span>
+                        </label>
+                        <label class="color-picker-item">
+                            <input type="color" id="custom-color-bg" value="#f4f6f9">
+                            <span>Background</span>
+                        </label>
+                        <label class="color-picker-item">
+                            <input type="color" id="custom-color-text" value="#111827">
+                            <span>Text</span>
+                        </label>
+                    </div>
+                    <button id="apply-custom-theme-btn" class="settings-save-btn" style="margin-top:10px">Apply Custom Theme</button>
+                </div>
+            </div>
+
+            <!-- Quiz Configuration -->
+            <div class="settings-section-page">
+                <h3 class="settings-section-title"><i class="fa-solid fa-sliders"></i> Quiz Configuration</h3>
+                <p class="settings-subsection-label">QUIZ MODE</p>
+                <div class="mode-btn-group">
+                    <button class="mode-btn active" id="mode-normal">Normal</button>
+                    <button class="mode-btn" id="mode-weak">Weak</button>
+                    <button class="mode-btn" id="mode-unseen">Unseen</button>
+                    <button class="mode-btn" id="mode-srs">SRS</button>
+                    <button class="mode-btn" id="mode-revision">Revision</button>
+                </div>
+                <div id="mode-desc" class="mode-desc" style="margin-bottom:16px">Weighted random — weak questions appear more often</div>
+
+                <p class="settings-subsection-label">EXAM SIMULATION</p>
+                <label class="toggle-row">
+                    <span class="toggle-label">Negative marking (−⅓)</span>
+                    <div class="toggle-switch">
+                        <input type="checkbox" id="neg-marking-toggle">
+                        <span class="toggle-slider"></span>
+                    </div>
+                </label>
+                <label class="toggle-row" style="margin-top:10px">
+                    <span class="toggle-label">Sound effects</span>
+                    <div class="toggle-switch">
+                        <input type="checkbox" id="sound-toggle" checked>
+                        <span class="toggle-slider"></span>
+                    </div>
+                </label>
+            </div>
+
+            <!-- Exam Setup -->
+            <div class="settings-section-page">
+                <h3 class="settings-section-title"><i class="fa-solid fa-calendar-check"></i> Exam Setup</h3>
+                <p class="settings-subsection-label">TARGET EXAM & DATE</p>
+                <input type="text" id="exam-name-input" placeholder="Exam name (e.g. BPSC AEDO)" class="settings-input">
+                <input type="date" id="exam-date-input" class="settings-input">
+                <div class="exam-save-row">
+                    <button id="exam-date-save" class="settings-save-btn">Save</button>
+                    <span class="save-confirm" id="exam-save-confirm"></span>
+                </div>
+            </div>
+
+            <!-- Sync & Backup -->
+            <div class="settings-section-page">
+                <h3 class="settings-section-title"><i class="fa-solid fa-cloud-arrow-up"></i> Sync & Backup</h3>
+                <div class="sync-status-row">
+                    <span class="sync-dot" id="sync-dot"></span>
+                    <span class="sync-status-badge" id="sync-status">Not connected</span>
+                </div>
+                <input type="password" id="gist-token" placeholder="GitHub Personal Access Token" class="settings-input" autocomplete="off">
+                <input type="text" id="gist-id-input" placeholder="Gist ID (auto-created if blank)" class="settings-input">
+                <div class="sync-btn-row">
+                    <button id="gist-connect-btn" class="settings-save-btn">Connect</button>
+                    <button id="gist-disconnect-btn" class="settings-ghost-btn">Disconnect</button>
+                </div>
+                <p class="settings-hint">Need help? See <button class="link-btn" id="go-to-info-sync">Sync Setup guide</button> in Info tab.</p>
+            </div>
+
+        </div>
+    </div>
+
 </main>
 
 <!-- ═══════════════════════════════════════════════════════
@@ -314,6 +442,9 @@
     <button class="bottom-nav-item" data-tab="info">
         <i class="fa-solid fa-circle-info"></i><span>Info</span>
     </button>
+    <button class="bottom-nav-item" data-tab="settings">
+        <i class="fa-solid fa-gears"></i><span>Settings</span>
+    </button>
 </nav>
 
 <!-- ═══════════════════════════════════════════════════════
@@ -325,74 +456,7 @@
     <span>Aman Bhaskar</span>
 </footer>
 
-<!-- ═══════════════════════════════════════════════════════
-     SETTINGS OVERLAY
-════════════════════════════════════════════════════════ -->
-<div class="overlay" id="overlay"></div>
-<div id="settings-panel">
-    <div class="settings-header">
-        <h2><i class="fa-solid fa-gears"></i> Settings</h2>
-        <button class="close-settings" id="close-settings">&times;</button>
-    </div>
-    <div class="settings-content">
-
-        <div class="settings-section">
-            <p class="settings-section-label">QUIZ MODE</p>
-            <div class="mode-btn-group">
-                <button class="mode-btn active" id="mode-normal">Normal</button>
-                <button class="mode-btn" id="mode-weak">Weak</button>
-                <button class="mode-btn" id="mode-unseen">Unseen</button>
-                <button class="mode-btn" id="mode-srs">SRS</button>
-                <button class="mode-btn" id="mode-revision">Revision</button>
-            </div>
-            <div id="mode-desc" class="mode-desc">Weighted random — weak questions appear more often</div>
-        </div>
-
-        <div class="settings-section">
-            <p class="settings-section-label">EXAM SIMULATION</p>
-            <label class="toggle-row">
-                <span class="toggle-label">Negative marking (−⅓)</span>
-                <div class="toggle-switch">
-                    <input type="checkbox" id="neg-marking-toggle">
-                    <span class="toggle-slider"></span>
-                </div>
-            </label>
-            <label class="toggle-row" style="margin-top:10px">
-                <span class="toggle-label">Sound effects</span>
-                <div class="toggle-switch">
-                    <input type="checkbox" id="sound-toggle" checked>
-                    <span class="toggle-slider"></span>
-                </div>
-            </label>
-        </div>
-
-        <div class="settings-section">
-            <p class="settings-section-label">EXAM DATE</p>
-            <input type="text" id="exam-name-input" placeholder="Exam name (e.g. BPSC AEDO)" class="settings-input">
-            <input type="date" id="exam-date-input" class="settings-input">
-            <div class="exam-save-row">
-                <button id="exam-date-save" class="settings-save-btn">Save</button>
-                <span class="save-confirm" id="exam-save-confirm"></span>
-            </div>
-        </div>
-
-        <div class="settings-section">
-            <p class="settings-section-label">SYNC & BACKUP</p>
-            <div class="sync-status-row">
-                <span class="sync-dot" id="sync-dot"></span>
-                <span class="sync-status-badge" id="sync-status">Not connected</span>
-            </div>
-            <input type="password" id="gist-token" placeholder="GitHub Personal Access Token" class="settings-input" autocomplete="off">
-            <input type="text" id="gist-id-input" placeholder="Gist ID (auto-created if blank)" class="settings-input">
-            <div class="sync-btn-row">
-                <button id="gist-connect-btn" class="settings-save-btn">Connect</button>
-                <button id="gist-disconnect-btn" class="settings-ghost-btn">Disconnect</button>
-            </div>
-            <p class="settings-hint">Need help? See <button class="link-btn" id="go-to-info-sync">Sync Setup guide</button> in Info tab.</p>
-        </div>
-
-    </div>
-</div>
+<!-- Removed overlay settings panel -->
 
 <script src="script.js"></script>
 <script>

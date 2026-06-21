@@ -1076,122 +1076,207 @@ function renderQIDHealth() {
 //  INFO TAB RENDERER
 // ═══════════════════════════════════════════════════════════════
 
+function parseMarkdown(md) {
+    if (!md) return '';
+    const lines = md.replace(/\r\n/g, '\n').split('\n');
+    let html = [];
+    let inList = false;
+    let inBlockquote = false;
+    let inParagraph = false;
+
+    // Helper to close paragraphs
+    function closeParagraph() {
+        if (inParagraph) {
+            html.push('</p>');
+            inParagraph = false;
+        }
+    }
+
+    // Helper to close list
+    function closeList() {
+        if (inList) {
+            html.push('</ul>');
+            inList = false;
+        }
+    }
+
+    // Helper to close blockquote
+    function closeBlockquote() {
+        if (inBlockquote) {
+            html.push('</blockquote>');
+            inBlockquote = false;
+        }
+    }
+
+    for (let i = 0; i < lines.length; i++) {
+        let line = lines[i].trim();
+
+        // Check if raw HTML block (like table, span, etc.)
+        if (/^<\/?(table|thead|tbody|tr|td|th|span|div|i|footer|pre)/i.test(line)) {
+            closeParagraph();
+            closeList();
+            closeBlockquote();
+            html.push(line);
+            continue;
+        }
+
+        // Empty line
+        if (!line) {
+            closeParagraph();
+            closeList();
+            closeBlockquote();
+            continue;
+        }
+
+        // Horizontal Rule
+        if (line === '---') {
+            closeParagraph();
+            closeList();
+            closeBlockquote();
+            html.push('<hr>');
+            continue;
+        }
+
+        // Headings
+        if (line.startsWith('# ')) {
+            closeParagraph();
+            closeList();
+            closeBlockquote();
+            html.push(`<h1>${line.slice(2)}</h1>`);
+            continue;
+        }
+        if (line.startsWith('## ')) {
+            closeParagraph();
+            closeList();
+            closeBlockquote();
+            html.push(`<h2>${line.slice(3)}</h2>`);
+            continue;
+        }
+        if (line.startsWith('### ')) {
+            closeParagraph();
+            closeList();
+            closeBlockquote();
+            html.push(`<h3>${line.slice(4)}</h3>`);
+            continue;
+        }
+
+        // Blockquotes
+        if (line.startsWith('> ')) {
+            closeParagraph();
+            closeList();
+            if (!inBlockquote) {
+                html.push('<blockquote>');
+                inBlockquote = true;
+            }
+            let content = line.slice(2);
+            content = content.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+            content = content.replace(/\*(.*?)\*/g, '<em>$1</em>');
+            content = content.replace(/`(.*?)`/g, '<code>$1</code>');
+            content = content.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>');
+            html.push(`<p>${content}</p>`);
+            continue;
+        }
+
+        // List items
+        if (line.startsWith('- ')) {
+            closeParagraph();
+            closeBlockquote();
+            if (!inList) {
+                html.push('<ul>');
+                inList = true;
+            }
+            let content = line.slice(2);
+            content = content.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+            content = content.replace(/\*(.*?)\*/g, '<em>$1</em>');
+            content = content.replace(/`(.*?)`/g, '<code>$1</code>');
+            content = content.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>');
+            html.push(`<li>${content}</li>`);
+            continue;
+        }
+
+        // Standard text line
+        closeList();
+        closeBlockquote();
+        
+        line = line.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+        line = line.replace(/\*(.*?)\*/g, '<em>$1</em>');
+        line = line.replace(/`(.*?)`/g, '<code>$1</code>');
+        line = line.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>');
+
+        if (!inParagraph) {
+            html.push('<p>');
+            inParagraph = true;
+            html.push(line);
+        } else {
+            html.push('<br>' + line);
+        }
+    }
+
+    closeParagraph();
+    closeList();
+    closeBlockquote();
+
+    return html.join('\n');
+}
+
 function renderInfoTab() {
     const el = document.getElementById('info-content');
     if (!el || el.dataset.rendered) return;
     el.dataset.rendered = 'true';
 
-    const sections = [
-        { id:'how-to',   icon:'fa-circle-question', title:'How to Answer' },
-        { id:'modes',    icon:'fa-layer-group',      title:'Quiz Modes' },
-        { id:'stats',    icon:'fa-chart-bar',        title:'Your Stats' },
-        { id:'sync',     icon:'fa-brands fa-github', title:'Sync & Backup' },
-        { id:'version',  icon:'fa-circle-info',      title:'Version' },
-    ];
+    // Show loading indicator
+    el.innerHTML = '<p class="sp-empty" style="text-align:center;padding:40px 0;"><i class="fa-solid fa-spinner fa-spin"></i> Loading user guide...</p>';
 
-    const toc = `<div class="info-toc">
-        ${sections.map(s => `<button class="info-toc-btn" data-target="${s.id}">${s.title}</button>`).join('')}
-    </div>`;
+    fetch('README.md')
+        .then(res => {
+            if (!res.ok) throw new Error('Failed to load README.md');
+            return res.text();
+        })
+        .then(text => {
+            const htmlContent = parseMarkdown(text);
+            el.innerHTML = htmlContent;
 
-    el.innerHTML = toc + `
-    <div class="info-hero">
-        <span class="version-badge">QuizMe v5.1</span>
-        <h1>Welcome to QuizMe</h1>
-        <p>A personal MCQ revision tool built for BPSC exam preparation. Track accuracy, identify weak areas, build real mastery — question by question.</p>
-    </div>
+            // Build dynamic Table of Contents from h2 elements
+            const headings = el.querySelectorAll('h2');
+            if (headings.length > 0) {
+                const toc = document.createElement('div');
+                toc.className = 'info-toc';
 
-    <div class="info-section" id="how-to">
-        <h2><i class="fa-solid fa-circle-question"></i> How to Answer Questions</h2>
-        <p>Tap any option to answer. After a wrong answer you'll see an explanation (if available) and a link to ask Perplexity for more context. Correct answers auto-advance after 2.2 seconds (1.5s in Revision mode).</p>
-        <h3>Keyboard Shortcuts</h3>
-        <table class="kb-table">
-            <tr><th>Key</th><th>Action</th></tr>
-            <tr><td><span class="kb-key">A</span></td><td>Select option A</td></tr>
-            <tr><td><span class="kb-key">B</span></td><td>Select option B</td></tr>
-            <tr><td><span class="kb-key">C</span></td><td>Select option C</td></tr>
-            <tr><td><span class="kb-key">D</span></td><td>Select option D</td></tr>
-            <tr><td><span class="kb-key">R</span></td><td>Start new session</td></tr>
-        </table>
-        <h3>Flagging Questions</h3>
-        <p>Tap the ⚠ icon on any question to flag it for review. Manage flagged questions in the Stats tab.</p>
-    </div>
+                headings.forEach(heading => {
+                    if (!heading.id) {
+                        heading.id = heading.textContent
+                            .toLowerCase()
+                            .replace(/[^\w\s-]/g, '')
+                            .trim()
+                            .replace(/\s+/g, '-');
+                    }
 
-    <div class="info-section" id="modes">
-        <h2><i class="fa-solid fa-layer-group"></i> Quiz Modes</h2>
-        <h3>Normal</h3>
-        <p>Weighted random — weak questions appear more often than strong ones. Best for daily practice.</p>
-        <h3>Weak Mode</h3>
-        <p>Only questions with accuracy below 60%, or never attempted. Target your problem areas.</p>
-        <h3>Unseen Mode</h3>
-        <p>Only questions you've never answered. Good for first-pass coverage of a new subject.</p>
-        <h3>Revision Mode</h3>
-        <p>Only mastered questions (4+ consecutive correct). Rapid 1.5s auto-advance. Stats not recorded — pure revision.</p>
-        <p>Switch modes via <strong>⚙ Settings</strong>.</p>
-    </div>
+                    const btn = document.createElement('button');
+                    btn.className = 'info-toc-btn';
+                    // Strip emojis or non-word chars from the start for button label
+                    btn.textContent = heading.textContent.replace(/^[^\w\s]+/g, '').trim();
+                    btn.addEventListener('click', () => {
+                        heading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    });
+                    toc.appendChild(btn);
+                });
 
-    <div class="info-section" id="stats">
-        <h2><i class="fa-solid fa-chart-bar"></i> Understanding Your Stats</h2>
-        <h3>Mastery Levels</h3>
-        <ul>
-            <li><strong>Mastered</strong> — 4+ consecutive correct</li>
-            <li><strong>Familiar</strong> — 2–3 consecutive correct</li>
-            <li><strong>Learning</strong> — attempted, not on a streak</li>
-            <li><strong>Not seen</strong> — never attempted</li>
-        </ul>
-        <h3>Accuracy Badge on Card</h3>
-        <ul>
-            <li><strong>New</strong> (teal) — never attempted</li>
-            <li><strong>%</strong> (green) — strong ≥75%</li>
-            <li><strong>%</strong> (amber) — average 50–74%</li>
-            <li><strong>%</strong> (red) — weak &lt;50%</li>
-            <li><strong>⏰</strong> — mastered but not seen in 30+ days</li>
-        </ul>
-        <h3>Subject Heatmap</h3>
-        <p>Tap any heatmap tile or subject bar to instantly practice that subject in Weak mode.</p>
-        <h3>Stats not recorded when…</h3>
-        <ul>
-            <li>You are in <strong>All Subjects</strong> mode — switch to a specific subject for tracked stats</li>
-            <li>You are in <strong>Revision mode</strong> — revision is stats-free by design</li>
-        </ul>
-        <h3>Exam Readiness Score</h3>
-        <p>A combined 0–100% score based on accuracy across subjects and mastery level distribution. Target 75% before the exam.</p>
-    </div>
-
-    <div class="info-section" id="sync">
-        <h2><i class="fa-brands fa-github"></i> Sync & Backup</h2>
-        <p>Stats are saved locally on this device. Connect a free GitHub Gist to back them up and sync across devices. Each user uses their own Gist — your data stays private.</p>
-        <div class="info-step">
-            <div class="info-step-num">Step 1 — Create a GitHub token</div>
-            <p>Go to <code>github.com/settings/tokens</code> → Generate new token (classic) → select only the <code>gist</code> scope → copy the token.</p>
-        </div>
-        <div class="info-step">
-            <div class="info-step-num">Step 2 — Connect in QuizMe</div>
-            <p>Open <strong>⚙ Settings</strong> → paste your token → leave Gist ID blank → click <strong>Connect</strong>. A private Gist is auto-created.</p>
-        </div>
-        <div class="info-step">
-            <div class="info-step-num">Step 3 — Second device</div>
-            <p>On the new device, paste the same token + the Gist ID (from the Gist URL) → Connect. Stats sync automatically. Syncs are batched every 30 seconds to save bandwidth.</p>
-        </div>
-    </div>
-
-    <div class="info-section" id="version">
-        <h2><i class="fa-solid fa-circle-info"></i> Version & Credits</h2>
-        <span class="version-badge">QuizMe v5.1</span>
-        <p style="margin-top:12px">Built by <strong>Aman Bhaskar</strong> for BPSC exam preparation.</p>
-        <p>
-            <a href="https://github.com/amanbh2" target="_blank"><i class="fa-brands fa-github"></i> github.com/amanbh2</a>
-            &nbsp;·&nbsp;
-            <a href="https://www.linkedin.com/in/amanbh2/" target="_blank"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
-        </p>
-    </div>`;
-
-    // TOC scroll
-    el.querySelectorAll('.info-toc-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-            const target = document.getElementById(btn.dataset.target);
-            if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                el.insertBefore(toc, el.firstChild);
+            }
+        })
+        .catch(err => {
+            console.error(err);
+            el.dataset.rendered = ''; // Allow retry
+            el.innerHTML = `
+                <div class="stats-empty-wrap" style="padding: 40px 0; text-align: center;">
+                    <i class="fa-solid fa-circle-exclamation stats-empty-icon" style="color: var(--wrong); font-size: 32px; margin-bottom: 12px;"></i>
+                    <h3>Failed to load Info Guide</h3>
+                    <p style="color: var(--text-muted); margin-bottom: 16px;">Make sure README.md exists and is readable.</p>
+                    <button class="go-quiz-btn" onclick="renderInfoTab()" style="margin: 0 auto; display: inline-flex; align-items: center; gap: 8px;">
+                        <i class="fa-solid fa-rotate-right"></i> Retry
+                    </button>
+                </div>`;
         });
-    });
 }
 
 // ═══════════════════════════════════════════════════════════════
@@ -1200,60 +1285,149 @@ function renderInfoTab() {
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    // ── Theme ─────────────────────────────────────────────────
-    function applyTheme(t) {
+    // ── Theme Engine ──────────────────────────────────────────
+    const presetColors = {
+        light: {
+            indigo: { accent: '#5d5fef', bg: '#f4f6f9', text: '#111827' },
+            scholar: { accent: '#2a7c6f', bg: '#f5f2eb', text: '#1a1f2e' },
+            pink: { accent: '#db2777', bg: '#fdf2f8', text: '#4c1d95' },
+            amber: { accent: '#d97706', bg: '#fffbeb', text: '#451a03' }
+        },
+        dark: {
+            indigo: { accent: '#818cf8', bg: '#0f111a', text: '#f3f4f6' },
+            scholar: { accent: '#3db89e', bg: '#141820', text: '#e8e4da' },
+            pink: { accent: '#f472b6', bg: '#1c0f18', text: '#fce7f3' },
+            amber: { accent: '#fbbf24', bg: '#1c1917', text: '#fef3c7' }
+        }
+    };
+
+    function applyThemeMode(isDark) {
+        const t = isDark ? 'dark' : 'light';
         document.documentElement.setAttribute('data-theme', t);
-        localStorage.setItem('quizme-theme', t);
-        const isDark = t === 'dark';
+        localStorage.setItem('quizme-theme-mode', t);
         const iconCls = isDark ? 'fa-solid fa-sun' : 'fa-solid fa-moon';
-        ['theme-icon','theme-icon-mobile'].forEach(id => {
+        ['theme-icon', 'theme-icon-mobile'].forEach(id => {
             const e = document.getElementById(id); if (e) e.className = iconCls;
         });
         const tl = document.getElementById('theme-label'); if (tl) tl.textContent = isDark ? 'Dark' : 'Light';
-    }
-    applyTheme(document.documentElement.getAttribute('data-theme') || 'light');
-    document.getElementById('theme-toggle')?.addEventListener('click', () =>
-        applyTheme(document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark'));
-    document.getElementById('theme-toggle-mobile')?.addEventListener('click', () =>
-        applyTheme(document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark'));
+        
+        const dmToggle = document.getElementById('settings-dark-mode-toggle');
+        if (dmToggle) dmToggle.checked = isDark;
 
-    // ── Navigation ────────────────────────────────────────────
+        const activePreset = localStorage.getItem('quizme-color-theme') || 'scholar';
+        if (activePreset !== 'custom') {
+            const colors = presetColors[t][activePreset] || presetColors[t]['scholar'];
+            const ca = document.getElementById('custom-color-accent'); if (ca) ca.value = colors.accent;
+            const cb = document.getElementById('custom-color-bg'); if (cb) cb.value = colors.bg;
+            const ct = document.getElementById('custom-color-text'); if (ct) ct.value = colors.text;
+        }
+    }
+    
+    function applyColorTheme(preset, customColors = null) {
+        if (preset === 'custom' && customColors) {
+            document.documentElement.removeAttribute('data-color-theme');
+            document.documentElement.style.setProperty('--accent', customColors.accent);
+            document.documentElement.style.setProperty('--bg', customColors.bg);
+            document.documentElement.style.setProperty('--text', customColors.text);
+            localStorage.setItem('quizme-color-theme', 'custom');
+            localStorage.setItem('quizme-custom-colors', JSON.stringify(customColors));
+        } else {
+            document.documentElement.style.removeProperty('--accent');
+            document.documentElement.style.removeProperty('--bg');
+            document.documentElement.style.removeProperty('--text');
+            document.documentElement.setAttribute('data-color-theme', preset);
+            localStorage.setItem('quizme-color-theme', preset);
+            
+            // Update preset active state
+            document.querySelectorAll('.theme-preset-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.preset === preset);
+            });
+            
+            // Sync custom pickers to reflect this preset
+            const mode = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+            const colors = presetColors[mode][preset] || presetColors[mode]['scholar'];
+            const ca = document.getElementById('custom-color-accent'); if (ca) ca.value = colors.accent;
+            const cb = document.getElementById('custom-color-bg'); if (cb) cb.value = colors.bg;
+            const ct = document.getElementById('custom-color-text'); if (ct) ct.value = colors.text;
+        }
+    }
+
+    // Initialize themes
+    const savedMode = localStorage.getItem('quizme-theme-mode') || 'light';
+    applyThemeMode(savedMode === 'dark');
+    
+    const savedColorTheme = localStorage.getItem('quizme-color-theme') || 'scholar';
+    if (savedColorTheme === 'custom') {
+        const custom = safeParseJSON('quizme-custom-colors', {accent: '#2a7c6f', bg: '#f5f2eb', text: '#1a1f2e'});
+        applyColorTheme('custom', custom);
+        const ca = document.getElementById('custom-color-accent'); if (ca) ca.value = custom.accent;
+        const cb = document.getElementById('custom-color-bg'); if (cb) cb.value = custom.bg;
+        const ct = document.getElementById('custom-color-text'); if (ct) ct.value = custom.text;
+    } else {
+        applyColorTheme(savedColorTheme);
+    }
+
+    // Theme Event Listeners
+    document.getElementById('theme-toggle')?.addEventListener('click', () => {
+        applyThemeMode(document.documentElement.getAttribute('data-theme') !== 'dark');
+    });
+    document.getElementById('theme-toggle-mobile')?.addEventListener('click', () => {
+        applyThemeMode(document.documentElement.getAttribute('data-theme') !== 'dark');
+    });
+    document.getElementById('settings-dark-mode-toggle')?.addEventListener('change', (e) => {
+        applyThemeMode(e.target.checked);
+    });
+
+    document.querySelectorAll('.theme-preset-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            applyColorTheme(btn.dataset.preset);
+        });
+    });
+
+    document.getElementById('apply-custom-theme-btn')?.addEventListener('click', () => {
+        const accent = document.getElementById('custom-color-accent').value;
+        const bg = document.getElementById('custom-color-bg').value;
+        const text = document.getElementById('custom-color-text').value;
+        applyColorTheme('custom', { accent, bg, text });
+        document.querySelectorAll('.theme-preset-btn').forEach(btn => btn.classList.remove('active'));
+        
+        const b = document.getElementById('apply-custom-theme-btn');
+        b.textContent = 'Applied ✓';
+        setTimeout(() => b.textContent = 'Apply Custom Theme', 2000);
+    });
+
+    // ── Navigation & Sidebar ───────────────────────────────────
     document.querySelectorAll('.nav-item, .bottom-nav-item').forEach(btn =>
         btn.addEventListener('click', () => switchTab(btn.dataset.tab)));
     switchTab(activeTab);
 
-    // ── Settings panel ────────────────────────────────────────
-    function openSettings() {
-        document.getElementById('settings-panel').classList.add('show');
-        document.getElementById('overlay').classList.add('show');
-        // Populate fields
-        const ti = document.getElementById('gist-token');
-        const gi = document.getElementById('gist-id-input');
-        if (ti) ti.value = gistConfig.token  || '';
-        if (gi) gi.value = gistConfig.gistId || '';
-        const ni = document.getElementById('exam-name-input');
-        const di = document.getElementById('exam-date-input');
-        if (ni) ni.value = examConfig.name || '';
-        if (di) di.value = examConfig.date || '';
-        // Mode buttons
-        document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
-        document.getElementById('mode-' + quizMode)?.classList.add('active');
-        updateModeDesc();
-        // Toggles
-        const nm = document.getElementById('neg-marking-toggle'); if (nm) nm.checked = negMarking;
-        const st = document.getElementById('sound-toggle');       if (st) st.checked = soundEnabled;
-        setSyncUI(gistConfig.token && gistConfig.gistId ? 'ok' : 'idle');
+    const sidebar = document.getElementById('sidebar');
+    const mainContent = document.getElementById('main-content');
+    const collapseBtn = document.getElementById('sidebar-collapse-btn');
+    
+    if (localStorage.getItem('quizme-sidebar-collapsed') === 'true') {
+        sidebar?.classList.add('collapsed');
+        mainContent?.classList.add('collapsed');
     }
-    function closeSettings() {
-        document.getElementById('settings-panel').classList.remove('show');
-        document.getElementById('overlay').classList.remove('show');
-    }
-    document.getElementById('settings-btn')?.addEventListener('click', openSettings);
-    document.getElementById('settings-btn-mobile')?.addEventListener('click', openSettings);
-    document.getElementById('close-settings')?.addEventListener('click', closeSettings);
-    document.getElementById('overlay')?.addEventListener('click', closeSettings);
+    
+    collapseBtn?.addEventListener('click', () => {
+        sidebar?.classList.toggle('collapsed');
+        mainContent?.classList.toggle('collapsed');
+        localStorage.setItem('quizme-sidebar-collapsed', sidebar?.classList.contains('collapsed'));
+    });
 
-    // ── Mode buttons ──────────────────────────────────────────
+    // ── Settings Initialization ───────────────────────────────
+    // Populate fields
+    const ti = document.getElementById('gist-token');
+    const gi = document.getElementById('gist-id-input');
+    if (ti) ti.value = gistConfig.token  || '';
+    if (gi) gi.value = gistConfig.gistId || '';
+    const ni = document.getElementById('exam-name-input');
+    const di = document.getElementById('exam-date-input');
+    if (ni) ni.value = examConfig.name || '';
+    if (di) di.value = examConfig.date || '';
+    
+    // Mode buttons
     const modeDescs = {
         normal:   'Weighted random — weak questions appear more often',
         weak:     'Only questions below 60% accuracy or never attempted',
@@ -1265,6 +1439,17 @@ document.addEventListener('DOMContentLoaded', () => {
         const el = document.getElementById('mode-desc');
         if (el) el.textContent = modeDescs[quizMode] || '';
     }
+
+    document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById('mode-' + quizMode)?.classList.add('active');
+    updateModeDesc();
+    
+    // Toggles
+    const nm = document.getElementById('neg-marking-toggle'); if (nm) nm.checked = negMarking;
+    const st = document.getElementById('sound-toggle');       if (st) st.checked = soundEnabled;
+    setSyncUI(gistConfig.token && gistConfig.gistId ? 'ok' : 'idle');
+
+    // ── Mode buttons ──────────────────────────────────────────
     ['normal','weak','unseen','srs','revision'].forEach(mode => {
         document.getElementById('mode-' + mode)?.addEventListener('click', () => {
             quizMode = mode;
@@ -1272,7 +1457,6 @@ document.addEventListener('DOMContentLoaded', () => {
             document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
             document.getElementById('mode-' + mode)?.classList.add('active');
             updateModeDesc();
-            closeSettings();
             loadQuestions();
         });
     });
@@ -1335,7 +1519,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // ── Go to sync in Info ────────────────────────────────────
     document.getElementById('go-to-info-sync')?.addEventListener('click', () => {
-        closeSettings(); switchTab('info');
+        switchTab('info');
         setTimeout(() => document.getElementById('sync')?.scrollIntoView({ behavior:'smooth' }), 150);
     });
 

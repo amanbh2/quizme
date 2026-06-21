@@ -1,5 +1,5 @@
 // ── QuizMe Service Worker ─────────────────────────────────────
-const CACHE_VERSION = 'quizme-v5.2';
+const CACHE_VERSION = 'quizme-v5.3';
 const BASE          = '/quizme';
 
 const STATIC_ASSETS = [
@@ -7,6 +7,7 @@ const STATIC_ASSETS = [
   `${BASE}/index.html`,
   `${BASE}/style.css`,
   `${BASE}/script.js`,
+  `${BASE}/README.md`,
   `${BASE}/manifest.json`,
   `${BASE}/res/favicon.ico`,
   `${BASE}/res/icon-192.png`,
